@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16901",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16901,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-wolfpack-mitten-in-manhattan-16901"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Wolfpack - Mitten in Manhattan",
+          "teaserId": "film_1131342",
+          "teaserName": "The Wolfpack - Mitten in Manhattan | The Wolfpack - Mitten in Manhattan",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Wolfpack - Mitten in Manhattan",
+        "id": 1131342,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1131342/300x0/the-wolfpack-mitten-in-manhattan.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1131342/",
+            "filename": "the-wolfpack-mitten-in-manhattan"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1131342/600x0/the-wolfpack-mitten-in-manhattan.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1131342/",
+            "filename": "the-wolfpack-mitten-in-manhattan"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1131342/1200x0/the-wolfpack-mitten-in-manhattan.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1131342/",
+            "filename": "the-wolfpack-mitten-in-manhattan"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1131342/300x0/the-wolfpack-mitten-in-manhattan.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1131342/",
+            "filename": "the-wolfpack-mitten-in-manhattan"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1131342/600x0/the-wolfpack-mitten-in-manhattan.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1131342/",
+            "filename": "the-wolfpack-mitten-in-manhattan"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1131342/1200x0/the-wolfpack-mitten-in-manhattan.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1131342/",
+            "filename": "the-wolfpack-mitten-in-manhattan"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-wolfpack-mitten-in-manhattan",
+        "subheadline": "The Wolfpack - Mitten in Manhattan",
+        "text": "Staffel  | Mi. 26.02.2020, 22:55 Uhr",
+        "type": "film",
+        "url": "/filme/the-wolfpack-mitten-in-manhattan-16901",
+        "videoId": 1131342
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

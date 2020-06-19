@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17483",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17483,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/james-bond-007-feuerball-17483"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Feuerball (1965) - James Bond 007",
+          "teaserId": "film_1635362",
+          "teaserName": "Feuerball (1965) - James Bond 007 | James Bond 007 - Feuerball",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "James Bond 007 - Feuerball",
+        "id": 1635362,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635362/300x0/james-bond-007-feuerball.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635362/",
+            "filename": "james-bond-007-feuerball"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635362/600x0/james-bond-007-feuerball.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635362/",
+            "filename": "james-bond-007-feuerball"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635362/1200x0/james-bond-007-feuerball.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635362/",
+            "filename": "james-bond-007-feuerball"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635362/300x0/james-bond-007-feuerball.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635362/",
+            "filename": "james-bond-007-feuerball"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635362/600x0/james-bond-007-feuerball.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635362/",
+            "filename": "james-bond-007-feuerball"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635362/1200x0/james-bond-007-feuerball.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635362/",
+            "filename": "james-bond-007-feuerball"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "feuerball-james-bond-007",
+        "subheadline": "James Bond 007 - Feuerball",
+        "text": "Staffel  | EXKLUSIV",
+        "type": "film",
+        "url": "/filme/james-bond-007-feuerball-17483",
+        "videoId": 1635362
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

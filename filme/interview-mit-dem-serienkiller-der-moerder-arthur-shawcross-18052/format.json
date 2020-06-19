@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 18052,
+  "additionalMeta": {
+    "canonical": "/filme/interview-mit-dem-serienkiller-der-moerder-arthur-shawcross-18052",
+    "url": "/filme/interview-mit-dem-serienkiller-der-moerder-arthur-shawcross-18052"
+  },
+  "ads": {
+    "station": "crime",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Interview mit dem Serienkiller",
+      "url": "/filme/interview-mit-dem-serienkiller-der-moerder-arthur-shawcross-18052"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18052,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Interview mit dem Serienkiller 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Interview mit dem Serienkiller - Der Mörder Arthur Shawcross, TVNOW, VOD, Stream, Video, Doku, Dokumentation, True Crime, Serienkiller, Crime, Mörder",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Interview mit dem Serienkiller im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Interview mit dem Serienkiller 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 2054945,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/2054945",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18052"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_cnrtlcrime",
+      "video": "dvrsowf_ten_cnrtlcrime",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/crime_now/formate/crime_format/home",
+      "levels": [
+        "tv_now_de",
+        "crime_now",
+        "formate",
+        "crime_format",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "True Crime"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Interview mit dem Serienkiller - Der Mörder Arthur Shawcross",
+    "text": "Arthur Shawcross wurde in dreizehn Fällen er des Mordes überführt. Darunter Morde an zwei Kindern. Die anderen elf Opfer waren Prostituierte. Seine mörderischen Taten waren von kannibalistischen Handlungen und brutalen Vergewaltigungen begleitet. Die packende Dokumentation besteht aus Interviews mit Arthur Shawcross, die mit ihm im Gefängnis im Staat New York geführt wurden.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/interview-mit-dem-serienkiller-der-moerder-arthur-shawcross-18052",
+        "@type": "Movie",
+        "description": "Arthur Shawcross wurde in dreizehn Fällen er des Mordes überführt. Darunter Morde an zwei Kindern. Die anderen elf Opfer waren Prostituierte. Seine mörderischen Taten waren von kannibalistischen Handlungen und brutalen Vergewaltigungen begleitet. Die packende Dokumentation besteht aus Interviews mit Arthur Shawcross, die mit ihm im Gefängnis im Staat New York geführt wurden.",
+        "duration": "PT44M29S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/2054945/950x0/interview-mit-dem-serienkiller-der-moerder-arthur-shawcross.jpg",
+        "name": "Interview mit dem Serienkiller",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/interview-mit-dem-serienkiller-der-moerder-arthur-shawcross-18052",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-05-15T21:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=interview-mit-dem-serienkiller-der-moerder-arthur-shawcross-18052",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=interview-mit-dem-serienkiller-der-moerder-arthur-shawcross-18052",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/interview-mit-dem-serienkiller-der-moerder-arthur-shawcross-18052",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Arthur Shawcross wurde in dreizehn Fällen er des Mordes überführt. Darunter Morde an zwei Kindern. Die anderen elf Opfer waren Prostituierte. Seine mörderischen Taten waren von kannibalistischen Handlungen und brutalen Vergewaltigungen begleitet. Die packende Dokumentation besteht aus Interviews mit Arthur Shawcross, die mit ihm im Gefängnis im Staat New York geführt wurden.",
+          "duration": "PT44M29S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/interview-mit-dem-serienkiller-der-moerder-arthur-shawcross-18052",
+          "name": "Interview mit dem Serienkiller",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2054945/950x0/interview-mit-dem-serienkiller-der-moerder-arthur-shawcross.jpg",
+          "uploadDate": "2020-05-15T21:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Interview mit dem Serienkiller im Online Stream | TVNOW",
+        "headline": "Interview mit dem Serienkiller im Online Stream | TVNOW",
+        "description": "Interview mit dem Serienkiller und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/interview-mit-dem-serienkiller-der-moerder-arthur-shawcross-18052",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/2054945/950x0/interview-mit-dem-serienkiller-der-moerder-arthur-shawcross.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2054945/950x0/interview-mit-dem-serienkiller-der-moerder-arthur-shawcross.jpg",
+        "datePublished": "2020-05-15T21:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/2054945/950x0/interview-mit-dem-serienkiller-der-moerder-arthur-shawcross.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Interview mit dem Serienkiller",
+            "item": "https://www.tvnow.de/filme/interview-mit-dem-serienkiller-der-moerder-arthur-shawcross-18052"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Interview mit dem Serienkiller im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,111 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17759",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17759,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/wettlauf-zum-mond-die-tvnow-doku-17759"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wettlauf zum Mond - Die TVNOW Doku",
+          "teaserId": "film_1645963",
+          "teaserName": "Wettlauf zum Mond - Die TVNOW Doku | Wettlauf zum Mond - Die TVNOW Doku",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Universum"
+          ],
+          "classification": [
+            "Exklusiv"
+          ],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Fr. 12.07.2019, 12:00 Uhr",
+          "teaserEpisodeName": "Wettlauf zum Mond - Die TVNOW Doku"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wettlauf zum Mond - Die TVNOW Doku",
+        "id": 1645963,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1645963/300x0/wettlauf-zum-mond-die-tvnow-doku.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1645963/",
+            "filename": "wettlauf-zum-mond-die-tvnow-doku"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1645963/600x0/wettlauf-zum-mond-die-tvnow-doku.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1645963/",
+            "filename": "wettlauf-zum-mond-die-tvnow-doku"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1645963/1200x0/wettlauf-zum-mond-die-tvnow-doku.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1645963/",
+            "filename": "wettlauf-zum-mond-die-tvnow-doku"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1645963/300x0/wettlauf-zum-mond-die-tvnow-doku.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1645963/",
+            "filename": "wettlauf-zum-mond-die-tvnow-doku"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1645963/600x0/wettlauf-zum-mond-die-tvnow-doku.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1645963/",
+            "filename": "wettlauf-zum-mond-die-tvnow-doku"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1645963/1200x0/wettlauf-zum-mond-die-tvnow-doku.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1645963/",
+            "filename": "wettlauf-zum-mond-die-tvnow-doku"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wettlauf-zum-mond",
+        "subheadline": "Wettlauf zum Mond - Die TVNOW Doku",
+        "text": "Staffel 1, Folge 1 | Fr. 12.07.2019, 12:00 Uhr",
+        "type": "film",
+        "url": "/filme/wettlauf-zum-mond-die-tvnow-doku-17759",
+        "videoId": 1645963
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

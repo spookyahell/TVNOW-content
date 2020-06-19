@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15123",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15123,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/meet-john-doe-15123"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Meet John Doe",
+          "teaserId": "film_355830",
+          "teaserName": "Meet John Doe | Meet John Doe",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Meet John Doe",
+        "id": 355830,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355830/300x0/meet-john-doe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355830/",
+            "filename": "meet-john-doe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355830/600x0/meet-john-doe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355830/",
+            "filename": "meet-john-doe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355830/1200x0/meet-john-doe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355830/",
+            "filename": "meet-john-doe"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355830/300x0/meet-john-doe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355830/",
+            "filename": "meet-john-doe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355830/600x0/meet-john-doe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355830/",
+            "filename": "meet-john-doe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355830/1200x0/meet-john-doe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355830/",
+            "filename": "meet-john-doe"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "meet-john-doe",
+        "subheadline": "Meet John Doe",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/meet-john-doe-15123",
+        "videoId": 355830
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 18525,
+  "additionalMeta": {
+    "canonical": "/filme/coronainfiziertdiewirtschaft-18525",
+    "url": "/filme/coronainfiziertdiewirtschaft-18525"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Corona infiziert die Wirtschaft",
+      "url": "/filme/coronainfiziertdiewirtschaft-18525"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 18525,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Corona infiziert die Wirtschaft 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Corona infiziert die Wirtschaft im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Corona infiziert die Wirtschaft 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3063911,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3063911",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18525"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Corona infiziert die Wirtschaft",
+    "text": "Das Coronavirus beschäftigt Deutschland und die Welt. Dabei steht die Sorge um die Gesundheit der Menschen im Mittelpunkt - parallel wächst jedoch das Bangen um die Wirtschaft.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/corona-infiziert-die-wirtschaft-18525",
+        "@type": "Movie",
+        "description": "Das Coronavirus beschäftigt Deutschland und die Welt. Dabei steht die Sorge um die Gesundheit der Menschen im Mittelpunkt - parallel wächst jedoch das Bangen um die Wirtschaft.",
+        "duration": "PT21M29S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3063911/950x0/coronainfiziertdiewirtschaft.jpg",
+        "name": "Corona infiziert die Wirtschaft",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/corona-infiziert-die-wirtschaft-18525",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2020-03-28T10:30:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/corona-infiziert-die-wirtschaft-18525",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Das Coronavirus beschäftigt Deutschland und die Welt. Dabei steht die Sorge um die Gesundheit der Menschen im Mittelpunkt - parallel wächst jedoch das Bangen um die Wirtschaft.",
+          "duration": "PT21M29S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/corona-infiziert-die-wirtschaft-18525",
+          "name": "Corona infiziert die Wirtschaft",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3063911/950x0/coronainfiziertdiewirtschaft.jpg",
+          "uploadDate": "2020-03-28T10:30:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Corona infiziert die Wirtschaft im Online Stream | TVNOW",
+        "headline": "Corona infiziert die Wirtschaft im Online Stream | TVNOW",
+        "description": "Corona infiziert die Wirtschaft und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/corona-infiziert-die-wirtschaft-18525",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3063911/950x0/coronainfiziertdiewirtschaft.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3063911/950x0/coronainfiziertdiewirtschaft.jpg",
+        "datePublished": "2020-03-28T10:30:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3063911/950x0/coronainfiziertdiewirtschaft.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Corona infiziert die Wirtschaft",
+            "item": "https://www.tvnow.de/filme/coronainfiziertdiewirtschaft-18525"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Corona infiziert die Wirtschaft im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

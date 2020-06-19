@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15977",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15977,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/steamboy-15977"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Steamboy",
+          "teaserId": "film_426194",
+          "teaserName": "Steamboy | Steamboy",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Anime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Steamboy",
+        "id": 426194,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/426194/300x0/steamboy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/426194/",
+            "filename": "steamboy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/426194/600x0/steamboy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/426194/",
+            "filename": "steamboy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/426194/1200x0/steamboy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/426194/",
+            "filename": "steamboy"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/426194/300x0/steamboy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/426194/",
+            "filename": "steamboy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/426194/600x0/steamboy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/426194/",
+            "filename": "steamboy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/426194/1200x0/steamboy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/426194/",
+            "filename": "steamboy"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "steamboy",
+        "subheadline": "Steamboy",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/steamboy-15977",
+        "videoId": 426194
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

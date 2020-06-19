@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16291",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16291,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/filmriss-the-blackout-16291"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Filmriss - The Blackout",
+          "teaserId": "film_1134220",
+          "teaserName": "Filmriss - The Blackout | Filmriss - The Blackout",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Filmriss - The Blackout",
+        "id": 1134220,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1134220/300x0/filmriss-the-blackout.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1134220/",
+            "filename": "filmriss-the-blackout"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1134220/600x0/filmriss-the-blackout.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1134220/",
+            "filename": "filmriss-the-blackout"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1134220/1200x0/filmriss-the-blackout.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1134220/",
+            "filename": "filmriss-the-blackout"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1134220/300x0/filmriss-the-blackout.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1134220/",
+            "filename": "filmriss-the-blackout"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1134220/600x0/filmriss-the-blackout.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1134220/",
+            "filename": "filmriss-the-blackout"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1134220/1200x0/filmriss-the-blackout.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1134220/",
+            "filename": "filmriss-the-blackout"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "filmriss-the-blackout",
+        "subheadline": "Filmriss - The Blackout",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/filmriss-the-blackout-16291",
+        "videoId": 1134220
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

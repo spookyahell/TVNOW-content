@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12487",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12487,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/to-a-space-fantasy-12487"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "TO: A Space Fantasy",
+          "teaserId": "film_332060",
+          "teaserName": "TO: A Space Fantasy | TO - A Space Fantasy",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Anime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "TO - A Space Fantasy",
+        "id": 332060,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332060/300x0/to-a-space-fantasy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332060/",
+            "filename": "to-a-space-fantasy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332060/600x0/to-a-space-fantasy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332060/",
+            "filename": "to-a-space-fantasy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332060/1200x0/to-a-space-fantasy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332060/",
+            "filename": "to-a-space-fantasy"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332060/300x0/to-a-space-fantasy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332060/",
+            "filename": "to-a-space-fantasy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332060/600x0/to-a-space-fantasy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332060/",
+            "filename": "to-a-space-fantasy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332060/1200x0/to-a-space-fantasy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332060/",
+            "filename": "to-a-space-fantasy"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "to-a-space-fantasy",
+        "subheadline": "TO - A Space Fantasy",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/to-a-space-fantasy-12487",
+        "videoId": 332060
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

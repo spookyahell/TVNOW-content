@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 17996,
+  "additionalMeta": {
+    "canonical": "/filme/armes-reiches-deutschland-17996",
+    "url": "/filme/armes-reiches-deutschland-17996"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Armes reiches Deutschland",
+      "url": "/filme/armes-reiches-deutschland-17996"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 17996,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Armes reiches Deutschland 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Armes reiches Deutschland im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Armes reiches Deutschland 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1732256,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1732256",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17996"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Armes reiches Deutschland",
+    "text": "n-tv Doku - Arbeitslosigkeit, Alters- und Kinderarmut, Obdachlosigkeit - die neue Doku-Reihe zeigt, wie das Leben von Menschen am Rande des Existenzminimums aussieht. Ilka Bessin war vor ihrer Bühnenkarriere als \"Cindy aus Marzahn\" selbst jahrelang arbeitslos. Sie will den Menschen eine Stimme geben, die sonst kein Gehör finden, und über die teils dramatischen Folgen der Armut in Deutschland aufklären. In jeder Folge besucht sie eine andere Stadt.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/armes-reiches-deutschland-17996",
+        "@type": "Movie",
+        "description": "n-tv Doku - Arbeitslosigkeit, Alters- und Kinderarmut, Obdachlosigkeit - die neue Doku-Reihe zeigt, wie das Leben von Menschen am Rande des Existenzminimums aussieht. Ilka Bessin war vor ihrer Bühnenkarriere als \"Cindy aus Marzahn\" selbst jahrelang arbeitslos. Sie will den Menschen eine Stimme geben, die sonst kein Gehör finden, und über die teils dramatischen Folgen der Armut in Deutschland aufklären. In jeder Folge besucht sie eine andere Stadt.",
+        "duration": "PT41M17S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1732256/950x0/armes-reiches-deutschland.jpg",
+        "name": "Armes reiches Deutschland",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/armes-reiches-deutschland-17996",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2019-09-18T09:30:21.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/armes-reiches-deutschland-17996",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "n-tv Doku - Arbeitslosigkeit, Alters- und Kinderarmut, Obdachlosigkeit - die neue Doku-Reihe zeigt, wie das Leben von Menschen am Rande des Existenzminimums aussieht. Ilka Bessin war vor ihrer Bühnenkarriere als \"Cindy aus Marzahn\" selbst jahrelang arbeitslos. Sie will den Menschen eine Stimme geben, die sonst kein Gehör finden, und über die teils dramatischen Folgen der Armut in Deutschland aufklären. In jeder Folge besucht sie eine andere Stadt.",
+          "duration": "PT41M17S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/armes-reiches-deutschland-17996",
+          "name": "Armes reiches Deutschland",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1732256/950x0/armes-reiches-deutschland.jpg",
+          "uploadDate": "2019-09-18T09:30:21.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Armes reiches Deutschland im Online Stream | TVNOW",
+        "headline": "Armes reiches Deutschland im Online Stream | TVNOW",
+        "description": "Armes reiches Deutschland und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/armes-reiches-deutschland-17996",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1732256/950x0/armes-reiches-deutschland.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1732256/950x0/armes-reiches-deutschland.jpg",
+        "datePublished": "2019-09-18T09:30:21.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1732256/950x0/armes-reiches-deutschland.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Armes reiches Deutschland",
+            "item": "https://www.tvnow.de/filme/armes-reiches-deutschland-17996"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Armes reiches Deutschland im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,106 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18556",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18556,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-letzte-giraffe-18556"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die letzte Giraffe",
+          "teaserId": "film_3136021",
+          "teaserName": "Die letzte Giraffe | Die letzte Giraffe",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Tiere",
+            "Natur"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die letzte Giraffe",
+        "id": 3136021,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3136021/300x0/die-letzte-giraffe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3136021/",
+            "filename": "die-letzte-giraffe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3136021/600x0/die-letzte-giraffe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3136021/",
+            "filename": "die-letzte-giraffe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3136021/1200x0/die-letzte-giraffe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3136021/",
+            "filename": "die-letzte-giraffe"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3136021/300x0/die-letzte-giraffe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3136021/",
+            "filename": "die-letzte-giraffe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3136021/600x0/die-letzte-giraffe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3136021/",
+            "filename": "die-letzte-giraffe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3136021/1200x0/die-letzte-giraffe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3136021/",
+            "filename": "die-letzte-giraffe"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-letzte-giraffe",
+        "subheadline": "Die letzte Giraffe",
+        "text": "Staffel  | Di. 12.05.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/die-letzte-giraffe-18556",
+        "videoId": 3136021
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

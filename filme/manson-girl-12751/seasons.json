@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12751",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12751,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/manson-girl-12751"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Manson Girl",
+          "teaserId": "film_333806",
+          "teaserName": "Manson Girl | Manson Girl",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Manson Girl",
+        "id": 333806,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333806/300x0/manson-girl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333806/",
+            "filename": "manson-girl"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333806/600x0/manson-girl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333806/",
+            "filename": "manson-girl"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333806/1200x0/manson-girl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333806/",
+            "filename": "manson-girl"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333806/300x0/manson-girl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333806/",
+            "filename": "manson-girl"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333806/600x0/manson-girl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333806/",
+            "filename": "manson-girl"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333806/1200x0/manson-girl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333806/",
+            "filename": "manson-girl"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "manson-girl",
+        "subheadline": "Manson Girl",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/manson-girl-12751",
+        "videoId": 333806
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17867",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17867,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/das-salz-der-erde-17867"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Salz der Erde",
+          "teaserId": "film_1671107",
+          "teaserName": "Das Salz der Erde | Das Salz der Erde",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Natur"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das Salz der Erde",
+        "id": 1671107,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1671107/300x0/das-salz-der-erde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1671107/",
+            "filename": "das-salz-der-erde"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1671107/600x0/das-salz-der-erde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1671107/",
+            "filename": "das-salz-der-erde"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1671107/1200x0/das-salz-der-erde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1671107/",
+            "filename": "das-salz-der-erde"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1671107/300x0/das-salz-der-erde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1671107/",
+            "filename": "das-salz-der-erde"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1671107/600x0/das-salz-der-erde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1671107/",
+            "filename": "das-salz-der-erde"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1671107/1200x0/das-salz-der-erde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1671107/",
+            "filename": "das-salz-der-erde"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-salz-der-erde",
+        "subheadline": "Das Salz der Erde",
+        "text": "Staffel  | Mo. 10.02.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/das-salz-der-erde-17867",
+        "videoId": 1671107
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

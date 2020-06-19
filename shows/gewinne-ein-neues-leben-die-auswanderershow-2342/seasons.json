@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/2342",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 2342,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/gewinne-ein-neues-leben-die-auswanderershow-2342/weitere/episode-0-pilotfolge-111569"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Gewinne ein neues Leben",
+          "teaserId": "show_episode_111569",
+          "teaserName": "Gewinne ein neues Leben | Pilotfolge",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Show",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Pilotfolge",
+        "id": 111569,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/111569/300x0/pilotfolge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/111569/",
+            "filename": "pilotfolge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/111569/600x0/pilotfolge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/111569/",
+            "filename": "pilotfolge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/111569/1200x0/pilotfolge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/111569/",
+            "filename": "pilotfolge"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/111569/300x0/pilotfolge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/111569/",
+            "filename": "pilotfolge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/111569/600x0/pilotfolge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/111569/",
+            "filename": "pilotfolge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/111569/1200x0/pilotfolge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/111569/",
+            "filename": "pilotfolge"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "gewinne-ein-neues-leben-die-auswanderershow",
+        "subheadline": "Pilotfolge",
+        "text": "Staffel  | Di. 14.05.2013, 20:15 Uhr",
+        "type": "show",
+        "url": "/shows/gewinne-ein-neues-leben-die-auswanderershow-2342/weitere/episode-0-pilotfolge-111569",
+        "videoId": 111569
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

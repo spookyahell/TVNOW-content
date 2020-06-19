@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13037",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13037,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/raining-blood-13037"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Raining Blood",
+          "teaserId": "film_335870",
+          "teaserName": "Raining Blood | Raining Blood",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Raining Blood",
+        "id": 335870,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335870/300x0/raining-blood.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335870/",
+            "filename": "raining-blood"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335870/600x0/raining-blood.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335870/",
+            "filename": "raining-blood"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335870/1200x0/raining-blood.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335870/",
+            "filename": "raining-blood"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335870/300x0/raining-blood.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335870/",
+            "filename": "raining-blood"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335870/600x0/raining-blood.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335870/",
+            "filename": "raining-blood"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335870/1200x0/raining-blood.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335870/",
+            "filename": "raining-blood"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "raining-blood",
+        "subheadline": "Raining Blood",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/raining-blood-13037",
+        "videoId": 335870
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

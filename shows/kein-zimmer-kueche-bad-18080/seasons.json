@@ -1,0 +1,109 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18080",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18080,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/kein-zimmer-kueche-bad-18080/staffel-1/episode-1-kein-zimmer-kueche-bad-2210315"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Kein Zimmer / Küche / Bad",
+          "teaserId": "show_episode_2210315",
+          "teaserName": "Kein Zimmer / Küche / Bad | Staffel 1 | Folge 1 | Kein Zimmer / Küche / Bad",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reportage",
+          "cluster": [
+            "Sozial"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Di. 22.10.2019, 20:15 Uhr",
+          "teaserEpisodeName": "Kein Zimmer / Küche / Bad"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Kein Zimmer / Küche / Bad",
+        "id": 2210315,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2210315/300x0/kein-zimmer-kueche-bad.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2210315/",
+            "filename": "kein-zimmer-kueche-bad"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2210315/600x0/kein-zimmer-kueche-bad.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2210315/",
+            "filename": "kein-zimmer-kueche-bad"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2210315/1200x0/kein-zimmer-kueche-bad.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2210315/",
+            "filename": "kein-zimmer-kueche-bad"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2210315/300x0/kein-zimmer-kueche-bad.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2210315/",
+            "filename": "kein-zimmer-kueche-bad"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2210315/600x0/kein-zimmer-kueche-bad.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2210315/",
+            "filename": "kein-zimmer-kueche-bad"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2210315/1200x0/kein-zimmer-kueche-bad.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2210315/",
+            "filename": "kein-zimmer-kueche-bad"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "kein-zimmer-kueche-bad",
+        "subheadline": "Kein Zimmer / Küche / Bad",
+        "text": "Staffel 1, Folge 1 | Di. 22.10.2019, 20:15 Uhr",
+        "type": "show",
+        "url": "/shows/kein-zimmer-kueche-bad-18080/staffel-1/episode-1-kein-zimmer-kueche-bad-2210315",
+        "videoId": 2210315
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

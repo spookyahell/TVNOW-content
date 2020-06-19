@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13579",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13579,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/proof-blindes-vertrauen-13579"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Proof - Blindes Vertrauen",
+          "teaserId": "film_337646",
+          "teaserName": "Proof - Blindes Vertrauen | Proof - Blindes Vertrauen",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Proof - Blindes Vertrauen",
+        "id": 337646,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337646/300x0/proof-blindes-vertrauen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337646/",
+            "filename": "proof-blindes-vertrauen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337646/600x0/proof-blindes-vertrauen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337646/",
+            "filename": "proof-blindes-vertrauen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337646/1200x0/proof-blindes-vertrauen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337646/",
+            "filename": "proof-blindes-vertrauen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337646/300x0/proof-blindes-vertrauen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337646/",
+            "filename": "proof-blindes-vertrauen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337646/600x0/proof-blindes-vertrauen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337646/",
+            "filename": "proof-blindes-vertrauen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337646/1200x0/proof-blindes-vertrauen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337646/",
+            "filename": "proof-blindes-vertrauen"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "proof-blindes-vertrauen",
+        "subheadline": "Proof - Blindes Vertrauen",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/proof-blindes-vertrauen-13579",
+        "videoId": 337646
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

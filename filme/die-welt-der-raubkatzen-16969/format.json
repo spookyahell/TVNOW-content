@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 16969,
+  "additionalMeta": {
+    "canonical": "/filme/die-welt-der-raubkatzen-16969",
+    "url": "/filme/die-welt-der-raubkatzen-16969"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die Welt der Raubkatzen",
+      "url": "/filme/die-welt-der-raubkatzen-16969"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 16969,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Die Welt der Raubkatzen 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Welt der Raubkatzen im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Die Welt der Raubkatzen 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1337214,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1337214",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/16969"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Die Welt der Raubkatzen",
+    "text": "Eine Familie mit 40 verschiedenen Gesichtern: Raubkatzen faszinieren uns wie kein anderes Tier. Und doch wissen wir nur sehr wenig über die grazilen Räuber. Die Dokumentation begleitet Forscher, die ihr Leben den großen Katzen dieser Erde gewidmet haben. Mit Hilfe ihrer Erkenntnisse können nicht nur die Geheimnisse der faszinierenden Tiere gelüftet, sondern auch ihr Aussterben verhindert werden.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/die-welt-der-raubkatzen-16969",
+        "@type": "Movie",
+        "description": "Eine Familie mit 40 verschiedenen Gesichtern: Raubkatzen faszinieren uns wie kein anderes Tier. Und doch wissen wir nur sehr wenig über die grazilen Räuber. Die Dokumentation begleitet Forscher, die ihr Leben den großen Katzen dieser Erde gewidmet haben. Mit Hilfe ihrer Erkenntnisse können nicht nur die Geheimnisse der faszinierenden Tiere gelüftet, sondern auch ihr Aussterben verhindert werden.",
+        "duration": "PT51M54S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1337214/950x0/die-welt-der-raubkatzen.jpg",
+        "name": "Die Welt der Raubkatzen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/die-welt-der-raubkatzen-16969",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2019-09-03T21:05:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=die-welt-der-raubkatzen-16969",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=die-welt-der-raubkatzen-16969",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/die-welt-der-raubkatzen-16969",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Eine Familie mit 40 verschiedenen Gesichtern: Raubkatzen faszinieren uns wie kein anderes Tier. Und doch wissen wir nur sehr wenig über die grazilen Räuber. Die Dokumentation begleitet Forscher, die ihr Leben den großen Katzen dieser Erde gewidmet haben. Mit Hilfe ihrer Erkenntnisse können nicht nur die Geheimnisse der faszinierenden Tiere gelüftet, sondern auch ihr Aussterben verhindert werden.",
+          "duration": "PT51M54S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/die-welt-der-raubkatzen-16969",
+          "name": "Die Welt der Raubkatzen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1337214/950x0/die-welt-der-raubkatzen.jpg",
+          "uploadDate": "2019-09-03T21:05:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Welt der Raubkatzen im Online Stream | TVNOW",
+        "headline": "Die Welt der Raubkatzen im Online Stream | TVNOW",
+        "description": "Die Welt der Raubkatzen und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/die-welt-der-raubkatzen-16969",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1337214/950x0/die-welt-der-raubkatzen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1337214/950x0/die-welt-der-raubkatzen.jpg",
+        "datePublished": "2019-09-03T21:05:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1337214/950x0/die-welt-der-raubkatzen.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Welt der Raubkatzen",
+            "item": "https://www.tvnow.de/filme/die-welt-der-raubkatzen-16969"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Welt der Raubkatzen im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

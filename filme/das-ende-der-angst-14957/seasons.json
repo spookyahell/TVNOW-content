@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14957",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14957,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/das-ende-der-angst-14957"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Ende der Angst",
+          "teaserId": "film_353642",
+          "teaserName": "Das Ende der Angst | Das Ende der Angst",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Science Fiction",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das Ende der Angst",
+        "id": 353642,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353642/300x0/das-ende-der-angst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353642/",
+            "filename": "das-ende-der-angst"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353642/600x0/das-ende-der-angst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353642/",
+            "filename": "das-ende-der-angst"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353642/1200x0/das-ende-der-angst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353642/",
+            "filename": "das-ende-der-angst"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353642/300x0/das-ende-der-angst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353642/",
+            "filename": "das-ende-der-angst"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353642/600x0/das-ende-der-angst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353642/",
+            "filename": "das-ende-der-angst"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353642/1200x0/das-ende-der-angst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353642/",
+            "filename": "das-ende-der-angst"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-ende-der-angst",
+        "subheadline": "Das Ende der Angst",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/das-ende-der-angst-14957",
+        "videoId": 353642
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

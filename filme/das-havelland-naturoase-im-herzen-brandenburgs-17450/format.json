@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 17450,
+  "additionalMeta": {
+    "canonical": "/filme/das-havelland-naturoase-im-herzen-brandenburgs-17450",
+    "url": "/filme/das-havelland-naturoase-im-herzen-brandenburgs-17450"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Das Havelland - Naturoase im Herzen Brandenburgs",
+      "url": "/filme/das-havelland-naturoase-im-herzen-brandenburgs-17450"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17450,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Das Havelland - Naturoase im Herzen Brandenburgs 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Das Havelland - Naturoase im Herzen Brandenburgs, video, videos, online sehen, internet tv, fernsehen, video on demand, TV NOW, TVNOW",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Das Havelland - Naturoase im Herzen Brandenburgs im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Das Havelland - Naturoase im Herzen Brandenburgs 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1462388,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1462388",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17450"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Das Havelland - Naturoase im Herzen Brandenburgs",
+    "text": "Im Herzen Brandenburgs liegt ein Landstrich, in dem das Leben von einem breit dahinströmenden Fluss bestimmt wird. Er ist bekannt für seine üppigen Obstgärten mit dem berühmten Birnbaum des Herrn von Ribbeck. Tiere, die andernorts selten geworden sind, finden hier eine Heimat. Wie ein schützender Arm legt sich die Havel um die Wiesen, Seen, Felder und Wälder und bildet dabei: das Havelland.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/das-havelland-naturoase-im-herzen-brandenburgs-17450",
+        "@type": "Movie",
+        "description": "Im Herzen Brandenburgs liegt ein Landstrich, in dem das Leben von einem breit dahinströmenden Fluss bestimmt wird. Er ist bekannt für seine üppigen Obstgärten mit dem berühmten Birnbaum des Herrn von Ribbeck. Tiere, die andernorts selten geworden sind, finden hier eine Heimat. Wie ein schützender Arm legt sich die Havel um die Wiesen, Seen, Felder und Wälder und bildet dabei: das Havelland.",
+        "duration": "PT44M30S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1462388/950x0/das-havelland-naturoase-im-herzen-brandenburgs.jpg",
+        "name": "Das Havelland - Naturoase im Herzen Brandenburgs",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/das-havelland-naturoase-im-herzen-brandenburgs-17450",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-03-14T21:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=das-havelland-naturoase-im-herzen-brandenburgs-17450",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=das-havelland-naturoase-im-herzen-brandenburgs-17450",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/das-havelland-naturoase-im-herzen-brandenburgs-17450",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Im Herzen Brandenburgs liegt ein Landstrich, in dem das Leben von einem breit dahinströmenden Fluss bestimmt wird. Er ist bekannt für seine üppigen Obstgärten mit dem berühmten Birnbaum des Herrn von Ribbeck. Tiere, die andernorts selten geworden sind, finden hier eine Heimat. Wie ein schützender Arm legt sich die Havel um die Wiesen, Seen, Felder und Wälder und bildet dabei: das Havelland.",
+          "duration": "PT44M30S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/das-havelland-naturoase-im-herzen-brandenburgs-17450",
+          "name": "Das Havelland - Naturoase im Herzen Brandenburgs",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1462388/950x0/das-havelland-naturoase-im-herzen-brandenburgs.jpg",
+          "uploadDate": "2020-03-14T21:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Das Havelland - Naturoase im Herzen Brandenburgs im Online Stream | TVNOW",
+        "headline": "Das Havelland - Naturoase im Herzen Brandenburgs im Online Stream | TVNOW",
+        "description": "Das Havelland - Naturoase im Herzen Brandenburgs und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/das-havelland-naturoase-im-herzen-brandenburgs-17450",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1462388/950x0/das-havelland-naturoase-im-herzen-brandenburgs.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1462388/950x0/das-havelland-naturoase-im-herzen-brandenburgs.jpg",
+        "datePublished": "2020-03-14T21:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1462388/950x0/das-havelland-naturoase-im-herzen-brandenburgs.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Das Havelland - Naturoase im Herzen Brandenburgs",
+            "item": "https://www.tvnow.de/filme/das-havelland-naturoase-im-herzen-brandenburgs-17450"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Das Havelland - Naturoase im Herzen Brandenburgs im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13179",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13179,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/kingdom-of-dust-13179"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Kingdom of Dust",
+          "teaserId": "film_336600",
+          "teaserName": "Kingdom of Dust | Kingdom of Dust",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Kingdom of Dust",
+        "id": 336600,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336600/300x0/kingdom-of-dust.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336600/",
+            "filename": "kingdom-of-dust"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336600/600x0/kingdom-of-dust.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336600/",
+            "filename": "kingdom-of-dust"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336600/1200x0/kingdom-of-dust.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336600/",
+            "filename": "kingdom-of-dust"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336600/300x0/kingdom-of-dust.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336600/",
+            "filename": "kingdom-of-dust"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336600/600x0/kingdom-of-dust.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336600/",
+            "filename": "kingdom-of-dust"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336600/1200x0/kingdom-of-dust.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336600/",
+            "filename": "kingdom-of-dust"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "kingdom-of-dust",
+        "subheadline": "Kingdom of Dust",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/kingdom-of-dust-13179",
+        "videoId": 336600
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

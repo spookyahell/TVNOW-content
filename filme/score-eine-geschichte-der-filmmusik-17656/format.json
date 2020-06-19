@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 17656,
+  "additionalMeta": {
+    "canonical": "/filme/score-eine-geschichte-der-filmmusik-17656",
+    "url": "/filme/score-eine-geschichte-der-filmmusik-17656"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Score - Eine Geschichte der Filmmusik",
+      "url": "/filme/score-eine-geschichte-der-filmmusik-17656"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17656,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Score - Eine Geschichte der Filmmusik 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Score - Eine Geschichte der Filmmusik im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Score - Eine Geschichte der Filmmusik 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1633928,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1633928",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17656"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Score - Eine Geschichte der Filmmusik",
+    "text": "Die Titelmusiken zu \"Rocky\", \"Star Wars\" oder \"Herr der Ringe\" sind unverkennbar und haben sich fest in das Bewusstsein der KinogÃ¤nger eingegraben. In \"Score - Eine Geschichte der Filmmusik\" führen die einflussreichsten Personen der Branche durch die verschiedenen Ãren der Filmmusik in Hollywood.  Die prominentesten Komponisten verraten ihre Herangehensweise und Technik.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/score-eine-geschichte-der-filmmusik-17656",
+        "@type": "Movie",
+        "description": "Die Titelmusiken zu \"Rocky\", \"Star Wars\" oder \"Herr der Ringe\" sind unverkennbar und haben sich fest in das Bewusstsein der KinogÃ¤nger eingegraben. In \"Score - Eine Geschichte der Filmmusik\" führen die einflussreichsten Personen der Branche durch die verschiedenen Ãren der Filmmusik in Hollywood.  Die prominentesten Komponisten verraten ihre Herangehensweise und Technik.",
+        "duration": "PT1H29M3S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1633928/950x0/score-eine-geschichte-der-filmmusik.jpg",
+        "name": "Score - Eine Geschichte der Filmmusik",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/score-eine-geschichte-der-filmmusik-17656",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2019-12-02T23:10:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=score-eine-geschichte-der-filmmusik-17656",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=score-eine-geschichte-der-filmmusik-17656",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/score-eine-geschichte-der-filmmusik-17656",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die Titelmusiken zu \"Rocky\", \"Star Wars\" oder \"Herr der Ringe\" sind unverkennbar und haben sich fest in das Bewusstsein der KinogÃ¤nger eingegraben. In \"Score - Eine Geschichte der Filmmusik\" führen die einflussreichsten Personen der Branche durch die verschiedenen Ãren der Filmmusik in Hollywood.  Die prominentesten Komponisten verraten ihre Herangehensweise und Technik.",
+          "duration": "PT1H29M3S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/score-eine-geschichte-der-filmmusik-17656",
+          "name": "Score - Eine Geschichte der Filmmusik",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1633928/950x0/score-eine-geschichte-der-filmmusik.jpg",
+          "uploadDate": "2019-12-02T23:10:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Score - Eine Geschichte der Filmmusik im Online Stream | TVNOW",
+        "headline": "Score - Eine Geschichte der Filmmusik im Online Stream | TVNOW",
+        "description": "Score - Eine Geschichte der Filmmusik und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/score-eine-geschichte-der-filmmusik-17656",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1633928/950x0/score-eine-geschichte-der-filmmusik.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1633928/950x0/score-eine-geschichte-der-filmmusik.jpg",
+        "datePublished": "2019-12-02T23:10:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1633928/950x0/score-eine-geschichte-der-filmmusik.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Score - Eine Geschichte der Filmmusik",
+            "item": "https://www.tvnow.de/filme/score-eine-geschichte-der-filmmusik-17656"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Score - Eine Geschichte der Filmmusik im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

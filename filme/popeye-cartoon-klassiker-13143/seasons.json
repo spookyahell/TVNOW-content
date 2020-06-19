@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13143",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13143,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/popeye-cartoon-klassiker-13143"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Popeye - Cartoon-Klassiker",
+          "teaserId": "film_336370",
+          "teaserName": "Popeye - Cartoon-Klassiker | Popeye - Cartoon-Klassiker",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Popeye - Cartoon-Klassiker",
+        "id": 336370,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336370/300x0/popeye-cartoon-klassiker.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336370/",
+            "filename": "popeye-cartoon-klassiker"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336370/600x0/popeye-cartoon-klassiker.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336370/",
+            "filename": "popeye-cartoon-klassiker"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336370/1200x0/popeye-cartoon-klassiker.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336370/",
+            "filename": "popeye-cartoon-klassiker"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336370/300x0/popeye-cartoon-klassiker.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336370/",
+            "filename": "popeye-cartoon-klassiker"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336370/600x0/popeye-cartoon-klassiker.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336370/",
+            "filename": "popeye-cartoon-klassiker"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336370/1200x0/popeye-cartoon-klassiker.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336370/",
+            "filename": "popeye-cartoon-klassiker"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "popeye-cartoon-klassiker",
+        "subheadline": "Popeye - Cartoon-Klassiker",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/popeye-cartoon-klassiker-13143",
+        "videoId": 336370
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

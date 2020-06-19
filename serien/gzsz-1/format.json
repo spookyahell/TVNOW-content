@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 1,
+  "additionalMeta": {
+    "canonical": "/serien/gzsz-1",
+    "url": "/serien/gzsz-1"
+  },
+  "ads": {
+    "station": "rtl",
+    "taggingPack": "gzsz",
+    "taggingSubSite": "gzsz"
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "GZSZ",
+      "url": "/serien/gzsz-1"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 1,
+  "meta": [
+    {
+      "content": "Die Serie GZSZ (RTL) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Soap im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "gzsz, gute zeiten schlechte zeiten, dailysoap, daily soap, seifenoper, soap, video, videos, online sehen, internet tv, fernsehen, alle folgen, rtl, gz sz, gutezeitenschlechtezeiten, gzsz, soap, Susan Sideropoulos, Felix von Jascheroff, Jo Gerner, Daniel, ",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "GZSZ im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie GZSZ (RTL) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Soap im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/1",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/1",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/1",
+      "type": "teaserrow"
+    },
+    {
+      "id": 78806510,
+      "label": null,
+      "moduleLayout": "ctabuttonbox_small",
+      "moduleUrl": "/module/cta-button-box-small/78806510",
+      "type": "ctabuttonbox_small"
+    },
+    {
+      "id": 13020,
+      "label": "Schon gesehen...?",
+      "moduleLayout": "landscape_large",
+      "moduleUrl": "/module/teaserrow/manual/13020",
+      "type": "teaserrow"
+    },
+    {
+      "id": 1,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/1",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rngzsz",
+      "video": "dvrsowf_ten_rngzsz",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_now/formate/gzsz/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_now",
+        "formate",
+        "gzsz",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Soap",
+    "cluster": [
+      "Tägliche Serien"
+    ],
+    "classification": [
+      "Pre-TV"
+    ]
+  },
+  "seo": {
+    "headline": "GZSZ – Informationen zur Serie Gute Zeiten, schlechte Zeiten",
+    "text": "<p>GZSZ ist eine Daily Soap, die seit 1992 ausgestrahlt wird. Sie l&auml;uft jeden Montag bis Freitag von 19:40 Uhr bis 20:15 Uhr und gilt als <strong>erfolgreichste Serie in ihrem Genre</strong>. Als Vorbild fungierte die australische Seifenoper The Restless Years aus den Jahren 1977 bis 1981. Die ersten 230 Folgen wurden mit diversen &Auml;nderungen vom deutschen Produktionsteam &uuml;bernommen. Seit der 231. Episode gibt es f&uuml;r die deutsche Variante eigene Drehb&uuml;cher.</p> <h2>GZSZ &ndash; Besetzung</h2> <table> <tbody> <tr> <th>Rolle</th> <th>Schauspieler</th> </tr> <tr> <td>Prof. Dr. Dr. Hans-Joachim Gerner</td> <td>Wolfgang Bahro (1993 &ndash;)</td> </tr> <tr> <td>Leon Moreno</td> <td>Daniel Fehlow (1996 - 1999, 2001 -)</td> </tr> <tr> <td>John Bachmann</td> <td>Felix von Jascheroff (2001 &ndash;)</td> </tr> <tr> <td>Katrin Flemming</td> <td>Ulrike Frank (2001 &ndash;)</td> </tr> <tr> <td>Emily Wiedmann</td> <td>Anne Menden (2004 &ndash;)</td> </tr> <tr> <td>Dr. med. Philip H&ouml;fer</td> <td>J&ouml;rn Schl&ouml;nvoigt (2004 &ndash;)</td> </tr> <tr> <td>Alexander C&ouml;ster</td> <td>Clemens L&ouml;hr (2009 &ndash;)</td> </tr> <tr> <td>Max \"Tuner\" Kr&uuml;ger</td> <td>Thomas Drechsel (2009 &ndash;)</td> </tr> <tr> <td>Maren Seefeld</td> <td>Eva Mona Rodekirchen (2010 &ndash;)</td> </tr> <tr> <td>Lilly Seefeld</td> <td>Iris Mareike Steen (2010 &ndash;)</td> </tr> <tr> <td>Jonas Seefeld</td> <td>Felix van Deventer (2014 &ndash;)</td> </tr><tr> <td>Sunny Richter</td> <td>Valentina Pahde (2015 -)</td> </tr> <tr> <td>Felix Lehmann</td> <td>Thaddäus Meilinger (2016 -)</td> </tr>  <tr> <td>Paul Wiedmann</td> <td>Niklas Osterloh (2016 -)</td> </tr> <tr> <td>Laura Weber</td> <td>Chryssanthi Kavazi (2017 -)</td> </tr> <tr> <td>Nina Ahrens</td> <td>Maria Wedig (2017 -)</td> </tr> <tr> <td>Shirin Akinci</td> <td>Gamze Senol (2017 -)</td> </tr> <tr> <td>Antonia \"Toni\" Ahrens</td> <td>Olivia Marei (2018 -)</td> </tr> </tr><tr> <td>Nihat Güney</td> <td>Timur Ülker (2018 -)</td> </tr>  <tr> <td>Yvonne Bode</td> <td>Gisa Zach (2019 -)</td> </tr> <tr> <td>Robert Klee</td> <td>Nils Schulz (2019 -)</td> </tr> <tr> <td>Erik Fritsche</td> <td>Patrick Heinrich (2019 -)</td> </tr>  <tr> <td>Brenda Schubert</td> <td>Annabella Zetsch (2019 -)</td> </tr> </tbody> </table>  <h2>Warum ist die Fernsehreihe aus dem Genre Daily Soap im Stream bei TVNOW so beliebt?</h2> <p>Gute Zeiten, schlechte Zeiten (GZSZ) ist die Soap, die im deutschen Fernsehen so lange ausgestrahlt wird wie keine andere Serie in dieser Art. Sie hat sich l&auml;ngst etabliert und kommt in erster Linie bei <strong>j&uuml;ngeren Menschen</strong> hervorragend an. Schlie&szlig;lich handelt es sich bei den Hauptfiguren um Personen im Alter von etwa 18 bis 30 Jahren. Manche der Figuren sind noch Sch&uuml;ler, andere studieren oder absolvieren eine Ausbildung. Einige Rollen befinden sich in der Anfangszeit ihrer beruflichen Laufbahn. Die Berufe dieser Menschen sind v&ouml;llig unterschiedlich, vom Handwerker &uuml;ber den Kellner, die Modedesignerin bis zur Polizistin war schon eine Menge dabei. Die Themen, um die es bei GZSZ geht, sind ebenfalls sehr vielschichtig. Liebeskummer, Krankheiten, Mobbing, Schwierigkeiten am Arbeitsplatz, problematisches Verh&auml;ltnis zu den Eltern &ndash; das alles kannst du dir online anschauen, wenn du dich f&uuml;r die Serie interessierst.</p> <h2>Wieso lohnt es sich, GZSZ bei TVNOW online zu streamen?</h2> <p>Ein gro&szlig;er Vorteil ist, dass man bei TVNOW im Gegensatz zum Fernsehen mehrere Folgen am St&uuml;ck online sehen kann. Au&szlig;erdem gibt es dort mehrere <strong>Familienkonstellationen</strong>, die bereits seit Jahren in die Serie integriert sind und welche die Zuschauer l&auml;ngst ins Herz geschlossen haben. Neben dem Gerner/Flemming-Clan sind das die Familien Bachmann/H&ouml;fer, Seefeld und Lehmann. Die <strong>Handlungsstr&auml;nge</strong> zeichnen sich durch eine gro&szlig;e Abwechslung aus. Abgesehen von den H&ouml;hen und Tiefen des Erwachsenwerdens werden auch unterschiedliche Liebesformen, Identit&auml;tswandlungen und realgeschichtliche Themen dargestellt, zum Beispiel w&auml;hrend der Fl&uuml;chtlingskrise. Das alles kannst du bei TVNOW streamen.</p> <h2>GZSZ &ndash; Weitere Informationen</h2> <ul> <li><strong>Erstausstrahlung</strong> <ul> <li>11. Mai 1992 auf RTLplus</li> </ul> </li> <li><strong>Regisseur</strong> <ul> <li>Insgesamt 52 Regisseure bei GZSZ, darunter auch der Darsteller Clemens L&ouml;hr</li> </ul> </li> <li><strong>Genre</strong> <ul> <li><a href=\"/serien/soap\">Daily Soap</a></li> </ul> </li> <li><strong>Titellied</strong> <ul> <li>Ich seh&acute; in dein Herz von Glasperlenspiel</li> </ul> </li> <li><strong>Originalsprache</strong> <ul> <li>Deutsch</li> </ul> </li> <li><strong>Staffel- und Episodenanzahl</strong> <ul> <li>&uuml;ber 6700 Episoden, die Serie wird immer noch gedreht</li> </ul> </li> <li><strong>L&auml;nge</strong> <ul> <li>s&auml;mtliche Episoden von GZSZ sind jeweils ca. 35 Minuten lang</li> </ul> </li> <li><strong>Originaltitel</strong> <ul> <li>Gute Zeiten, schlechte Zeiten</li> </ul> </li> <li><strong>Auszeichnungen</strong> <ul> <li>keine</li> </ul> </li> <li><strong>&Auml;hnliche Serien</strong> <ul> <li><a href=\"/serien/alles-was-zaehlt-2\">Alles was zählt</a> </li> <li><a href=\"/serien/unter-uns-20\">Unter uns</a></li> <li> <a href=\"/serien/verbotene-liebe-classics-17506\">Verbotene Liebe</a></li> </ul> </li> </ul> <p>M&ouml;chtest du noch mehr &uuml;ber GZSZ erfahren? Im Online-Stream bei TVNOW kannst du dir die einzelnen Episoden anschauen!</p>",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "https://www.tvnow.de/serien/gzsz-1",
+        "url": "https://www.tvnow.de/serien/gzsz-1",
+        "name": "GZSZ",
+        "description": "Die Serie GZSZ (RTL) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Soap im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/1_04metalogo/1200x0/gzsz.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "GZSZ – Informationen zur Serie Gute Zeiten, schlechte Zeiten",
+        "headline": "GZSZ – Informationen zur Serie Gute Zeiten, schlechte Zeiten",
+        "description": "Die Serie GZSZ (RTL) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Soap im Online Stream bei TVNOW anschauen.",
+        "url": "https://www.tvnow.de/serien/gzsz-1",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/1_04metalogo/1200x0/gzsz.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/1_04metalogo/1200x0/gzsz.png",
+        "keywords": "gzsz, gute zeiten schlechte zeiten, dailysoap, daily soap, seifenoper, soap, video, videos, online sehen, internet tv, fernsehen, alle folgen, rtl, gz sz, gutezeitenschlechtezeiten, gzsz, soap, Susan Sideropoulos, Felix von Jascheroff, Jo Gerner, Daniel, ",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/1_04metalogo/1200x0/gzsz.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "https://www.tvnow.de/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "GZSZ",
+            "item": "https://www.tvnow.de/serien/gzsz-1"
+          }
+        ]
+      }
+    }
+  },
+  "title": "GZSZ im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {
+    "facebook": "https://www.facebook.com/GZSZ/",
+    "instagram": "https://www.instagram.com/gzsz/",
+    "youtube": "https://www.youtube.com/watch?v=KhKgQZAjAW4&list=PLetc_wMccTHbXhTxw8gqXZlZL4h54fKiC"
+  },
+  "audiences": [
+    "adults"
+  ]
+}

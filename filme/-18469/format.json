@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 18469,
+  "additionalMeta": {
+    "canonical": "/filme/-18469",
+    "url": "/filme/-18469"
+  },
+  "ads": {
+    "station": "rtlplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Dieter Bohlen - Der Film",
+      "url": "/filme/-18469"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 18469,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Dieter Bohlen - Der Film 📺 und viele weitere ▶️ Filme aus dem Genre  findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Dieter Bohlen - Der Film im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Dieter Bohlen - Der Film 📺 und viele weitere ▶️ Filme aus dem Genre  findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3043554,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3043554",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18469"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rpnfilme",
+      "video": "dvrsowf_ten_rpnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_plus_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_plus_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Dieter - Der Film",
+    "text": "Die Zeichentrickfilm-Satire \"Dieter - Der Film\" erzählt frei nach Dieter Bohlens Bestseller \"Nichts als die Wahrheit\", gnadenlos, schamlos und hinreißend komisch die Abenteuer des Erfolgs-Produzenten Dieter Bohlen. \"Dieter - Der Film\" ist die Geschichte eines Jungen aus Ostfriesland, der einen Traum hatte und eine beispiellose Karriere machte. Der an sich und auch an andere glaubte und niemals einem blauen Auge aus dem Weg gegangen ist.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/dieter-der-film-18469",
+        "@type": "Movie",
+        "description": "Die Zeichentrickfilm-Satire \"Dieter - Der Film\" erzählt frei nach Dieter Bohlens Bestseller \"Nichts als die Wahrheit\", gnadenlos, schamlos und hinreißend komisch die Abenteuer des Erfolgs-Produzenten Dieter Bohlen. \"Dieter - Der Film\" ist die Geschichte eines Jungen aus Ostfriesland, der einen Traum hatte und eine beispiellose Karriere machte. Der an sich und auch an andere glaubte und niemals einem blauen Auge aus dem Weg gegangen ist.",
+        "duration": "PT1H26M4S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3043554/950x0/dieter-der-film.jpg",
+        "name": "Dieter Bohlen - Der Film",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/dieter-der-film-18469",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2020-04-10T17:15:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/dieter-der-film-18469",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die Zeichentrickfilm-Satire \"Dieter - Der Film\" erzählt frei nach Dieter Bohlens Bestseller \"Nichts als die Wahrheit\", gnadenlos, schamlos und hinreißend komisch die Abenteuer des Erfolgs-Produzenten Dieter Bohlen. \"Dieter - Der Film\" ist die Geschichte eines Jungen aus Ostfriesland, der einen Traum hatte und eine beispiellose Karriere machte. Der an sich und auch an andere glaubte und niemals einem blauen Auge aus dem Weg gegangen ist.",
+          "duration": "PT1H26M4S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/dieter-der-film-18469",
+          "name": "Dieter Bohlen - Der Film",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3043554/950x0/dieter-der-film.jpg",
+          "uploadDate": "2020-04-10T17:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Dieter Bohlen - Der Film im Online Stream | TVNOW",
+        "headline": "Dieter Bohlen - Der Film im Online Stream | TVNOW",
+        "description": "Dieter Bohlen - Der Film und viele weitere  ▶️Filme aus dem Genre  findest du im Online Stream bei TVNOW. Ein Film mit ▶️Dieter Bohlen, Bertram Hiese, Harry Wijnvoord, Antonia von Romatowski, Antonia von Romatowski, Wolfgang Völz.",
+        "url": "https://www.tvnow.de/filme/dieter-der-film-18469",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3043554/950x0/dieter-der-film.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3043554/950x0/dieter-der-film.jpg",
+        "datePublished": "2020-04-10T17:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3043554/950x0/dieter-der-film.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dieter Bohlen - Der Film",
+            "item": "https://www.tvnow.de/filme/-18469"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Dieter Bohlen - Der Film im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

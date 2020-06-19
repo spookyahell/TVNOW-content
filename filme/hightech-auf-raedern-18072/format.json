@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 18072,
+  "additionalMeta": {
+    "canonical": "/filme/hightech-auf-raedern-18072",
+    "url": "/filme/hightech-auf-raedern-18072"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Hightech auf Rädern",
+      "url": "/filme/hightech-auf-raedern-18072"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 18072,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Hightech auf Rädern 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Hightech auf Rädern im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Hightech auf Rädern 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1967016,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1967016",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18072"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Hightech auf Rädern",
+    "text": " - Ob Löschfahrzeug, Traktor oder E-Bike: Deutsche Produkte sind international gefragt und setzen mit technischen Innovationen Maßstäbe. Der 'Panther' zählt zu den effizientesten und beliebtesten Flughafenlöschfahrzeugen weltweit, und auch Landmaschinen und Fahrradhersteller liegen mit ihren Produkten voll im Trend. Die Dokumentation blickt auf die hochmoderne Produktion und zeigt, was Hightech auf Rädern alles kann.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/hightech-auf-raedern-18072",
+        "@type": "Movie",
+        "description": " - Ob Löschfahrzeug, Traktor oder E-Bike: Deutsche Produkte sind international gefragt und setzen mit technischen Innovationen Maßstäbe. Der 'Panther' zählt zu den effizientesten und beliebtesten Flughafenlöschfahrzeugen weltweit, und auch Landmaschinen und Fahrradhersteller liegen mit ihren Produkten voll im Trend. Die Dokumentation blickt auf die hochmoderne Produktion und zeigt, was Hightech auf Rädern alles kann.",
+        "duration": "PT41M24S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1967016/950x0/hightech-auf-raedern.jpg",
+        "name": "Hightech auf Rädern",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/hightech-auf-raedern-18072",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2020-02-22T00:25:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/hightech-auf-raedern-18072",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": " - Ob Löschfahrzeug, Traktor oder E-Bike: Deutsche Produkte sind international gefragt und setzen mit technischen Innovationen Maßstäbe. Der 'Panther' zählt zu den effizientesten und beliebtesten Flughafenlöschfahrzeugen weltweit, und auch Landmaschinen und Fahrradhersteller liegen mit ihren Produkten voll im Trend. Die Dokumentation blickt auf die hochmoderne Produktion und zeigt, was Hightech auf Rädern alles kann.",
+          "duration": "PT41M24S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/hightech-auf-raedern-18072",
+          "name": "Hightech auf Rädern",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1967016/950x0/hightech-auf-raedern.jpg",
+          "uploadDate": "2020-02-22T00:25:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Hightech auf Rädern im Online Stream | TVNOW",
+        "headline": "Hightech auf Rädern im Online Stream | TVNOW",
+        "description": "Hightech auf Rädern und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/hightech-auf-raedern-18072",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1967016/950x0/hightech-auf-raedern.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1967016/950x0/hightech-auf-raedern.jpg",
+        "datePublished": "2020-02-22T00:25:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1967016/950x0/hightech-auf-raedern.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hightech auf Rädern",
+            "item": "https://www.tvnow.de/filme/hightech-auf-raedern-18072"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Hightech auf Rädern im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

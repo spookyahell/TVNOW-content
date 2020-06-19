@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16046",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16046,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/mein-verborgener-wunsch-16046/staffel-1/episode-1-mein-verborgener-wunsch-445720"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mein verborgener Wunsch",
+          "teaserId": "show_episode_445720",
+          "teaserName": "Mein verborgener Wunsch | Staffel 1 | Folge 1 | Mein verborgener Wunsch",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reportage",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Do. 10.05.2018, 19:05 Uhr",
+          "teaserEpisodeName": "Mein verborgener Wunsch"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mein verborgener Wunsch",
+        "id": 445720,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/445720/300x0/mein-verborgener-wunsch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/445720/",
+            "filename": "mein-verborgener-wunsch"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/445720/600x0/mein-verborgener-wunsch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/445720/",
+            "filename": "mein-verborgener-wunsch"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/445720/1200x0/mein-verborgener-wunsch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/445720/",
+            "filename": "mein-verborgener-wunsch"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/445720/300x0/mein-verborgener-wunsch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/445720/",
+            "filename": "mein-verborgener-wunsch"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/445720/600x0/mein-verborgener-wunsch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/445720/",
+            "filename": "mein-verborgener-wunsch"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/445720/1200x0/mein-verborgener-wunsch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/445720/",
+            "filename": "mein-verborgener-wunsch"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mein-verborgener-wunsch",
+        "subheadline": "Mein verborgener Wunsch",
+        "text": "Staffel 1, Folge 1 | Do. 10.05.2018, 19:05 Uhr",
+        "type": "show",
+        "url": "/shows/mein-verborgener-wunsch-16046/staffel-1/episode-1-mein-verborgener-wunsch-445720",
+        "videoId": 445720
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

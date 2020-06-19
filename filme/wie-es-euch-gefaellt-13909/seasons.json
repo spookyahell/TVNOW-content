@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13909",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13909,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/wie-es-euch-gefaellt-13909"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wie es Euch gefällt",
+          "teaserId": "film_339092",
+          "teaserName": "Wie es Euch gefällt | Wie es Euch gefällt",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Klassiker",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wie es Euch gefällt",
+        "id": 339092,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339092/300x0/wie-es-euch-gefaellt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339092/",
+            "filename": "wie-es-euch-gefaellt"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339092/600x0/wie-es-euch-gefaellt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339092/",
+            "filename": "wie-es-euch-gefaellt"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339092/1200x0/wie-es-euch-gefaellt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339092/",
+            "filename": "wie-es-euch-gefaellt"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339092/300x0/wie-es-euch-gefaellt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339092/",
+            "filename": "wie-es-euch-gefaellt"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339092/600x0/wie-es-euch-gefaellt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339092/",
+            "filename": "wie-es-euch-gefaellt"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339092/1200x0/wie-es-euch-gefaellt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339092/",
+            "filename": "wie-es-euch-gefaellt"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wie-es-euch-gefaellt",
+        "subheadline": "Wie es Euch gefällt",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/wie-es-euch-gefaellt-13909",
+        "videoId": 339092
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18426",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18426,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/dorf-der-moerder-das-18426"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Dorf der Mörder",
+          "teaserId": "film_3044652",
+          "teaserName": "Das Dorf der Mörder | Dorf der Mörder, Das",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Dorf der Mörder, Das",
+        "id": 3044652,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3044652/300x0/dorf-der-moerder-das.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3044652/",
+            "filename": "dorf-der-moerder-das"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3044652/600x0/dorf-der-moerder-das.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3044652/",
+            "filename": "dorf-der-moerder-das"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3044652/1200x0/dorf-der-moerder-das.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3044652/",
+            "filename": "dorf-der-moerder-das"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3044652/300x0/dorf-der-moerder-das.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3044652/",
+            "filename": "dorf-der-moerder-das"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3044652/600x0/dorf-der-moerder-das.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3044652/",
+            "filename": "dorf-der-moerder-das"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3044652/1200x0/dorf-der-moerder-das.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3044652/",
+            "filename": "dorf-der-moerder-das"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-dorf-der-moerder",
+        "subheadline": "Dorf der Mörder, Das",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/dorf-der-moerder-das-18426",
+        "videoId": 3044652
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

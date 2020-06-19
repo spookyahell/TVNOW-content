@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15947",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15947,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/heimweg-15947"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Heimweg - The Road Home",
+          "teaserId": "film_424612",
+          "teaserName": "Heimweg - The Road Home | Heimweg",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Heimweg",
+        "id": 424612,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424612/300x0/heimweg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424612/",
+            "filename": "heimweg"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424612/600x0/heimweg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424612/",
+            "filename": "heimweg"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424612/1200x0/heimweg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424612/",
+            "filename": "heimweg"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424612/300x0/heimweg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424612/",
+            "filename": "heimweg"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424612/600x0/heimweg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424612/",
+            "filename": "heimweg"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424612/1200x0/heimweg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424612/",
+            "filename": "heimweg"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "heimweg-the-road-home",
+        "subheadline": "Heimweg",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/heimweg-15947",
+        "videoId": 424612
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

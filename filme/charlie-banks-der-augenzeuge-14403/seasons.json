@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14403",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14403,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/charlie-banks-der-augenzeuge-14403"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Charlie Banks - Der Augenzeuge",
+          "teaserId": "film_343684",
+          "teaserName": "Charlie Banks - Der Augenzeuge | Charlie Banks - Der Augenzeuge",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Charlie Banks - Der Augenzeuge",
+        "id": 343684,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343684/300x0/charlie-banks-der-augenzeuge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343684/",
+            "filename": "charlie-banks-der-augenzeuge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343684/600x0/charlie-banks-der-augenzeuge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343684/",
+            "filename": "charlie-banks-der-augenzeuge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343684/1200x0/charlie-banks-der-augenzeuge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343684/",
+            "filename": "charlie-banks-der-augenzeuge"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343684/300x0/charlie-banks-der-augenzeuge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343684/",
+            "filename": "charlie-banks-der-augenzeuge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343684/600x0/charlie-banks-der-augenzeuge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343684/",
+            "filename": "charlie-banks-der-augenzeuge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343684/1200x0/charlie-banks-der-augenzeuge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343684/",
+            "filename": "charlie-banks-der-augenzeuge"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "charlie-banks-der-augenzeuge",
+        "subheadline": "Charlie Banks - Der Augenzeuge",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/charlie-banks-der-augenzeuge-14403",
+        "videoId": 343684
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

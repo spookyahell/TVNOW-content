@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 17953,
+  "additionalMeta": {
+    "canonical": "/filme/hirsche-eine-schrecklich-nette-familie-17953",
+    "url": "/filme/hirsche-eine-schrecklich-nette-familie-17953"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Hirsche - Eine schrecklich nette Familie",
+      "url": "/filme/hirsche-eine-schrecklich-nette-familie-17953"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17953,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Hirsche - Eine schrecklich nette Familie 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Hirsche - Eine schrecklich nette Familie, TVNOW, GEO, VOD, Stream, Video, Doku, Dokumentation, Wald, Hirsch, Tiere",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Hirsche - Eine schrecklich nette Familie im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Hirsche - Eine schrecklich nette Familie 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1704609,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1704609",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17953"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Tiere",
+      "Natur"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Hirsche - Eine schrecklich nette Familie",
+    "text": "Ein Jahr im Leben der Hirsche und ihrer Verwandten: Vom kalten Winter über die Aufzucht der Jungtiere im Frühjahr und Sommer zur Brunftzeit im Herbst. Die Natur stellt sie vor viele gefährliche Herausforderungen. ",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/hirsche-eine-schrecklich-nette-familie-17953",
+        "@type": "Movie",
+        "description": "Ein Jahr im Leben der Hirsche und ihrer Verwandten: Vom kalten Winter über die Aufzucht der Jungtiere im Frühjahr und Sommer zur Brunftzeit im Herbst. Die Natur stellt sie vor viele gefährliche Herausforderungen. ",
+        "duration": "PT51M59S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1704609/950x0/hirsche-eine-schrecklich-nette-familie.jpg",
+        "name": "Hirsche - Eine schrecklich nette Familie",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/hirsche-eine-schrecklich-nette-familie-17953",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2019-12-10T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=hirsche-eine-schrecklich-nette-familie-17953",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=hirsche-eine-schrecklich-nette-familie-17953",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/hirsche-eine-schrecklich-nette-familie-17953",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Ein Jahr im Leben der Hirsche und ihrer Verwandten: Vom kalten Winter über die Aufzucht der Jungtiere im Frühjahr und Sommer zur Brunftzeit im Herbst. Die Natur stellt sie vor viele gefährliche Herausforderungen. ",
+          "duration": "PT51M59S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/hirsche-eine-schrecklich-nette-familie-17953",
+          "name": "Hirsche - Eine schrecklich nette Familie",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1704609/950x0/hirsche-eine-schrecklich-nette-familie.jpg",
+          "uploadDate": "2019-12-10T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Hirsche - Eine schrecklich nette Familie im Online Stream | TVNOW",
+        "headline": "Hirsche - Eine schrecklich nette Familie im Online Stream | TVNOW",
+        "description": "Hirsche - Eine schrecklich nette Familie und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/hirsche-eine-schrecklich-nette-familie-17953",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1704609/950x0/hirsche-eine-schrecklich-nette-familie.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1704609/950x0/hirsche-eine-schrecklich-nette-familie.jpg",
+        "datePublished": "2019-12-10T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1704609/950x0/hirsche-eine-schrecklich-nette-familie.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hirsche - Eine schrecklich nette Familie",
+            "item": "https://www.tvnow.de/filme/hirsche-eine-schrecklich-nette-familie-17953"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Hirsche - Eine schrecklich nette Familie im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

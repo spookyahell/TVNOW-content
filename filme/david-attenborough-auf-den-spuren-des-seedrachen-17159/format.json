@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 17159,
+  "additionalMeta": {
+    "canonical": "/filme/david-attenborough-auf-den-spuren-des-seedrachen-17159",
+    "url": "/filme/david-attenborough-auf-den-spuren-des-seedrachen-17159"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "David Attenborough - Auf den Spuren des Seedrachen",
+      "url": "/filme/david-attenborough-auf-den-spuren-des-seedrachen-17159"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17159,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ David Attenborough - Auf den Spuren des Seedrachen 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "David Attenborough, GEO, TVNOW, Doku, Dokumentation, Stream",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "David Attenborough - Auf den Spuren des Seedrachen im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ David Attenborough - Auf den Spuren des Seedrachen 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1338243,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1338243",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17159"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: David Attenborough - Auf den Spuren des Seedrachen",
+    "text": "Die Jurassic Coast in Südengland ist bekannt für ihr großes Fossilien-Vorkommen. Nun wurde dort ein neues Fossil gefunden: Das eines Ichthyosauriers. Haben die Fossiliensucher eine neue Spezies des vorzeitlichen Seedrachens gefunden? Naturfilmlegende David Attenborough begibt sich auf die Spuren des Ichthyosauriers und taucht in die Welt unseres Planeten ein, die 200 Millionen Jahre zurückliegt.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/david-attenborough-auf-den-spuren-des-seedrachen-17159",
+        "@type": "Movie",
+        "description": "Die Jurassic Coast in Südengland ist bekannt für ihr großes Fossilien-Vorkommen. Nun wurde dort ein neues Fossil gefunden: Das eines Ichthyosauriers. Haben die Fossiliensucher eine neue Spezies des vorzeitlichen Seedrachens gefunden? Naturfilmlegende David Attenborough begibt sich auf die Spuren des Ichthyosauriers und taucht in die Welt unseres Planeten ein, die 200 Millionen Jahre zurückliegt.",
+        "duration": "PT51M49S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1338243/950x0/david-attenborough-auf-den-spuren-des-seedrachen.jpg",
+        "name": "David Attenborough - Auf den Spuren des Seedrachen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/david-attenborough-auf-den-spuren-des-seedrachen-17159",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-05-08T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=david-attenborough-auf-den-spuren-des-seedrachen-17159",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=david-attenborough-auf-den-spuren-des-seedrachen-17159",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/david-attenborough-auf-den-spuren-des-seedrachen-17159",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die Jurassic Coast in Südengland ist bekannt für ihr großes Fossilien-Vorkommen. Nun wurde dort ein neues Fossil gefunden: Das eines Ichthyosauriers. Haben die Fossiliensucher eine neue Spezies des vorzeitlichen Seedrachens gefunden? Naturfilmlegende David Attenborough begibt sich auf die Spuren des Ichthyosauriers und taucht in die Welt unseres Planeten ein, die 200 Millionen Jahre zurückliegt.",
+          "duration": "PT51M49S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/david-attenborough-auf-den-spuren-des-seedrachen-17159",
+          "name": "David Attenborough - Auf den Spuren des Seedrachen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1338243/950x0/david-attenborough-auf-den-spuren-des-seedrachen.jpg",
+          "uploadDate": "2020-05-08T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "David Attenborough - Auf den Spuren des Seedrachen im Online Stream | TVNOW",
+        "headline": "David Attenborough - Auf den Spuren des Seedrachen im Online Stream | TVNOW",
+        "description": "David Attenborough - Auf den Spuren des Seedrachen und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW. Ein Film mit ▶️Chris Moore, Benjamin Moon, Mark Mavrogordato, Fiann Smithwick, David Martill, Emily Rayfield.",
+        "url": "https://www.tvnow.de/filme/david-attenborough-auf-den-spuren-des-seedrachen-17159",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1338243/950x0/david-attenborough-auf-den-spuren-des-seedrachen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1338243/950x0/david-attenborough-auf-den-spuren-des-seedrachen.jpg",
+        "datePublished": "2020-05-08T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1338243/950x0/david-attenborough-auf-den-spuren-des-seedrachen.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "David Attenborough - Auf den Spuren des Seedrachen",
+            "item": "https://www.tvnow.de/filme/david-attenborough-auf-den-spuren-des-seedrachen-17159"
+          }
+        ]
+      }
+    }
+  },
+  "title": "David Attenborough - Auf den Spuren des Seedrachen im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

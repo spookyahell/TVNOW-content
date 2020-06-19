@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18138",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18138,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/dior-und-ich-18138"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Dior und ich",
+          "teaserId": "film_2962289",
+          "teaserName": "Dior und ich | Dior und ich",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Lifestyle",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Dior und ich",
+        "id": 2962289,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2962289/300x0/dior-und-ich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2962289/",
+            "filename": "dior-und-ich"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2962289/600x0/dior-und-ich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2962289/",
+            "filename": "dior-und-ich"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2962289/1200x0/dior-und-ich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2962289/",
+            "filename": "dior-und-ich"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2962289/300x0/dior-und-ich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2962289/",
+            "filename": "dior-und-ich"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2962289/600x0/dior-und-ich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2962289/",
+            "filename": "dior-und-ich"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2962289/1200x0/dior-und-ich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2962289/",
+            "filename": "dior-und-ich"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "dior-und-ich",
+        "subheadline": "Dior und ich",
+        "text": "Staffel  | Mi. 13.05.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/dior-und-ich-18138",
+        "videoId": 2962289
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

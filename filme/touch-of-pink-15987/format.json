@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 15987,
+  "additionalMeta": {
+    "canonical": "/filme/touch-of-pink-15987",
+    "url": "/filme/touch-of-pink-15987"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Touch of Pink",
+      "url": "/filme/touch-of-pink-15987"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 15987,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Touch of Pink 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Touch of Pink, Film, TV NOW, Watchbox bei TV NOW, Drama, Komödie, Romantik, Queer/LGBT, London, Indien, Freundin, Lebensgefährte, Schwester, Homosexuell, konservativ",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Touch of Pink im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Touch of Pink 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 426174,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/426174",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/15987"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_drama/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_drama",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Touch of Pink",
+    "text": "Bei TV NOW kannst Du den Film Touch of Pink und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/touch-of-pink-15987",
+        "@type": "Movie",
+        "description": "Alim, Mitglied der Glaubens- und Volksgemeinschaft der Ismailiten, arbeitet als Standbildphotograph beim Film und pflegt an der Seite seines homosexuellen Lebensgefährten Giles einen betont westlichen Lebensstil im Londoner In-Viertel South Kensington. Bewegung kommt ins Idyll, als Alims stockkonservative Mutter Nuru aus dem fernen Indien anreist, um nach dem rechten zu sehen. Kurzerhand wird Giles zum Untermieter von nebenan befördert, während dessen Schwester als Alims neue Freundin fungiert.",
+        "duration": "PT1H26M28S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/426174/950x0/touch-of-pink.jpg",
+        "name": "Touch of Pink",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/touch-of-pink-15987",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2018-04-17T17:00:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/touch-of-pink-15987",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Alim, Mitglied der Glaubens- und Volksgemeinschaft der Ismailiten, arbeitet als Standbildphotograph beim Film und pflegt an der Seite seines homosexuellen Lebensgefährten Giles einen betont westlichen Lebensstil im Londoner In-Viertel South Kensington. Bewegung kommt ins Idyll, als Alims stockkonservative Mutter Nuru aus dem fernen Indien anreist, um nach dem rechten zu sehen. Kurzerhand wird Giles zum Untermieter von nebenan befördert, während dessen Schwester als Alims neue Freundin fungiert.",
+          "duration": "PT1H26M28S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/touch-of-pink-15987",
+          "name": "Touch of Pink",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/426174/950x0/touch-of-pink.jpg",
+          "uploadDate": "2018-04-17T17:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Touch of Pink im Online Stream | TVNOW",
+        "headline": "Touch of Pink im Online Stream | TVNOW",
+        "description": "Touch of Pink und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Jimi Mistry, Kyle MacLachlan, Suleka Mathew, Kris Holden-Ried, Veena Sood.",
+        "url": "https://www.tvnow.de/filme/touch-of-pink-15987",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/426174/950x0/touch-of-pink.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/426174/950x0/touch-of-pink.jpg",
+        "datePublished": "2018-04-17T17:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/426174/950x0/touch-of-pink.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Touch of Pink",
+            "item": "https://www.tvnow.de/filme/touch-of-pink-15987"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Touch of Pink im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

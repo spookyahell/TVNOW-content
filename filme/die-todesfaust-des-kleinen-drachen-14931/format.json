@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 14931,
+  "additionalMeta": {
+    "canonical": "/filme/die-todesfaust-des-kleinen-drachen-14931",
+    "url": "/filme/die-todesfaust-des-kleinen-drachen-14931"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die Todesfaust des kleinen Drachen",
+      "url": "/filme/die-todesfaust-des-kleinen-drachen-14931"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 14931,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Die Todesfaust des kleinen Drachen 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Die Todesfaust des kleinen Drachen, Film, Stream, Online-Stream, TV NOW, WATCHBOX, kostenlos, Spielfilm, Video, gratis, Asian, Action, Komödie, Kampf, Martial Arts, Faust",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Todesfaust des kleinen Drachen im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Die Todesfaust des kleinen Drachen 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 352948,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/352948",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/14931"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_asian/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_asian",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Action",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Die Todesfaust des kleinen Drachen",
+    "text": "Bei TV NOW kannst Du den Film Die Todesfaust des kleinen Drachen und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/die-todesfaust-des-kleinen-drachen-14931",
+        "@type": "Movie",
+        "description": "All die Jahre gewann Raufbold Leung Chan jeden Kampf, den bestritten hat. Doch dann erfährt er, dass sein Vater jeden der Gegner dafür bezahlt hat, gegen ihn zu verlieren. Nach dem Betrug macht sich Chan auf, einen Kampfkunst-Meister zu finden, der ihn richtiges Kung-Fu beibringen soll.",
+        "duration": "PT1H39M46S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/352948/950x0/die-todesfaust-des-kleinen-drachen.jpg",
+        "name": "Die Todesfaust des kleinen Drachen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/die-todesfaust-des-kleinen-drachen-14931",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-11-23T10:21:57.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/die-todesfaust-des-kleinen-drachen-14931",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "All die Jahre gewann Raufbold Leung Chan jeden Kampf, den bestritten hat. Doch dann erfährt er, dass sein Vater jeden der Gegner dafür bezahlt hat, gegen ihn zu verlieren. Nach dem Betrug macht sich Chan auf, einen Kampfkunst-Meister zu finden, der ihn richtiges Kung-Fu beibringen soll.",
+          "duration": "PT1H39M46S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/die-todesfaust-des-kleinen-drachen-14931",
+          "name": "Die Todesfaust des kleinen Drachen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/352948/950x0/die-todesfaust-des-kleinen-drachen.jpg",
+          "uploadDate": "2017-11-23T10:21:57.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Todesfaust des kleinen Drachen im Online Stream | TVNOW",
+        "headline": "Die Todesfaust des kleinen Drachen im Online Stream | TVNOW",
+        "description": "Die Todesfaust des kleinen Drachen und viele weitere  ▶️Filme aus dem Genre Action findest du im Online Stream bei TVNOW. Ein Film mit ▶️Yuen Biao, Lam Ching-ying, Sammo Hung, Frankie Chan, Peter Chan Lung.",
+        "url": "https://www.tvnow.de/filme/die-todesfaust-des-kleinen-drachen-14931",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/352948/950x0/die-todesfaust-des-kleinen-drachen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/352948/950x0/die-todesfaust-des-kleinen-drachen.jpg",
+        "datePublished": "2017-11-23T10:21:57.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/352948/950x0/die-todesfaust-des-kleinen-drachen.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Todesfaust des kleinen Drachen",
+            "item": "https://www.tvnow.de/filme/die-todesfaust-des-kleinen-drachen-14931"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Todesfaust des kleinen Drachen im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

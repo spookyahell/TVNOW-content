@@ -1,0 +1,208 @@
+﻿{
+  "formatId": 1805,
+  "additionalMeta": {
+    "canonical": "/serien/csi-miami-nitro-1805",
+    "url": "/serien/csi-miami-nitro-1805"
+  },
+  "ads": {
+    "station": "nitro",
+    "taggingPack": "crime",
+    "taggingSubSite": "csi_miami"
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "CSI: Miami - NITRO",
+      "url": "/serien/csi-miami-nitro-1805"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 1805,
+  "meta": [
+    {
+      "content": "Die Serie CSI: Miami - NITRO (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Crime im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "CSI: Miami,video, videos, online sehen, internet tv, fernsehen, alle folgen, rtl , nitro, rtl nitro, video on demand, mediathek, serien, David Caruso, Lt. Horatio Caine, Emily Procter, Calleigh Duquesne, Adam Rodriguez, Eric Delko, Khandi Alexander, Alexx",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "CSI: Miami - NITRO im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie CSI: Miami - NITRO (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Crime im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/1805",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/1805",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/1805",
+      "type": "teaserrow"
+    },
+    {
+      "id": 1805,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/1805",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rnncsimiami",
+      "video": "dvrsowf_ten_rnncsimiami",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_nitro_now/formate/csi_miami/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_nitro_now",
+        "formate",
+        "csi_miami",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Crime",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zur Serie: CSI: Miami ",
+    "text": "CSI: Miami und viele weitere Serien kannst Du gemütlich online bei TVNOW im Stream anschauen. Also nichts wie los – hole das Knabberzeug raus und genieße Deine Serie ganz entspannt von unterwegs oder von zu Hause aus mit Freunden.",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "https://www.tvnow.de/serien/csi-miami-nitro-1805",
+        "url": "https://www.tvnow.de/serien/csi-miami-nitro-1805",
+        "name": "CSI: Miami - NITRO",
+        "description": "Die Serie CSI: Miami - NITRO (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Crime im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/1805_04metalogo/1200x0/csi-miami-nitro.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Information zur Serie: CSI: Miami ",
+        "headline": "Information zur Serie: CSI: Miami ",
+        "description": "Die Serie CSI: Miami - NITRO (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Crime im Online Stream bei TVNOW anschauen.",
+        "url": "https://www.tvnow.de/serien/csi-miami-nitro-1805",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/1805_04metalogo/1200x0/csi-miami-nitro.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/1805_04metalogo/1200x0/csi-miami-nitro.png",
+        "keywords": "CSI: Miami,video, videos, online sehen, internet tv, fernsehen, alle folgen, rtl , nitro, rtl nitro, video on demand, mediathek, serien, David Caruso, Lt. Horatio Caine, Emily Procter, Calleigh Duquesne, Adam Rodriguez, Eric Delko, Khandi Alexander, Alexx",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/1805_04metalogo/1200x0/csi-miami-nitro.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "https://www.tvnow.de/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "CSI: Miami - NITRO",
+            "item": "https://www.tvnow.de/serien/csi-miami-nitro-1805"
+          }
+        ]
+      }
+    }
+  },
+  "title": "CSI: Miami - NITRO im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

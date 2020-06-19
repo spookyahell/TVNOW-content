@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 13417,
+  "additionalMeta": {
+    "canonical": "/filme/hypersonic-13417",
+    "url": "/filme/hypersonic-13417"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Hypersonic",
+      "url": "/filme/hypersonic-13417"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 13417,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Hypersonic 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Hypersonic, Film, Stream, Online-Stream, TV NOW, WATCHBOX, kostenlos, Spielfilm, Video, gratis, Action, Trash",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Hypersonic im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Hypersonic 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 338996,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/338996",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/13417"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_action/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_action",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Action",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Hypersonic",
+    "text": "Bei TV NOW kannst Du den Film Hypersonic und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/hypersonic-13417",
+        "@type": "Movie",
+        "description": "Die sechs weltweit führenden Wirtschaftsnationen wollen ihre technische Überlegenheit im \"Transcom\", einem kontinentalübergreifenden Starfighter-Wettfliegen demonstrieren. Der Flugkurs geht über 24 Stunden in einem äußerst gefährlichen Präzisionskurs über alle Kontinente und alle Weltmeere. Nach waghalsigen Flug- und gefährlichen Auftankmanövern in der Luft kommt es im Finale zum entscheidenden Duell zwischen den USA, vertreten durch Grant Irvine und dem deutschen Piloten Diedrich... und die beiden haben noch eine alte Rechnung offen.",
+        "duration": "PT1H30M21S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/338996/950x0/hypersonic.jpg",
+        "name": "Hypersonic",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/hypersonic-13417",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-07-08T20:32:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/hypersonic-13417",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die sechs weltweit führenden Wirtschaftsnationen wollen ihre technische Überlegenheit im \"Transcom\", einem kontinentalübergreifenden Starfighter-Wettfliegen demonstrieren. Der Flugkurs geht über 24 Stunden in einem äußerst gefährlichen Präzisionskurs über alle Kontinente und alle Weltmeere. Nach waghalsigen Flug- und gefährlichen Auftankmanövern in der Luft kommt es im Finale zum entscheidenden Duell zwischen den USA, vertreten durch Grant Irvine und dem deutschen Piloten Diedrich... und die beiden haben noch eine alte Rechnung offen.",
+          "duration": "PT1H30M21S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/hypersonic-13417",
+          "name": "Hypersonic",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/338996/950x0/hypersonic.jpg",
+          "uploadDate": "2017-07-08T20:32:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Hypersonic im Online Stream | TVNOW",
+        "headline": "Hypersonic im Online Stream | TVNOW",
+        "description": "Hypersonic und viele weitere  ▶️Filme aus dem Genre Action findest du im Online Stream bei TVNOW. Ein Film mit ▶️Antonio Sabato Jr., Adam Baldwin, Alex Jolig.",
+        "url": "https://www.tvnow.de/filme/hypersonic-13417",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/338996/950x0/hypersonic.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/338996/950x0/hypersonic.jpg",
+        "datePublished": "2017-07-08T20:32:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/338996/950x0/hypersonic.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hypersonic",
+            "item": "https://www.tvnow.de/filme/hypersonic-13417"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Hypersonic im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

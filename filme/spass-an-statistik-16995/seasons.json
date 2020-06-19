@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16995",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16995,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/spass-an-statistik-16995"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Spaß an...Statistik",
+          "teaserId": "film_1104028",
+          "teaserName": "Spaß an...Statistik | Spaß an.Statistik",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Spaß an.Statistik",
+        "id": 1104028,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1104028/300x0/spass-an-statistik.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1104028/",
+            "filename": "spass-an-statistik"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1104028/600x0/spass-an-statistik.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1104028/",
+            "filename": "spass-an-statistik"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1104028/1200x0/spass-an-statistik.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1104028/",
+            "filename": "spass-an-statistik"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1104028/300x0/spass-an-statistik.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1104028/",
+            "filename": "spass-an-statistik"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1104028/600x0/spass-an-statistik.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1104028/",
+            "filename": "spass-an-statistik"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1104028/1200x0/spass-an-statistik.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1104028/",
+            "filename": "spass-an-statistik"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "spass-an-statistik",
+        "subheadline": "Spaß an.Statistik",
+        "text": "Staffel  | Di. 20.11.2018, 18:03 Uhr",
+        "type": "film",
+        "url": "/filme/spass-an-statistik-16995",
+        "videoId": 1104028
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

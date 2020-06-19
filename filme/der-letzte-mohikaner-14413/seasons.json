@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14413",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14413,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-letzte-mohikaner-14413"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der letzte Mohikaner",
+          "teaserId": "film_343696",
+          "teaserName": "Der letzte Mohikaner | Der letzte Mohikaner",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Western",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der letzte Mohikaner",
+        "id": 343696,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343696/300x0/der-letzte-mohikaner.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343696/",
+            "filename": "der-letzte-mohikaner"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343696/600x0/der-letzte-mohikaner.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343696/",
+            "filename": "der-letzte-mohikaner"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343696/1200x0/der-letzte-mohikaner.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343696/",
+            "filename": "der-letzte-mohikaner"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343696/300x0/der-letzte-mohikaner.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343696/",
+            "filename": "der-letzte-mohikaner"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343696/600x0/der-letzte-mohikaner.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343696/",
+            "filename": "der-letzte-mohikaner"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343696/1200x0/der-letzte-mohikaner.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343696/",
+            "filename": "der-letzte-mohikaner"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-letzte-mohikaner",
+        "subheadline": "Der letzte Mohikaner",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/der-letzte-mohikaner-14413",
+        "videoId": 343696
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

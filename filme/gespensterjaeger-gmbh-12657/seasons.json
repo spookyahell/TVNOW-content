@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12657",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12657,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/gespensterjaeger-gmbh-12657"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Gespensterjäger GmbH",
+          "teaserId": "film_331962",
+          "teaserName": "Gespensterjäger GmbH | Gespensterjäger GmbH",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Gespensterjäger GmbH",
+        "id": 331962,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/331962/300x0/gespensterjaeger-gmbh.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/331962/",
+            "filename": "gespensterjaeger-gmbh"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/331962/600x0/gespensterjaeger-gmbh.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/331962/",
+            "filename": "gespensterjaeger-gmbh"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/331962/1200x0/gespensterjaeger-gmbh.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/331962/",
+            "filename": "gespensterjaeger-gmbh"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/331962/300x0/gespensterjaeger-gmbh.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/331962/",
+            "filename": "gespensterjaeger-gmbh"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/331962/600x0/gespensterjaeger-gmbh.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/331962/",
+            "filename": "gespensterjaeger-gmbh"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/331962/1200x0/gespensterjaeger-gmbh.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/331962/",
+            "filename": "gespensterjaeger-gmbh"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "gespensterjaeger-gmbh",
+        "subheadline": "Gespensterjäger GmbH",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/gespensterjaeger-gmbh-12657",
+        "videoId": 331962
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

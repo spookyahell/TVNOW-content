@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16847",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16847,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ram-leela-16847"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ram & Leela",
+          "teaserId": "film_1329636",
+          "teaserName": "Ram & Leela | Ram & Leela",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ram & Leela",
+        "id": 1329636,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1329636/300x0/ram-leela.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1329636/",
+            "filename": "ram-leela"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1329636/600x0/ram-leela.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1329636/",
+            "filename": "ram-leela"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1329636/1200x0/ram-leela.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1329636/",
+            "filename": "ram-leela"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1329636/300x0/ram-leela.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1329636/",
+            "filename": "ram-leela"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1329636/600x0/ram-leela.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1329636/",
+            "filename": "ram-leela"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1329636/1200x0/ram-leela.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1329636/",
+            "filename": "ram-leela"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ram-leela",
+        "subheadline": "Ram & Leela",
+        "text": "Staffel  | Sa. 16.05.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/ram-leela-16847",
+        "videoId": 1329636
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

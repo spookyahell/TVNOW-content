@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16965",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16965,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/baden-wuerttemberg-von-oben-16965"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Baden-Württemberg von oben",
+          "teaserId": "film_1168820",
+          "teaserName": "Baden-Württemberg von oben | Baden-Württemberg von oben",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Baden-Württemberg von oben",
+        "id": 1168820,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1168820/300x0/baden-wuerttemberg-von-oben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1168820/",
+            "filename": "baden-wuerttemberg-von-oben"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1168820/600x0/baden-wuerttemberg-von-oben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1168820/",
+            "filename": "baden-wuerttemberg-von-oben"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1168820/1200x0/baden-wuerttemberg-von-oben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1168820/",
+            "filename": "baden-wuerttemberg-von-oben"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1168820/300x0/baden-wuerttemberg-von-oben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1168820/",
+            "filename": "baden-wuerttemberg-von-oben"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1168820/600x0/baden-wuerttemberg-von-oben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1168820/",
+            "filename": "baden-wuerttemberg-von-oben"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1168820/1200x0/baden-wuerttemberg-von-oben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1168820/",
+            "filename": "baden-wuerttemberg-von-oben"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "baden-wuerttemberg-von-oben",
+        "subheadline": "Baden-Württemberg von oben",
+        "text": "Staffel  | Sa. 21.12.2019, 21:55 Uhr",
+        "type": "film",
+        "url": "/filme/baden-wuerttemberg-von-oben-16965",
+        "videoId": 1168820
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 12503,
+  "additionalMeta": {
+    "canonical": "/filme/fatestay-night-12503",
+    "url": "/filme/fatestay-night-12503"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Fate/Stay Night",
+      "url": "/filme/fatestay-night-12503"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 12503,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Fate/Stay Night 📺 und viele weitere ▶️ Filme aus dem Genre Anime findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Fate/Stay Night, Film, TV NOW, Watchbox bei TV NOW, Schlacht, Heiliger Gral, Anime, Krieger, Krieg",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Fate/Stay Night im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Fate/Stay Night 📺 und viele weitere ▶️ Filme aus dem Genre Anime findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 330404,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/330404",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/12503"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_anime/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_anime",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Anime",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Fate Stay Night - Eine Welt voller Magie - Informationen zum Film",
+    "text": "<p>Im Zentrum des Animes steht ein geheimer Krieg, der nur unter Magiern bekannt ist. Sollte die Zeit gekommen sein, sammeln sich sieben Zauberer aus allen Teilen der Welt mit ihren beschworenen Dienern und führen den Krieg um den Heiligen Gral, dem nachgesagt wird, dass er seinem Besitzer einen Wunsch erfüllt.Gerade die Diener spielen eine wichtige Rolle, die nach ihren Klassifikationen benannt sind: Saber, Archer, Rider, Berserker, Caster, Assassin oder Lancer.</p><p>Die Geschichte von <strong>Fate Stay Night</strong> dreht sich rund um die Ereignisse im Leben des Jungen Emiya Shirô. Dieser lebt in Fuyuki und war noch klein, als seine Eltern in einem Feuer ums Leben kamen. Daraufhin wurde er von Kiritsugu adoptiert, der sich selbst als Zauberer vorstellte. Allerdings starb auch dieser. Eines Tages, auf seinem Nachhauseweg von der Schule, sah Shirô zufällig zwei Diener gegeneinander kämpfen. Damit Shirô das Geheimnis um den Krieg nicht ausplaudern kann, wird dieser von dem Lancer tödlich verletzt. Allerdings rettet ihn ein Mädchen.</p><p>Fate Stay Night ist eine aufregende Achterbahnfahrt der Gefühle und spannenden Momente. Schon in der ersten Folge wird klar, dass Shirô kein normaler Junge ist. Immerhin wird er nach einer zweiten Attacke vom Lancer durch seinen Diener Saber beschützt, welcher ihn mit den Worten Sind Sie mein Meister? begrüßt. Der gesamte Anime ist sehr abwechslungsreich und es kommt nicht nur die Geschichte rund um Shirô zum Tragen, sondern auch die anderen sechs Magier werden genauer beleuchtet. Alle haben ihre eigenen Kräfte und sind somit interessant anzusehen.</p><p>Am besten solltet ihr euch selbst ein Bild von Fate Stay Night machen und direkt den Gratis-Stream bei TV NOW ansehen!</p>",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/fate-stay-night-12503",
+        "@type": "Movie",
+        "description": "Shiro Emiya ist ein ganz normaler Schüler, der ein ganz normales Leben lebt. Als er eines Nachts jedoch von einem unheilvollen Wesen angegriffen wird, ändert sich für ihn alles. Er wird Teil einer epischen Schlacht zwischen magisch begabten Kriegern, die um den Besitz des Heilligen Grals kämpfen, der dem Gewinner jeden Wunsch erfüllt. Es entbrennt ein Kampf, der die Grenzen des Vorstellbaren sprengt.",
+        "duration": "PT1H41M19S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/330404/950x0/fatestay-night.jpg",
+        "name": "Fate/Stay Night",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/fate-stay-night-12503",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-09-05T07:46:40.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/fate-stay-night-12503",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Shiro Emiya ist ein ganz normaler Schüler, der ein ganz normales Leben lebt. Als er eines Nachts jedoch von einem unheilvollen Wesen angegriffen wird, ändert sich für ihn alles. Er wird Teil einer epischen Schlacht zwischen magisch begabten Kriegern, die um den Besitz des Heilligen Grals kämpfen, der dem Gewinner jeden Wunsch erfüllt. Es entbrennt ein Kampf, der die Grenzen des Vorstellbaren sprengt.",
+          "duration": "PT1H41M19S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/fate-stay-night-12503",
+          "name": "Fate/Stay Night",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/330404/950x0/fatestay-night.jpg",
+          "uploadDate": "2017-09-05T07:46:40.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Fate/Stay Night im Online Stream | TVNOW",
+        "headline": "Fate/Stay Night im Online Stream | TVNOW",
+        "description": "Fate/Stay Night und viele weitere  ▶️Filme aus dem Genre Anime findest du im Online Stream bei TVNOW. Ein Film mit ▶️Ayako Kawasumi, Junichi Suwabe, Kana Ueda.",
+        "url": "https://www.tvnow.de/filme/fate-stay-night-12503",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/330404/950x0/fatestay-night.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/330404/950x0/fatestay-night.jpg",
+        "datePublished": "2017-09-05T07:46:40.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/330404/950x0/fatestay-night.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Fate/Stay Night",
+            "item": "https://www.tvnow.de/filme/fatestay-night-12503"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Fate/Stay Night im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

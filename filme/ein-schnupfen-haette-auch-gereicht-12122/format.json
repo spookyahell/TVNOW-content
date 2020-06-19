@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 12122,
+  "additionalMeta": {
+    "canonical": "/filme/ein-schnupfen-haette-auch-gereicht-12122",
+    "url": "/filme/ein-schnupfen-haette-auch-gereicht-12122"
+  },
+  "ads": {
+    "station": "rtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Ein Schnupfen hätte auch gereicht",
+      "url": "/filme/ein-schnupfen-haette-auch-gereicht-12122"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 12122,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Ein Schnupfen hätte auch gereicht 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Ein Schnupfen hätte auch gereicht, video, videos, online sehen, internet tv, fernsehen, video on demand, rtl, Gaby Köster, Drama, Karriere, Comedy, TV-Star, Anna Schudt, Jasmin Schwiers, Swetlana Schönfeld, Schlaganfall, Künstlerin, ",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Ein Schnupfen hätte auch gereicht im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Ein Schnupfen hätte auch gereicht 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 395958,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/395958",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/12122"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rnfilme",
+      "video": "dvrsowf_ten_rnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Ein Schnupfen hätte auch gereicht",
+    "text": "Bei TV NOW kannst Du den Film Ein Schnupfen hätte auch gereicht und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/ein-schnupfen-haette-auch-gereicht-12122",
+        "@type": "Movie",
+        "description": "Advent des Jahres 2007: Hinter den Kulissen einer TV-Show geht es hoch her, denn Gaby Köster kümmert sich wieder einmal um alle gleichzeitig. Um ihre erkältete Maskenbildnerin, ihren Agenten Jonas, um Mike Krüger, Hugo Egon Balder und natürlich ihren Sohn Donald. Stress pur - und auch der Weihnachtsurlaub auf Ibiza bringt nicht die erhoffte Erholung. Gerade wieder zurück in Köln schmerzt Gabys Arm, ihr wird schwindelig, sie fällt und knallt auf einen Heizkörper. Die schwerwiegende Diagnose im Krankenhaus: Hirnblutung und Schlaganfall. Das Geräusch der Knochensäge dringt dumpf zu ihr durch, als man ihr die Schädeldecke entfernt.\n\nAls Gaby schließlich aus einem wochenlangen Komazustand erwacht, steht sie plötzlich vor einem neuen Leben - ohne Selbständigkeit und Selbstbestimmung. Doch die energische Physiotherapeutin Jacky greift durch: Sie hält ihr die Paparazzi vom Hals, duldet keine Kapitulation und provoziert Gaby zu neuen Kräften. Gaby rappelt sich auf und findet über ihren ersten Auftritt im September 2011 bei stern TV den Weg zurück ins Rampenlicht. Im Januar 2016 gelingt ihr mit den \"Puppenstars\" schließlich wieder der Schritt in die Primetime bei RTL.",
+        "duration": "PT1H26M37S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/395958/950x0/ein-schnupfen-haette-auch-gereicht.jpg",
+        "name": "Ein Schnupfen hätte auch gereicht",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/ein-schnupfen-haette-auch-gereicht-12122",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-12-27T03:45:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/ein-schnupfen-haette-auch-gereicht-12122",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Advent des Jahres 2007: Hinter den Kulissen einer TV-Show geht es hoch her, denn Gaby Köster kümmert sich wieder einmal um alle gleichzeitig. Um ihre erkältete Maskenbildnerin, ihren Agenten Jonas, um Mike Krüger, Hugo Egon Balder und natürlich ihren Sohn Donald. Stress pur - und auch der Weihnachtsurlaub auf Ibiza bringt nicht die erhoffte Erholung. Gerade wieder zurück in Köln schmerzt Gabys Arm, ihr wird schwindelig, sie fällt und knallt auf einen Heizkörper. Die schwerwiegende Diagnose im Krankenhaus: Hirnblutung und Schlaganfall. Das Geräusch der Knochensäge dringt dumpf zu ihr durch, als man ihr die Schädeldecke entfernt.\n\nAls Gaby schließlich aus einem wochenlangen Komazustand erwacht, steht sie plötzlich vor einem neuen Leben - ohne Selbständigkeit und Selbstbestimmung. Doch die energische Physiotherapeutin Jacky greift durch: Sie hält ihr die Paparazzi vom Hals, duldet keine Kapitulation und provoziert Gaby zu neuen Kräften. Gaby rappelt sich auf und findet über ihren ersten Auftritt im September 2011 bei stern TV den Weg zurück ins Rampenlicht. Im Januar 2016 gelingt ihr mit den \"Puppenstars\" schließlich wieder der Schritt in die Primetime bei RTL.",
+          "duration": "PT1H26M37S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/ein-schnupfen-haette-auch-gereicht-12122",
+          "name": "Ein Schnupfen hätte auch gereicht",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/395958/950x0/ein-schnupfen-haette-auch-gereicht.jpg",
+          "uploadDate": "2017-12-27T03:45:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Ein Schnupfen hätte auch gereicht im Online Stream | TVNOW",
+        "headline": "Ein Schnupfen hätte auch gereicht im Online Stream | TVNOW",
+        "description": "Ein Schnupfen hätte auch gereicht und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/ein-schnupfen-haette-auch-gereicht-12122",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/395958/950x0/ein-schnupfen-haette-auch-gereicht.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/395958/950x0/ein-schnupfen-haette-auch-gereicht.jpg",
+        "datePublished": "2017-12-27T03:45:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/395958/950x0/ein-schnupfen-haette-auch-gereicht.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ein Schnupfen hätte auch gereicht",
+            "item": "https://www.tvnow.de/filme/ein-schnupfen-haette-auch-gereicht-12122"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Ein Schnupfen hätte auch gereicht im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

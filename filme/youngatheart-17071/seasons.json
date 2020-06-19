@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17071",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17071,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/youngatheart-17071"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Young@Heart",
+          "teaserId": "film_1331353",
+          "teaserName": "Young@Heart | Young@Heart",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Young@Heart",
+        "id": 1331353,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331353/300x0/youngatheart.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331353/",
+            "filename": "youngatheart"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331353/600x0/youngatheart.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331353/",
+            "filename": "youngatheart"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331353/1200x0/youngatheart.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331353/",
+            "filename": "youngatheart"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331353/300x0/youngatheart.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331353/",
+            "filename": "youngatheart"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331353/600x0/youngatheart.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331353/",
+            "filename": "youngatheart"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331353/1200x0/youngatheart.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331353/",
+            "filename": "youngatheart"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "youngatheart",
+        "subheadline": "Young@Heart",
+        "text": "Staffel  | Fr. 30.11.2018, 08:53 Uhr",
+        "type": "film",
+        "url": "/filme/youngatheart-17071",
+        "videoId": 1331353
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

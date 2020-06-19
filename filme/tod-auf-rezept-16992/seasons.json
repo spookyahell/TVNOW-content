@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16992",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16992,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/tod-auf-rezept-16992"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Tod auf Rezept",
+          "teaserId": "film_932704",
+          "teaserName": "Tod auf Rezept | Tod auf Rezept",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Tod auf Rezept",
+        "id": 932704,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/932704/300x0/tod-auf-rezept.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/932704/",
+            "filename": "tod-auf-rezept"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/932704/600x0/tod-auf-rezept.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/932704/",
+            "filename": "tod-auf-rezept"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/932704/1200x0/tod-auf-rezept.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/932704/",
+            "filename": "tod-auf-rezept"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/932704/300x0/tod-auf-rezept.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/932704/",
+            "filename": "tod-auf-rezept"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/932704/600x0/tod-auf-rezept.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/932704/",
+            "filename": "tod-auf-rezept"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/932704/1200x0/tod-auf-rezept.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/932704/",
+            "filename": "tod-auf-rezept"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "tod-auf-rezept",
+        "subheadline": "Tod auf Rezept",
+        "text": "Staffel  | Do. 27.02.2020, 23:15 Uhr",
+        "type": "film",
+        "url": "/filme/tod-auf-rezept-16992",
+        "videoId": 932704
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

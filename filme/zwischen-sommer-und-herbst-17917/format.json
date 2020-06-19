@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 17917,
+  "additionalMeta": {
+    "canonical": "/filme/zwischen-sommer-und-herbst-17917",
+    "url": "/filme/zwischen-sommer-und-herbst-17917"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Zwischen Sommer und Herbst",
+      "url": "/filme/zwischen-sommer-und-herbst-17917"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17917,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Zwischen Sommer und Herbst 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Zwischen Sommer und Herbst im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Zwischen Sommer und Herbst 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1791262,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1791262",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17917"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_lgbt/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_lgbt",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Zwischen Sommer und Herbst",
+    "text": "Lena ist 17 und gerade mit der Schule fertig. Jetzt träumt sie von einem Auslandspraktikum in Argentinien und einem anschließenden Studium in Frankreich. Als sie eines Nachts am Familienkühlschrank auf Eva trifft, die neue Freundin ihres Bruders Jonas, geraten alle Pläne durcheinander. Die beiden Frauen verbringen immer mehr Zeit miteinander, ohne genau sagen zu können, was da gerade zwischen ihnen passiert. Bis Eva Lena eines Tages küsst.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/zwischen-sommer-und-herbst-17917",
+        "@type": "Movie",
+        "description": "Lena ist 17 und gerade mit der Schule fertig. Jetzt träumt sie von einem Auslandspraktikum in Argentinien und einem anschließenden Studium in Frankreich. Als sie eines Nachts am Familienkühlschrank auf Eva trifft, die neue Freundin ihres Bruders Jonas, geraten alle Pläne durcheinander. Die beiden Frauen verbringen immer mehr Zeit miteinander, ohne genau sagen zu können, was da gerade zwischen ihnen passiert. Bis Eva Lena eines Tages küsst.",
+        "duration": "PT1H38M5S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1791262/950x0/zwischen-sommer-und-herbst.jpg",
+        "name": "Zwischen Sommer und Herbst",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/zwischen-sommer-und-herbst-17917",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2019-09-30T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=zwischen-sommer-und-herbst-17917",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=zwischen-sommer-und-herbst-17917",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/zwischen-sommer-und-herbst-17917",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Lena ist 17 und gerade mit der Schule fertig. Jetzt träumt sie von einem Auslandspraktikum in Argentinien und einem anschließenden Studium in Frankreich. Als sie eines Nachts am Familienkühlschrank auf Eva trifft, die neue Freundin ihres Bruders Jonas, geraten alle Pläne durcheinander. Die beiden Frauen verbringen immer mehr Zeit miteinander, ohne genau sagen zu können, was da gerade zwischen ihnen passiert. Bis Eva Lena eines Tages küsst.",
+          "duration": "PT1H38M5S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/zwischen-sommer-und-herbst-17917",
+          "name": "Zwischen Sommer und Herbst",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1791262/950x0/zwischen-sommer-und-herbst.jpg",
+          "uploadDate": "2019-09-30T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Zwischen Sommer und Herbst im Online Stream | TVNOW",
+        "headline": "Zwischen Sommer und Herbst im Online Stream | TVNOW",
+        "description": "Zwischen Sommer und Herbst und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/zwischen-sommer-und-herbst-17917",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1791262/950x0/zwischen-sommer-und-herbst.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1791262/950x0/zwischen-sommer-und-herbst.jpg",
+        "datePublished": "2019-09-30T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1791262/950x0/zwischen-sommer-und-herbst.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Zwischen Sommer und Herbst",
+            "item": "https://www.tvnow.de/filme/zwischen-sommer-und-herbst-17917"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Zwischen Sommer und Herbst im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

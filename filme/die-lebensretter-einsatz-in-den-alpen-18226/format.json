@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 18226,
+  "additionalMeta": {
+    "canonical": "/filme/die-lebensretter-einsatz-in-den-alpen-18226",
+    "url": "/filme/die-lebensretter-einsatz-in-den-alpen-18226"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die Lebensretter - Einsatz in den Alpen",
+      "url": "/filme/die-lebensretter-einsatz-in-den-alpen-18226"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18226,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Die Lebensretter - Einsatz in den Alpen 📺 und viele weitere ▶️ Filme aus dem Genre Reportage findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Lebensretter - Einsatz in den Alpen im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Die Lebensretter - Einsatz in den Alpen 📺 und viele weitere ▶️ Filme aus dem Genre Reportage findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 2604562,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/2604562",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18226"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tndokuwissen",
+      "video": "dvrsowf_ten_tndokuwissen",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/tvnow_doku_wissen/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "tvnow_doku_wissen",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Reportage",
+    "cluster": [
+      "Wissen"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Die Lebensretter - Einsatz in den Alpen",
+    "text": "Eine Lawine - Menschen liegen verschüttet unter Schneemassen begraben. Lebensgefahr. Jetzt zählt jede Minute. Die Bergrettung Tirol muss jedes Jahr zu hunderten solcher Einsätze ausrücken.  Einsätze, bei denen die Retter häufig ihr eigenes Leben riskieren, um anderen in Not zu helfen. Unser Kamerateam war hautnah bei einer solchen Rettungsaktion dabei - und RTL-Reporterin Elke Büchter wagt ein Experiment. Sie lässt sich im Schnee eingraben. Wie ist es, unter einer Lawine verschüttet zu werden?",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/die-lebensretter-einsatz-in-den-alpen-18226",
+        "@type": "Movie",
+        "description": "Eine Lawine - Menschen liegen verschüttet unter Schneemassen begraben. Lebensgefahr. Jetzt zählt jede Minute. Die Bergrettung Tirol muss jedes Jahr zu hunderten solcher Einsätze ausrücken.  Einsätze, bei denen die Retter häufig ihr eigenes Leben riskieren, um anderen in Not zu helfen. Unser Kamerateam war hautnah bei einer solchen Rettungsaktion dabei - und RTL-Reporterin Elke Büchter wagt ein Experiment. Sie lässt sich im Schnee eingraben. Wie ist es, unter einer Lawine verschüttet zu werden?",
+        "duration": "PT22M",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/2604562/950x0/die-lebensretter-einsatz-in-den-alpen.jpg",
+        "name": "Die Lebensretter - Einsatz in den Alpen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/die-lebensretter-einsatz-in-den-alpen-18226",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2019-12-13T10:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=die-lebensretter-einsatz-in-den-alpen-18226",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=die-lebensretter-einsatz-in-den-alpen-18226",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/die-lebensretter-einsatz-in-den-alpen-18226",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Eine Lawine - Menschen liegen verschüttet unter Schneemassen begraben. Lebensgefahr. Jetzt zählt jede Minute. Die Bergrettung Tirol muss jedes Jahr zu hunderten solcher Einsätze ausrücken.  Einsätze, bei denen die Retter häufig ihr eigenes Leben riskieren, um anderen in Not zu helfen. Unser Kamerateam war hautnah bei einer solchen Rettungsaktion dabei - und RTL-Reporterin Elke Büchter wagt ein Experiment. Sie lässt sich im Schnee eingraben. Wie ist es, unter einer Lawine verschüttet zu werden?",
+          "duration": "PT22M",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/die-lebensretter-einsatz-in-den-alpen-18226",
+          "name": "Die Lebensretter - Einsatz in den Alpen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2604562/950x0/die-lebensretter-einsatz-in-den-alpen.jpg",
+          "uploadDate": "2019-12-13T10:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Lebensretter - Einsatz in den Alpen im Online Stream | TVNOW",
+        "headline": "Die Lebensretter - Einsatz in den Alpen im Online Stream | TVNOW",
+        "description": "Die Lebensretter - Einsatz in den Alpen und viele weitere  ▶️Filme aus dem Genre Reportage findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/die-lebensretter-einsatz-in-den-alpen-18226",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/2604562/950x0/die-lebensretter-einsatz-in-den-alpen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2604562/950x0/die-lebensretter-einsatz-in-den-alpen.jpg",
+        "datePublished": "2019-12-13T10:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/2604562/950x0/die-lebensretter-einsatz-in-den-alpen.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Lebensretter - Einsatz in den Alpen",
+            "item": "https://www.tvnow.de/filme/die-lebensretter-einsatz-in-den-alpen-18226"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Lebensretter - Einsatz in den Alpen im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

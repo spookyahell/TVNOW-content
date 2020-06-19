@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15317",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15317,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/beautiful-15317"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Beautiful",
+          "teaserId": "film_363820",
+          "teaserName": "Beautiful | Beautiful",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Beautiful",
+        "id": 363820,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/363820/300x0/beautiful.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/363820/",
+            "filename": "beautiful"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/363820/600x0/beautiful.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/363820/",
+            "filename": "beautiful"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/363820/1200x0/beautiful.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/363820/",
+            "filename": "beautiful"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/363820/300x0/beautiful.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/363820/",
+            "filename": "beautiful"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/363820/600x0/beautiful.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/363820/",
+            "filename": "beautiful"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/363820/1200x0/beautiful.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/363820/",
+            "filename": "beautiful"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "beautiful",
+        "subheadline": "Beautiful",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/beautiful-15317",
+        "videoId": 363820
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

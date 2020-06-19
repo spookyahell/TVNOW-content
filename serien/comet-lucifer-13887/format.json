@@ -1,0 +1,217 @@
+﻿{
+  "formatId": 13887,
+  "additionalMeta": {
+    "canonical": "/serien/comet-lucifer-13887",
+    "url": "/serien/comet-lucifer-13887"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Comet Lucifer",
+      "url": "/serien/comet-lucifer-13887"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 13887,
+  "meta": [
+    {
+      "content": "Die Serie Comet Lucifer (watchbox) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Anime im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "Anime, Abenteuer, Action, Drama, Fantasy, Mecha, Romanze, Scifi, Sci-Fi, Magie, Robots",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Comet Lucifer im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Comet Lucifer (watchbox) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Anime im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/13887",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/13887",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/13887",
+      "type": "teaserrow"
+    },
+    {
+      "id": 12563,
+      "label": "Alle Genres",
+      "moduleLayout": "landscape_small",
+      "moduleUrl": "/module/teaserrow/manual/12563",
+      "type": "teaserrow"
+    },
+    {
+      "id": 13887,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/13887",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbncometlucifer",
+      "video": "dvrsowf_ten_wbncometlucifer",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/comet_lucifer/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "comet_lucifer",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Anime",
+    "cluster": [],
+    "classification": [
+      "Box-Set"
+    ]
+  },
+  "seo": {
+    "headline": "Comet Lucifer - Informationen zur Serie",
+    "text": "<p>Im Magic-Anime <strong>Comet Lucifer</strong> geht es um die abenteuerliche Freundschaft zwischen dem Jungen Sougo Amagi und einem geheimnisvollen Mädchen mit blauen Haaren. In 12 magischen Episoden der ersten Staffel erlebt ihr, welchen Herausforderungen sich die beiden stellen müssen. Denn die Jagd nach den Kristallen im Untergrund endet in einer heiklen Verfolgungsjagd.</p><p>Der Schuljunge Sougo lebt in der Stadt Garden Indigound ist leidenschaftlicher Sammler. Er interessiert sich besonders für die wertvollen Kristalle namens Giftjium, die im Untergrund der Welt Gift versteckt sind. Nach einem Streit mit seinen Mitschülern Kaon, Roman und Otto verschlägt es ihn in die beeindruckende neue Welt. Da seine Heimatstadt durch den Abbau des Giftjium finanziell gut darsteht, hofft auch er durch das Sammeln der kostbaren Steine auf eine lukrative Geldquelle. In der verlassenen Bergbauruine trifft er dann auf ein mysteriöses Mädchen mit langen blauen Haaren und feuerroten Augen. Sie heißt Felia und scheint aus einem der Kristalle entschlüpft zu sein. Schon bald befinden sich Sougo und Felia auf der Flucht vor einer geheimen Organisation, die an Felias Superkräften interessiert ist...</p><p>Diese und weitere, spannende Serien findet Du ihr TV NOW!</p>",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "https://www.tvnow.de/serien/comet-lucifer-13887",
+        "url": "https://www.tvnow.de/serien/comet-lucifer-13887",
+        "name": "Comet Lucifer",
+        "description": "Die Serie Comet Lucifer (watchbox) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Anime im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/13887_04metalogo/1200x0/comet-lucifer.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Comet Lucifer - Informationen zur Serie",
+        "headline": "Comet Lucifer - Informationen zur Serie",
+        "description": "Die Serie Comet Lucifer (watchbox) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Anime im Online Stream bei TVNOW anschauen.",
+        "url": "https://www.tvnow.de/serien/comet-lucifer-13887",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/13887_04metalogo/1200x0/comet-lucifer.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/13887_04metalogo/1200x0/comet-lucifer.png",
+        "keywords": "Anime, Abenteuer, Action, Drama, Fantasy, Mecha, Romanze, Scifi, Sci-Fi, Magie, Robots",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/13887_04metalogo/1200x0/comet-lucifer.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "https://www.tvnow.de/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Comet Lucifer",
+            "item": "https://www.tvnow.de/serien/comet-lucifer-13887"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Comet Lucifer im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

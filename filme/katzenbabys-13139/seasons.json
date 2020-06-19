@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13139",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13139,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/katzenbabys-13139"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Katzenbabys",
+          "teaserId": "film_336366",
+          "teaserName": "Katzenbabys | Katzenbabys",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Katzenbabys",
+        "id": 336366,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336366/300x0/katzenbabys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336366/",
+            "filename": "katzenbabys"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336366/600x0/katzenbabys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336366/",
+            "filename": "katzenbabys"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336366/1200x0/katzenbabys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336366/",
+            "filename": "katzenbabys"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336366/300x0/katzenbabys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336366/",
+            "filename": "katzenbabys"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336366/600x0/katzenbabys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336366/",
+            "filename": "katzenbabys"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336366/1200x0/katzenbabys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336366/",
+            "filename": "katzenbabys"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "katzenbabys",
+        "subheadline": "Katzenbabys",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/katzenbabys-13139",
+        "videoId": 336366
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

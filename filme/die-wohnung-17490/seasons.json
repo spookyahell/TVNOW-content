@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17490",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17490,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-wohnung-17490"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Wohnung",
+          "teaserId": "film_1474965",
+          "teaserName": "Die Wohnung | Die Wohnung",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Wohnung",
+        "id": 1474965,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1474965/300x0/die-wohnung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1474965/",
+            "filename": "die-wohnung"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1474965/600x0/die-wohnung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1474965/",
+            "filename": "die-wohnung"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1474965/1200x0/die-wohnung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1474965/",
+            "filename": "die-wohnung"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1474965/300x0/die-wohnung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1474965/",
+            "filename": "die-wohnung"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1474965/600x0/die-wohnung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1474965/",
+            "filename": "die-wohnung"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1474965/1200x0/die-wohnung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1474965/",
+            "filename": "die-wohnung"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-wohnung",
+        "subheadline": "Die Wohnung",
+        "text": "Staffel  | Di. 07.01.2020, 22:50 Uhr",
+        "type": "film",
+        "url": "/filme/die-wohnung-17490",
+        "videoId": 1474965
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

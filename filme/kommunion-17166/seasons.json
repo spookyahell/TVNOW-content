@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17166",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17166,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/kommunion-17166"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Kommunion",
+          "teaserId": "film_1343196",
+          "teaserName": "Kommunion | Kommunion",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Kommunion",
+        "id": 1343196,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1343196/300x0/kommunion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1343196/",
+            "filename": "kommunion"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1343196/600x0/kommunion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1343196/",
+            "filename": "kommunion"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1343196/1200x0/kommunion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1343196/",
+            "filename": "kommunion"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1343196/300x0/kommunion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1343196/",
+            "filename": "kommunion"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1343196/600x0/kommunion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1343196/",
+            "filename": "kommunion"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1343196/1200x0/kommunion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1343196/",
+            "filename": "kommunion"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "kommunion",
+        "subheadline": "Kommunion",
+        "text": "Staffel  | Mo. 04.05.2020, 23:35 Uhr",
+        "type": "film",
+        "url": "/filme/kommunion-17166",
+        "videoId": 1343196
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

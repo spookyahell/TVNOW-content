@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16517",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16517,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/alice-the-darkest-hour-16517"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Alice: The Darkest Hour",
+          "teaserId": "film_1209086",
+          "teaserName": "Alice: The Darkest Hour | Alice: The Darkest Hour",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Alice: The Darkest Hour",
+        "id": 1209086,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1209086/300x0/alice-the-darkest-hour.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1209086/",
+            "filename": "alice-the-darkest-hour"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1209086/600x0/alice-the-darkest-hour.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1209086/",
+            "filename": "alice-the-darkest-hour"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1209086/1200x0/alice-the-darkest-hour.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1209086/",
+            "filename": "alice-the-darkest-hour"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1209086/300x0/alice-the-darkest-hour.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1209086/",
+            "filename": "alice-the-darkest-hour"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1209086/600x0/alice-the-darkest-hour.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1209086/",
+            "filename": "alice-the-darkest-hour"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1209086/1200x0/alice-the-darkest-hour.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1209086/",
+            "filename": "alice-the-darkest-hour"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "alice-the-darkest-hour",
+        "subheadline": "Alice: The Darkest Hour",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/alice-the-darkest-hour-16517",
+        "videoId": 1209086
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

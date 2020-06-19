@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13517",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13517,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/nightmare-boulevard-13517"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Nightmare Boulevard",
+          "teaserId": "film_337556",
+          "teaserName": "Nightmare Boulevard | Nightmare Boulevard",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Nightmare Boulevard",
+        "id": 337556,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337556/300x0/nightmare-boulevard.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337556/",
+            "filename": "nightmare-boulevard"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337556/600x0/nightmare-boulevard.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337556/",
+            "filename": "nightmare-boulevard"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337556/1200x0/nightmare-boulevard.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337556/",
+            "filename": "nightmare-boulevard"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337556/300x0/nightmare-boulevard.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337556/",
+            "filename": "nightmare-boulevard"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337556/600x0/nightmare-boulevard.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337556/",
+            "filename": "nightmare-boulevard"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337556/1200x0/nightmare-boulevard.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337556/",
+            "filename": "nightmare-boulevard"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "nightmare-boulevard",
+        "subheadline": "Nightmare Boulevard",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/nightmare-boulevard-13517",
+        "videoId": 337556
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

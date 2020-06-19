@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12555",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12555,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/drive-12555"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Drive",
+          "teaserId": "film_330646",
+          "teaserName": "Drive | Drive",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Drive",
+        "id": 330646,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330646/300x0/drive.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330646/",
+            "filename": "drive"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330646/600x0/drive.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330646/",
+            "filename": "drive"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330646/1200x0/drive.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330646/",
+            "filename": "drive"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330646/300x0/drive.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330646/",
+            "filename": "drive"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330646/600x0/drive.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330646/",
+            "filename": "drive"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330646/1200x0/drive.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330646/",
+            "filename": "drive"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "drive",
+        "subheadline": "Drive",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/drive-12555",
+        "videoId": 330646
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

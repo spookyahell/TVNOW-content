@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16991",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16991,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/tiere-xxs-16991"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Tiere XXS",
+          "teaserId": "film_918966",
+          "teaserName": "Tiere XXS | Tiere XXS",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Tiere"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Tiere XXS",
+        "id": 918966,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/918966/300x0/tiere-xxs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/918966/",
+            "filename": "tiere-xxs"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/918966/600x0/tiere-xxs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/918966/",
+            "filename": "tiere-xxs"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/918966/1200x0/tiere-xxs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/918966/",
+            "filename": "tiere-xxs"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/918966/300x0/tiere-xxs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/918966/",
+            "filename": "tiere-xxs"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/918966/600x0/tiere-xxs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/918966/",
+            "filename": "tiere-xxs"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/918966/1200x0/tiere-xxs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/918966/",
+            "filename": "tiere-xxs"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "tiere-xxs",
+        "subheadline": "Tiere XXS",
+        "text": "Staffel  | Mo. 25.02.2019, 17:50 Uhr",
+        "type": "film",
+        "url": "/filme/tiere-xxs-16991",
+        "videoId": 918966
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

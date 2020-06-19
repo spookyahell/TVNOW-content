@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16225",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16225,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/a-different-set-of-cards-16225"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "A Different Set of Cards",
+          "teaserId": "film_919214",
+          "teaserName": "A Different Set of Cards | A Different Set of Cards",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "A Different Set of Cards",
+        "id": 919214,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919214/300x0/a-different-set-of-cards.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919214/",
+            "filename": "a-different-set-of-cards"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919214/600x0/a-different-set-of-cards.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919214/",
+            "filename": "a-different-set-of-cards"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919214/1200x0/a-different-set-of-cards.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919214/",
+            "filename": "a-different-set-of-cards"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919214/300x0/a-different-set-of-cards.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919214/",
+            "filename": "a-different-set-of-cards"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919214/600x0/a-different-set-of-cards.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919214/",
+            "filename": "a-different-set-of-cards"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919214/1200x0/a-different-set-of-cards.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919214/",
+            "filename": "a-different-set-of-cards"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "a-different-set-of-cards",
+        "subheadline": "A Different Set of Cards",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/a-different-set-of-cards-16225",
+        "videoId": 919214
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

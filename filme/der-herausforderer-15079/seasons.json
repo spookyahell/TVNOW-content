@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15079",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15079,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-herausforderer-15079"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Herausforderer",
+          "teaserId": "film_355626",
+          "teaserName": "Der Herausforderer | Der Herausforderer",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Herausforderer",
+        "id": 355626,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355626/300x0/der-herausforderer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355626/",
+            "filename": "der-herausforderer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355626/600x0/der-herausforderer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355626/",
+            "filename": "der-herausforderer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355626/1200x0/der-herausforderer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355626/",
+            "filename": "der-herausforderer"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355626/300x0/der-herausforderer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355626/",
+            "filename": "der-herausforderer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355626/600x0/der-herausforderer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355626/",
+            "filename": "der-herausforderer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355626/1200x0/der-herausforderer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355626/",
+            "filename": "der-herausforderer"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-herausforderer",
+        "subheadline": "Der Herausforderer",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/der-herausforderer-15079",
+        "videoId": 355626
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

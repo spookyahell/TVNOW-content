@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13541",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13541,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/kaminfeuer-13541"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Kaminfeuer",
+          "teaserId": "film_337612",
+          "teaserName": "Kaminfeuer | Kaminfeuer",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Kaminfeuer",
+        "id": 337612,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337612/300x0/kaminfeuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337612/",
+            "filename": "kaminfeuer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337612/600x0/kaminfeuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337612/",
+            "filename": "kaminfeuer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337612/1200x0/kaminfeuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337612/",
+            "filename": "kaminfeuer"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337612/300x0/kaminfeuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337612/",
+            "filename": "kaminfeuer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337612/600x0/kaminfeuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337612/",
+            "filename": "kaminfeuer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337612/1200x0/kaminfeuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337612/",
+            "filename": "kaminfeuer"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "kaminfeuer",
+        "subheadline": "Kaminfeuer",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/kaminfeuer-13541",
+        "videoId": 337612
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

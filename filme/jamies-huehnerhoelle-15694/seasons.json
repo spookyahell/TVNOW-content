@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15694",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15694,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/jamies-huehnerhoelle-15694"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Jamies Hühnerhölle",
+          "teaserId": "film_408892",
+          "teaserName": "Jamies Hühnerhölle | Jamies Hühnerhölle",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kochen",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Jamies Hühnerhölle",
+        "id": 408892,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/408892/300x0/jamies-huehnerhoelle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/408892/",
+            "filename": "jamies-huehnerhoelle"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/408892/600x0/jamies-huehnerhoelle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/408892/",
+            "filename": "jamies-huehnerhoelle"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/408892/1200x0/jamies-huehnerhoelle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/408892/",
+            "filename": "jamies-huehnerhoelle"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/408892/300x0/jamies-huehnerhoelle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/408892/",
+            "filename": "jamies-huehnerhoelle"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/408892/600x0/jamies-huehnerhoelle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/408892/",
+            "filename": "jamies-huehnerhoelle"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/408892/1200x0/jamies-huehnerhoelle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/408892/",
+            "filename": "jamies-huehnerhoelle"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "jamies-huehnerhoelle",
+        "subheadline": "Jamies Hühnerhölle",
+        "text": "Staffel  | Di. 07.04.2020, 19:20 Uhr",
+        "type": "film",
+        "url": "/filme/jamies-huehnerhoelle-15694",
+        "videoId": 408892
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

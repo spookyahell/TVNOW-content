@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16123",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16123,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/belgrad-radio-taxi-16123"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Belgrad Radio Taxi",
+          "teaserId": "film_579106",
+          "teaserName": "Belgrad Radio Taxi | Belgrad Radio Taxi",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Belgrad Radio Taxi",
+        "id": 579106,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/579106/300x0/belgrad-radio-taxi.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/579106/",
+            "filename": "belgrad-radio-taxi"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/579106/600x0/belgrad-radio-taxi.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/579106/",
+            "filename": "belgrad-radio-taxi"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/579106/1200x0/belgrad-radio-taxi.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/579106/",
+            "filename": "belgrad-radio-taxi"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/579106/300x0/belgrad-radio-taxi.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/579106/",
+            "filename": "belgrad-radio-taxi"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/579106/600x0/belgrad-radio-taxi.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/579106/",
+            "filename": "belgrad-radio-taxi"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/579106/1200x0/belgrad-radio-taxi.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/579106/",
+            "filename": "belgrad-radio-taxi"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "belgrad-radio-taxi",
+        "subheadline": "Belgrad Radio Taxi",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/belgrad-radio-taxi-16123",
+        "videoId": 579106
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

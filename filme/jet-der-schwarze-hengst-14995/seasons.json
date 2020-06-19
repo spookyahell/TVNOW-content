@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14995",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14995,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/jet-der-schwarze-hengst-14995"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Jet - Der schwarze Hengst",
+          "teaserId": "film_354668",
+          "teaserName": "Jet - Der schwarze Hengst | Jet - Der schwarze Hengst",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Jet - Der schwarze Hengst",
+        "id": 354668,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354668/300x0/jet-der-schwarze-hengst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354668/",
+            "filename": "jet-der-schwarze-hengst"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354668/600x0/jet-der-schwarze-hengst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354668/",
+            "filename": "jet-der-schwarze-hengst"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354668/1200x0/jet-der-schwarze-hengst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354668/",
+            "filename": "jet-der-schwarze-hengst"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354668/300x0/jet-der-schwarze-hengst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354668/",
+            "filename": "jet-der-schwarze-hengst"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354668/600x0/jet-der-schwarze-hengst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354668/",
+            "filename": "jet-der-schwarze-hengst"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354668/1200x0/jet-der-schwarze-hengst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354668/",
+            "filename": "jet-der-schwarze-hengst"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "jet-der-schwarze-hengst",
+        "subheadline": "Jet - Der schwarze Hengst",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/jet-der-schwarze-hengst-14995",
+        "videoId": 354668
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

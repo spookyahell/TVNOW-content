@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13401",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13401,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/21-brothers-13401"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "21 Brothers",
+          "teaserId": "film_338982",
+          "teaserName": "21 Brothers | 21 Brothers",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "21 Brothers",
+        "id": 338982,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338982/300x0/21-brothers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338982/",
+            "filename": "21-brothers"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338982/600x0/21-brothers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338982/",
+            "filename": "21-brothers"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338982/1200x0/21-brothers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338982/",
+            "filename": "21-brothers"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338982/300x0/21-brothers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338982/",
+            "filename": "21-brothers"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338982/600x0/21-brothers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338982/",
+            "filename": "21-brothers"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338982/1200x0/21-brothers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338982/",
+            "filename": "21-brothers"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "21-brothers",
+        "subheadline": "21 Brothers",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/21-brothers-13401",
+        "videoId": 338982
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

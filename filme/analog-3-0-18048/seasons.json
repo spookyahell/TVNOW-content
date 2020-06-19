@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18048",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18048,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/analog-3-0-18048"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Analog 3.0",
+          "teaserId": "film_2661519",
+          "teaserName": "Analog 3.0 | Analog 3.0",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Analog 3.0",
+        "id": 2661519,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2661519/300x0/analog-3-0.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2661519/",
+            "filename": "analog-3-0"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2661519/600x0/analog-3-0.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2661519/",
+            "filename": "analog-3-0"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2661519/1200x0/analog-3-0.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2661519/",
+            "filename": "analog-3-0"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2661519/300x0/analog-3-0.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2661519/",
+            "filename": "analog-3-0"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2661519/600x0/analog-3-0.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2661519/",
+            "filename": "analog-3-0"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2661519/1200x0/analog-3-0.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2661519/",
+            "filename": "analog-3-0"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "analog-3-0",
+        "subheadline": "Analog 3.0",
+        "text": "Staffel  | So. 22.12.2019, 10:10 Uhr",
+        "type": "film",
+        "url": "/filme/analog-3-0-18048",
+        "videoId": 2661519
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16111",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16111,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/einer-wie-bruno-16111"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Einer wie Bruno",
+          "teaserId": "film_577850",
+          "teaserName": "Einer wie Bruno | Einer wie Bruno",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Einer wie Bruno",
+        "id": 577850,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577850/300x0/einer-wie-bruno.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577850/",
+            "filename": "einer-wie-bruno"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577850/600x0/einer-wie-bruno.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577850/",
+            "filename": "einer-wie-bruno"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577850/1200x0/einer-wie-bruno.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577850/",
+            "filename": "einer-wie-bruno"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577850/300x0/einer-wie-bruno.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577850/",
+            "filename": "einer-wie-bruno"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577850/600x0/einer-wie-bruno.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577850/",
+            "filename": "einer-wie-bruno"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577850/1200x0/einer-wie-bruno.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577850/",
+            "filename": "einer-wie-bruno"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "einer-wie-bruno",
+        "subheadline": "Einer wie Bruno",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/einer-wie-bruno-16111",
+        "videoId": 577850
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

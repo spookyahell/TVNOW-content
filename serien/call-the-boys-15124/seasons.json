@@ -1,0 +1,106 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15124",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15124,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/serien/call-the-boys-15124/weitere/episode-1-call-the-boys-355974"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Call The Boys",
+          "teaserId": "serie_episode_355974",
+          "teaserName": "Call The Boys | Folge 1 | Call The Boys",
+          "teaserPayType": "paid",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Mo. 11.09.2017, 21:15 Uhr",
+          "teaserEpisodeName": "Call The Boys"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Call The Boys",
+        "id": 355974,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355974/300x0/call-the-boys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355974/",
+            "filename": "call-the-boys"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355974/600x0/call-the-boys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355974/",
+            "filename": "call-the-boys"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355974/1200x0/call-the-boys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355974/",
+            "filename": "call-the-boys"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355974/300x0/call-the-boys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355974/",
+            "filename": "call-the-boys"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355974/600x0/call-the-boys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355974/",
+            "filename": "call-the-boys"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355974/1200x0/call-the-boys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355974/",
+            "filename": "call-the-boys"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "call-the-boys",
+        "subheadline": "Call The Boys",
+        "text": "Staffel , Folge 1 | Mo. 11.09.2017, 21:15 Uhr",
+        "type": "serie",
+        "url": "/serien/call-the-boys-15124/weitere/episode-1-call-the-boys-355974",
+        "videoId": 355974
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

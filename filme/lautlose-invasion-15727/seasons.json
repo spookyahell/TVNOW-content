@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15727",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15727,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/lautlose-invasion-15727"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Lautlose Invasion",
+          "teaserId": "film_410502",
+          "teaserName": "Lautlose Invasion | Lautlose Invasion",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Science Fiction",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Lautlose Invasion",
+        "id": 410502,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410502/300x0/lautlose-invasion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410502/",
+            "filename": "lautlose-invasion"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410502/600x0/lautlose-invasion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410502/",
+            "filename": "lautlose-invasion"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410502/1200x0/lautlose-invasion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410502/",
+            "filename": "lautlose-invasion"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410502/300x0/lautlose-invasion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410502/",
+            "filename": "lautlose-invasion"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410502/600x0/lautlose-invasion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410502/",
+            "filename": "lautlose-invasion"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410502/1200x0/lautlose-invasion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410502/",
+            "filename": "lautlose-invasion"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "lautlose-invasion",
+        "subheadline": "Lautlose Invasion",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/lautlose-invasion-15727",
+        "videoId": 410502
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

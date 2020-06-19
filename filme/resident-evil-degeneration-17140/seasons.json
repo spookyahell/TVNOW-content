@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17140",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17140,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/resident-evil-degeneration-17140"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Resident Evil: Degeneration",
+          "teaserId": "film_1329735",
+          "teaserName": "Resident Evil: Degeneration | Resident Evil: Degeneration",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Resident Evil: Degeneration",
+        "id": 1329735,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1329735/300x0/resident-evil-degeneration.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1329735/",
+            "filename": "resident-evil-degeneration"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1329735/600x0/resident-evil-degeneration.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1329735/",
+            "filename": "resident-evil-degeneration"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1329735/1200x0/resident-evil-degeneration.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1329735/",
+            "filename": "resident-evil-degeneration"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1329735/300x0/resident-evil-degeneration.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1329735/",
+            "filename": "resident-evil-degeneration"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1329735/600x0/resident-evil-degeneration.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1329735/",
+            "filename": "resident-evil-degeneration"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1329735/1200x0/resident-evil-degeneration.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1329735/",
+            "filename": "resident-evil-degeneration"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "resident-evil-degeneration",
+        "subheadline": "Resident Evil: Degeneration",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/resident-evil-degeneration-17140",
+        "videoId": 1329735
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

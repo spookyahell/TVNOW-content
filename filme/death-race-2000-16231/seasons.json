@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16231",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16231,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/death-race-2000-16231"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Death Race 2000",
+          "teaserId": "film_919512",
+          "teaserName": "Death Race 2000 | Death Race 2000",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Death Race 2000",
+        "id": 919512,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919512/300x0/death-race-2000.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919512/",
+            "filename": "death-race-2000"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919512/600x0/death-race-2000.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919512/",
+            "filename": "death-race-2000"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919512/1200x0/death-race-2000.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919512/",
+            "filename": "death-race-2000"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919512/300x0/death-race-2000.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919512/",
+            "filename": "death-race-2000"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919512/600x0/death-race-2000.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919512/",
+            "filename": "death-race-2000"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919512/1200x0/death-race-2000.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919512/",
+            "filename": "death-race-2000"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "death-race-2000",
+        "subheadline": "Death Race 2000",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/death-race-2000-16231",
+        "videoId": 919512
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12473",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12473,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/black-kiss-12473"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Black Kiss",
+          "teaserId": "film_332064",
+          "teaserName": "Black Kiss | Black Kiss",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Black Kiss",
+        "id": 332064,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332064/300x0/black-kiss.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332064/",
+            "filename": "black-kiss"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332064/600x0/black-kiss.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332064/",
+            "filename": "black-kiss"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332064/1200x0/black-kiss.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332064/",
+            "filename": "black-kiss"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332064/300x0/black-kiss.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332064/",
+            "filename": "black-kiss"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332064/600x0/black-kiss.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332064/",
+            "filename": "black-kiss"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332064/1200x0/black-kiss.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332064/",
+            "filename": "black-kiss"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "black-kiss",
+        "subheadline": "Black Kiss",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/black-kiss-12473",
+        "videoId": 332064
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

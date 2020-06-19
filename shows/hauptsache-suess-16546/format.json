@@ -1,0 +1,208 @@
+﻿{
+  "formatId": 16546,
+  "additionalMeta": {
+    "canonical": "/shows/hauptsache-suess-16546",
+    "url": "/shows/hauptsache-suess-16546"
+  },
+  "ads": {
+    "station": "rtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "Hauptsache süß",
+      "url": "/shows/hauptsache-suess-16546"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 16546,
+  "meta": [
+    {
+      "content": "Die Show ▶ Hauptsache süß (RTL) streamen & weitere Highlights aus dem Genre 📺 Kochen im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "video, videos, online sehen, internet tv, fernsehen, video on demand, TV NOW, RTL, Hauptsache süß, backen, kochen",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Hauptsache süß im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ Hauptsache süß (RTL) streamen & weitere Highlights aus dem Genre 📺 Kochen im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/16546",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/16546",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/16546",
+      "type": "teaserrow"
+    },
+    {
+      "id": 16546,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/16546",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rnhauptsachesuess",
+      "video": "dvrsowf_ten_rnhauptsachesuess",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_now/formate/hauptsache_suess/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_now",
+        "formate",
+        "hauptsache_suess",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kochen",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zur Show: Hauptsache süß",
+    "text": "Deine Lieblings-Show ist Hauptsache süß? Kein Problem, bei TV NOW kannst Du sie Dir im Stream anschauen! Egal ob auf Reisen oder von zu Hause aus – mit unserer Vielzahl von Shows vergeht die Zeit wie im Flug! Einfach auswählen, zurücklehnen und Deine Lieblings-Show online bei TV NOW genießen.",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "https://www.tvnow.de/shows/hauptsache-suess-16546",
+        "url": "https://www.tvnow.de/shows/hauptsache-suess-16546",
+        "name": "Hauptsache süß",
+        "description": "Die Show ▶ Hauptsache süß (RTL) streamen & weitere Highlights aus dem Genre 📺 Kochen im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/16546_04metalogo/1200x0/hauptsache-suess.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Information zur Show: Hauptsache süß",
+        "headline": "Information zur Show: Hauptsache süß",
+        "description": "Die Show ▶ Hauptsache süß (RTL) streamen & weitere Highlights aus dem Genre 📺 Kochen im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+        "url": "https://www.tvnow.de/shows/hauptsache-suess-16546",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/16546_04metalogo/1200x0/hauptsache-suess.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/16546_04metalogo/1200x0/hauptsache-suess.png",
+        "keywords": "video, videos, online sehen, internet tv, fernsehen, video on demand, TV NOW, RTL, Hauptsache süß, backen, kochen",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/16546_04metalogo/1200x0/hauptsache-suess.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "https://www.tvnow.de/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hauptsache süß",
+            "item": "https://www.tvnow.de/shows/hauptsache-suess-16546"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Hauptsache süß im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

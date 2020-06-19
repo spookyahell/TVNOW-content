@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 17701,
+  "additionalMeta": {
+    "canonical": "/filme/geniale-goettin-die-geschichte-von-hedy-lamarr-17701",
+    "url": "/filme/geniale-goettin-die-geschichte-von-hedy-lamarr-17701"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Geniale Göttin - Die Geschichte von Hedy Lamarr",
+      "url": "/filme/geniale-goettin-die-geschichte-von-hedy-lamarr-17701"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17701,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Geniale Göttin - Die Geschichte von Hedy Lamarr 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Geniale Göttin - Die Geschichte von Hedy Lamarr, TVNOW, GEO, VOD, Stream, Video, Doku, Dokumentation, Hollywood, Hedy Lamarr",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Geniale Göttin - Die Geschichte von Hedy Lamarr im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Geniale Göttin - Die Geschichte von Hedy Lamarr 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1640002,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1640002",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17701"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Geniale Göttin - Die Geschichte von Hedy Lamarr",
+    "text": "In den 1940er Jahren avancierte Hedy Lamarr zum international gefeierten Hollywoodstar. Während die Filmdiva weltweit für ihre Schönheit verehrt wird, blieb das Genie hinter der hübschen Fassade lange im Verborgenen. Was kaum einer weiß: Während des Zweiten Weltkrieges entwickelte sie ein bahnbrechendes Fernmeldesystem, das noch heute die Grundlage für sicheres WiFi, Bluetooth und GPS ist. \"Geniale Göttin - Die Geschichte von Hedy Lamarr\" beleuchtet erstmals auch die andere, weitestgehend unbekannte Seite der Ausnahmepersönlichkeit. Ihre unglaubliche Lebensgeschichte erzählt Hedy Lamarr in verloren geglaubten und nie zuvor veröffentlichten Tonaufnahmen selbst.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/geniale-goettin-die-geschichte-von-hedy-lamarr-17701",
+        "@type": "Movie",
+        "description": "In den 1940er Jahren avancierte Hedy Lamarr zum international gefeierten Hollywoodstar. Während die Filmdiva weltweit für ihre Schönheit verehrt wird, blieb das Genie hinter der hübschen Fassade lange im Verborgenen. Was kaum einer weiß: Während des Zweiten Weltkrieges entwickelte sie ein bahnbrechendes Fernmeldesystem, das noch heute die Grundlage für sicheres WiFi, Bluetooth und GPS ist. \"Geniale Göttin - Die Geschichte von Hedy Lamarr\" beleuchtet erstmals auch die andere, weitestgehend unbekannte Seite der Ausnahmepersönlichkeit. Ihre unglaubliche Lebensgeschichte erzählt Hedy Lamarr in verloren geglaubten und nie zuvor veröffentlichten Tonaufnahmen selbst.",
+        "duration": "PT1H25M41S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1640002/950x0/geniale-goettin-die-geschichte-von-hedy-lamarr.jpg",
+        "name": "Geniale Göttin - Die Geschichte von Hedy Lamarr",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/geniale-goettin-die-geschichte-von-hedy-lamarr-17701",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-02-19T22:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=geniale-goettin-die-geschichte-von-hedy-lamarr-17701",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=geniale-goettin-die-geschichte-von-hedy-lamarr-17701",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/geniale-goettin-die-geschichte-von-hedy-lamarr-17701",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "In den 1940er Jahren avancierte Hedy Lamarr zum international gefeierten Hollywoodstar. Während die Filmdiva weltweit für ihre Schönheit verehrt wird, blieb das Genie hinter der hübschen Fassade lange im Verborgenen. Was kaum einer weiß: Während des Zweiten Weltkrieges entwickelte sie ein bahnbrechendes Fernmeldesystem, das noch heute die Grundlage für sicheres WiFi, Bluetooth und GPS ist. \"Geniale Göttin - Die Geschichte von Hedy Lamarr\" beleuchtet erstmals auch die andere, weitestgehend unbekannte Seite der Ausnahmepersönlichkeit. Ihre unglaubliche Lebensgeschichte erzählt Hedy Lamarr in verloren geglaubten und nie zuvor veröffentlichten Tonaufnahmen selbst.",
+          "duration": "PT1H25M41S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/geniale-goettin-die-geschichte-von-hedy-lamarr-17701",
+          "name": "Geniale Göttin - Die Geschichte von Hedy Lamarr",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1640002/950x0/geniale-goettin-die-geschichte-von-hedy-lamarr.jpg",
+          "uploadDate": "2020-02-19T22:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Geniale Göttin - Die Geschichte von Hedy Lamarr im Online Stream | TVNOW",
+        "headline": "Geniale Göttin - Die Geschichte von Hedy Lamarr im Online Stream | TVNOW",
+        "description": "Geniale Göttin - Die Geschichte von Hedy Lamarr und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/geniale-goettin-die-geschichte-von-hedy-lamarr-17701",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1640002/950x0/geniale-goettin-die-geschichte-von-hedy-lamarr.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1640002/950x0/geniale-goettin-die-geschichte-von-hedy-lamarr.jpg",
+        "datePublished": "2020-02-19T22:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1640002/950x0/geniale-goettin-die-geschichte-von-hedy-lamarr.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Geniale Göttin - Die Geschichte von Hedy Lamarr",
+            "item": "https://www.tvnow.de/filme/geniale-goettin-die-geschichte-von-hedy-lamarr-17701"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Geniale Göttin - Die Geschichte von Hedy Lamarr im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

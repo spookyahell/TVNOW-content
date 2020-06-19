@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16033",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16033,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-10-regeln-der-liebe-16033"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die 10 Regeln der Liebe",
+          "teaserId": "film_439290",
+          "teaserName": "Die 10 Regeln der Liebe | Die 10 Regeln der Liebe",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die 10 Regeln der Liebe",
+        "id": 439290,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/439290/300x0/die-10-regeln-der-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/439290/",
+            "filename": "die-10-regeln-der-liebe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/439290/600x0/die-10-regeln-der-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/439290/",
+            "filename": "die-10-regeln-der-liebe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/439290/1200x0/die-10-regeln-der-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/439290/",
+            "filename": "die-10-regeln-der-liebe"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/439290/300x0/die-10-regeln-der-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/439290/",
+            "filename": "die-10-regeln-der-liebe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/439290/600x0/die-10-regeln-der-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/439290/",
+            "filename": "die-10-regeln-der-liebe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/439290/1200x0/die-10-regeln-der-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/439290/",
+            "filename": "die-10-regeln-der-liebe"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-10-regeln-der-liebe",
+        "subheadline": "Die 10 Regeln der Liebe",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/die-10-regeln-der-liebe-16033",
+        "videoId": 439290
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

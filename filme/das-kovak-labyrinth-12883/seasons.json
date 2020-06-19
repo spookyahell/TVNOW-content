@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12883",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12883,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/das-kovak-labyrinth-12883"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Kovak Labyrinth",
+          "teaserId": "film_334694",
+          "teaserName": "Das Kovak Labyrinth | Das Kovak Labyrinth",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das Kovak Labyrinth",
+        "id": 334694,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334694/300x0/das-kovak-labyrinth.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334694/",
+            "filename": "das-kovak-labyrinth"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334694/600x0/das-kovak-labyrinth.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334694/",
+            "filename": "das-kovak-labyrinth"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334694/1200x0/das-kovak-labyrinth.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334694/",
+            "filename": "das-kovak-labyrinth"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334694/300x0/das-kovak-labyrinth.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334694/",
+            "filename": "das-kovak-labyrinth"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334694/600x0/das-kovak-labyrinth.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334694/",
+            "filename": "das-kovak-labyrinth"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334694/1200x0/das-kovak-labyrinth.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334694/",
+            "filename": "das-kovak-labyrinth"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-kovak-labyrinth",
+        "subheadline": "Das Kovak Labyrinth",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/das-kovak-labyrinth-12883",
+        "videoId": 334694
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

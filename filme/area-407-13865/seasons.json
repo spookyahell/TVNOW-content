@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13865",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13865,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/area-407-13865"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Area 407",
+          "teaserId": "film_338854",
+          "teaserName": "Area 407 | Area 407",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Area 407",
+        "id": 338854,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338854/300x0/area-407.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338854/",
+            "filename": "area-407"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338854/600x0/area-407.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338854/",
+            "filename": "area-407"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338854/1200x0/area-407.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338854/",
+            "filename": "area-407"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338854/300x0/area-407.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338854/",
+            "filename": "area-407"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338854/600x0/area-407.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338854/",
+            "filename": "area-407"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338854/1200x0/area-407.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338854/",
+            "filename": "area-407"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "area-407",
+        "subheadline": "Area 407",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/area-407-13865",
+        "videoId": 338854
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

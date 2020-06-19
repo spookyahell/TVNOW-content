@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14311",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14311,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/jin-roh-14311"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Jin Roh",
+          "teaserId": "film_343214",
+          "teaserName": "Jin Roh | Jin Roh",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Anime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Jin Roh",
+        "id": 343214,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343214/300x0/jin-roh.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343214/",
+            "filename": "jin-roh"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343214/600x0/jin-roh.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343214/",
+            "filename": "jin-roh"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343214/1200x0/jin-roh.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343214/",
+            "filename": "jin-roh"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343214/300x0/jin-roh.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343214/",
+            "filename": "jin-roh"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343214/600x0/jin-roh.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343214/",
+            "filename": "jin-roh"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343214/1200x0/jin-roh.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343214/",
+            "filename": "jin-roh"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "jin-roh",
+        "subheadline": "Jin Roh",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/jin-roh-14311",
+        "videoId": 343214
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

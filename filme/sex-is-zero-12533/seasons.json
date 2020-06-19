@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12533",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12533,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/sex-is-zero-12533"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sex is Zero",
+          "teaserId": "film_330610",
+          "teaserName": "Sex is Zero | Sex is Zero",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Sex is Zero",
+        "id": 330610,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330610/300x0/sex-is-zero.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330610/",
+            "filename": "sex-is-zero"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330610/600x0/sex-is-zero.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330610/",
+            "filename": "sex-is-zero"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330610/1200x0/sex-is-zero.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330610/",
+            "filename": "sex-is-zero"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330610/300x0/sex-is-zero.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330610/",
+            "filename": "sex-is-zero"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330610/600x0/sex-is-zero.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330610/",
+            "filename": "sex-is-zero"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330610/1200x0/sex-is-zero.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330610/",
+            "filename": "sex-is-zero"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sex-is-zero",
+        "subheadline": "Sex is Zero",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/sex-is-zero-12533",
+        "videoId": 330610
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

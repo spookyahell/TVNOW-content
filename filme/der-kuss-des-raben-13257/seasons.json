@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13257",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13257,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-kuss-des-raben-13257"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Kuss des Raben",
+          "teaserId": "film_336674",
+          "teaserName": "Der Kuss des Raben | Der Kuss des Raben",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Kuss des Raben",
+        "id": 336674,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336674/300x0/der-kuss-des-raben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336674/",
+            "filename": "der-kuss-des-raben"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336674/600x0/der-kuss-des-raben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336674/",
+            "filename": "der-kuss-des-raben"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336674/1200x0/der-kuss-des-raben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336674/",
+            "filename": "der-kuss-des-raben"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336674/300x0/der-kuss-des-raben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336674/",
+            "filename": "der-kuss-des-raben"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336674/600x0/der-kuss-des-raben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336674/",
+            "filename": "der-kuss-des-raben"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336674/1200x0/der-kuss-des-raben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336674/",
+            "filename": "der-kuss-des-raben"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-kuss-des-raben",
+        "subheadline": "Der Kuss des Raben",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/der-kuss-des-raben-13257",
+        "videoId": 336674
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

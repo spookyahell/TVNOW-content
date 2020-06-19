@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17101",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17101,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/gerhard-richter-painting-17101"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Gerhard Richter - Painting",
+          "teaserId": "film_1327218",
+          "teaserName": "Gerhard Richter - Painting | Gerhard Richter - Painting",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Gerhard Richter - Painting",
+        "id": 1327218,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1327218/300x0/gerhard-richter-painting.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1327218/",
+            "filename": "gerhard-richter-painting"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1327218/600x0/gerhard-richter-painting.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1327218/",
+            "filename": "gerhard-richter-painting"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1327218/1200x0/gerhard-richter-painting.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1327218/",
+            "filename": "gerhard-richter-painting"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1327218/300x0/gerhard-richter-painting.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1327218/",
+            "filename": "gerhard-richter-painting"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1327218/600x0/gerhard-richter-painting.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1327218/",
+            "filename": "gerhard-richter-painting"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1327218/1200x0/gerhard-richter-painting.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1327218/",
+            "filename": "gerhard-richter-painting"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "gerhard-richter-painting",
+        "subheadline": "Gerhard Richter - Painting",
+        "text": "Staffel  | Sa. 22.02.2020, 00:10 Uhr",
+        "type": "film",
+        "url": "/filme/gerhard-richter-painting-17101",
+        "videoId": 1327218
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

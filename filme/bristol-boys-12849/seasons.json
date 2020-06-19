@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12849",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12849,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/bristol-boys-12849"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Bristol Boys",
+          "teaserId": "film_334702",
+          "teaserName": "Bristol Boys | Bristol Boys",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Bristol Boys",
+        "id": 334702,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334702/300x0/bristol-boys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334702/",
+            "filename": "bristol-boys"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334702/600x0/bristol-boys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334702/",
+            "filename": "bristol-boys"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334702/1200x0/bristol-boys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334702/",
+            "filename": "bristol-boys"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334702/300x0/bristol-boys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334702/",
+            "filename": "bristol-boys"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334702/600x0/bristol-boys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334702/",
+            "filename": "bristol-boys"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334702/1200x0/bristol-boys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334702/",
+            "filename": "bristol-boys"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "bristol-boys",
+        "subheadline": "Bristol Boys",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/bristol-boys-12849",
+        "videoId": 334702
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

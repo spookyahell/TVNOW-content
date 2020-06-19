@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12321",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12321,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/prozac-nation-12321"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prozac Nation",
+          "teaserId": "film_344612",
+          "teaserName": "Prozac Nation | Prozac Nation",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Prozac Nation",
+        "id": 344612,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344612/300x0/prozac-nation.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344612/",
+            "filename": "prozac-nation"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344612/600x0/prozac-nation.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344612/",
+            "filename": "prozac-nation"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344612/1200x0/prozac-nation.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344612/",
+            "filename": "prozac-nation"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344612/300x0/prozac-nation.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344612/",
+            "filename": "prozac-nation"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344612/600x0/prozac-nation.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344612/",
+            "filename": "prozac-nation"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344612/1200x0/prozac-nation.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344612/",
+            "filename": "prozac-nation"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prozac-nation",
+        "subheadline": "Prozac Nation",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/prozac-nation-12321",
+        "videoId": 344612
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

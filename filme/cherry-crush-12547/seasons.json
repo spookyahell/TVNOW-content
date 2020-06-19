@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12547",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12547,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/cherry-crush-12547"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Cherry Crush",
+          "teaserId": "film_330656",
+          "teaserName": "Cherry Crush | Cherry Crush",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Cherry Crush",
+        "id": 330656,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330656/300x0/cherry-crush.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330656/",
+            "filename": "cherry-crush"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330656/600x0/cherry-crush.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330656/",
+            "filename": "cherry-crush"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330656/1200x0/cherry-crush.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330656/",
+            "filename": "cherry-crush"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330656/300x0/cherry-crush.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330656/",
+            "filename": "cherry-crush"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330656/600x0/cherry-crush.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330656/",
+            "filename": "cherry-crush"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330656/1200x0/cherry-crush.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330656/",
+            "filename": "cherry-crush"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "cherry-crush",
+        "subheadline": "Cherry Crush",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/cherry-crush-12547",
+        "videoId": 330656
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

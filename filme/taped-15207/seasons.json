@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15207",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15207,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/taped-15207"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Taped",
+          "teaserId": "film_358460",
+          "teaserName": "Taped | Taped",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Taped",
+        "id": 358460,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/358460/300x0/taped.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/358460/",
+            "filename": "taped"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/358460/600x0/taped.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/358460/",
+            "filename": "taped"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/358460/1200x0/taped.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/358460/",
+            "filename": "taped"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/358460/300x0/taped.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/358460/",
+            "filename": "taped"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/358460/600x0/taped.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/358460/",
+            "filename": "taped"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/358460/1200x0/taped.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/358460/",
+            "filename": "taped"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "taped",
+        "subheadline": "Taped",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/taped-15207",
+        "videoId": 358460
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17063",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17063,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/awake-das-leben-des-yogananda-17063"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Awake - Das Leben des Yogananda",
+          "teaserId": "film_1131308",
+          "teaserName": "Awake - Das Leben des Yogananda | Awake - Das Leben des Yogananda",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Awake - Das Leben des Yogananda",
+        "id": 1131308,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1131308/300x0/awake-das-leben-des-yogananda.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1131308/",
+            "filename": "awake-das-leben-des-yogananda"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1131308/600x0/awake-das-leben-des-yogananda.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1131308/",
+            "filename": "awake-das-leben-des-yogananda"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1131308/1200x0/awake-das-leben-des-yogananda.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1131308/",
+            "filename": "awake-das-leben-des-yogananda"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1131308/300x0/awake-das-leben-des-yogananda.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1131308/",
+            "filename": "awake-das-leben-des-yogananda"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1131308/600x0/awake-das-leben-des-yogananda.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1131308/",
+            "filename": "awake-das-leben-des-yogananda"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1131308/1200x0/awake-das-leben-des-yogananda.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1131308/",
+            "filename": "awake-das-leben-des-yogananda"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "awake-das-leben-des-yogananda",
+        "subheadline": "Awake - Das Leben des Yogananda",
+        "text": "Staffel  | Fr. 22.05.2020, 00:45 Uhr",
+        "type": "film",
+        "url": "/filme/awake-das-leben-des-yogananda-17063",
+        "videoId": 1131308
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

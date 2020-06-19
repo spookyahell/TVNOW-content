@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15635",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15635,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/bigfoot-die-legende-lebt-15635"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Bigfoot - Die Legende lebt",
+          "teaserId": "film_404234",
+          "teaserName": "Bigfoot - Die Legende lebt | Bigfoot - Die Legende lebt",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Bigfoot - Die Legende lebt",
+        "id": 404234,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/404234/300x0/bigfoot-die-legende-lebt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/404234/",
+            "filename": "bigfoot-die-legende-lebt"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/404234/600x0/bigfoot-die-legende-lebt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/404234/",
+            "filename": "bigfoot-die-legende-lebt"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/404234/1200x0/bigfoot-die-legende-lebt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/404234/",
+            "filename": "bigfoot-die-legende-lebt"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/404234/300x0/bigfoot-die-legende-lebt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/404234/",
+            "filename": "bigfoot-die-legende-lebt"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/404234/600x0/bigfoot-die-legende-lebt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/404234/",
+            "filename": "bigfoot-die-legende-lebt"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/404234/1200x0/bigfoot-die-legende-lebt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/404234/",
+            "filename": "bigfoot-die-legende-lebt"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "bigfoot-die-legende-lebt",
+        "subheadline": "Bigfoot - Die Legende lebt",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/bigfoot-die-legende-lebt-15635",
+        "videoId": 404234
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

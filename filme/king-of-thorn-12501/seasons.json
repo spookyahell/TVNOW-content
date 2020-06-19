@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12501",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12501,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/king-of-thorn-12501"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "King of Thorn",
+          "teaserId": "film_330400",
+          "teaserName": "King of Thorn | King of Thorn",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Anime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "King of Thorn",
+        "id": 330400,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330400/300x0/king-of-thorn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330400/",
+            "filename": "king-of-thorn"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330400/600x0/king-of-thorn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330400/",
+            "filename": "king-of-thorn"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330400/1200x0/king-of-thorn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330400/",
+            "filename": "king-of-thorn"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330400/300x0/king-of-thorn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330400/",
+            "filename": "king-of-thorn"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330400/600x0/king-of-thorn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330400/",
+            "filename": "king-of-thorn"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330400/1200x0/king-of-thorn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330400/",
+            "filename": "king-of-thorn"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "king-of-thorn",
+        "subheadline": "King of Thorn",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/king-of-thorn-12501",
+        "videoId": 330400
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

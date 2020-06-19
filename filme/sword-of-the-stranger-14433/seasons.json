@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14433",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14433,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/sword-of-the-stranger-14433"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sword of the Stranger",
+          "teaserId": "film_343714",
+          "teaserName": "Sword of the Stranger | Sword of the Stranger",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Anime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Sword of the Stranger",
+        "id": 343714,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343714/300x0/sword-of-the-stranger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343714/",
+            "filename": "sword-of-the-stranger"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343714/600x0/sword-of-the-stranger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343714/",
+            "filename": "sword-of-the-stranger"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343714/1200x0/sword-of-the-stranger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343714/",
+            "filename": "sword-of-the-stranger"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343714/300x0/sword-of-the-stranger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343714/",
+            "filename": "sword-of-the-stranger"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343714/600x0/sword-of-the-stranger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343714/",
+            "filename": "sword-of-the-stranger"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343714/1200x0/sword-of-the-stranger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343714/",
+            "filename": "sword-of-the-stranger"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sword-of-the-stranger",
+        "subheadline": "Sword of the Stranger",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/sword-of-the-stranger-14433",
+        "videoId": 343714
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12619",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12619,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/no-blood-no-tears-12619"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "No Blood No Tears",
+          "teaserId": "film_333852",
+          "teaserName": "No Blood No Tears | No Blood No Tears",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "No Blood No Tears",
+        "id": 333852,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333852/300x0/no-blood-no-tears.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333852/",
+            "filename": "no-blood-no-tears"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333852/600x0/no-blood-no-tears.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333852/",
+            "filename": "no-blood-no-tears"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333852/1200x0/no-blood-no-tears.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333852/",
+            "filename": "no-blood-no-tears"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333852/300x0/no-blood-no-tears.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333852/",
+            "filename": "no-blood-no-tears"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333852/600x0/no-blood-no-tears.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333852/",
+            "filename": "no-blood-no-tears"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333852/1200x0/no-blood-no-tears.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333852/",
+            "filename": "no-blood-no-tears"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "no-blood-no-tears",
+        "subheadline": "No Blood No Tears",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/no-blood-no-tears-12619",
+        "videoId": 333852
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

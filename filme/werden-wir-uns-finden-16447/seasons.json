@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16447",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16447,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/werden-wir-uns-finden-16447"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Werden wir uns finden?",
+          "teaserId": "film_1182080",
+          "teaserName": "Werden wir uns finden? | Werden wir uns finden",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Werden wir uns finden",
+        "id": 1182080,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182080/300x0/werden-wir-uns-finden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182080/",
+            "filename": "werden-wir-uns-finden"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182080/600x0/werden-wir-uns-finden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182080/",
+            "filename": "werden-wir-uns-finden"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182080/1200x0/werden-wir-uns-finden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182080/",
+            "filename": "werden-wir-uns-finden"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182080/300x0/werden-wir-uns-finden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182080/",
+            "filename": "werden-wir-uns-finden"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182080/600x0/werden-wir-uns-finden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182080/",
+            "filename": "werden-wir-uns-finden"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182080/1200x0/werden-wir-uns-finden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182080/",
+            "filename": "werden-wir-uns-finden"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "werden-wir-uns-finden",
+        "subheadline": "Werden wir uns finden",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/werden-wir-uns-finden-16447",
+        "videoId": 1182080
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

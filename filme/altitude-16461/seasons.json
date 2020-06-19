@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16461",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16461,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/altitude-16461"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Altitude",
+          "teaserId": "film_1182344",
+          "teaserName": "Altitude | Altitude",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Altitude",
+        "id": 1182344,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182344/300x0/altitude.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182344/",
+            "filename": "altitude"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182344/600x0/altitude.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182344/",
+            "filename": "altitude"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182344/1200x0/altitude.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182344/",
+            "filename": "altitude"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182344/300x0/altitude.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182344/",
+            "filename": "altitude"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182344/600x0/altitude.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182344/",
+            "filename": "altitude"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182344/1200x0/altitude.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182344/",
+            "filename": "altitude"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "altitude",
+        "subheadline": "Altitude",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/altitude-16461",
+        "videoId": 1182344
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12703",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12703,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/vares-private-eye-12703"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Vares - Private Eye",
+          "teaserId": "film_333782",
+          "teaserName": "Vares - Private Eye | Vares - Private Eye",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Vares - Private Eye",
+        "id": 333782,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333782/300x0/vares-private-eye.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333782/",
+            "filename": "vares-private-eye"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333782/600x0/vares-private-eye.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333782/",
+            "filename": "vares-private-eye"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333782/1200x0/vares-private-eye.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333782/",
+            "filename": "vares-private-eye"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333782/300x0/vares-private-eye.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333782/",
+            "filename": "vares-private-eye"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333782/600x0/vares-private-eye.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333782/",
+            "filename": "vares-private-eye"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333782/1200x0/vares-private-eye.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333782/",
+            "filename": "vares-private-eye"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "vares-private-eye",
+        "subheadline": "Vares - Private Eye",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/vares-private-eye-12703",
+        "videoId": 333782
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

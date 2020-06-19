@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18511",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18511,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/letzte-zuflucht-die-18511"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die letzte Zuflucht",
+          "teaserId": "film_3092929",
+          "teaserName": "Die letzte Zuflucht | letzte Zuflucht, Die",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "letzte Zuflucht, Die",
+        "id": 3092929,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3092929/300x0/letzte-zuflucht-die.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3092929/",
+            "filename": "letzte-zuflucht-die"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3092929/600x0/letzte-zuflucht-die.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3092929/",
+            "filename": "letzte-zuflucht-die"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3092929/1200x0/letzte-zuflucht-die.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3092929/",
+            "filename": "letzte-zuflucht-die"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3092929/300x0/letzte-zuflucht-die.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3092929/",
+            "filename": "letzte-zuflucht-die"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3092929/600x0/letzte-zuflucht-die.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3092929/",
+            "filename": "letzte-zuflucht-die"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3092929/1200x0/letzte-zuflucht-die.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3092929/",
+            "filename": "letzte-zuflucht-die"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-letzte-zuflucht",
+        "subheadline": "letzte Zuflucht, Die",
+        "text": "Staffel  | Di. 02.06.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/letzte-zuflucht-die-18511",
+        "videoId": 3092929
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

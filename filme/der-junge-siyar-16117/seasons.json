@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16117",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16117,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-junge-siyar-16117"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Junge Siyar",
+          "teaserId": "film_577564",
+          "teaserName": "Der Junge Siyar | Der Junge Siyar",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Junge Siyar",
+        "id": 577564,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577564/300x0/der-junge-siyar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577564/",
+            "filename": "der-junge-siyar"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577564/600x0/der-junge-siyar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577564/",
+            "filename": "der-junge-siyar"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577564/1200x0/der-junge-siyar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577564/",
+            "filename": "der-junge-siyar"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577564/300x0/der-junge-siyar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577564/",
+            "filename": "der-junge-siyar"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577564/600x0/der-junge-siyar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577564/",
+            "filename": "der-junge-siyar"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577564/1200x0/der-junge-siyar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577564/",
+            "filename": "der-junge-siyar"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-junge-siyar",
+        "subheadline": "Der Junge Siyar",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/der-junge-siyar-16117",
+        "videoId": 577564
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 15943,
+  "additionalMeta": {
+    "canonical": "/filme/so-close-nichts-ist-so-wie-es-scheint-15943",
+    "url": "/filme/so-close-nichts-ist-so-wie-es-scheint-15943"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "So Close - Nichts ist so, wie es scheint",
+      "url": "/filme/so-close-nichts-ist-so-wie-es-scheint-15943"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 15943,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ So Close - Nichts ist so, wie es scheint 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "So Close - Nichts ist so, wie es scheint, Film, TV NOW, Watchbox bei TV NOW, Action, Thriller, Asian, Killer, High-Tech, Familie, Polizistin, Schwestern, Asien",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "So Close - Nichts ist so, wie es scheint im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ So Close - Nichts ist so, wie es scheint 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 424620,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/424620",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/15943"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_action/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_action",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Action",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: So Close - Nichts ist so, wie es scheint",
+    "text": "Bei TV NOW kannst Du den Film So Close - Nichts ist so, wie es scheint und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/so-close-nichts-ist-so-wie-es-scheint-15943",
+        "@type": "Movie",
+        "description": "Ein finsterer Geschäftsmann heuert zwei High-Tech-Killer-Schwestern an, um seinen älteren Bruder umbringen zu lassen. Sein Ziel: die Übernahme des familieneigenen Firmen-Imperiums. Als eine engagierte Polizistin beginnt, die Puzzleteile zusammenzusetzen, wird dem Unternehmer bewusst, dass er schnellstmöglich alle Spuren beseitigen muss - inklusive der beiden Schwestern und der Polizistin.",
+        "duration": "PT1H46M14S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/424620/950x0/so-close-nichts-ist-so-wie-es-scheint.jpg",
+        "name": "So Close - Nichts ist so, wie es scheint",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/so-close-nichts-ist-so-wie-es-scheint-15943",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2018-04-09T15:02:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/so-close-nichts-ist-so-wie-es-scheint-15943",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Ein finsterer Geschäftsmann heuert zwei High-Tech-Killer-Schwestern an, um seinen älteren Bruder umbringen zu lassen. Sein Ziel: die Übernahme des familieneigenen Firmen-Imperiums. Als eine engagierte Polizistin beginnt, die Puzzleteile zusammenzusetzen, wird dem Unternehmer bewusst, dass er schnellstmöglich alle Spuren beseitigen muss - inklusive der beiden Schwestern und der Polizistin.",
+          "duration": "PT1H46M14S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/so-close-nichts-ist-so-wie-es-scheint-15943",
+          "name": "So Close - Nichts ist so, wie es scheint",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/424620/950x0/so-close-nichts-ist-so-wie-es-scheint.jpg",
+          "uploadDate": "2018-04-09T15:02:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "So Close - Nichts ist so, wie es scheint im Online Stream | TVNOW",
+        "headline": "So Close - Nichts ist so, wie es scheint im Online Stream | TVNOW",
+        "description": "So Close - Nichts ist so, wie es scheint und viele weitere  ▶️Filme aus dem Genre Action findest du im Online Stream bei TVNOW. Ein Film mit ▶️Qi Shu, Wei Zhao, Karen Mok.",
+        "url": "https://www.tvnow.de/filme/so-close-nichts-ist-so-wie-es-scheint-15943",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/424620/950x0/so-close-nichts-ist-so-wie-es-scheint.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/424620/950x0/so-close-nichts-ist-so-wie-es-scheint.jpg",
+        "datePublished": "2018-04-09T15:02:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/424620/950x0/so-close-nichts-ist-so-wie-es-scheint.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "So Close - Nichts ist so, wie es scheint",
+            "item": "https://www.tvnow.de/filme/so-close-nichts-ist-so-wie-es-scheint-15943"
+          }
+        ]
+      }
+    }
+  },
+  "title": "So Close - Nichts ist so, wie es scheint im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 13717,
+  "additionalMeta": {
+    "canonical": "/filme/im-namen-gottes-stirb-13717",
+    "url": "/filme/im-namen-gottes-stirb-13717"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Im Namen Gottes: Stirb!",
+      "url": "/filme/im-namen-gottes-stirb-13717"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 13717,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Im Namen Gottes: Stirb! 📺 und viele weitere ▶️ Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Im Namen Gottes: Stirb!, Spielfilm, Film, Stream, Online-Stream, TV NOW, WATCHBOX, kostenlos, Video, gratis, Thriller, Drama",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Im Namen Gottes: Stirb! im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Im Namen Gottes: Stirb! 📺 und viele weitere ▶️ Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 338598,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/338598",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/13717"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_thriller/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_thriller",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Thriller",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Im Namen Gottes: Stirb!",
+    "text": "Bei TV NOW kannst Du den Film Im Namen Gottes: Stirb! und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/im-namen-gottes-stirb-13717",
+        "@type": "Movie",
+        "description": "In dem kleinen Örtchen Alpharetta werden mehrere Menschen entführt. Als man einen Toten findet, entdecken Detective Cody Martin und sein neuer Partner Cipiran Raines am Tatort einen biblischen Spruch. Als weitere Menschen entführt werden und immer mehr Bibelsprüche gefunden werden, wird die Sache klar: Ein Serientäter bildet sich ein, das Werk Gottes zu tun und bestraft Sünder auf brutale Weise.",
+        "duration": "PT1H33M43S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/338598/950x0/im-namen-gottes-stirb.jpg",
+        "name": "Im Namen Gottes: Stirb!",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/im-namen-gottes-stirb-13717",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-06-26T07:49:13.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/im-namen-gottes-stirb-13717",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "In dem kleinen Örtchen Alpharetta werden mehrere Menschen entführt. Als man einen Toten findet, entdecken Detective Cody Martin und sein neuer Partner Cipiran Raines am Tatort einen biblischen Spruch. Als weitere Menschen entführt werden und immer mehr Bibelsprüche gefunden werden, wird die Sache klar: Ein Serientäter bildet sich ein, das Werk Gottes zu tun und bestraft Sünder auf brutale Weise.",
+          "duration": "PT1H33M43S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/im-namen-gottes-stirb-13717",
+          "name": "Im Namen Gottes: Stirb!",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/338598/950x0/im-namen-gottes-stirb.jpg",
+          "uploadDate": "2017-06-26T07:49:13.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Im Namen Gottes: Stirb! im Online Stream | TVNOW",
+        "headline": "Im Namen Gottes: Stirb! im Online Stream | TVNOW",
+        "description": "Im Namen Gottes: Stirb! und viele weitere  ▶️Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW. Ein Film mit ▶️Michael Pare, Lee Majors, Philip Michael Thomas.",
+        "url": "https://www.tvnow.de/filme/im-namen-gottes-stirb-13717",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/338598/950x0/im-namen-gottes-stirb.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/338598/950x0/im-namen-gottes-stirb.jpg",
+        "datePublished": "2017-06-26T07:49:13.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/338598/950x0/im-namen-gottes-stirb.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Im Namen Gottes: Stirb!",
+            "item": "https://www.tvnow.de/filme/im-namen-gottes-stirb-13717"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Im Namen Gottes: Stirb! im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

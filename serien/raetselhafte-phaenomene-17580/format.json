@@ -1,0 +1,208 @@
+﻿{
+  "formatId": 17580,
+  "additionalMeta": {
+    "canonical": "/serien/raetselhafte-phaenomene-17580",
+    "url": "/serien/raetselhafte-phaenomene-17580"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Rätselhafte Phänomene",
+      "url": "/serien/raetselhafte-phaenomene-17580"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 17580,
+  "meta": [
+    {
+      "content": "Die Serie Rätselhafte Phänomene (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "Rätselhafte Phänomene, video, videos, online sehen, internet tv, fernsehen video on demand, n-tv, ntv, TV NOW, rätselhaft, Mysterien, Rätsel, Geheimnisse, Legenden",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Rätselhafte Phänomene im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Rätselhafte Phänomene (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/17580",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/17580",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/17580",
+      "type": "teaserrow"
+    },
+    {
+      "id": 17580,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/17580",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnraetselphaeno",
+      "video": "dvrsowf_ten_nnraetselphaeno",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/raetselhafte_phaenomene/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "raetselhafte_phaenomene",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "https://www.tvnow.de/serien/raetselhafte-phaenomene-17580",
+        "url": "https://www.tvnow.de/serien/raetselhafte-phaenomene-17580",
+        "name": "Rätselhafte Phänomene",
+        "description": "Die Serie Rätselhafte Phänomene (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/17580_04metalogo/1200x0/raetselhafte-phaenomene.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "",
+        "headline": "",
+        "description": "Die Serie Rätselhafte Phänomene (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei TVNOW anschauen.",
+        "url": "https://www.tvnow.de/serien/raetselhafte-phaenomene-17580",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/17580_04metalogo/1200x0/raetselhafte-phaenomene.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/17580_04metalogo/1200x0/raetselhafte-phaenomene.png",
+        "keywords": "Rätselhafte Phänomene, video, videos, online sehen, internet tv, fernsehen video on demand, n-tv, ntv, TV NOW, rätselhaft, Mysterien, Rätsel, Geheimnisse, Legenden",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/17580_04metalogo/1200x0/raetselhafte-phaenomene.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "https://www.tvnow.de/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rätselhafte Phänomene",
+            "item": "https://www.tvnow.de/serien/raetselhafte-phaenomene-17580"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Rätselhafte Phänomene im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

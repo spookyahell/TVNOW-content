@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13135",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13135,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/shadow-creature-13135"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Shadow Creature",
+          "teaserId": "film_336352",
+          "teaserName": "Shadow Creature | Shadow Creature",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Shadow Creature",
+        "id": 336352,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336352/300x0/shadow-creature.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336352/",
+            "filename": "shadow-creature"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336352/600x0/shadow-creature.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336352/",
+            "filename": "shadow-creature"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336352/1200x0/shadow-creature.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336352/",
+            "filename": "shadow-creature"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336352/300x0/shadow-creature.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336352/",
+            "filename": "shadow-creature"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336352/600x0/shadow-creature.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336352/",
+            "filename": "shadow-creature"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336352/1200x0/shadow-creature.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336352/",
+            "filename": "shadow-creature"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "shadow-creature",
+        "subheadline": "Shadow Creature",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/shadow-creature-13135",
+        "videoId": 336352
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

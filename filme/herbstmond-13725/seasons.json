@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13725",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13725,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/herbstmond-13725"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Herbstmond",
+          "teaserId": "film_338678",
+          "teaserName": "Herbstmond | Herbstmond",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Herbstmond",
+        "id": 338678,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338678/300x0/herbstmond.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338678/",
+            "filename": "herbstmond"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338678/600x0/herbstmond.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338678/",
+            "filename": "herbstmond"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338678/1200x0/herbstmond.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338678/",
+            "filename": "herbstmond"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338678/300x0/herbstmond.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338678/",
+            "filename": "herbstmond"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338678/600x0/herbstmond.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338678/",
+            "filename": "herbstmond"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338678/1200x0/herbstmond.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338678/",
+            "filename": "herbstmond"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "herbstmond",
+        "subheadline": "Herbstmond",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/herbstmond-13725",
+        "videoId": 338678
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

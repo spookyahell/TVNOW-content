@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15949",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15949,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/still-crazy-15949"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Still Crazy",
+          "teaserId": "film_424614",
+          "teaserName": "Still Crazy | STILL CRAZY",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "STILL CRAZY",
+        "id": 424614,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424614/300x0/still-crazy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424614/",
+            "filename": "still-crazy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424614/600x0/still-crazy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424614/",
+            "filename": "still-crazy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424614/1200x0/still-crazy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424614/",
+            "filename": "still-crazy"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424614/300x0/still-crazy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424614/",
+            "filename": "still-crazy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424614/600x0/still-crazy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424614/",
+            "filename": "still-crazy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424614/1200x0/still-crazy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424614/",
+            "filename": "still-crazy"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "still-crazy",
+        "subheadline": "STILL CRAZY",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/still-crazy-15949",
+        "videoId": 424614
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14155",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14155,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/love-bites-14155"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Love Bites",
+          "teaserId": "film_341088",
+          "teaserName": "Love Bites | Love Bites",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Love Bites",
+        "id": 341088,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341088/300x0/love-bites.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341088/",
+            "filename": "love-bites"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341088/600x0/love-bites.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341088/",
+            "filename": "love-bites"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341088/1200x0/love-bites.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341088/",
+            "filename": "love-bites"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341088/300x0/love-bites.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341088/",
+            "filename": "love-bites"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341088/600x0/love-bites.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341088/",
+            "filename": "love-bites"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341088/1200x0/love-bites.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341088/",
+            "filename": "love-bites"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "love-bites",
+        "subheadline": "Love Bites",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/love-bites-14155",
+        "videoId": 341088
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

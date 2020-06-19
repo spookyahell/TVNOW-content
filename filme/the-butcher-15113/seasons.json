@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15113",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15113,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-butcher-15113"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Butcher",
+          "teaserId": "film_355862",
+          "teaserName": "The Butcher | The Butcher",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Butcher",
+        "id": 355862,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355862/300x0/the-butcher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355862/",
+            "filename": "the-butcher"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355862/600x0/the-butcher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355862/",
+            "filename": "the-butcher"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355862/1200x0/the-butcher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355862/",
+            "filename": "the-butcher"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355862/300x0/the-butcher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355862/",
+            "filename": "the-butcher"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355862/600x0/the-butcher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355862/",
+            "filename": "the-butcher"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355862/1200x0/the-butcher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355862/",
+            "filename": "the-butcher"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-butcher",
+        "subheadline": "The Butcher",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-butcher-15113",
+        "videoId": 355862
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

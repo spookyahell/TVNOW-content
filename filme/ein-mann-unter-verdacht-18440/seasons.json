@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18440",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18440,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ein-mann-unter-verdacht-18440"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ein Mann unter Verdacht",
+          "teaserId": "film_3048006",
+          "teaserName": "Ein Mann unter Verdacht | Ein Mann unter Verdacht",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ein Mann unter Verdacht",
+        "id": 3048006,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3048006/300x0/ein-mann-unter-verdacht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3048006/",
+            "filename": "ein-mann-unter-verdacht"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3048006/600x0/ein-mann-unter-verdacht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3048006/",
+            "filename": "ein-mann-unter-verdacht"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3048006/1200x0/ein-mann-unter-verdacht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3048006/",
+            "filename": "ein-mann-unter-verdacht"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3048006/300x0/ein-mann-unter-verdacht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3048006/",
+            "filename": "ein-mann-unter-verdacht"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3048006/600x0/ein-mann-unter-verdacht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3048006/",
+            "filename": "ein-mann-unter-verdacht"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3048006/1200x0/ein-mann-unter-verdacht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3048006/",
+            "filename": "ein-mann-unter-verdacht"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ein-mann-unter-verdacht",
+        "subheadline": "Ein Mann unter Verdacht",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/ein-mann-unter-verdacht-18440",
+        "videoId": 3048006
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

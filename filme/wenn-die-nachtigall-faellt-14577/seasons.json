@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14577",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14577,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/wenn-die-nachtigall-faellt-14577"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wenn die Nachtigall fällt",
+          "teaserId": "film_344660",
+          "teaserName": "Wenn die Nachtigall fällt | Wenn die Nachtigall fällt",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wenn die Nachtigall fällt",
+        "id": 344660,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344660/300x0/wenn-die-nachtigall-faellt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344660/",
+            "filename": "wenn-die-nachtigall-faellt"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344660/600x0/wenn-die-nachtigall-faellt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344660/",
+            "filename": "wenn-die-nachtigall-faellt"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344660/1200x0/wenn-die-nachtigall-faellt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344660/",
+            "filename": "wenn-die-nachtigall-faellt"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344660/300x0/wenn-die-nachtigall-faellt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344660/",
+            "filename": "wenn-die-nachtigall-faellt"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344660/600x0/wenn-die-nachtigall-faellt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344660/",
+            "filename": "wenn-die-nachtigall-faellt"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344660/1200x0/wenn-die-nachtigall-faellt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344660/",
+            "filename": "wenn-die-nachtigall-faellt"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wenn-die-nachtigall-faellt",
+        "subheadline": "Wenn die Nachtigall fällt",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/wenn-die-nachtigall-faellt-14577",
+        "videoId": 344660
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

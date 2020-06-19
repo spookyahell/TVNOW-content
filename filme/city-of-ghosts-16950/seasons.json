@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16950",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16950,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/city-of-ghosts-16950"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "City of Ghosts",
+          "teaserId": "film_2956738",
+          "teaserName": "City of Ghosts | City of Ghosts",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "City of Ghosts",
+        "id": 2956738,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2956738/300x0/city-of-ghosts.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2956738/",
+            "filename": "city-of-ghosts"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2956738/600x0/city-of-ghosts.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2956738/",
+            "filename": "city-of-ghosts"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2956738/1200x0/city-of-ghosts.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2956738/",
+            "filename": "city-of-ghosts"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2956738/300x0/city-of-ghosts.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2956738/",
+            "filename": "city-of-ghosts"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2956738/600x0/city-of-ghosts.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2956738/",
+            "filename": "city-of-ghosts"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2956738/1200x0/city-of-ghosts.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2956738/",
+            "filename": "city-of-ghosts"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "city-of-ghosts",
+        "subheadline": "City of Ghosts",
+        "text": "Staffel  | Mi. 10.06.2020, 23:30 Uhr",
+        "type": "film",
+        "url": "/filme/city-of-ghosts-16950",
+        "videoId": 2956738
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

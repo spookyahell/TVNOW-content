@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 13241,
+  "additionalMeta": {
+    "canonical": "/filme/school-of-life-13241",
+    "url": "/filme/school-of-life-13241"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "School of Life",
+      "url": "/filme/school-of-life-13241"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 13241,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ School of Life 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "School of Life, Film, TV NOW, Watchbox bei TV NOW, Schule, Lehrer, Eifersucht, Kollegen, Drama",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "School of Life im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ School of Life 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 336660,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/336660",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/13241"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_drama/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_drama",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: School of Life",
+    "text": "Bei TV NOW kannst Du den Film School of Life und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/school-of-life-13241",
+        "@type": "Movie",
+        "description": "Der junge Lehrer Matt kommt bei seinen Schülern nicht besonders gut an. Als sein Vater, welcher ein sehr beliebter Geschichtslehrer war, stirbt, hofft Matt seinen Platz einnehmen zu können und damit auch seinen Beliebtheitsgrad zu steigern. Doch sein Kollege Michael macht ihm einen Strich durch die Rechnung und ergattert die Stelle. Matt reagiert darauf mit krankhafter Eifersucht.",
+        "duration": "PT1H46M19S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/336660/950x0/school-of-life.jpg",
+        "name": "School of Life",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/school-of-life-13241",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-07-16T11:00:13.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/school-of-life-13241",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Der junge Lehrer Matt kommt bei seinen Schülern nicht besonders gut an. Als sein Vater, welcher ein sehr beliebter Geschichtslehrer war, stirbt, hofft Matt seinen Platz einnehmen zu können und damit auch seinen Beliebtheitsgrad zu steigern. Doch sein Kollege Michael macht ihm einen Strich durch die Rechnung und ergattert die Stelle. Matt reagiert darauf mit krankhafter Eifersucht.",
+          "duration": "PT1H46M19S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/school-of-life-13241",
+          "name": "School of Life",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/336660/950x0/school-of-life.jpg",
+          "uploadDate": "2017-07-16T11:00:13.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "School of Life im Online Stream | TVNOW",
+        "headline": "School of Life im Online Stream | TVNOW",
+        "description": "School of Life und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️David Paymer, Ryan Reynolds, John Astin, William Dear.",
+        "url": "https://www.tvnow.de/filme/school-of-life-13241",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/336660/950x0/school-of-life.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/336660/950x0/school-of-life.jpg",
+        "datePublished": "2017-07-16T11:00:13.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/336660/950x0/school-of-life.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "School of Life",
+            "item": "https://www.tvnow.de/filme/school-of-life-13241"
+          }
+        ]
+      }
+    }
+  },
+  "title": "School of Life im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

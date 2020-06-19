@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16913",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16913,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-entschuldigung-16913"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Entschuldigung",
+          "teaserId": "film_1326471",
+          "teaserName": "Die Entschuldigung | Die Entschuldigung",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Entschuldigung",
+        "id": 1326471,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326471/300x0/die-entschuldigung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326471/",
+            "filename": "die-entschuldigung"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326471/600x0/die-entschuldigung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326471/",
+            "filename": "die-entschuldigung"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326471/1200x0/die-entschuldigung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326471/",
+            "filename": "die-entschuldigung"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326471/300x0/die-entschuldigung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326471/",
+            "filename": "die-entschuldigung"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326471/600x0/die-entschuldigung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326471/",
+            "filename": "die-entschuldigung"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326471/1200x0/die-entschuldigung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326471/",
+            "filename": "die-entschuldigung"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-entschuldigung",
+        "subheadline": "Die Entschuldigung",
+        "text": "Staffel  | Mi. 08.04.2020, 00:55 Uhr",
+        "type": "film",
+        "url": "/filme/die-entschuldigung-16913",
+        "videoId": 1326471
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16513",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16513,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-pranke-des-leoparden-16513"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Pranke des Leoparden",
+          "teaserId": "film_1209294",
+          "teaserName": "Die Pranke des Leoparden | Die Pranke des Leoparden",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Pranke des Leoparden",
+        "id": 1209294,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1209294/300x0/die-pranke-des-leoparden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1209294/",
+            "filename": "die-pranke-des-leoparden"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1209294/600x0/die-pranke-des-leoparden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1209294/",
+            "filename": "die-pranke-des-leoparden"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1209294/1200x0/die-pranke-des-leoparden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1209294/",
+            "filename": "die-pranke-des-leoparden"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1209294/300x0/die-pranke-des-leoparden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1209294/",
+            "filename": "die-pranke-des-leoparden"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1209294/600x0/die-pranke-des-leoparden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1209294/",
+            "filename": "die-pranke-des-leoparden"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1209294/1200x0/die-pranke-des-leoparden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1209294/",
+            "filename": "die-pranke-des-leoparden"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-pranke-des-leoparden",
+        "subheadline": "Die Pranke des Leoparden",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/die-pranke-des-leoparden-16513",
+        "videoId": 1209294
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

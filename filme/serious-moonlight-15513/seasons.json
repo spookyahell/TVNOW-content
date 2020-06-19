@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15513",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15513,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/serious-moonlight-15513"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Serious Moonlight",
+          "teaserId": "film_386246",
+          "teaserName": "Serious Moonlight | Serious Moonlight",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Serious Moonlight",
+        "id": 386246,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386246/300x0/serious-moonlight.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386246/",
+            "filename": "serious-moonlight"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386246/600x0/serious-moonlight.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386246/",
+            "filename": "serious-moonlight"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386246/1200x0/serious-moonlight.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386246/",
+            "filename": "serious-moonlight"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386246/300x0/serious-moonlight.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386246/",
+            "filename": "serious-moonlight"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386246/600x0/serious-moonlight.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386246/",
+            "filename": "serious-moonlight"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386246/1200x0/serious-moonlight.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386246/",
+            "filename": "serious-moonlight"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "serious-moonlight",
+        "subheadline": "Serious Moonlight",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/serious-moonlight-15513",
+        "videoId": 386246
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

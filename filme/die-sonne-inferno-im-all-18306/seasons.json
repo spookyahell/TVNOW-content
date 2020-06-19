@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18306",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18306,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-sonne-inferno-im-all-18306"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Sonne - Inferno im All",
+          "teaserId": "film_2818370",
+          "teaserName": "Die Sonne - Inferno im All | Die Sonne - Inferno im All",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Wissen"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Sonne - Inferno im All",
+        "id": 2818370,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2818370/300x0/die-sonne-inferno-im-all.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2818370/",
+            "filename": "die-sonne-inferno-im-all"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2818370/600x0/die-sonne-inferno-im-all.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2818370/",
+            "filename": "die-sonne-inferno-im-all"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2818370/1200x0/die-sonne-inferno-im-all.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2818370/",
+            "filename": "die-sonne-inferno-im-all"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2818370/300x0/die-sonne-inferno-im-all.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2818370/",
+            "filename": "die-sonne-inferno-im-all"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2818370/600x0/die-sonne-inferno-im-all.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2818370/",
+            "filename": "die-sonne-inferno-im-all"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2818370/1200x0/die-sonne-inferno-im-all.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2818370/",
+            "filename": "die-sonne-inferno-im-all"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-sonne-inferno-im-all",
+        "subheadline": "Die Sonne - Inferno im All",
+        "text": "Staffel  | Do. 06.02.2020, 19:20 Uhr",
+        "type": "film",
+        "url": "/filme/die-sonne-inferno-im-all-18306",
+        "videoId": 2818370
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

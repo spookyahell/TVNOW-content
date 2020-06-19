@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14205",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14205,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/scream-at-the-devil-14205"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Scream at the Devil",
+          "teaserId": "film_341286",
+          "teaserName": "Scream at the Devil | Scream at the Devil",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Scream at the Devil",
+        "id": 341286,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341286/300x0/scream-at-the-devil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341286/",
+            "filename": "scream-at-the-devil"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341286/600x0/scream-at-the-devil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341286/",
+            "filename": "scream-at-the-devil"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341286/1200x0/scream-at-the-devil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341286/",
+            "filename": "scream-at-the-devil"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341286/300x0/scream-at-the-devil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341286/",
+            "filename": "scream-at-the-devil"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341286/600x0/scream-at-the-devil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341286/",
+            "filename": "scream-at-the-devil"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341286/1200x0/scream-at-the-devil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341286/",
+            "filename": "scream-at-the-devil"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "scream-at-the-devil",
+        "subheadline": "Scream at the Devil",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/scream-at-the-devil-14205",
+        "videoId": 341286
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

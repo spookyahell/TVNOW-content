@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16227",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16227,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/holy-ghost-people-16227"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Holy Ghost People",
+          "teaserId": "film_919244",
+          "teaserName": "Holy Ghost People | Holy Ghost People",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Holy Ghost People",
+        "id": 919244,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919244/300x0/holy-ghost-people.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919244/",
+            "filename": "holy-ghost-people"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919244/600x0/holy-ghost-people.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919244/",
+            "filename": "holy-ghost-people"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919244/1200x0/holy-ghost-people.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919244/",
+            "filename": "holy-ghost-people"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919244/300x0/holy-ghost-people.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919244/",
+            "filename": "holy-ghost-people"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919244/600x0/holy-ghost-people.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919244/",
+            "filename": "holy-ghost-people"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919244/1200x0/holy-ghost-people.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919244/",
+            "filename": "holy-ghost-people"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "holy-ghost-people",
+        "subheadline": "Holy Ghost People",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/holy-ghost-people-16227",
+        "videoId": 919244
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16419",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16419,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ben-16419"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ben",
+          "teaserId": "film_1174744",
+          "teaserName": "Ben | BEN",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "BEN",
+        "id": 1174744,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1174744/300x0/ben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1174744/",
+            "filename": "ben"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1174744/600x0/ben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1174744/",
+            "filename": "ben"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1174744/1200x0/ben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1174744/",
+            "filename": "ben"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1174744/300x0/ben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1174744/",
+            "filename": "ben"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1174744/600x0/ben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1174744/",
+            "filename": "ben"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1174744/1200x0/ben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1174744/",
+            "filename": "ben"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ben",
+        "subheadline": "BEN",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/ben-16419",
+        "videoId": 1174744
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

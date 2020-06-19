@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12705",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12705,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/nightbreakers-the-undead-12705"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Nightbreakers - The Undead",
+          "teaserId": "film_333040",
+          "teaserName": "Nightbreakers - The Undead | Nightbreakers - The Undead",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Nightbreakers - The Undead",
+        "id": 333040,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333040/300x0/nightbreakers-the-undead.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333040/",
+            "filename": "nightbreakers-the-undead"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333040/600x0/nightbreakers-the-undead.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333040/",
+            "filename": "nightbreakers-the-undead"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333040/1200x0/nightbreakers-the-undead.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333040/",
+            "filename": "nightbreakers-the-undead"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333040/300x0/nightbreakers-the-undead.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333040/",
+            "filename": "nightbreakers-the-undead"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333040/600x0/nightbreakers-the-undead.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333040/",
+            "filename": "nightbreakers-the-undead"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333040/1200x0/nightbreakers-the-undead.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333040/",
+            "filename": "nightbreakers-the-undead"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "nightbreakers-the-undead",
+        "subheadline": "Nightbreakers - The Undead",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/nightbreakers-the-undead-12705",
+        "videoId": 333040
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

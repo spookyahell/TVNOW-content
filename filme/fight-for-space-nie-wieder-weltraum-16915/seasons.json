@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16915",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16915,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/fight-for-space-nie-wieder-weltraum-16915"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Fight For Space - Nie wieder Weltraum",
+          "teaserId": "film_419248",
+          "teaserName": "Fight For Space - Nie wieder Weltraum | Fight For Space - Nie wieder Weltraum",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Fight For Space - Nie wieder Weltraum",
+        "id": 419248,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/419248/300x0/fight-for-space-nie-wieder-weltraum.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/419248/",
+            "filename": "fight-for-space-nie-wieder-weltraum"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/419248/600x0/fight-for-space-nie-wieder-weltraum.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/419248/",
+            "filename": "fight-for-space-nie-wieder-weltraum"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/419248/1200x0/fight-for-space-nie-wieder-weltraum.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/419248/",
+            "filename": "fight-for-space-nie-wieder-weltraum"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/419248/300x0/fight-for-space-nie-wieder-weltraum.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/419248/",
+            "filename": "fight-for-space-nie-wieder-weltraum"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/419248/600x0/fight-for-space-nie-wieder-weltraum.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/419248/",
+            "filename": "fight-for-space-nie-wieder-weltraum"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/419248/1200x0/fight-for-space-nie-wieder-weltraum.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/419248/",
+            "filename": "fight-for-space-nie-wieder-weltraum"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "fight-for-space-nie-wieder-weltraum",
+        "subheadline": "Fight For Space - Nie wieder Weltraum",
+        "text": "Staffel  | So. 17.05.2020, 00:20 Uhr",
+        "type": "film",
+        "url": "/filme/fight-for-space-nie-wieder-weltraum-16915",
+        "videoId": 419248
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

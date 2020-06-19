@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18590",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18590,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/das-dorf-und-corona-18590"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Dorf und Corona",
+          "teaserId": "film_3137332",
+          "teaserName": "Das Dorf und Corona | Das Dorf und Corona",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das Dorf und Corona",
+        "id": 3137332,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3137332/300x0/das-dorf-und-corona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3137332/",
+            "filename": "das-dorf-und-corona"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3137332/600x0/das-dorf-und-corona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3137332/",
+            "filename": "das-dorf-und-corona"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3137332/1200x0/das-dorf-und-corona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3137332/",
+            "filename": "das-dorf-und-corona"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3137332/300x0/das-dorf-und-corona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3137332/",
+            "filename": "das-dorf-und-corona"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3137332/600x0/das-dorf-und-corona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3137332/",
+            "filename": "das-dorf-und-corona"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3137332/1200x0/das-dorf-und-corona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3137332/",
+            "filename": "das-dorf-und-corona"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-dorf-und-corona",
+        "subheadline": "Das Dorf und Corona",
+        "text": "Staffel  | Di. 05.05.2020, 07:00 Uhr",
+        "type": "film",
+        "url": "/filme/das-dorf-und-corona-18590",
+        "videoId": 3137332
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

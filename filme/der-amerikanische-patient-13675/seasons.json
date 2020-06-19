@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13675",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13675,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-amerikanische-patient-13675"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der amerikanische Patient",
+          "teaserId": "film_337842",
+          "teaserName": "Der amerikanische Patient | Der amerikanische Patient",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der amerikanische Patient",
+        "id": 337842,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337842/300x0/der-amerikanische-patient.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337842/",
+            "filename": "der-amerikanische-patient"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337842/600x0/der-amerikanische-patient.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337842/",
+            "filename": "der-amerikanische-patient"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337842/1200x0/der-amerikanische-patient.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337842/",
+            "filename": "der-amerikanische-patient"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337842/300x0/der-amerikanische-patient.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337842/",
+            "filename": "der-amerikanische-patient"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337842/600x0/der-amerikanische-patient.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337842/",
+            "filename": "der-amerikanische-patient"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337842/1200x0/der-amerikanische-patient.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337842/",
+            "filename": "der-amerikanische-patient"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-amerikanische-patient",
+        "subheadline": "Der amerikanische Patient",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/der-amerikanische-patient-13675",
+        "videoId": 337842
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

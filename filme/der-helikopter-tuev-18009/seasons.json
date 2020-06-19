@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18009",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18009,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-helikopter-tuev-18009"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Helikopter-TÜV",
+          "teaserId": "film_1791241",
+          "teaserName": "Der Helikopter-TÜV | Der Helikopter-TÜV",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Helikopter-TÜV",
+        "id": 1791241,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791241/300x0/der-helikopter-tuev.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791241/",
+            "filename": "der-helikopter-tuev"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791241/600x0/der-helikopter-tuev.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791241/",
+            "filename": "der-helikopter-tuev"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791241/1200x0/der-helikopter-tuev.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791241/",
+            "filename": "der-helikopter-tuev"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791241/300x0/der-helikopter-tuev.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791241/",
+            "filename": "der-helikopter-tuev"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791241/600x0/der-helikopter-tuev.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791241/",
+            "filename": "der-helikopter-tuev"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791241/1200x0/der-helikopter-tuev.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791241/",
+            "filename": "der-helikopter-tuev"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-helikopter-tuev",
+        "subheadline": "Der Helikopter-TÜV",
+        "text": "Staffel  | Di. 21.01.2020, 03:55 Uhr",
+        "type": "film",
+        "url": "/filme/der-helikopter-tuev-18009",
+        "videoId": 1791241
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

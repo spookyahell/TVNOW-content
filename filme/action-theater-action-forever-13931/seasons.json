@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13931",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13931,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/action-theater-action-forever-13931"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Action Theater - Action Forever",
+          "teaserId": "film_339120",
+          "teaserName": "Action Theater - Action Forever | Action Theater - Action Forever",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Action Theater - Action Forever",
+        "id": 339120,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339120/300x0/action-theater-action-forever.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339120/",
+            "filename": "action-theater-action-forever"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339120/600x0/action-theater-action-forever.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339120/",
+            "filename": "action-theater-action-forever"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339120/1200x0/action-theater-action-forever.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339120/",
+            "filename": "action-theater-action-forever"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339120/300x0/action-theater-action-forever.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339120/",
+            "filename": "action-theater-action-forever"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339120/600x0/action-theater-action-forever.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339120/",
+            "filename": "action-theater-action-forever"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339120/1200x0/action-theater-action-forever.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339120/",
+            "filename": "action-theater-action-forever"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "action-theater-action-forever",
+        "subheadline": "Action Theater - Action Forever",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/action-theater-action-forever-13931",
+        "videoId": 339120
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

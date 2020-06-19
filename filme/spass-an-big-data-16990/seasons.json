@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16990",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16990,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/spass-an-big-data-16990"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Spaß an...Big Data",
+          "teaserId": "film_886464",
+          "teaserName": "Spaß an...Big Data | Spaß an.Big Data",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Spaß an.Big Data",
+        "id": 886464,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/886464/300x0/spass-an-big-data.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/886464/",
+            "filename": "spass-an-big-data"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/886464/600x0/spass-an-big-data.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/886464/",
+            "filename": "spass-an-big-data"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/886464/1200x0/spass-an-big-data.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/886464/",
+            "filename": "spass-an-big-data"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/886464/300x0/spass-an-big-data.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/886464/",
+            "filename": "spass-an-big-data"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/886464/600x0/spass-an-big-data.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/886464/",
+            "filename": "spass-an-big-data"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/886464/1200x0/spass-an-big-data.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/886464/",
+            "filename": "spass-an-big-data"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "spass-an-big-data",
+        "subheadline": "Spaß an.Big Data",
+        "text": "Staffel  | Do. 18.07.2019, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/spass-an-big-data-16990",
+        "videoId": 886464
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

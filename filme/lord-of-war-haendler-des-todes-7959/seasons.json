@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/7959",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 7959,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/lord-of-war-7959"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Lord of War - Händler des Todes",
+          "teaserId": "film_1426690",
+          "teaserName": "Lord of War - Händler des Todes | Lord of War",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Lord of War",
+        "id": 1426690,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1426690/300x0/lord-of-war.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1426690/",
+            "filename": "lord-of-war"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1426690/600x0/lord-of-war.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1426690/",
+            "filename": "lord-of-war"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1426690/1200x0/lord-of-war.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1426690/",
+            "filename": "lord-of-war"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1426690/300x0/lord-of-war.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1426690/",
+            "filename": "lord-of-war"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1426690/600x0/lord-of-war.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1426690/",
+            "filename": "lord-of-war"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1426690/1200x0/lord-of-war.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1426690/",
+            "filename": "lord-of-war"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "lord-of-war-haendler-des-todes",
+        "subheadline": "Lord of War",
+        "text": "Staffel  | Mi. 25.03.2020, 22:05 Uhr",
+        "type": "film",
+        "url": "/filme/lord-of-war-7959",
+        "videoId": 1426690
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

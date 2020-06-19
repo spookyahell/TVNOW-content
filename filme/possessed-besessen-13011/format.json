@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 13011,
+  "additionalMeta": {
+    "canonical": "/filme/possessed-besessen-13011",
+    "url": "/filme/possessed-besessen-13011"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Possessed - Besessen",
+      "url": "/filme/possessed-besessen-13011"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 13011,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Possessed - Besessen 📺 und viele weitere ▶️ Filme aus dem Genre Horror findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Possessed - Besessen, Film, Stream, Online-Stream, TV NOW, WATCHBOX, kostenlos, Spielfilm, Video, gratis, Horror, Thriller, Asian",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Possessed - Besessen im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Possessed - Besessen 📺 und viele weitere ▶️ Filme aus dem Genre Horror findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 335696,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/335696",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/13011"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_horror/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_horror",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Horror",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Possessed - Besessen",
+    "text": "Bei TV NOW kannst Du den Film Possessed - Besessen und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/possessed-besessen-13011",
+        "@type": "Movie",
+        "description": "Drei Außenseiterinnen werden von ihren Mitschülerinnen bedroht. Um sich zu rächen, legen sie einen Fluch auf die Mädchen, von denen sie bedroht wurden. Dadurch rufen sie den Geist eines Mädchens herbei, das vor 30 Jahren auf mysteriöse Weise umkam. Zwei ziehen einen Plastiksack über den Kopf und zünden sich an, eine wird überfahren. Für die Schulleitung war es Selbstmord. Doch die neue Lehrerin Eun-ju Lee geht der Sache nach und entdeckt die Wahrheit hinter In-suks Tod.",
+        "duration": "PT1H32M24S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/335696/950x0/possessed-besessen.jpg",
+        "name": "Possessed - Besessen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/possessed-besessen-13011",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-07-09T01:04:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/possessed-besessen-13011",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Drei Außenseiterinnen werden von ihren Mitschülerinnen bedroht. Um sich zu rächen, legen sie einen Fluch auf die Mädchen, von denen sie bedroht wurden. Dadurch rufen sie den Geist eines Mädchens herbei, das vor 30 Jahren auf mysteriöse Weise umkam. Zwei ziehen einen Plastiksack über den Kopf und zünden sich an, eine wird überfahren. Für die Schulleitung war es Selbstmord. Doch die neue Lehrerin Eun-ju Lee geht der Sache nach und entdeckt die Wahrheit hinter In-suks Tod.",
+          "duration": "PT1H32M24S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/possessed-besessen-13011",
+          "name": "Possessed - Besessen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/335696/950x0/possessed-besessen.jpg",
+          "uploadDate": "2017-07-09T01:04:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Possessed - Besessen im Online Stream | TVNOW",
+        "headline": "Possessed - Besessen im Online Stream | TVNOW",
+        "description": "Possessed - Besessen und viele weitere  ▶️Filme aus dem Genre Horror findest du im Online Stream bei TVNOW. Ein Film mit ▶️Gyu-ri Kim, Se-eun Lee.",
+        "url": "https://www.tvnow.de/filme/possessed-besessen-13011",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/335696/950x0/possessed-besessen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/335696/950x0/possessed-besessen.jpg",
+        "datePublished": "2017-07-09T01:04:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/335696/950x0/possessed-besessen.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Possessed - Besessen",
+            "item": "https://www.tvnow.de/filme/possessed-besessen-13011"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Possessed - Besessen im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

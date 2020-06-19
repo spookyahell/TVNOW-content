@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12785",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12785,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/lost-in-toronto-12785"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Lost in Toronto",
+          "teaserId": "film_334370",
+          "teaserName": "Lost in Toronto | Lost in Toronto",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Lost in Toronto",
+        "id": 334370,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334370/300x0/lost-in-toronto.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334370/",
+            "filename": "lost-in-toronto"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334370/600x0/lost-in-toronto.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334370/",
+            "filename": "lost-in-toronto"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334370/1200x0/lost-in-toronto.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334370/",
+            "filename": "lost-in-toronto"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334370/300x0/lost-in-toronto.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334370/",
+            "filename": "lost-in-toronto"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334370/600x0/lost-in-toronto.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334370/",
+            "filename": "lost-in-toronto"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334370/1200x0/lost-in-toronto.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334370/",
+            "filename": "lost-in-toronto"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "lost-in-toronto",
+        "subheadline": "Lost in Toronto",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/lost-in-toronto-12785",
+        "videoId": 334370
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

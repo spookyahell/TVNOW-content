@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18388,
+  "additionalMeta": {
+    "canonical": "/filme/insel-der-otter-18388",
+    "url": "/filme/insel-der-otter-18388"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Insel der Otter",
+      "url": "/filme/insel-der-otter-18388"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18388,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Insel der Otter 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Insel der Otter im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Insel der Otter 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3002397,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3002397",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18388"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Insel der Otter",
+    "text": "Auf den Shetlandinseln, nördlich von Schottland, lebt Europas größte Otterkolonie. Die Dokumentation begleitet eine Otter-Mama, die ihre drei Jungtiere in einer rauen Wildnis voller Sturmfluten, steilen Kliffs und hungriger Orcas großzieht. Dank der Kenntnisse eines lokalen Naturforschers gelingt es dem Kamerateam, die berührende Geschichte über ein ganzes Jahr hautnah zu erzählen.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/insel-der-otter-18388",
+        "@type": "Movie",
+        "description": "Auf den Shetlandinseln, nördlich von Schottland, lebt Europas größte Otterkolonie. Die Dokumentation begleitet eine Otter-Mama, die ihre drei Jungtiere in einer rauen Wildnis voller Sturmfluten, steilen Kliffs und hungriger Orcas großzieht. Dank der Kenntnisse eines lokalen Naturforschers gelingt es dem Kamerateam, die berührende Geschichte über ein ganzes Jahr hautnah zu erzählen.",
+        "duration": "PT52M12S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3002397/950x0/insel-der-otter.jpg",
+        "name": "Insel der Otter",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/insel-der-otter-18388",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-05-05T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=insel-der-otter-18388",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=insel-der-otter-18388",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/insel-der-otter-18388",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Auf den Shetlandinseln, nördlich von Schottland, lebt Europas größte Otterkolonie. Die Dokumentation begleitet eine Otter-Mama, die ihre drei Jungtiere in einer rauen Wildnis voller Sturmfluten, steilen Kliffs und hungriger Orcas großzieht. Dank der Kenntnisse eines lokalen Naturforschers gelingt es dem Kamerateam, die berührende Geschichte über ein ganzes Jahr hautnah zu erzählen.",
+          "duration": "PT52M12S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/insel-der-otter-18388",
+          "name": "Insel der Otter",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3002397/950x0/insel-der-otter.jpg",
+          "uploadDate": "2020-05-05T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Insel der Otter im Online Stream | TVNOW",
+        "headline": "Insel der Otter im Online Stream | TVNOW",
+        "description": "Insel der Otter und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/insel-der-otter-18388",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3002397/950x0/insel-der-otter.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3002397/950x0/insel-der-otter.jpg",
+        "datePublished": "2020-05-05T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3002397/950x0/insel-der-otter.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Insel der Otter",
+            "item": "https://www.tvnow.de/filme/insel-der-otter-18388"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Insel der Otter im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

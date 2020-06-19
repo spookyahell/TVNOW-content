@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17076",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17076,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-schaedel-von-london-17076"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Schädel von London",
+          "teaserId": "film_1331351",
+          "teaserName": "Die Schädel von London | Die Schädel von London",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Schädel von London",
+        "id": 1331351,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331351/300x0/die-schaedel-von-london.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331351/",
+            "filename": "die-schaedel-von-london"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331351/600x0/die-schaedel-von-london.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331351/",
+            "filename": "die-schaedel-von-london"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331351/1200x0/die-schaedel-von-london.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331351/",
+            "filename": "die-schaedel-von-london"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331351/300x0/die-schaedel-von-london.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331351/",
+            "filename": "die-schaedel-von-london"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331351/600x0/die-schaedel-von-london.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331351/",
+            "filename": "die-schaedel-von-london"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331351/1200x0/die-schaedel-von-london.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331351/",
+            "filename": "die-schaedel-von-london"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-schaedel-von-london",
+        "subheadline": "Die Schädel von London",
+        "text": "Staffel  | Mo. 09.12.2019, 01:05 Uhr",
+        "type": "film",
+        "url": "/filme/die-schaedel-von-london-17076",
+        "videoId": 1331351
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

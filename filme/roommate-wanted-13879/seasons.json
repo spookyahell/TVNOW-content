@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13879",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13879,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/roommate-wanted-13879"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Roommate wanted",
+          "teaserId": "film_338844",
+          "teaserName": "Roommate wanted | Roommate wanted",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Roommate wanted",
+        "id": 338844,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338844/300x0/roommate-wanted.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338844/",
+            "filename": "roommate-wanted"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338844/600x0/roommate-wanted.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338844/",
+            "filename": "roommate-wanted"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338844/1200x0/roommate-wanted.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338844/",
+            "filename": "roommate-wanted"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338844/300x0/roommate-wanted.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338844/",
+            "filename": "roommate-wanted"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338844/600x0/roommate-wanted.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338844/",
+            "filename": "roommate-wanted"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338844/1200x0/roommate-wanted.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338844/",
+            "filename": "roommate-wanted"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "roommate-wanted",
+        "subheadline": "Roommate wanted",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/roommate-wanted-13879",
+        "videoId": 338844
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

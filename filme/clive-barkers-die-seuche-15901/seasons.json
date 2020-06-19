@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15901",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15901,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-plague-15901"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Clive Barkers Die Seuche",
+          "teaserId": "film_422774",
+          "teaserName": "Clive Barkers Die Seuche | The Plague",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Plague",
+        "id": 422774,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/422774/300x0/the-plague.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/422774/",
+            "filename": "the-plague"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/422774/600x0/the-plague.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/422774/",
+            "filename": "the-plague"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/422774/1200x0/the-plague.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/422774/",
+            "filename": "the-plague"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/422774/300x0/the-plague.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/422774/",
+            "filename": "the-plague"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/422774/600x0/the-plague.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/422774/",
+            "filename": "the-plague"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/422774/1200x0/the-plague.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/422774/",
+            "filename": "the-plague"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "clive-barkers-die-seuche",
+        "subheadline": "The Plague",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-plague-15901",
+        "videoId": 422774
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

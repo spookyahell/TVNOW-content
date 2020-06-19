@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18438,
+  "additionalMeta": {
+    "canonical": "/filme/ein-kind-wird-gesucht-18438",
+    "url": "/filme/ein-kind-wird-gesucht-18438"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Ein Kind wird gesucht",
+      "url": "/filme/ein-kind-wird-gesucht-18438"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18438,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Ein Kind wird gesucht 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Ein Kind wird gesucht im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Ein Kind wird gesucht 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3047971,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3047971",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18438"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Ein Kind wird gesucht",
+    "text": "Im Spätsommer 2010 kehrt der zehnjährige Mirco vom Fußballtraining nicht zurück. Als Vater zweier Söhne verspricht Kommissar Ingo Thiel den verzweifelten Eltern, ihren Sohn zu finden, und stellt die größte Suchaktion der Nachkriegsgeschichte auf die Beine. Als schon kaum jemand mehr an einen Fahndungserfolg glaubt, fügen sich dank Thiels versierter DNA- und Datenexperten verschiedene Beweisstücke zusammen, und der Täter kann gefasst werden.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/ein-kind-wird-gesucht-18438",
+        "@type": "Movie",
+        "description": "Im Spätsommer 2010 kehrt der zehnjährige Mirco vom Fußballtraining nicht zurück. Als Vater zweier Söhne verspricht Kommissar Ingo Thiel den verzweifelten Eltern, ihren Sohn zu finden, und stellt die größte Suchaktion der Nachkriegsgeschichte auf die Beine. Als schon kaum jemand mehr an einen Fahndungserfolg glaubt, fügen sich dank Thiels versierter DNA- und Datenexperten verschiedene Beweisstücke zusammen, und der Täter kann gefasst werden.",
+        "duration": "PT1H28M56S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3047971/950x0/ein-kind-wird-gesucht.jpg",
+        "name": "Ein Kind wird gesucht",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/ein-kind-wird-gesucht-18438",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-03-19T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=ein-kind-wird-gesucht-18438",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=ein-kind-wird-gesucht-18438",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/ein-kind-wird-gesucht-18438",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Im Spätsommer 2010 kehrt der zehnjährige Mirco vom Fußballtraining nicht zurück. Als Vater zweier Söhne verspricht Kommissar Ingo Thiel den verzweifelten Eltern, ihren Sohn zu finden, und stellt die größte Suchaktion der Nachkriegsgeschichte auf die Beine. Als schon kaum jemand mehr an einen Fahndungserfolg glaubt, fügen sich dank Thiels versierter DNA- und Datenexperten verschiedene Beweisstücke zusammen, und der Täter kann gefasst werden.",
+          "duration": "PT1H28M56S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/ein-kind-wird-gesucht-18438",
+          "name": "Ein Kind wird gesucht",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3047971/950x0/ein-kind-wird-gesucht.jpg",
+          "uploadDate": "2020-03-19T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Ein Kind wird gesucht im Online Stream | TVNOW",
+        "headline": "Ein Kind wird gesucht im Online Stream | TVNOW",
+        "description": "Ein Kind wird gesucht und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/ein-kind-wird-gesucht-18438",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3047971/950x0/ein-kind-wird-gesucht.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3047971/950x0/ein-kind-wird-gesucht.jpg",
+        "datePublished": "2020-03-19T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3047971/950x0/ein-kind-wird-gesucht.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ein Kind wird gesucht",
+            "item": "https://www.tvnow.de/filme/ein-kind-wird-gesucht-18438"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Ein Kind wird gesucht im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

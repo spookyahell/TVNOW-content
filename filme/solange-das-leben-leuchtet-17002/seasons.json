@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17002",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17002,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/solange-das-leben-leuchtet-17002"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Solange das Leben leuchtet",
+          "teaserId": "film_1169210",
+          "teaserName": "Solange das Leben leuchtet | Solange das Leben leuchtet",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Solange das Leben leuchtet",
+        "id": 1169210,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1169210/300x0/solange-das-leben-leuchtet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1169210/",
+            "filename": "solange-das-leben-leuchtet"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1169210/600x0/solange-das-leben-leuchtet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1169210/",
+            "filename": "solange-das-leben-leuchtet"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1169210/1200x0/solange-das-leben-leuchtet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1169210/",
+            "filename": "solange-das-leben-leuchtet"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1169210/300x0/solange-das-leben-leuchtet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1169210/",
+            "filename": "solange-das-leben-leuchtet"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1169210/600x0/solange-das-leben-leuchtet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1169210/",
+            "filename": "solange-das-leben-leuchtet"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1169210/1200x0/solange-das-leben-leuchtet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1169210/",
+            "filename": "solange-das-leben-leuchtet"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "solange-das-leben-leuchtet",
+        "subheadline": "Solange das Leben leuchtet",
+        "text": "Staffel  | Do. 12.12.2019, 22:55 Uhr",
+        "type": "film",
+        "url": "/filme/solange-das-leben-leuchtet-17002",
+        "videoId": 1169210
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

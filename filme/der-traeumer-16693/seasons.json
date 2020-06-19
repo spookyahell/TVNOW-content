@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16693",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16693,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/traeumer-der-16693"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Träumer",
+          "teaserId": "film_1241176",
+          "teaserName": "Der Träumer | Träumer, Der",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Träumer, Der",
+        "id": 1241176,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1241176/300x0/traeumer-der.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1241176/",
+            "filename": "traeumer-der"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1241176/600x0/traeumer-der.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1241176/",
+            "filename": "traeumer-der"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1241176/1200x0/traeumer-der.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1241176/",
+            "filename": "traeumer-der"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1241176/300x0/traeumer-der.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1241176/",
+            "filename": "traeumer-der"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1241176/600x0/traeumer-der.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1241176/",
+            "filename": "traeumer-der"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1241176/1200x0/traeumer-der.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1241176/",
+            "filename": "traeumer-der"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-traeumer",
+        "subheadline": "Träumer, Der",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/traeumer-der-16693",
+        "videoId": 1241176
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

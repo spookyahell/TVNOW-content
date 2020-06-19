@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13707",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13707,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/colorado-13707"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Colorado",
+          "teaserId": "film_338162",
+          "teaserName": "Colorado | Colorado",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Western",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Colorado",
+        "id": 338162,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338162/300x0/colorado.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338162/",
+            "filename": "colorado"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338162/600x0/colorado.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338162/",
+            "filename": "colorado"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338162/1200x0/colorado.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338162/",
+            "filename": "colorado"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338162/300x0/colorado.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338162/",
+            "filename": "colorado"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338162/600x0/colorado.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338162/",
+            "filename": "colorado"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338162/1200x0/colorado.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338162/",
+            "filename": "colorado"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "colorado",
+        "subheadline": "Colorado",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/colorado-13707",
+        "videoId": 338162
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

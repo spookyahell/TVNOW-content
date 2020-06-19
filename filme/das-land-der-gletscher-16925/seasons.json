@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16925",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16925,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/das-land-der-gletscher-16925"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Land der Gletscher",
+          "teaserId": "film_496718",
+          "teaserName": "Das Land der Gletscher | Das Land der Gletscher",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Natur"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das Land der Gletscher",
+        "id": 496718,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/496718/300x0/das-land-der-gletscher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/496718/",
+            "filename": "das-land-der-gletscher"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/496718/600x0/das-land-der-gletscher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/496718/",
+            "filename": "das-land-der-gletscher"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/496718/1200x0/das-land-der-gletscher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/496718/",
+            "filename": "das-land-der-gletscher"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/496718/300x0/das-land-der-gletscher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/496718/",
+            "filename": "das-land-der-gletscher"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/496718/600x0/das-land-der-gletscher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/496718/",
+            "filename": "das-land-der-gletscher"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/496718/1200x0/das-land-der-gletscher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/496718/",
+            "filename": "das-land-der-gletscher"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-land-der-gletscher",
+        "subheadline": "Das Land der Gletscher",
+        "text": "Staffel  | Sa. 30.05.2020, 18:30 Uhr",
+        "type": "film",
+        "url": "/filme/das-land-der-gletscher-16925",
+        "videoId": 496718
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

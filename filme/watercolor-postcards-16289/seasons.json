@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16289",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16289,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/watercolor-postcards-16289"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Watercolor Postcards",
+          "teaserId": "film_1133866",
+          "teaserName": "Watercolor Postcards | Watercolor Postcards",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Watercolor Postcards",
+        "id": 1133866,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1133866/300x0/watercolor-postcards.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1133866/",
+            "filename": "watercolor-postcards"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1133866/600x0/watercolor-postcards.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1133866/",
+            "filename": "watercolor-postcards"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1133866/1200x0/watercolor-postcards.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1133866/",
+            "filename": "watercolor-postcards"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1133866/300x0/watercolor-postcards.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1133866/",
+            "filename": "watercolor-postcards"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1133866/600x0/watercolor-postcards.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1133866/",
+            "filename": "watercolor-postcards"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1133866/1200x0/watercolor-postcards.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1133866/",
+            "filename": "watercolor-postcards"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "watercolor-postcards",
+        "subheadline": "Watercolor Postcards",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/watercolor-postcards-16289",
+        "videoId": 1133866
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

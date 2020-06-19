@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13883",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13883,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-last-saint-13883"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Last Saint",
+          "teaserId": "film_338864",
+          "teaserName": "The Last Saint | The Last Saint",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Last Saint",
+        "id": 338864,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338864/300x0/the-last-saint.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338864/",
+            "filename": "the-last-saint"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338864/600x0/the-last-saint.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338864/",
+            "filename": "the-last-saint"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338864/1200x0/the-last-saint.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338864/",
+            "filename": "the-last-saint"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338864/300x0/the-last-saint.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338864/",
+            "filename": "the-last-saint"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338864/600x0/the-last-saint.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338864/",
+            "filename": "the-last-saint"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338864/1200x0/the-last-saint.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338864/",
+            "filename": "the-last-saint"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-last-saint",
+        "subheadline": "The Last Saint",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-last-saint-13883",
+        "videoId": 338864
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

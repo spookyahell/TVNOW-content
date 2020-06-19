@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13075",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13075,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/sie-ist-zu-gross-13075"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sie ist zu groß",
+          "teaserId": "film_336156",
+          "teaserName": "Sie ist zu groß | Sie ist zu groß",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Sie ist zu groß",
+        "id": 336156,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336156/300x0/sie-ist-zu-gross.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336156/",
+            "filename": "sie-ist-zu-gross"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336156/600x0/sie-ist-zu-gross.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336156/",
+            "filename": "sie-ist-zu-gross"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336156/1200x0/sie-ist-zu-gross.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336156/",
+            "filename": "sie-ist-zu-gross"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336156/300x0/sie-ist-zu-gross.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336156/",
+            "filename": "sie-ist-zu-gross"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336156/600x0/sie-ist-zu-gross.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336156/",
+            "filename": "sie-ist-zu-gross"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336156/1200x0/sie-ist-zu-gross.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336156/",
+            "filename": "sie-ist-zu-gross"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sie-ist-zu-gross",
+        "subheadline": "Sie ist zu groß",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/sie-ist-zu-gross-13075",
+        "videoId": 336156
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

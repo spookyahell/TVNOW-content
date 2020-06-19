@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16121",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16121,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/corridor-16121"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Corridor",
+          "teaserId": "film_579122",
+          "teaserName": "Corridor | Corridor",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Corridor",
+        "id": 579122,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/579122/300x0/corridor.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/579122/",
+            "filename": "corridor"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/579122/600x0/corridor.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/579122/",
+            "filename": "corridor"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/579122/1200x0/corridor.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/579122/",
+            "filename": "corridor"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/579122/300x0/corridor.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/579122/",
+            "filename": "corridor"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/579122/600x0/corridor.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/579122/",
+            "filename": "corridor"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/579122/1200x0/corridor.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/579122/",
+            "filename": "corridor"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "corridor",
+        "subheadline": "Corridor",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/corridor-16121",
+        "videoId": 579122
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

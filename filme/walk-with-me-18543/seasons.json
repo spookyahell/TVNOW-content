@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18543",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18543,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/walk-with-me-18543"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Walk With Me",
+          "teaserId": "film_3093380",
+          "teaserName": "Walk With Me | Walk With Me",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Wissen"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Walk With Me",
+        "id": 3093380,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3093380/300x0/walk-with-me.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3093380/",
+            "filename": "walk-with-me"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3093380/600x0/walk-with-me.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3093380/",
+            "filename": "walk-with-me"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3093380/1200x0/walk-with-me.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3093380/",
+            "filename": "walk-with-me"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3093380/300x0/walk-with-me.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3093380/",
+            "filename": "walk-with-me"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3093380/600x0/walk-with-me.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3093380/",
+            "filename": "walk-with-me"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3093380/1200x0/walk-with-me.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3093380/",
+            "filename": "walk-with-me"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "walk-with-me",
+        "subheadline": "Walk With Me",
+        "text": "Staffel  | So. 03.05.2020, 18:40 Uhr",
+        "type": "film",
+        "url": "/filme/walk-with-me-18543",
+        "videoId": 3093380
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

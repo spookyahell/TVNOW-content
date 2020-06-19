@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13181",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13181,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/call-it-murder-13181"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Call It Murder",
+          "teaserId": "film_336572",
+          "teaserName": "Call It Murder | Call It Murder",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Call It Murder",
+        "id": 336572,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336572/300x0/call-it-murder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336572/",
+            "filename": "call-it-murder"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336572/600x0/call-it-murder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336572/",
+            "filename": "call-it-murder"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336572/1200x0/call-it-murder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336572/",
+            "filename": "call-it-murder"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336572/300x0/call-it-murder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336572/",
+            "filename": "call-it-murder"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336572/600x0/call-it-murder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336572/",
+            "filename": "call-it-murder"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336572/1200x0/call-it-murder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336572/",
+            "filename": "call-it-murder"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "call-it-murder",
+        "subheadline": "Call It Murder",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/call-it-murder-13181",
+        "videoId": 336572
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

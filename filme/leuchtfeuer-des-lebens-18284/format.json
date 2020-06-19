@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 18284,
+  "additionalMeta": {
+    "canonical": "/filme/leuchtfeuer-des-lebens-18284",
+    "url": "/filme/leuchtfeuer-des-lebens-18284"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Leuchtfeuer des Lebens",
+      "url": "/filme/leuchtfeuer-des-lebens-18284"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18284,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Leuchtfeuer des Lebens 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Leuchtfeuer des Lebens im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Leuchtfeuer des Lebens 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 2803773,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/2803773",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18284"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Natur"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Leuchtfeuer des Lebens",
+    "text": "Im Laufe der Evolution haben zahllose Lebewesen die Fähigkeit entwickelt, ihr eigenes Licht zu produzieren - um in der Nacht zu überleben, Beute anzulocken oder Feinde abzuschrecken, Artgenossen zu warnen oder einen Partner zu finden. Sir David Attenborough begibt sich in die Nacht: zwischen leuchtenden Würmern, glimmenden Pilzen, funkelnde Bakterien und glühende Meeresbewohnern erkundet er die Wunder der Biolumineszenz.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/leuchtfeuer-des-lebens-18284",
+        "@type": "Movie",
+        "description": "Im Laufe der Evolution haben zahllose Lebewesen die Fähigkeit entwickelt, ihr eigenes Licht zu produzieren - um in der Nacht zu überleben, Beute anzulocken oder Feinde abzuschrecken, Artgenossen zu warnen oder einen Partner zu finden. Sir David Attenborough begibt sich in die Nacht: zwischen leuchtenden Würmern, glimmenden Pilzen, funkelnde Bakterien und glühende Meeresbewohnern erkundet er die Wunder der Biolumineszenz.",
+        "duration": "PT51M31S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/2803773/950x0/leuchtfeuer-des-lebens.jpg",
+        "name": "Leuchtfeuer des Lebens",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/leuchtfeuer-des-lebens-18284",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-05-31T16:30:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=leuchtfeuer-des-lebens-18284",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=leuchtfeuer-des-lebens-18284",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/leuchtfeuer-des-lebens-18284",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Im Laufe der Evolution haben zahllose Lebewesen die Fähigkeit entwickelt, ihr eigenes Licht zu produzieren - um in der Nacht zu überleben, Beute anzulocken oder Feinde abzuschrecken, Artgenossen zu warnen oder einen Partner zu finden. Sir David Attenborough begibt sich in die Nacht: zwischen leuchtenden Würmern, glimmenden Pilzen, funkelnde Bakterien und glühende Meeresbewohnern erkundet er die Wunder der Biolumineszenz.",
+          "duration": "PT51M31S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/leuchtfeuer-des-lebens-18284",
+          "name": "Leuchtfeuer des Lebens",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2803773/950x0/leuchtfeuer-des-lebens.jpg",
+          "uploadDate": "2020-05-31T16:30:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Leuchtfeuer des Lebens im Online Stream | TVNOW",
+        "headline": "Leuchtfeuer des Lebens im Online Stream | TVNOW",
+        "description": "Leuchtfeuer des Lebens und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/leuchtfeuer-des-lebens-18284",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/2803773/950x0/leuchtfeuer-des-lebens.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2803773/950x0/leuchtfeuer-des-lebens.jpg",
+        "datePublished": "2020-05-31T16:30:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/2803773/950x0/leuchtfeuer-des-lebens.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Leuchtfeuer des Lebens",
+            "item": "https://www.tvnow.de/filme/leuchtfeuer-des-lebens-18284"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Leuchtfeuer des Lebens im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

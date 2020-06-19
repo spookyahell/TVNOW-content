@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15933",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15933,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/dead-sexy-15933"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Dead Sexy",
+          "teaserId": "film_424298",
+          "teaserName": "Dead Sexy | DEAD SEXY",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "DEAD SEXY",
+        "id": 424298,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424298/300x0/dead-sexy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424298/",
+            "filename": "dead-sexy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424298/600x0/dead-sexy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424298/",
+            "filename": "dead-sexy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424298/1200x0/dead-sexy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424298/",
+            "filename": "dead-sexy"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424298/300x0/dead-sexy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424298/",
+            "filename": "dead-sexy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424298/600x0/dead-sexy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424298/",
+            "filename": "dead-sexy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424298/1200x0/dead-sexy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424298/",
+            "filename": "dead-sexy"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "dead-sexy",
+        "subheadline": "DEAD SEXY",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/dead-sexy-15933",
+        "videoId": 424298
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

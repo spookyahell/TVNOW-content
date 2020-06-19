@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12725",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12725,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/evil-inside-scourge-12725"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Evil Inside - Scourge",
+          "teaserId": "film_333628",
+          "teaserName": "Evil Inside - Scourge | Evil Inside - Scourge",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Evil Inside - Scourge",
+        "id": 333628,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333628/300x0/evil-inside-scourge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333628/",
+            "filename": "evil-inside-scourge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333628/600x0/evil-inside-scourge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333628/",
+            "filename": "evil-inside-scourge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333628/1200x0/evil-inside-scourge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333628/",
+            "filename": "evil-inside-scourge"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333628/300x0/evil-inside-scourge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333628/",
+            "filename": "evil-inside-scourge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333628/600x0/evil-inside-scourge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333628/",
+            "filename": "evil-inside-scourge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333628/1200x0/evil-inside-scourge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333628/",
+            "filename": "evil-inside-scourge"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "evil-inside-scourge",
+        "subheadline": "Evil Inside - Scourge",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/evil-inside-scourge-12725",
+        "videoId": 333628
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 17523,
+  "additionalMeta": {
+    "canonical": "/filme/der-lecker-faktor-was-wir-am-liebsten-essen-17523",
+    "url": "/filme/der-lecker-faktor-was-wir-am-liebsten-essen-17523"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Der Lecker-Faktor - Was wir am liebsten essen",
+      "url": "/filme/der-lecker-faktor-was-wir-am-liebsten-essen-17523"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17523,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Der Lecker-Faktor - Was wir am liebsten essen 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Lecker-Faktor, Essen, Nahrung, Ernährung, GEO, Doku, Dokumentation, Körper",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Der Lecker-Faktor - Was wir am liebsten essen im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Der Lecker-Faktor - Was wir am liebsten essen 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 392458,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/392458",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17523"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Der Lecker-Faktor - Was wir am liebsten essen",
+    "text": "In der Dokumentation versuchen Wissenschaftler herauszufinden, was Menschen am liebsten essen. Fast alle lieben Süßes. Psychologen, Evolutionsforscher und Suchtexperten sehen die Beliebtheit zuckerhaltiger Nahrungsmittel in der Evolution begründet. Das Wachstum und Überleben von Babys und Kleinkindern hängen von der Aufnahme von möglichst viel Energie ab, und Zucker ist neben Fett der kalorienreichste Inhaltsstoff von Nahrungsmitteln.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/der-lecker-faktor-was-wir-am-liebsten-essen-17523",
+        "@type": "Movie",
+        "description": "In der Dokumentation versuchen Wissenschaftler herauszufinden, was Menschen am liebsten essen. Fast alle lieben Süßes. Psychologen, Evolutionsforscher und Suchtexperten sehen die Beliebtheit zuckerhaltiger Nahrungsmittel in der Evolution begründet. Das Wachstum und Überleben von Babys und Kleinkindern hängen von der Aufnahme von möglichst viel Energie ab, und Zucker ist neben Fett der kalorienreichste Inhaltsstoff von Nahrungsmitteln.",
+        "duration": "PT49M30S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/392458/950x0/der-lecker-faktor-was-wir-am-liebsten-essen.jpg",
+        "name": "Der Lecker-Faktor - Was wir am liebsten essen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/der-lecker-faktor-was-wir-am-liebsten-essen-17523",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2019-04-01T01:25:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=der-lecker-faktor-was-wir-am-liebsten-essen-17523",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=der-lecker-faktor-was-wir-am-liebsten-essen-17523",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/der-lecker-faktor-was-wir-am-liebsten-essen-17523",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "In der Dokumentation versuchen Wissenschaftler herauszufinden, was Menschen am liebsten essen. Fast alle lieben Süßes. Psychologen, Evolutionsforscher und Suchtexperten sehen die Beliebtheit zuckerhaltiger Nahrungsmittel in der Evolution begründet. Das Wachstum und Überleben von Babys und Kleinkindern hängen von der Aufnahme von möglichst viel Energie ab, und Zucker ist neben Fett der kalorienreichste Inhaltsstoff von Nahrungsmitteln.",
+          "duration": "PT49M30S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/der-lecker-faktor-was-wir-am-liebsten-essen-17523",
+          "name": "Der Lecker-Faktor - Was wir am liebsten essen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/392458/950x0/der-lecker-faktor-was-wir-am-liebsten-essen.jpg",
+          "uploadDate": "2019-04-01T01:25:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Der Lecker-Faktor - Was wir am liebsten essen im Online Stream | TVNOW",
+        "headline": "Der Lecker-Faktor - Was wir am liebsten essen im Online Stream | TVNOW",
+        "description": "Der Lecker-Faktor - Was wir am liebsten essen und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/der-lecker-faktor-was-wir-am-liebsten-essen-17523",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/392458/950x0/der-lecker-faktor-was-wir-am-liebsten-essen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/392458/950x0/der-lecker-faktor-was-wir-am-liebsten-essen.jpg",
+        "datePublished": "2019-04-01T01:25:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/392458/950x0/der-lecker-faktor-was-wir-am-liebsten-essen.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Der Lecker-Faktor - Was wir am liebsten essen",
+            "item": "https://www.tvnow.de/filme/der-lecker-faktor-was-wir-am-liebsten-essen-17523"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Der Lecker-Faktor - Was wir am liebsten essen im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,208 @@
+﻿{
+  "formatId": 8086,
+  "additionalMeta": {
+    "canonical": "/serien/kirchenprogramm-bei-rtl-8086",
+    "url": "/serien/kirchenprogramm-bei-rtl-8086"
+  },
+  "ads": {
+    "station": "rtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Kirchenprogramm bei RTL",
+      "url": "/serien/kirchenprogramm-bei-rtl-8086"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 8086,
+  "meta": [
+    {
+      "content": "Die Serie Kirchenprogramm bei RTL (RTL) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Reportage im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "video, videos, online sehen, internet tv, fernsehen, alle folgen, rtl , rtl nitro, video on demand, mediathek, serien, 10 Gebote, Bibel, Kirchen, 10 Geschichten",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Kirchenprogramm bei RTL im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Kirchenprogramm bei RTL (RTL) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Reportage im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/8086",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/8086",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/8086",
+      "type": "teaserrow"
+    },
+    {
+      "id": 8086,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/8086",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rnkirchenprogramme",
+      "video": "dvrsowf_ten_rnkirchenprogramme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_now/formate/kirchenprogramme/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_now",
+        "formate",
+        "kirchenprogramme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Reportage",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zur Serie: Kirchenprogramm bei RTL",
+    "text": "Kirchenprogramm bei RTL und viele weitere Serien kannst Du gemütlich online bei TV NOW im Stream anschauen. Also nichts wie los – hole das Knabberzeug raus und genieße Deine Serie ganz entspannt von unterwegs oder von zu Hause aus mit Freunden.",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "https://www.tvnow.de/serien/kirchenprogramm-bei-rtl-8086",
+        "url": "https://www.tvnow.de/serien/kirchenprogramm-bei-rtl-8086",
+        "name": "Kirchenprogramm bei RTL",
+        "description": "Die Serie Kirchenprogramm bei RTL (RTL) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Reportage im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/8086_04metalogo/1200x0/kirchenprogramm-bei-rtl.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Information zur Serie: Kirchenprogramm bei RTL",
+        "headline": "Information zur Serie: Kirchenprogramm bei RTL",
+        "description": "Die Serie Kirchenprogramm bei RTL (RTL) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Reportage im Online Stream bei TVNOW anschauen.",
+        "url": "https://www.tvnow.de/serien/kirchenprogramm-bei-rtl-8086",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/8086_04metalogo/1200x0/kirchenprogramm-bei-rtl.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/8086_04metalogo/1200x0/kirchenprogramm-bei-rtl.png",
+        "keywords": "video, videos, online sehen, internet tv, fernsehen, alle folgen, rtl , rtl nitro, video on demand, mediathek, serien, 10 Gebote, Bibel, Kirchen, 10 Geschichten",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/8086_04metalogo/1200x0/kirchenprogramm-bei-rtl.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "https://www.tvnow.de/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Kirchenprogramm bei RTL",
+            "item": "https://www.tvnow.de/serien/kirchenprogramm-bei-rtl-8086"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Kirchenprogramm bei RTL im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17082",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17082,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/one-leben-am-limit-17082"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "One - Leben am Limit",
+          "teaserId": "film_405732",
+          "teaserName": "One - Leben am Limit | One - Leben am Limit",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "One - Leben am Limit",
+        "id": 405732,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/405732/300x0/one-leben-am-limit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/405732/",
+            "filename": "one-leben-am-limit"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/405732/600x0/one-leben-am-limit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/405732/",
+            "filename": "one-leben-am-limit"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/405732/1200x0/one-leben-am-limit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/405732/",
+            "filename": "one-leben-am-limit"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/405732/300x0/one-leben-am-limit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/405732/",
+            "filename": "one-leben-am-limit"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/405732/600x0/one-leben-am-limit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/405732/",
+            "filename": "one-leben-am-limit"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/405732/1200x0/one-leben-am-limit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/405732/",
+            "filename": "one-leben-am-limit"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "one-leben-am-limit",
+        "subheadline": "One - Leben am Limit",
+        "text": "Staffel  | Do. 03.01.2019, 22:50 Uhr",
+        "type": "film",
+        "url": "/filme/one-leben-am-limit-17082",
+        "videoId": 405732
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

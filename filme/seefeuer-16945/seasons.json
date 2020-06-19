@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16945",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16945,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/seefeuer-16945"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Seefeuer",
+          "teaserId": "film_344292",
+          "teaserName": "Seefeuer | Seefeuer",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Seefeuer",
+        "id": 344292,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344292/300x0/seefeuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344292/",
+            "filename": "seefeuer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344292/600x0/seefeuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344292/",
+            "filename": "seefeuer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344292/1200x0/seefeuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344292/",
+            "filename": "seefeuer"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344292/300x0/seefeuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344292/",
+            "filename": "seefeuer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344292/600x0/seefeuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344292/",
+            "filename": "seefeuer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344292/1200x0/seefeuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344292/",
+            "filename": "seefeuer"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "seefeuer",
+        "subheadline": "Seefeuer",
+        "text": "Staffel  | Mo. 03.12.2018, 13:40 Uhr",
+        "type": "film",
+        "url": "/filme/seefeuer-16945",
+        "videoId": 344292
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

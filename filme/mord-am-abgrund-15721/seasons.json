@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15721",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15721,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mord-am-abgrund-15721"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mord am Abgrund",
+          "teaserId": "film_410520",
+          "teaserName": "Mord am Abgrund | Mord am Abgrund",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mord am Abgrund",
+        "id": 410520,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410520/300x0/mord-am-abgrund.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410520/",
+            "filename": "mord-am-abgrund"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410520/600x0/mord-am-abgrund.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410520/",
+            "filename": "mord-am-abgrund"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410520/1200x0/mord-am-abgrund.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410520/",
+            "filename": "mord-am-abgrund"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410520/300x0/mord-am-abgrund.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410520/",
+            "filename": "mord-am-abgrund"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410520/600x0/mord-am-abgrund.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410520/",
+            "filename": "mord-am-abgrund"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410520/1200x0/mord-am-abgrund.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410520/",
+            "filename": "mord-am-abgrund"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mord-am-abgrund",
+        "subheadline": "Mord am Abgrund",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/mord-am-abgrund-15721",
+        "videoId": 410520
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

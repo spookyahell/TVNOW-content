@@ -1,0 +1,111 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18238",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18238,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/frauke-ludowig-trifft-18238/staffel-1/episode-1-guenther-jauch-2537677"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Frauke Ludowig trifft",
+          "teaserId": "show_episode_2537677",
+          "teaserName": "Frauke Ludowig trifft | Staffel 1 | Folge 1 | Günther Jauch",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reportage",
+          "cluster": [
+            "Promis"
+          ],
+          "classification": [
+            "Exklusiv"
+          ],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "EXKLUSIV",
+          "teaserEpisodeName": "Günther Jauch"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Günther Jauch",
+        "id": 2537677,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2537677/300x0/guenther-jauch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2537677/",
+            "filename": "guenther-jauch"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2537677/600x0/guenther-jauch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2537677/",
+            "filename": "guenther-jauch"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2537677/1200x0/guenther-jauch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2537677/",
+            "filename": "guenther-jauch"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2537677/300x0/guenther-jauch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2537677/",
+            "filename": "guenther-jauch"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2537677/600x0/guenther-jauch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2537677/",
+            "filename": "guenther-jauch"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2537677/1200x0/guenther-jauch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2537677/",
+            "filename": "guenther-jauch"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "frauke-ludowig-trifft",
+        "subheadline": "Günther Jauch",
+        "text": "Staffel 1, Folge 1 | EXKLUSIV",
+        "type": "show",
+        "url": "/shows/frauke-ludowig-trifft-18238/staffel-1/episode-1-guenther-jauch-2537677",
+        "videoId": 2537677
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

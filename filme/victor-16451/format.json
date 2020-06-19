@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 16451,
+  "additionalMeta": {
+    "canonical": "/filme/victor-16451",
+    "url": "/filme/victor-16451"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Victor",
+      "url": "/filme/victor-16451"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 16451,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Victor 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Victor, Film, TV NOW, Watchbox bei TV NOW, Drama, krimi, biografie, immigrant, puerto rico, brooklyn, usa, american dream, drogen, gang, kriminalität",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Victor im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Victor 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1193936,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1193936",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/16451"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_drama/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_drama",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Victor",
+    "text": "Bei TV NOW kannst Du den Film Victor und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/victor-16451",
+        "@type": "Movie",
+        "description": "Victor ist ein Teenager, als er 1962 mit seinen Eltern von Puerto Rico nach New York zieht. Das Leben in der Stadt ist hart, wenig Jobs und viel Kriminalität sind die Regel. Auch der lebensfrohe Victor kommt nach und nach in kriminelle Kreise und wird Teil einer Gang. Er beginnt nicht nur Heroin zu dealen, sondern fängt auch an, es selbst zu nehmen. Was anfangs noch nach abenteuerlichem Leben und dem schnellen Geld aussieht, das wird schon bald zu Drogensucht und Gewalt. Victor sinkt immer tiefer. Doch seine Mutter glaubt auch weiterhin daran, dass ihr Sohn nicht dazu bestimmt ist, durch Drogen zu sterben. Gemeinsam mit dem Pastor ihrer Gemeinde dringt sie langsam zu Victor durch. Doch schafft der wirklich die Kehrtwende?",
+        "duration": "PT1H45M25S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1193936/950x0/victor.jpg",
+        "name": "Victor",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/victor-16451",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2018-10-03T06:02:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/victor-16451",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Victor ist ein Teenager, als er 1962 mit seinen Eltern von Puerto Rico nach New York zieht. Das Leben in der Stadt ist hart, wenig Jobs und viel Kriminalität sind die Regel. Auch der lebensfrohe Victor kommt nach und nach in kriminelle Kreise und wird Teil einer Gang. Er beginnt nicht nur Heroin zu dealen, sondern fängt auch an, es selbst zu nehmen. Was anfangs noch nach abenteuerlichem Leben und dem schnellen Geld aussieht, das wird schon bald zu Drogensucht und Gewalt. Victor sinkt immer tiefer. Doch seine Mutter glaubt auch weiterhin daran, dass ihr Sohn nicht dazu bestimmt ist, durch Drogen zu sterben. Gemeinsam mit dem Pastor ihrer Gemeinde dringt sie langsam zu Victor durch. Doch schafft der wirklich die Kehrtwende?",
+          "duration": "PT1H45M25S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/victor-16451",
+          "name": "Victor",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1193936/950x0/victor.jpg",
+          "uploadDate": "2018-10-03T06:02:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Victor im Online Stream | TVNOW",
+        "headline": "Victor im Online Stream | TVNOW",
+        "description": "Victor und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Patrick Davis, Nick Eversman, Haley Ramm, Josh Pence, Rick Gonzales.",
+        "url": "https://www.tvnow.de/filme/victor-16451",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1193936/950x0/victor.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1193936/950x0/victor.jpg",
+        "datePublished": "2018-10-03T06:02:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1193936/950x0/victor.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Victor",
+            "item": "https://www.tvnow.de/filme/victor-16451"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Victor im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 16101,
+  "additionalMeta": {
+    "canonical": "/filme/camille-verliebt-nochmal-16101",
+    "url": "/filme/camille-verliebt-nochmal-16101"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Camille - Verliebt nochmal!",
+      "url": "/filme/camille-verliebt-nochmal-16101"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 16101,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Camille - Verliebt nochmal! 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Camille - Verliebt nochmal!, Film, TV NOW, Watchbox bei TV NOW, Ehe, silvester, tochter, familie, schauspielerin, wohnung, krankenhaus",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Camille - Verliebt nochmal! im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Camille - Verliebt nochmal! 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 577632,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/577632",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/16101"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Camille - Verliebt nochmal!",
+    "text": "Bei TV NOW kannst Du den Film Camille - Verliebt nochmal! und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/camille-verliebt-nochmal-16101",
+        "@type": "Movie",
+        "description": "Camille hat es nicht leicht. Als Schauspielerin bekommt sie nur kleine Rollen und ihr Mann Eric hat sie nach 25 Jahren Ehe verlassen und die erwachsene Tochter will Silvester nicht mehr mit Mama feiern. Doch Camille lässt sich nicht unterkriegen. Eric geigt sie die Meinung und vertreibt gekonnt einen potentiellen Käufer für die immer noch gemeinsame Wohnung. Und auch auf der Silvesterparty ihrer Freundin ist sie keine Frau von Traurigkeit. Nach der rauschenden Partynacht geschieht plötzlich ein Wunder. Camille wacht im Krankenhaus auf und ist zurück in der Vergangenheit. Man schreibt das Jahr 1985 und Camille steht noch ein Mal kurz vor ihrem 16. Geburtstag.\n\nSchnell gewöhnt sie sich an ihre neue Situation und genießt wieder das Leben mit den Freundinnen. Man lästert über die Jungs, nervt die Lehrer, und Camille spielt im Schultheater die Hauptrolle an der Seite von Eric. Sie verliebt sich zum zweiten Mal in ihn, aber sie traut ihrer Liebe nicht. Doch die Zeit drängt. Camille wird bald 16 und möchte ihre zweite Chance nutzen. Auch schwanger möchte sie auf jeden Fall wieder werden. Nur diesmal weiht sie ihre Mutter ein. Durch ihre frühere Lebenserfahrung gereift, versucht sie das Schicksal zu beeinflussen. Das amüsante, tragikomische Chaos voller Verwirrungen und Irrungen nimmt so seinen Lauf. Und Camille weiß nie, wann und ob sie wieder in der Gegenwart ankommen wird...",
+        "duration": "PT1H55M23S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/577632/950x0/camille-verliebt-nochmal.jpg",
+        "name": "Camille - Verliebt nochmal!",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/camille-verliebt-nochmal-16101",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2018-05-31T13:50:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/camille-verliebt-nochmal-16101",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Camille hat es nicht leicht. Als Schauspielerin bekommt sie nur kleine Rollen und ihr Mann Eric hat sie nach 25 Jahren Ehe verlassen und die erwachsene Tochter will Silvester nicht mehr mit Mama feiern. Doch Camille lässt sich nicht unterkriegen. Eric geigt sie die Meinung und vertreibt gekonnt einen potentiellen Käufer für die immer noch gemeinsame Wohnung. Und auch auf der Silvesterparty ihrer Freundin ist sie keine Frau von Traurigkeit. Nach der rauschenden Partynacht geschieht plötzlich ein Wunder. Camille wacht im Krankenhaus auf und ist zurück in der Vergangenheit. Man schreibt das Jahr 1985 und Camille steht noch ein Mal kurz vor ihrem 16. Geburtstag.\n\nSchnell gewöhnt sie sich an ihre neue Situation und genießt wieder das Leben mit den Freundinnen. Man lästert über die Jungs, nervt die Lehrer, und Camille spielt im Schultheater die Hauptrolle an der Seite von Eric. Sie verliebt sich zum zweiten Mal in ihn, aber sie traut ihrer Liebe nicht. Doch die Zeit drängt. Camille wird bald 16 und möchte ihre zweite Chance nutzen. Auch schwanger möchte sie auf jeden Fall wieder werden. Nur diesmal weiht sie ihre Mutter ein. Durch ihre frühere Lebenserfahrung gereift, versucht sie das Schicksal zu beeinflussen. Das amüsante, tragikomische Chaos voller Verwirrungen und Irrungen nimmt so seinen Lauf. Und Camille weiß nie, wann und ob sie wieder in der Gegenwart ankommen wird...",
+          "duration": "PT1H55M23S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/camille-verliebt-nochmal-16101",
+          "name": "Camille - Verliebt nochmal!",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/577632/950x0/camille-verliebt-nochmal.jpg",
+          "uploadDate": "2018-05-31T13:50:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Camille - Verliebt nochmal! im Online Stream | TVNOW",
+        "headline": "Camille - Verliebt nochmal! im Online Stream | TVNOW",
+        "description": "Camille - Verliebt nochmal! und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Noémie Lvovsky, Samir Guesmi, Judith Chemla, India Hair, Julia Faure.",
+        "url": "https://www.tvnow.de/filme/camille-verliebt-nochmal-16101",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/577632/950x0/camille-verliebt-nochmal.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/577632/950x0/camille-verliebt-nochmal.jpg",
+        "datePublished": "2018-05-31T13:50:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/577632/950x0/camille-verliebt-nochmal.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Camille - Verliebt nochmal!",
+            "item": "https://www.tvnow.de/filme/camille-verliebt-nochmal-16101"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Camille - Verliebt nochmal! im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

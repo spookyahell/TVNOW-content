@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17009",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17009,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/elstree-1976-17009"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Elstree 1976",
+          "teaserId": "film_1254396",
+          "teaserName": "Elstree 1976 | Elstree 1976",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Elstree 1976",
+        "id": 1254396,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1254396/300x0/elstree-1976.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1254396/",
+            "filename": "elstree-1976"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1254396/600x0/elstree-1976.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1254396/",
+            "filename": "elstree-1976"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1254396/1200x0/elstree-1976.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1254396/",
+            "filename": "elstree-1976"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1254396/300x0/elstree-1976.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1254396/",
+            "filename": "elstree-1976"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1254396/600x0/elstree-1976.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1254396/",
+            "filename": "elstree-1976"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1254396/1200x0/elstree-1976.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1254396/",
+            "filename": "elstree-1976"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "elstree-1976",
+        "subheadline": "Elstree 1976",
+        "text": "Staffel  | Sa. 25.04.2020, 00:40 Uhr",
+        "type": "film",
+        "url": "/filme/elstree-1976-17009",
+        "videoId": 1254396
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

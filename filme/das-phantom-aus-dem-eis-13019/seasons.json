@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13019",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13019,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/das-phantom-aus-dem-eis-13019"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Phantom aus dem Eis",
+          "teaserId": "film_335824",
+          "teaserName": "Das Phantom aus dem Eis | Das Phantom aus dem Eis",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das Phantom aus dem Eis",
+        "id": 335824,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335824/300x0/das-phantom-aus-dem-eis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335824/",
+            "filename": "das-phantom-aus-dem-eis"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335824/600x0/das-phantom-aus-dem-eis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335824/",
+            "filename": "das-phantom-aus-dem-eis"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335824/1200x0/das-phantom-aus-dem-eis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335824/",
+            "filename": "das-phantom-aus-dem-eis"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335824/300x0/das-phantom-aus-dem-eis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335824/",
+            "filename": "das-phantom-aus-dem-eis"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335824/600x0/das-phantom-aus-dem-eis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335824/",
+            "filename": "das-phantom-aus-dem-eis"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335824/1200x0/das-phantom-aus-dem-eis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335824/",
+            "filename": "das-phantom-aus-dem-eis"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-phantom-aus-dem-eis",
+        "subheadline": "Das Phantom aus dem Eis",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/das-phantom-aus-dem-eis-13019",
+        "videoId": 335824
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

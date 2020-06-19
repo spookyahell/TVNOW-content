@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17274",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17274,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/visitors-17274"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Visitors",
+          "teaserId": "film_1346614",
+          "teaserName": "Visitors | Visitors",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Visitors",
+        "id": 1346614,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1346614/300x0/visitors.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1346614/",
+            "filename": "visitors"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1346614/600x0/visitors.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1346614/",
+            "filename": "visitors"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1346614/1200x0/visitors.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1346614/",
+            "filename": "visitors"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1346614/300x0/visitors.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1346614/",
+            "filename": "visitors"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1346614/600x0/visitors.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1346614/",
+            "filename": "visitors"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1346614/1200x0/visitors.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1346614/",
+            "filename": "visitors"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "visitors",
+        "subheadline": "Visitors",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/visitors-17274",
+        "videoId": 1346614
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

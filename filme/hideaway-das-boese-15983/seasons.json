@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15983",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15983,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/hideaway-das-boese-15983"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Hideaway - Das Böse",
+          "teaserId": "film_426200",
+          "teaserName": "Hideaway - Das Böse | Hideaway - Das Böse",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Hideaway - Das Böse",
+        "id": 426200,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/426200/300x0/hideaway-das-boese.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/426200/",
+            "filename": "hideaway-das-boese"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/426200/600x0/hideaway-das-boese.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/426200/",
+            "filename": "hideaway-das-boese"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/426200/1200x0/hideaway-das-boese.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/426200/",
+            "filename": "hideaway-das-boese"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/426200/300x0/hideaway-das-boese.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/426200/",
+            "filename": "hideaway-das-boese"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/426200/600x0/hideaway-das-boese.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/426200/",
+            "filename": "hideaway-das-boese"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/426200/1200x0/hideaway-das-boese.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/426200/",
+            "filename": "hideaway-das-boese"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "hideaway-das-boese",
+        "subheadline": "Hideaway - Das Böse",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/hideaway-das-boese-15983",
+        "videoId": 426200
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

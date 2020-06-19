@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14597",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14597,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/dr-jekyll-und-mr-hyde-14597"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Dr. Jekyll und Mr. Hyde",
+          "teaserId": "film_344724",
+          "teaserName": "Dr. Jekyll und Mr. Hyde | Dr. Jekyll und Mr. Hyde",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Dr. Jekyll und Mr. Hyde",
+        "id": 344724,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344724/300x0/dr-jekyll-und-mr-hyde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344724/",
+            "filename": "dr-jekyll-und-mr-hyde"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344724/600x0/dr-jekyll-und-mr-hyde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344724/",
+            "filename": "dr-jekyll-und-mr-hyde"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344724/1200x0/dr-jekyll-und-mr-hyde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344724/",
+            "filename": "dr-jekyll-und-mr-hyde"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344724/300x0/dr-jekyll-und-mr-hyde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344724/",
+            "filename": "dr-jekyll-und-mr-hyde"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344724/600x0/dr-jekyll-und-mr-hyde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344724/",
+            "filename": "dr-jekyll-und-mr-hyde"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344724/1200x0/dr-jekyll-und-mr-hyde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344724/",
+            "filename": "dr-jekyll-und-mr-hyde"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "dr-jekyll-und-mr-hyde",
+        "subheadline": "Dr. Jekyll und Mr. Hyde",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/dr-jekyll-und-mr-hyde-14597",
+        "videoId": 344724
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

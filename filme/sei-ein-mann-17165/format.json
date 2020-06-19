@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 17165,
+  "additionalMeta": {
+    "canonical": "/filme/sei-ein-mann-17165",
+    "url": "/filme/sei-ein-mann-17165"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Sei ein Mann!",
+      "url": "/filme/sei-ein-mann-17165"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17165,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Sei ein Mann! 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Sei ein Mann, TVNOW, GEO, VOD, Stream, Video, Doku, Dokumentation, Gender, Männlichkeit",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Sei ein Mann! im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Sei ein Mann! 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1354429,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1354429",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17165"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Sei ein Mann!",
+    "text": "Aggression, Dominanz, Verschlossenheit. Sind dies die Charakterzüge, die durch Medien und Erziehungsmuster an viele Jungen und junge Männer herangetragen werden? In ihrem Dokumentarfilm untersucht die US-Regisseurin Jennifer Siebel Newsom die dunklen Seiten gängiger Männerbilder in der Gesellschaft - und beleuchtet neue Wege um diese zukünftig aufzubrechen.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/sei-ein-mann-17165",
+        "@type": "Movie",
+        "description": "Aggression, Dominanz, Verschlossenheit. Sind dies die Charakterzüge, die durch Medien und Erziehungsmuster an viele Jungen und junge Männer herangetragen werden? In ihrem Dokumentarfilm untersucht die US-Regisseurin Jennifer Siebel Newsom die dunklen Seiten gängiger Männerbilder in der Gesellschaft - und beleuchtet neue Wege um diese zukünftig aufzubrechen.",
+        "duration": "PT1H28M13S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1354429/950x0/sei-ein-mann.jpg",
+        "name": "Sei ein Mann!",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/sei-ein-mann-17165",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-01-04T00:20:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=sei-ein-mann-17165",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=sei-ein-mann-17165",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/sei-ein-mann-17165",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Aggression, Dominanz, Verschlossenheit. Sind dies die Charakterzüge, die durch Medien und Erziehungsmuster an viele Jungen und junge Männer herangetragen werden? In ihrem Dokumentarfilm untersucht die US-Regisseurin Jennifer Siebel Newsom die dunklen Seiten gängiger Männerbilder in der Gesellschaft - und beleuchtet neue Wege um diese zukünftig aufzubrechen.",
+          "duration": "PT1H28M13S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/sei-ein-mann-17165",
+          "name": "Sei ein Mann!",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1354429/950x0/sei-ein-mann.jpg",
+          "uploadDate": "2020-01-04T00:20:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Sei ein Mann! im Online Stream | TVNOW",
+        "headline": "Sei ein Mann! im Online Stream | TVNOW",
+        "description": "Sei ein Mann! und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/sei-ein-mann-17165",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1354429/950x0/sei-ein-mann.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1354429/950x0/sei-ein-mann.jpg",
+        "datePublished": "2020-01-04T00:20:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1354429/950x0/sei-ein-mann.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sei ein Mann!",
+            "item": "https://www.tvnow.de/filme/sei-ein-mann-17165"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Sei ein Mann! im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

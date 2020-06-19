@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17772",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17772,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/spass-am-gewinnen-17772"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Spaß am Gewinnen",
+          "teaserId": "film_1652273",
+          "teaserName": "Spaß am Gewinnen | Spaß am Gewinnen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Spaß am Gewinnen",
+        "id": 1652273,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1652273/300x0/spass-am-gewinnen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1652273/",
+            "filename": "spass-am-gewinnen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1652273/600x0/spass-am-gewinnen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1652273/",
+            "filename": "spass-am-gewinnen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1652273/1200x0/spass-am-gewinnen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1652273/",
+            "filename": "spass-am-gewinnen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1652273/300x0/spass-am-gewinnen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1652273/",
+            "filename": "spass-am-gewinnen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1652273/600x0/spass-am-gewinnen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1652273/",
+            "filename": "spass-am-gewinnen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1652273/1200x0/spass-am-gewinnen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1652273/",
+            "filename": "spass-am-gewinnen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "spass-am-gewinnen",
+        "subheadline": "Spaß am Gewinnen",
+        "text": "Staffel  | Do. 25.07.2019, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/spass-am-gewinnen-17772",
+        "videoId": 1652273
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14187",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14187,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/skin-deep-14187"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Skin Deep (OmU)",
+          "teaserId": "film_341304",
+          "teaserName": "Skin Deep (OmU) | Skin deep",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Skin deep",
+        "id": 341304,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341304/300x0/skin-deep.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341304/",
+            "filename": "skin-deep"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341304/600x0/skin-deep.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341304/",
+            "filename": "skin-deep"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341304/1200x0/skin-deep.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341304/",
+            "filename": "skin-deep"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341304/300x0/skin-deep.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341304/",
+            "filename": "skin-deep"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341304/600x0/skin-deep.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341304/",
+            "filename": "skin-deep"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341304/1200x0/skin-deep.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341304/",
+            "filename": "skin-deep"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "skin-deep",
+        "subheadline": "Skin deep",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/skin-deep-14187",
+        "videoId": 341304
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

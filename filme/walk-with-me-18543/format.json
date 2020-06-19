@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 18543,
+  "additionalMeta": {
+    "canonical": "/filme/walk-with-me-18543",
+    "url": "/filme/walk-with-me-18543"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Walk With Me",
+      "url": "/filme/walk-with-me-18543"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18543,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Walk With Me 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Walk With Me im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Walk With Me 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3093380,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3093380",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18543"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Wissen"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Walk With Me",
+    "text": "Die von Erzähler Benedict Cumberbatch begleitete Dokumentation \"Walk With Me\" entführt in die Welt der Achtsamkeit des berühmten buddhistischen Zen-Meisters Thich Nhat Hanh. Der Film gewährt einzigartige Einblicke in das Leben in den Klöstern und in die Lehren des gefeierten Meisters und Mönchs. Drei Jahre lang begleiteten die Filmemacher diese friedliche Gemeinschaft, die ihr gesamtes Leben der Achtsamkeit widmet. ",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/walk-with-me-18543",
+        "@type": "Movie",
+        "description": "Die von Erzähler Benedict Cumberbatch begleitete Dokumentation \"Walk With Me\" entführt in die Welt der Achtsamkeit des berühmten buddhistischen Zen-Meisters Thich Nhat Hanh. Der Film gewährt einzigartige Einblicke in das Leben in den Klöstern und in die Lehren des gefeierten Meisters und Mönchs. Drei Jahre lang begleiteten die Filmemacher diese friedliche Gemeinschaft, die ihr gesamtes Leben der Achtsamkeit widmet. ",
+        "duration": "PT1H30M15S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3093380/950x0/walk-with-me.jpg",
+        "name": "Walk With Me",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/walk-with-me-18543",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-05-03T18:40:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=walk-with-me-18543",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=walk-with-me-18543",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/walk-with-me-18543",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die von Erzähler Benedict Cumberbatch begleitete Dokumentation \"Walk With Me\" entführt in die Welt der Achtsamkeit des berühmten buddhistischen Zen-Meisters Thich Nhat Hanh. Der Film gewährt einzigartige Einblicke in das Leben in den Klöstern und in die Lehren des gefeierten Meisters und Mönchs. Drei Jahre lang begleiteten die Filmemacher diese friedliche Gemeinschaft, die ihr gesamtes Leben der Achtsamkeit widmet. ",
+          "duration": "PT1H30M15S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/walk-with-me-18543",
+          "name": "Walk With Me",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3093380/950x0/walk-with-me.jpg",
+          "uploadDate": "2020-05-03T18:40:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Walk With Me im Online Stream | TVNOW",
+        "headline": "Walk With Me im Online Stream | TVNOW",
+        "description": "Walk With Me und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/walk-with-me-18543",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3093380/950x0/walk-with-me.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3093380/950x0/walk-with-me.jpg",
+        "datePublished": "2020-05-03T18:40:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3093380/950x0/walk-with-me.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Walk With Me",
+            "item": "https://www.tvnow.de/filme/walk-with-me-18543"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Walk With Me im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

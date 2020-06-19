@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18442",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18442,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/gegen-die-angst-18442"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Gegen die Angst",
+          "teaserId": "film_3063460",
+          "teaserName": "Gegen die Angst | Gegen die Angst",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Gegen die Angst",
+        "id": 3063460,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063460/300x0/gegen-die-angst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063460/",
+            "filename": "gegen-die-angst"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063460/600x0/gegen-die-angst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063460/",
+            "filename": "gegen-die-angst"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063460/1200x0/gegen-die-angst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063460/",
+            "filename": "gegen-die-angst"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063460/300x0/gegen-die-angst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063460/",
+            "filename": "gegen-die-angst"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063460/600x0/gegen-die-angst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063460/",
+            "filename": "gegen-die-angst"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063460/1200x0/gegen-die-angst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063460/",
+            "filename": "gegen-die-angst"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "gegen-die-angst",
+        "subheadline": "Gegen die Angst",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/gegen-die-angst-18442",
+        "videoId": 3063460
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

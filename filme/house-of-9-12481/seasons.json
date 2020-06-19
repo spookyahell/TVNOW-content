@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12481",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12481,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/house-of-9-12481"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "House of 9",
+          "teaserId": "film_332056",
+          "teaserName": "House of 9 | House of 9",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "House of 9",
+        "id": 332056,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332056/300x0/house-of-9.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332056/",
+            "filename": "house-of-9"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332056/600x0/house-of-9.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332056/",
+            "filename": "house-of-9"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332056/1200x0/house-of-9.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332056/",
+            "filename": "house-of-9"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332056/300x0/house-of-9.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332056/",
+            "filename": "house-of-9"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332056/600x0/house-of-9.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332056/",
+            "filename": "house-of-9"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332056/1200x0/house-of-9.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332056/",
+            "filename": "house-of-9"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "house-of-9",
+        "subheadline": "House of 9",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/house-of-9-12481",
+        "videoId": 332056
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

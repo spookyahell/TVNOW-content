@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13573",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13573,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/zimmer-508-13573"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Zimmer 508",
+          "teaserId": "film_337636",
+          "teaserName": "Zimmer 508 | Zimmer 508",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Zimmer 508",
+        "id": 337636,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337636/300x0/zimmer-508.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337636/",
+            "filename": "zimmer-508"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337636/600x0/zimmer-508.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337636/",
+            "filename": "zimmer-508"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337636/1200x0/zimmer-508.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337636/",
+            "filename": "zimmer-508"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337636/300x0/zimmer-508.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337636/",
+            "filename": "zimmer-508"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337636/600x0/zimmer-508.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337636/",
+            "filename": "zimmer-508"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337636/1200x0/zimmer-508.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337636/",
+            "filename": "zimmer-508"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "zimmer-508",
+        "subheadline": "Zimmer 508",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/zimmer-508-13573",
+        "videoId": 337636
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

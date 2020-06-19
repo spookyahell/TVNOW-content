@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13065",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13065,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/from-mexico-with-love-13065"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "From Mexico With Love",
+          "teaserId": "film_336064",
+          "teaserName": "From Mexico With Love | From Mexico With Love",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "From Mexico With Love",
+        "id": 336064,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336064/300x0/from-mexico-with-love.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336064/",
+            "filename": "from-mexico-with-love"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336064/600x0/from-mexico-with-love.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336064/",
+            "filename": "from-mexico-with-love"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336064/1200x0/from-mexico-with-love.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336064/",
+            "filename": "from-mexico-with-love"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336064/300x0/from-mexico-with-love.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336064/",
+            "filename": "from-mexico-with-love"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336064/600x0/from-mexico-with-love.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336064/",
+            "filename": "from-mexico-with-love"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336064/1200x0/from-mexico-with-love.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336064/",
+            "filename": "from-mexico-with-love"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "from-mexico-with-love",
+        "subheadline": "From Mexico With Love",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/from-mexico-with-love-13065",
+        "videoId": 336064
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

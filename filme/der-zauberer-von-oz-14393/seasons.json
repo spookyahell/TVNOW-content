@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14393",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14393,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-zauberer-von-oz-14393"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Zauberer von Oz",
+          "teaserId": "film_343700",
+          "teaserName": "Der Zauberer von Oz | Der Zauberer von Oz",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Klassiker",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Zauberer von Oz",
+        "id": 343700,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343700/300x0/der-zauberer-von-oz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343700/",
+            "filename": "der-zauberer-von-oz"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343700/600x0/der-zauberer-von-oz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343700/",
+            "filename": "der-zauberer-von-oz"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343700/1200x0/der-zauberer-von-oz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343700/",
+            "filename": "der-zauberer-von-oz"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343700/300x0/der-zauberer-von-oz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343700/",
+            "filename": "der-zauberer-von-oz"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343700/600x0/der-zauberer-von-oz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343700/",
+            "filename": "der-zauberer-von-oz"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343700/1200x0/der-zauberer-von-oz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343700/",
+            "filename": "der-zauberer-von-oz"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-zauberer-von-oz",
+        "subheadline": "Der Zauberer von Oz",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/der-zauberer-von-oz-14393",
+        "videoId": 343700
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

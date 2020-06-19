@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16453",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16453,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ja-ich-glaube-16453"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ja, ich glaube!",
+          "teaserId": "film_1182348",
+          "teaserName": "Ja, ich glaube! | Ja, ich glaube!",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ja, ich glaube!",
+        "id": 1182348,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182348/300x0/ja-ich-glaube.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182348/",
+            "filename": "ja-ich-glaube"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182348/600x0/ja-ich-glaube.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182348/",
+            "filename": "ja-ich-glaube"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182348/1200x0/ja-ich-glaube.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182348/",
+            "filename": "ja-ich-glaube"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182348/300x0/ja-ich-glaube.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182348/",
+            "filename": "ja-ich-glaube"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182348/600x0/ja-ich-glaube.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182348/",
+            "filename": "ja-ich-glaube"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182348/1200x0/ja-ich-glaube.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182348/",
+            "filename": "ja-ich-glaube"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ja-ich-glaube",
+        "subheadline": "Ja, ich glaube!",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/ja-ich-glaube-16453",
+        "videoId": 1182348
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

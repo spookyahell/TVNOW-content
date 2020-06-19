@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13455",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13455,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/anna-karenina-13455"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Anna Karenina",
+          "teaserId": "film_337464",
+          "teaserName": "Anna Karenina | Anna Karenina",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Anna Karenina",
+        "id": 337464,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337464/300x0/anna-karenina.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337464/",
+            "filename": "anna-karenina"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337464/600x0/anna-karenina.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337464/",
+            "filename": "anna-karenina"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337464/1200x0/anna-karenina.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337464/",
+            "filename": "anna-karenina"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337464/300x0/anna-karenina.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337464/",
+            "filename": "anna-karenina"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337464/600x0/anna-karenina.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337464/",
+            "filename": "anna-karenina"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337464/1200x0/anna-karenina.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337464/",
+            "filename": "anna-karenina"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "anna-karenina",
+        "subheadline": "Anna Karenina",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/anna-karenina-13455",
+        "videoId": 337464
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

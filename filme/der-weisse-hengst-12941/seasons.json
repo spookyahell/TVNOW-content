@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12941",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12941,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-weisse-hengst-12941"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der weiße Hengst",
+          "teaserId": "film_335048",
+          "teaserName": "Der weiße Hengst | Der weiße Hengst",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der weiße Hengst",
+        "id": 335048,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335048/300x0/der-weisse-hengst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335048/",
+            "filename": "der-weisse-hengst"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335048/600x0/der-weisse-hengst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335048/",
+            "filename": "der-weisse-hengst"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335048/1200x0/der-weisse-hengst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335048/",
+            "filename": "der-weisse-hengst"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335048/300x0/der-weisse-hengst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335048/",
+            "filename": "der-weisse-hengst"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335048/600x0/der-weisse-hengst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335048/",
+            "filename": "der-weisse-hengst"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335048/1200x0/der-weisse-hengst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335048/",
+            "filename": "der-weisse-hengst"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-weisse-hengst",
+        "subheadline": "Der weiße Hengst",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/der-weisse-hengst-12941",
+        "videoId": 335048
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

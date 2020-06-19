@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13581",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13581,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ghost-writer-13581"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ghost Writer",
+          "teaserId": "film_337654",
+          "teaserName": "Ghost Writer | Ghost Writer",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ghost Writer",
+        "id": 337654,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337654/300x0/ghost-writer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337654/",
+            "filename": "ghost-writer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337654/600x0/ghost-writer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337654/",
+            "filename": "ghost-writer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337654/1200x0/ghost-writer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337654/",
+            "filename": "ghost-writer"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337654/300x0/ghost-writer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337654/",
+            "filename": "ghost-writer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337654/600x0/ghost-writer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337654/",
+            "filename": "ghost-writer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337654/1200x0/ghost-writer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337654/",
+            "filename": "ghost-writer"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ghost-writer",
+        "subheadline": "Ghost Writer",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/ghost-writer-13581",
+        "videoId": 337654
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

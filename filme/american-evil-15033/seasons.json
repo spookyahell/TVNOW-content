@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15033",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15033,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/american-evil-15033"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "American Evil",
+          "teaserId": "film_355022",
+          "teaserName": "American Evil | American Evil",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "American Evil",
+        "id": 355022,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355022/300x0/american-evil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355022/",
+            "filename": "american-evil"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355022/600x0/american-evil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355022/",
+            "filename": "american-evil"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355022/1200x0/american-evil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355022/",
+            "filename": "american-evil"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355022/300x0/american-evil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355022/",
+            "filename": "american-evil"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355022/600x0/american-evil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355022/",
+            "filename": "american-evil"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355022/1200x0/american-evil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355022/",
+            "filename": "american-evil"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "american-evil",
+        "subheadline": "American Evil",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/american-evil-15033",
+        "videoId": 355022
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

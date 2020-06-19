@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14089",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14089,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/iron-werewolf-14089"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Iron Werewolf",
+          "teaserId": "film_340490",
+          "teaserName": "Iron Werewolf | Iron Werewolf",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Iron Werewolf",
+        "id": 340490,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/340490/300x0/iron-werewolf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/340490/",
+            "filename": "iron-werewolf"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/340490/600x0/iron-werewolf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/340490/",
+            "filename": "iron-werewolf"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/340490/1200x0/iron-werewolf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/340490/",
+            "filename": "iron-werewolf"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/340490/300x0/iron-werewolf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/340490/",
+            "filename": "iron-werewolf"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/340490/600x0/iron-werewolf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/340490/",
+            "filename": "iron-werewolf"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/340490/1200x0/iron-werewolf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/340490/",
+            "filename": "iron-werewolf"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "iron-werewolf",
+        "subheadline": "Iron Werewolf",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/iron-werewolf-14089",
+        "videoId": 340490
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

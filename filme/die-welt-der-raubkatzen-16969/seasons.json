@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16969",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16969,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-welt-der-raubkatzen-16969"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Welt der Raubkatzen",
+          "teaserId": "film_1337214",
+          "teaserName": "Die Welt der Raubkatzen | Die Welt der Raubkatzen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Welt der Raubkatzen",
+        "id": 1337214,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1337214/300x0/die-welt-der-raubkatzen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1337214/",
+            "filename": "die-welt-der-raubkatzen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1337214/600x0/die-welt-der-raubkatzen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1337214/",
+            "filename": "die-welt-der-raubkatzen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1337214/1200x0/die-welt-der-raubkatzen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1337214/",
+            "filename": "die-welt-der-raubkatzen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1337214/300x0/die-welt-der-raubkatzen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1337214/",
+            "filename": "die-welt-der-raubkatzen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1337214/600x0/die-welt-der-raubkatzen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1337214/",
+            "filename": "die-welt-der-raubkatzen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1337214/1200x0/die-welt-der-raubkatzen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1337214/",
+            "filename": "die-welt-der-raubkatzen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-welt-der-raubkatzen",
+        "subheadline": "Die Welt der Raubkatzen",
+        "text": "Staffel  | Di. 03.09.2019, 21:05 Uhr",
+        "type": "film",
+        "url": "/filme/die-welt-der-raubkatzen-16969",
+        "videoId": 1337214
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

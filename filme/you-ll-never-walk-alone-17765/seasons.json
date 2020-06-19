@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17765",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17765,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/you-ll-never-walk-alone-17765"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "You'll Never Walk Alone",
+          "teaserId": "film_1643517",
+          "teaserName": "You'll Never Walk Alone | You'll Never Walk Alone",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Promis"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "You'll Never Walk Alone",
+        "id": 1643517,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1643517/300x0/you-ll-never-walk-alone.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1643517/",
+            "filename": "you-ll-never-walk-alone"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1643517/600x0/you-ll-never-walk-alone.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1643517/",
+            "filename": "you-ll-never-walk-alone"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1643517/1200x0/you-ll-never-walk-alone.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1643517/",
+            "filename": "you-ll-never-walk-alone"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1643517/300x0/you-ll-never-walk-alone.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1643517/",
+            "filename": "you-ll-never-walk-alone"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1643517/600x0/you-ll-never-walk-alone.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1643517/",
+            "filename": "you-ll-never-walk-alone"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1643517/1200x0/you-ll-never-walk-alone.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1643517/",
+            "filename": "you-ll-never-walk-alone"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "you-ll-never-walk-alone",
+        "subheadline": "You'll Never Walk Alone",
+        "text": "Staffel  | So. 22.12.2019, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/you-ll-never-walk-alone-17765",
+        "videoId": 1643517
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

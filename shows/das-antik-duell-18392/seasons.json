@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 95"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18392",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18392,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/das-antik-duell-18392/staffel-95/episode-1-pilotfolge-2973579"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Antikduell",
+          "teaserId": "show_episode_2973579",
+          "teaserName": "Das Antikduell | Staffel 95 | Folge 1 | Pilotfolge",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 95",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "So. 16.02.2020, 18:10 Uhr",
+          "teaserEpisodeName": "Pilotfolge"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Pilotfolge",
+        "id": 2973579,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2973579/300x0/pilotfolge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2973579/",
+            "filename": "pilotfolge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2973579/600x0/pilotfolge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2973579/",
+            "filename": "pilotfolge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2973579/1200x0/pilotfolge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2973579/",
+            "filename": "pilotfolge"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2973579/300x0/pilotfolge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2973579/",
+            "filename": "pilotfolge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2973579/600x0/pilotfolge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2973579/",
+            "filename": "pilotfolge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2973579/1200x0/pilotfolge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2973579/",
+            "filename": "pilotfolge"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-antik-duell",
+        "subheadline": "Pilotfolge",
+        "text": "Staffel 95, Folge 1 | So. 16.02.2020, 18:10 Uhr",
+        "type": "show",
+        "url": "/shows/das-antik-duell-18392/staffel-95/episode-1-pilotfolge-2973579",
+        "videoId": 2973579
+      }
+    ],
+    "format_navigation": {
+      "season": 95
+    },
+    "navigationType": "season"
+  }
+]

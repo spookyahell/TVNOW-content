@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14415",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14415,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/fantasy-mission-force-14415"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Fantasy Mission Force",
+          "teaserId": "film_343694",
+          "teaserName": "Fantasy Mission Force | Fantasy Mission Force",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Fantasy Mission Force",
+        "id": 343694,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343694/300x0/fantasy-mission-force.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343694/",
+            "filename": "fantasy-mission-force"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343694/600x0/fantasy-mission-force.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343694/",
+            "filename": "fantasy-mission-force"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343694/1200x0/fantasy-mission-force.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343694/",
+            "filename": "fantasy-mission-force"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343694/300x0/fantasy-mission-force.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343694/",
+            "filename": "fantasy-mission-force"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343694/600x0/fantasy-mission-force.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343694/",
+            "filename": "fantasy-mission-force"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343694/1200x0/fantasy-mission-force.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343694/",
+            "filename": "fantasy-mission-force"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "fantasy-mission-force",
+        "subheadline": "Fantasy Mission Force",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/fantasy-mission-force-14415",
+        "videoId": 343694
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,106 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17150",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17150,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/13-sins-17150"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "13 Sins",
+          "teaserId": "film_3187381",
+          "teaserName": "13 Sins | 13 Sins",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeAirtime": "Sa. 06.06.2020, 00:05 Uhr",
+          "teaserEpisodeName": "13 Sins"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "13 Sins",
+        "id": 3187381,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3187381/300x0/13-sins.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3187381/",
+            "filename": "13-sins"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3187381/600x0/13-sins.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3187381/",
+            "filename": "13-sins"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3187381/1200x0/13-sins.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3187381/",
+            "filename": "13-sins"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3187381/300x0/13-sins.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3187381/",
+            "filename": "13-sins"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3187381/600x0/13-sins.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3187381/",
+            "filename": "13-sins"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3187381/1200x0/13-sins.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3187381/",
+            "filename": "13-sins"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "13-sins",
+        "subheadline": "13 Sins",
+        "text": "Staffel 1 | Sa. 06.06.2020, 00:05 Uhr",
+        "type": "film",
+        "url": "/filme/13-sins-17150",
+        "videoId": 3187381
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

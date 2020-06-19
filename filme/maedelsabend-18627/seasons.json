@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18627",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18627,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/maedelsabend-18627"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mädelsabend",
+          "teaserId": "film_3158692",
+          "teaserName": "Mädelsabend | Mädelsabend",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mädelsabend",
+        "id": 3158692,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3158692/300x0/maedelsabend.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3158692/",
+            "filename": "maedelsabend"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3158692/600x0/maedelsabend.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3158692/",
+            "filename": "maedelsabend"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3158692/1200x0/maedelsabend.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3158692/",
+            "filename": "maedelsabend"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3158692/300x0/maedelsabend.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3158692/",
+            "filename": "maedelsabend"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3158692/600x0/maedelsabend.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3158692/",
+            "filename": "maedelsabend"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3158692/1200x0/maedelsabend.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3158692/",
+            "filename": "maedelsabend"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "maedelsabend",
+        "subheadline": "Mädelsabend",
+        "text": "Staffel  | Sa. 23.05.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/maedelsabend-18627",
+        "videoId": 3158692
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

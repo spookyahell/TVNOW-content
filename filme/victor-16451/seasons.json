@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16451",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16451,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/victor-16451"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Victor",
+          "teaserId": "film_1193936",
+          "teaserName": "Victor | Victor",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Victor",
+        "id": 1193936,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1193936/300x0/victor.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1193936/",
+            "filename": "victor"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1193936/600x0/victor.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1193936/",
+            "filename": "victor"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1193936/1200x0/victor.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1193936/",
+            "filename": "victor"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1193936/300x0/victor.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1193936/",
+            "filename": "victor"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1193936/600x0/victor.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1193936/",
+            "filename": "victor"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1193936/1200x0/victor.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1193936/",
+            "filename": "victor"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "victor",
+        "subheadline": "Victor",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/victor-16451",
+        "videoId": 1193936
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 17726,
+  "additionalMeta": {
+    "canonical": "/filme/ersten-am-mond-die-apollo-8-mission-die-17726",
+    "url": "/filme/ersten-am-mond-die-apollo-8-mission-die-17726"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die Ersten am Mond - Die Apollo 8-Mission",
+      "url": "/filme/ersten-am-mond-die-apollo-8-mission-die-17726"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17726,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Die Ersten am Mond - Die Apollo 8-Mission 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Die Ersten am Mond - Die Apollo 8-Mission, video, videos, online sehen, internet tv, fernsehen, video on demand, TV NOW, TVNOW",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Ersten am Mond - Die Apollo 8-Mission im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Die Ersten am Mond - Die Apollo 8-Mission 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1641060,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1641060",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17726"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Die Ersten am Mond - Die Apollo 8-Mission",
+    "text": "Es war eine waghalsige Mission der NASA - doch eine, die als Meilenstein auf dem Weg zur ersten Mondlandung in die Geschichte eingehen sollte. Am 21. Dezember 1968 startete die erste bemannte Raumfahrt zum Mond. An Bord waren Frank Borman, Bill Anders und Jim Lovell - die ersten Menschen, die je den Erdorbit verlassen haben. 50 Jahre später erzählt \"Die Ersten am Mond\" von den bewegenden Lebensgeschichten der Apollo 8- Helden. ",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/die-ersten-am-mond-die-apollo-8-mission-17726",
+        "@type": "Movie",
+        "description": "Es war eine waghalsige Mission der NASA - doch eine, die als Meilenstein auf dem Weg zur ersten Mondlandung in die Geschichte eingehen sollte. Am 21. Dezember 1968 startete die erste bemannte Raumfahrt zum Mond. An Bord waren Frank Borman, Bill Anders und Jim Lovell - die ersten Menschen, die je den Erdorbit verlassen haben. 50 Jahre später erzählt \"Die Ersten am Mond\" von den bewegenden Lebensgeschichten der Apollo 8- Helden. ",
+        "duration": "PT2H1M12S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1641060/950x0/ersten-am-mond-die-apollo-8-mission-die.jpg",
+        "name": "Die Ersten am Mond - Die Apollo 8-Mission",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/die-ersten-am-mond-die-apollo-8-mission-17726",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-04-21T09:50:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=ersten-am-mond-die-apollo-8-mission-die-17726",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=ersten-am-mond-die-apollo-8-mission-die-17726",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/die-ersten-am-mond-die-apollo-8-mission-17726",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Es war eine waghalsige Mission der NASA - doch eine, die als Meilenstein auf dem Weg zur ersten Mondlandung in die Geschichte eingehen sollte. Am 21. Dezember 1968 startete die erste bemannte Raumfahrt zum Mond. An Bord waren Frank Borman, Bill Anders und Jim Lovell - die ersten Menschen, die je den Erdorbit verlassen haben. 50 Jahre später erzählt \"Die Ersten am Mond\" von den bewegenden Lebensgeschichten der Apollo 8- Helden. ",
+          "duration": "PT2H1M12S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/die-ersten-am-mond-die-apollo-8-mission-17726",
+          "name": "Die Ersten am Mond - Die Apollo 8-Mission",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1641060/950x0/ersten-am-mond-die-apollo-8-mission-die.jpg",
+          "uploadDate": "2020-04-21T09:50:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Ersten am Mond - Die Apollo 8-Mission im Online Stream | TVNOW",
+        "headline": "Die Ersten am Mond - Die Apollo 8-Mission im Online Stream | TVNOW",
+        "description": "Die Ersten am Mond - Die Apollo 8-Mission und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/die-ersten-am-mond-die-apollo-8-mission-17726",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1641060/950x0/ersten-am-mond-die-apollo-8-mission-die.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1641060/950x0/ersten-am-mond-die-apollo-8-mission-die.jpg",
+        "datePublished": "2020-04-21T09:50:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1641060/950x0/ersten-am-mond-die-apollo-8-mission-die.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Ersten am Mond - Die Apollo 8-Mission",
+            "item": "https://www.tvnow.de/filme/ersten-am-mond-die-apollo-8-mission-die-17726"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Ersten am Mond - Die Apollo 8-Mission im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12159",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12159,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mephisto-effekt-12159"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mephisto-Effekt",
+          "teaserId": "film_323512",
+          "teaserName": "Mephisto-Effekt | Mephisto-Effekt",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mephisto-Effekt",
+        "id": 323512,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/323512/300x0/mephisto-effekt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/323512/",
+            "filename": "mephisto-effekt"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/323512/600x0/mephisto-effekt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/323512/",
+            "filename": "mephisto-effekt"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/323512/1200x0/mephisto-effekt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/323512/",
+            "filename": "mephisto-effekt"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/323512/300x0/mephisto-effekt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/323512/",
+            "filename": "mephisto-effekt"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/323512/600x0/mephisto-effekt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/323512/",
+            "filename": "mephisto-effekt"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/323512/1200x0/mephisto-effekt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/323512/",
+            "filename": "mephisto-effekt"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mephisto-effekt",
+        "subheadline": "Mephisto-Effekt",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/mephisto-effekt-12159",
+        "videoId": 323512
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

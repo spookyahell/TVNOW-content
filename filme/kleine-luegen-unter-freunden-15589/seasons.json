@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15589",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15589,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/kleine-luegen-unter-freunden-15589"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Kleine Lügen unter Freunden",
+          "teaserId": "film_389050",
+          "teaserName": "Kleine Lügen unter Freunden | Kleine Lügen unter Freunden",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Kleine Lügen unter Freunden",
+        "id": 389050,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389050/300x0/kleine-luegen-unter-freunden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389050/",
+            "filename": "kleine-luegen-unter-freunden"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389050/600x0/kleine-luegen-unter-freunden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389050/",
+            "filename": "kleine-luegen-unter-freunden"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389050/1200x0/kleine-luegen-unter-freunden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389050/",
+            "filename": "kleine-luegen-unter-freunden"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389050/300x0/kleine-luegen-unter-freunden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389050/",
+            "filename": "kleine-luegen-unter-freunden"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389050/600x0/kleine-luegen-unter-freunden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389050/",
+            "filename": "kleine-luegen-unter-freunden"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389050/1200x0/kleine-luegen-unter-freunden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389050/",
+            "filename": "kleine-luegen-unter-freunden"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "kleine-luegen-unter-freunden",
+        "subheadline": "Kleine Lügen unter Freunden",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/kleine-luegen-unter-freunden-15589",
+        "videoId": 389050
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

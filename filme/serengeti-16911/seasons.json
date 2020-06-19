@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16911",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16911,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/serengeti-16911"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Serengeti",
+          "teaserId": "film_365066",
+          "teaserName": "Serengeti | Serengeti",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Serengeti",
+        "id": 365066,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365066/300x0/serengeti.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365066/",
+            "filename": "serengeti"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365066/600x0/serengeti.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365066/",
+            "filename": "serengeti"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365066/1200x0/serengeti.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365066/",
+            "filename": "serengeti"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365066/300x0/serengeti.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365066/",
+            "filename": "serengeti"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365066/600x0/serengeti.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365066/",
+            "filename": "serengeti"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365066/1200x0/serengeti.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365066/",
+            "filename": "serengeti"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "serengeti",
+        "subheadline": "Serengeti",
+        "text": "Staffel  | Mo. 28.01.2019, 17:25 Uhr",
+        "type": "film",
+        "url": "/filme/serengeti-16911",
+        "videoId": 365066
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

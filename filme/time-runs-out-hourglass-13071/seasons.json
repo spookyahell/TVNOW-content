@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13071",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13071,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/time-runs-out-hourglass-13071"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Time Runs Out - Hourglass",
+          "teaserId": "film_336070",
+          "teaserName": "Time Runs Out - Hourglass | Time Runs Out - Hourglass",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Time Runs Out - Hourglass",
+        "id": 336070,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336070/300x0/time-runs-out-hourglass.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336070/",
+            "filename": "time-runs-out-hourglass"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336070/600x0/time-runs-out-hourglass.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336070/",
+            "filename": "time-runs-out-hourglass"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336070/1200x0/time-runs-out-hourglass.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336070/",
+            "filename": "time-runs-out-hourglass"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336070/300x0/time-runs-out-hourglass.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336070/",
+            "filename": "time-runs-out-hourglass"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336070/600x0/time-runs-out-hourglass.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336070/",
+            "filename": "time-runs-out-hourglass"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336070/1200x0/time-runs-out-hourglass.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336070/",
+            "filename": "time-runs-out-hourglass"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "time-runs-out-hourglass",
+        "subheadline": "Time Runs Out - Hourglass",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/time-runs-out-hourglass-13071",
+        "videoId": 336070
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

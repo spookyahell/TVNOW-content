@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13011",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13011,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/possessed-besessen-13011"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Possessed - Besessen",
+          "teaserId": "film_335696",
+          "teaserName": "Possessed - Besessen | Possessed - Besessen",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Possessed - Besessen",
+        "id": 335696,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335696/300x0/possessed-besessen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335696/",
+            "filename": "possessed-besessen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335696/600x0/possessed-besessen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335696/",
+            "filename": "possessed-besessen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335696/1200x0/possessed-besessen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335696/",
+            "filename": "possessed-besessen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335696/300x0/possessed-besessen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335696/",
+            "filename": "possessed-besessen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335696/600x0/possessed-besessen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335696/",
+            "filename": "possessed-besessen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335696/1200x0/possessed-besessen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335696/",
+            "filename": "possessed-besessen"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "possessed-besessen",
+        "subheadline": "Possessed - Besessen",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/possessed-besessen-13011",
+        "videoId": 335696
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

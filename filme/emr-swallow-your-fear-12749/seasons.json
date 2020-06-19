@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12749",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12749,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/emr-swallow-your-fear-12749"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "EMR - Swallow Your Fear",
+          "teaserId": "film_333788",
+          "teaserName": "EMR - Swallow Your Fear | EMR - Swallow Your Fear",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "EMR - Swallow Your Fear",
+        "id": 333788,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333788/300x0/emr-swallow-your-fear.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333788/",
+            "filename": "emr-swallow-your-fear"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333788/600x0/emr-swallow-your-fear.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333788/",
+            "filename": "emr-swallow-your-fear"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333788/1200x0/emr-swallow-your-fear.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333788/",
+            "filename": "emr-swallow-your-fear"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333788/300x0/emr-swallow-your-fear.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333788/",
+            "filename": "emr-swallow-your-fear"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333788/600x0/emr-swallow-your-fear.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333788/",
+            "filename": "emr-swallow-your-fear"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333788/1200x0/emr-swallow-your-fear.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333788/",
+            "filename": "emr-swallow-your-fear"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "emr-swallow-your-fear",
+        "subheadline": "EMR - Swallow Your Fear",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/emr-swallow-your-fear-12749",
+        "videoId": 333788
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

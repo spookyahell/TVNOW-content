@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14471",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14471,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/tales-of-vesperia-14471"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Tales of Vesperia",
+          "teaserId": "film_344120",
+          "teaserName": "Tales of Vesperia | Tales of Vesperia",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Anime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Tales of Vesperia",
+        "id": 344120,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344120/300x0/tales-of-vesperia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344120/",
+            "filename": "tales-of-vesperia"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344120/600x0/tales-of-vesperia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344120/",
+            "filename": "tales-of-vesperia"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344120/1200x0/tales-of-vesperia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344120/",
+            "filename": "tales-of-vesperia"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344120/300x0/tales-of-vesperia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344120/",
+            "filename": "tales-of-vesperia"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344120/600x0/tales-of-vesperia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344120/",
+            "filename": "tales-of-vesperia"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344120/1200x0/tales-of-vesperia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344120/",
+            "filename": "tales-of-vesperia"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "tales-of-vesperia",
+        "subheadline": "Tales of Vesperia",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/tales-of-vesperia-14471",
+        "videoId": 344120
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

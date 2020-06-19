@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14697",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14697,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/hotel-desire-14697"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Hotel Desire",
+          "teaserId": "film_345388",
+          "teaserName": "Hotel Desire | Hotel Desire",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Hotel Desire",
+        "id": 345388,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/345388/300x0/hotel-desire.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/345388/",
+            "filename": "hotel-desire"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/345388/600x0/hotel-desire.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/345388/",
+            "filename": "hotel-desire"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/345388/1200x0/hotel-desire.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/345388/",
+            "filename": "hotel-desire"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/345388/300x0/hotel-desire.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/345388/",
+            "filename": "hotel-desire"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/345388/600x0/hotel-desire.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/345388/",
+            "filename": "hotel-desire"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/345388/1200x0/hotel-desire.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/345388/",
+            "filename": "hotel-desire"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "hotel-desire",
+        "subheadline": "Hotel Desire",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/hotel-desire-14697",
+        "videoId": 345388
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

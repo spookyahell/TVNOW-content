@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17325",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17325,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mosquito-17325"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mosquito",
+          "teaserId": "film_1382500",
+          "teaserName": "Mosquito | Mosquito",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mosquito",
+        "id": 1382500,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1382500/300x0/mosquito.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1382500/",
+            "filename": "mosquito"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1382500/600x0/mosquito.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1382500/",
+            "filename": "mosquito"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1382500/1200x0/mosquito.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1382500/",
+            "filename": "mosquito"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1382500/300x0/mosquito.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1382500/",
+            "filename": "mosquito"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1382500/600x0/mosquito.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1382500/",
+            "filename": "mosquito"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1382500/1200x0/mosquito.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1382500/",
+            "filename": "mosquito"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mosquito",
+        "subheadline": "Mosquito",
+        "text": "Staffel  | Sa. 08.02.2020, 23:50 Uhr",
+        "type": "film",
+        "url": "/filme/mosquito-17325",
+        "videoId": 1382500
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

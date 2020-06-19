@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 14227,
+  "additionalMeta": {
+    "canonical": "/filme/der-attentaeter-14227",
+    "url": "/filme/der-attentaeter-14227"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Der Attentäter",
+      "url": "/filme/der-attentaeter-14227"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 14227,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Der Attentäter 📺 und viele weitere ▶️ Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Der Attentäter, Film, Stream, Online-Stream, TV NOW, WATCHBOX, kostenlos, Spielfilm, Video, gratis, Thriller, Krimi, Klassiker, Frank Sinatra, Crime",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Der Attentäter im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Der Attentäter 📺 und viele weitere ▶️ Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 342224,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/342224",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/14227"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_thriller/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_thriller",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Thriller",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Der Attentäter",
+    "text": "Bei TV NOW kannst Du den Film Der Attentäter und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/der-attentaeter-14227",
+        "@type": "Movie",
+        "description": "Was soll in einer Kleinstadt wie Suddenly schon passieren? Alles geht seinen Gang, bis plötzlich der Secret Service an die Tür von Sheriff Tod Shaw klopft. Präsident Eisenhower will ausgerechnet hier Halt machen und das Leben der Kleinstädter wird plötzlich auf den Kopf gestellt. Da fallen die drei Männer vom FBI nicht weiter auf, die im Haus der Familie Benson Quartier beziehen. Doch wer sagt eigentlich, dass John Baron und seine Helfer wirklich Bundesagenten sind? Es kommt zum Showdown im Haus der Bensons. Schaffen es der Sheriff und die Bewohner, den schrecklichen Plan der Eindringlinge zu verhindern? Die wollen nämlich nichts anderes, als den Präsidenten ermorden...",
+        "duration": "PT1H13M35S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/342224/950x0/der-attentaeter.jpg",
+        "name": "Der Attentäter",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/der-attentaeter-14227",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-10-16T22:40:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/der-attentaeter-14227",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Was soll in einer Kleinstadt wie Suddenly schon passieren? Alles geht seinen Gang, bis plötzlich der Secret Service an die Tür von Sheriff Tod Shaw klopft. Präsident Eisenhower will ausgerechnet hier Halt machen und das Leben der Kleinstädter wird plötzlich auf den Kopf gestellt. Da fallen die drei Männer vom FBI nicht weiter auf, die im Haus der Familie Benson Quartier beziehen. Doch wer sagt eigentlich, dass John Baron und seine Helfer wirklich Bundesagenten sind? Es kommt zum Showdown im Haus der Bensons. Schaffen es der Sheriff und die Bewohner, den schrecklichen Plan der Eindringlinge zu verhindern? Die wollen nämlich nichts anderes, als den Präsidenten ermorden...",
+          "duration": "PT1H13M35S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/der-attentaeter-14227",
+          "name": "Der Attentäter",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/342224/950x0/der-attentaeter.jpg",
+          "uploadDate": "2017-10-16T22:40:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Der Attentäter im Online Stream | TVNOW",
+        "headline": "Der Attentäter im Online Stream | TVNOW",
+        "description": "Der Attentäter und viele weitere  ▶️Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW. Ein Film mit ▶️Frank Sinatra, Sterling Hayden, James Gleason.",
+        "url": "https://www.tvnow.de/filme/der-attentaeter-14227",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/342224/950x0/der-attentaeter.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/342224/950x0/der-attentaeter.jpg",
+        "datePublished": "2017-10-16T22:40:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/342224/950x0/der-attentaeter.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Der Attentäter",
+            "item": "https://www.tvnow.de/filme/der-attentaeter-14227"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Der Attentäter im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12557",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12557,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/evil-words-12557"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Evil Words",
+          "teaserId": "film_330644",
+          "teaserName": "Evil Words | Evil Words",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Evil Words",
+        "id": 330644,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330644/300x0/evil-words.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330644/",
+            "filename": "evil-words"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330644/600x0/evil-words.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330644/",
+            "filename": "evil-words"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330644/1200x0/evil-words.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330644/",
+            "filename": "evil-words"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330644/300x0/evil-words.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330644/",
+            "filename": "evil-words"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330644/600x0/evil-words.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330644/",
+            "filename": "evil-words"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330644/1200x0/evil-words.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330644/",
+            "filename": "evil-words"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "evil-words",
+        "subheadline": "Evil Words",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/evil-words-12557",
+        "videoId": 330644
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15717",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15717,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/showdown-im-schnee-15717"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Showdown im Schnee",
+          "teaserId": "film_410504",
+          "teaserName": "Showdown im Schnee | Showdown im Schnee",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Showdown im Schnee",
+        "id": 410504,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410504/300x0/showdown-im-schnee.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410504/",
+            "filename": "showdown-im-schnee"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410504/600x0/showdown-im-schnee.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410504/",
+            "filename": "showdown-im-schnee"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410504/1200x0/showdown-im-schnee.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410504/",
+            "filename": "showdown-im-schnee"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410504/300x0/showdown-im-schnee.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410504/",
+            "filename": "showdown-im-schnee"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410504/600x0/showdown-im-schnee.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410504/",
+            "filename": "showdown-im-schnee"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410504/1200x0/showdown-im-schnee.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410504/",
+            "filename": "showdown-im-schnee"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "showdown-im-schnee",
+        "subheadline": "Showdown im Schnee",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/showdown-im-schnee-15717",
+        "videoId": 410504
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

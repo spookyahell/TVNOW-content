@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17004",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17004,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/seeadler-der-vogel-phoenix-17004"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Seeadler - Der Vogel Phönix",
+          "teaserId": "film_1171400",
+          "teaserName": "Seeadler - Der Vogel Phönix | Seeadler - Der Vogel Phönix",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Tiere"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Seeadler - Der Vogel Phönix",
+        "id": 1171400,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171400/300x0/seeadler-der-vogel-phoenix.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171400/",
+            "filename": "seeadler-der-vogel-phoenix"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171400/600x0/seeadler-der-vogel-phoenix.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171400/",
+            "filename": "seeadler-der-vogel-phoenix"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171400/1200x0/seeadler-der-vogel-phoenix.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171400/",
+            "filename": "seeadler-der-vogel-phoenix"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171400/300x0/seeadler-der-vogel-phoenix.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171400/",
+            "filename": "seeadler-der-vogel-phoenix"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171400/600x0/seeadler-der-vogel-phoenix.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171400/",
+            "filename": "seeadler-der-vogel-phoenix"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171400/1200x0/seeadler-der-vogel-phoenix.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171400/",
+            "filename": "seeadler-der-vogel-phoenix"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "seeadler-der-vogel-phoenix",
+        "subheadline": "Seeadler - Der Vogel Phönix",
+        "text": "Staffel  | Sa. 15.02.2020, 21:50 Uhr",
+        "type": "film",
+        "url": "/filme/seeadler-der-vogel-phoenix-17004",
+        "videoId": 1171400
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

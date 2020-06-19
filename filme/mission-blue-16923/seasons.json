@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16923",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16923,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mission-blue-16923"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mission Blue",
+          "teaserId": "film_446732",
+          "teaserName": "Mission Blue | Mission Blue",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mission Blue",
+        "id": 446732,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/446732/300x0/mission-blue.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/446732/",
+            "filename": "mission-blue"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/446732/600x0/mission-blue.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/446732/",
+            "filename": "mission-blue"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/446732/1200x0/mission-blue.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/446732/",
+            "filename": "mission-blue"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/446732/300x0/mission-blue.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/446732/",
+            "filename": "mission-blue"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/446732/600x0/mission-blue.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/446732/",
+            "filename": "mission-blue"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/446732/1200x0/mission-blue.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/446732/",
+            "filename": "mission-blue"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mission-blue",
+        "subheadline": "Mission Blue",
+        "text": "Staffel  | Fr. 03.04.2020, 22:55 Uhr",
+        "type": "film",
+        "url": "/filme/mission-blue-16923",
+        "videoId": 446732
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

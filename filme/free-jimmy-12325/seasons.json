@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12325",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12325,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/free-jimmy-12325"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Free Jimmy",
+          "teaserId": "film_341368",
+          "teaserName": "Free Jimmy | Free Jimmy",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Animation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Free Jimmy",
+        "id": 341368,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341368/300x0/free-jimmy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341368/",
+            "filename": "free-jimmy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341368/600x0/free-jimmy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341368/",
+            "filename": "free-jimmy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341368/1200x0/free-jimmy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341368/",
+            "filename": "free-jimmy"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341368/300x0/free-jimmy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341368/",
+            "filename": "free-jimmy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341368/600x0/free-jimmy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341368/",
+            "filename": "free-jimmy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341368/1200x0/free-jimmy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341368/",
+            "filename": "free-jimmy"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "free-jimmy",
+        "subheadline": "Free Jimmy",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/free-jimmy-12325",
+        "videoId": 341368
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18443",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18443,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/im-tunnel-18443"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Im Tunnel",
+          "teaserId": "film_3063452",
+          "teaserName": "Im Tunnel | Im Tunnel",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Im Tunnel",
+        "id": 3063452,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063452/300x0/im-tunnel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063452/",
+            "filename": "im-tunnel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063452/600x0/im-tunnel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063452/",
+            "filename": "im-tunnel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063452/1200x0/im-tunnel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063452/",
+            "filename": "im-tunnel"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063452/300x0/im-tunnel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063452/",
+            "filename": "im-tunnel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063452/600x0/im-tunnel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063452/",
+            "filename": "im-tunnel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063452/1200x0/im-tunnel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063452/",
+            "filename": "im-tunnel"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "im-tunnel",
+        "subheadline": "Im Tunnel",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/im-tunnel-18443",
+        "videoId": 3063452
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

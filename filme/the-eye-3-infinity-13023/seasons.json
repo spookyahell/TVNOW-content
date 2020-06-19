@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13023",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13023,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-eye-3-infinity-13023"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Eye 3 - Infinity",
+          "teaserId": "film_335820",
+          "teaserName": "The Eye 3 - Infinity | The Eye 3 - Infinity",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Eye 3 - Infinity",
+        "id": 335820,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335820/300x0/the-eye-3-infinity.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335820/",
+            "filename": "the-eye-3-infinity"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335820/600x0/the-eye-3-infinity.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335820/",
+            "filename": "the-eye-3-infinity"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335820/1200x0/the-eye-3-infinity.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335820/",
+            "filename": "the-eye-3-infinity"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335820/300x0/the-eye-3-infinity.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335820/",
+            "filename": "the-eye-3-infinity"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335820/600x0/the-eye-3-infinity.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335820/",
+            "filename": "the-eye-3-infinity"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335820/1200x0/the-eye-3-infinity.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335820/",
+            "filename": "the-eye-3-infinity"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-eye-3-infinity",
+        "subheadline": "The Eye 3 - Infinity",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-eye-3-infinity-13023",
+        "videoId": 335820
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

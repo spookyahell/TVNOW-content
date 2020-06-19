@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12197",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12197,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ein-sommer-in-new-york-12197"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ein Sommer in New York",
+          "teaserId": "film_328586",
+          "teaserName": "Ein Sommer in New York | Ein Sommer in New York",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ein Sommer in New York",
+        "id": 328586,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/328586/300x0/ein-sommer-in-new-york.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/328586/",
+            "filename": "ein-sommer-in-new-york"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/328586/600x0/ein-sommer-in-new-york.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/328586/",
+            "filename": "ein-sommer-in-new-york"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/328586/1200x0/ein-sommer-in-new-york.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/328586/",
+            "filename": "ein-sommer-in-new-york"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/328586/300x0/ein-sommer-in-new-york.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/328586/",
+            "filename": "ein-sommer-in-new-york"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/328586/600x0/ein-sommer-in-new-york.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/328586/",
+            "filename": "ein-sommer-in-new-york"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/328586/1200x0/ein-sommer-in-new-york.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/328586/",
+            "filename": "ein-sommer-in-new-york"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ein-sommer-in-new-york",
+        "subheadline": "Ein Sommer in New York",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/ein-sommer-in-new-york-12197",
+        "videoId": 328586
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

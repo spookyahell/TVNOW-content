@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 14527,
+  "additionalMeta": {
+    "canonical": "/filme/a-deal-is-a-deal-14527",
+    "url": "/filme/a-deal-is-a-deal-14527"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "3 und raus - A Deal is a Deal",
+      "url": "/filme/a-deal-is-a-deal-14527"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 14527,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ 3 und raus - A Deal is a Deal 📺 und viele weitere ▶️ Filme aus dem Genre Crime findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "A Deal is a Deal, Film, Stream, Online-Stream, TV NOW, WATCHBOX, kostenlos, Spielfilm, Video, gratis, Komödie, Crime, Krimi, Independent, British, Selbstmord, Bahn, U-Bahn",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "3 und raus - A Deal is a Deal im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ 3 und raus - A Deal is a Deal 📺 und viele weitere ▶️ Filme aus dem Genre Crime findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 344386,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/344386",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/14527"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Crime",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: 3 und raus - A Deal is a Deal",
+    "text": "Bei TV NOW kannst Du den Film 3 und raus - A Deal is a Deal und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/a-deal-is-a-deal-3-und-raus-14527",
+        "@type": "Movie",
+        "description": "Eines Tages erlebt Paul den Horror aller U-Bahnfahrer: Er überfährt einen Menschen! Und als ob das nicht genug wäre, passiert es ihm kurze Zeit später ein zweites Mal. Ein Kollege berichtet ihm von einer hohen Abfindung vorausgesetzt, es gibt einen dritten Todesfall! Paul schmiedet einen makaberen Plan: Ein Selbstmörder soll vor die U-Bahn springen. Allerdings hat Paul nicht damit gerechnet, dass das Leben plötzlich wieder lebenswert ist, wenn der Wind sich dreht, und so werden die Tage mit seinem 'Kandidaten' Tommy zur Zerreißprobe ...",
+        "duration": "PT1H42M11S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/344386/950x0/a-deal-is-a-deal.jpg",
+        "name": "3 und raus - A Deal is a Deal",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/a-deal-is-a-deal-3-und-raus-14527",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-11-03T20:58:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/a-deal-is-a-deal-3-und-raus-14527",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Eines Tages erlebt Paul den Horror aller U-Bahnfahrer: Er überfährt einen Menschen! Und als ob das nicht genug wäre, passiert es ihm kurze Zeit später ein zweites Mal. Ein Kollege berichtet ihm von einer hohen Abfindung vorausgesetzt, es gibt einen dritten Todesfall! Paul schmiedet einen makaberen Plan: Ein Selbstmörder soll vor die U-Bahn springen. Allerdings hat Paul nicht damit gerechnet, dass das Leben plötzlich wieder lebenswert ist, wenn der Wind sich dreht, und so werden die Tage mit seinem 'Kandidaten' Tommy zur Zerreißprobe ...",
+          "duration": "PT1H42M11S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/a-deal-is-a-deal-3-und-raus-14527",
+          "name": "3 und raus - A Deal is a Deal",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/344386/950x0/a-deal-is-a-deal.jpg",
+          "uploadDate": "2017-11-03T20:58:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "3 und raus - A Deal is a Deal im Online Stream | TVNOW",
+        "headline": "3 und raus - A Deal is a Deal im Online Stream | TVNOW",
+        "description": "3 und raus - A Deal is a Deal und viele weitere  ▶️Filme aus dem Genre Crime findest du im Online Stream bei TVNOW. Ein Film mit ▶️Mackenzie Crook, Colm Meany.",
+        "url": "https://www.tvnow.de/filme/a-deal-is-a-deal-3-und-raus-14527",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/344386/950x0/a-deal-is-a-deal.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/344386/950x0/a-deal-is-a-deal.jpg",
+        "datePublished": "2017-11-03T20:58:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/344386/950x0/a-deal-is-a-deal.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "3 und raus - A Deal is a Deal",
+            "item": "https://www.tvnow.de/filme/a-deal-is-a-deal-14527"
+          }
+        ]
+      }
+    }
+  },
+  "title": "3 und raus - A Deal is a Deal im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

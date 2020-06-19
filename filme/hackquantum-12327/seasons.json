@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12327",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12327,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/hack-quantum-12327"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "hack//Quantum",
+          "teaserId": "film_341370",
+          "teaserName": "hack//Quantum | hack//Quantum",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Anime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "hack//Quantum",
+        "id": 341370,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341370/300x0/hack-quantum.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341370/",
+            "filename": "hack-quantum"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341370/600x0/hack-quantum.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341370/",
+            "filename": "hack-quantum"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341370/1200x0/hack-quantum.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341370/",
+            "filename": "hack-quantum"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341370/300x0/hack-quantum.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341370/",
+            "filename": "hack-quantum"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341370/600x0/hack-quantum.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341370/",
+            "filename": "hack-quantum"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341370/1200x0/hack-quantum.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341370/",
+            "filename": "hack-quantum"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "hackquantum",
+        "subheadline": "hack//Quantum",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/hack-quantum-12327",
+        "videoId": 341370
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

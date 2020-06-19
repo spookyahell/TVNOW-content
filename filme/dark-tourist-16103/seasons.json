@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16103",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16103,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/dark-tourist-16103"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Dark Tourist",
+          "teaserId": "film_577472",
+          "teaserName": "Dark Tourist | Dark Tourist",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Dark Tourist",
+        "id": 577472,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577472/300x0/dark-tourist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577472/",
+            "filename": "dark-tourist"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577472/600x0/dark-tourist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577472/",
+            "filename": "dark-tourist"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577472/1200x0/dark-tourist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577472/",
+            "filename": "dark-tourist"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577472/300x0/dark-tourist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577472/",
+            "filename": "dark-tourist"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577472/600x0/dark-tourist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577472/",
+            "filename": "dark-tourist"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577472/1200x0/dark-tourist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577472/",
+            "filename": "dark-tourist"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "dark-tourist",
+        "subheadline": "Dark Tourist",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/dark-tourist-16103",
+        "videoId": 577472
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

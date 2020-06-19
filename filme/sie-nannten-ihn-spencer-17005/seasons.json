@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17005",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17005,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/sie-nannten-ihn-spencer-17005"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sie nannten ihn Spencer",
+          "teaserId": "film_1171396",
+          "teaserName": "Sie nannten ihn Spencer | Sie nannten ihn Spencer",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Sie nannten ihn Spencer",
+        "id": 1171396,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171396/300x0/sie-nannten-ihn-spencer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171396/",
+            "filename": "sie-nannten-ihn-spencer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171396/600x0/sie-nannten-ihn-spencer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171396/",
+            "filename": "sie-nannten-ihn-spencer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171396/1200x0/sie-nannten-ihn-spencer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171396/",
+            "filename": "sie-nannten-ihn-spencer"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171396/300x0/sie-nannten-ihn-spencer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171396/",
+            "filename": "sie-nannten-ihn-spencer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171396/600x0/sie-nannten-ihn-spencer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171396/",
+            "filename": "sie-nannten-ihn-spencer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171396/1200x0/sie-nannten-ihn-spencer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171396/",
+            "filename": "sie-nannten-ihn-spencer"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sie-nannten-ihn-spencer",
+        "subheadline": "Sie nannten ihn Spencer",
+        "text": "Staffel  | So. 16.02.2020, 00:25 Uhr",
+        "type": "film",
+        "url": "/filme/sie-nannten-ihn-spencer-17005",
+        "videoId": 1171396
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15573",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15573,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-english-teacher-15573"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The English Teacher",
+          "teaserId": "film_388632",
+          "teaserName": "The English Teacher | The English Teacher",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The English Teacher",
+        "id": 388632,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/388632/300x0/the-english-teacher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/388632/",
+            "filename": "the-english-teacher"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/388632/600x0/the-english-teacher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/388632/",
+            "filename": "the-english-teacher"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/388632/1200x0/the-english-teacher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/388632/",
+            "filename": "the-english-teacher"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/388632/300x0/the-english-teacher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/388632/",
+            "filename": "the-english-teacher"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/388632/600x0/the-english-teacher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/388632/",
+            "filename": "the-english-teacher"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/388632/1200x0/the-english-teacher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/388632/",
+            "filename": "the-english-teacher"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-english-teacher",
+        "subheadline": "The English Teacher",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-english-teacher-15573",
+        "videoId": 388632
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

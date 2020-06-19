@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16119",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16119,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ende-der-schonzeit-16119"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ende der Schonzeit",
+          "teaserId": "film_577836",
+          "teaserName": "Ende der Schonzeit | Ende der Schonzeit",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ende der Schonzeit",
+        "id": 577836,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577836/300x0/ende-der-schonzeit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577836/",
+            "filename": "ende-der-schonzeit"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577836/600x0/ende-der-schonzeit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577836/",
+            "filename": "ende-der-schonzeit"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577836/1200x0/ende-der-schonzeit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577836/",
+            "filename": "ende-der-schonzeit"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577836/300x0/ende-der-schonzeit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577836/",
+            "filename": "ende-der-schonzeit"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577836/600x0/ende-der-schonzeit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577836/",
+            "filename": "ende-der-schonzeit"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577836/1200x0/ende-der-schonzeit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577836/",
+            "filename": "ende-der-schonzeit"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ende-der-schonzeit",
+        "subheadline": "Ende der Schonzeit",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/ende-der-schonzeit-16119",
+        "videoId": 577836
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

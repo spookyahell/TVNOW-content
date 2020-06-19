@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14029",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14029,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/souls-midnight-14029"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Soul's Midnight",
+          "teaserId": "film_341722",
+          "teaserName": "Soul's Midnight | Soul's Midnight",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Soul's Midnight",
+        "id": 341722,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341722/300x0/souls-midnight.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341722/",
+            "filename": "souls-midnight"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341722/600x0/souls-midnight.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341722/",
+            "filename": "souls-midnight"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341722/1200x0/souls-midnight.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341722/",
+            "filename": "souls-midnight"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341722/300x0/souls-midnight.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341722/",
+            "filename": "souls-midnight"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341722/600x0/souls-midnight.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341722/",
+            "filename": "souls-midnight"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341722/1200x0/souls-midnight.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341722/",
+            "filename": "souls-midnight"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "souls-midnight",
+        "subheadline": "Soul's Midnight",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/souls-midnight-14029",
+        "videoId": 341722
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

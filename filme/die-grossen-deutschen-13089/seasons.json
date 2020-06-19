@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13089",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13089,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-grossen-deutschen-13089"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die großen Deutschen",
+          "teaserId": "film_336186",
+          "teaserName": "Die großen Deutschen | Die großen Deutschen",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die großen Deutschen",
+        "id": 336186,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336186/300x0/die-grossen-deutschen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336186/",
+            "filename": "die-grossen-deutschen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336186/600x0/die-grossen-deutschen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336186/",
+            "filename": "die-grossen-deutschen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336186/1200x0/die-grossen-deutschen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336186/",
+            "filename": "die-grossen-deutschen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336186/300x0/die-grossen-deutschen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336186/",
+            "filename": "die-grossen-deutschen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336186/600x0/die-grossen-deutschen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336186/",
+            "filename": "die-grossen-deutschen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336186/1200x0/die-grossen-deutschen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336186/",
+            "filename": "die-grossen-deutschen"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-grossen-deutschen",
+        "subheadline": "Die großen Deutschen",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/die-grossen-deutschen-13089",
+        "videoId": 336186
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

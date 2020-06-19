@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12821",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12821,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/transmorphers-12821"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Transmorphers",
+          "teaserId": "film_334728",
+          "teaserName": "Transmorphers | Transmorphers",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Science Fiction",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Transmorphers",
+        "id": 334728,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334728/300x0/transmorphers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334728/",
+            "filename": "transmorphers"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334728/600x0/transmorphers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334728/",
+            "filename": "transmorphers"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334728/1200x0/transmorphers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334728/",
+            "filename": "transmorphers"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334728/300x0/transmorphers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334728/",
+            "filename": "transmorphers"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334728/600x0/transmorphers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334728/",
+            "filename": "transmorphers"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334728/1200x0/transmorphers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334728/",
+            "filename": "transmorphers"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "transmorphers",
+        "subheadline": "Transmorphers",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/transmorphers-12821",
+        "videoId": 334728
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

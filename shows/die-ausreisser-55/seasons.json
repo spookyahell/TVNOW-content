@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 5"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/55",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 55,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/die-ausreisser-55/staffel-5/episode-2-malaika-196097"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Ausreißer",
+          "teaserId": "show_episode_196097",
+          "teaserName": "Die Ausreißer | Staffel 5 | Folge 2 | Malaika",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Real Life",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 5",
+          "teaserEpisodeNumber": "Folge 2",
+          "teaserEpisodeAirtime": "Mo. 30.03.2015, 21:15 Uhr",
+          "teaserEpisodeName": "Malaika"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Malaika",
+        "id": 196097,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/196097/300x0/malaika.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/196097/",
+            "filename": "malaika"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/196097/600x0/malaika.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/196097/",
+            "filename": "malaika"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/196097/1200x0/malaika.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/196097/",
+            "filename": "malaika"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/196097/300x0/malaika.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/196097/",
+            "filename": "malaika"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/196097/600x0/malaika.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/196097/",
+            "filename": "malaika"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/196097/1200x0/malaika.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/196097/",
+            "filename": "malaika"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-ausreisser",
+        "subheadline": "Malaika",
+        "text": "Staffel 5, Folge 2 | Mo. 30.03.2015, 21:15 Uhr",
+        "type": "show",
+        "url": "/shows/die-ausreisser-55/staffel-5/episode-2-malaika-196097",
+        "videoId": 196097
+      }
+    ],
+    "format_navigation": {
+      "season": 5
+    },
+    "navigationType": "season"
+  }
+]

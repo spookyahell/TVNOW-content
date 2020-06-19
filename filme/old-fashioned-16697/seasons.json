@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16697",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16697,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/old-fashioned-16697"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Old Fashioned",
+          "teaserId": "film_1241216",
+          "teaserName": "Old Fashioned | Old Fashioned",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Old Fashioned",
+        "id": 1241216,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1241216/300x0/old-fashioned.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1241216/",
+            "filename": "old-fashioned"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1241216/600x0/old-fashioned.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1241216/",
+            "filename": "old-fashioned"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1241216/1200x0/old-fashioned.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1241216/",
+            "filename": "old-fashioned"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1241216/300x0/old-fashioned.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1241216/",
+            "filename": "old-fashioned"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1241216/600x0/old-fashioned.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1241216/",
+            "filename": "old-fashioned"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1241216/1200x0/old-fashioned.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1241216/",
+            "filename": "old-fashioned"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "old-fashioned",
+        "subheadline": "Old Fashioned",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/old-fashioned-16697",
+        "videoId": 1241216
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

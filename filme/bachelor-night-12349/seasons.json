@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12349",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12349,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/bachelor-night-12349"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Bachelor Night",
+          "teaserId": "film_341324",
+          "teaserName": "Bachelor Night | Bachelor Night",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Bachelor Night",
+        "id": 341324,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341324/300x0/bachelor-night.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341324/",
+            "filename": "bachelor-night"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341324/600x0/bachelor-night.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341324/",
+            "filename": "bachelor-night"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341324/1200x0/bachelor-night.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341324/",
+            "filename": "bachelor-night"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341324/300x0/bachelor-night.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341324/",
+            "filename": "bachelor-night"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341324/600x0/bachelor-night.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341324/",
+            "filename": "bachelor-night"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341324/1200x0/bachelor-night.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341324/",
+            "filename": "bachelor-night"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "bachelor-night",
+        "subheadline": "Bachelor Night",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/bachelor-night-12349",
+        "videoId": 341324
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

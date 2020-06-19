@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12571",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12571,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/saikano-12571"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Saikano",
+          "teaserId": "film_332048",
+          "teaserName": "Saikano | Saikano",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Science Fiction",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Saikano",
+        "id": 332048,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332048/300x0/saikano.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332048/",
+            "filename": "saikano"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332048/600x0/saikano.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332048/",
+            "filename": "saikano"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332048/1200x0/saikano.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332048/",
+            "filename": "saikano"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332048/300x0/saikano.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332048/",
+            "filename": "saikano"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332048/600x0/saikano.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332048/",
+            "filename": "saikano"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332048/1200x0/saikano.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332048/",
+            "filename": "saikano"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "saikano",
+        "subheadline": "Saikano",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/saikano-12571",
+        "videoId": 332048
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

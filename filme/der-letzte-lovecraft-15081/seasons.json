@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15081",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15081,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-letzte-lovecraft-15081"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der letzte Lovecraft",
+          "teaserId": "film_355632",
+          "teaserName": "Der letzte Lovecraft | Der letzte Lovecraft",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Fantasy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der letzte Lovecraft",
+        "id": 355632,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355632/300x0/der-letzte-lovecraft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355632/",
+            "filename": "der-letzte-lovecraft"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355632/600x0/der-letzte-lovecraft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355632/",
+            "filename": "der-letzte-lovecraft"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355632/1200x0/der-letzte-lovecraft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355632/",
+            "filename": "der-letzte-lovecraft"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355632/300x0/der-letzte-lovecraft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355632/",
+            "filename": "der-letzte-lovecraft"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355632/600x0/der-letzte-lovecraft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355632/",
+            "filename": "der-letzte-lovecraft"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355632/1200x0/der-letzte-lovecraft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355632/",
+            "filename": "der-letzte-lovecraft"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-letzte-lovecraft",
+        "subheadline": "Der letzte Lovecraft",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/der-letzte-lovecraft-15081",
+        "videoId": 355632
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

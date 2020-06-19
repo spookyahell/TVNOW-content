@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18386",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18386,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/das-verschwinden-der-singvoegel-18386"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Verschwinden der Singvögel",
+          "teaserId": "film_3002400",
+          "teaserName": "Das Verschwinden der Singvögel | Das Verschwinden der Singvögel",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Natur"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das Verschwinden der Singvögel",
+        "id": 3002400,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3002400/300x0/das-verschwinden-der-singvoegel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3002400/",
+            "filename": "das-verschwinden-der-singvoegel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3002400/600x0/das-verschwinden-der-singvoegel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3002400/",
+            "filename": "das-verschwinden-der-singvoegel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3002400/1200x0/das-verschwinden-der-singvoegel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3002400/",
+            "filename": "das-verschwinden-der-singvoegel"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3002400/300x0/das-verschwinden-der-singvoegel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3002400/",
+            "filename": "das-verschwinden-der-singvoegel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3002400/600x0/das-verschwinden-der-singvoegel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3002400/",
+            "filename": "das-verschwinden-der-singvoegel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3002400/1200x0/das-verschwinden-der-singvoegel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3002400/",
+            "filename": "das-verschwinden-der-singvoegel"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-verschwinden-der-singvoegel",
+        "subheadline": "Das Verschwinden der Singvögel",
+        "text": "Staffel  | Mo. 11.05.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/das-verschwinden-der-singvoegel-18386",
+        "videoId": 3002400
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

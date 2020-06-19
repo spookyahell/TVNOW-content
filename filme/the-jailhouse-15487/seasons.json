@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15487",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15487,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/jailhouse-the-15487"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Jailhouse",
+          "teaserId": "film_385388",
+          "teaserName": "The Jailhouse | Jailhouse, The",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Jailhouse, The",
+        "id": 385388,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/385388/300x0/jailhouse-the.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/385388/",
+            "filename": "jailhouse-the"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/385388/600x0/jailhouse-the.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/385388/",
+            "filename": "jailhouse-the"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/385388/1200x0/jailhouse-the.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/385388/",
+            "filename": "jailhouse-the"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/385388/300x0/jailhouse-the.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/385388/",
+            "filename": "jailhouse-the"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/385388/600x0/jailhouse-the.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/385388/",
+            "filename": "jailhouse-the"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/385388/1200x0/jailhouse-the.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/385388/",
+            "filename": "jailhouse-the"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-jailhouse",
+        "subheadline": "Jailhouse, The",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/jailhouse-the-15487",
+        "videoId": 385388
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

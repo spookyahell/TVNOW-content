@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15111",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15111,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/taro-der-drachenjunge-15111"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Taro - Der Drachenjunge",
+          "teaserId": "film_355848",
+          "teaserName": "Taro - Der Drachenjunge | Taro - Der Drachenjunge",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Anime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Taro - Der Drachenjunge",
+        "id": 355848,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355848/300x0/taro-der-drachenjunge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355848/",
+            "filename": "taro-der-drachenjunge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355848/600x0/taro-der-drachenjunge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355848/",
+            "filename": "taro-der-drachenjunge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355848/1200x0/taro-der-drachenjunge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355848/",
+            "filename": "taro-der-drachenjunge"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355848/300x0/taro-der-drachenjunge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355848/",
+            "filename": "taro-der-drachenjunge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355848/600x0/taro-der-drachenjunge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355848/",
+            "filename": "taro-der-drachenjunge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355848/1200x0/taro-der-drachenjunge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355848/",
+            "filename": "taro-der-drachenjunge"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "taro-der-drachenjunge",
+        "subheadline": "Taro - Der Drachenjunge",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/taro-der-drachenjunge-15111",
+        "videoId": 355848
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

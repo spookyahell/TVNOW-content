@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13881",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13881,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/heart-of-a-lion-13881"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Heart of a Lion",
+          "teaserId": "film_338848",
+          "teaserName": "Heart of a Lion | Heart of a Lion",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Heart of a Lion",
+        "id": 338848,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338848/300x0/heart-of-a-lion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338848/",
+            "filename": "heart-of-a-lion"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338848/600x0/heart-of-a-lion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338848/",
+            "filename": "heart-of-a-lion"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338848/1200x0/heart-of-a-lion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338848/",
+            "filename": "heart-of-a-lion"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338848/300x0/heart-of-a-lion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338848/",
+            "filename": "heart-of-a-lion"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338848/600x0/heart-of-a-lion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338848/",
+            "filename": "heart-of-a-lion"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338848/1200x0/heart-of-a-lion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338848/",
+            "filename": "heart-of-a-lion"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "heart-of-a-lion",
+        "subheadline": "Heart of a Lion",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/heart-of-a-lion-13881",
+        "videoId": 338848
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

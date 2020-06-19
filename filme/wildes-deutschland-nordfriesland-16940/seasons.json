@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16940",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16940,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/wildes-deutschland-nordfriesland-16940"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wildes Deutschland - Nordfriesland",
+          "teaserId": "film_456414",
+          "teaserName": "Wildes Deutschland - Nordfriesland | Wildes Deutschland - Nordfriesland",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wildes Deutschland - Nordfriesland",
+        "id": 456414,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/456414/300x0/wildes-deutschland-nordfriesland.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/456414/",
+            "filename": "wildes-deutschland-nordfriesland"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/456414/600x0/wildes-deutschland-nordfriesland.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/456414/",
+            "filename": "wildes-deutschland-nordfriesland"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/456414/1200x0/wildes-deutschland-nordfriesland.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/456414/",
+            "filename": "wildes-deutschland-nordfriesland"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/456414/300x0/wildes-deutschland-nordfriesland.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/456414/",
+            "filename": "wildes-deutschland-nordfriesland"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/456414/600x0/wildes-deutschland-nordfriesland.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/456414/",
+            "filename": "wildes-deutschland-nordfriesland"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/456414/1200x0/wildes-deutschland-nordfriesland.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/456414/",
+            "filename": "wildes-deutschland-nordfriesland"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wildes-deutschland-nordfriesland",
+        "subheadline": "Wildes Deutschland - Nordfriesland",
+        "text": "Staffel  | Sa. 24.08.2019, 21:45 Uhr",
+        "type": "film",
+        "url": "/filme/wildes-deutschland-nordfriesland-16940",
+        "videoId": 456414
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

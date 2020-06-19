@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16129",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16129,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mein-kampf-16129"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mein Kampf",
+          "teaserId": "film_580306",
+          "teaserName": "Mein Kampf | Mein Kampf",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mein Kampf",
+        "id": 580306,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/580306/300x0/mein-kampf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/580306/",
+            "filename": "mein-kampf"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/580306/600x0/mein-kampf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/580306/",
+            "filename": "mein-kampf"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/580306/1200x0/mein-kampf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/580306/",
+            "filename": "mein-kampf"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/580306/300x0/mein-kampf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/580306/",
+            "filename": "mein-kampf"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/580306/600x0/mein-kampf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/580306/",
+            "filename": "mein-kampf"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/580306/1200x0/mein-kampf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/580306/",
+            "filename": "mein-kampf"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mein-kampf",
+        "subheadline": "Mein Kampf",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/mein-kampf-16129",
+        "videoId": 580306
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12945",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12945,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/apocalypse-pompeii-12945"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Apocalypse Pompeii",
+          "teaserId": "film_335074",
+          "teaserName": "Apocalypse Pompeii | Apocalypse Pompeii",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Apocalypse Pompeii",
+        "id": 335074,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335074/300x0/apocalypse-pompeii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335074/",
+            "filename": "apocalypse-pompeii"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335074/600x0/apocalypse-pompeii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335074/",
+            "filename": "apocalypse-pompeii"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335074/1200x0/apocalypse-pompeii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335074/",
+            "filename": "apocalypse-pompeii"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335074/300x0/apocalypse-pompeii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335074/",
+            "filename": "apocalypse-pompeii"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335074/600x0/apocalypse-pompeii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335074/",
+            "filename": "apocalypse-pompeii"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335074/1200x0/apocalypse-pompeii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335074/",
+            "filename": "apocalypse-pompeii"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "apocalypse-pompeii",
+        "subheadline": "Apocalypse Pompeii",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/apocalypse-pompeii-12945",
+        "videoId": 335074
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

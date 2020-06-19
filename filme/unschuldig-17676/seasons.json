@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17676",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17676,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-fall-nelson-serrano-17676"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Unschuldig im Todestrakt? Der Fall Nelson Serrano",
+          "teaserId": "film_1636030",
+          "teaserName": "Unschuldig im Todestrakt? Der Fall Nelson Serrano | Der Fall Nelson Serrano",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Fall Nelson Serrano",
+        "id": 1636030,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1636030/300x0/der-fall-nelson-serrano.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1636030/",
+            "filename": "der-fall-nelson-serrano"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1636030/600x0/der-fall-nelson-serrano.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1636030/",
+            "filename": "der-fall-nelson-serrano"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1636030/1200x0/der-fall-nelson-serrano.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1636030/",
+            "filename": "der-fall-nelson-serrano"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1636030/300x0/der-fall-nelson-serrano.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1636030/",
+            "filename": "der-fall-nelson-serrano"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1636030/600x0/der-fall-nelson-serrano.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1636030/",
+            "filename": "der-fall-nelson-serrano"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1636030/1200x0/der-fall-nelson-serrano.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1636030/",
+            "filename": "der-fall-nelson-serrano"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "unschuldig",
+        "subheadline": "Der Fall Nelson Serrano",
+        "text": "Staffel  | So. 23.02.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/der-fall-nelson-serrano-17676",
+        "videoId": 1636030
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

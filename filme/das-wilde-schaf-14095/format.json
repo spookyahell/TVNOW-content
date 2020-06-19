@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 14095,
+  "additionalMeta": {
+    "canonical": "/filme/das-wilde-schaf-14095",
+    "url": "/filme/das-wilde-schaf-14095"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Das wilde Schaf",
+      "url": "/filme/das-wilde-schaf-14095"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 14095,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Das wilde Schaf 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Das wilde Schaf, Film, TV NOW, Watchbox bei TV NOW, Drama, Komödie, Erotik, Romy Schneider, Jane Birkin",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Das wilde Schaf im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Das wilde Schaf 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 340446,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/340446",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/14095"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_drama/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_drama",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Das wilde Schaf",
+    "text": "Bei TV NOW kannst Du den Film Das wilde Schaf und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/das-wilde-schaf-14095",
+        "@type": "Movie",
+        "description": "Das Schaf in der Gestalt eines farblosen Bankangestellten wird von einem erfolglosen Schriftsteller mit allen Mitteln zu einem mächtigen und wohlhabenden Geschäftsmann aufgebaut. Dieser Weg führt allerdings durch die Betten einiger einflussreicher Damen. Die kühle Romy Schneider und die vitale Jane Birkin bilden nur zwei der weiblichen Hürden, die das Schaf in seinem Galopp zum Erfolg zu nehmen hat. Sehr witzig, aber leider teuflisch unmoralisch.",
+        "duration": "PT1H41M4S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/340446/950x0/das-wilde-schaf.jpg",
+        "name": "Das wilde Schaf",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/das-wilde-schaf-14095",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-10-05T07:33:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/das-wilde-schaf-14095",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Das Schaf in der Gestalt eines farblosen Bankangestellten wird von einem erfolglosen Schriftsteller mit allen Mitteln zu einem mächtigen und wohlhabenden Geschäftsmann aufgebaut. Dieser Weg führt allerdings durch die Betten einiger einflussreicher Damen. Die kühle Romy Schneider und die vitale Jane Birkin bilden nur zwei der weiblichen Hürden, die das Schaf in seinem Galopp zum Erfolg zu nehmen hat. Sehr witzig, aber leider teuflisch unmoralisch.",
+          "duration": "PT1H41M4S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/das-wilde-schaf-14095",
+          "name": "Das wilde Schaf",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/340446/950x0/das-wilde-schaf.jpg",
+          "uploadDate": "2017-10-05T07:33:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Das wilde Schaf im Online Stream | TVNOW",
+        "headline": "Das wilde Schaf im Online Stream | TVNOW",
+        "description": "Das wilde Schaf und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Romy Schneider, Jane Birkin, Jean-Louis Trintignant.",
+        "url": "https://www.tvnow.de/filme/das-wilde-schaf-14095",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/340446/950x0/das-wilde-schaf.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/340446/950x0/das-wilde-schaf.jpg",
+        "datePublished": "2017-10-05T07:33:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/340446/950x0/das-wilde-schaf.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Das wilde Schaf",
+            "item": "https://www.tvnow.de/filme/das-wilde-schaf-14095"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Das wilde Schaf im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

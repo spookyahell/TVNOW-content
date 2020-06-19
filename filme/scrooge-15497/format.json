@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 15497,
+  "additionalMeta": {
+    "canonical": "/filme/scrooge-15497",
+    "url": "/filme/scrooge-15497"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Scrooge",
+      "url": "/filme/scrooge-15497"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 15497,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Scrooge 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Scrooge, Film, TV NOW, Watchbox bei TV NOW, Drama, Klassiker, British, Kinder, Weihnachten, Geiz, Charles Dickens, Vom Geist der Weihnacht, Geist, Habgier",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Scrooge im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Scrooge 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 386252,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/386252",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/15497"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_drama/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_drama",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Scrooge",
+    "text": "Bei TV NOW kannst Du den Film Scrooge und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/scrooge-15497",
+        "@type": "Movie",
+        "description": "Ebenezer Scrooge hasst Weihnachten, verabscheut Menschen und beutet die Angestellten seiner Bank aus. Doch an diesem Weihnachten wird er vom Geist seines verstorbenen Partners besucht, der ihm ankündigt, dass noch drei weitere Geister zu Scrooge kämen. Der erste ist der Geist der vergangenen Weihnacht, der ihm die Liebe vor Augen führt, die Scrooge durch seine Habgier verlor. Der zweite ist der Geist der gegenwärtigen Weihnacht, der ihm das Leben seines armen Angestellten Bob Cratchit zeigt. Der dritte Geist zeigt Scrooge seine eigene, trostlose Zukunft, die er erleiden wird, wenn er sein Verhalten nicht rechtzeitig ändert...",
+        "duration": "PT1H53M4S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/386252/950x0/scrooge.jpg",
+        "name": "Scrooge",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/scrooge-15497",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-11-29T09:05:59.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/scrooge-15497",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Ebenezer Scrooge hasst Weihnachten, verabscheut Menschen und beutet die Angestellten seiner Bank aus. Doch an diesem Weihnachten wird er vom Geist seines verstorbenen Partners besucht, der ihm ankündigt, dass noch drei weitere Geister zu Scrooge kämen. Der erste ist der Geist der vergangenen Weihnacht, der ihm die Liebe vor Augen führt, die Scrooge durch seine Habgier verlor. Der zweite ist der Geist der gegenwärtigen Weihnacht, der ihm das Leben seines armen Angestellten Bob Cratchit zeigt. Der dritte Geist zeigt Scrooge seine eigene, trostlose Zukunft, die er erleiden wird, wenn er sein Verhalten nicht rechtzeitig ändert...",
+          "duration": "PT1H53M4S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/scrooge-15497",
+          "name": "Scrooge",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/386252/950x0/scrooge.jpg",
+          "uploadDate": "2017-11-29T09:05:59.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Scrooge im Online Stream | TVNOW",
+        "headline": "Scrooge im Online Stream | TVNOW",
+        "description": "Scrooge und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Albert Finney, Alec Guiness, Edith Evans, Kenneth More, Laurence Naismith.",
+        "url": "https://www.tvnow.de/filme/scrooge-15497",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/386252/950x0/scrooge.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/386252/950x0/scrooge.jpg",
+        "datePublished": "2017-11-29T09:05:59.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/386252/950x0/scrooge.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Scrooge",
+            "item": "https://www.tvnow.de/filme/scrooge-15497"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Scrooge im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

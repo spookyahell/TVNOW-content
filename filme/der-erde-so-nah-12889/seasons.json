@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12889",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12889,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-erde-so-nah-12889"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Erde so nah",
+          "teaserId": "film_334998",
+          "teaserName": "Der Erde so nah | Der Erde so nah",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Erde so nah",
+        "id": 334998,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334998/300x0/der-erde-so-nah.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334998/",
+            "filename": "der-erde-so-nah"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334998/600x0/der-erde-so-nah.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334998/",
+            "filename": "der-erde-so-nah"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334998/1200x0/der-erde-so-nah.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334998/",
+            "filename": "der-erde-so-nah"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334998/300x0/der-erde-so-nah.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334998/",
+            "filename": "der-erde-so-nah"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334998/600x0/der-erde-so-nah.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334998/",
+            "filename": "der-erde-so-nah"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334998/1200x0/der-erde-so-nah.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334998/",
+            "filename": "der-erde-so-nah"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-erde-so-nah",
+        "subheadline": "Der Erde so nah",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/der-erde-so-nah-12889",
+        "videoId": 334998
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

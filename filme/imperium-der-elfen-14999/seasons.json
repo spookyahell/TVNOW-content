@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14999",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14999,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/imperium-der-elfen-14999"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Imperium der Elfen",
+          "teaserId": "film_354776",
+          "teaserName": "Imperium der Elfen | Imperium der Elfen",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Fantasy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Imperium der Elfen",
+        "id": 354776,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354776/300x0/imperium-der-elfen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354776/",
+            "filename": "imperium-der-elfen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354776/600x0/imperium-der-elfen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354776/",
+            "filename": "imperium-der-elfen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354776/1200x0/imperium-der-elfen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354776/",
+            "filename": "imperium-der-elfen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354776/300x0/imperium-der-elfen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354776/",
+            "filename": "imperium-der-elfen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354776/600x0/imperium-der-elfen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354776/",
+            "filename": "imperium-der-elfen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354776/1200x0/imperium-der-elfen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354776/",
+            "filename": "imperium-der-elfen"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "imperium-der-elfen",
+        "subheadline": "Imperium der Elfen",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/imperium-der-elfen-14999",
+        "videoId": 354776
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

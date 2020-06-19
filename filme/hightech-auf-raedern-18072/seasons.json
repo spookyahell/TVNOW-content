@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18072",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18072,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/hightech-auf-raedern-18072"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Hightech auf Rädern",
+          "teaserId": "film_1967016",
+          "teaserName": "Hightech auf Rädern | Hightech auf Rädern",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Hightech auf Rädern",
+        "id": 1967016,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1967016/300x0/hightech-auf-raedern.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1967016/",
+            "filename": "hightech-auf-raedern"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1967016/600x0/hightech-auf-raedern.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1967016/",
+            "filename": "hightech-auf-raedern"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1967016/1200x0/hightech-auf-raedern.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1967016/",
+            "filename": "hightech-auf-raedern"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1967016/300x0/hightech-auf-raedern.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1967016/",
+            "filename": "hightech-auf-raedern"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1967016/600x0/hightech-auf-raedern.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1967016/",
+            "filename": "hightech-auf-raedern"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1967016/1200x0/hightech-auf-raedern.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1967016/",
+            "filename": "hightech-auf-raedern"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "hightech-auf-raedern",
+        "subheadline": "Hightech auf Rädern",
+        "text": "Staffel  | Sa. 22.02.2020, 00:25 Uhr",
+        "type": "film",
+        "url": "/filme/hightech-auf-raedern-18072",
+        "videoId": 1967016
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

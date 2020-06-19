@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12529",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12529,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/zombie-killer-vortex-12529"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Zombie Killer Vortex",
+          "teaserId": "film_330612",
+          "teaserName": "Zombie Killer Vortex | Zombie Killer Vortex",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Zombie Killer Vortex",
+        "id": 330612,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330612/300x0/zombie-killer-vortex.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330612/",
+            "filename": "zombie-killer-vortex"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330612/600x0/zombie-killer-vortex.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330612/",
+            "filename": "zombie-killer-vortex"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330612/1200x0/zombie-killer-vortex.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330612/",
+            "filename": "zombie-killer-vortex"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330612/300x0/zombie-killer-vortex.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330612/",
+            "filename": "zombie-killer-vortex"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330612/600x0/zombie-killer-vortex.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330612/",
+            "filename": "zombie-killer-vortex"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330612/1200x0/zombie-killer-vortex.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330612/",
+            "filename": "zombie-killer-vortex"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "zombie-killer-vortex",
+        "subheadline": "Zombie Killer Vortex",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/zombie-killer-vortex-12529",
+        "videoId": 330612
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

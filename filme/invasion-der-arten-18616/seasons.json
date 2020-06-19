@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18616",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18616,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/invasion-der-arten-18616"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Invasion der Arten",
+          "teaserId": "film_3154803",
+          "teaserName": "Invasion der Arten | Invasion der Arten",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Tiere"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Invasion der Arten",
+        "id": 3154803,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3154803/300x0/invasion-der-arten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3154803/",
+            "filename": "invasion-der-arten"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3154803/600x0/invasion-der-arten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3154803/",
+            "filename": "invasion-der-arten"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3154803/1200x0/invasion-der-arten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3154803/",
+            "filename": "invasion-der-arten"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3154803/300x0/invasion-der-arten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3154803/",
+            "filename": "invasion-der-arten"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3154803/600x0/invasion-der-arten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3154803/",
+            "filename": "invasion-der-arten"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3154803/1200x0/invasion-der-arten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3154803/",
+            "filename": "invasion-der-arten"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "invasion-der-arten",
+        "subheadline": "Invasion der Arten",
+        "text": "Staffel  | Fr. 22.05.2020, 19:10 Uhr",
+        "type": "film",
+        "url": "/filme/invasion-der-arten-18616",
+        "videoId": 3154803
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

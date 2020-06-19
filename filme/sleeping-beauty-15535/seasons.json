@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15535",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15535,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/sleeping-beauty-15535"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sleeping Beauty",
+          "teaserId": "film_387136",
+          "teaserName": "Sleeping Beauty | Sleeping Beauty",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Fantasy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Sleeping Beauty",
+        "id": 387136,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/387136/300x0/sleeping-beauty.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/387136/",
+            "filename": "sleeping-beauty"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/387136/600x0/sleeping-beauty.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/387136/",
+            "filename": "sleeping-beauty"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/387136/1200x0/sleeping-beauty.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/387136/",
+            "filename": "sleeping-beauty"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/387136/300x0/sleeping-beauty.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/387136/",
+            "filename": "sleeping-beauty"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/387136/600x0/sleeping-beauty.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/387136/",
+            "filename": "sleeping-beauty"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/387136/1200x0/sleeping-beauty.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/387136/",
+            "filename": "sleeping-beauty"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sleeping-beauty",
+        "subheadline": "Sleeping Beauty",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/sleeping-beauty-15535",
+        "videoId": 387136
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

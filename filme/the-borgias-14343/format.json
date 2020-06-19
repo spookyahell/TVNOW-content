@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 14343,
+  "additionalMeta": {
+    "canonical": "/filme/the-borgias-14343",
+    "url": "/filme/the-borgias-14343"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "The Borgias",
+      "url": "/filme/the-borgias-14343"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 14343,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ The Borgias 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "The Borgias, Film, TV NOW, Watchbox bei TV NOW, Erotik, Action, Drama, Familie, Adel, Orgien, Intrigen",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "The Borgias im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ The Borgias 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 343666,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/343666",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/14343"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_drama/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_drama",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: The Borgias",
+    "text": "Bei TV NOW kannst Du den Film The Borgias und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/the-borgias-14343",
+        "@type": "Movie",
+        "description": "Rom, zu Beginn des 15. Jahrhunderts. Rodrigo Borgia lässt sich zum neuen Papst wählen. Als Alexander VI. will er mit aller Macht den Einfluss seiner Familie vergrössern. Nur zu diesem Zweck ernennt er seinen ältesten Sohn Juan zum Captain der Armee. Cesare, der jüngere Sohn, wird zum Kardinal ernannt. Mit seiner hübschen Tochter Lucrezia erkauft er sich das Wohlwollen des Adels. Im Namen Gottes verbreiten sie Angst und Schrecken im ganzen Land. Wer sich ihnen in den Weg stellt, ist des Todes. Ausschweifende Orgien und Blutgerichte sind an der Tagesordnung. Gehasst von allen, trachtet bald jeder nach ihrem Leben. Das Blut der Borgias soll fliessen.",
+        "duration": "PT2H21M17S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/343666/950x0/the-borgias.jpg",
+        "name": "The Borgias",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/the-borgias-14343",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-09-14T13:57:53.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/the-borgias-14343",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Rom, zu Beginn des 15. Jahrhunderts. Rodrigo Borgia lässt sich zum neuen Papst wählen. Als Alexander VI. will er mit aller Macht den Einfluss seiner Familie vergrössern. Nur zu diesem Zweck ernennt er seinen ältesten Sohn Juan zum Captain der Armee. Cesare, der jüngere Sohn, wird zum Kardinal ernannt. Mit seiner hübschen Tochter Lucrezia erkauft er sich das Wohlwollen des Adels. Im Namen Gottes verbreiten sie Angst und Schrecken im ganzen Land. Wer sich ihnen in den Weg stellt, ist des Todes. Ausschweifende Orgien und Blutgerichte sind an der Tagesordnung. Gehasst von allen, trachtet bald jeder nach ihrem Leben. Das Blut der Borgias soll fliessen.",
+          "duration": "PT2H21M17S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/the-borgias-14343",
+          "name": "The Borgias",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/343666/950x0/the-borgias.jpg",
+          "uploadDate": "2017-09-14T13:57:53.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "The Borgias im Online Stream | TVNOW",
+        "headline": "The Borgias im Online Stream | TVNOW",
+        "description": "The Borgias und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Lluis Homar, Sergio Peris-Mencheta, Maria Valverde.",
+        "url": "https://www.tvnow.de/filme/the-borgias-14343",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/343666/950x0/the-borgias.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/343666/950x0/the-borgias.jpg",
+        "datePublished": "2017-09-14T13:57:53.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/343666/950x0/the-borgias.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The Borgias",
+            "item": "https://www.tvnow.de/filme/the-borgias-14343"
+          }
+        ]
+      }
+    }
+  },
+  "title": "The Borgias im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

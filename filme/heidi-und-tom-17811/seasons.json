@@ -1,0 +1,111 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17811",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17811,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/heidi-tom-die-lovestory-17811"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Heidi & Tom – Die Lovestory - TVNOW Doku",
+          "teaserId": "film_1657245",
+          "teaserName": "Heidi & Tom – Die Lovestory - TVNOW Doku | Heidi & Tom - Die Lovestory",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Biographie"
+          ],
+          "classification": [
+            "Exklusiv"
+          ],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Mo. 29.07.2019, 11:00 Uhr",
+          "teaserEpisodeName": "Heidi & Tom - Die Lovestory"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Heidi & Tom - Die Lovestory",
+        "id": 1657245,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1657245/300x0/heidi-tom-die-lovestory.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1657245/",
+            "filename": "heidi-tom-die-lovestory"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1657245/600x0/heidi-tom-die-lovestory.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1657245/",
+            "filename": "heidi-tom-die-lovestory"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1657245/1200x0/heidi-tom-die-lovestory.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1657245/",
+            "filename": "heidi-tom-die-lovestory"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1657245/300x0/heidi-tom-die-lovestory.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1657245/",
+            "filename": "heidi-tom-die-lovestory"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1657245/600x0/heidi-tom-die-lovestory.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1657245/",
+            "filename": "heidi-tom-die-lovestory"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1657245/1200x0/heidi-tom-die-lovestory.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1657245/",
+            "filename": "heidi-tom-die-lovestory"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "heidi-und-tom",
+        "subheadline": "Heidi & Tom - Die Lovestory",
+        "text": "Staffel 1, Folge 1 | Mo. 29.07.2019, 11:00 Uhr",
+        "type": "film",
+        "url": "/filme/heidi-tom-die-lovestory-17811",
+        "videoId": 1657245
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

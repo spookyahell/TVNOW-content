@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14387",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14387,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/last-fight-14387"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Last Fight",
+          "teaserId": "film_343702",
+          "teaserName": "Last Fight | Last Fight",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Last Fight",
+        "id": 343702,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343702/300x0/last-fight.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343702/",
+            "filename": "last-fight"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343702/600x0/last-fight.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343702/",
+            "filename": "last-fight"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343702/1200x0/last-fight.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343702/",
+            "filename": "last-fight"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343702/300x0/last-fight.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343702/",
+            "filename": "last-fight"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343702/600x0/last-fight.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343702/",
+            "filename": "last-fight"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343702/1200x0/last-fight.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343702/",
+            "filename": "last-fight"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "last-fight",
+        "subheadline": "Last Fight",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/last-fight-14387",
+        "videoId": 343702
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

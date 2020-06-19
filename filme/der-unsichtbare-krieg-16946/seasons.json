@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16946",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16946,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-unsichtbare-krieg-16946"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der unsichtbare Krieg",
+          "teaserId": "film_1299114",
+          "teaserName": "Der unsichtbare Krieg | Der unsichtbare Krieg",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der unsichtbare Krieg",
+        "id": 1299114,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1299114/300x0/der-unsichtbare-krieg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1299114/",
+            "filename": "der-unsichtbare-krieg"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1299114/600x0/der-unsichtbare-krieg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1299114/",
+            "filename": "der-unsichtbare-krieg"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1299114/1200x0/der-unsichtbare-krieg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1299114/",
+            "filename": "der-unsichtbare-krieg"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1299114/300x0/der-unsichtbare-krieg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1299114/",
+            "filename": "der-unsichtbare-krieg"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1299114/600x0/der-unsichtbare-krieg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1299114/",
+            "filename": "der-unsichtbare-krieg"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1299114/1200x0/der-unsichtbare-krieg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1299114/",
+            "filename": "der-unsichtbare-krieg"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-unsichtbare-krieg",
+        "subheadline": "Der unsichtbare Krieg",
+        "text": "Staffel  | Mo. 10.02.2020, 22:05 Uhr",
+        "type": "film",
+        "url": "/filme/der-unsichtbare-krieg-16946",
+        "videoId": 1299114
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

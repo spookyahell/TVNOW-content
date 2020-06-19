@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18430",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18430,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mord-geht-immer-der-chef-ist-tot-18430"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mord geht immer",
+          "teaserId": "film_3048008",
+          "teaserName": "Mord geht immer | Mord geht immer: Der Chef ist tot",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mord geht immer: Der Chef ist tot",
+        "id": 3048008,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3048008/300x0/mord-geht-immer-der-chef-ist-tot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3048008/",
+            "filename": "mord-geht-immer-der-chef-ist-tot"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3048008/600x0/mord-geht-immer-der-chef-ist-tot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3048008/",
+            "filename": "mord-geht-immer-der-chef-ist-tot"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3048008/1200x0/mord-geht-immer-der-chef-ist-tot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3048008/",
+            "filename": "mord-geht-immer-der-chef-ist-tot"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3048008/300x0/mord-geht-immer-der-chef-ist-tot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3048008/",
+            "filename": "mord-geht-immer-der-chef-ist-tot"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3048008/600x0/mord-geht-immer-der-chef-ist-tot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3048008/",
+            "filename": "mord-geht-immer-der-chef-ist-tot"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3048008/1200x0/mord-geht-immer-der-chef-ist-tot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3048008/",
+            "filename": "mord-geht-immer-der-chef-ist-tot"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mord-geht-immer-der-chef-ist-tot",
+        "subheadline": "Mord geht immer: Der Chef ist tot",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/mord-geht-immer-der-chef-ist-tot-18430",
+        "videoId": 3048008
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

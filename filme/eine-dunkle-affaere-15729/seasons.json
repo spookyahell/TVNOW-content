@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15729",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15729,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/dunkle-affaere-eine-15729"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Eine dunkle Affäre",
+          "teaserId": "film_410496",
+          "teaserName": "Eine dunkle Affäre | dunkle Affäre, Eine",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "dunkle Affäre, Eine",
+        "id": 410496,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410496/300x0/dunkle-affaere-eine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410496/",
+            "filename": "dunkle-affaere-eine"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410496/600x0/dunkle-affaere-eine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410496/",
+            "filename": "dunkle-affaere-eine"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410496/1200x0/dunkle-affaere-eine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410496/",
+            "filename": "dunkle-affaere-eine"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410496/300x0/dunkle-affaere-eine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410496/",
+            "filename": "dunkle-affaere-eine"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410496/600x0/dunkle-affaere-eine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410496/",
+            "filename": "dunkle-affaere-eine"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410496/1200x0/dunkle-affaere-eine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410496/",
+            "filename": "dunkle-affaere-eine"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "eine-dunkle-affaere",
+        "subheadline": "dunkle Affäre, Eine",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/dunkle-affaere-eine-15729",
+        "videoId": 410496
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

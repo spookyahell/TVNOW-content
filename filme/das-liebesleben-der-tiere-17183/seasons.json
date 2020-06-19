@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17183",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17183,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/das-liebesleben-der-tiere-17183"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Liebesleben der Tiere",
+          "teaserId": "film_1340416",
+          "teaserName": "Das Liebesleben der Tiere | Das Liebesleben der Tiere",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Tiere"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das Liebesleben der Tiere",
+        "id": 1340416,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1340416/300x0/das-liebesleben-der-tiere.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1340416/",
+            "filename": "das-liebesleben-der-tiere"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1340416/600x0/das-liebesleben-der-tiere.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1340416/",
+            "filename": "das-liebesleben-der-tiere"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1340416/1200x0/das-liebesleben-der-tiere.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1340416/",
+            "filename": "das-liebesleben-der-tiere"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1340416/300x0/das-liebesleben-der-tiere.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1340416/",
+            "filename": "das-liebesleben-der-tiere"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1340416/600x0/das-liebesleben-der-tiere.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1340416/",
+            "filename": "das-liebesleben-der-tiere"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1340416/1200x0/das-liebesleben-der-tiere.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1340416/",
+            "filename": "das-liebesleben-der-tiere"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-liebesleben-der-tiere",
+        "subheadline": "Das Liebesleben der Tiere",
+        "text": "Staffel  | Di. 21.05.2019, 22:30 Uhr",
+        "type": "film",
+        "url": "/filme/das-liebesleben-der-tiere-17183",
+        "videoId": 1340416
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

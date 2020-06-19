@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13735",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13735,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/sierra-nevada-gunfighters-13735"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sierra Nevada Gunfighters",
+          "teaserId": "film_338668",
+          "teaserName": "Sierra Nevada Gunfighters | Sierra Nevada Gunfighters",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Western",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Sierra Nevada Gunfighters",
+        "id": 338668,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338668/300x0/sierra-nevada-gunfighters.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338668/",
+            "filename": "sierra-nevada-gunfighters"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338668/600x0/sierra-nevada-gunfighters.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338668/",
+            "filename": "sierra-nevada-gunfighters"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338668/1200x0/sierra-nevada-gunfighters.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338668/",
+            "filename": "sierra-nevada-gunfighters"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338668/300x0/sierra-nevada-gunfighters.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338668/",
+            "filename": "sierra-nevada-gunfighters"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338668/600x0/sierra-nevada-gunfighters.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338668/",
+            "filename": "sierra-nevada-gunfighters"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338668/1200x0/sierra-nevada-gunfighters.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338668/",
+            "filename": "sierra-nevada-gunfighters"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sierra-nevada-gunfighters",
+        "subheadline": "Sierra Nevada Gunfighters",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/sierra-nevada-gunfighters-13735",
+        "videoId": 338668
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,194 @@
+﻿{
+  "formatId": 11504,
+  "additionalMeta": {
+    "canonical": "/serien/topgear-theracesntv-11504",
+    "url": "/serien/topgear-theracesntv-11504"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Top Gear: The Races",
+      "url": "/serien/topgear-theracesntv-11504"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 11504,
+  "meta": [
+    {
+      "content": "Die Serie Top Gear: The Races (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Sport im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "Top Gear: The Races, video, videos, online sehen, internet tv, fernsehen video on demand, n-tv, ntv, TV NOW, Auto, Rennen, Fahren, The Stig, Stig, Formel 1, Schumacher, Vettel, Lamborghini, Rallye-Auto, Rennwagen",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Top Gear: The Races im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Top Gear: The Races (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Sport im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/11504",
+      "type": "teaserrow"
+    },
+    {
+      "id": 11504,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/11504",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nntopgeartheraces",
+      "video": "dvrsowf_ten_nntopgeartheraces",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/top_gear_the_races/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "top_gear_the_races",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Sport",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zur Serie: Top Gear: The Races",
+    "text": "Top Gear: The Races und viele weitere Serien kannst Du gemütlich online bei TV NOW im Stream anschauen. Also nichts wie los – hole das Knabberzeug raus und genieße Deine Serie ganz entspannt von unterwegs oder von zu Hause aus mit Freunden.",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "https://www.tvnow.de/serien/topgear-theracesntv-11504",
+        "url": "https://www.tvnow.de/serien/topgear-theracesntv-11504",
+        "name": "Top Gear: The Races",
+        "description": "Die Serie Top Gear: The Races (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Sport im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/11504_04metalogo/1200x0/topgear-theracesntv.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Information zur Serie: Top Gear: The Races",
+        "headline": "Information zur Serie: Top Gear: The Races",
+        "description": "Die Serie Top Gear: The Races (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Sport im Online Stream bei TVNOW anschauen.",
+        "url": "https://www.tvnow.de/serien/topgear-theracesntv-11504",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/11504_04metalogo/1200x0/topgear-theracesntv.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/11504_04metalogo/1200x0/topgear-theracesntv.png",
+        "keywords": "Top Gear: The Races, video, videos, online sehen, internet tv, fernsehen video on demand, n-tv, ntv, TV NOW, Auto, Rennen, Fahren, The Stig, Stig, Formel 1, Schumacher, Vettel, Lamborghini, Rallye-Auto, Rennwagen",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/11504_04metalogo/1200x0/topgear-theracesntv.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "https://www.tvnow.de/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Top Gear: The Races",
+            "item": "https://www.tvnow.de/serien/topgear-theracesntv-11504"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Top Gear: The Races im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

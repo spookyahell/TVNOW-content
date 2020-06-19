@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18394",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18394,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-weg-des-gemueses-18394"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Weg des Gemüses",
+          "teaserId": "film_3007663",
+          "teaserName": "Der Weg des Gemüses | Der Weg des Gemüses",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Weg des Gemüses",
+        "id": 3007663,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3007663/300x0/der-weg-des-gemueses.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3007663/",
+            "filename": "der-weg-des-gemueses"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3007663/600x0/der-weg-des-gemueses.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3007663/",
+            "filename": "der-weg-des-gemueses"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3007663/1200x0/der-weg-des-gemueses.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3007663/",
+            "filename": "der-weg-des-gemueses"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3007663/300x0/der-weg-des-gemueses.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3007663/",
+            "filename": "der-weg-des-gemueses"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3007663/600x0/der-weg-des-gemueses.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3007663/",
+            "filename": "der-weg-des-gemueses"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3007663/1200x0/der-weg-des-gemueses.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3007663/",
+            "filename": "der-weg-des-gemueses"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-weg-des-gemueses",
+        "subheadline": "Der Weg des Gemüses",
+        "text": "Staffel  | Do. 27.02.2020, 19:05 Uhr",
+        "type": "film",
+        "url": "/filme/der-weg-des-gemueses-18394",
+        "videoId": 3007663
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

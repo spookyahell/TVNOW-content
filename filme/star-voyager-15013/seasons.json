@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15013",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15013,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/star-voyager-15013"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Star Voyager",
+          "teaserId": "film_354736",
+          "teaserName": "Star Voyager | Star Voyager",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Science Fiction",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Star Voyager",
+        "id": 354736,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354736/300x0/star-voyager.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354736/",
+            "filename": "star-voyager"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354736/600x0/star-voyager.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354736/",
+            "filename": "star-voyager"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354736/1200x0/star-voyager.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354736/",
+            "filename": "star-voyager"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354736/300x0/star-voyager.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354736/",
+            "filename": "star-voyager"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354736/600x0/star-voyager.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354736/",
+            "filename": "star-voyager"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354736/1200x0/star-voyager.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354736/",
+            "filename": "star-voyager"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "star-voyager",
+        "subheadline": "Star Voyager",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/star-voyager-15013",
+        "videoId": 354736
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

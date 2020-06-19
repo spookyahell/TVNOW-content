@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16241",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16241,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/kurzzeithelden-16241"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Kurzzeithelden",
+          "teaserId": "film_926680",
+          "teaserName": "Kurzzeithelden | Kurzzeithelden",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Science Fiction",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Kurzzeithelden",
+        "id": 926680,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/926680/300x0/kurzzeithelden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/926680/",
+            "filename": "kurzzeithelden"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/926680/600x0/kurzzeithelden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/926680/",
+            "filename": "kurzzeithelden"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/926680/1200x0/kurzzeithelden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/926680/",
+            "filename": "kurzzeithelden"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/926680/300x0/kurzzeithelden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/926680/",
+            "filename": "kurzzeithelden"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/926680/600x0/kurzzeithelden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/926680/",
+            "filename": "kurzzeithelden"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/926680/1200x0/kurzzeithelden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/926680/",
+            "filename": "kurzzeithelden"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "kurzzeithelden",
+        "subheadline": "Kurzzeithelden",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/kurzzeithelden-16241",
+        "videoId": 926680
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

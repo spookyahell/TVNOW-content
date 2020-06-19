@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14799",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14799,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/im-zeichen-des-stiers-14799"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Im Zeichen des Stiers",
+          "teaserId": "film_347406",
+          "teaserName": "Im Zeichen des Stiers | Im Zeichen des Stiers",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Im Zeichen des Stiers",
+        "id": 347406,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/347406/300x0/im-zeichen-des-stiers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/347406/",
+            "filename": "im-zeichen-des-stiers"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/347406/600x0/im-zeichen-des-stiers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/347406/",
+            "filename": "im-zeichen-des-stiers"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/347406/1200x0/im-zeichen-des-stiers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/347406/",
+            "filename": "im-zeichen-des-stiers"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/347406/300x0/im-zeichen-des-stiers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/347406/",
+            "filename": "im-zeichen-des-stiers"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/347406/600x0/im-zeichen-des-stiers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/347406/",
+            "filename": "im-zeichen-des-stiers"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/347406/1200x0/im-zeichen-des-stiers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/347406/",
+            "filename": "im-zeichen-des-stiers"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "im-zeichen-des-stiers",
+        "subheadline": "Im Zeichen des Stiers",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/im-zeichen-des-stiers-14799",
+        "videoId": 347406
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

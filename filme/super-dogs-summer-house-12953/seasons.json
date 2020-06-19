@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12953",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12953,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/super-dogs-summer-house-12953"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Super Dogs Summer House",
+          "teaserId": "film_335124",
+          "teaserName": "Super Dogs Summer House | Super Dogs Summer House",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Super Dogs Summer House",
+        "id": 335124,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335124/300x0/super-dogs-summer-house.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335124/",
+            "filename": "super-dogs-summer-house"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335124/600x0/super-dogs-summer-house.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335124/",
+            "filename": "super-dogs-summer-house"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335124/1200x0/super-dogs-summer-house.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335124/",
+            "filename": "super-dogs-summer-house"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335124/300x0/super-dogs-summer-house.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335124/",
+            "filename": "super-dogs-summer-house"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335124/600x0/super-dogs-summer-house.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335124/",
+            "filename": "super-dogs-summer-house"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335124/1200x0/super-dogs-summer-house.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335124/",
+            "filename": "super-dogs-summer-house"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "super-dogs-summer-house",
+        "subheadline": "Super Dogs Summer House",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/super-dogs-summer-house-12953",
+        "videoId": 335124
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

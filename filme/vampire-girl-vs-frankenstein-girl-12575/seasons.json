@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12575",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12575,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/vampire-girl-vs-frankenstein-girl-12575"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Vampire Girl vs. Frankenstein Girl",
+          "teaserId": "film_332040",
+          "teaserName": "Vampire Girl vs. Frankenstein Girl | Vampire Girl vs. Frankenstein Girl",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Vampire Girl vs. Frankenstein Girl",
+        "id": 332040,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332040/300x0/vampire-girl-vs-frankenstein-girl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332040/",
+            "filename": "vampire-girl-vs-frankenstein-girl"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332040/600x0/vampire-girl-vs-frankenstein-girl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332040/",
+            "filename": "vampire-girl-vs-frankenstein-girl"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332040/1200x0/vampire-girl-vs-frankenstein-girl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332040/",
+            "filename": "vampire-girl-vs-frankenstein-girl"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332040/300x0/vampire-girl-vs-frankenstein-girl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332040/",
+            "filename": "vampire-girl-vs-frankenstein-girl"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332040/600x0/vampire-girl-vs-frankenstein-girl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332040/",
+            "filename": "vampire-girl-vs-frankenstein-girl"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332040/1200x0/vampire-girl-vs-frankenstein-girl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332040/",
+            "filename": "vampire-girl-vs-frankenstein-girl"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "vampire-girl-vs-frankenstein-girl",
+        "subheadline": "Vampire Girl vs. Frankenstein Girl",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/vampire-girl-vs-frankenstein-girl-12575",
+        "videoId": 332040
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

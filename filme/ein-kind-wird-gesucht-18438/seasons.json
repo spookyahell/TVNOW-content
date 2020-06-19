@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18438",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18438,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ein-kind-wird-gesucht-18438"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ein Kind wird gesucht",
+          "teaserId": "film_3047971",
+          "teaserName": "Ein Kind wird gesucht | Ein Kind wird gesucht",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ein Kind wird gesucht",
+        "id": 3047971,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3047971/300x0/ein-kind-wird-gesucht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3047971/",
+            "filename": "ein-kind-wird-gesucht"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3047971/600x0/ein-kind-wird-gesucht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3047971/",
+            "filename": "ein-kind-wird-gesucht"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3047971/1200x0/ein-kind-wird-gesucht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3047971/",
+            "filename": "ein-kind-wird-gesucht"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3047971/300x0/ein-kind-wird-gesucht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3047971/",
+            "filename": "ein-kind-wird-gesucht"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3047971/600x0/ein-kind-wird-gesucht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3047971/",
+            "filename": "ein-kind-wird-gesucht"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3047971/1200x0/ein-kind-wird-gesucht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3047971/",
+            "filename": "ein-kind-wird-gesucht"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ein-kind-wird-gesucht",
+        "subheadline": "Ein Kind wird gesucht",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/ein-kind-wird-gesucht-18438",
+        "videoId": 3047971
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

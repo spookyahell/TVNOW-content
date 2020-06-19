@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 18128,
+  "additionalMeta": {
+    "canonical": "/filme/hochspannung-im-heli-18128",
+    "url": "/filme/hochspannung-im-heli-18128"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Hochspannung im Heli",
+      "url": "/filme/hochspannung-im-heli-18128"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 18128,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Hochspannung im Heli 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Hochspannung im Heli im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Hochspannung im Heli 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 2186162,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/2186162",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18128"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Hochspannung im Heli",
+    "text": "n-tv Doku - Die Piloten und Helikopterbesatzungen brauchen Nerven aus Stahl, wenn sie bei ihren Einsätzen Nebel und Starkregen trotzen müssen. Die Dokumentation begleitet verschiedene Teams und zeigt ihre aufregenden Einsätze. Von einer spektakulären Baumfäll-Aktion wenige Meter neben einer Starkstromleitung bis zur Anbringung von Vogelschutzgestellen: Die Arbeit erfordert extreme Konzentration der fliegenden Crew.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/hochspannung-im-heli-18128",
+        "@type": "Movie",
+        "description": "n-tv Doku - Die Piloten und Helikopterbesatzungen brauchen Nerven aus Stahl, wenn sie bei ihren Einsätzen Nebel und Starkregen trotzen müssen. Die Dokumentation begleitet verschiedene Teams und zeigt ihre aufregenden Einsätze. Von einer spektakulären Baumfäll-Aktion wenige Meter neben einer Starkstromleitung bis zur Anbringung von Vogelschutzgestellen: Die Arbeit erfordert extreme Konzentration der fliegenden Crew.",
+        "duration": "PT41M46S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/2186162/950x0/hochspannung-im-heli.jpg",
+        "name": "Hochspannung im Heli",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/hochspannung-im-heli-18128",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2020-04-04T05:15:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/hochspannung-im-heli-18128",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "n-tv Doku - Die Piloten und Helikopterbesatzungen brauchen Nerven aus Stahl, wenn sie bei ihren Einsätzen Nebel und Starkregen trotzen müssen. Die Dokumentation begleitet verschiedene Teams und zeigt ihre aufregenden Einsätze. Von einer spektakulären Baumfäll-Aktion wenige Meter neben einer Starkstromleitung bis zur Anbringung von Vogelschutzgestellen: Die Arbeit erfordert extreme Konzentration der fliegenden Crew.",
+          "duration": "PT41M46S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/hochspannung-im-heli-18128",
+          "name": "Hochspannung im Heli",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2186162/950x0/hochspannung-im-heli.jpg",
+          "uploadDate": "2020-04-04T05:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Hochspannung im Heli im Online Stream | TVNOW",
+        "headline": "Hochspannung im Heli im Online Stream | TVNOW",
+        "description": "Hochspannung im Heli und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/hochspannung-im-heli-18128",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/2186162/950x0/hochspannung-im-heli.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2186162/950x0/hochspannung-im-heli.jpg",
+        "datePublished": "2020-04-04T05:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/2186162/950x0/hochspannung-im-heli.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hochspannung im Heli",
+            "item": "https://www.tvnow.de/filme/hochspannung-im-heli-18128"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Hochspannung im Heli im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 15209,
+  "additionalMeta": {
+    "canonical": "/filme/verlust-und-verlangen-15209",
+    "url": "/filme/verlust-und-verlangen-15209"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Verlust und Verlangen",
+      "url": "/filme/verlust-und-verlangen-15209"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 15209,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Verlust und Verlangen 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Verlust und Verlangen, Film, TV NOW, Watchbox bei TV NOW, Drama, Romantik, Independent, Schriftsteller, Liebe, Geheimnis, Frau",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Verlust und Verlangen im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Verlust und Verlangen 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 358474,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/358474",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/15209"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_drama/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_drama",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Verlust und Verlangen",
+    "text": "Bei TV NOW kannst Du den Film Verlust und Verlangen und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/verlust-und-verlangen-15209",
+        "@type": "Movie",
+        "description": "Arif ist Schriftsteller und hat mit seinem Beruf keinen großen Erfolg. Während er versucht, die Frauen zu verstehen und überlegt, ob es die wahre Liebe wirklich gibt, trifft er die mysteriöse Müzeyyen. Im Gegensatz zu anderen Frauen stellt Müzeyyen keine Ansprüche, was Arif schwer beeindruckt. Sie scheint die erste Frau zu sein, die Arif zuhört und sich ihm nicht aufdrängt. Doch dann kommt er hinter ihr Geheimnis.",
+        "duration": "PT1H40M9S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/358474/950x0/verlust-und-verlangen.jpg",
+        "name": "Verlust und Verlangen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/verlust-und-verlangen-15209",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-12-08T11:19:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/verlust-und-verlangen-15209",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Arif ist Schriftsteller und hat mit seinem Beruf keinen großen Erfolg. Während er versucht, die Frauen zu verstehen und überlegt, ob es die wahre Liebe wirklich gibt, trifft er die mysteriöse Müzeyyen. Im Gegensatz zu anderen Frauen stellt Müzeyyen keine Ansprüche, was Arif schwer beeindruckt. Sie scheint die erste Frau zu sein, die Arif zuhört und sich ihm nicht aufdrängt. Doch dann kommt er hinter ihr Geheimnis.",
+          "duration": "PT1H40M9S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/verlust-und-verlangen-15209",
+          "name": "Verlust und Verlangen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/358474/950x0/verlust-und-verlangen.jpg",
+          "uploadDate": "2017-12-08T11:19:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Verlust und Verlangen im Online Stream | TVNOW",
+        "headline": "Verlust und Verlangen im Online Stream | TVNOW",
+        "description": "Verlust und Verlangen und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Erdal Besikçioglu, Sezin Akbasogullari, Erdinç Gülener, Ege Aydan.",
+        "url": "https://www.tvnow.de/filme/verlust-und-verlangen-15209",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/358474/950x0/verlust-und-verlangen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/358474/950x0/verlust-und-verlangen.jpg",
+        "datePublished": "2017-12-08T11:19:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/358474/950x0/verlust-und-verlangen.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Verlust und Verlangen",
+            "item": "https://www.tvnow.de/filme/verlust-und-verlangen-15209"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Verlust und Verlangen im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

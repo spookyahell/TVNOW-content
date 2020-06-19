@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18447",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18447,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/rufmord-18447"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Rufmord",
+          "teaserId": "film_3063454",
+          "teaserName": "Rufmord | Rufmord",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Rufmord",
+        "id": 3063454,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063454/300x0/rufmord.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063454/",
+            "filename": "rufmord"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063454/600x0/rufmord.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063454/",
+            "filename": "rufmord"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063454/1200x0/rufmord.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063454/",
+            "filename": "rufmord"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063454/300x0/rufmord.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063454/",
+            "filename": "rufmord"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063454/600x0/rufmord.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063454/",
+            "filename": "rufmord"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063454/1200x0/rufmord.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063454/",
+            "filename": "rufmord"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "rufmord",
+        "subheadline": "Rufmord",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/rufmord-18447",
+        "videoId": 3063454
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

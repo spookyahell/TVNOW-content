@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16918",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16918,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/gesundheit-fuer-alle-16918"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Gesundheit für alle",
+          "teaserId": "film_424558",
+          "teaserName": "Gesundheit für alle | Gesundheit für alle",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Gesundheit für alle",
+        "id": 424558,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424558/300x0/gesundheit-fuer-alle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424558/",
+            "filename": "gesundheit-fuer-alle"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424558/600x0/gesundheit-fuer-alle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424558/",
+            "filename": "gesundheit-fuer-alle"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424558/1200x0/gesundheit-fuer-alle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424558/",
+            "filename": "gesundheit-fuer-alle"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424558/300x0/gesundheit-fuer-alle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424558/",
+            "filename": "gesundheit-fuer-alle"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424558/600x0/gesundheit-fuer-alle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424558/",
+            "filename": "gesundheit-fuer-alle"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424558/1200x0/gesundheit-fuer-alle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424558/",
+            "filename": "gesundheit-fuer-alle"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "gesundheit-fuer-alle",
+        "subheadline": "Gesundheit für alle",
+        "text": "Staffel  | Fr. 19.06.2020, 00:25 Uhr",
+        "type": "film",
+        "url": "/filme/gesundheit-fuer-alle-16918",
+        "videoId": 424558
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

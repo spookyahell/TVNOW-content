@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18171",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18171,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/meine-flucht-aus-der-ddr-18171"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Meine Flucht aus der DDR",
+          "teaserId": "film_2198101",
+          "teaserName": "Meine Flucht aus der DDR | Meine Flucht aus der DDR",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "History"
+          ],
+          "classification": [
+            "Exklusiv"
+          ]
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Meine Flucht aus der DDR",
+        "id": 2198101,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2198101/300x0/meine-flucht-aus-der-ddr.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2198101/",
+            "filename": "meine-flucht-aus-der-ddr"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2198101/600x0/meine-flucht-aus-der-ddr.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2198101/",
+            "filename": "meine-flucht-aus-der-ddr"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2198101/1200x0/meine-flucht-aus-der-ddr.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2198101/",
+            "filename": "meine-flucht-aus-der-ddr"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2198101/300x0/meine-flucht-aus-der-ddr.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2198101/",
+            "filename": "meine-flucht-aus-der-ddr"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2198101/600x0/meine-flucht-aus-der-ddr.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2198101/",
+            "filename": "meine-flucht-aus-der-ddr"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2198101/1200x0/meine-flucht-aus-der-ddr.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2198101/",
+            "filename": "meine-flucht-aus-der-ddr"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "meine-flucht-aus-der-ddr",
+        "subheadline": "Meine Flucht aus der DDR",
+        "text": "Staffel  | EXKLUSIV",
+        "type": "film",
+        "url": "/filme/meine-flucht-aus-der-ddr-18171",
+        "videoId": 2198101
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

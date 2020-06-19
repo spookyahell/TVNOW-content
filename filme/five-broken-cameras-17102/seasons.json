@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17102",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17102,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/five-broken-cameras-17102"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Five Broken Cameras",
+          "teaserId": "film_1327201",
+          "teaserName": "Five Broken Cameras | Five Broken Cameras",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Five Broken Cameras",
+        "id": 1327201,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1327201/300x0/five-broken-cameras.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1327201/",
+            "filename": "five-broken-cameras"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1327201/600x0/five-broken-cameras.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1327201/",
+            "filename": "five-broken-cameras"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1327201/1200x0/five-broken-cameras.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1327201/",
+            "filename": "five-broken-cameras"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1327201/300x0/five-broken-cameras.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1327201/",
+            "filename": "five-broken-cameras"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1327201/600x0/five-broken-cameras.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1327201/",
+            "filename": "five-broken-cameras"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1327201/1200x0/five-broken-cameras.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1327201/",
+            "filename": "five-broken-cameras"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "five-broken-cameras",
+        "subheadline": "Five Broken Cameras",
+        "text": "Staffel  | Do. 04.06.2020, 01:10 Uhr",
+        "type": "film",
+        "url": "/filme/five-broken-cameras-17102",
+        "videoId": 1327201
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

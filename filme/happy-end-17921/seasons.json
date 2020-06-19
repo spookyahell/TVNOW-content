@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17921",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17921,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/happy-end-17921"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Happy End?!",
+          "teaserId": "film_1791234",
+          "teaserName": "Happy End?! | Happy End?!",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Happy End?!",
+        "id": 1791234,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791234/300x0/happy-end.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791234/",
+            "filename": "happy-end"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791234/600x0/happy-end.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791234/",
+            "filename": "happy-end"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791234/1200x0/happy-end.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791234/",
+            "filename": "happy-end"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791234/300x0/happy-end.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791234/",
+            "filename": "happy-end"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791234/600x0/happy-end.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791234/",
+            "filename": "happy-end"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791234/1200x0/happy-end.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791234/",
+            "filename": "happy-end"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "happy-end",
+        "subheadline": "Happy End?!",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/happy-end-17921",
+        "videoId": 1791234
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

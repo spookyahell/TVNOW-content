@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12895",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12895,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/blame-12895"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Blame",
+          "teaserId": "film_334950",
+          "teaserName": "Blame | Blame",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Blame",
+        "id": 334950,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334950/300x0/blame.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334950/",
+            "filename": "blame"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334950/600x0/blame.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334950/",
+            "filename": "blame"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334950/1200x0/blame.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334950/",
+            "filename": "blame"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334950/300x0/blame.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334950/",
+            "filename": "blame"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334950/600x0/blame.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334950/",
+            "filename": "blame"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334950/1200x0/blame.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334950/",
+            "filename": "blame"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "blame",
+        "subheadline": "Blame",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/blame-12895",
+        "videoId": 334950
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

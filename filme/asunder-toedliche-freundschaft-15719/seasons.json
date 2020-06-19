@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15719",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15719,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/toedliche-freundschaft-15719"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Asunder - Tödliche Freundschaft",
+          "teaserId": "film_410512",
+          "teaserName": "Asunder - Tödliche Freundschaft | Tödliche Freundschaft",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Tödliche Freundschaft",
+        "id": 410512,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410512/300x0/toedliche-freundschaft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410512/",
+            "filename": "toedliche-freundschaft"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410512/600x0/toedliche-freundschaft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410512/",
+            "filename": "toedliche-freundschaft"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410512/1200x0/toedliche-freundschaft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410512/",
+            "filename": "toedliche-freundschaft"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410512/300x0/toedliche-freundschaft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410512/",
+            "filename": "toedliche-freundschaft"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410512/600x0/toedliche-freundschaft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410512/",
+            "filename": "toedliche-freundschaft"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410512/1200x0/toedliche-freundschaft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410512/",
+            "filename": "toedliche-freundschaft"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "asunder-toedliche-freundschaft",
+        "subheadline": "Tödliche Freundschaft",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/toedliche-freundschaft-15719",
+        "videoId": 410512
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15819",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15819,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/serien/iron-man-15819/staffel-1/episode-3-wer-wind-saet-418816"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Iron Man",
+          "teaserId": "serie_episode_418816",
+          "teaserName": "Iron Man | Staffel 1 | Folge 3 | Wer Wind sät!",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Anime",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 3",
+          "teaserEpisodeAirtime": "WATCHBOX",
+          "teaserEpisodeName": "Wer Wind sät!"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wer Wind sät!",
+        "id": 418816,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/418816/300x0/wer-wind-saet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/418816/",
+            "filename": "wer-wind-saet"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/418816/600x0/wer-wind-saet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/418816/",
+            "filename": "wer-wind-saet"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/418816/1200x0/wer-wind-saet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/418816/",
+            "filename": "wer-wind-saet"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/418816/300x0/wer-wind-saet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/418816/",
+            "filename": "wer-wind-saet"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/418816/600x0/wer-wind-saet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/418816/",
+            "filename": "wer-wind-saet"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/418816/1200x0/wer-wind-saet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/418816/",
+            "filename": "wer-wind-saet"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "iron-man",
+        "subheadline": "Wer Wind sät!",
+        "text": "Staffel 1, Folge 3 | WATCHBOX",
+        "type": "serie",
+        "url": "/serien/iron-man-15819/staffel-1/episode-3-wer-wind-saet-418816",
+        "videoId": 418816
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

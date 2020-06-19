@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17086",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17086,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/segler-ueber-nacht-17086"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Segler über Nacht",
+          "teaserId": "film_415422",
+          "teaserName": "Segler über Nacht | Segler über Nacht",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Segler über Nacht",
+        "id": 415422,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/415422/300x0/segler-ueber-nacht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/415422/",
+            "filename": "segler-ueber-nacht"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/415422/600x0/segler-ueber-nacht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/415422/",
+            "filename": "segler-ueber-nacht"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/415422/1200x0/segler-ueber-nacht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/415422/",
+            "filename": "segler-ueber-nacht"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/415422/300x0/segler-ueber-nacht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/415422/",
+            "filename": "segler-ueber-nacht"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/415422/600x0/segler-ueber-nacht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/415422/",
+            "filename": "segler-ueber-nacht"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/415422/1200x0/segler-ueber-nacht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/415422/",
+            "filename": "segler-ueber-nacht"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "segler-ueber-nacht",
+        "subheadline": "Segler über Nacht",
+        "text": "Staffel  | Fr. 14.02.2020, 22:50 Uhr",
+        "type": "film",
+        "url": "/filme/segler-ueber-nacht-17086",
+        "videoId": 415422
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

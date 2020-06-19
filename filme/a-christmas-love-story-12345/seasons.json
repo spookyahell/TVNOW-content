@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12345",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12345,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/a-christmas-love-story-12345"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "A Christmas Love Story",
+          "teaserId": "film_1344253",
+          "teaserName": "A Christmas Love Story | A Christmas Love Story",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "A Christmas Love Story",
+        "id": 1344253,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1344253/300x0/a-christmas-love-story.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1344253/",
+            "filename": "a-christmas-love-story"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1344253/600x0/a-christmas-love-story.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1344253/",
+            "filename": "a-christmas-love-story"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1344253/1200x0/a-christmas-love-story.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1344253/",
+            "filename": "a-christmas-love-story"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1344253/300x0/a-christmas-love-story.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1344253/",
+            "filename": "a-christmas-love-story"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1344253/600x0/a-christmas-love-story.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1344253/",
+            "filename": "a-christmas-love-story"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1344253/1200x0/a-christmas-love-story.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1344253/",
+            "filename": "a-christmas-love-story"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "a-christmas-love-story",
+        "subheadline": "A Christmas Love Story",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/a-christmas-love-story-12345",
+        "videoId": 1344253
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

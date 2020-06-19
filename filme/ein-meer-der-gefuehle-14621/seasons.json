@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14621",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14621,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ein-meer-der-gefuehle-14621"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ein Meer der Gefühle",
+          "teaserId": "film_344744",
+          "teaserName": "Ein Meer der Gefühle | Ein Meer der Gefühle",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ein Meer der Gefühle",
+        "id": 344744,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344744/300x0/ein-meer-der-gefuehle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344744/",
+            "filename": "ein-meer-der-gefuehle"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344744/600x0/ein-meer-der-gefuehle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344744/",
+            "filename": "ein-meer-der-gefuehle"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344744/1200x0/ein-meer-der-gefuehle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344744/",
+            "filename": "ein-meer-der-gefuehle"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344744/300x0/ein-meer-der-gefuehle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344744/",
+            "filename": "ein-meer-der-gefuehle"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344744/600x0/ein-meer-der-gefuehle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344744/",
+            "filename": "ein-meer-der-gefuehle"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344744/1200x0/ein-meer-der-gefuehle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344744/",
+            "filename": "ein-meer-der-gefuehle"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ein-meer-der-gefuehle",
+        "subheadline": "Ein Meer der Gefühle",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/ein-meer-der-gefuehle-14621",
+        "videoId": 344744
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

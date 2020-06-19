@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14635",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14635,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ziel-mond-14635"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ziel Mond",
+          "teaserId": "film_344732",
+          "teaserName": "Ziel Mond | Ziel Mond",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ziel Mond",
+        "id": 344732,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344732/300x0/ziel-mond.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344732/",
+            "filename": "ziel-mond"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344732/600x0/ziel-mond.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344732/",
+            "filename": "ziel-mond"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344732/1200x0/ziel-mond.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344732/",
+            "filename": "ziel-mond"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344732/300x0/ziel-mond.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344732/",
+            "filename": "ziel-mond"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344732/600x0/ziel-mond.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344732/",
+            "filename": "ziel-mond"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344732/1200x0/ziel-mond.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344732/",
+            "filename": "ziel-mond"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ziel-mond",
+        "subheadline": "Ziel Mond",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/ziel-mond-14635",
+        "videoId": 344732
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

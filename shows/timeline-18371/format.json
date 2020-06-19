@@ -1,0 +1,217 @@
+﻿{
+  "formatId": 18371,
+  "additionalMeta": {
+    "canonical": "/shows/timeline-18371",
+    "url": "/shows/timeline-18371"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "timeline",
+      "url": "/shows/timeline-18371"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 18371,
+  "meta": [
+    {
+      "content": "Die Show ▶ timeline (n-tv) streamen & weitere Highlights aus dem Genre 📺 Show im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "timeline im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ timeline (n-tv) streamen & weitere Highlights aus dem Genre 📺 Show im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/18371",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/18371",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/18371",
+      "type": "teaserrow"
+    },
+    {
+      "id": 13851,
+      "label": "Kennst du schon ...?",
+      "moduleLayout": "landscape_large",
+      "moduleUrl": "/module/teaserrow/manual/13851",
+      "type": "teaserrow"
+    },
+    {
+      "id": 18371,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/18371",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nndokumentation",
+      "video": "dvrsowf_ten_nndokumentation",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/dokumentation/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "dokumentation",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Show",
+    "cluster": [
+      "Wissen"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "",
+    "text": "Moderator Micky Beisenherz widmet sich mit jeweils zwei Gästen ihren Social-Media-Timelines und diskutiert mit ihnen Themen, die sie aktuell bewegen.",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "https://www.tvnow.de/shows/timeline-18371",
+        "url": "https://www.tvnow.de/shows/timeline-18371",
+        "name": "timeline",
+        "description": "Die Show ▶ timeline (n-tv) streamen & weitere Highlights aus dem Genre 📺 Show im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/18371_04metalogo/1200x0/timeline.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "",
+        "headline": "",
+        "description": "Die Show ▶ timeline (n-tv) streamen & weitere Highlights aus dem Genre 📺 Show im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+        "url": "https://www.tvnow.de/shows/timeline-18371",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/18371_04metalogo/1200x0/timeline.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/18371_04metalogo/1200x0/timeline.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/18371_04metalogo/1200x0/timeline.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "https://www.tvnow.de/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "timeline",
+            "item": "https://www.tvnow.de/shows/timeline-18371"
+          }
+        ]
+      }
+    }
+  },
+  "title": "timeline im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

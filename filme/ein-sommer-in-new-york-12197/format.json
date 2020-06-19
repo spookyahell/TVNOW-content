@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 12197,
+  "additionalMeta": {
+    "canonical": "/filme/ein-sommer-in-new-york-12197",
+    "url": "/filme/ein-sommer-in-new-york-12197"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Ein Sommer in New York",
+      "url": "/filme/ein-sommer-in-new-york-12197"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 12197,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Ein Sommer in New York 📺 und viele weitere ▶️ Filme aus dem Genre Romantik findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Ein Sommer in New York, Sarah Michelle Gellar, Alec Baldwin, Liebe, älterer Mann, Liebeskomödie, Romantik, Sommer, New York City, Stars",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Ein Sommer in New York im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Ein Sommer in New York 📺 und viele weitere ▶️ Filme aus dem Genre Romantik findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 328586,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/328586",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/12197"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Ein Sommer in New York",
+    "text": "Bei TV NOW kannst Du den Film Ein Sommer in New York und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/ein-sommer-in-new-york-12197",
+        "@type": "Movie",
+        "description": "Brett Eisenbergs Karriere könnte nicht besser laufen: Die attraktive und aufstrebende Nachwuchslektorin hat ihren Platz bei einem Verlag in New York?s Hotspot der Literaturszene gefunden. Doch im Gegensatz zu ihrer Karriere plätschert ihr Liebesleben nur so dahin. Ihr Freund Jed langweilt sie und ist gerade zu einem Selbstfindungstrip nach Europa abgehauen. Doch plötzlich wird ihre Welt auf den Kopf gestellt. Voller naiver Ehrfurcht für illustre Namen ihrer Branche verfällt sie bei einer Lesung dem Charme des erfolgreichen, prominenten und doppelt so alten Autors Archie Knox.   Brett ist hin- und hergerissen zwischen ihrer sicheren Beziehung und dem faszinierenden Abenteuer mit Archie. Schnell wird ihr klar, dass ihr neues Leben zwar aufregender, aber nicht einfacher geworden ist. Vor allem nicht, als ihr Freund Jed von seiner Reise zurückkehrt. Brett muss lernen, ihren eigenen Weg zu finden, im Beruf und in der Liebe.",
+        "duration": "PT1H33M28S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/328586/950x0/ein-sommer-in-new-york.jpg",
+        "name": "Ein Sommer in New York",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/ein-sommer-in-new-york-12197",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-08-08T07:41:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/ein-sommer-in-new-york-12197",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Brett Eisenbergs Karriere könnte nicht besser laufen: Die attraktive und aufstrebende Nachwuchslektorin hat ihren Platz bei einem Verlag in New York?s Hotspot der Literaturszene gefunden. Doch im Gegensatz zu ihrer Karriere plätschert ihr Liebesleben nur so dahin. Ihr Freund Jed langweilt sie und ist gerade zu einem Selbstfindungstrip nach Europa abgehauen. Doch plötzlich wird ihre Welt auf den Kopf gestellt. Voller naiver Ehrfurcht für illustre Namen ihrer Branche verfällt sie bei einer Lesung dem Charme des erfolgreichen, prominenten und doppelt so alten Autors Archie Knox.   Brett ist hin- und hergerissen zwischen ihrer sicheren Beziehung und dem faszinierenden Abenteuer mit Archie. Schnell wird ihr klar, dass ihr neues Leben zwar aufregender, aber nicht einfacher geworden ist. Vor allem nicht, als ihr Freund Jed von seiner Reise zurückkehrt. Brett muss lernen, ihren eigenen Weg zu finden, im Beruf und in der Liebe.",
+          "duration": "PT1H33M28S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/ein-sommer-in-new-york-12197",
+          "name": "Ein Sommer in New York",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/328586/950x0/ein-sommer-in-new-york.jpg",
+          "uploadDate": "2017-08-08T07:41:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Ein Sommer in New York im Online Stream | TVNOW",
+        "headline": "Ein Sommer in New York im Online Stream | TVNOW",
+        "description": "Ein Sommer in New York und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei TVNOW. Ein Film mit ▶️Sarah Michelle Gellar, Alec Baldwin, Chris Carmack.",
+        "url": "https://www.tvnow.de/filme/ein-sommer-in-new-york-12197",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/328586/950x0/ein-sommer-in-new-york.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/328586/950x0/ein-sommer-in-new-york.jpg",
+        "datePublished": "2017-08-08T07:41:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/328586/950x0/ein-sommer-in-new-york.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ein Sommer in New York",
+            "item": "https://www.tvnow.de/filme/ein-sommer-in-new-york-12197"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Ein Sommer in New York im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

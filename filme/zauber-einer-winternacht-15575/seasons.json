@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15575",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15575,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/zauber-einer-winternacht-15575"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Zauber einer Winternacht",
+          "teaserId": "film_389302",
+          "teaserName": "Zauber einer Winternacht | Zauber einer Winternacht",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Zauber einer Winternacht",
+        "id": 389302,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389302/300x0/zauber-einer-winternacht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389302/",
+            "filename": "zauber-einer-winternacht"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389302/600x0/zauber-einer-winternacht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389302/",
+            "filename": "zauber-einer-winternacht"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389302/1200x0/zauber-einer-winternacht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389302/",
+            "filename": "zauber-einer-winternacht"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389302/300x0/zauber-einer-winternacht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389302/",
+            "filename": "zauber-einer-winternacht"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389302/600x0/zauber-einer-winternacht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389302/",
+            "filename": "zauber-einer-winternacht"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389302/1200x0/zauber-einer-winternacht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389302/",
+            "filename": "zauber-einer-winternacht"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "zauber-einer-winternacht",
+        "subheadline": "Zauber einer Winternacht",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/zauber-einer-winternacht-15575",
+        "videoId": 389302
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18441,
+  "additionalMeta": {
+    "canonical": "/filme/engel-unter-wasser-18441",
+    "url": "/filme/engel-unter-wasser-18441"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Engel unter Wasser - Ein Nordseekrimi",
+      "url": "/filme/engel-unter-wasser-18441"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18441,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Engel unter Wasser - Ein Nordseekrimi 📺 und viele weitere ▶️ Filme aus dem Genre Crime findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Engel unter Wasser - Ein Nordseekrimi im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Engel unter Wasser - Ein Nordseekrimi 📺 und viele weitere ▶️ Filme aus dem Genre Crime findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3047923,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3047923",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18441"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Crime",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Engel unter Wasser - Ein Nordseekrimi",
+    "text": "Auf einer Nordseeinsel verschwindet die kleine Anna Kampe. Als die Leiche des Mädchens am nächsten Tag im Bett des Dorftrottels Michael Brandstetter gefunden wird, scheint der Fall klar zu sein. Trotzdem beginnen die Kommissare Lubosch und Steinhilb mit Nachforschungen und befragen die Eltern Sibylle und Werner Kampe. Dabei stoßen sie schon bald auf Ungereimtheiten, und auch Sybilles Schwester Judith deckt Ungeheuerliches auf.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/engel-unter-wasser-ein-nordseekrimi-18441",
+        "@type": "Movie",
+        "description": "Auf einer Nordseeinsel verschwindet die kleine Anna Kampe. Als die Leiche des Mädchens am nächsten Tag im Bett des Dorftrottels Michael Brandstetter gefunden wird, scheint der Fall klar zu sein. Trotzdem beginnen die Kommissare Lubosch und Steinhilb mit Nachforschungen und befragen die Eltern Sibylle und Werner Kampe. Dabei stoßen sie schon bald auf Ungereimtheiten, und auch Sybilles Schwester Judith deckt Ungeheuerliches auf.",
+        "duration": "PT1H28M48S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3047923/950x0/engel-unter-wasser.jpg",
+        "name": "Engel unter Wasser - Ein Nordseekrimi",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/engel-unter-wasser-ein-nordseekrimi-18441",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-03-19T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=engel-unter-wasser-18441",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=engel-unter-wasser-18441",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/engel-unter-wasser-ein-nordseekrimi-18441",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Auf einer Nordseeinsel verschwindet die kleine Anna Kampe. Als die Leiche des Mädchens am nächsten Tag im Bett des Dorftrottels Michael Brandstetter gefunden wird, scheint der Fall klar zu sein. Trotzdem beginnen die Kommissare Lubosch und Steinhilb mit Nachforschungen und befragen die Eltern Sibylle und Werner Kampe. Dabei stoßen sie schon bald auf Ungereimtheiten, und auch Sybilles Schwester Judith deckt Ungeheuerliches auf.",
+          "duration": "PT1H28M48S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/engel-unter-wasser-ein-nordseekrimi-18441",
+          "name": "Engel unter Wasser - Ein Nordseekrimi",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3047923/950x0/engel-unter-wasser.jpg",
+          "uploadDate": "2020-03-19T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Engel unter Wasser - Ein Nordseekrimi im Online Stream | TVNOW",
+        "headline": "Engel unter Wasser - Ein Nordseekrimi im Online Stream | TVNOW",
+        "description": "Engel unter Wasser - Ein Nordseekrimi und viele weitere  ▶️Filme aus dem Genre Crime findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/engel-unter-wasser-ein-nordseekrimi-18441",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3047923/950x0/engel-unter-wasser.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3047923/950x0/engel-unter-wasser.jpg",
+        "datePublished": "2020-03-19T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3047923/950x0/engel-unter-wasser.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Engel unter Wasser - Ein Nordseekrimi",
+            "item": "https://www.tvnow.de/filme/engel-unter-wasser-18441"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Engel unter Wasser - Ein Nordseekrimi im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14099",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14099,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/welcome-to-sarajevo-14099"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Welcome to Sarajevo",
+          "teaserId": "film_340448",
+          "teaserName": "Welcome to Sarajevo | Welcome to Sarajevo",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Welcome to Sarajevo",
+        "id": 340448,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/340448/300x0/welcome-to-sarajevo.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/340448/",
+            "filename": "welcome-to-sarajevo"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/340448/600x0/welcome-to-sarajevo.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/340448/",
+            "filename": "welcome-to-sarajevo"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/340448/1200x0/welcome-to-sarajevo.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/340448/",
+            "filename": "welcome-to-sarajevo"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/340448/300x0/welcome-to-sarajevo.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/340448/",
+            "filename": "welcome-to-sarajevo"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/340448/600x0/welcome-to-sarajevo.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/340448/",
+            "filename": "welcome-to-sarajevo"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/340448/1200x0/welcome-to-sarajevo.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/340448/",
+            "filename": "welcome-to-sarajevo"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "welcome-to-sarajevo",
+        "subheadline": "Welcome to Sarajevo",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/welcome-to-sarajevo-14099",
+        "videoId": 340448
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

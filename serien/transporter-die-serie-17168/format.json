@@ -1,0 +1,212 @@
+﻿{
+  "formatId": 17168,
+  "additionalMeta": {
+    "canonical": "/serien/transporter-die-serie-17168",
+    "url": "/serien/transporter-die-serie-17168"
+  },
+  "ads": {
+    "station": "nowus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Transporter - Die Serie",
+      "url": "/serien/transporter-die-serie-17168"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 17168,
+  "meta": [
+    {
+      "content": "Die Serie Transporter - Die Serie (nowus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Action im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "video, videos, online sehen, internet tv, fernsehen, video on demand, TV NOW, Transporter, Serie",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Transporter - Die Serie im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Transporter - Die Serie (nowus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Action im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/17168",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/17168",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/17168",
+      "type": "teaserrow"
+    },
+    {
+      "id": 17168,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/17168",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nustransporter",
+      "video": "dvrsowf_ten_nustransporter",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/nowus_now/formate/transporter_serie/home",
+      "levels": [
+        "tv_now_de",
+        "nowus_now",
+        "formate",
+        "transporter_serie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Action",
+    "cluster": [
+      "Auto"
+    ],
+    "classification": [
+      "Box-Set"
+    ]
+  },
+  "seo": {
+    "headline": "Informationen zur Serie: Transporter  - Die Serie",
+    "text": "Transporter  - Die Serie und viele weitere Serien kannst Du gemütlich online bei TVNOW im Stream anschauen. Also nichts wie los – hole das Knabberzeug raus und genieße Deine Serie ganz entspannt von unterwegs oder von zu Hause aus mit Freunden.",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "https://www.tvnow.de/serien/transporter-die-serie-17168",
+        "url": "https://www.tvnow.de/serien/transporter-die-serie-17168",
+        "name": "Transporter - Die Serie",
+        "description": "Die Serie Transporter - Die Serie (nowus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Action im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/17168_04metalogo/1200x0/transporter-die-serie.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Informationen zur Serie: Transporter  - Die Serie",
+        "headline": "Informationen zur Serie: Transporter  - Die Serie",
+        "description": "Die Serie Transporter - Die Serie (nowus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Action im Online Stream bei TVNOW anschauen.",
+        "url": "https://www.tvnow.de/serien/transporter-die-serie-17168",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/17168_04metalogo/1200x0/transporter-die-serie.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/17168_04metalogo/1200x0/transporter-die-serie.png",
+        "keywords": "video, videos, online sehen, internet tv, fernsehen, video on demand, TV NOW, Transporter, Serie",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/17168_04metalogo/1200x0/transporter-die-serie.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "https://www.tvnow.de/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Transporter - Die Serie",
+            "item": "https://www.tvnow.de/serien/transporter-die-serie-17168"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Transporter - Die Serie im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13417",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13417,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/hypersonic-13417"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Hypersonic",
+          "teaserId": "film_338996",
+          "teaserName": "Hypersonic | Hypersonic",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Hypersonic",
+        "id": 338996,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338996/300x0/hypersonic.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338996/",
+            "filename": "hypersonic"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338996/600x0/hypersonic.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338996/",
+            "filename": "hypersonic"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338996/1200x0/hypersonic.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338996/",
+            "filename": "hypersonic"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338996/300x0/hypersonic.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338996/",
+            "filename": "hypersonic"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338996/600x0/hypersonic.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338996/",
+            "filename": "hypersonic"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338996/1200x0/hypersonic.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338996/",
+            "filename": "hypersonic"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "hypersonic",
+        "subheadline": "Hypersonic",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/hypersonic-13417",
+        "videoId": 338996
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

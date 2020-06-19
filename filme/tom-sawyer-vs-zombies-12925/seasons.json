@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12925",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12925,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/tom-sawyer-vs-zombies-12925"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Tom Sawyer vs. Zombies",
+          "teaserId": "film_334954",
+          "teaserName": "Tom Sawyer vs. Zombies | Tom Sawyer vs. Zombies",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Tom Sawyer vs. Zombies",
+        "id": 334954,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334954/300x0/tom-sawyer-vs-zombies.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334954/",
+            "filename": "tom-sawyer-vs-zombies"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334954/600x0/tom-sawyer-vs-zombies.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334954/",
+            "filename": "tom-sawyer-vs-zombies"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334954/1200x0/tom-sawyer-vs-zombies.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334954/",
+            "filename": "tom-sawyer-vs-zombies"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334954/300x0/tom-sawyer-vs-zombies.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334954/",
+            "filename": "tom-sawyer-vs-zombies"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334954/600x0/tom-sawyer-vs-zombies.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334954/",
+            "filename": "tom-sawyer-vs-zombies"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334954/1200x0/tom-sawyer-vs-zombies.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334954/",
+            "filename": "tom-sawyer-vs-zombies"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "tom-sawyer-vs-zombies",
+        "subheadline": "Tom Sawyer vs. Zombies",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/tom-sawyer-vs-zombies-12925",
+        "videoId": 334954
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

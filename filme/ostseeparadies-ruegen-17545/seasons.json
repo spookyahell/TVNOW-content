@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17545",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17545,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ostseeparadies-ruegen-17545"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ostseeparadies Rügen",
+          "teaserId": "film_1561846",
+          "teaserName": "Ostseeparadies Rügen | Ostseeparadies Rügen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Natur"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ostseeparadies Rügen",
+        "id": 1561846,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1561846/300x0/ostseeparadies-ruegen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1561846/",
+            "filename": "ostseeparadies-ruegen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1561846/600x0/ostseeparadies-ruegen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1561846/",
+            "filename": "ostseeparadies-ruegen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1561846/1200x0/ostseeparadies-ruegen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1561846/",
+            "filename": "ostseeparadies-ruegen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1561846/300x0/ostseeparadies-ruegen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1561846/",
+            "filename": "ostseeparadies-ruegen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1561846/600x0/ostseeparadies-ruegen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1561846/",
+            "filename": "ostseeparadies-ruegen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1561846/1200x0/ostseeparadies-ruegen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1561846/",
+            "filename": "ostseeparadies-ruegen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ostseeparadies-ruegen",
+        "subheadline": "Ostseeparadies Rügen",
+        "text": "Staffel  | Sa. 11.04.2020, 21:50 Uhr",
+        "type": "film",
+        "url": "/filme/ostseeparadies-ruegen-17545",
+        "videoId": 1561846
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14803",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14803,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/callgirl-14803"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Callgirl",
+          "teaserId": "film_347862",
+          "teaserName": "Callgirl | Callgirl",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Callgirl",
+        "id": 347862,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/347862/300x0/callgirl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/347862/",
+            "filename": "callgirl"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/347862/600x0/callgirl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/347862/",
+            "filename": "callgirl"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/347862/1200x0/callgirl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/347862/",
+            "filename": "callgirl"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/347862/300x0/callgirl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/347862/",
+            "filename": "callgirl"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/347862/600x0/callgirl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/347862/",
+            "filename": "callgirl"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/347862/1200x0/callgirl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/347862/",
+            "filename": "callgirl"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "callgirl",
+        "subheadline": "Callgirl",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/callgirl-14803",
+        "videoId": 347862
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13611",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13611,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/high-speed-train-13611"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "High Speed Train",
+          "teaserId": "film_337676",
+          "teaserName": "High Speed Train | High Speed Train",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "High Speed Train",
+        "id": 337676,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337676/300x0/high-speed-train.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337676/",
+            "filename": "high-speed-train"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337676/600x0/high-speed-train.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337676/",
+            "filename": "high-speed-train"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337676/1200x0/high-speed-train.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337676/",
+            "filename": "high-speed-train"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337676/300x0/high-speed-train.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337676/",
+            "filename": "high-speed-train"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337676/600x0/high-speed-train.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337676/",
+            "filename": "high-speed-train"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337676/1200x0/high-speed-train.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337676/",
+            "filename": "high-speed-train"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "high-speed-train",
+        "subheadline": "High Speed Train",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/high-speed-train-13611",
+        "videoId": 337676
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16109",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16109,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/neverlake-16109"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Neverlake",
+          "teaserId": "film_577486",
+          "teaserName": "Neverlake | Neverlake",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Neverlake",
+        "id": 577486,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577486/300x0/neverlake.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577486/",
+            "filename": "neverlake"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577486/600x0/neverlake.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577486/",
+            "filename": "neverlake"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577486/1200x0/neverlake.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577486/",
+            "filename": "neverlake"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577486/300x0/neverlake.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577486/",
+            "filename": "neverlake"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577486/600x0/neverlake.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577486/",
+            "filename": "neverlake"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577486/1200x0/neverlake.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577486/",
+            "filename": "neverlake"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "neverlake",
+        "subheadline": "Neverlake",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/neverlake-16109",
+        "videoId": 577486
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

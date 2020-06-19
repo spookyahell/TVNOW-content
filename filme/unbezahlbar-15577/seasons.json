@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15577",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15577,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/unbezahlbar-15577"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Unbezahlbar",
+          "teaserId": "film_389054",
+          "teaserName": "Unbezahlbar | Unbezahlbar",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Unbezahlbar",
+        "id": 389054,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389054/300x0/unbezahlbar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389054/",
+            "filename": "unbezahlbar"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389054/600x0/unbezahlbar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389054/",
+            "filename": "unbezahlbar"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389054/1200x0/unbezahlbar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389054/",
+            "filename": "unbezahlbar"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389054/300x0/unbezahlbar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389054/",
+            "filename": "unbezahlbar"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389054/600x0/unbezahlbar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389054/",
+            "filename": "unbezahlbar"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389054/1200x0/unbezahlbar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389054/",
+            "filename": "unbezahlbar"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "unbezahlbar",
+        "subheadline": "Unbezahlbar",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/unbezahlbar-15577",
+        "videoId": 389054
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

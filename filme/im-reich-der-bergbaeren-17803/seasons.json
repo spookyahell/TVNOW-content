@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17803",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17803,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/im-reich-der-bergbaeren-17803"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Im Reich der Bergbären",
+          "teaserId": "film_1653915",
+          "teaserName": "Im Reich der Bergbären | Im Reich der Bergbären",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Im Reich der Bergbären",
+        "id": 1653915,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1653915/300x0/im-reich-der-bergbaeren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1653915/",
+            "filename": "im-reich-der-bergbaeren"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1653915/600x0/im-reich-der-bergbaeren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1653915/",
+            "filename": "im-reich-der-bergbaeren"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1653915/1200x0/im-reich-der-bergbaeren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1653915/",
+            "filename": "im-reich-der-bergbaeren"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1653915/300x0/im-reich-der-bergbaeren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1653915/",
+            "filename": "im-reich-der-bergbaeren"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1653915/600x0/im-reich-der-bergbaeren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1653915/",
+            "filename": "im-reich-der-bergbaeren"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1653915/1200x0/im-reich-der-bergbaeren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1653915/",
+            "filename": "im-reich-der-bergbaeren"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "im-reich-der-bergbaeren",
+        "subheadline": "Im Reich der Bergbären",
+        "text": "Staffel  | So. 24.05.2020, 17:50 Uhr",
+        "type": "film",
+        "url": "/filme/im-reich-der-bergbaeren-17803",
+        "videoId": 1653915
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

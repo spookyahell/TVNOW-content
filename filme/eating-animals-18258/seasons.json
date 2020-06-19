@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18258",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18258,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/eating-animals-18258"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Eating Animals",
+          "teaserId": "film_2774855",
+          "teaserName": "Eating Animals | Eating Animals",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Lifestyle"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Eating Animals",
+        "id": 2774855,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2774855/300x0/eating-animals.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2774855/",
+            "filename": "eating-animals"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2774855/600x0/eating-animals.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2774855/",
+            "filename": "eating-animals"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2774855/1200x0/eating-animals.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2774855/",
+            "filename": "eating-animals"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2774855/300x0/eating-animals.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2774855/",
+            "filename": "eating-animals"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2774855/600x0/eating-animals.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2774855/",
+            "filename": "eating-animals"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2774855/1200x0/eating-animals.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2774855/",
+            "filename": "eating-animals"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "eating-animals",
+        "subheadline": "Eating Animals",
+        "text": "Staffel  | Mo. 30.03.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/eating-animals-18258",
+        "videoId": 2774855
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

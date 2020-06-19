@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 17670,
+  "additionalMeta": {
+    "canonical": "/filme/die-tierfluesterin-17670",
+    "url": "/filme/die-tierfluesterin-17670"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die Tierflüsterin",
+      "url": "/filme/die-tierfluesterin-17670"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17670,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Die Tierflüsterin 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "TVNOW, GEO, VOD, Stream, Video, Doku, Dokumentation, Tiere, Tierflüsterin",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Tierflüsterin im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Die Tierflüsterin 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1635810,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1635810",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17670"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Die Tierflüsterin",
+    "text": "Die Tiere von Marie-Noëlle Baroni sind immer wieder in Filmen zu sehen, denn die Französin scheint außergewöhnliche Fähigkeiten zu haben. Sie schafft es, wilde Tiere zu zähmen, ohne sie zu trainieren oder ein Luchs mit einem Reh anzufreunden. Für \"Die Tierflüsterin\" ließ Marie-Noëlle nun zum ersten Mal ein Kamerateam auf ihr riesiges Anwesen in der Nähe von Avignon in Südfrankreich. ",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/die-tierfluesterin-17670",
+        "@type": "Movie",
+        "description": "Die Tiere von Marie-Noëlle Baroni sind immer wieder in Filmen zu sehen, denn die Französin scheint außergewöhnliche Fähigkeiten zu haben. Sie schafft es, wilde Tiere zu zähmen, ohne sie zu trainieren oder ein Luchs mit einem Reh anzufreunden. Für \"Die Tierflüsterin\" ließ Marie-Noëlle nun zum ersten Mal ein Kamerateam auf ihr riesiges Anwesen in der Nähe von Avignon in Südfrankreich. ",
+        "duration": "PT52M23S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1635810/950x0/die-tierfluesterin.jpg",
+        "name": "Die Tierflüsterin",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/die-tierfluesterin-17670",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-01-07T21:10:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=die-tierfluesterin-17670",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=die-tierfluesterin-17670",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/die-tierfluesterin-17670",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die Tiere von Marie-Noëlle Baroni sind immer wieder in Filmen zu sehen, denn die Französin scheint außergewöhnliche Fähigkeiten zu haben. Sie schafft es, wilde Tiere zu zähmen, ohne sie zu trainieren oder ein Luchs mit einem Reh anzufreunden. Für \"Die Tierflüsterin\" ließ Marie-Noëlle nun zum ersten Mal ein Kamerateam auf ihr riesiges Anwesen in der Nähe von Avignon in Südfrankreich. ",
+          "duration": "PT52M23S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/die-tierfluesterin-17670",
+          "name": "Die Tierflüsterin",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1635810/950x0/die-tierfluesterin.jpg",
+          "uploadDate": "2020-01-07T21:10:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Tierflüsterin im Online Stream | TVNOW",
+        "headline": "Die Tierflüsterin im Online Stream | TVNOW",
+        "description": "Die Tierflüsterin und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW. Ein Film mit ▶️Marie-Noëlle Baroni.",
+        "url": "https://www.tvnow.de/filme/die-tierfluesterin-17670",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1635810/950x0/die-tierfluesterin.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1635810/950x0/die-tierfluesterin.jpg",
+        "datePublished": "2020-01-07T21:10:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1635810/950x0/die-tierfluesterin.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Tierflüsterin",
+            "item": "https://www.tvnow.de/filme/die-tierfluesterin-17670"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Tierflüsterin im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

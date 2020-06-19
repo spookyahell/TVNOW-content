@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16449",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16449,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/alles-wegen-gracia-16449"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Alles wegen Gracia",
+          "teaserId": "film_1182126",
+          "teaserName": "Alles wegen Gracia | Alles wegen Gracia",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Alles wegen Gracia",
+        "id": 1182126,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182126/300x0/alles-wegen-gracia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182126/",
+            "filename": "alles-wegen-gracia"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182126/600x0/alles-wegen-gracia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182126/",
+            "filename": "alles-wegen-gracia"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182126/1200x0/alles-wegen-gracia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182126/",
+            "filename": "alles-wegen-gracia"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182126/300x0/alles-wegen-gracia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182126/",
+            "filename": "alles-wegen-gracia"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182126/600x0/alles-wegen-gracia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182126/",
+            "filename": "alles-wegen-gracia"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182126/1200x0/alles-wegen-gracia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182126/",
+            "filename": "alles-wegen-gracia"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "alles-wegen-gracia",
+        "subheadline": "Alles wegen Gracia",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/alles-wegen-gracia-16449",
+        "videoId": 1182126
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

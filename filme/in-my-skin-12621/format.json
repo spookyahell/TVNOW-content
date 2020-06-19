@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 12621,
+  "additionalMeta": {
+    "canonical": "/filme/in-my-skin-12621",
+    "url": "/filme/in-my-skin-12621"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "In my Skin",
+      "url": "/filme/in-my-skin-12621"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 12621,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ In my Skin 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "In my Skin, Film, Stream, Online-Stream, TV NOW, WATCHBOX, kostenlos, Spielfilm, Video, gratis, Drama, Thriller, Horror, Arthouse, Independent",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "In my Skin im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ In my Skin 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 333832,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/333832",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/12621"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_drama/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_drama",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: In my Skin",
+    "text": "Bei TV NOW kannst Du den Film In my Skin und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/in-my-skin-12621",
+        "@type": "Movie",
+        "description": "Als sich die hübsche Analystin Esther bei einer Party verletzt, schenkt sie der Wunde zuerst keine Aufmerksamkeit. Doch mehr und mehr fühlt sie sich von ihrer Wunde fasziniert, und sie fängt an jene immer wieder zu öffnen. Aus anfänglicher Neugierde erwächst in der jungen Frau eine Obsession für ihr eigenes Fleisch und Blut, welche nach immer neue Taten verlangt. Esther erkennt: Oftmals ist der Schmerz der einzige Freund und größter Feind den man hat. Der Anfang eines abgründigen Psychotrips.",
+        "duration": "PT1H30M42S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/333832/950x0/in-my-skin.jpg",
+        "name": "In my Skin",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/in-my-skin-12621",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-09-13T21:56:46.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/in-my-skin-12621",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Als sich die hübsche Analystin Esther bei einer Party verletzt, schenkt sie der Wunde zuerst keine Aufmerksamkeit. Doch mehr und mehr fühlt sie sich von ihrer Wunde fasziniert, und sie fängt an jene immer wieder zu öffnen. Aus anfänglicher Neugierde erwächst in der jungen Frau eine Obsession für ihr eigenes Fleisch und Blut, welche nach immer neue Taten verlangt. Esther erkennt: Oftmals ist der Schmerz der einzige Freund und größter Feind den man hat. Der Anfang eines abgründigen Psychotrips.",
+          "duration": "PT1H30M42S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/in-my-skin-12621",
+          "name": "In my Skin",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/333832/950x0/in-my-skin.jpg",
+          "uploadDate": "2017-09-13T21:56:46.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "In my Skin im Online Stream | TVNOW",
+        "headline": "In my Skin im Online Stream | TVNOW",
+        "description": "In my Skin und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Marina de Van, Laurent Lucas, Lea Drucker.",
+        "url": "https://www.tvnow.de/filme/in-my-skin-12621",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/333832/950x0/in-my-skin.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/333832/950x0/in-my-skin.jpg",
+        "datePublished": "2017-09-13T21:56:46.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/333832/950x0/in-my-skin.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "In my Skin",
+            "item": "https://www.tvnow.de/filme/in-my-skin-12621"
+          }
+        ]
+      }
+    }
+  },
+  "title": "In my Skin im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

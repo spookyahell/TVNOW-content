@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16941",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16941,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/grossstadtdschungel-16941"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Großstadtdschungel",
+          "teaserId": "film_428608",
+          "teaserName": "Großstadtdschungel | Großstadtdschungel",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Großstadtdschungel",
+        "id": 428608,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/428608/300x0/grossstadtdschungel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/428608/",
+            "filename": "grossstadtdschungel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/428608/600x0/grossstadtdschungel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/428608/",
+            "filename": "grossstadtdschungel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/428608/1200x0/grossstadtdschungel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/428608/",
+            "filename": "grossstadtdschungel"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/428608/300x0/grossstadtdschungel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/428608/",
+            "filename": "grossstadtdschungel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/428608/600x0/grossstadtdschungel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/428608/",
+            "filename": "grossstadtdschungel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/428608/1200x0/grossstadtdschungel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/428608/",
+            "filename": "grossstadtdschungel"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grossstadtdschungel",
+        "subheadline": "Großstadtdschungel",
+        "text": "Staffel  | Di. 28.01.2020, 18:25 Uhr",
+        "type": "film",
+        "url": "/filme/grossstadtdschungel-16941",
+        "videoId": 428608
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

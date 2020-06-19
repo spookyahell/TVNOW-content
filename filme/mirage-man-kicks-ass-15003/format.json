@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 15003,
+  "additionalMeta": {
+    "canonical": "/filme/mirage-man-kicks-ass-15003",
+    "url": "/filme/mirage-man-kicks-ass-15003"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Mirage Man Kicks Ass",
+      "url": "/filme/mirage-man-kicks-ass-15003"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 15003,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Mirage Man Kicks Ass 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Mirage Man Kicks Ass, Film, TV NOW, Watchbox bei TV NOW, Action, Komödie, Krimi, Nachtclub, Sicherheitsdienst, Raubüberfall, Zeuge, Superhelden",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Mirage Man Kicks Ass im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Mirage Man Kicks Ass 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 354754,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/354754",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/15003"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_action/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_action",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Action",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Mirage Man Kicks Ass",
+    "text": "Bei TV NOW kannst Du den Film Mirage Man Kicks Ass und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/mirage-man-kicks-ass-15003",
+        "@type": "Movie",
+        "description": "Der junge Maco lebt ein einsames Leben, seit seine Eltern ermordet wurden und sein den Angriff überlebender Bruder in eine Nervenheilanstalt eingewiesen wurde. Als Sicherheitsmann in einem Nachtclub verdient er sich seinen Lebensunterhalt. Doch eines Tages schreitet er ein, als er Zeuge eines brutalen Raubüberfalls wird und rettet dabei eine Reporterin, die über den maskierten Helden berichtet. Maco bemerkt, wie sein Bruder positiv auf die Nachricht über diesen Superhelden reagiert. Und so fasst er einen folgenschweren Entschluss: Er wird Mirageman, ein Superheld, der fortan für das Gute kämpft.",
+        "duration": "PT1H23M35S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/354754/950x0/mirage-man-kicks-ass.jpg",
+        "name": "Mirage Man Kicks Ass",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/mirage-man-kicks-ass-15003",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-11-26T14:06:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/mirage-man-kicks-ass-15003",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Der junge Maco lebt ein einsames Leben, seit seine Eltern ermordet wurden und sein den Angriff überlebender Bruder in eine Nervenheilanstalt eingewiesen wurde. Als Sicherheitsmann in einem Nachtclub verdient er sich seinen Lebensunterhalt. Doch eines Tages schreitet er ein, als er Zeuge eines brutalen Raubüberfalls wird und rettet dabei eine Reporterin, die über den maskierten Helden berichtet. Maco bemerkt, wie sein Bruder positiv auf die Nachricht über diesen Superhelden reagiert. Und so fasst er einen folgenschweren Entschluss: Er wird Mirageman, ein Superheld, der fortan für das Gute kämpft.",
+          "duration": "PT1H23M35S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/mirage-man-kicks-ass-15003",
+          "name": "Mirage Man Kicks Ass",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/354754/950x0/mirage-man-kicks-ass.jpg",
+          "uploadDate": "2017-11-26T14:06:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Mirage Man Kicks Ass im Online Stream | TVNOW",
+        "headline": "Mirage Man Kicks Ass im Online Stream | TVNOW",
+        "description": "Mirage Man Kicks Ass und viele weitere  ▶️Filme aus dem Genre Action findest du im Online Stream bei TVNOW. Ein Film mit ▶️Marko Zaror, María Elena Swett, Ariel Mateluna.",
+        "url": "https://www.tvnow.de/filme/mirage-man-kicks-ass-15003",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/354754/950x0/mirage-man-kicks-ass.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/354754/950x0/mirage-man-kicks-ass.jpg",
+        "datePublished": "2017-11-26T14:06:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/354754/950x0/mirage-man-kicks-ass.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mirage Man Kicks Ass",
+            "item": "https://www.tvnow.de/filme/mirage-man-kicks-ass-15003"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Mirage Man Kicks Ass im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

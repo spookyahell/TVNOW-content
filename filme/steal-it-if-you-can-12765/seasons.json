@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12765",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12765,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/steal-it-if-you-can-12765"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Steal It If You Can",
+          "teaserId": "film_333818",
+          "teaserName": "Steal It If You Can | Steal It If You Can",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Steal It If You Can",
+        "id": 333818,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333818/300x0/steal-it-if-you-can.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333818/",
+            "filename": "steal-it-if-you-can"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333818/600x0/steal-it-if-you-can.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333818/",
+            "filename": "steal-it-if-you-can"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333818/1200x0/steal-it-if-you-can.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333818/",
+            "filename": "steal-it-if-you-can"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333818/300x0/steal-it-if-you-can.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333818/",
+            "filename": "steal-it-if-you-can"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333818/600x0/steal-it-if-you-can.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333818/",
+            "filename": "steal-it-if-you-can"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333818/1200x0/steal-it-if-you-can.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333818/",
+            "filename": "steal-it-if-you-can"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "steal-it-if-you-can",
+        "subheadline": "Steal It If You Can",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/steal-it-if-you-can-12765",
+        "videoId": 333818
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

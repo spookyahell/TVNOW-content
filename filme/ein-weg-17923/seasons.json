@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17923",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17923,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ein-weg-17923"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ein Weg",
+          "teaserId": "film_1791213",
+          "teaserName": "Ein Weg | Ein Weg",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ein Weg",
+        "id": 1791213,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791213/300x0/ein-weg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791213/",
+            "filename": "ein-weg"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791213/600x0/ein-weg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791213/",
+            "filename": "ein-weg"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791213/1200x0/ein-weg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791213/",
+            "filename": "ein-weg"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791213/300x0/ein-weg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791213/",
+            "filename": "ein-weg"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791213/600x0/ein-weg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791213/",
+            "filename": "ein-weg"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791213/1200x0/ein-weg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791213/",
+            "filename": "ein-weg"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ein-weg",
+        "subheadline": "Ein Weg",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/ein-weg-17923",
+        "videoId": 1791213
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

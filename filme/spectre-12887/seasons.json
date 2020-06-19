@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12887",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12887,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/spectre-12887"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Spectre",
+          "teaserId": "film_335068",
+          "teaserName": "Spectre | Spectre",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Spectre",
+        "id": 335068,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335068/300x0/spectre.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335068/",
+            "filename": "spectre"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335068/600x0/spectre.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335068/",
+            "filename": "spectre"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335068/1200x0/spectre.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335068/",
+            "filename": "spectre"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335068/300x0/spectre.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335068/",
+            "filename": "spectre"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335068/600x0/spectre.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335068/",
+            "filename": "spectre"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335068/1200x0/spectre.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335068/",
+            "filename": "spectre"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "spectre",
+        "subheadline": "Spectre",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/spectre-12887",
+        "videoId": 335068
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

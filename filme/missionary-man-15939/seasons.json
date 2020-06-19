@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15939",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15939,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/missionary-man-15939"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Missionary Man",
+          "teaserId": "film_424294",
+          "teaserName": "Missionary Man | Missionary Man",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Missionary Man",
+        "id": 424294,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424294/300x0/missionary-man.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424294/",
+            "filename": "missionary-man"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424294/600x0/missionary-man.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424294/",
+            "filename": "missionary-man"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424294/1200x0/missionary-man.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424294/",
+            "filename": "missionary-man"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424294/300x0/missionary-man.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424294/",
+            "filename": "missionary-man"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424294/600x0/missionary-man.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424294/",
+            "filename": "missionary-man"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424294/1200x0/missionary-man.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424294/",
+            "filename": "missionary-man"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "missionary-man",
+        "subheadline": "Missionary Man",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/missionary-man-15939",
+        "videoId": 424294
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16870",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16870,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/danke-fuer-die-daten-16870"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Danke für die Daten!",
+          "teaserId": "film_674484",
+          "teaserName": "Danke für die Daten! | Danke für die Daten!",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Danke für die Daten!",
+        "id": 674484,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/674484/300x0/danke-fuer-die-daten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/674484/",
+            "filename": "danke-fuer-die-daten"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/674484/600x0/danke-fuer-die-daten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/674484/",
+            "filename": "danke-fuer-die-daten"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/674484/1200x0/danke-fuer-die-daten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/674484/",
+            "filename": "danke-fuer-die-daten"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/674484/300x0/danke-fuer-die-daten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/674484/",
+            "filename": "danke-fuer-die-daten"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/674484/600x0/danke-fuer-die-daten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/674484/",
+            "filename": "danke-fuer-die-daten"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/674484/1200x0/danke-fuer-die-daten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/674484/",
+            "filename": "danke-fuer-die-daten"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "danke-fuer-die-daten",
+        "subheadline": "Danke für die Daten!",
+        "text": "Staffel  | Do. 02.04.2020, 00:45 Uhr",
+        "type": "film",
+        "url": "/filme/danke-fuer-die-daten-16870",
+        "videoId": 674484
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

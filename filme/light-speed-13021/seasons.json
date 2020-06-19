@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13021",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13021,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/light-speed-13021"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Light Speed",
+          "teaserId": "film_335818",
+          "teaserName": "Light Speed | Light Speed",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Science Fiction",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Light Speed",
+        "id": 335818,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335818/300x0/light-speed.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335818/",
+            "filename": "light-speed"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335818/600x0/light-speed.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335818/",
+            "filename": "light-speed"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335818/1200x0/light-speed.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335818/",
+            "filename": "light-speed"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335818/300x0/light-speed.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335818/",
+            "filename": "light-speed"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335818/600x0/light-speed.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335818/",
+            "filename": "light-speed"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335818/1200x0/light-speed.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335818/",
+            "filename": "light-speed"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "light-speed",
+        "subheadline": "Light Speed",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/light-speed-13021",
+        "videoId": 335818
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

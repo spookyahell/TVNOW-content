@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13173",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13173,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/shark-divers-13173"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Shark Divers",
+          "teaserId": "film_336574",
+          "teaserName": "Shark Divers | Shark Divers",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Shark Divers",
+        "id": 336574,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336574/300x0/shark-divers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336574/",
+            "filename": "shark-divers"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336574/600x0/shark-divers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336574/",
+            "filename": "shark-divers"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336574/1200x0/shark-divers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336574/",
+            "filename": "shark-divers"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336574/300x0/shark-divers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336574/",
+            "filename": "shark-divers"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336574/600x0/shark-divers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336574/",
+            "filename": "shark-divers"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336574/1200x0/shark-divers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336574/",
+            "filename": "shark-divers"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "shark-divers",
+        "subheadline": "Shark Divers",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/shark-divers-13173",
+        "videoId": 336574
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

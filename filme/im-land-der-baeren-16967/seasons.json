@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16967",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16967,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/im-land-der-baeren-16967"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Im Land der Bären",
+          "teaserId": "film_776852",
+          "teaserName": "Im Land der Bären | Im Land der Bären",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Im Land der Bären",
+        "id": 776852,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/776852/300x0/im-land-der-baeren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/776852/",
+            "filename": "im-land-der-baeren"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/776852/600x0/im-land-der-baeren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/776852/",
+            "filename": "im-land-der-baeren"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/776852/1200x0/im-land-der-baeren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/776852/",
+            "filename": "im-land-der-baeren"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/776852/300x0/im-land-der-baeren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/776852/",
+            "filename": "im-land-der-baeren"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/776852/600x0/im-land-der-baeren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/776852/",
+            "filename": "im-land-der-baeren"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/776852/1200x0/im-land-der-baeren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/776852/",
+            "filename": "im-land-der-baeren"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "im-land-der-baeren",
+        "subheadline": "Im Land der Bären",
+        "text": "Staffel  | Di. 04.12.2018, 18:50 Uhr",
+        "type": "film",
+        "url": "/filme/im-land-der-baeren-16967",
+        "videoId": 776852
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

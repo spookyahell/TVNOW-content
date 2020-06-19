@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 17504,
+  "additionalMeta": {
+    "canonical": "/filme/seenparadies-mecklenburg-17504",
+    "url": "/filme/seenparadies-mecklenburg-17504"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Seenparadies Mecklenburg",
+      "url": "/filme/seenparadies-mecklenburg-17504"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17504,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Seenparadies Mecklenburg 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Seenparadies Mecklenburg, Natur, Doku, GEO, See, Mecklenburg, Ostdeutschland, Osten, Deutschland",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Seenparadies Mecklenburg im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Seenparadies Mecklenburg 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1494615,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1494615",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17504"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Seenparadies Mecklenburg",
+    "text": "Ruhe und Kraft, sanfte Seen und märchenhafte Wälder: In der Dokuemtation entdecken Sie zusammen mit einer Gauklerfamilie das größte zusammenhängende Seengebiet Deutschlands.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/seenparadies-mecklenburg-17504",
+        "@type": "Movie",
+        "description": "Ruhe und Kraft, sanfte Seen und märchenhafte Wälder: In der Dokuemtation entdecken Sie zusammen mit einer Gauklerfamilie das größte zusammenhängende Seengebiet Deutschlands.",
+        "duration": "PT44M30S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1494615/950x0/seenparadies-mecklenburg.jpg",
+        "name": "Seenparadies Mecklenburg",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/seenparadies-mecklenburg-17504",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-02-29T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=seenparadies-mecklenburg-17504",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=seenparadies-mecklenburg-17504",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/seenparadies-mecklenburg-17504",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Ruhe und Kraft, sanfte Seen und märchenhafte Wälder: In der Dokuemtation entdecken Sie zusammen mit einer Gauklerfamilie das größte zusammenhängende Seengebiet Deutschlands.",
+          "duration": "PT44M30S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/seenparadies-mecklenburg-17504",
+          "name": "Seenparadies Mecklenburg",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1494615/950x0/seenparadies-mecklenburg.jpg",
+          "uploadDate": "2020-02-29T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Seenparadies Mecklenburg im Online Stream | TVNOW",
+        "headline": "Seenparadies Mecklenburg im Online Stream | TVNOW",
+        "description": "Seenparadies Mecklenburg und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/seenparadies-mecklenburg-17504",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1494615/950x0/seenparadies-mecklenburg.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1494615/950x0/seenparadies-mecklenburg.jpg",
+        "datePublished": "2020-02-29T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1494615/950x0/seenparadies-mecklenburg.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Seenparadies Mecklenburg",
+            "item": "https://www.tvnow.de/filme/seenparadies-mecklenburg-17504"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Seenparadies Mecklenburg im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

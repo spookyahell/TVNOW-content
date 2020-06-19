@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12615",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12615,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/six-ways-to-sunday-12615"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Six Ways To Sunday",
+          "teaserId": "film_333858",
+          "teaserName": "Six Ways To Sunday | Six Ways To Sunday",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Six Ways To Sunday",
+        "id": 333858,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333858/300x0/six-ways-to-sunday.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333858/",
+            "filename": "six-ways-to-sunday"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333858/600x0/six-ways-to-sunday.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333858/",
+            "filename": "six-ways-to-sunday"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333858/1200x0/six-ways-to-sunday.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333858/",
+            "filename": "six-ways-to-sunday"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333858/300x0/six-ways-to-sunday.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333858/",
+            "filename": "six-ways-to-sunday"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333858/600x0/six-ways-to-sunday.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333858/",
+            "filename": "six-ways-to-sunday"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333858/1200x0/six-ways-to-sunday.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333858/",
+            "filename": "six-ways-to-sunday"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "six-ways-to-sunday",
+        "subheadline": "Six Ways To Sunday",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/six-ways-to-sunday-12615",
+        "videoId": 333858
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

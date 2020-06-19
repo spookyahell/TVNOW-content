@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12471",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12471,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/gozu-12471"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Gozu",
+          "teaserId": "film_332076",
+          "teaserName": "Gozu | Gozu",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Gozu",
+        "id": 332076,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332076/300x0/gozu.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332076/",
+            "filename": "gozu"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332076/600x0/gozu.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332076/",
+            "filename": "gozu"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332076/1200x0/gozu.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332076/",
+            "filename": "gozu"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332076/300x0/gozu.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332076/",
+            "filename": "gozu"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332076/600x0/gozu.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332076/",
+            "filename": "gozu"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332076/1200x0/gozu.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332076/",
+            "filename": "gozu"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "gozu",
+        "subheadline": "Gozu",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/gozu-12471",
+        "videoId": 332076
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

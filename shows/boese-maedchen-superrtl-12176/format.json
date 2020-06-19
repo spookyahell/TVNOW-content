@@ -1,0 +1,208 @@
+﻿{
+  "formatId": 12176,
+  "additionalMeta": {
+    "canonical": "/shows/boese-maedchen-superrtl-12176",
+    "url": "/shows/boese-maedchen-superrtl-12176"
+  },
+  "ads": {
+    "station": "superrtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "Böse Mädchen",
+      "url": "/shows/boese-maedchen-superrtl-12176"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 12176,
+  "meta": [
+    {
+      "content": "Die Show ▶ Böse Mädchen (SUPER RTL) streamen & weitere Highlights aus dem Genre 📺 Comedy im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "Böse Mädchen, video, videos, online sehen, internet tv, fernsehen, video on demand, NOW, TV NOW, Mediathek, VoD, Porgramm, stream, streaming, SUPER RTL, super, rtl, comedy, comedy serie, lachen, mädels, jung, schlagfertig, sexy",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Böse Mädchen im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ Böse Mädchen (SUPER RTL) streamen & weitere Highlights aus dem Genre 📺 Comedy im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/12176",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/12176",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/12176",
+      "type": "teaserrow"
+    },
+    {
+      "id": 12176,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/12176",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_srnboesemaedchen",
+      "video": "dvrsowf_ten_srnboesemaedchen",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/super_rtl_now/formate/boese_maedchen/home",
+      "levels": [
+        "tv_now_de",
+        "super_rtl_now",
+        "formate",
+        "boese_maedchen",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zur Show: Böse Mädchen",
+    "text": "Deine Lieblings-Show ist Böse Mädchen? Kein Problem, bei TV NOW kannst Du sie Dir im Stream anschauen! Egal ob auf Reisen oder von zu Hause aus – mit unserer Vielzahl von Shows vergeht die Zeit wie im Flug! Einfach auswählen, zurücklehnen und Deine Lieblings-Show online bei TV NOW genießen.",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "https://www.tvnow.de/shows/boese-maedchen-superrtl-12176",
+        "url": "https://www.tvnow.de/shows/boese-maedchen-superrtl-12176",
+        "name": "Böse Mädchen",
+        "description": "Die Show ▶ Böse Mädchen (SUPER RTL) streamen & weitere Highlights aus dem Genre 📺 Comedy im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/12176_04metalogo/1200x0/boese-maedchen-superrtl.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Information zur Show: Böse Mädchen",
+        "headline": "Information zur Show: Böse Mädchen",
+        "description": "Die Show ▶ Böse Mädchen (SUPER RTL) streamen & weitere Highlights aus dem Genre 📺 Comedy im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+        "url": "https://www.tvnow.de/shows/boese-maedchen-superrtl-12176",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/12176_04metalogo/1200x0/boese-maedchen-superrtl.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/12176_04metalogo/1200x0/boese-maedchen-superrtl.png",
+        "keywords": "Böse Mädchen, video, videos, online sehen, internet tv, fernsehen, video on demand, NOW, TV NOW, Mediathek, VoD, Porgramm, stream, streaming, SUPER RTL, super, rtl, comedy, comedy serie, lachen, mädels, jung, schlagfertig, sexy",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/12176_04metalogo/1200x0/boese-maedchen-superrtl.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "https://www.tvnow.de/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Böse Mädchen",
+            "item": "https://www.tvnow.de/shows/boese-maedchen-superrtl-12176"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Böse Mädchen im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

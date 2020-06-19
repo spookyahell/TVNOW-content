@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13155",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13155,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/jurassic-shark-13155"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Jurassic Shark",
+          "teaserId": "film_336380",
+          "teaserName": "Jurassic Shark | Jurassic Shark",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Jurassic Shark",
+        "id": 336380,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336380/300x0/jurassic-shark.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336380/",
+            "filename": "jurassic-shark"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336380/600x0/jurassic-shark.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336380/",
+            "filename": "jurassic-shark"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336380/1200x0/jurassic-shark.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336380/",
+            "filename": "jurassic-shark"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336380/300x0/jurassic-shark.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336380/",
+            "filename": "jurassic-shark"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336380/600x0/jurassic-shark.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336380/",
+            "filename": "jurassic-shark"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336380/1200x0/jurassic-shark.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336380/",
+            "filename": "jurassic-shark"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "jurassic-shark",
+        "subheadline": "Jurassic Shark",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/jurassic-shark-13155",
+        "videoId": 336380
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

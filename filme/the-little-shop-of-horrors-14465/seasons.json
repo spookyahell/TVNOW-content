@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14465",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14465,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/kleiner-laden-voller-schrecken-14465"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Little Shop of Horrors",
+          "teaserId": "film_344126",
+          "teaserName": "The Little Shop of Horrors | KLEINER LADEN VOLLER SCHRECKEN",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "KLEINER LADEN VOLLER SCHRECKEN",
+        "id": 344126,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344126/300x0/kleiner-laden-voller-schrecken.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344126/",
+            "filename": "kleiner-laden-voller-schrecken"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344126/600x0/kleiner-laden-voller-schrecken.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344126/",
+            "filename": "kleiner-laden-voller-schrecken"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344126/1200x0/kleiner-laden-voller-schrecken.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344126/",
+            "filename": "kleiner-laden-voller-schrecken"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344126/300x0/kleiner-laden-voller-schrecken.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344126/",
+            "filename": "kleiner-laden-voller-schrecken"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344126/600x0/kleiner-laden-voller-schrecken.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344126/",
+            "filename": "kleiner-laden-voller-schrecken"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344126/1200x0/kleiner-laden-voller-schrecken.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344126/",
+            "filename": "kleiner-laden-voller-schrecken"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-little-shop-of-horrors",
+        "subheadline": "KLEINER LADEN VOLLER SCHRECKEN",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/kleiner-laden-voller-schrecken-14465",
+        "videoId": 344126
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

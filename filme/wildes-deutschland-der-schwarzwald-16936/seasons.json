@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16936",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16936,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/wildes-deutschland-der-schwarzwald-16936"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wildes Deutschland - Der Schwarzwald",
+          "teaserId": "film_417504",
+          "teaserName": "Wildes Deutschland - Der Schwarzwald | Wildes Deutschland - Der Schwarzwald",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wildes Deutschland - Der Schwarzwald",
+        "id": 417504,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/417504/300x0/wildes-deutschland-der-schwarzwald.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/417504/",
+            "filename": "wildes-deutschland-der-schwarzwald"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/417504/600x0/wildes-deutschland-der-schwarzwald.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/417504/",
+            "filename": "wildes-deutschland-der-schwarzwald"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/417504/1200x0/wildes-deutschland-der-schwarzwald.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/417504/",
+            "filename": "wildes-deutschland-der-schwarzwald"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/417504/300x0/wildes-deutschland-der-schwarzwald.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/417504/",
+            "filename": "wildes-deutschland-der-schwarzwald"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/417504/600x0/wildes-deutschland-der-schwarzwald.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/417504/",
+            "filename": "wildes-deutschland-der-schwarzwald"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/417504/1200x0/wildes-deutschland-der-schwarzwald.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/417504/",
+            "filename": "wildes-deutschland-der-schwarzwald"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wildes-deutschland-der-schwarzwald",
+        "subheadline": "Wildes Deutschland - Der Schwarzwald",
+        "text": "Staffel  | Mo. 03.12.2018, 07:30 Uhr",
+        "type": "film",
+        "url": "/filme/wildes-deutschland-der-schwarzwald-16936",
+        "videoId": 417504
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

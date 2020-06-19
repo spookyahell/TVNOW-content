@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 15587,
+  "additionalMeta": {
+    "canonical": "/filme/familie-gesucht-15587",
+    "url": "/filme/familie-gesucht-15587"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Familie gesucht",
+      "url": "/filme/familie-gesucht-15587"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 15587,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Familie gesucht 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Familie gesucht, Film, TV NOW, Watchbox bei TV NOW, Drama, Family, Heim, Pflegefamilie, Waisenhaus, Abenteuer, Familie, Reise, Haus, Zirkus",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Familie gesucht im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Familie gesucht 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 389086,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/389086",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/15587"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_drama/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_drama",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Familie gesucht",
+    "text": "Bei TV NOW kannst Du den Film Familie gesucht und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/familie-gesucht-15587",
+        "@type": "Movie",
+        "description": "Bei einem Besuch mit anderen Pflegekindern in einem Altenheim lernt Cory die betagte, aber geistig immer noch voll präsente Carlotta kennen, die von ihren Verwandten in das Heim abgeschoben wurde. Einsam, aber weder verbittert noch resigniert, hat sich Carlotta ihren Stolz und Lebenswillen bewahrt. Die alte Dame, die keineswegs bereit ist, sich verwalten und bevormunden zu lassen, freundet sich mit Cory an. Als Cory den Plan fasst, von seiner Pflegefamilie davonzulaufen, bevor sie ihn in ein Waisenhaus bringen kann, ist Carlotta mit dabei. Beide brechen auf in ein Abenteuer, bei dem sie nach der Familie suchen, die sie nie hatten. Mehr oder minder ziellos ziehen die beiden durch das Land, halten sich mit verschiedenen Jobs über Wasser und schaffen es immer wieder, den Behördenvertretern aus dem Weg zu gehen, die nach Cory suchen. Je länger ihre Reise dauert, desto näher kommen sich der Junge und die alte Dame. Sie lernen, einander zu vertrauen und füreinander da zu sein, wenn sich die Welt gegen sie verschworen zu haben scheint.\n\nSchließlich gelangt das ungleiche Paar zu einem Zirkus und scheint am Ziel der Reise zu sein. Carlotta, die in jungen Jahren einige Zeit beim Zirkus verbracht hat, und Cory finden in der Zirkustruppe eine echte Familie. Boss Ed, der Chef des Zirkus', gibt ihnen Jobs, und Dinghy, der Clown der Truppe, hilft Cory und Carlotta als eine Art guter Geist dabei, sich in ihrem neuen Umfeld zurechtzufinden. In dem Motorrad-Artisten Zack findet Cory schließlich einen wohlmeinenden Mentor, der ihm dabei hilft, seinen Selbstrespekt und sein Selbstbewusstsein zu stärken. Nach vielen Irr- und Umwegen scheint es, als seien Cory und Carlotta zu Hause angelangt...",
+        "duration": "PT1H51M53S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/389086/950x0/familie-gesucht.jpg",
+        "name": "Familie gesucht",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/familie-gesucht-15587",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-12-12T13:15:14.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/familie-gesucht-15587",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Bei einem Besuch mit anderen Pflegekindern in einem Altenheim lernt Cory die betagte, aber geistig immer noch voll präsente Carlotta kennen, die von ihren Verwandten in das Heim abgeschoben wurde. Einsam, aber weder verbittert noch resigniert, hat sich Carlotta ihren Stolz und Lebenswillen bewahrt. Die alte Dame, die keineswegs bereit ist, sich verwalten und bevormunden zu lassen, freundet sich mit Cory an. Als Cory den Plan fasst, von seiner Pflegefamilie davonzulaufen, bevor sie ihn in ein Waisenhaus bringen kann, ist Carlotta mit dabei. Beide brechen auf in ein Abenteuer, bei dem sie nach der Familie suchen, die sie nie hatten. Mehr oder minder ziellos ziehen die beiden durch das Land, halten sich mit verschiedenen Jobs über Wasser und schaffen es immer wieder, den Behördenvertretern aus dem Weg zu gehen, die nach Cory suchen. Je länger ihre Reise dauert, desto näher kommen sich der Junge und die alte Dame. Sie lernen, einander zu vertrauen und füreinander da zu sein, wenn sich die Welt gegen sie verschworen zu haben scheint.\n\nSchließlich gelangt das ungleiche Paar zu einem Zirkus und scheint am Ziel der Reise zu sein. Carlotta, die in jungen Jahren einige Zeit beim Zirkus verbracht hat, und Cory finden in der Zirkustruppe eine echte Familie. Boss Ed, der Chef des Zirkus', gibt ihnen Jobs, und Dinghy, der Clown der Truppe, hilft Cory und Carlotta als eine Art guter Geist dabei, sich in ihrem neuen Umfeld zurechtzufinden. In dem Motorrad-Artisten Zack findet Cory schließlich einen wohlmeinenden Mentor, der ihm dabei hilft, seinen Selbstrespekt und sein Selbstbewusstsein zu stärken. Nach vielen Irr- und Umwegen scheint es, als seien Cory und Carlotta zu Hause angelangt...",
+          "duration": "PT1H51M53S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/familie-gesucht-15587",
+          "name": "Familie gesucht",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/389086/950x0/familie-gesucht.jpg",
+          "uploadDate": "2017-12-12T13:15:14.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Familie gesucht im Online Stream | TVNOW",
+        "headline": "Familie gesucht im Online Stream | TVNOW",
+        "description": "Familie gesucht und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Julie Harris, Dan Byrd.",
+        "url": "https://www.tvnow.de/filme/familie-gesucht-15587",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/389086/950x0/familie-gesucht.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/389086/950x0/familie-gesucht.jpg",
+        "datePublished": "2017-12-12T13:15:14.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/389086/950x0/familie-gesucht.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Familie gesucht",
+            "item": "https://www.tvnow.de/filme/familie-gesucht-15587"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Familie gesucht im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

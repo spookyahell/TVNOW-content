@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18452",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18452,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/toedliche-gefuehle-18452"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Tödliche Gefühle",
+          "teaserId": "film_3063480",
+          "teaserName": "Tödliche Gefühle | Tödliche Gefühle",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Tödliche Gefühle",
+        "id": 3063480,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063480/300x0/toedliche-gefuehle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063480/",
+            "filename": "toedliche-gefuehle"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063480/600x0/toedliche-gefuehle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063480/",
+            "filename": "toedliche-gefuehle"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063480/1200x0/toedliche-gefuehle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063480/",
+            "filename": "toedliche-gefuehle"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063480/300x0/toedliche-gefuehle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063480/",
+            "filename": "toedliche-gefuehle"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063480/600x0/toedliche-gefuehle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063480/",
+            "filename": "toedliche-gefuehle"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063480/1200x0/toedliche-gefuehle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063480/",
+            "filename": "toedliche-gefuehle"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "toedliche-gefuehle",
+        "subheadline": "Tödliche Gefühle",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/toedliche-gefuehle-18452",
+        "videoId": 3063480
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12333",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12333,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/war-inc-12333"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "War, Inc.",
+          "teaserId": "film_342000",
+          "teaserName": "War, Inc. | War, Inc.",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "War, Inc.",
+        "id": 342000,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342000/300x0/war-inc.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342000/",
+            "filename": "war-inc"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342000/600x0/war-inc.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342000/",
+            "filename": "war-inc"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342000/1200x0/war-inc.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342000/",
+            "filename": "war-inc"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342000/300x0/war-inc.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342000/",
+            "filename": "war-inc"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342000/600x0/war-inc.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342000/",
+            "filename": "war-inc"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342000/1200x0/war-inc.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342000/",
+            "filename": "war-inc"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "war-inc",
+        "subheadline": "War, Inc.",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/war-inc-12333",
+        "videoId": 342000
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

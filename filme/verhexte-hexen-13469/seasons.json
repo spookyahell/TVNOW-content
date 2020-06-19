@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13469",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13469,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/verhexte-hexen-13469"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Verhexte Hexen",
+          "teaserId": "film_337522",
+          "teaserName": "Verhexte Hexen | Verhexte Hexen",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Fantasy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Verhexte Hexen",
+        "id": 337522,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337522/300x0/verhexte-hexen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337522/",
+            "filename": "verhexte-hexen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337522/600x0/verhexte-hexen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337522/",
+            "filename": "verhexte-hexen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337522/1200x0/verhexte-hexen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337522/",
+            "filename": "verhexte-hexen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337522/300x0/verhexte-hexen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337522/",
+            "filename": "verhexte-hexen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337522/600x0/verhexte-hexen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337522/",
+            "filename": "verhexte-hexen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337522/1200x0/verhexte-hexen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337522/",
+            "filename": "verhexte-hexen"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "verhexte-hexen",
+        "subheadline": "Verhexte Hexen",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/verhexte-hexen-13469",
+        "videoId": 337522
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14473",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14473,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/vexille-14473"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Vexille",
+          "teaserId": "film_344122",
+          "teaserName": "Vexille | Vexille",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Anime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Vexille",
+        "id": 344122,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344122/300x0/vexille.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344122/",
+            "filename": "vexille"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344122/600x0/vexille.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344122/",
+            "filename": "vexille"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344122/1200x0/vexille.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344122/",
+            "filename": "vexille"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344122/300x0/vexille.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344122/",
+            "filename": "vexille"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344122/600x0/vexille.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344122/",
+            "filename": "vexille"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344122/1200x0/vexille.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344122/",
+            "filename": "vexille"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "vexille",
+        "subheadline": "Vexille",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/vexille-14473",
+        "videoId": 344122
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

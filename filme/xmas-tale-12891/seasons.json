@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12891",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12891,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/xmas-tale-12891"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Xmas Tale",
+          "teaserId": "film_334962",
+          "teaserName": "Xmas Tale | Xmas Tale",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Xmas Tale",
+        "id": 334962,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334962/300x0/xmas-tale.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334962/",
+            "filename": "xmas-tale"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334962/600x0/xmas-tale.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334962/",
+            "filename": "xmas-tale"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334962/1200x0/xmas-tale.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334962/",
+            "filename": "xmas-tale"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334962/300x0/xmas-tale.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334962/",
+            "filename": "xmas-tale"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334962/600x0/xmas-tale.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334962/",
+            "filename": "xmas-tale"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334962/1200x0/xmas-tale.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334962/",
+            "filename": "xmas-tale"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "xmas-tale",
+        "subheadline": "Xmas Tale",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/xmas-tale-12891",
+        "videoId": 334962
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

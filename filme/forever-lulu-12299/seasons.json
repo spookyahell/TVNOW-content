@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12299",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12299,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/forever-lulu-12299"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Forever Lulu",
+          "teaserId": "film_339320",
+          "teaserName": "Forever Lulu | Forever Lulu",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Forever Lulu",
+        "id": 339320,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339320/300x0/forever-lulu.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339320/",
+            "filename": "forever-lulu"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339320/600x0/forever-lulu.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339320/",
+            "filename": "forever-lulu"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339320/1200x0/forever-lulu.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339320/",
+            "filename": "forever-lulu"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339320/300x0/forever-lulu.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339320/",
+            "filename": "forever-lulu"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339320/600x0/forever-lulu.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339320/",
+            "filename": "forever-lulu"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339320/1200x0/forever-lulu.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339320/",
+            "filename": "forever-lulu"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "forever-lulu",
+        "subheadline": "Forever Lulu",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/forever-lulu-12299",
+        "videoId": 339320
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

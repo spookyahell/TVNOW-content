@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18450",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18450,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/schweigeminute-18450"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Schweigeminute",
+          "teaserId": "film_3063455",
+          "teaserName": "Schweigeminute | Schweigeminute",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Schweigeminute",
+        "id": 3063455,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063455/300x0/schweigeminute.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063455/",
+            "filename": "schweigeminute"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063455/600x0/schweigeminute.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063455/",
+            "filename": "schweigeminute"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063455/1200x0/schweigeminute.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063455/",
+            "filename": "schweigeminute"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063455/300x0/schweigeminute.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063455/",
+            "filename": "schweigeminute"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063455/600x0/schweigeminute.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063455/",
+            "filename": "schweigeminute"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063455/1200x0/schweigeminute.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063455/",
+            "filename": "schweigeminute"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "schweigeminute",
+        "subheadline": "Schweigeminute",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/schweigeminute-18450",
+        "videoId": 3063455
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

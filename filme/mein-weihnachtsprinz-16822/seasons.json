@@ -1,0 +1,109 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16822",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16822,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mein-weihnachtsprinz-16822"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mein Weihnachtsprinz",
+          "teaserId": "film_1326548",
+          "teaserName": "Mein Weihnachtsprinz | Mein Weihnachtsprinz",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": [
+            "Exklusiv"
+          ],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "TV NOW",
+          "teaserEpisodeName": "Mein Weihnachtsprinz"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mein Weihnachtsprinz",
+        "id": 1326548,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326548/300x0/mein-weihnachtsprinz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326548/",
+            "filename": "mein-weihnachtsprinz"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326548/600x0/mein-weihnachtsprinz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326548/",
+            "filename": "mein-weihnachtsprinz"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326548/1200x0/mein-weihnachtsprinz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326548/",
+            "filename": "mein-weihnachtsprinz"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326548/300x0/mein-weihnachtsprinz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326548/",
+            "filename": "mein-weihnachtsprinz"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326548/600x0/mein-weihnachtsprinz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326548/",
+            "filename": "mein-weihnachtsprinz"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326548/1200x0/mein-weihnachtsprinz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326548/",
+            "filename": "mein-weihnachtsprinz"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mein-weihnachtsprinz",
+        "subheadline": "Mein Weihnachtsprinz",
+        "text": "Staffel 1, Folge 1 | TV NOW",
+        "type": "film",
+        "url": "/filme/mein-weihnachtsprinz-16822",
+        "videoId": 1326548
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

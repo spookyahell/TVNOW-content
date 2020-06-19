@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 18110,
+  "additionalMeta": {
+    "canonical": "/filme/unterm-hammer-wer-bietet-mehr-18110",
+    "url": "/filme/unterm-hammer-wer-bietet-mehr-18110"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Unterm Hammer - Wer bietet mehr?",
+      "url": "/filme/unterm-hammer-wer-bietet-mehr-18110"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 18110,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Unterm Hammer - Wer bietet mehr? 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Unterm Hammer - Wer bietet mehr? im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Unterm Hammer - Wer bietet mehr? 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 2110796,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/2110796",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18110"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Unterm Hammer - Wer bietet mehr?",
+    "text": "n-tv Doku - 'Zum Ersten, zum Zweiten, zum Dritten...'. Wer bei einer Versteigerung nicht blitzschnell reagiert, geht leer aus. Unter den Hammer kommt so ziemlich alles, was sich zu Geld machen lässt - vom Luxus-Rind bis zum Hubschrauber. Die Dokumentation blickt hinter die Kulissen von Auktionen und schaut dabei Schnäppchenjägern und Schatzsuchern über die Schulter.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/unterm-hammer-wer-bietet-mehr-18110",
+        "@type": "Movie",
+        "description": "n-tv Doku - 'Zum Ersten, zum Zweiten, zum Dritten...'. Wer bei einer Versteigerung nicht blitzschnell reagiert, geht leer aus. Unter den Hammer kommt so ziemlich alles, was sich zu Geld machen lässt - vom Luxus-Rind bis zum Hubschrauber. Die Dokumentation blickt hinter die Kulissen von Auktionen und schaut dabei Schnäppchenjägern und Schatzsuchern über die Schulter.",
+        "duration": "PT41M30S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/2110796/950x0/unterm-hammer-wer-bietet-mehr.jpg",
+        "name": "Unterm Hammer - Wer bietet mehr?",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/unterm-hammer-wer-bietet-mehr-18110",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2020-02-03T19:05:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/unterm-hammer-wer-bietet-mehr-18110",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "n-tv Doku - 'Zum Ersten, zum Zweiten, zum Dritten...'. Wer bei einer Versteigerung nicht blitzschnell reagiert, geht leer aus. Unter den Hammer kommt so ziemlich alles, was sich zu Geld machen lässt - vom Luxus-Rind bis zum Hubschrauber. Die Dokumentation blickt hinter die Kulissen von Auktionen und schaut dabei Schnäppchenjägern und Schatzsuchern über die Schulter.",
+          "duration": "PT41M30S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/unterm-hammer-wer-bietet-mehr-18110",
+          "name": "Unterm Hammer - Wer bietet mehr?",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2110796/950x0/unterm-hammer-wer-bietet-mehr.jpg",
+          "uploadDate": "2020-02-03T19:05:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Unterm Hammer - Wer bietet mehr? im Online Stream | TVNOW",
+        "headline": "Unterm Hammer - Wer bietet mehr? im Online Stream | TVNOW",
+        "description": "Unterm Hammer - Wer bietet mehr? und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/unterm-hammer-wer-bietet-mehr-18110",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/2110796/950x0/unterm-hammer-wer-bietet-mehr.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2110796/950x0/unterm-hammer-wer-bietet-mehr.jpg",
+        "datePublished": "2020-02-03T19:05:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/2110796/950x0/unterm-hammer-wer-bietet-mehr.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Unterm Hammer - Wer bietet mehr?",
+            "item": "https://www.tvnow.de/filme/unterm-hammer-wer-bietet-mehr-18110"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Unterm Hammer - Wer bietet mehr? im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14935",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14935,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/border-psycho-14935"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Border Psycho",
+          "teaserId": "film_352958",
+          "teaserName": "Border Psycho | Border Psycho",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Border Psycho",
+        "id": 352958,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/352958/300x0/border-psycho.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/352958/",
+            "filename": "border-psycho"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/352958/600x0/border-psycho.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/352958/",
+            "filename": "border-psycho"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/352958/1200x0/border-psycho.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/352958/",
+            "filename": "border-psycho"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/352958/300x0/border-psycho.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/352958/",
+            "filename": "border-psycho"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/352958/600x0/border-psycho.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/352958/",
+            "filename": "border-psycho"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/352958/1200x0/border-psycho.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/352958/",
+            "filename": "border-psycho"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "border-psycho",
+        "subheadline": "Border Psycho",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/border-psycho-14935",
+        "videoId": 352958
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

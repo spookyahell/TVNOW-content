@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12617",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12617,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/savage-12617"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Savage",
+          "teaserId": "film_333816",
+          "teaserName": "Savage | Savage",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Savage",
+        "id": 333816,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333816/300x0/savage.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333816/",
+            "filename": "savage"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333816/600x0/savage.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333816/",
+            "filename": "savage"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333816/1200x0/savage.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333816/",
+            "filename": "savage"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333816/300x0/savage.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333816/",
+            "filename": "savage"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333816/600x0/savage.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333816/",
+            "filename": "savage"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333816/1200x0/savage.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333816/",
+            "filename": "savage"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "savage",
+        "subheadline": "Savage",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/savage-12617",
+        "videoId": 333816
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

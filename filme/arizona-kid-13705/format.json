@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 13705,
+  "additionalMeta": {
+    "canonical": "/filme/arizona-kid-13705",
+    "url": "/filme/arizona-kid-13705"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Arizona Kid",
+      "url": "/filme/arizona-kid-13705"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 13705,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Arizona Kid 📺 und viele weitere ▶️ Filme aus dem Genre Western findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Arizona Kid, Film, Stream, Online-Stream, TV NOW, WATCHBOX, kostenlos, Spielfilm, Video, gratis, Western, Klassiker, Roy Rogers",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Arizona Kid im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Arizona Kid 📺 und viele weitere ▶️ Filme aus dem Genre Western findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 338156,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/338156",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/13705"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_western/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_western",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Western",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Arizona Kid",
+    "text": "Bei TV NOW kannst Du den Film Arizona Kid und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/arizona-kid-13705",
+        "@type": "Movie",
+        "description": "Roy und Gabby sollen Pferde nach Missouri ausliefern. Als jedoch der Krieg ausbricht, werden die beiden Scouts bei der Armee aufgenommen. Als der Rebell McBride sie angreift, wird Roy angeschossen und schwer verletzt. Dave, ein Mitglied der Bande von McBride, ist ein alter Freund von Roy. Er kehrt zurück, um den Verletzten zu versorgen. Roy gewinnt Mc Bridge für sich: Er schließt sich ihm an.",
+        "duration": "PT56M52S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/338156/950x0/arizona-kid.jpg",
+        "name": "Arizona Kid",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/arizona-kid-13705",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-07-08T00:05:49.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/arizona-kid-13705",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Roy und Gabby sollen Pferde nach Missouri ausliefern. Als jedoch der Krieg ausbricht, werden die beiden Scouts bei der Armee aufgenommen. Als der Rebell McBride sie angreift, wird Roy angeschossen und schwer verletzt. Dave, ein Mitglied der Bande von McBride, ist ein alter Freund von Roy. Er kehrt zurück, um den Verletzten zu versorgen. Roy gewinnt Mc Bridge für sich: Er schließt sich ihm an.",
+          "duration": "PT56M52S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/arizona-kid-13705",
+          "name": "Arizona Kid",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/338156/950x0/arizona-kid.jpg",
+          "uploadDate": "2017-07-08T00:05:49.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Arizona Kid im Online Stream | TVNOW",
+        "headline": "Arizona Kid im Online Stream | TVNOW",
+        "description": "Arizona Kid und viele weitere  ▶️Filme aus dem Genre Western findest du im Online Stream bei TVNOW. Ein Film mit ▶️Roy Rogers.",
+        "url": "https://www.tvnow.de/filme/arizona-kid-13705",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/338156/950x0/arizona-kid.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/338156/950x0/arizona-kid.jpg",
+        "datePublished": "2017-07-08T00:05:49.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/338156/950x0/arizona-kid.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Arizona Kid",
+            "item": "https://www.tvnow.de/filme/arizona-kid-13705"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Arizona Kid im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

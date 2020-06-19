@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17118",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17118,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/invasion-der-robben-17118"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Invasion der Robben",
+          "teaserId": "film_414932",
+          "teaserName": "Invasion der Robben | Invasion der Robben",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Invasion der Robben",
+        "id": 414932,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/414932/300x0/invasion-der-robben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/414932/",
+            "filename": "invasion-der-robben"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/414932/600x0/invasion-der-robben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/414932/",
+            "filename": "invasion-der-robben"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/414932/1200x0/invasion-der-robben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/414932/",
+            "filename": "invasion-der-robben"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/414932/300x0/invasion-der-robben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/414932/",
+            "filename": "invasion-der-robben"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/414932/600x0/invasion-der-robben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/414932/",
+            "filename": "invasion-der-robben"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/414932/1200x0/invasion-der-robben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/414932/",
+            "filename": "invasion-der-robben"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "invasion-der-robben",
+        "subheadline": "Invasion der Robben",
+        "text": "Staffel  | Fr. 29.05.2020, 18:30 Uhr",
+        "type": "film",
+        "url": "/filme/invasion-der-robben-17118",
+        "videoId": 414932
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

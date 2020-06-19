@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12503",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12503,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/fate-stay-night-12503"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Fate/Stay Night",
+          "teaserId": "film_330404",
+          "teaserName": "Fate/Stay Night | Fate/Stay Night",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Anime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Fate/Stay Night",
+        "id": 330404,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330404/300x0/fate-stay-night.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330404/",
+            "filename": "fate-stay-night"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330404/600x0/fate-stay-night.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330404/",
+            "filename": "fate-stay-night"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330404/1200x0/fate-stay-night.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330404/",
+            "filename": "fate-stay-night"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330404/300x0/fate-stay-night.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330404/",
+            "filename": "fate-stay-night"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330404/600x0/fate-stay-night.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330404/",
+            "filename": "fate-stay-night"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330404/1200x0/fate-stay-night.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330404/",
+            "filename": "fate-stay-night"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "fatestay-night",
+        "subheadline": "Fate/Stay Night",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/fate-stay-night-12503",
+        "videoId": 330404
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

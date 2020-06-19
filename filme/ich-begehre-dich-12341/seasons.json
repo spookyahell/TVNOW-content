@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12341",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12341,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ich-begehre-dich-12341"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ich begehre Dich",
+          "teaserId": "film_339170",
+          "teaserName": "Ich begehre Dich | Ich begehre Dich",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ich begehre Dich",
+        "id": 339170,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339170/300x0/ich-begehre-dich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339170/",
+            "filename": "ich-begehre-dich"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339170/600x0/ich-begehre-dich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339170/",
+            "filename": "ich-begehre-dich"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339170/1200x0/ich-begehre-dich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339170/",
+            "filename": "ich-begehre-dich"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339170/300x0/ich-begehre-dich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339170/",
+            "filename": "ich-begehre-dich"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339170/600x0/ich-begehre-dich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339170/",
+            "filename": "ich-begehre-dich"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339170/1200x0/ich-begehre-dich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339170/",
+            "filename": "ich-begehre-dich"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ich-begehre-dich",
+        "subheadline": "Ich begehre Dich",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/ich-begehre-dich-12341",
+        "videoId": 339170
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 16111,
+  "additionalMeta": {
+    "canonical": "/filme/einer-wie-bruno-16111",
+    "url": "/filme/einer-wie-bruno-16111"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Einer wie Bruno",
+      "url": "/filme/einer-wie-bruno-16111"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 16111,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Einer wie Bruno 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Einer wie Bruno, Film, kostenlos, gratis, Komödie, TV NOW, WATCHBOX, Teenager, Pubertät",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Einer wie Bruno im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Einer wie Bruno 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 577850,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/577850",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/16111"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Einer wie Bruno - Informationen zum Film",
+    "text": "<p>Die tragische Komödie mit Jerks-Star Christian Ulmen!</p><p>Die Tragikomödie von Regisseurin Anja Jacobs kam im Jahr 2012 in die deutschen Kinos und ist bei TVNOW im legalen Stream zu sehen. Zum Inhalt: Der geistig zurückgebliebene Bruno, gespielt von Comedian Christian Ulmen, lebt mit seiner Teenie-Tochter Radost zusammen und kämpft um da Sorgerecht. Bruno ist ein gutmütiger und harmloser Kindskopf, der in einem Supermarkt Regale einräumt um über die Runden zu kommen. Im Alltag ist er für seine Teenager-Tochter mehr Spielkamerad als Erziehungsberechtigter. Das stellt das Leben des liebevollen Vaters auf den Kopf: Um sich das Jugendamt vom Leib zu halten, studieren Vater und Tochter diverse Szenarien des „ganz normalen Alltags“ ein, um aus Bruno einen ernsthaft und streng wirkenden Erziehungsberechtigten zu machen. </p><p>Bisher hat diese Art des Rollenspiels sehr gut funktioniert, doch Radost wünscht sich mit Beginn der Pubertät mehr Freiraum, um ihren Hobbys nachgehen zu können. Sie sehnt sich zunehmend nach einem normalen Teenagerleben ohne die tagtägliche Betreuung ihres Vaters übernehmen zu müssen... Doch auch für Bruno ist es keine leichte Zeit: Er findet während der Entwicklungsphase seiner Tochter immer schwerer Zugang zu ihrer Welt. </p><p>Ihr könnt „<strong>Einer wie Bruno</strong>“ auch bequem zu Hause auf dem großen Fernseher genießen. Wenn ihr noch mehr Lust auf Filme aus diesem Genre habt, empfehlen wir euch die mexikanische Komödie Plötzlich Vater und die tierische Beziehungskomödie Dognapper. Das ganze Filmangebot seht ihr kostenlos im Video-On-Demand-Stream auf TVNOW und das natürlich völlig legal.</p>",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/einer-wie-bruno-16111",
+        "@type": "Movie",
+        "description": "Seit dem Tod ihrer Mutter lebt die 13-jährige Radost mit ihrem geistig zurückgebliebenen Vater Bruno in einer kleinen Wohnung. Das Jugendamt führen sie listig an der Nase herum, denn eigentlich betreut der Teenager den Erzeuger, und nicht umgekehrt. Als sie sich in den neuen Schulschwarm Benny verknallt, wird das Versteckspiel zur Qual und mit einsetzender Pubertät steigert ihre Sehnsucht nach einem normalen Leben das Konfliktpotenzial. Das labile Vater-Tochter-Verhältnis gerät aus den Fugen.",
+        "duration": "PT1H44M22S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/577850/950x0/einer-wie-bruno.jpg",
+        "name": "Einer wie Bruno",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/einer-wie-bruno-16111",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2018-05-31T22:07:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/einer-wie-bruno-16111",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Seit dem Tod ihrer Mutter lebt die 13-jährige Radost mit ihrem geistig zurückgebliebenen Vater Bruno in einer kleinen Wohnung. Das Jugendamt führen sie listig an der Nase herum, denn eigentlich betreut der Teenager den Erzeuger, und nicht umgekehrt. Als sie sich in den neuen Schulschwarm Benny verknallt, wird das Versteckspiel zur Qual und mit einsetzender Pubertät steigert ihre Sehnsucht nach einem normalen Leben das Konfliktpotenzial. Das labile Vater-Tochter-Verhältnis gerät aus den Fugen.",
+          "duration": "PT1H44M22S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/einer-wie-bruno-16111",
+          "name": "Einer wie Bruno",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/577850/950x0/einer-wie-bruno.jpg",
+          "uploadDate": "2018-05-31T22:07:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Einer wie Bruno im Online Stream | TVNOW",
+        "headline": "Einer wie Bruno im Online Stream | TVNOW",
+        "description": "Einer wie Bruno und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Lola Dockhorn, Christian Ulmen, Lucas Reiber, Hans-Werner Meyer, Ursina Lardi.",
+        "url": "https://www.tvnow.de/filme/einer-wie-bruno-16111",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/577850/950x0/einer-wie-bruno.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/577850/950x0/einer-wie-bruno.jpg",
+        "datePublished": "2018-05-31T22:07:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/577850/950x0/einer-wie-bruno.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Einer wie Bruno",
+            "item": "https://www.tvnow.de/filme/einer-wie-bruno-16111"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Einer wie Bruno im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13903",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13903,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/frozen-land-13903"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Frozen Land",
+          "teaserId": "film_339102",
+          "teaserName": "Frozen Land | Frozen Land",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Frozen Land",
+        "id": 339102,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339102/300x0/frozen-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339102/",
+            "filename": "frozen-land"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339102/600x0/frozen-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339102/",
+            "filename": "frozen-land"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339102/1200x0/frozen-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339102/",
+            "filename": "frozen-land"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339102/300x0/frozen-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339102/",
+            "filename": "frozen-land"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339102/600x0/frozen-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339102/",
+            "filename": "frozen-land"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339102/1200x0/frozen-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339102/",
+            "filename": "frozen-land"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "frozen-land",
+        "subheadline": "Frozen Land",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/frozen-land-13903",
+        "videoId": 339102
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18164",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18164,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ein-tag-wildnis-18164"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ein Tag Wildnis",
+          "teaserId": "film_2273468",
+          "teaserName": "Ein Tag Wildnis | Ein Tag Wildnis",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Natur"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ein Tag Wildnis",
+        "id": 2273468,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2273468/300x0/ein-tag-wildnis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2273468/",
+            "filename": "ein-tag-wildnis"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2273468/600x0/ein-tag-wildnis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2273468/",
+            "filename": "ein-tag-wildnis"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2273468/1200x0/ein-tag-wildnis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2273468/",
+            "filename": "ein-tag-wildnis"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2273468/300x0/ein-tag-wildnis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2273468/",
+            "filename": "ein-tag-wildnis"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2273468/600x0/ein-tag-wildnis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2273468/",
+            "filename": "ein-tag-wildnis"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2273468/1200x0/ein-tag-wildnis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2273468/",
+            "filename": "ein-tag-wildnis"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ein-tag-wildnis",
+        "subheadline": "Ein Tag Wildnis",
+        "text": "Staffel  | Fr. 15.05.2020, 18:25 Uhr",
+        "type": "film",
+        "url": "/filme/ein-tag-wildnis-18164",
+        "videoId": 2273468
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

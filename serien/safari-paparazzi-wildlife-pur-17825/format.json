@@ -1,0 +1,194 @@
+﻿{
+  "formatId": 17825,
+  "additionalMeta": {
+    "canonical": "/serien/safari-paparazzi-wildlife-pur-17825",
+    "url": "/serien/safari-paparazzi-wildlife-pur-17825"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Safari-Paparazzi - Wildlife pur",
+      "url": "/serien/safari-paparazzi-wildlife-pur-17825"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 17825,
+  "meta": [
+    {
+      "content": "Die Serie Safari-Paparazzi - Wildlife pur (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Safari-Paparazzi - Wildlife pur im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Safari-Paparazzi - Wildlife pur (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/17825",
+      "type": "teaserrow"
+    },
+    {
+      "id": 17825,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/17825",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnsafaripaparazzi",
+      "video": "dvrsowf_ten_nnsafaripaparazzi",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/safari_paparazzi/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "safari_paparazzi",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Safari-Paparazzi - Wildlife pur - Informationen zur Serie",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "https://www.tvnow.de/serien/safari-paparazzi-wildlife-pur-17825",
+        "url": "https://www.tvnow.de/serien/safari-paparazzi-wildlife-pur-17825",
+        "name": "Safari-Paparazzi - Wildlife pur",
+        "description": "Die Serie Safari-Paparazzi - Wildlife pur (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/17825_04metalogo/1200x0/safari-paparazzi-wildlife-pur.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Safari-Paparazzi - Wildlife pur - Informationen zur Serie",
+        "headline": "Safari-Paparazzi - Wildlife pur - Informationen zur Serie",
+        "description": "Die Serie Safari-Paparazzi - Wildlife pur (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei TVNOW anschauen.",
+        "url": "https://www.tvnow.de/serien/safari-paparazzi-wildlife-pur-17825",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/17825_04metalogo/1200x0/safari-paparazzi-wildlife-pur.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/17825_04metalogo/1200x0/safari-paparazzi-wildlife-pur.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/17825_04metalogo/1200x0/safari-paparazzi-wildlife-pur.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "https://www.tvnow.de/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Safari-Paparazzi - Wildlife pur",
+            "item": "https://www.tvnow.de/serien/safari-paparazzi-wildlife-pur-17825"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Safari-Paparazzi - Wildlife pur im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

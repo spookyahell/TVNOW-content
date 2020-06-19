@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13163",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13163,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-con-artist-13163"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Con Artist",
+          "teaserId": "film_336392",
+          "teaserName": "The Con Artist | The Con Artist",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Con Artist",
+        "id": 336392,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336392/300x0/the-con-artist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336392/",
+            "filename": "the-con-artist"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336392/600x0/the-con-artist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336392/",
+            "filename": "the-con-artist"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336392/1200x0/the-con-artist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336392/",
+            "filename": "the-con-artist"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336392/300x0/the-con-artist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336392/",
+            "filename": "the-con-artist"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336392/600x0/the-con-artist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336392/",
+            "filename": "the-con-artist"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336392/1200x0/the-con-artist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336392/",
+            "filename": "the-con-artist"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-con-artist",
+        "subheadline": "The Con Artist",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-con-artist-13163",
+        "videoId": 336392
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

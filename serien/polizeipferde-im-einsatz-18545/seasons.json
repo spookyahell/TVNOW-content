@@ -1,0 +1,109 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 95"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18545",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18545,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/serien/polizeipferde-im-einsatz-18545/staffel-95/episode-1-pilot-3098943"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Polizeipferde im Einsatz",
+          "teaserId": "serie_episode_3098943",
+          "teaserName": "Polizeipferde im Einsatz | Staffel 95 | Folge 1 | Pilot",
+          "teaserPayType": "paid",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Reportage",
+          "cluster": [
+            "Tiere"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 95",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Sa. 11.04.2020, 19:10 Uhr",
+          "teaserEpisodeName": "Pilot"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Pilot",
+        "id": 3098943,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3098943/300x0/pilot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3098943/",
+            "filename": "pilot"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3098943/600x0/pilot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3098943/",
+            "filename": "pilot"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3098943/1200x0/pilot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3098943/",
+            "filename": "pilot"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3098943/300x0/pilot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3098943/",
+            "filename": "pilot"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3098943/600x0/pilot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3098943/",
+            "filename": "pilot"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3098943/1200x0/pilot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3098943/",
+            "filename": "pilot"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "polizeipferde-im-einsatz",
+        "subheadline": "Pilot",
+        "text": "Staffel 95, Folge 1 | Sa. 11.04.2020, 19:10 Uhr",
+        "type": "serie",
+        "url": "/serien/polizeipferde-im-einsatz-18545/staffel-95/episode-1-pilot-3098943",
+        "videoId": 3098943
+      }
+    ],
+    "format_navigation": {
+      "season": 95
+    },
+    "navigationType": "season"
+  }
+]

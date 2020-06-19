@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/1275",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 1275,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mann-bleibt-mann-2010-09-10-22-15-00-1275"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mann bleibt Mann",
+          "teaserId": "film_248490",
+          "teaserName": "Mann bleibt Mann | Mann bleibt Mann",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Fr. 10.09.2010, 22:15 Uhr",
+          "teaserEpisodeName": "Mann bleibt Mann"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mann bleibt Mann",
+        "id": 248490,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/248490/300x0/mann-bleibt-mann-2010-09-10-22-15-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/248490/",
+            "filename": "mann-bleibt-mann-2010-09-10-22-15-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/248490/600x0/mann-bleibt-mann-2010-09-10-22-15-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/248490/",
+            "filename": "mann-bleibt-mann-2010-09-10-22-15-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/248490/1200x0/mann-bleibt-mann-2010-09-10-22-15-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/248490/",
+            "filename": "mann-bleibt-mann-2010-09-10-22-15-00"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/248490/300x0/mann-bleibt-mann-2010-09-10-22-15-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/248490/",
+            "filename": "mann-bleibt-mann-2010-09-10-22-15-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/248490/600x0/mann-bleibt-mann-2010-09-10-22-15-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/248490/",
+            "filename": "mann-bleibt-mann-2010-09-10-22-15-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/248490/1200x0/mann-bleibt-mann-2010-09-10-22-15-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/248490/",
+            "filename": "mann-bleibt-mann-2010-09-10-22-15-00"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mann-bleibt-mann",
+        "subheadline": "Mann bleibt Mann",
+        "text": "Staffel 1, Folge 1 | Fr. 10.09.2010, 22:15 Uhr",
+        "type": "film",
+        "url": "/filme/mann-bleibt-mann-2010-09-10-22-15-00-1275",
+        "videoId": 248490
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

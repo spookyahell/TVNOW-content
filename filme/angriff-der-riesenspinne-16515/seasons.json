@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16515",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16515,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/angriff-der-riesenspinne-16515"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Angriff der Riesenspinne",
+          "teaserId": "film_1209208",
+          "teaserName": "Angriff der Riesenspinne | ANGRIFF DER RIESENSPINNE",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "ANGRIFF DER RIESENSPINNE",
+        "id": 1209208,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1209208/300x0/angriff-der-riesenspinne.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1209208/",
+            "filename": "angriff-der-riesenspinne"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1209208/600x0/angriff-der-riesenspinne.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1209208/",
+            "filename": "angriff-der-riesenspinne"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1209208/1200x0/angriff-der-riesenspinne.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1209208/",
+            "filename": "angriff-der-riesenspinne"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1209208/300x0/angriff-der-riesenspinne.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1209208/",
+            "filename": "angriff-der-riesenspinne"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1209208/600x0/angriff-der-riesenspinne.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1209208/",
+            "filename": "angriff-der-riesenspinne"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1209208/1200x0/angriff-der-riesenspinne.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1209208/",
+            "filename": "angriff-der-riesenspinne"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "angriff-der-riesenspinne",
+        "subheadline": "ANGRIFF DER RIESENSPINNE",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/angriff-der-riesenspinne-16515",
+        "videoId": 1209208
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

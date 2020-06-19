@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 16239,
+  "additionalMeta": {
+    "canonical": "/filme/madre-der-alptraum-beginnt-16239",
+    "url": "/filme/madre-der-alptraum-beginnt-16239"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Madre - Der Alptraum beginnt",
+      "url": "/filme/madre-der-alptraum-beginnt-16239"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 16239,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Madre - Der Alptraum beginnt 📺 und viele weitere ▶️ Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Madre - Der Albtraum beginnt, Film, TV NOW, Watchbox bei TV NOW, Albtraum, thriller, horror, independent, indie, mutter, kind, autistisch, sohn, baby",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Madre - Der Alptraum beginnt im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Madre - Der Alptraum beginnt 📺 und viele weitere ▶️ Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 919338,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/919338",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/16239"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_thriller/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_thriller",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Thriller",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Madre - Der Alptraum beginnt",
+    "text": "Bei TV NOW kannst Du den Film Madre - Der Alptraum beginnt und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/madre-der-alptraum-beginnt-16239",
+        "@type": "Movie",
+        "description": "Diana Prieto (Daniela Ramírez) ist schwanger und kümmert sich um ihren autistischen Sohn Martin (Matías Bassi). Da ihr Mann Tomás (Cristobal Tapia Montt) seit längerer Zeit in Asien arbeitet, hat sie niemanden, der ihr hilft. Deshalb stellt die Familie Luz (Aida), eine philippinische Pflegekraft, ein. Martin entwickelt sich unter Luz' Aufsicht gut, sie bringt ihm ihre Sprache bei und schafft es, dass Martin sich öffnet. Doch seine Mutter Diana vermutet, dass Luz ihren Sohn gegen sie aufbringen will und richtet sich verzweifelt gegen die Pflegehilfe.",
+        "duration": "PT1H31M19S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/919338/950x0/madre-der-alptraum-beginnt.jpg",
+        "name": "Madre - Der Alptraum beginnt",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/madre-der-alptraum-beginnt-16239",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2018-08-01T06:02:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/madre-der-alptraum-beginnt-16239",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Diana Prieto (Daniela Ramírez) ist schwanger und kümmert sich um ihren autistischen Sohn Martin (Matías Bassi). Da ihr Mann Tomás (Cristobal Tapia Montt) seit längerer Zeit in Asien arbeitet, hat sie niemanden, der ihr hilft. Deshalb stellt die Familie Luz (Aida), eine philippinische Pflegekraft, ein. Martin entwickelt sich unter Luz' Aufsicht gut, sie bringt ihm ihre Sprache bei und schafft es, dass Martin sich öffnet. Doch seine Mutter Diana vermutet, dass Luz ihren Sohn gegen sie aufbringen will und richtet sich verzweifelt gegen die Pflegehilfe.",
+          "duration": "PT1H31M19S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/madre-der-alptraum-beginnt-16239",
+          "name": "Madre - Der Alptraum beginnt",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/919338/950x0/madre-der-alptraum-beginnt.jpg",
+          "uploadDate": "2018-08-01T06:02:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Madre - Der Alptraum beginnt im Online Stream | TVNOW",
+        "headline": "Madre - Der Alptraum beginnt im Online Stream | TVNOW",
+        "description": "Madre - Der Alptraum beginnt und viele weitere  ▶️Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW. Ein Film mit ▶️Daniela Ramírez, Cristobal Tapia Montt, Aida Jabolin, Matías Bassi.",
+        "url": "https://www.tvnow.de/filme/madre-der-alptraum-beginnt-16239",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/919338/950x0/madre-der-alptraum-beginnt.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/919338/950x0/madre-der-alptraum-beginnt.jpg",
+        "datePublished": "2018-08-01T06:02:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/919338/950x0/madre-der-alptraum-beginnt.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Madre - Der Alptraum beginnt",
+            "item": "https://www.tvnow.de/filme/madre-der-alptraum-beginnt-16239"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Madre - Der Alptraum beginnt im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

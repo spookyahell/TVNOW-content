@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14361",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14361,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/triggermen-14361"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Triggermen",
+          "teaserId": "film_343668",
+          "teaserName": "Triggermen | Triggermen",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Triggermen",
+        "id": 343668,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343668/300x0/triggermen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343668/",
+            "filename": "triggermen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343668/600x0/triggermen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343668/",
+            "filename": "triggermen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343668/1200x0/triggermen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343668/",
+            "filename": "triggermen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343668/300x0/triggermen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343668/",
+            "filename": "triggermen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343668/600x0/triggermen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343668/",
+            "filename": "triggermen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343668/1200x0/triggermen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343668/",
+            "filename": "triggermen"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "triggermen",
+        "subheadline": "Triggermen",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/triggermen-14361",
+        "videoId": 343668
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

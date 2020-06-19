@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 18248,
+  "additionalMeta": {
+    "canonical": "/filme/zwei-loewen-auf-reise-18248",
+    "url": "/filme/zwei-loewen-auf-reise-18248"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Zwei Löwen auf Reise",
+      "url": "/filme/zwei-loewen-auf-reise-18248"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18248,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Zwei Löwen auf Reise 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Zwei Löwen auf Reise im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Zwei Löwen auf Reise 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 2653194,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/2653194",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18248"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Tiere"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Zwei Löwen auf Reisen - Heimkehr nach Afrika",
+    "text": "Knochenschwund, Unterernährung und Entzündungen - spanische Tierschützer sind erschüttert, als sie auf das Schicksal der verwahrlosten Löwenbabys Yame und George aufmerksam werden. Denn bis zu ihrer Rettung wurden die Jungtiere in einem Vergnügungspark als Touristenattraktion missbraucht. Nun soll ihnen der \"Löwenflüsterer\" Kevin Richardson dabei helfen, ein neues Zuhause in Südafrika zu finden.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/zwei-loewen-auf-reisen-heimkehr-nach-afrika-18248",
+        "@type": "Movie",
+        "description": "Knochenschwund, Unterernährung und Entzündungen - spanische Tierschützer sind erschüttert, als sie auf das Schicksal der verwahrlosten Löwenbabys Yame und George aufmerksam werden. Denn bis zu ihrer Rettung wurden die Jungtiere in einem Vergnügungspark als Touristenattraktion missbraucht. Nun soll ihnen der \"Löwenflüsterer\" Kevin Richardson dabei helfen, ein neues Zuhause in Südafrika zu finden.",
+        "duration": "PT52M4S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/2653194/950x0/zwei-loewen-auf-reise.jpg",
+        "name": "Zwei Löwen auf Reise",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/zwei-loewen-auf-reisen-heimkehr-nach-afrika-18248",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-02-11T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=zwei-loewen-auf-reise-18248",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=zwei-loewen-auf-reise-18248",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/zwei-loewen-auf-reisen-heimkehr-nach-afrika-18248",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Knochenschwund, Unterernährung und Entzündungen - spanische Tierschützer sind erschüttert, als sie auf das Schicksal der verwahrlosten Löwenbabys Yame und George aufmerksam werden. Denn bis zu ihrer Rettung wurden die Jungtiere in einem Vergnügungspark als Touristenattraktion missbraucht. Nun soll ihnen der \"Löwenflüsterer\" Kevin Richardson dabei helfen, ein neues Zuhause in Südafrika zu finden.",
+          "duration": "PT52M4S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/zwei-loewen-auf-reisen-heimkehr-nach-afrika-18248",
+          "name": "Zwei Löwen auf Reise",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2653194/950x0/zwei-loewen-auf-reise.jpg",
+          "uploadDate": "2020-02-11T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Zwei Löwen auf Reise im Online Stream | TVNOW",
+        "headline": "Zwei Löwen auf Reise im Online Stream | TVNOW",
+        "description": "Zwei Löwen auf Reise und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/zwei-loewen-auf-reisen-heimkehr-nach-afrika-18248",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/2653194/950x0/zwei-loewen-auf-reise.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2653194/950x0/zwei-loewen-auf-reise.jpg",
+        "datePublished": "2020-02-11T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/2653194/950x0/zwei-loewen-auf-reise.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Zwei Löwen auf Reise",
+            "item": "https://www.tvnow.de/filme/zwei-loewen-auf-reise-18248"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Zwei Löwen auf Reise im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

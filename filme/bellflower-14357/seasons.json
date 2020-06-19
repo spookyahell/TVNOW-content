@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14357",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14357,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/bellflower-14357"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Bellflower",
+          "teaserId": "film_343664",
+          "teaserName": "Bellflower | Bellflower",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Bellflower",
+        "id": 343664,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343664/300x0/bellflower.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343664/",
+            "filename": "bellflower"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343664/600x0/bellflower.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343664/",
+            "filename": "bellflower"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343664/1200x0/bellflower.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343664/",
+            "filename": "bellflower"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343664/300x0/bellflower.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343664/",
+            "filename": "bellflower"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343664/600x0/bellflower.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343664/",
+            "filename": "bellflower"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343664/1200x0/bellflower.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343664/",
+            "filename": "bellflower"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "bellflower",
+        "subheadline": "Bellflower",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/bellflower-14357",
+        "videoId": 343664
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

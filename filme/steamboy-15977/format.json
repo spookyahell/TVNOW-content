@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 15977,
+  "additionalMeta": {
+    "canonical": "/filme/steamboy-15977",
+    "url": "/filme/steamboy-15977"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Steamboy",
+      "url": "/filme/steamboy-15977"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 15977,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Steamboy 📺 und viele weitere ▶️ Filme aus dem Genre Anime findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Steamboy, Film, TV NOW, Watchbox bei TV NOW, Anime, Action, Abenteuer, Erfinder, Junge, Familie, Konstruktion, Welt, Metallkugel, Energie",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Steamboy im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Steamboy 📺 und viele weitere ▶️ Filme aus dem Genre Anime findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 426194,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/426194",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/15977"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_anime/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_anime",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Anime",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Steamboy",
+    "text": "Bei TV NOW kannst Du den Film Steamboy und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/steamboy-15977",
+        "@type": "Movie",
+        "description": "STEAMBOY erzählt die Geschichte eines außergewöhnlich begabten jungen Erfinders namens Ray Steam, der eine geheimnisvolle Metallkugel bekommt, die eine neue Energieform gespeichert hat, die für eine ganze Nation ausreicht. Der Junge muss diese Kugel einsetzen, um das Böse zu bekämpfen, den Namen seiner Familie reinzuwaschen und London vor der drohenden Zerstörung zu bewahren. Die opulenten viktorianischen Inneneinrichtungen und die Eleganz der mechanischen Konstruktionen der damaligen Ära zeigt Ôtomos Film in atemberaubend detailgetreu gestalteten Hintergründen. Mit über 180.000 Zeichnungen und 400 CG-Schnitten ist STEAMBOY einer der aufwändigsten Anime-Filme, der je die Leinwand zum Leben erweckt hat!",
+        "duration": "PT2H1M16S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/426194/950x0/steamboy.jpg",
+        "name": "Steamboy",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/steamboy-15977",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2018-04-17T07:32:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/steamboy-15977",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "STEAMBOY erzählt die Geschichte eines außergewöhnlich begabten jungen Erfinders namens Ray Steam, der eine geheimnisvolle Metallkugel bekommt, die eine neue Energieform gespeichert hat, die für eine ganze Nation ausreicht. Der Junge muss diese Kugel einsetzen, um das Böse zu bekämpfen, den Namen seiner Familie reinzuwaschen und London vor der drohenden Zerstörung zu bewahren. Die opulenten viktorianischen Inneneinrichtungen und die Eleganz der mechanischen Konstruktionen der damaligen Ära zeigt Ôtomos Film in atemberaubend detailgetreu gestalteten Hintergründen. Mit über 180.000 Zeichnungen und 400 CG-Schnitten ist STEAMBOY einer der aufwändigsten Anime-Filme, der je die Leinwand zum Leben erweckt hat!",
+          "duration": "PT2H1M16S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/steamboy-15977",
+          "name": "Steamboy",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/426194/950x0/steamboy.jpg",
+          "uploadDate": "2018-04-17T07:32:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Steamboy im Online Stream | TVNOW",
+        "headline": "Steamboy im Online Stream | TVNOW",
+        "description": "Steamboy und viele weitere  ▶️Filme aus dem Genre Anime findest du im Online Stream bei TVNOW. Ein Film mit ▶️Tim Schwarzmaier, Christian Tramitz, Thomas Fritsch, Gabriele Pietermann.",
+        "url": "https://www.tvnow.de/filme/steamboy-15977",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/426194/950x0/steamboy.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/426194/950x0/steamboy.jpg",
+        "datePublished": "2018-04-17T07:32:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/426194/950x0/steamboy.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Steamboy",
+            "item": "https://www.tvnow.de/filme/steamboy-15977"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Steamboy im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14619",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14619,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/pakt-der-bestien-14619"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Pakt der Bestien",
+          "teaserId": "film_344754",
+          "teaserName": "Pakt der Bestien | Pakt der Bestien",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Pakt der Bestien",
+        "id": 344754,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344754/300x0/pakt-der-bestien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344754/",
+            "filename": "pakt-der-bestien"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344754/600x0/pakt-der-bestien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344754/",
+            "filename": "pakt-der-bestien"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344754/1200x0/pakt-der-bestien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344754/",
+            "filename": "pakt-der-bestien"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344754/300x0/pakt-der-bestien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344754/",
+            "filename": "pakt-der-bestien"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344754/600x0/pakt-der-bestien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344754/",
+            "filename": "pakt-der-bestien"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344754/1200x0/pakt-der-bestien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344754/",
+            "filename": "pakt-der-bestien"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "pakt-der-bestien",
+        "subheadline": "Pakt der Bestien",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/pakt-der-bestien-14619",
+        "videoId": 344754
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

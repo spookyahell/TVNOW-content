@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14343",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14343,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-borgias-14343"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Borgias",
+          "teaserId": "film_343666",
+          "teaserName": "The Borgias | The Borgias",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Borgias",
+        "id": 343666,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343666/300x0/the-borgias.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343666/",
+            "filename": "the-borgias"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343666/600x0/the-borgias.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343666/",
+            "filename": "the-borgias"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343666/1200x0/the-borgias.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343666/",
+            "filename": "the-borgias"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343666/300x0/the-borgias.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343666/",
+            "filename": "the-borgias"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343666/600x0/the-borgias.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343666/",
+            "filename": "the-borgias"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343666/1200x0/the-borgias.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343666/",
+            "filename": "the-borgias"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-borgias",
+        "subheadline": "The Borgias",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-borgias-14343",
+        "videoId": 343666
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

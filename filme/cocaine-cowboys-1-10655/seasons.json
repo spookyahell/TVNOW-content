@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/10655",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 10655,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/cocaine-cowboys-10655"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Cocaine Cowboys",
+          "teaserId": "film_3122576",
+          "teaserName": "Cocaine Cowboys | Cocaine Cowboys",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "True Crime"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Cocaine Cowboys",
+        "id": 3122576,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3122576/300x0/cocaine-cowboys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3122576/",
+            "filename": "cocaine-cowboys"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3122576/600x0/cocaine-cowboys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3122576/",
+            "filename": "cocaine-cowboys"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3122576/1200x0/cocaine-cowboys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3122576/",
+            "filename": "cocaine-cowboys"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3122576/300x0/cocaine-cowboys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3122576/",
+            "filename": "cocaine-cowboys"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3122576/600x0/cocaine-cowboys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3122576/",
+            "filename": "cocaine-cowboys"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3122576/1200x0/cocaine-cowboys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3122576/",
+            "filename": "cocaine-cowboys"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "cocaine-cowboys-1",
+        "subheadline": "Cocaine Cowboys",
+        "text": "Staffel  | So. 03.05.2020, 21:00 Uhr",
+        "type": "film",
+        "url": "/filme/cocaine-cowboys-10655",
+        "videoId": 3122576
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

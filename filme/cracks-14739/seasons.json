@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14739",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14739,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/cracks-14739"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Cracks",
+          "teaserId": "film_346128",
+          "teaserName": "Cracks | Cracks",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Cracks",
+        "id": 346128,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346128/300x0/cracks.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346128/",
+            "filename": "cracks"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346128/600x0/cracks.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346128/",
+            "filename": "cracks"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346128/1200x0/cracks.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346128/",
+            "filename": "cracks"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346128/300x0/cracks.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346128/",
+            "filename": "cracks"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346128/600x0/cracks.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346128/",
+            "filename": "cracks"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346128/1200x0/cracks.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346128/",
+            "filename": "cracks"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "cracks",
+        "subheadline": "Cracks",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/cracks-14739",
+        "videoId": 346128
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

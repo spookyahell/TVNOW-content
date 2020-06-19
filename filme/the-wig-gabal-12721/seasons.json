@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12721",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12721,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-wig-gabal-12721"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Wig - Gabal",
+          "teaserId": "film_333032",
+          "teaserName": "The Wig - Gabal | The Wig - Gabal",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Wig - Gabal",
+        "id": 333032,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333032/300x0/the-wig-gabal.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333032/",
+            "filename": "the-wig-gabal"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333032/600x0/the-wig-gabal.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333032/",
+            "filename": "the-wig-gabal"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333032/1200x0/the-wig-gabal.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333032/",
+            "filename": "the-wig-gabal"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333032/300x0/the-wig-gabal.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333032/",
+            "filename": "the-wig-gabal"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333032/600x0/the-wig-gabal.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333032/",
+            "filename": "the-wig-gabal"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333032/1200x0/the-wig-gabal.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333032/",
+            "filename": "the-wig-gabal"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-wig-gabal",
+        "subheadline": "The Wig - Gabal",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-wig-gabal-12721",
+        "videoId": 333032
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

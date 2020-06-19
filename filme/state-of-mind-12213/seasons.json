@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12213",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12213,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/state-of-mind-12213"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "State of Mind",
+          "teaserId": "film_328632",
+          "teaserName": "State of Mind | State of Mind",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "State of Mind",
+        "id": 328632,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/328632/300x0/state-of-mind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/328632/",
+            "filename": "state-of-mind"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/328632/600x0/state-of-mind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/328632/",
+            "filename": "state-of-mind"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/328632/1200x0/state-of-mind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/328632/",
+            "filename": "state-of-mind"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/328632/300x0/state-of-mind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/328632/",
+            "filename": "state-of-mind"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/328632/600x0/state-of-mind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/328632/",
+            "filename": "state-of-mind"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/328632/1200x0/state-of-mind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/328632/",
+            "filename": "state-of-mind"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "state-of-mind",
+        "subheadline": "State of Mind",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/state-of-mind-12213",
+        "videoId": 328632
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

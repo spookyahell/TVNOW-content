@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15083",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15083,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-graue-armee-15083"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Graue Armee",
+          "teaserId": "film_355624",
+          "teaserName": "Die Graue Armee | Die Graue Armee",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Western",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Graue Armee",
+        "id": 355624,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355624/300x0/die-graue-armee.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355624/",
+            "filename": "die-graue-armee"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355624/600x0/die-graue-armee.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355624/",
+            "filename": "die-graue-armee"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355624/1200x0/die-graue-armee.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355624/",
+            "filename": "die-graue-armee"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355624/300x0/die-graue-armee.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355624/",
+            "filename": "die-graue-armee"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355624/600x0/die-graue-armee.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355624/",
+            "filename": "die-graue-armee"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355624/1200x0/die-graue-armee.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355624/",
+            "filename": "die-graue-armee"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-graue-armee",
+        "subheadline": "Die Graue Armee",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/die-graue-armee-15083",
+        "videoId": 355624
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

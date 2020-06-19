@@ -1,0 +1,106 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17957",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17957,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/oasis-supersonic-17957"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Oasis: Supersonic",
+          "teaserId": "film_1729544",
+          "teaserName": "Oasis: Supersonic | Oasis: Supersonic",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Promis",
+            "Biographie"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Oasis: Supersonic",
+        "id": 1729544,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1729544/300x0/oasis-supersonic.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1729544/",
+            "filename": "oasis-supersonic"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1729544/600x0/oasis-supersonic.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1729544/",
+            "filename": "oasis-supersonic"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1729544/1200x0/oasis-supersonic.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1729544/",
+            "filename": "oasis-supersonic"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1729544/300x0/oasis-supersonic.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1729544/",
+            "filename": "oasis-supersonic"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1729544/600x0/oasis-supersonic.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1729544/",
+            "filename": "oasis-supersonic"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1729544/1200x0/oasis-supersonic.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1729544/",
+            "filename": "oasis-supersonic"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "oasis-supersonic",
+        "subheadline": "Oasis: Supersonic",
+        "text": "Staffel  | So. 14.06.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/oasis-supersonic-17957",
+        "videoId": 1729544
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12711",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12711,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/big-bad-wolf-12711"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Big Bad Wolf",
+          "teaserId": "film_333036",
+          "teaserName": "Big Bad Wolf | Big Bad Wolf",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Big Bad Wolf",
+        "id": 333036,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333036/300x0/big-bad-wolf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333036/",
+            "filename": "big-bad-wolf"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333036/600x0/big-bad-wolf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333036/",
+            "filename": "big-bad-wolf"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333036/1200x0/big-bad-wolf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333036/",
+            "filename": "big-bad-wolf"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333036/300x0/big-bad-wolf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333036/",
+            "filename": "big-bad-wolf"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333036/600x0/big-bad-wolf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333036/",
+            "filename": "big-bad-wolf"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333036/1200x0/big-bad-wolf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333036/",
+            "filename": "big-bad-wolf"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "big-bad-wolf",
+        "subheadline": "Big Bad Wolf",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/big-bad-wolf-12711",
+        "videoId": 333036
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

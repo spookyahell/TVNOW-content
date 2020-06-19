@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17073",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17073,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/blutsbruder-17073"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Blutsbruder",
+          "teaserId": "film_674560",
+          "teaserName": "Blutsbruder | Blutsbruder",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Blutsbruder",
+        "id": 674560,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/674560/300x0/blutsbruder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/674560/",
+            "filename": "blutsbruder"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/674560/600x0/blutsbruder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/674560/",
+            "filename": "blutsbruder"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/674560/1200x0/blutsbruder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/674560/",
+            "filename": "blutsbruder"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/674560/300x0/blutsbruder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/674560/",
+            "filename": "blutsbruder"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/674560/600x0/blutsbruder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/674560/",
+            "filename": "blutsbruder"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/674560/1200x0/blutsbruder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/674560/",
+            "filename": "blutsbruder"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "blutsbruder",
+        "subheadline": "Blutsbruder",
+        "text": "Staffel  | Di. 26.05.2020, 22:50 Uhr",
+        "type": "film",
+        "url": "/filme/blutsbruder-17073",
+        "videoId": 674560
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

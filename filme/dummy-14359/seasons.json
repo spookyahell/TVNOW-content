@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14359",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14359,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/dummy-14359"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Dummy",
+          "teaserId": "film_343428",
+          "teaserName": "Dummy | Dummy",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Dummy",
+        "id": 343428,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343428/300x0/dummy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343428/",
+            "filename": "dummy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343428/600x0/dummy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343428/",
+            "filename": "dummy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343428/1200x0/dummy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343428/",
+            "filename": "dummy"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343428/300x0/dummy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343428/",
+            "filename": "dummy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343428/600x0/dummy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343428/",
+            "filename": "dummy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343428/1200x0/dummy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343428/",
+            "filename": "dummy"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "dummy",
+        "subheadline": "Dummy",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/dummy-14359",
+        "videoId": 343428
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13863",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13863,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/frankenstein-theory-13863"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Frankenstein Theory",
+          "teaserId": "film_338852",
+          "teaserName": "Frankenstein Theory | Frankenstein Theory",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Frankenstein Theory",
+        "id": 338852,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338852/300x0/frankenstein-theory.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338852/",
+            "filename": "frankenstein-theory"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338852/600x0/frankenstein-theory.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338852/",
+            "filename": "frankenstein-theory"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338852/1200x0/frankenstein-theory.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338852/",
+            "filename": "frankenstein-theory"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338852/300x0/frankenstein-theory.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338852/",
+            "filename": "frankenstein-theory"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338852/600x0/frankenstein-theory.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338852/",
+            "filename": "frankenstein-theory"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338852/1200x0/frankenstein-theory.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338852/",
+            "filename": "frankenstein-theory"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "frankenstein-theory",
+        "subheadline": "Frankenstein Theory",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/frankenstein-theory-13863",
+        "videoId": 338852
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13499",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13499,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/das-letzte-einhorn-kehrt-zurueck-13499"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das letzte Einhorn kehrt zurück",
+          "teaserId": "film_337546",
+          "teaserName": "Das letzte Einhorn kehrt zurück | Das letzte Einhorn kehrt zurück",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das letzte Einhorn kehrt zurück",
+        "id": 337546,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337546/300x0/das-letzte-einhorn-kehrt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337546/",
+            "filename": "das-letzte-einhorn-kehrt-zurueck"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337546/600x0/das-letzte-einhorn-kehrt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337546/",
+            "filename": "das-letzte-einhorn-kehrt-zurueck"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337546/1200x0/das-letzte-einhorn-kehrt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337546/",
+            "filename": "das-letzte-einhorn-kehrt-zurueck"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337546/300x0/das-letzte-einhorn-kehrt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337546/",
+            "filename": "das-letzte-einhorn-kehrt-zurueck"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337546/600x0/das-letzte-einhorn-kehrt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337546/",
+            "filename": "das-letzte-einhorn-kehrt-zurueck"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337546/1200x0/das-letzte-einhorn-kehrt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337546/",
+            "filename": "das-letzte-einhorn-kehrt-zurueck"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-letzte-einhorn-kehrt-zurueck",
+        "subheadline": "Das letzte Einhorn kehrt zurück",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/das-letzte-einhorn-kehrt-zurueck-13499",
+        "videoId": 337546
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

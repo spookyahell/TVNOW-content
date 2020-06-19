@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16127",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16127,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/three-night-stand-16127"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Three Night Stand",
+          "teaserId": "film_578504",
+          "teaserName": "Three Night Stand | Three Night Stand",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Three Night Stand",
+        "id": 578504,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/578504/300x0/three-night-stand.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/578504/",
+            "filename": "three-night-stand"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/578504/600x0/three-night-stand.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/578504/",
+            "filename": "three-night-stand"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/578504/1200x0/three-night-stand.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/578504/",
+            "filename": "three-night-stand"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/578504/300x0/three-night-stand.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/578504/",
+            "filename": "three-night-stand"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/578504/600x0/three-night-stand.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/578504/",
+            "filename": "three-night-stand"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/578504/1200x0/three-night-stand.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/578504/",
+            "filename": "three-night-stand"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "three-night-stand",
+        "subheadline": "Three Night Stand",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/three-night-stand-16127",
+        "videoId": 578504
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

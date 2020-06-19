@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17525",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17525,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-fall-abacus-17525"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Fall Abacus",
+          "teaserId": "film_1527137",
+          "teaserName": "Der Fall Abacus | Der Fall Abacus",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Fall Abacus",
+        "id": 1527137,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1527137/300x0/der-fall-abacus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1527137/",
+            "filename": "der-fall-abacus"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1527137/600x0/der-fall-abacus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1527137/",
+            "filename": "der-fall-abacus"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1527137/1200x0/der-fall-abacus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1527137/",
+            "filename": "der-fall-abacus"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1527137/300x0/der-fall-abacus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1527137/",
+            "filename": "der-fall-abacus"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1527137/600x0/der-fall-abacus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1527137/",
+            "filename": "der-fall-abacus"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1527137/1200x0/der-fall-abacus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1527137/",
+            "filename": "der-fall-abacus"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-fall-abacus",
+        "subheadline": "Der Fall Abacus",
+        "text": "Staffel  | Sa. 02.05.2020, 01:05 Uhr",
+        "type": "film",
+        "url": "/filme/der-fall-abacus-17525",
+        "videoId": 1527137
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

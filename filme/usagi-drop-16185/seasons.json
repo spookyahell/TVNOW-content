@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16185",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16185,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/usagi-drop-der-film-16185"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Usagi Drop - The Movie",
+          "teaserId": "film_828324",
+          "teaserName": "Usagi Drop - The Movie | Usagi Drop - Der Film",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Usagi Drop - Der Film",
+        "id": 828324,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/828324/300x0/usagi-drop-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/828324/",
+            "filename": "usagi-drop-der-film"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/828324/600x0/usagi-drop-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/828324/",
+            "filename": "usagi-drop-der-film"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/828324/1200x0/usagi-drop-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/828324/",
+            "filename": "usagi-drop-der-film"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/828324/300x0/usagi-drop-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/828324/",
+            "filename": "usagi-drop-der-film"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/828324/600x0/usagi-drop-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/828324/",
+            "filename": "usagi-drop-der-film"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/828324/1200x0/usagi-drop-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/828324/",
+            "filename": "usagi-drop-der-film"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "usagi-drop",
+        "subheadline": "Usagi Drop - Der Film",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/usagi-drop-der-film-16185",
+        "videoId": 828324
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

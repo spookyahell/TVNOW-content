@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15820",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15820,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/das-joshua-profil-15820"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Joshua-Profil",
+          "teaserId": "film_421180",
+          "teaserName": "Das Joshua-Profil | Das Joshua-Profil",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das Joshua-Profil",
+        "id": 421180,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/421180/300x0/das-joshua-profil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/421180/",
+            "filename": "das-joshua-profil"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/421180/600x0/das-joshua-profil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/421180/",
+            "filename": "das-joshua-profil"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/421180/1200x0/das-joshua-profil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/421180/",
+            "filename": "das-joshua-profil"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/421180/300x0/das-joshua-profil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/421180/",
+            "filename": "das-joshua-profil"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/421180/600x0/das-joshua-profil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/421180/",
+            "filename": "das-joshua-profil"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/421180/1200x0/das-joshua-profil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/421180/",
+            "filename": "das-joshua-profil"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-joshua-profil",
+        "subheadline": "Das Joshua-Profil",
+        "text": "Staffel  | Mo. 17.12.2018, 02:30 Uhr",
+        "type": "film",
+        "url": "/filme/das-joshua-profil-15820",
+        "videoId": 421180
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

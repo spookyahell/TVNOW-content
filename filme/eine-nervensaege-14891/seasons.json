@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14891",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14891,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/eine-nervensaege-14891"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Eine Nervensäge",
+          "teaserId": "film_352012",
+          "teaserName": "Eine Nervensäge | Eine Nervensäge",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Eine Nervensäge",
+        "id": 352012,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/352012/300x0/eine-nervensaege.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/352012/",
+            "filename": "eine-nervensaege"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/352012/600x0/eine-nervensaege.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/352012/",
+            "filename": "eine-nervensaege"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/352012/1200x0/eine-nervensaege.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/352012/",
+            "filename": "eine-nervensaege"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/352012/300x0/eine-nervensaege.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/352012/",
+            "filename": "eine-nervensaege"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/352012/600x0/eine-nervensaege.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/352012/",
+            "filename": "eine-nervensaege"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/352012/1200x0/eine-nervensaege.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/352012/",
+            "filename": "eine-nervensaege"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "eine-nervensaege",
+        "subheadline": "Eine Nervensäge",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/eine-nervensaege-14891",
+        "videoId": 352012
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

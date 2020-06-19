@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12877",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12877,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-nun-12877"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Nun",
+          "teaserId": "film_334680",
+          "teaserName": "The Nun | The Nun",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Nun",
+        "id": 334680,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334680/300x0/the-nun.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334680/",
+            "filename": "the-nun"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334680/600x0/the-nun.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334680/",
+            "filename": "the-nun"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334680/1200x0/the-nun.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334680/",
+            "filename": "the-nun"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334680/300x0/the-nun.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334680/",
+            "filename": "the-nun"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334680/600x0/the-nun.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334680/",
+            "filename": "the-nun"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334680/1200x0/the-nun.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334680/",
+            "filename": "the-nun"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-nun",
+        "subheadline": "The Nun",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-nun-12877",
+        "videoId": 334680
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

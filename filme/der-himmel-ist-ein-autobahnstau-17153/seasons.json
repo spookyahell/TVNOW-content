@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17153",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17153,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-himmel-ist-ein-autobahnstau-17153"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Himmel ist ein Autobahnstau",
+          "teaserId": "film_1337223",
+          "teaserName": "Der Himmel ist ein Autobahnstau | Der Himmel ist ein Autobahnstau",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Himmel ist ein Autobahnstau",
+        "id": 1337223,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1337223/300x0/der-himmel-ist-ein-autobahnstau.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1337223/",
+            "filename": "der-himmel-ist-ein-autobahnstau"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1337223/600x0/der-himmel-ist-ein-autobahnstau.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1337223/",
+            "filename": "der-himmel-ist-ein-autobahnstau"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1337223/1200x0/der-himmel-ist-ein-autobahnstau.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1337223/",
+            "filename": "der-himmel-ist-ein-autobahnstau"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1337223/300x0/der-himmel-ist-ein-autobahnstau.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1337223/",
+            "filename": "der-himmel-ist-ein-autobahnstau"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1337223/600x0/der-himmel-ist-ein-autobahnstau.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1337223/",
+            "filename": "der-himmel-ist-ein-autobahnstau"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1337223/1200x0/der-himmel-ist-ein-autobahnstau.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1337223/",
+            "filename": "der-himmel-ist-ein-autobahnstau"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-himmel-ist-ein-autobahnstau",
+        "subheadline": "Der Himmel ist ein Autobahnstau",
+        "text": "Staffel  | Mo. 13.01.2020, 02:05 Uhr",
+        "type": "film",
+        "url": "/filme/der-himmel-ist-ein-autobahnstau-17153",
+        "videoId": 1337223
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

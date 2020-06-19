@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12731",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12731,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/chain-letter-12731"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Chain Letter",
+          "teaserId": "film_333620",
+          "teaserName": "Chain Letter | Chain Letter",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Chain Letter",
+        "id": 333620,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333620/300x0/chain-letter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333620/",
+            "filename": "chain-letter"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333620/600x0/chain-letter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333620/",
+            "filename": "chain-letter"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333620/1200x0/chain-letter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333620/",
+            "filename": "chain-letter"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333620/300x0/chain-letter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333620/",
+            "filename": "chain-letter"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333620/600x0/chain-letter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333620/",
+            "filename": "chain-letter"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333620/1200x0/chain-letter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333620/",
+            "filename": "chain-letter"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "chain-letter",
+        "subheadline": "Chain Letter",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/chain-letter-12731",
+        "videoId": 333620
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

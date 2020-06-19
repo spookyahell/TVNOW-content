@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12489",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12489,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/elysium-12489"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Elysium",
+          "teaserId": "film_332070",
+          "teaserName": "Elysium | Elysium",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Anime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Elysium",
+        "id": 332070,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332070/300x0/elysium.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332070/",
+            "filename": "elysium"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332070/600x0/elysium.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332070/",
+            "filename": "elysium"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332070/1200x0/elysium.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332070/",
+            "filename": "elysium"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332070/300x0/elysium.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332070/",
+            "filename": "elysium"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332070/600x0/elysium.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332070/",
+            "filename": "elysium"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332070/1200x0/elysium.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332070/",
+            "filename": "elysium"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "elysium-sci-fi-anime-film",
+        "subheadline": "Elysium",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/elysium-12489",
+        "videoId": 332070
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

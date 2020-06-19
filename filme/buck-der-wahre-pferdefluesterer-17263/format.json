@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 17263,
+  "additionalMeta": {
+    "canonical": "/filme/buck-der-wahre-pferdefluesterer-17263",
+    "url": "/filme/buck-der-wahre-pferdefluesterer-17263"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Buck - Der wahre Pferdeflüsterer",
+      "url": "/filme/buck-der-wahre-pferdefluesterer-17263"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17263,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Buck - Der wahre Pferdeflüsterer 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Buck - Der wahre Pferdeflüsterer im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Buck - Der wahre Pferdeflüsterer 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 358626,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/358626",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17263"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zur Serie: Buck - Der wahre Pferdeflüsterer",
+    "text": "Buck - Der wahre Pferdeflüsterer und viele weitere Serien kannst Du gemütlich online bei TVNOW im Stream anschauen. Also nichts wie los – hole das Knabberzeug raus und genieße Deine Serie ganz entspannt von unterwegs oder von zu Hause aus mit Freunden.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/buck-der-wahre-pferdefluesterer-17263",
+        "@type": "Movie",
+        "description": "Was auf den ersten Blick lediglich wie ein Film über Pferde erscheint, ist vielmehr eine sehr beeindruckende Metapher für das Leben an sich. Mehr als zwei Jahre begleitete die Filmemacherin Cindy Meehl den \"natural horseman\" Buck Brannaman quer durch die USA und Europa. Entstanden ist dabei ein naturgewaltiger Film und das sensible Porträt eines Menschen, der mit einer ganz besonderen Gabe gesegnet ist: Buck Brannaman ist Pferdeflüsterer, und während alljährlich unzählige Menschen zu ihm kommen und hoffen, dass er die Probleme ihrer Pferde löst, stehen sie auf einmal selbst im Mittelpunkt und müssen sich ihrem eigenen Leben stellen. Denn Buck Brannaman weiß nicht nur bei den Tieren eine große Verwandlung herbeizuführen, er lehrt vor allem den Menschen, dass \"ihr Pferd der Spiegel ihrer Seele ist und sie manchmal nicht mögen werden, was sie sehen.\"\nDer Film geht diesem Phänomen auf den Grund und zeigt, wie aus dem einst von seinem Vater schwer misshandelten Kind ein Mann geworden ist, der sein Leben trotz Zurückweisungen, Angst und Einschüchterung auf Vertrauen, Toleranz und Empathie stützt.\nSo dokumentiert der Film nicht nur Bucks fast schon magisch anmutende Arbeit mit den Tieren, er spiegelt in Rückblicken auch den weiten Weg wider, den er selbst zurücklegen musste. Dabei zeigt er eindrucksvoll, dass \"Natural Horsemanship\" kein mystischer Hype ist, sondern eine von starken Persönlichkeiten geprägte Einstellung zum Umgang mit Pferden und zum Leben selbst.",
+        "duration": "PT1H25M12S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/358626/950x0/buck-der-wahre-pferdefluesterer.jpg",
+        "name": "Buck - Der wahre Pferdeflüsterer",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/buck-der-wahre-pferdefluesterer-17263",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2019-07-20T00:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=buck-der-wahre-pferdefluesterer-17263",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=buck-der-wahre-pferdefluesterer-17263",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/buck-der-wahre-pferdefluesterer-17263",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Was auf den ersten Blick lediglich wie ein Film über Pferde erscheint, ist vielmehr eine sehr beeindruckende Metapher für das Leben an sich. Mehr als zwei Jahre begleitete die Filmemacherin Cindy Meehl den \"natural horseman\" Buck Brannaman quer durch die USA und Europa. Entstanden ist dabei ein naturgewaltiger Film und das sensible Porträt eines Menschen, der mit einer ganz besonderen Gabe gesegnet ist: Buck Brannaman ist Pferdeflüsterer, und während alljährlich unzählige Menschen zu ihm kommen und hoffen, dass er die Probleme ihrer Pferde löst, stehen sie auf einmal selbst im Mittelpunkt und müssen sich ihrem eigenen Leben stellen. Denn Buck Brannaman weiß nicht nur bei den Tieren eine große Verwandlung herbeizuführen, er lehrt vor allem den Menschen, dass \"ihr Pferd der Spiegel ihrer Seele ist und sie manchmal nicht mögen werden, was sie sehen.\"\nDer Film geht diesem Phänomen auf den Grund und zeigt, wie aus dem einst von seinem Vater schwer misshandelten Kind ein Mann geworden ist, der sein Leben trotz Zurückweisungen, Angst und Einschüchterung auf Vertrauen, Toleranz und Empathie stützt.\nSo dokumentiert der Film nicht nur Bucks fast schon magisch anmutende Arbeit mit den Tieren, er spiegelt in Rückblicken auch den weiten Weg wider, den er selbst zurücklegen musste. Dabei zeigt er eindrucksvoll, dass \"Natural Horsemanship\" kein mystischer Hype ist, sondern eine von starken Persönlichkeiten geprägte Einstellung zum Umgang mit Pferden und zum Leben selbst.",
+          "duration": "PT1H25M12S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/buck-der-wahre-pferdefluesterer-17263",
+          "name": "Buck - Der wahre Pferdeflüsterer",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/358626/950x0/buck-der-wahre-pferdefluesterer.jpg",
+          "uploadDate": "2019-07-20T00:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Buck - Der wahre Pferdeflüsterer im Online Stream | TVNOW",
+        "headline": "Buck - Der wahre Pferdeflüsterer im Online Stream | TVNOW",
+        "description": "Buck - Der wahre Pferdeflüsterer und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/buck-der-wahre-pferdefluesterer-17263",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/358626/950x0/buck-der-wahre-pferdefluesterer.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/358626/950x0/buck-der-wahre-pferdefluesterer.jpg",
+        "datePublished": "2019-07-20T00:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/358626/950x0/buck-der-wahre-pferdefluesterer.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Buck - Der wahre Pferdeflüsterer",
+            "item": "https://www.tvnow.de/filme/buck-der-wahre-pferdefluesterer-17263"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Buck - Der wahre Pferdeflüsterer im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

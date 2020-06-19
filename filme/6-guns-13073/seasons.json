@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13073",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13073,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/6-guns-13073"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "6 Guns",
+          "teaserId": "film_336158",
+          "teaserName": "6 Guns | 6 Guns",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Western",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "6 Guns",
+        "id": 336158,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336158/300x0/6-guns.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336158/",
+            "filename": "6-guns"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336158/600x0/6-guns.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336158/",
+            "filename": "6-guns"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336158/1200x0/6-guns.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336158/",
+            "filename": "6-guns"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336158/300x0/6-guns.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336158/",
+            "filename": "6-guns"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336158/600x0/6-guns.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336158/",
+            "filename": "6-guns"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336158/1200x0/6-guns.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336158/",
+            "filename": "6-guns"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "6-guns",
+        "subheadline": "6 Guns",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/6-guns-13073",
+        "videoId": 336158
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

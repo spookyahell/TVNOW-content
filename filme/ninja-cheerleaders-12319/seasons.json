@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12319",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12319,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ninja-cheerleaders-12319"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ninja Cheerleaders",
+          "teaserId": "film_341676",
+          "teaserName": "Ninja Cheerleaders | Ninja Cheerleaders",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ninja Cheerleaders",
+        "id": 341676,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341676/300x0/ninja-cheerleaders.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341676/",
+            "filename": "ninja-cheerleaders"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341676/600x0/ninja-cheerleaders.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341676/",
+            "filename": "ninja-cheerleaders"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341676/1200x0/ninja-cheerleaders.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341676/",
+            "filename": "ninja-cheerleaders"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341676/300x0/ninja-cheerleaders.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341676/",
+            "filename": "ninja-cheerleaders"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341676/600x0/ninja-cheerleaders.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341676/",
+            "filename": "ninja-cheerleaders"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341676/1200x0/ninja-cheerleaders.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341676/",
+            "filename": "ninja-cheerleaders"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ninja-cheerleaders",
+        "subheadline": "Ninja Cheerleaders",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/ninja-cheerleaders-12319",
+        "videoId": 341676
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

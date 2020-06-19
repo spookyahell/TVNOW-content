@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 18114,
+  "additionalMeta": {
+    "canonical": "/filme/erdogans-helfer-in-deutschland-18114",
+    "url": "/filme/erdogans-helfer-in-deutschland-18114"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Erdogans Helfer in Deutschland",
+      "url": "/filme/erdogans-helfer-in-deutschland-18114"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 18114,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Erdogans Helfer in Deutschland 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Erdogans Helfer in Deutschland im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Erdogans Helfer in Deutschland 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 2174521,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/2174521",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18114"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Erdogans Helfer in Deutschland",
+    "text": "n-tv Doku - Sommer 2018: Der türkische Präsident Erdogan ist zu Besuch in Berlin. Gegner und Anhänger müssen durch Tausende Polizisten getrennt werden. Welchen Einfluss hat Erdogan in Deutschland. Was sagen AKP-Anhänger und Influencer, die im Dienste des Präsidentenstehen? Welche Meinung vertreten türkische Unternehmer und Abgeordnete? Wie reagieren Menschen, die bedroht werden, weil sie Erdogan kritisieren? Die Doku sucht Antworten auf diese Fragen.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/erdogans-helfer-in-deutschland-18114",
+        "@type": "Movie",
+        "description": "n-tv Doku - Sommer 2018: Der türkische Präsident Erdogan ist zu Besuch in Berlin. Gegner und Anhänger müssen durch Tausende Polizisten getrennt werden. Welchen Einfluss hat Erdogan in Deutschland. Was sagen AKP-Anhänger und Influencer, die im Dienste des Präsidentenstehen? Welche Meinung vertreten türkische Unternehmer und Abgeordnete? Wie reagieren Menschen, die bedroht werden, weil sie Erdogan kritisieren? Die Doku sucht Antworten auf diese Fragen.",
+        "duration": "PT41M34S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/2174521/950x0/erdogans-helfer-in-deutschland.jpg",
+        "name": "Erdogans Helfer in Deutschland",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/erdogans-helfer-in-deutschland-18114",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2019-10-24T11:31:29.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/erdogans-helfer-in-deutschland-18114",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "n-tv Doku - Sommer 2018: Der türkische Präsident Erdogan ist zu Besuch in Berlin. Gegner und Anhänger müssen durch Tausende Polizisten getrennt werden. Welchen Einfluss hat Erdogan in Deutschland. Was sagen AKP-Anhänger und Influencer, die im Dienste des Präsidentenstehen? Welche Meinung vertreten türkische Unternehmer und Abgeordnete? Wie reagieren Menschen, die bedroht werden, weil sie Erdogan kritisieren? Die Doku sucht Antworten auf diese Fragen.",
+          "duration": "PT41M34S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/erdogans-helfer-in-deutschland-18114",
+          "name": "Erdogans Helfer in Deutschland",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2174521/950x0/erdogans-helfer-in-deutschland.jpg",
+          "uploadDate": "2019-10-24T11:31:29.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Erdogans Helfer in Deutschland im Online Stream | TVNOW",
+        "headline": "Erdogans Helfer in Deutschland im Online Stream | TVNOW",
+        "description": "Erdogans Helfer in Deutschland und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/erdogans-helfer-in-deutschland-18114",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/2174521/950x0/erdogans-helfer-in-deutschland.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2174521/950x0/erdogans-helfer-in-deutschland.jpg",
+        "datePublished": "2019-10-24T11:31:29.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/2174521/950x0/erdogans-helfer-in-deutschland.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Erdogans Helfer in Deutschland",
+            "item": "https://www.tvnow.de/filme/erdogans-helfer-in-deutschland-18114"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Erdogans Helfer in Deutschland im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15585",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15585,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/tod-eines-showgirls-15585"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Butter - Tod eines Showgirls",
+          "teaserId": "film_389046",
+          "teaserName": "Butter - Tod eines Showgirls | Tod eines Showgirls",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Tod eines Showgirls",
+        "id": 389046,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389046/300x0/tod-eines-showgirls.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389046/",
+            "filename": "tod-eines-showgirls"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389046/600x0/tod-eines-showgirls.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389046/",
+            "filename": "tod-eines-showgirls"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389046/1200x0/tod-eines-showgirls.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389046/",
+            "filename": "tod-eines-showgirls"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389046/300x0/tod-eines-showgirls.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389046/",
+            "filename": "tod-eines-showgirls"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389046/600x0/tod-eines-showgirls.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389046/",
+            "filename": "tod-eines-showgirls"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389046/1200x0/tod-eines-showgirls.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389046/",
+            "filename": "tod-eines-showgirls"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "butter-tod-eines-showgirls",
+        "subheadline": "Tod eines Showgirls",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/tod-eines-showgirls-15585",
+        "videoId": 389046
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15087",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15087,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/herz-der-finsternis-15087"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Herz der Finsternis",
+          "teaserId": "film_355678",
+          "teaserName": "Herz der Finsternis | Herz der Finsternis",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Herz der Finsternis",
+        "id": 355678,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355678/300x0/herz-der-finsternis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355678/",
+            "filename": "herz-der-finsternis"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355678/600x0/herz-der-finsternis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355678/",
+            "filename": "herz-der-finsternis"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355678/1200x0/herz-der-finsternis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355678/",
+            "filename": "herz-der-finsternis"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355678/300x0/herz-der-finsternis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355678/",
+            "filename": "herz-der-finsternis"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355678/600x0/herz-der-finsternis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355678/",
+            "filename": "herz-der-finsternis"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355678/1200x0/herz-der-finsternis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355678/",
+            "filename": "herz-der-finsternis"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "herz-der-finsternis",
+        "subheadline": "Herz der Finsternis",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/herz-der-finsternis-15087",
+        "videoId": 355678
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

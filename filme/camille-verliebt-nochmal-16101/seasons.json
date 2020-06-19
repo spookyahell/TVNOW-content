@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16101",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16101,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/camille-verliebt-nochmal-16101"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Camille - Verliebt nochmal!",
+          "teaserId": "film_577632",
+          "teaserName": "Camille - Verliebt nochmal! | Camille - Verliebt nochmal!",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Camille - Verliebt nochmal!",
+        "id": 577632,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577632/300x0/camille-verliebt-nochmal.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577632/",
+            "filename": "camille-verliebt-nochmal"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577632/600x0/camille-verliebt-nochmal.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577632/",
+            "filename": "camille-verliebt-nochmal"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577632/1200x0/camille-verliebt-nochmal.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577632/",
+            "filename": "camille-verliebt-nochmal"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577632/300x0/camille-verliebt-nochmal.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577632/",
+            "filename": "camille-verliebt-nochmal"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577632/600x0/camille-verliebt-nochmal.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577632/",
+            "filename": "camille-verliebt-nochmal"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577632/1200x0/camille-verliebt-nochmal.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577632/",
+            "filename": "camille-verliebt-nochmal"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "camille-verliebt-nochmal",
+        "subheadline": "Camille - Verliebt nochmal!",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/camille-verliebt-nochmal-16101",
+        "videoId": 577632
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

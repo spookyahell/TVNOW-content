@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13873",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13873,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/discopath-13873"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Discopath",
+          "teaserId": "film_338840",
+          "teaserName": "Discopath | Discopath",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Discopath",
+        "id": 338840,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338840/300x0/discopath.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338840/",
+            "filename": "discopath"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338840/600x0/discopath.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338840/",
+            "filename": "discopath"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338840/1200x0/discopath.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338840/",
+            "filename": "discopath"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338840/300x0/discopath.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338840/",
+            "filename": "discopath"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338840/600x0/discopath.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338840/",
+            "filename": "discopath"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338840/1200x0/discopath.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338840/",
+            "filename": "discopath"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "discopath",
+        "subheadline": "Discopath",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/discopath-13873",
+        "videoId": 338840
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13689",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13689,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-secret-village-13689"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Secret Village",
+          "teaserId": "film_337906",
+          "teaserName": "The Secret Village | The Secret Village",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Secret Village",
+        "id": 337906,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337906/300x0/the-secret-village.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337906/",
+            "filename": "the-secret-village"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337906/600x0/the-secret-village.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337906/",
+            "filename": "the-secret-village"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337906/1200x0/the-secret-village.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337906/",
+            "filename": "the-secret-village"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337906/300x0/the-secret-village.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337906/",
+            "filename": "the-secret-village"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337906/600x0/the-secret-village.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337906/",
+            "filename": "the-secret-village"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337906/1200x0/the-secret-village.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337906/",
+            "filename": "the-secret-village"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-secret-village",
+        "subheadline": "The Secret Village",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-secret-village-13689",
+        "videoId": 337906
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

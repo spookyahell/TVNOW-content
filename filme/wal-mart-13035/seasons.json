@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13035",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13035,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/wal-mart-13035"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wal-Mart",
+          "teaserId": "film_335872",
+          "teaserName": "Wal-Mart | Wal-Mart",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wal-Mart",
+        "id": 335872,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335872/300x0/wal-mart.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335872/",
+            "filename": "wal-mart"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335872/600x0/wal-mart.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335872/",
+            "filename": "wal-mart"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335872/1200x0/wal-mart.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335872/",
+            "filename": "wal-mart"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335872/300x0/wal-mart.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335872/",
+            "filename": "wal-mart"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335872/600x0/wal-mart.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335872/",
+            "filename": "wal-mart"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335872/1200x0/wal-mart.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335872/",
+            "filename": "wal-mart"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wal-mart",
+        "subheadline": "Wal-Mart",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/wal-mart-13035",
+        "videoId": 335872
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

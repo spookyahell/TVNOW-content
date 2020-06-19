@@ -1,0 +1,109 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15990",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15990,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/harry-meghan-eine-koenigliche-romanze-15990"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Harry & Meghan - Die royale Hochzeit",
+          "teaserId": "film_491462",
+          "teaserName": "Harry & Meghan - Die royale Hochzeit | Harry & Meghan - Eine königliche Romanze",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [
+            "Promis"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Der Film zur Hochzeit",
+          "teaserEpisodeName": "Harry & Meghan - Eine königliche Romanze"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Harry & Meghan - Eine königliche Romanze",
+        "id": 491462,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/491462/300x0/harry-meghan-eine-koenigliche-romanze.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/491462/",
+            "filename": "harry-meghan-eine-koenigliche-romanze"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/491462/600x0/harry-meghan-eine-koenigliche-romanze.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/491462/",
+            "filename": "harry-meghan-eine-koenigliche-romanze"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/491462/1200x0/harry-meghan-eine-koenigliche-romanze.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/491462/",
+            "filename": "harry-meghan-eine-koenigliche-romanze"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/491462/300x0/harry-meghan-eine-koenigliche-romanze.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/491462/",
+            "filename": "harry-meghan-eine-koenigliche-romanze"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/491462/600x0/harry-meghan-eine-koenigliche-romanze.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/491462/",
+            "filename": "harry-meghan-eine-koenigliche-romanze"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/491462/1200x0/harry-meghan-eine-koenigliche-romanze.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/491462/",
+            "filename": "harry-meghan-eine-koenigliche-romanze"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "harry-und-meghan",
+        "subheadline": "Harry & Meghan - Eine königliche Romanze",
+        "text": "Staffel 1, Folge 1 | Der Film zur Hochzeit",
+        "type": "film",
+        "url": "/filme/harry-meghan-eine-koenigliche-romanze-15990",
+        "videoId": 491462
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

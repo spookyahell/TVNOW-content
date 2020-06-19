@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13467",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13467,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/self-medicated-13467"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Self Medicated",
+          "teaserId": "film_337512",
+          "teaserName": "Self Medicated | Self Medicated",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Self Medicated",
+        "id": 337512,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337512/300x0/self-medicated.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337512/",
+            "filename": "self-medicated"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337512/600x0/self-medicated.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337512/",
+            "filename": "self-medicated"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337512/1200x0/self-medicated.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337512/",
+            "filename": "self-medicated"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337512/300x0/self-medicated.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337512/",
+            "filename": "self-medicated"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337512/600x0/self-medicated.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337512/",
+            "filename": "self-medicated"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337512/1200x0/self-medicated.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337512/",
+            "filename": "self-medicated"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "self-medicated",
+        "subheadline": "Self Medicated",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/self-medicated-13467",
+        "videoId": 337512
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

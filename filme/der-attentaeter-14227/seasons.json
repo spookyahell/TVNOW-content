@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14227",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14227,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-attentaeter-14227"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Attentäter",
+          "teaserId": "film_342224",
+          "teaserName": "Der Attentäter | Der Attentäter",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Attentäter",
+        "id": 342224,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342224/300x0/der-attentaeter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342224/",
+            "filename": "der-attentaeter"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342224/600x0/der-attentaeter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342224/",
+            "filename": "der-attentaeter"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342224/1200x0/der-attentaeter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342224/",
+            "filename": "der-attentaeter"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342224/300x0/der-attentaeter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342224/",
+            "filename": "der-attentaeter"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342224/600x0/der-attentaeter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342224/",
+            "filename": "der-attentaeter"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342224/1200x0/der-attentaeter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342224/",
+            "filename": "der-attentaeter"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-attentaeter",
+        "subheadline": "Der Attentäter",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/der-attentaeter-14227",
+        "videoId": 342224
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

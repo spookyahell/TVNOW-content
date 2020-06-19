@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15489",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15489,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/survive-style-15489"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Survive Style",
+          "teaserId": "film_385540",
+          "teaserName": "Survive Style | Survive Style",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Fantasy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Survive Style",
+        "id": 385540,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/385540/300x0/survive-style.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/385540/",
+            "filename": "survive-style"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/385540/600x0/survive-style.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/385540/",
+            "filename": "survive-style"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/385540/1200x0/survive-style.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/385540/",
+            "filename": "survive-style"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/385540/300x0/survive-style.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/385540/",
+            "filename": "survive-style"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/385540/600x0/survive-style.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/385540/",
+            "filename": "survive-style"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/385540/1200x0/survive-style.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/385540/",
+            "filename": "survive-style"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "survive-style",
+        "subheadline": "Survive Style",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/survive-style-15489",
+        "videoId": 385540
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

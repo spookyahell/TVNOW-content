@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16091",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16091,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/das-date-gewitter-16091"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Date Gewitter",
+          "teaserId": "film_577454",
+          "teaserName": "Das Date Gewitter | Das Date Gewitter",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das Date Gewitter",
+        "id": 577454,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577454/300x0/das-date-gewitter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577454/",
+            "filename": "das-date-gewitter"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577454/600x0/das-date-gewitter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577454/",
+            "filename": "das-date-gewitter"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577454/1200x0/das-date-gewitter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577454/",
+            "filename": "das-date-gewitter"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577454/300x0/das-date-gewitter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577454/",
+            "filename": "das-date-gewitter"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577454/600x0/das-date-gewitter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577454/",
+            "filename": "das-date-gewitter"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577454/1200x0/das-date-gewitter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577454/",
+            "filename": "das-date-gewitter"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-date-gewitter",
+        "subheadline": "Das Date Gewitter",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/das-date-gewitter-16091",
+        "videoId": 577454
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15897",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15897,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/joe-dreck-15897"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Joe Dirt",
+          "teaserId": "film_422720",
+          "teaserName": "Joe Dirt | Joe Dreck",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Joe Dreck",
+        "id": 422720,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/422720/300x0/joe-dreck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/422720/",
+            "filename": "joe-dreck"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/422720/600x0/joe-dreck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/422720/",
+            "filename": "joe-dreck"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/422720/1200x0/joe-dreck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/422720/",
+            "filename": "joe-dreck"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/422720/300x0/joe-dreck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/422720/",
+            "filename": "joe-dreck"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/422720/600x0/joe-dreck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/422720/",
+            "filename": "joe-dreck"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/422720/1200x0/joe-dreck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/422720/",
+            "filename": "joe-dreck"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "joe-dirt",
+        "subheadline": "Joe Dreck",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/joe-dreck-15897",
+        "videoId": 422720
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

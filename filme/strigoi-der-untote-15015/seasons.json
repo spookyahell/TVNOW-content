@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15015",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15015,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/strigoi-the-undead-15015"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Strigoi - The Undead",
+          "teaserId": "film_354760",
+          "teaserName": "Strigoi - The Undead | Strigoi - The Undead",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Strigoi - The Undead",
+        "id": 354760,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354760/300x0/strigoi-the-undead.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354760/",
+            "filename": "strigoi-the-undead"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354760/600x0/strigoi-the-undead.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354760/",
+            "filename": "strigoi-the-undead"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354760/1200x0/strigoi-the-undead.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354760/",
+            "filename": "strigoi-the-undead"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354760/300x0/strigoi-the-undead.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354760/",
+            "filename": "strigoi-the-undead"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354760/600x0/strigoi-the-undead.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354760/",
+            "filename": "strigoi-the-undead"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354760/1200x0/strigoi-the-undead.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354760/",
+            "filename": "strigoi-the-undead"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "strigoi-der-untote",
+        "subheadline": "Strigoi - The Undead",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/strigoi-the-undead-15015",
+        "videoId": 354760
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

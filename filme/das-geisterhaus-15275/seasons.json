@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15275",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15275,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/das-geisterhaus-15275"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Geisterhaus",
+          "teaserId": "film_362382",
+          "teaserName": "Das Geisterhaus | Das Geisterhaus",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das Geisterhaus",
+        "id": 362382,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/362382/300x0/das-geisterhaus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/362382/",
+            "filename": "das-geisterhaus"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/362382/600x0/das-geisterhaus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/362382/",
+            "filename": "das-geisterhaus"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/362382/1200x0/das-geisterhaus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/362382/",
+            "filename": "das-geisterhaus"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/362382/300x0/das-geisterhaus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/362382/",
+            "filename": "das-geisterhaus"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/362382/600x0/das-geisterhaus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/362382/",
+            "filename": "das-geisterhaus"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/362382/1200x0/das-geisterhaus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/362382/",
+            "filename": "das-geisterhaus"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-geisterhaus",
+        "subheadline": "Das Geisterhaus",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/das-geisterhaus-15275",
+        "videoId": 362382
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18439",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18439,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ein-kommissar-kehrt-zurueck-18439"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ein Kommissar kehrt zurück",
+          "teaserId": "film_3048007",
+          "teaserName": "Ein Kommissar kehrt zurück | Ein Kommissar kehrt zurück",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ein Kommissar kehrt zurück",
+        "id": 3048007,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3048007/300x0/ein-kommissar-kehrt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3048007/",
+            "filename": "ein-kommissar-kehrt-zurueck"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3048007/600x0/ein-kommissar-kehrt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3048007/",
+            "filename": "ein-kommissar-kehrt-zurueck"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3048007/1200x0/ein-kommissar-kehrt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3048007/",
+            "filename": "ein-kommissar-kehrt-zurueck"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3048007/300x0/ein-kommissar-kehrt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3048007/",
+            "filename": "ein-kommissar-kehrt-zurueck"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3048007/600x0/ein-kommissar-kehrt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3048007/",
+            "filename": "ein-kommissar-kehrt-zurueck"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3048007/1200x0/ein-kommissar-kehrt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3048007/",
+            "filename": "ein-kommissar-kehrt-zurueck"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ein-kommissar-kehrt-zurueck",
+        "subheadline": "Ein Kommissar kehrt zurück",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/ein-kommissar-kehrt-zurueck-18439",
+        "videoId": 3048007
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,194 @@
+﻿{
+  "formatId": 8030,
+  "additionalMeta": {
+    "canonical": "/serien/ein-colt-fuer-alle-faelle-8030",
+    "url": "/serien/ein-colt-fuer-alle-faelle-8030"
+  },
+  "ads": {
+    "station": "nitro",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Ein Colt für alle Fälle",
+      "url": "/serien/ein-colt-fuer-alle-faelle-8030"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 8030,
+  "meta": [
+    {
+      "content": "Die Serie Ein Colt für alle Fälle (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Action im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "Ein Colt für alle Fälle, video, videos, online sehen, internet tv, fernsehen, alle folgen, rtl , nitro, rtl nitro, video on demand, mediathek, serien, ",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Ein Colt für alle Fälle im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Ein Colt für alle Fälle (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Action im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/8030",
+      "type": "teaserrow"
+    },
+    {
+      "id": 8030,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/8030",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rnncolt",
+      "video": "dvrsowf_ten_rnncolt",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_nitro_now/formate/ein_colt_fuer_alle_faelle/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_nitro_now",
+        "formate",
+        "ein_colt_fuer_alle_faelle",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Action",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zur Serie: Ein Colt für alle Fälle",
+    "text": "Ein Colt für alle Fälle und viele weitere Serien kannst Du gemütlich online bei TVNOW im Stream anschauen. Also nichts wie los – hole das Knabberzeug raus und genieße Deine Serie ganz entspannt von unterwegs oder von zu Hause aus mit Freunden.",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "https://www.tvnow.de/serien/ein-colt-fuer-alle-faelle-8030",
+        "url": "https://www.tvnow.de/serien/ein-colt-fuer-alle-faelle-8030",
+        "name": "Ein Colt für alle Fälle",
+        "description": "Die Serie Ein Colt für alle Fälle (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Action im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/8030_04metalogo/1200x0/ein-colt-fuer-alle-faelle.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Information zur Serie: Ein Colt für alle Fälle",
+        "headline": "Information zur Serie: Ein Colt für alle Fälle",
+        "description": "Die Serie Ein Colt für alle Fälle (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Action im Online Stream bei TVNOW anschauen.",
+        "url": "https://www.tvnow.de/serien/ein-colt-fuer-alle-faelle-8030",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/8030_04metalogo/1200x0/ein-colt-fuer-alle-faelle.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/8030_04metalogo/1200x0/ein-colt-fuer-alle-faelle.png",
+        "keywords": "Ein Colt für alle Fälle, video, videos, online sehen, internet tv, fernsehen, alle folgen, rtl , nitro, rtl nitro, video on demand, mediathek, serien, ",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/8030_04metalogo/1200x0/ein-colt-fuer-alle-faelle.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "https://www.tvnow.de/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ein Colt für alle Fälle",
+            "item": "https://www.tvnow.de/serien/ein-colt-fuer-alle-faelle-8030"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Ein Colt für alle Fälle im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

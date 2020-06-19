@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13405",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13405,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/citizen-verdict-13405"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Citizen Verdict",
+          "teaserId": "film_338988",
+          "teaserName": "Citizen Verdict | Citizen Verdict",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Citizen Verdict",
+        "id": 338988,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338988/300x0/citizen-verdict.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338988/",
+            "filename": "citizen-verdict"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338988/600x0/citizen-verdict.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338988/",
+            "filename": "citizen-verdict"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338988/1200x0/citizen-verdict.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338988/",
+            "filename": "citizen-verdict"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338988/300x0/citizen-verdict.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338988/",
+            "filename": "citizen-verdict"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338988/600x0/citizen-verdict.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338988/",
+            "filename": "citizen-verdict"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338988/1200x0/citizen-verdict.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338988/",
+            "filename": "citizen-verdict"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "citizen-verdict",
+        "subheadline": "Citizen Verdict",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/citizen-verdict-13405",
+        "videoId": 338988
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

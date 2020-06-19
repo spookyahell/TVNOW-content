@@ -1,0 +1,109 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16374",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16374,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/diese-fahrschule-16374/staffel-1/episode-1-pilotfolge-1177512"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Diese Fahrschule",
+          "teaserId": "show_episode_1177512",
+          "teaserName": "Diese Fahrschule | Staffel 1 | Folge 1 | Pilotfolge",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Real Life",
+          "cluster": [
+            "Auto"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "So. 23.09.2018, 15:55 Uhr",
+          "teaserEpisodeName": "Pilotfolge"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Pilotfolge",
+        "id": 1177512,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1177512/300x0/pilotfolge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1177512/",
+            "filename": "pilotfolge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1177512/600x0/pilotfolge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1177512/",
+            "filename": "pilotfolge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1177512/1200x0/pilotfolge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1177512/",
+            "filename": "pilotfolge"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1177512/300x0/pilotfolge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1177512/",
+            "filename": "pilotfolge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1177512/600x0/pilotfolge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1177512/",
+            "filename": "pilotfolge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1177512/1200x0/pilotfolge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1177512/",
+            "filename": "pilotfolge"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "diese-fahrschule",
+        "subheadline": "Pilotfolge",
+        "text": "Staffel 1, Folge 1 | So. 23.09.2018, 15:55 Uhr",
+        "type": "show",
+        "url": "/shows/diese-fahrschule-16374/staffel-1/episode-1-pilotfolge-1177512",
+        "videoId": 1177512
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

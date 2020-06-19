@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 12471,
+  "additionalMeta": {
+    "canonical": "/filme/gozu-12471",
+    "url": "/filme/gozu-12471"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Gozu",
+      "url": "/filme/gozu-12471"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 12471,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Gozu 📺 und viele weitere ▶️ Filme aus dem Genre Horror findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Gozu, Film, Stream, Online-Stream, TV NOW, WATCHBOX, kostenlos, Spielfilm, Video, gratis, Horror, Thriller, Asian",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Gozu im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Gozu 📺 und viele weitere ▶️ Filme aus dem Genre Horror findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 332076,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/332076",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/12471"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_horror/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_horror",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Horror",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Gozu",
+    "text": "Bei TV NOW kannst Du den Film Gozu und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/gozu-12471",
+        "@type": "Movie",
+        "description": "Die beiden Yakuzas Manimi und Ozaki haben schon so einiges während ihrer Karriere als Gangster mitgemacht. Kein Wunder also, daß Ozaki immer mehr den Verstand verliert und so langsam eine irre, unkontrollierbare Gefahr für den gesamten Clan darstellt. Von seinen Bossen bekommt Manimi nun den verhängnisvollen Auftrag, seinen Kollegen auf einer Müllkippe zu exekutieren. Doch schon auf der Hinfahrt kommt der ahnungslose Ozaki durch ein Missgeschick zu Tode. Dies wäre ja eigentlich nicht so problematisch für Manimi, allerdings verschwindet die Leiche auf unerklärliche Weise. Auf seiner Suche nach der Leiche muß Manimi nun einige sehr seltsame Abenteuer erleben, bevor er an das vermeintliche Ziel seiner Reise gelangt.",
+        "duration": "PT2H9M44S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/332076/950x0/gozu.jpg",
+        "name": "Gozu",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/gozu-12471",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-09-04T08:49:57.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/gozu-12471",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die beiden Yakuzas Manimi und Ozaki haben schon so einiges während ihrer Karriere als Gangster mitgemacht. Kein Wunder also, daß Ozaki immer mehr den Verstand verliert und so langsam eine irre, unkontrollierbare Gefahr für den gesamten Clan darstellt. Von seinen Bossen bekommt Manimi nun den verhängnisvollen Auftrag, seinen Kollegen auf einer Müllkippe zu exekutieren. Doch schon auf der Hinfahrt kommt der ahnungslose Ozaki durch ein Missgeschick zu Tode. Dies wäre ja eigentlich nicht so problematisch für Manimi, allerdings verschwindet die Leiche auf unerklärliche Weise. Auf seiner Suche nach der Leiche muß Manimi nun einige sehr seltsame Abenteuer erleben, bevor er an das vermeintliche Ziel seiner Reise gelangt.",
+          "duration": "PT2H9M44S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/gozu-12471",
+          "name": "Gozu",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/332076/950x0/gozu.jpg",
+          "uploadDate": "2017-09-04T08:49:57.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Gozu im Online Stream | TVNOW",
+        "headline": "Gozu im Online Stream | TVNOW",
+        "description": "Gozu und viele weitere  ▶️Filme aus dem Genre Horror findest du im Online Stream bei TVNOW. Ein Film mit ▶️Yuta Sone, Sho Aikawa, Kimika Yoshino.",
+        "url": "https://www.tvnow.de/filme/gozu-12471",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/332076/950x0/gozu.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/332076/950x0/gozu.jpg",
+        "datePublished": "2017-09-04T08:49:57.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/332076/950x0/gozu.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Gozu",
+            "item": "https://www.tvnow.de/filme/gozu-12471"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Gozu im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

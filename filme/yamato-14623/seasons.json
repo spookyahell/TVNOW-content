@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14623",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14623,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/yamato-14623"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Yamato",
+          "teaserId": "film_344748",
+          "teaserName": "Yamato | Yamato",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Yamato",
+        "id": 344748,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344748/300x0/yamato.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344748/",
+            "filename": "yamato"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344748/600x0/yamato.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344748/",
+            "filename": "yamato"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344748/1200x0/yamato.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344748/",
+            "filename": "yamato"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344748/300x0/yamato.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344748/",
+            "filename": "yamato"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344748/600x0/yamato.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344748/",
+            "filename": "yamato"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344748/1200x0/yamato.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344748/",
+            "filename": "yamato"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "yamato",
+        "subheadline": "Yamato",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/yamato-14623",
+        "videoId": 344748
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

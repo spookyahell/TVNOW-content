@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12549",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12549,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/civic-duty-12549"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Civic Duty",
+          "teaserId": "film_330652",
+          "teaserName": "Civic Duty | Civic Duty",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Civic Duty",
+        "id": 330652,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330652/300x0/civic-duty.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330652/",
+            "filename": "civic-duty"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330652/600x0/civic-duty.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330652/",
+            "filename": "civic-duty"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330652/1200x0/civic-duty.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330652/",
+            "filename": "civic-duty"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330652/300x0/civic-duty.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330652/",
+            "filename": "civic-duty"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330652/600x0/civic-duty.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330652/",
+            "filename": "civic-duty"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330652/1200x0/civic-duty.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330652/",
+            "filename": "civic-duty"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "civic-duty",
+        "subheadline": "Civic Duty",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/civic-duty-12549",
+        "videoId": 330652
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

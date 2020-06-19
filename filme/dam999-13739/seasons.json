@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13739",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13739,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/dam999-13739"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Dam999",
+          "teaserId": "film_338692",
+          "teaserName": "Dam999 | Dam999",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Science Fiction",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Dam999",
+        "id": 338692,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338692/300x0/dam999.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338692/",
+            "filename": "dam999"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338692/600x0/dam999.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338692/",
+            "filename": "dam999"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338692/1200x0/dam999.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338692/",
+            "filename": "dam999"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338692/300x0/dam999.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338692/",
+            "filename": "dam999"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338692/600x0/dam999.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338692/",
+            "filename": "dam999"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338692/1200x0/dam999.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338692/",
+            "filename": "dam999"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "dam999",
+        "subheadline": "Dam999",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/dam999-13739",
+        "videoId": 338692
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

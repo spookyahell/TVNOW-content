@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15117",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15117,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/vuk-der-kleine-fuchs-15117"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Vuk - Der kleine Fuchs",
+          "teaserId": "film_355842",
+          "teaserName": "Vuk - Der kleine Fuchs | Vuk - Der kleine Fuchs",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Animation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Vuk - Der kleine Fuchs",
+        "id": 355842,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355842/300x0/vuk-der-kleine-fuchs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355842/",
+            "filename": "vuk-der-kleine-fuchs"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355842/600x0/vuk-der-kleine-fuchs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355842/",
+            "filename": "vuk-der-kleine-fuchs"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355842/1200x0/vuk-der-kleine-fuchs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355842/",
+            "filename": "vuk-der-kleine-fuchs"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355842/300x0/vuk-der-kleine-fuchs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355842/",
+            "filename": "vuk-der-kleine-fuchs"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355842/600x0/vuk-der-kleine-fuchs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355842/",
+            "filename": "vuk-der-kleine-fuchs"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355842/1200x0/vuk-der-kleine-fuchs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355842/",
+            "filename": "vuk-der-kleine-fuchs"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "vuk-der-kleine-fuchs",
+        "subheadline": "Vuk - Der kleine Fuchs",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/vuk-der-kleine-fuchs-15117",
+        "videoId": 355842
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

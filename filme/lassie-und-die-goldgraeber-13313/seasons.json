@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13313",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13313,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/lassie-und-die-goldgraeber-13313"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Lassie und die Goldgräber",
+          "teaserId": "film_336816",
+          "teaserName": "Lassie und die Goldgräber | Lassie und die Goldgräber",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Lassie und die Goldgräber",
+        "id": 336816,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336816/300x0/lassie-und-die-goldgraeber.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336816/",
+            "filename": "lassie-und-die-goldgraeber"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336816/600x0/lassie-und-die-goldgraeber.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336816/",
+            "filename": "lassie-und-die-goldgraeber"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336816/1200x0/lassie-und-die-goldgraeber.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336816/",
+            "filename": "lassie-und-die-goldgraeber"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336816/300x0/lassie-und-die-goldgraeber.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336816/",
+            "filename": "lassie-und-die-goldgraeber"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336816/600x0/lassie-und-die-goldgraeber.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336816/",
+            "filename": "lassie-und-die-goldgraeber"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336816/1200x0/lassie-und-die-goldgraeber.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336816/",
+            "filename": "lassie-und-die-goldgraeber"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "lassie-und-die-goldgraeber",
+        "subheadline": "Lassie und die Goldgräber",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/lassie-und-die-goldgraeber-13313",
+        "videoId": 336816
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

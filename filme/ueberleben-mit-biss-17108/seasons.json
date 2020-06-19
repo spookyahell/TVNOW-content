@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17108",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17108,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ueberleben-mit-biss-17108"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Überleben mit Biss",
+          "teaserId": "film_365842",
+          "teaserName": "Überleben mit Biss | Überleben mit Biss",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Überleben mit Biss",
+        "id": 365842,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365842/300x0/ueberleben-mit-biss.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365842/",
+            "filename": "ueberleben-mit-biss"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365842/600x0/ueberleben-mit-biss.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365842/",
+            "filename": "ueberleben-mit-biss"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365842/1200x0/ueberleben-mit-biss.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365842/",
+            "filename": "ueberleben-mit-biss"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365842/300x0/ueberleben-mit-biss.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365842/",
+            "filename": "ueberleben-mit-biss"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365842/600x0/ueberleben-mit-biss.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365842/",
+            "filename": "ueberleben-mit-biss"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365842/1200x0/ueberleben-mit-biss.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365842/",
+            "filename": "ueberleben-mit-biss"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ueberleben-mit-biss",
+        "subheadline": "Überleben mit Biss",
+        "text": "Staffel  | Mi. 21.11.2018, 23:18 Uhr",
+        "type": "film",
+        "url": "/filme/ueberleben-mit-biss-17108",
+        "videoId": 365842
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

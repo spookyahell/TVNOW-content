@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 17175,
+  "additionalMeta": {
+    "canonical": "/filme/the-unknown-known-die-agenda-des-donald-rumsfeld-17175",
+    "url": "/filme/the-unknown-known-die-agenda-des-donald-rumsfeld-17175"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "The Unknown Known - Die Agenda des Donald Rumsfeld",
+      "url": "/filme/the-unknown-known-die-agenda-des-donald-rumsfeld-17175"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17175,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ The Unknown Known - Die Agenda des Donald Rumsfeld 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "The Unknown Known - Die Agenda des Donald Rumsfeld, video, videos, online sehen, internet tv, fernsehen, video on demand, TV NOW, TVNOW",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "The Unknown Known - Die Agenda des Donald Rumsfeld im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ The Unknown Known - Die Agenda des Donald Rumsfeld 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 358528,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/358528",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17175"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: The Unknown Known - Die Agenda des Donald Rumsfeld",
+    "text": "Im Gespräch mit dem Oscar-prämierten Regisseur Errol Morris stellt sich der über 80-Jährige erneut der öffentlichen Bühne. Dabei liest Rumsfeld einzelne seiner Memoranden, die ein persönliches Licht auf Schlüsselmomente der jüngeren US-Geschichte werfen. Wie kaum ein zweiter produzierte er im Laufe seiner Karriere unzählige Memos, die im Pentagon als \"Snowflakes\" berühmt waren. Im Interview zeigt Rumsfeld einmal mehr sein rhetorisches Talent zur Verschleierung. Fragen nach seiner Verantwortung für die Folter-Skandale oder der Richtigkeit der Irak-Invasion entzieht er sich geschickt.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/the-unknown-known-die-agenda-des-donald-rumsfeld-17175",
+        "@type": "Movie",
+        "description": "Im Gespräch mit dem Oscar-prämierten Regisseur Errol Morris stellt sich der über 80-Jährige erneut der öffentlichen Bühne. Dabei liest Rumsfeld einzelne seiner Memoranden, die ein persönliches Licht auf Schlüsselmomente der jüngeren US-Geschichte werfen. Wie kaum ein zweiter produzierte er im Laufe seiner Karriere unzählige Memos, die im Pentagon als \"Snowflakes\" berühmt waren. Im Interview zeigt Rumsfeld einmal mehr sein rhetorisches Talent zur Verschleierung. Fragen nach seiner Verantwortung für die Folter-Skandale oder der Richtigkeit der Irak-Invasion entzieht er sich geschickt.",
+        "duration": "PT1H38M26S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/358528/950x0/the-unknown-known-die-agenda-des-donald-rumsfeld.jpg",
+        "name": "The Unknown Known - Die Agenda des Donald Rumsfeld",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/the-unknown-known-die-agenda-des-donald-rumsfeld-17175",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2019-10-12T00:10:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=the-unknown-known-die-agenda-des-donald-rumsfeld-17175",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=the-unknown-known-die-agenda-des-donald-rumsfeld-17175",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/the-unknown-known-die-agenda-des-donald-rumsfeld-17175",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Im Gespräch mit dem Oscar-prämierten Regisseur Errol Morris stellt sich der über 80-Jährige erneut der öffentlichen Bühne. Dabei liest Rumsfeld einzelne seiner Memoranden, die ein persönliches Licht auf Schlüsselmomente der jüngeren US-Geschichte werfen. Wie kaum ein zweiter produzierte er im Laufe seiner Karriere unzählige Memos, die im Pentagon als \"Snowflakes\" berühmt waren. Im Interview zeigt Rumsfeld einmal mehr sein rhetorisches Talent zur Verschleierung. Fragen nach seiner Verantwortung für die Folter-Skandale oder der Richtigkeit der Irak-Invasion entzieht er sich geschickt.",
+          "duration": "PT1H38M26S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/the-unknown-known-die-agenda-des-donald-rumsfeld-17175",
+          "name": "The Unknown Known - Die Agenda des Donald Rumsfeld",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/358528/950x0/the-unknown-known-die-agenda-des-donald-rumsfeld.jpg",
+          "uploadDate": "2019-10-12T00:10:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "The Unknown Known - Die Agenda des Donald Rumsfeld im Online Stream | TVNOW",
+        "headline": "The Unknown Known - Die Agenda des Donald Rumsfeld im Online Stream | TVNOW",
+        "description": "The Unknown Known - Die Agenda des Donald Rumsfeld und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/the-unknown-known-die-agenda-des-donald-rumsfeld-17175",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/358528/950x0/the-unknown-known-die-agenda-des-donald-rumsfeld.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/358528/950x0/the-unknown-known-die-agenda-des-donald-rumsfeld.jpg",
+        "datePublished": "2019-10-12T00:10:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/358528/950x0/the-unknown-known-die-agenda-des-donald-rumsfeld.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The Unknown Known - Die Agenda des Donald Rumsfeld",
+            "item": "https://www.tvnow.de/filme/the-unknown-known-die-agenda-des-donald-rumsfeld-17175"
+          }
+        ]
+      }
+    }
+  },
+  "title": "The Unknown Known - Die Agenda des Donald Rumsfeld im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

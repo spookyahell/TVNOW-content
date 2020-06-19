@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13039",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13039,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/once-were-warriors-13039"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Once Were Warriors",
+          "teaserId": "film_335864",
+          "teaserName": "Once Were Warriors | Once Were Warriors",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Once Were Warriors",
+        "id": 335864,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335864/300x0/once-were-warriors.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335864/",
+            "filename": "once-were-warriors"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335864/600x0/once-were-warriors.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335864/",
+            "filename": "once-were-warriors"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335864/1200x0/once-were-warriors.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335864/",
+            "filename": "once-were-warriors"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335864/300x0/once-were-warriors.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335864/",
+            "filename": "once-were-warriors"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335864/600x0/once-were-warriors.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335864/",
+            "filename": "once-were-warriors"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335864/1200x0/once-were-warriors.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335864/",
+            "filename": "once-were-warriors"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "once-were-warriors",
+        "subheadline": "Once Were Warriors",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/once-were-warriors-13039",
+        "videoId": 335864
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

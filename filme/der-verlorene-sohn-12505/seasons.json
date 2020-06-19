@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12505",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12505,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-verlorene-sohn-12505"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der verlorene Sohn",
+          "teaserId": "film_330402",
+          "teaserName": "Der verlorene Sohn | Der verlorene Sohn",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der verlorene Sohn",
+        "id": 330402,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330402/300x0/der-verlorene-sohn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330402/",
+            "filename": "der-verlorene-sohn"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330402/600x0/der-verlorene-sohn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330402/",
+            "filename": "der-verlorene-sohn"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330402/1200x0/der-verlorene-sohn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330402/",
+            "filename": "der-verlorene-sohn"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330402/300x0/der-verlorene-sohn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330402/",
+            "filename": "der-verlorene-sohn"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330402/600x0/der-verlorene-sohn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330402/",
+            "filename": "der-verlorene-sohn"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330402/1200x0/der-verlorene-sohn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330402/",
+            "filename": "der-verlorene-sohn"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-verlorene-sohn",
+        "subheadline": "Der verlorene Sohn",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/der-verlorene-sohn-12505",
+        "videoId": 330402
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 12501,
+  "additionalMeta": {
+    "canonical": "/filme/king-of-thorn-12501",
+    "url": "/filme/king-of-thorn-12501"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "King of Thorn",
+      "url": "/filme/king-of-thorn-12501"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 12501,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ King of Thorn 📺 und viele weitere ▶️ Filme aus dem Genre Anime findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "King of Thorn, Film, TV NOW, Watchbox bei TV NOW, Virus, Monster, Krankheit, infiziert, Überleben, Anime, Fantasy",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "King of Thorn im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ King of Thorn 📺 und viele weitere ▶️ Filme aus dem Genre Anime findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 330400,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/330400",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/12501"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_anime/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_anime",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Anime",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "King of Thorn - Informationen zum Film",
+    "text": "<p>Die nahe Zukunft: Die Welt wird vom Medusa-Virus bedroht, einer tödlichen Krankheit, bei der die Infizierten innerhalb von sechs Wochen bei lebendigem Leib versteinern. Eine Heilung scheint nicht in Sicht.</p><p>Aus diesem Grund werden 160 zufällig ausgewählte Personen in einen Kälteschlaf versetzt mit der Hoffnung ihnen helfen zu können, wenn ein Gegenmittel gegen das Virus gefunden worden ist. Zu den Auserwählten gehört auch das junge Mädchen Kasumi.Doch als Kasumi und die anderen wieder aus dem Kälteschlaf erwachen, da stellen sie voller Schrecken fest, dass sich alles verändert hat. Von Dornenranken eingeschlossen und beherrscht von gigantischen Monstern, hat sich die Welt in einen dunklen Ort verwandelt.Es beginnt ein Kampf ums nackte überleben und die verzweifelte Suche nach der Antwort auf die Frage: Was ist während des Kälteschlafes mit der Erde geschehen?</p><p>Seht euch diesen und weitere spannende Filme jetzt kostenlos im TV NOW Online-Stream an!</p>",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/king-of-thorn-12501",
+        "@type": "Movie",
+        "description": "Die nahe Zukunft: Die Welt wird vom Medusa-Virus bedroht, einer tödlichen Krankheit, bei der die Infizierten innerhalb von sechs Wochen bei lebendigem Leib versteinern. Eine Heilung scheint nicht in Sicht. Aus diesem Grund werden 160 zufällig ausgewählte Personen in einen Kälteschlaf versetzt mit der Hoffnung ihnen helfen zu können, wenn ein Gegenmittel gegen das Virus gefunden worden ist. Zu den Auserwählten gehört auch das junge Mädchen Kasumi. Doch als Kasumi und die anderen wieder aus dem Kälteschlaf erwachen, da stellen sie voller Schrecken fest, dass sich alles verändert hat. Von Dornenranken eingeschlossen und beherrscht von gigantischen Monstern, hat sich die Welt in einen dunklen Ort verwandelt. Es beginnt ein Kampf ums nackte Überleben und die verzweifelte Suche nach der Antwort auf die Frage: Was ist während des Kälteschlafes mit der Erde geschehen?",
+        "duration": "PT1H44M40S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/330400/950x0/king-of-thorn.jpg",
+        "name": "King of Thorn",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/king-of-thorn-12501",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-09-05T06:02:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/king-of-thorn-12501",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die nahe Zukunft: Die Welt wird vom Medusa-Virus bedroht, einer tödlichen Krankheit, bei der die Infizierten innerhalb von sechs Wochen bei lebendigem Leib versteinern. Eine Heilung scheint nicht in Sicht. Aus diesem Grund werden 160 zufällig ausgewählte Personen in einen Kälteschlaf versetzt mit der Hoffnung ihnen helfen zu können, wenn ein Gegenmittel gegen das Virus gefunden worden ist. Zu den Auserwählten gehört auch das junge Mädchen Kasumi. Doch als Kasumi und die anderen wieder aus dem Kälteschlaf erwachen, da stellen sie voller Schrecken fest, dass sich alles verändert hat. Von Dornenranken eingeschlossen und beherrscht von gigantischen Monstern, hat sich die Welt in einen dunklen Ort verwandelt. Es beginnt ein Kampf ums nackte Überleben und die verzweifelte Suche nach der Antwort auf die Frage: Was ist während des Kälteschlafes mit der Erde geschehen?",
+          "duration": "PT1H44M40S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/king-of-thorn-12501",
+          "name": "King of Thorn",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/330400/950x0/king-of-thorn.jpg",
+          "uploadDate": "2017-09-05T06:02:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "King of Thorn im Online Stream | TVNOW",
+        "headline": "King of Thorn im Online Stream | TVNOW",
+        "description": "King of Thorn und viele weitere  ▶️Filme aus dem Genre Anime findest du im Online Stream bei TVNOW. Ein Film mit ▶️Kana Hanazawa, Jamie Marchi.",
+        "url": "https://www.tvnow.de/filme/king-of-thorn-12501",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/330400/950x0/king-of-thorn.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/330400/950x0/king-of-thorn.jpg",
+        "datePublished": "2017-09-05T06:02:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/330400/950x0/king-of-thorn.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "King of Thorn",
+            "item": "https://www.tvnow.de/filme/king-of-thorn-12501"
+          }
+        ]
+      }
+    }
+  },
+  "title": "King of Thorn im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

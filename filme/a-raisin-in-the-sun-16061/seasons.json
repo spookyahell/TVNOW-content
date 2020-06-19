@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16061",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16061,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/a-raisin-in-the-sun-16061"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "A Raisin in the Sun",
+          "teaserId": "film_456080",
+          "teaserName": "A Raisin in the Sun | A Raisin in the Sun",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "A Raisin in the Sun",
+        "id": 456080,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/456080/300x0/a-raisin-in-the-sun.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/456080/",
+            "filename": "a-raisin-in-the-sun"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/456080/600x0/a-raisin-in-the-sun.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/456080/",
+            "filename": "a-raisin-in-the-sun"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/456080/1200x0/a-raisin-in-the-sun.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/456080/",
+            "filename": "a-raisin-in-the-sun"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/456080/300x0/a-raisin-in-the-sun.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/456080/",
+            "filename": "a-raisin-in-the-sun"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/456080/600x0/a-raisin-in-the-sun.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/456080/",
+            "filename": "a-raisin-in-the-sun"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/456080/1200x0/a-raisin-in-the-sun.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/456080/",
+            "filename": "a-raisin-in-the-sun"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "a-raisin-in-the-sun",
+        "subheadline": "A Raisin in the Sun",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/a-raisin-in-the-sun-16061",
+        "videoId": 456080
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14765",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14765,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/jenseits-des-himmels-14765"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Jenseits des Himmels",
+          "teaserId": "film_346172",
+          "teaserName": "Jenseits des Himmels | Jenseits des Himmels",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Jenseits des Himmels",
+        "id": 346172,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346172/300x0/jenseits-des-himmels.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346172/",
+            "filename": "jenseits-des-himmels"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346172/600x0/jenseits-des-himmels.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346172/",
+            "filename": "jenseits-des-himmels"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346172/1200x0/jenseits-des-himmels.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346172/",
+            "filename": "jenseits-des-himmels"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346172/300x0/jenseits-des-himmels.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346172/",
+            "filename": "jenseits-des-himmels"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346172/600x0/jenseits-des-himmels.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346172/",
+            "filename": "jenseits-des-himmels"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346172/1200x0/jenseits-des-himmels.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346172/",
+            "filename": "jenseits-des-himmels"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "jenseits-des-himmels",
+        "subheadline": "Jenseits des Himmels",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/jenseits-des-himmels-14765",
+        "videoId": 346172
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

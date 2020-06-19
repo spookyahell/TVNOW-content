@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16896",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16896,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/hoop-dreams-16896"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Hoop Dreams",
+          "teaserId": "film_496622",
+          "teaserName": "Hoop Dreams | Hoop Dreams",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Hoop Dreams",
+        "id": 496622,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/496622/300x0/hoop-dreams.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/496622/",
+            "filename": "hoop-dreams"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/496622/600x0/hoop-dreams.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/496622/",
+            "filename": "hoop-dreams"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/496622/1200x0/hoop-dreams.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/496622/",
+            "filename": "hoop-dreams"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/496622/300x0/hoop-dreams.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/496622/",
+            "filename": "hoop-dreams"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/496622/600x0/hoop-dreams.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/496622/",
+            "filename": "hoop-dreams"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/496622/1200x0/hoop-dreams.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/496622/",
+            "filename": "hoop-dreams"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "hoop-dreams",
+        "subheadline": "Hoop Dreams",
+        "text": "Staffel  | Fr. 29.05.2020, 00:30 Uhr",
+        "type": "film",
+        "url": "/filme/hoop-dreams-16896",
+        "videoId": 496622
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

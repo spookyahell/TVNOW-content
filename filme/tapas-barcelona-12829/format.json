@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 12829,
+  "additionalMeta": {
+    "canonical": "/filme/tapas-barcelona-12829",
+    "url": "/filme/tapas-barcelona-12829"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Tapas Barcelona",
+      "url": "/filme/tapas-barcelona-12829"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 12829,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Tapas Barcelona 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Tapas Barcelona, Film, TV NOW, Watchbox bei TV NOW, Komödie, Spanien, Bar, Geschichten, Episoden",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Tapas Barcelona im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Tapas Barcelona 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 334598,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/334598",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/12829"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Tapas Barcelona",
+    "text": "Bei TV NOW kannst Du den Film Tapas Barcelona und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/tapas-barcelona-12829",
+        "@type": "Movie",
+        "description": "In einem winzigen Stadtviertel Barcelonas spielen sich die verschiedensten Geschichten ab: Lolo, der cholerische Wirt einer Bar, schikaniert mit seinen Launen seine gesamte Umgebung. Als sich eines Tages seine Frau Rosalia Knall auf Fall aus dem Staub macht, hat Lolo ein Problem: wer macht nun die ganze Arbeit in der Bar? Zum Glück gibt es den chinesischen Koch Mao, der nicht nur ein Meister der Küche ist, sondern sich auch für den größten Bruce Lee-Fan aller Zeiten hält... Doch auch der stille und stets lächelnde Chinese kann die Frau an Lolos Seite nicht ersetzen. Auch die Rentnerin Conchi, die regelmäßig in der Bar verkehrt, hat ein Problem - ihren krebskranken Mann. Um seine teuren Behandlungen bezahlen zu können, dealt die Seniorin mit Drogen - und zwar ausgerechnet in Lolos Bar! Raquel hingegen, seit zwei Jahren geschieden, unterhält eine \"stabile Internet-Beziehung\" mit einem Argentinier, was sie aber nicht daran hindert, mit dem wesentlich jüngeren César eine heiße Bettgeschichte zu beginnen. Spannende Geschichten, so bunt gemischt wie die berühmten spanischen Vorspeisen!",
+        "duration": "PT1H23M35S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/334598/950x0/tapas-barcelona.jpg",
+        "name": "Tapas Barcelona",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/tapas-barcelona-12829",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-09-22T11:55:52.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/tapas-barcelona-12829",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "In einem winzigen Stadtviertel Barcelonas spielen sich die verschiedensten Geschichten ab: Lolo, der cholerische Wirt einer Bar, schikaniert mit seinen Launen seine gesamte Umgebung. Als sich eines Tages seine Frau Rosalia Knall auf Fall aus dem Staub macht, hat Lolo ein Problem: wer macht nun die ganze Arbeit in der Bar? Zum Glück gibt es den chinesischen Koch Mao, der nicht nur ein Meister der Küche ist, sondern sich auch für den größten Bruce Lee-Fan aller Zeiten hält... Doch auch der stille und stets lächelnde Chinese kann die Frau an Lolos Seite nicht ersetzen. Auch die Rentnerin Conchi, die regelmäßig in der Bar verkehrt, hat ein Problem - ihren krebskranken Mann. Um seine teuren Behandlungen bezahlen zu können, dealt die Seniorin mit Drogen - und zwar ausgerechnet in Lolos Bar! Raquel hingegen, seit zwei Jahren geschieden, unterhält eine \"stabile Internet-Beziehung\" mit einem Argentinier, was sie aber nicht daran hindert, mit dem wesentlich jüngeren César eine heiße Bettgeschichte zu beginnen. Spannende Geschichten, so bunt gemischt wie die berühmten spanischen Vorspeisen!",
+          "duration": "PT1H23M35S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/tapas-barcelona-12829",
+          "name": "Tapas Barcelona",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/334598/950x0/tapas-barcelona.jpg",
+          "uploadDate": "2017-09-22T11:55:52.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Tapas Barcelona im Online Stream | TVNOW",
+        "headline": "Tapas Barcelona im Online Stream | TVNOW",
+        "description": "Tapas Barcelona und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Jose Corbacho, Juan Cruz, Angel de Andres.",
+        "url": "https://www.tvnow.de/filme/tapas-barcelona-12829",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/334598/950x0/tapas-barcelona.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/334598/950x0/tapas-barcelona.jpg",
+        "datePublished": "2017-09-22T11:55:52.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/334598/950x0/tapas-barcelona.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tapas Barcelona",
+            "item": "https://www.tvnow.de/filme/tapas-barcelona-12829"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Tapas Barcelona im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15663",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15663,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/haensel-vs-gretel-15663"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Hänsel vs. Gretel",
+          "teaserId": "film_404304",
+          "teaserName": "Hänsel vs. Gretel | Hänsel vs. Gretel",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Hänsel vs. Gretel",
+        "id": 404304,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/404304/300x0/haensel-vs-gretel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/404304/",
+            "filename": "haensel-vs-gretel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/404304/600x0/haensel-vs-gretel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/404304/",
+            "filename": "haensel-vs-gretel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/404304/1200x0/haensel-vs-gretel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/404304/",
+            "filename": "haensel-vs-gretel"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/404304/300x0/haensel-vs-gretel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/404304/",
+            "filename": "haensel-vs-gretel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/404304/600x0/haensel-vs-gretel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/404304/",
+            "filename": "haensel-vs-gretel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/404304/1200x0/haensel-vs-gretel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/404304/",
+            "filename": "haensel-vs-gretel"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "haensel-vs-gretel",
+        "subheadline": "Hänsel vs. Gretel",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/haensel-vs-gretel-15663",
+        "videoId": 404304
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

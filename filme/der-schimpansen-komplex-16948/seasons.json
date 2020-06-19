@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16948",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16948,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-schimpansen-komplex-16948"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Schimpansen-Komplex",
+          "teaserId": "film_1316778",
+          "teaserName": "Der Schimpansen-Komplex | Der Schimpansen-Komplex",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Schimpansen-Komplex",
+        "id": 1316778,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1316778/300x0/der-schimpansen-komplex.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1316778/",
+            "filename": "der-schimpansen-komplex"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1316778/600x0/der-schimpansen-komplex.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1316778/",
+            "filename": "der-schimpansen-komplex"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1316778/1200x0/der-schimpansen-komplex.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1316778/",
+            "filename": "der-schimpansen-komplex"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1316778/300x0/der-schimpansen-komplex.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1316778/",
+            "filename": "der-schimpansen-komplex"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1316778/600x0/der-schimpansen-komplex.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1316778/",
+            "filename": "der-schimpansen-komplex"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1316778/1200x0/der-schimpansen-komplex.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1316778/",
+            "filename": "der-schimpansen-komplex"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-schimpansen-komplex",
+        "subheadline": "Der Schimpansen-Komplex",
+        "text": "Staffel  | Di. 05.11.2019, 18:55 Uhr",
+        "type": "film",
+        "url": "/filme/der-schimpansen-komplex-16948",
+        "videoId": 1316778
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

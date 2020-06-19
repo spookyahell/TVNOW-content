@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14951",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14951,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/death-box-14951"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Death Box",
+          "teaserId": "film_353636",
+          "teaserName": "Death Box | Death Box",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Death Box",
+        "id": 353636,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353636/300x0/death-box.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353636/",
+            "filename": "death-box"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353636/600x0/death-box.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353636/",
+            "filename": "death-box"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353636/1200x0/death-box.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353636/",
+            "filename": "death-box"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353636/300x0/death-box.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353636/",
+            "filename": "death-box"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353636/600x0/death-box.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353636/",
+            "filename": "death-box"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353636/1200x0/death-box.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353636/",
+            "filename": "death-box"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "death-box",
+        "subheadline": "Death Box",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/death-box-14951",
+        "videoId": 353636
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16919",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16919,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/dina-voll-verliebt-16919"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Dina - Voll verliebt",
+          "teaserId": "film_424568",
+          "teaserName": "Dina - Voll verliebt | Dina - Voll verliebt",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Dina - Voll verliebt",
+        "id": 424568,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424568/300x0/dina-voll-verliebt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424568/",
+            "filename": "dina-voll-verliebt"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424568/600x0/dina-voll-verliebt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424568/",
+            "filename": "dina-voll-verliebt"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424568/1200x0/dina-voll-verliebt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424568/",
+            "filename": "dina-voll-verliebt"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424568/300x0/dina-voll-verliebt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424568/",
+            "filename": "dina-voll-verliebt"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424568/600x0/dina-voll-verliebt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424568/",
+            "filename": "dina-voll-verliebt"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424568/1200x0/dina-voll-verliebt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424568/",
+            "filename": "dina-voll-verliebt"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "dina-voll-verliebt",
+        "subheadline": "Dina - Voll verliebt",
+        "text": "Staffel  | Sa. 29.02.2020, 00:05 Uhr",
+        "type": "film",
+        "url": "/filme/dina-voll-verliebt-16919",
+        "videoId": 424568
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

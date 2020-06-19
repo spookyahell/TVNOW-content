@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18388",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18388,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/insel-der-otter-18388"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Insel der Otter",
+          "teaserId": "film_3002397",
+          "teaserName": "Insel der Otter | Insel der Otter",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Insel der Otter",
+        "id": 3002397,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3002397/300x0/insel-der-otter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3002397/",
+            "filename": "insel-der-otter"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3002397/600x0/insel-der-otter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3002397/",
+            "filename": "insel-der-otter"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3002397/1200x0/insel-der-otter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3002397/",
+            "filename": "insel-der-otter"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3002397/300x0/insel-der-otter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3002397/",
+            "filename": "insel-der-otter"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3002397/600x0/insel-der-otter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3002397/",
+            "filename": "insel-der-otter"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3002397/1200x0/insel-der-otter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3002397/",
+            "filename": "insel-der-otter"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "insel-der-otter",
+        "subheadline": "Insel der Otter",
+        "text": "Staffel  | Di. 05.05.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/insel-der-otter-18388",
+        "videoId": 3002397
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

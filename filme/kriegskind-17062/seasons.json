@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17062",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17062,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/kriegskind-17062"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Kriegskind",
+          "teaserId": "film_1171412",
+          "teaserName": "Kriegskind | Kriegskind",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Kriegskind",
+        "id": 1171412,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171412/300x0/kriegskind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171412/",
+            "filename": "kriegskind"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171412/600x0/kriegskind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171412/",
+            "filename": "kriegskind"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171412/1200x0/kriegskind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171412/",
+            "filename": "kriegskind"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171412/300x0/kriegskind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171412/",
+            "filename": "kriegskind"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171412/600x0/kriegskind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171412/",
+            "filename": "kriegskind"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171412/1200x0/kriegskind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171412/",
+            "filename": "kriegskind"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "kriegskind",
+        "subheadline": "Kriegskind",
+        "text": "Staffel  | Mi. 12.02.2020, 00:40 Uhr",
+        "type": "film",
+        "url": "/filme/kriegskind-17062",
+        "videoId": 1171412
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

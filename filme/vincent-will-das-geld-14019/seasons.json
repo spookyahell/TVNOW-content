@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14019",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14019,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/vincent-will-das-geld-14019"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Vincent will das Geld",
+          "teaserId": "film_341998",
+          "teaserName": "Vincent will das Geld | Vincent will das Geld",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Vincent will das Geld",
+        "id": 341998,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341998/300x0/vincent-will-das-geld.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341998/",
+            "filename": "vincent-will-das-geld"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341998/600x0/vincent-will-das-geld.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341998/",
+            "filename": "vincent-will-das-geld"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341998/1200x0/vincent-will-das-geld.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341998/",
+            "filename": "vincent-will-das-geld"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341998/300x0/vincent-will-das-geld.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341998/",
+            "filename": "vincent-will-das-geld"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341998/600x0/vincent-will-das-geld.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341998/",
+            "filename": "vincent-will-das-geld"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341998/1200x0/vincent-will-das-geld.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341998/",
+            "filename": "vincent-will-das-geld"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "vincent-will-das-geld",
+        "subheadline": "Vincent will das Geld",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/vincent-will-das-geld-14019",
+        "videoId": 341998
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

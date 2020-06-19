@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17532",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17532,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/maschinen-17532"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Maschinen",
+          "teaserId": "film_1513332",
+          "teaserName": "Maschinen | Maschinen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Maschinen",
+        "id": 1513332,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1513332/300x0/maschinen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1513332/",
+            "filename": "maschinen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1513332/600x0/maschinen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1513332/",
+            "filename": "maschinen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1513332/1200x0/maschinen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1513332/",
+            "filename": "maschinen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1513332/300x0/maschinen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1513332/",
+            "filename": "maschinen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1513332/600x0/maschinen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1513332/",
+            "filename": "maschinen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1513332/1200x0/maschinen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1513332/",
+            "filename": "maschinen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "maschinen",
+        "subheadline": "Maschinen",
+        "text": "Staffel  | Mi. 08.01.2020, 19:05 Uhr",
+        "type": "film",
+        "url": "/filme/maschinen-17532",
+        "videoId": 1513332
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

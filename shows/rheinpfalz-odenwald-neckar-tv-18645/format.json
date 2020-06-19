@@ -1,0 +1,194 @@
+﻿{
+  "formatId": 18645,
+  "additionalMeta": {
+    "canonical": "/shows/rheinpfalz-odenwald-neckar-tv-18645",
+    "url": "/shows/rheinpfalz-odenwald-neckar-tv-18645"
+  },
+  "ads": {
+    "station": "rtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "RON TV",
+      "url": "/shows/rheinpfalz-odenwald-neckar-tv-18645"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 18645,
+  "meta": [
+    {
+      "content": "Die Show ▶ RON TV (RTL) streamen & weitere Highlights aus dem Genre 📺 News & Magazine im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "RON TV im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ RON TV (RTL) streamen & weitere Highlights aus dem Genre 📺 News & Magazine im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/18645",
+      "type": "teaserrow"
+    },
+    {
+      "id": 18645,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/18645",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rnrontv",
+      "video": "dvrsowf_ten_rnrontv",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_now/formate/ron_tv/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_now",
+        "formate",
+        "ron_tv",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "News & Magazine",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "https://www.tvnow.de/shows/rheinpfalz-odenwald-neckar-tv-18645",
+        "url": "https://www.tvnow.de/shows/rheinpfalz-odenwald-neckar-tv-18645",
+        "name": "RON TV",
+        "description": "Die Show ▶ RON TV (RTL) streamen & weitere Highlights aus dem Genre 📺 News & Magazine im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/18645_04metalogo/1200x0/rheinpfalz-odenwald-neckar-tv.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "",
+        "headline": "",
+        "description": "Die Show ▶ RON TV (RTL) streamen & weitere Highlights aus dem Genre 📺 News & Magazine im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+        "url": "https://www.tvnow.de/shows/rheinpfalz-odenwald-neckar-tv-18645",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/18645_04metalogo/1200x0/rheinpfalz-odenwald-neckar-tv.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/18645_04metalogo/1200x0/rheinpfalz-odenwald-neckar-tv.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/18645_04metalogo/1200x0/rheinpfalz-odenwald-neckar-tv.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "https://www.tvnow.de/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "RON TV",
+            "item": "https://www.tvnow.de/shows/rheinpfalz-odenwald-neckar-tv-18645"
+          }
+        ]
+      }
+    }
+  },
+  "title": "RON TV im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

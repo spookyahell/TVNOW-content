@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17058",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17058,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/all-die-schlaflosen-naechte-17058"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "All die schlaflosen Nächte",
+          "teaserId": "film_365826",
+          "teaserName": "All die schlaflosen Nächte | All die schlaflosen Nächte",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "All die schlaflosen Nächte",
+        "id": 365826,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365826/300x0/all-die-schlaflosen-naechte.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365826/",
+            "filename": "all-die-schlaflosen-naechte"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365826/600x0/all-die-schlaflosen-naechte.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365826/",
+            "filename": "all-die-schlaflosen-naechte"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365826/1200x0/all-die-schlaflosen-naechte.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365826/",
+            "filename": "all-die-schlaflosen-naechte"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365826/300x0/all-die-schlaflosen-naechte.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365826/",
+            "filename": "all-die-schlaflosen-naechte"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365826/600x0/all-die-schlaflosen-naechte.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365826/",
+            "filename": "all-die-schlaflosen-naechte"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365826/1200x0/all-die-schlaflosen-naechte.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365826/",
+            "filename": "all-die-schlaflosen-naechte"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "all-die-schlaflosen-naechte",
+        "subheadline": "All die schlaflosen Nächte",
+        "text": "Staffel  | Sa. 18.04.2020, 22:35 Uhr",
+        "type": "film",
+        "url": "/filme/all-die-schlaflosen-naechte-17058",
+        "videoId": 365826
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

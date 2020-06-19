@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17383",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17383,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-wiese-17383"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Wiese",
+          "teaserId": "film_1415674",
+          "teaserName": "Die Wiese | Die Wiese",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Wiese",
+        "id": 1415674,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1415674/300x0/die-wiese.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1415674/",
+            "filename": "die-wiese"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1415674/600x0/die-wiese.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1415674/",
+            "filename": "die-wiese"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1415674/1200x0/die-wiese.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1415674/",
+            "filename": "die-wiese"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1415674/300x0/die-wiese.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1415674/",
+            "filename": "die-wiese"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1415674/600x0/die-wiese.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1415674/",
+            "filename": "die-wiese"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1415674/1200x0/die-wiese.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1415674/",
+            "filename": "die-wiese"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-wiese",
+        "subheadline": "Die Wiese",
+        "text": "Staffel  | Sa. 05.10.2019, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/die-wiese-17383",
+        "videoId": 1415674
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

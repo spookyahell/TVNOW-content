@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17468",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17468,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/james-bond-007-octopussy-17468"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Octopussy (1983) - James Bond 007",
+          "teaserId": "film_1635360",
+          "teaserName": "Octopussy (1983) - James Bond 007 | James Bond 007 - Octopussy",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "James Bond 007 - Octopussy",
+        "id": 1635360,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635360/300x0/james-bond-007-octopussy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635360/",
+            "filename": "james-bond-007-octopussy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635360/600x0/james-bond-007-octopussy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635360/",
+            "filename": "james-bond-007-octopussy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635360/1200x0/james-bond-007-octopussy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635360/",
+            "filename": "james-bond-007-octopussy"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635360/300x0/james-bond-007-octopussy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635360/",
+            "filename": "james-bond-007-octopussy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635360/600x0/james-bond-007-octopussy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635360/",
+            "filename": "james-bond-007-octopussy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635360/1200x0/james-bond-007-octopussy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635360/",
+            "filename": "james-bond-007-octopussy"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "octopussy-james-bond-007",
+        "subheadline": "James Bond 007 - Octopussy",
+        "text": "Staffel  | EXKLUSIV",
+        "type": "film",
+        "url": "/filme/james-bond-007-octopussy-17468",
+        "videoId": 1635360
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

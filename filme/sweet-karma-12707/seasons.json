@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12707",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12707,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/sweet-karma-12707"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sweet Karma",
+          "teaserId": "film_333030",
+          "teaserName": "Sweet Karma | Sweet Karma",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Sweet Karma",
+        "id": 333030,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333030/300x0/sweet-karma.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333030/",
+            "filename": "sweet-karma"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333030/600x0/sweet-karma.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333030/",
+            "filename": "sweet-karma"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333030/1200x0/sweet-karma.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333030/",
+            "filename": "sweet-karma"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333030/300x0/sweet-karma.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333030/",
+            "filename": "sweet-karma"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333030/600x0/sweet-karma.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333030/",
+            "filename": "sweet-karma"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333030/1200x0/sweet-karma.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333030/",
+            "filename": "sweet-karma"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sweet-karma",
+        "subheadline": "Sweet Karma",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/sweet-karma-12707",
+        "videoId": 333030
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

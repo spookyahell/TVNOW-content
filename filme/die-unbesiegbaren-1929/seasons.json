@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/1929",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 1929,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/unbesiegbaren-1929"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Unbesiegbaren",
+          "teaserId": "film_244665",
+          "teaserName": "Die Unbesiegbaren | Die Unbesiegbaren",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Unbesiegbaren",
+        "id": 244665,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/244665/300x0/unbesiegbaren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/244665/",
+            "filename": "unbesiegbaren"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/244665/600x0/unbesiegbaren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/244665/",
+            "filename": "unbesiegbaren"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/244665/1200x0/unbesiegbaren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/244665/",
+            "filename": "unbesiegbaren"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/244665/300x0/unbesiegbaren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/244665/",
+            "filename": "unbesiegbaren"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/244665/600x0/unbesiegbaren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/244665/",
+            "filename": "unbesiegbaren"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/244665/1200x0/unbesiegbaren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/244665/",
+            "filename": "unbesiegbaren"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-unbesiegbaren",
+        "subheadline": "Die Unbesiegbaren",
+        "text": "Staffel  | Mi. 27.06.2012, 23:20 Uhr",
+        "type": "film",
+        "url": "/filme/unbesiegbaren-1929",
+        "videoId": 244665
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

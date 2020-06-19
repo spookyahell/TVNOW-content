@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15945",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15945,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/cowboys-und-idioten-15945"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Cowboys und Idioten",
+          "teaserId": "film_424610",
+          "teaserName": "Cowboys und Idioten | Cowboys und Idioten",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Cowboys und Idioten",
+        "id": 424610,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424610/300x0/cowboys-und-idioten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424610/",
+            "filename": "cowboys-und-idioten"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424610/600x0/cowboys-und-idioten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424610/",
+            "filename": "cowboys-und-idioten"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424610/1200x0/cowboys-und-idioten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424610/",
+            "filename": "cowboys-und-idioten"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424610/300x0/cowboys-und-idioten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424610/",
+            "filename": "cowboys-und-idioten"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424610/600x0/cowboys-und-idioten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424610/",
+            "filename": "cowboys-und-idioten"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424610/1200x0/cowboys-und-idioten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424610/",
+            "filename": "cowboys-und-idioten"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "cowboys-und-idioten",
+        "subheadline": "Cowboys und Idioten",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/cowboys-und-idioten-15945",
+        "videoId": 424610
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

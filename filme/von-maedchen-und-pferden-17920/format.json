@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 17920,
+  "additionalMeta": {
+    "canonical": "/filme/von-maedchen-und-pferden-17920",
+    "url": "/filme/von-maedchen-und-pferden-17920"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Von Mädchen und Pferden",
+      "url": "/filme/von-maedchen-und-pferden-17920"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17920,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Von Mädchen und Pferden 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Von Mädchen und Pferden im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Von Mädchen und Pferden 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1791268,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1791268",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17920"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_lgbt/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_lgbt",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Von Mädchen und Pferden",
+    "text": "Auf dem abgelegenen Reiterhof der zupackenden Nina im hohen Norden soll die 16-jährige Schulabbrecherin Alex endlich feste Strukturen kennenlernen. Nur widerwillig arrangiert sich Alex mit der neuen Situation. Als Kathy, ein Mädchen aus reichem Haus mit ihrem eigenen Pferd auf dem Hof auftaucht, entwickelt sich aus anfänglicher Eifersucht eine Freundschaft, die schon bald über die gemeinsame Liebe zu den Pferden hinausgeht.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/von-maedchen-und-pferden-17920",
+        "@type": "Movie",
+        "description": "Auf dem abgelegenen Reiterhof der zupackenden Nina im hohen Norden soll die 16-jährige Schulabbrecherin Alex endlich feste Strukturen kennenlernen. Nur widerwillig arrangiert sich Alex mit der neuen Situation. Als Kathy, ein Mädchen aus reichem Haus mit ihrem eigenen Pferd auf dem Hof auftaucht, entwickelt sich aus anfänglicher Eifersucht eine Freundschaft, die schon bald über die gemeinsame Liebe zu den Pferden hinausgeht.",
+        "duration": "PT1H22M21S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1791268/950x0/von-maedchen-und-pferden.jpg",
+        "name": "Von Mädchen und Pferden",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/von-maedchen-und-pferden-17920",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2019-09-30T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=von-maedchen-und-pferden-17920",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=von-maedchen-und-pferden-17920",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/von-maedchen-und-pferden-17920",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Auf dem abgelegenen Reiterhof der zupackenden Nina im hohen Norden soll die 16-jährige Schulabbrecherin Alex endlich feste Strukturen kennenlernen. Nur widerwillig arrangiert sich Alex mit der neuen Situation. Als Kathy, ein Mädchen aus reichem Haus mit ihrem eigenen Pferd auf dem Hof auftaucht, entwickelt sich aus anfänglicher Eifersucht eine Freundschaft, die schon bald über die gemeinsame Liebe zu den Pferden hinausgeht.",
+          "duration": "PT1H22M21S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/von-maedchen-und-pferden-17920",
+          "name": "Von Mädchen und Pferden",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1791268/950x0/von-maedchen-und-pferden.jpg",
+          "uploadDate": "2019-09-30T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Von Mädchen und Pferden im Online Stream | TVNOW",
+        "headline": "Von Mädchen und Pferden im Online Stream | TVNOW",
+        "description": "Von Mädchen und Pferden und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/von-maedchen-und-pferden-17920",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1791268/950x0/von-maedchen-und-pferden.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1791268/950x0/von-maedchen-und-pferden.jpg",
+        "datePublished": "2019-09-30T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1791268/950x0/von-maedchen-und-pferden.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Von Mädchen und Pferden",
+            "item": "https://www.tvnow.de/filme/von-maedchen-und-pferden-17920"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Von Mädchen und Pferden im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

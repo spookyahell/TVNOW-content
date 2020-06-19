@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15341",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15341,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/blood-runs-cold-15341"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Blood Runs Cold",
+          "teaserId": "film_365472",
+          "teaserName": "Blood Runs Cold | Blood Runs Cold",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Blood Runs Cold",
+        "id": 365472,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365472/300x0/blood-runs-cold.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365472/",
+            "filename": "blood-runs-cold"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365472/600x0/blood-runs-cold.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365472/",
+            "filename": "blood-runs-cold"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365472/1200x0/blood-runs-cold.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365472/",
+            "filename": "blood-runs-cold"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365472/300x0/blood-runs-cold.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365472/",
+            "filename": "blood-runs-cold"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365472/600x0/blood-runs-cold.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365472/",
+            "filename": "blood-runs-cold"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365472/1200x0/blood-runs-cold.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365472/",
+            "filename": "blood-runs-cold"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "blood-runs-cold",
+        "subheadline": "Blood Runs Cold",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/blood-runs-cold-15341",
+        "videoId": 365472
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

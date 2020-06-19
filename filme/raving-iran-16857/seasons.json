@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16857",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16857,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/raving-iran-16857"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Raving Iran",
+          "teaserId": "film_1171388",
+          "teaserName": "Raving Iran | Raving Iran",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Raving Iran",
+        "id": 1171388,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171388/300x0/raving-iran.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171388/",
+            "filename": "raving-iran"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171388/600x0/raving-iran.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171388/",
+            "filename": "raving-iran"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171388/1200x0/raving-iran.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171388/",
+            "filename": "raving-iran"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171388/300x0/raving-iran.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171388/",
+            "filename": "raving-iran"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171388/600x0/raving-iran.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171388/",
+            "filename": "raving-iran"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1171388/1200x0/raving-iran.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1171388/",
+            "filename": "raving-iran"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "raving-iran",
+        "subheadline": "Raving Iran",
+        "text": "Staffel  | So. 08.03.2020, 00:15 Uhr",
+        "type": "film",
+        "url": "/filme/raving-iran-16857",
+        "videoId": 1171388
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

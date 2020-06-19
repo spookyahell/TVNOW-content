@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12627",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12627,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ghost-12627"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ghost",
+          "teaserId": "film_333844",
+          "teaserName": "Ghost | Ghost",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ghost",
+        "id": 333844,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333844/300x0/ghost.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333844/",
+            "filename": "ghost"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333844/600x0/ghost.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333844/",
+            "filename": "ghost"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333844/1200x0/ghost.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333844/",
+            "filename": "ghost"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333844/300x0/ghost.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333844/",
+            "filename": "ghost"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333844/600x0/ghost.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333844/",
+            "filename": "ghost"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333844/1200x0/ghost.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333844/",
+            "filename": "ghost"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ghost",
+        "subheadline": "Ghost",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/ghost-12627",
+        "videoId": 333844
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

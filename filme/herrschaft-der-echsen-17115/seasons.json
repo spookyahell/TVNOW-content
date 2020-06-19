@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17115",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17115,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/herrschaft-der-echsen-17115"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Herrschaft der Echsen",
+          "teaserId": "film_863598",
+          "teaserName": "Herrschaft der Echsen | Herrschaft der Echsen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Herrschaft der Echsen",
+        "id": 863598,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/863598/300x0/herrschaft-der-echsen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/863598/",
+            "filename": "herrschaft-der-echsen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/863598/600x0/herrschaft-der-echsen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/863598/",
+            "filename": "herrschaft-der-echsen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/863598/1200x0/herrschaft-der-echsen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/863598/",
+            "filename": "herrschaft-der-echsen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/863598/300x0/herrschaft-der-echsen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/863598/",
+            "filename": "herrschaft-der-echsen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/863598/600x0/herrschaft-der-echsen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/863598/",
+            "filename": "herrschaft-der-echsen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/863598/1200x0/herrschaft-der-echsen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/863598/",
+            "filename": "herrschaft-der-echsen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "herrschaft-der-echsen",
+        "subheadline": "Herrschaft der Echsen",
+        "text": "Staffel  | Fr. 24.01.2020, 18:25 Uhr",
+        "type": "film",
+        "url": "/filme/herrschaft-der-echsen-17115",
+        "videoId": 863598
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

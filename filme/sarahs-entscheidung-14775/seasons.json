@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14775",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14775,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/sarahs-entscheidung-14775"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sarahs Entscheidung",
+          "teaserId": "film_346316",
+          "teaserName": "Sarahs Entscheidung | Sarahs Entscheidung",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Sarahs Entscheidung",
+        "id": 346316,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346316/300x0/sarahs-entscheidung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346316/",
+            "filename": "sarahs-entscheidung"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346316/600x0/sarahs-entscheidung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346316/",
+            "filename": "sarahs-entscheidung"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346316/1200x0/sarahs-entscheidung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346316/",
+            "filename": "sarahs-entscheidung"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346316/300x0/sarahs-entscheidung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346316/",
+            "filename": "sarahs-entscheidung"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346316/600x0/sarahs-entscheidung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346316/",
+            "filename": "sarahs-entscheidung"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346316/1200x0/sarahs-entscheidung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346316/",
+            "filename": "sarahs-entscheidung"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sarahs-entscheidung",
+        "subheadline": "Sarahs Entscheidung",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/sarahs-entscheidung-14775",
+        "videoId": 346316
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

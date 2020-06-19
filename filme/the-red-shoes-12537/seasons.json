@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12537",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12537,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-red-shoes-12537"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Red Shoes",
+          "teaserId": "film_329492",
+          "teaserName": "The Red Shoes | The Red Shoes",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Red Shoes",
+        "id": 329492,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/329492/300x0/the-red-shoes.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/329492/",
+            "filename": "the-red-shoes"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/329492/600x0/the-red-shoes.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/329492/",
+            "filename": "the-red-shoes"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/329492/1200x0/the-red-shoes.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/329492/",
+            "filename": "the-red-shoes"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/329492/300x0/the-red-shoes.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/329492/",
+            "filename": "the-red-shoes"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/329492/600x0/the-red-shoes.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/329492/",
+            "filename": "the-red-shoes"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/329492/1200x0/the-red-shoes.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/329492/",
+            "filename": "the-red-shoes"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-red-shoes",
+        "subheadline": "The Red Shoes",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-red-shoes-12537",
+        "videoId": 329492
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

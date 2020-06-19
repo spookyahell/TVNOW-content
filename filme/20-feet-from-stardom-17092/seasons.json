@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17092",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17092,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/20-feet-from-stardom-17092"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "20 Feet From Stardom",
+          "teaserId": "film_1460830",
+          "teaserName": "20 Feet From Stardom | 20 Feet From Stardom",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "20 Feet From Stardom",
+        "id": 1460830,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1460830/300x0/20-feet-from-stardom.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1460830/",
+            "filename": "20-feet-from-stardom"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1460830/600x0/20-feet-from-stardom.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1460830/",
+            "filename": "20-feet-from-stardom"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1460830/1200x0/20-feet-from-stardom.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1460830/",
+            "filename": "20-feet-from-stardom"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1460830/300x0/20-feet-from-stardom.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1460830/",
+            "filename": "20-feet-from-stardom"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1460830/600x0/20-feet-from-stardom.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1460830/",
+            "filename": "20-feet-from-stardom"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1460830/1200x0/20-feet-from-stardom.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1460830/",
+            "filename": "20-feet-from-stardom"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "20-feet-from-stardom",
+        "subheadline": "20 Feet From Stardom",
+        "text": "Staffel  | Mo. 25.05.2020, 21:45 Uhr",
+        "type": "film",
+        "url": "/filme/20-feet-from-stardom-17092",
+        "videoId": 1460830
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

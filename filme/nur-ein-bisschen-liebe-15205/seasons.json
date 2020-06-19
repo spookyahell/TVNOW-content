@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15205",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15205,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/nur-ein-bisschen-liebe-15205"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Nur ein bisschen Liebe",
+          "teaserId": "film_358466",
+          "teaserName": "Nur ein bisschen Liebe | Nur ein bisschen Liebe",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Nur ein bisschen Liebe",
+        "id": 358466,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/358466/300x0/nur-ein-bisschen-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/358466/",
+            "filename": "nur-ein-bisschen-liebe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/358466/600x0/nur-ein-bisschen-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/358466/",
+            "filename": "nur-ein-bisschen-liebe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/358466/1200x0/nur-ein-bisschen-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/358466/",
+            "filename": "nur-ein-bisschen-liebe"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/358466/300x0/nur-ein-bisschen-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/358466/",
+            "filename": "nur-ein-bisschen-liebe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/358466/600x0/nur-ein-bisschen-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/358466/",
+            "filename": "nur-ein-bisschen-liebe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/358466/1200x0/nur-ein-bisschen-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/358466/",
+            "filename": "nur-ein-bisschen-liebe"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "nur-ein-bisschen-liebe",
+        "subheadline": "Nur ein bisschen Liebe",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/nur-ein-bisschen-liebe-15205",
+        "videoId": 358466
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

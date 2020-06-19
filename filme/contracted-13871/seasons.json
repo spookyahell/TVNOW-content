@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13871",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13871,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/contracted-13871"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Contracted",
+          "teaserId": "film_338842",
+          "teaserName": "Contracted | Contracted",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Contracted",
+        "id": 338842,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338842/300x0/contracted.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338842/",
+            "filename": "contracted"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338842/600x0/contracted.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338842/",
+            "filename": "contracted"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338842/1200x0/contracted.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338842/",
+            "filename": "contracted"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338842/300x0/contracted.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338842/",
+            "filename": "contracted"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338842/600x0/contracted.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338842/",
+            "filename": "contracted"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338842/1200x0/contracted.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338842/",
+            "filename": "contracted"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "contracted",
+        "subheadline": "Contracted",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/contracted-13871",
+        "videoId": 338842
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

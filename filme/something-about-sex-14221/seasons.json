@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14221",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14221,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/something-about-sex-14221"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Something about Sex",
+          "teaserId": "film_342228",
+          "teaserName": "Something about Sex | Something about Sex",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Something about Sex",
+        "id": 342228,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342228/300x0/something-about-sex.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342228/",
+            "filename": "something-about-sex"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342228/600x0/something-about-sex.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342228/",
+            "filename": "something-about-sex"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342228/1200x0/something-about-sex.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342228/",
+            "filename": "something-about-sex"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342228/300x0/something-about-sex.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342228/",
+            "filename": "something-about-sex"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342228/600x0/something-about-sex.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342228/",
+            "filename": "something-about-sex"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342228/1200x0/something-about-sex.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342228/",
+            "filename": "something-about-sex"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "something-about-sex",
+        "subheadline": "Something about Sex",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/something-about-sex-14221",
+        "videoId": 342228
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

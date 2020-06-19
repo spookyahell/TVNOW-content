@@ -1,0 +1,109 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16362",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16362,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/schatzkiste-auf-vier-raedern-16362/staffel-1/episode-1-pilot-1189338"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Schatzkiste auf 4 Rädern",
+          "teaserId": "show_episode_1189338",
+          "teaserName": "Schatzkiste auf 4 Rädern | Staffel 1 | Folge 1 | Wer bietet mehr?",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Real Life",
+          "cluster": [
+            "Auto"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "So. 30.09.2018, 15:30 Uhr",
+          "teaserEpisodeName": "Wer bietet mehr?"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wer bietet mehr?",
+        "id": 1189338,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1189338/300x0/pilot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1189338/",
+            "filename": "pilot"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1189338/600x0/pilot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1189338/",
+            "filename": "pilot"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1189338/1200x0/pilot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1189338/",
+            "filename": "pilot"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1189338/300x0/pilot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1189338/",
+            "filename": "pilot"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1189338/600x0/pilot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1189338/",
+            "filename": "pilot"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1189338/1200x0/pilot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1189338/",
+            "filename": "pilot"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "schatzkiste-auf-vier-raedern",
+        "subheadline": "Wer bietet mehr?",
+        "text": "Staffel 1, Folge 1 | So. 30.09.2018, 15:30 Uhr",
+        "type": "show",
+        "url": "/shows/schatzkiste-auf-vier-raedern-16362/staffel-1/episode-1-pilot-1189338",
+        "videoId": 1189338
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

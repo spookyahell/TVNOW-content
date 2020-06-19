@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 15373,
+  "additionalMeta": {
+    "canonical": "/filme/loggerheads-15373",
+    "url": "/filme/loggerheads-15373"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Loggerheads (OmU)",
+      "url": "/filme/loggerheads-15373"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 15373,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Loggerheads (OmU) 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Loggerheads (OmU), Film, TV NOW, Watchbox bei TV NOW, Drama, Independent, Arthouse, Queer, LGBT, Schildkröten, Strand, Schwul, Homosexualität, Liebe, Adoption",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Loggerheads (OmU) im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Loggerheads (OmU) 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 374012,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/374012",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/15373"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_drama/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_drama",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Loggerheads (OmU)",
+    "text": "Bei TV NOW kannst Du den Film Loggerheads (OmU) und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/loggerheads-15373",
+        "@type": "Movie",
+        "description": "Poetisch und kraftvoll. inspiriert durch eine wahre Begebenheit. Drei Lebenswege, in verschiedenen Zeitebenen miteinander verbunden, inszeniert Regisseur Tim Kirkman in \"Loggerheads\", einen Film, in dem jeder versucht, im großen Ozean des Lebens zu bestehen. Mark, der sensible, rastlose und schüchterne Ausreißer, beobachtet Nacht für Nacht am Strand von Kure Beach, North Carolina, die Loggerheads, eine bedrohte Schildkrötenart. Hier lernt er George kennen, ein Mann mit einigen Geheimnissen. Zwischen beiden entsteht eine zaghafte Beziehung, beide fühlen in ihrer Freiheit eine starke Verbundenheit und es erwächst eine intensive Liebe. Zur selben Zeit macht sich Marks leibliche Mutter Grace (Golden Globe & Emmy Award Nominee Bonnie Hunt) auf die Suche nach ihrem Sohn, den sie kurz nach der Geburt zur Adoption freigegeben hatte, während Elizabeth und Robert (OSCARX & Golden Globe Nominees Tess Harper & Chris Sarandon), die Adoptiveltern, schon länger keinen Kontakt mehr zu Mark suchen. Sie alle haben sich im Ozean der Gefühle irgendwo irgendwann verloren, doch ihre Wege werden bald zueinander führen. Es ist eine einzigartige, eine wahre und sehr emotional erzählte Geschichte, die hier in grandiosen und kraftvollen Bildern erzählt wird. Das mehrfach ausgezeichnete Filmensemble, allen voran der charmante Hauptdarsteller und neue Jungstar des amerikanischen Films Kip Pardue (\"But I'm a Cheerleader\", \"Remember the Titans\", \"Die Regeln des Spiels/The Rules of Attraction\"), nimmt den Zuschauer mit auf eine Reise in den bewegenden und bewegten Ozean der Gefühle. Ein intensives Porträt, das von Anfang an berührt.",
+        "duration": "PT1H31M18S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/374012/950x0/loggerheads.jpg",
+        "name": "Loggerheads (OmU)",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/loggerheads-15373",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-12-31T17:13:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/loggerheads-15373",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Poetisch und kraftvoll. inspiriert durch eine wahre Begebenheit. Drei Lebenswege, in verschiedenen Zeitebenen miteinander verbunden, inszeniert Regisseur Tim Kirkman in \"Loggerheads\", einen Film, in dem jeder versucht, im großen Ozean des Lebens zu bestehen. Mark, der sensible, rastlose und schüchterne Ausreißer, beobachtet Nacht für Nacht am Strand von Kure Beach, North Carolina, die Loggerheads, eine bedrohte Schildkrötenart. Hier lernt er George kennen, ein Mann mit einigen Geheimnissen. Zwischen beiden entsteht eine zaghafte Beziehung, beide fühlen in ihrer Freiheit eine starke Verbundenheit und es erwächst eine intensive Liebe. Zur selben Zeit macht sich Marks leibliche Mutter Grace (Golden Globe & Emmy Award Nominee Bonnie Hunt) auf die Suche nach ihrem Sohn, den sie kurz nach der Geburt zur Adoption freigegeben hatte, während Elizabeth und Robert (OSCARX & Golden Globe Nominees Tess Harper & Chris Sarandon), die Adoptiveltern, schon länger keinen Kontakt mehr zu Mark suchen. Sie alle haben sich im Ozean der Gefühle irgendwo irgendwann verloren, doch ihre Wege werden bald zueinander führen. Es ist eine einzigartige, eine wahre und sehr emotional erzählte Geschichte, die hier in grandiosen und kraftvollen Bildern erzählt wird. Das mehrfach ausgezeichnete Filmensemble, allen voran der charmante Hauptdarsteller und neue Jungstar des amerikanischen Films Kip Pardue (\"But I'm a Cheerleader\", \"Remember the Titans\", \"Die Regeln des Spiels/The Rules of Attraction\"), nimmt den Zuschauer mit auf eine Reise in den bewegenden und bewegten Ozean der Gefühle. Ein intensives Porträt, das von Anfang an berührt.",
+          "duration": "PT1H31M18S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/loggerheads-15373",
+          "name": "Loggerheads (OmU)",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/374012/950x0/loggerheads.jpg",
+          "uploadDate": "2017-12-31T17:13:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Loggerheads (OmU) im Online Stream | TVNOW",
+        "headline": "Loggerheads (OmU) im Online Stream | TVNOW",
+        "description": "Loggerheads (OmU) und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Kip Pardue, Michael Kelly, Tess Harper, Michael Learned, Chris Sarandon.",
+        "url": "https://www.tvnow.de/filme/loggerheads-15373",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/374012/950x0/loggerheads.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/374012/950x0/loggerheads.jpg",
+        "datePublished": "2017-12-31T17:13:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/374012/950x0/loggerheads.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Loggerheads (OmU)",
+            "item": "https://www.tvnow.de/filme/loggerheads-15373"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Loggerheads (OmU) im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

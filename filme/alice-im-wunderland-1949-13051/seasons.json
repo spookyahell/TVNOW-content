@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13051",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13051,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/alice-im-wunderland-1949-13051"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Alice im Wunderland",
+          "teaserId": "film_335868",
+          "teaserName": "Alice im Wunderland | Alice im Wunderland - 1949",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Alice im Wunderland - 1949",
+        "id": 335868,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335868/300x0/alice-im-wunderland-1949.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335868/",
+            "filename": "alice-im-wunderland-1949"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335868/600x0/alice-im-wunderland-1949.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335868/",
+            "filename": "alice-im-wunderland-1949"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335868/1200x0/alice-im-wunderland-1949.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335868/",
+            "filename": "alice-im-wunderland-1949"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335868/300x0/alice-im-wunderland-1949.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335868/",
+            "filename": "alice-im-wunderland-1949"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335868/600x0/alice-im-wunderland-1949.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335868/",
+            "filename": "alice-im-wunderland-1949"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335868/1200x0/alice-im-wunderland-1949.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335868/",
+            "filename": "alice-im-wunderland-1949"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "alice-im-wunderland-1949",
+        "subheadline": "Alice im Wunderland - 1949",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/alice-im-wunderland-1949-13051",
+        "videoId": 335868
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

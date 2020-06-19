@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17054",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17054,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-havel-17054"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Havel",
+          "teaserId": "film_355932",
+          "teaserName": "Die Havel | Die Havel",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Havel",
+        "id": 355932,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355932/300x0/die-havel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355932/",
+            "filename": "die-havel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355932/600x0/die-havel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355932/",
+            "filename": "die-havel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355932/1200x0/die-havel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355932/",
+            "filename": "die-havel"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355932/300x0/die-havel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355932/",
+            "filename": "die-havel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355932/600x0/die-havel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355932/",
+            "filename": "die-havel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355932/1200x0/die-havel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355932/",
+            "filename": "die-havel"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-havel",
+        "subheadline": "Die Havel",
+        "text": "Staffel  | Sa. 09.11.2019, 21:00 Uhr",
+        "type": "film",
+        "url": "/filme/die-havel-17054",
+        "videoId": 355932
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

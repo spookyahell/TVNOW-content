@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12623",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12623,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/freeze-me-12623"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Freeze Me",
+          "teaserId": "film_333848",
+          "teaserName": "Freeze Me | Freeze Me",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Freeze Me",
+        "id": 333848,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333848/300x0/freeze-me.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333848/",
+            "filename": "freeze-me"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333848/600x0/freeze-me.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333848/",
+            "filename": "freeze-me"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333848/1200x0/freeze-me.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333848/",
+            "filename": "freeze-me"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333848/300x0/freeze-me.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333848/",
+            "filename": "freeze-me"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333848/600x0/freeze-me.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333848/",
+            "filename": "freeze-me"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333848/1200x0/freeze-me.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333848/",
+            "filename": "freeze-me"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "freeze-me",
+        "subheadline": "Freeze Me",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/freeze-me-12623",
+        "videoId": 333848
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

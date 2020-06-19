@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18524",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18524,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-promis-und-das-virus-18524"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Promis und das Virus",
+          "teaserId": "film_3075763",
+          "teaserName": "Die Promis und das Virus | Die Promis und das Virus",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Promis"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Promis und das Virus",
+        "id": 3075763,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3075763/300x0/die-promis-und-das-virus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3075763/",
+            "filename": "die-promis-und-das-virus"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3075763/600x0/die-promis-und-das-virus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3075763/",
+            "filename": "die-promis-und-das-virus"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3075763/1200x0/die-promis-und-das-virus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3075763/",
+            "filename": "die-promis-und-das-virus"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3075763/300x0/die-promis-und-das-virus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3075763/",
+            "filename": "die-promis-und-das-virus"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3075763/600x0/die-promis-und-das-virus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3075763/",
+            "filename": "die-promis-und-das-virus"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3075763/1200x0/die-promis-und-das-virus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3075763/",
+            "filename": "die-promis-und-das-virus"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-promis-und-das-virus",
+        "subheadline": "Die Promis und das Virus",
+        "text": "Staffel  | RTL.DE DOKU",
+        "type": "film",
+        "url": "/filme/die-promis-und-das-virus-18524",
+        "videoId": 3075763
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

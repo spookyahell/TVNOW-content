@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 18085,
+  "additionalMeta": {
+    "canonical": "/filme/urwald-von-morgen-nationalpark-eifel-18085",
+    "url": "/filme/urwald-von-morgen-nationalpark-eifel-18085"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Urwald von morgen - Nationalpark Eifel",
+      "url": "/filme/urwald-von-morgen-nationalpark-eifel-18085"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18085,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Urwald von morgen - Nationalpark Eifel 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Urwald von morgen - Nationalpark Eifel, TVNOW, GEO, VOD, Stream, Video, Doku, Dokumentation, Eifel, Natur",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Urwald von morgen - Nationalpark Eifel im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Urwald von morgen - Nationalpark Eifel 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 2083867,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/2083867",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18085"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Natur"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Urwald von morgen - Nationalpark Eifel",
+    "text": "Der Nationalpark Eifel erzählt eine Erfolgsgeschichte des Naturschutzes inmitten einer von Menschen geprägten Umgebung. Abseits der Dörfer und Äcker stehen die heimlichen Rückkehrer wie Wildkatzen, Schwarzstörche und Biber im Mittelpunkt.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/urwald-von-morgen-nationalpark-eifel-18085",
+        "@type": "Movie",
+        "description": "Der Nationalpark Eifel erzählt eine Erfolgsgeschichte des Naturschutzes inmitten einer von Menschen geprägten Umgebung. Abseits der Dörfer und Äcker stehen die heimlichen Rückkehrer wie Wildkatzen, Schwarzstörche und Biber im Mittelpunkt.",
+        "duration": "PT43M31S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/2083867/950x0/urwald-von-morgen-nationalpark-eifel.jpg",
+        "name": "Urwald von morgen - Nationalpark Eifel",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/urwald-von-morgen-nationalpark-eifel-18085",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-02-08T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=urwald-von-morgen-nationalpark-eifel-18085",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=urwald-von-morgen-nationalpark-eifel-18085",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/urwald-von-morgen-nationalpark-eifel-18085",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Der Nationalpark Eifel erzählt eine Erfolgsgeschichte des Naturschutzes inmitten einer von Menschen geprägten Umgebung. Abseits der Dörfer und Äcker stehen die heimlichen Rückkehrer wie Wildkatzen, Schwarzstörche und Biber im Mittelpunkt.",
+          "duration": "PT43M31S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/urwald-von-morgen-nationalpark-eifel-18085",
+          "name": "Urwald von morgen - Nationalpark Eifel",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2083867/950x0/urwald-von-morgen-nationalpark-eifel.jpg",
+          "uploadDate": "2020-02-08T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Urwald von morgen - Nationalpark Eifel im Online Stream | TVNOW",
+        "headline": "Urwald von morgen - Nationalpark Eifel im Online Stream | TVNOW",
+        "description": "Urwald von morgen - Nationalpark Eifel und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/urwald-von-morgen-nationalpark-eifel-18085",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/2083867/950x0/urwald-von-morgen-nationalpark-eifel.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2083867/950x0/urwald-von-morgen-nationalpark-eifel.jpg",
+        "datePublished": "2020-02-08T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/2083867/950x0/urwald-von-morgen-nationalpark-eifel.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Urwald von morgen - Nationalpark Eifel",
+            "item": "https://www.tvnow.de/filme/urwald-von-morgen-nationalpark-eifel-18085"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Urwald von morgen - Nationalpark Eifel im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

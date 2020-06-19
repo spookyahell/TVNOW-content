@@ -1,0 +1,217 @@
+﻿{
+  "formatId": 15171,
+  "additionalMeta": {
+    "canonical": "/serien/kiznaiver-15171",
+    "url": "/serien/kiznaiver-15171"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Kiznaiver",
+      "url": "/serien/kiznaiver-15171"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 15171,
+  "meta": [
+    {
+      "content": "Die Serie Kiznaiver (watchbox) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Anime im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "Kiznaiver, Anime, Stream, Online-Stream, TV NOW, WATCHBOX, kostenlos, Asia, Video, gratis, Drama, Thriller, Experiment, Schmerz",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Kiznaiver im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Kiznaiver (watchbox) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Anime im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/15171",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/15171",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/15171",
+      "type": "teaserrow"
+    },
+    {
+      "id": 12554,
+      "label": "Alle Genres",
+      "moduleLayout": "landscape_small",
+      "moduleUrl": "/module/teaserrow/manual/12554",
+      "type": "teaserrow"
+    },
+    {
+      "id": 15171,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/15171",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnkiznaiver",
+      "video": "dvrsowf_ten_wbnkiznaiver",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/kiznaiver/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "kiznaiver",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Anime",
+    "cluster": [],
+    "classification": [
+      "Box-Set"
+    ]
+  },
+  "seo": {
+    "headline": "Kiznaiver - Informationen zur Serie",
+    "text": "<p>Der visuell eindrucksvoll gestaltete Sci-Fi-Action-Anime umfasst 12 Episoden undist bei TV NOW zu sehen. Die Original-Anime-Produktionwurde 2016 von Studio Trigger (unter anderem „Kill la Kill“) veröffentlicht undstammt aus der Feder von Hiroshi Kobayashi. Ihr guckt lieber im Originalton undwollt eure japanisch-Skills verbessern? Bei „<strong>Kiznaiver</strong>“ habt ihr die Wahlzwischen der deutschen Sprachversion und dem japanischen Originalton mitdeutschen Untertiteln. Und das ganze natürlich wie immer im legalen undkostenlosen Anime-Stream!</p><p>DieHauptfigur Katsuhira Agata hat vor Jahren sein körperliches Schmerzempfindenverloren und lebt seitdem sehr zurückgezogen. Aufgrund seiner passiven Art fällt es ihm schwer, neueKontakte zu knüpfen und sein fehlender Wille sich zu wehren macht ihn zurZielscheibe von Attacken seinerMitschüler. Doch mit der Teilnahme an einem Versuch eröffnen sich ihm neueMöglichkeiten: Er kann nun seine emotionalen und physischen Gefühle mit anderenJugendlichen aus seiner Klasse teilen und dadurch eine besondere Verbindung zuihnen aufbauen. Mit der unglaublichen Empathie,die die „Kiznaiver“ füreinander aufbringen, soll eine friedlichere Gesellschaft geschaffen werden...</p><p>Schaut euch die Serie jetzt bei TV NOW an!</p>",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "https://www.tvnow.de/serien/kiznaiver-15171",
+        "url": "https://www.tvnow.de/serien/kiznaiver-15171",
+        "name": "Kiznaiver",
+        "description": "Die Serie Kiznaiver (watchbox) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Anime im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/15171_04metalogo/1200x0/kiznaiver.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Kiznaiver - Informationen zur Serie",
+        "headline": "Kiznaiver - Informationen zur Serie",
+        "description": "Die Serie Kiznaiver (watchbox) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Anime im Online Stream bei TVNOW anschauen.",
+        "url": "https://www.tvnow.de/serien/kiznaiver-15171",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/15171_04metalogo/1200x0/kiznaiver.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/15171_04metalogo/1200x0/kiznaiver.png",
+        "keywords": "Kiznaiver, Anime, Stream, Online-Stream, TV NOW, WATCHBOX, kostenlos, Asia, Video, gratis, Drama, Thriller, Experiment, Schmerz",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/15171_04metalogo/1200x0/kiznaiver.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "https://www.tvnow.de/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Kiznaiver",
+            "item": "https://www.tvnow.de/serien/kiznaiver-15171"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Kiznaiver im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

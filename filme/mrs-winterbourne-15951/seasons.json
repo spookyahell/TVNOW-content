@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15951",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15951,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mrs-winterbourne-15951"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mrs. Winterbourne",
+          "teaserId": "film_424616",
+          "teaserName": "Mrs. Winterbourne | Mrs. Winterbourne",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mrs. Winterbourne",
+        "id": 424616,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424616/300x0/mrs-winterbourne.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424616/",
+            "filename": "mrs-winterbourne"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424616/600x0/mrs-winterbourne.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424616/",
+            "filename": "mrs-winterbourne"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424616/1200x0/mrs-winterbourne.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424616/",
+            "filename": "mrs-winterbourne"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424616/300x0/mrs-winterbourne.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424616/",
+            "filename": "mrs-winterbourne"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424616/600x0/mrs-winterbourne.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424616/",
+            "filename": "mrs-winterbourne"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424616/1200x0/mrs-winterbourne.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424616/",
+            "filename": "mrs-winterbourne"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mrs-winterbourne",
+        "subheadline": "Mrs. Winterbourne",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/mrs-winterbourne-15951",
+        "videoId": 424616
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

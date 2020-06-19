@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14461",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14461,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/dark-corners-14461"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Dark Corners",
+          "teaserId": "film_344118",
+          "teaserName": "Dark Corners | Dark Corners",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Dark Corners",
+        "id": 344118,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344118/300x0/dark-corners.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344118/",
+            "filename": "dark-corners"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344118/600x0/dark-corners.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344118/",
+            "filename": "dark-corners"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344118/1200x0/dark-corners.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344118/",
+            "filename": "dark-corners"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344118/300x0/dark-corners.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344118/",
+            "filename": "dark-corners"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344118/600x0/dark-corners.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344118/",
+            "filename": "dark-corners"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344118/1200x0/dark-corners.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344118/",
+            "filename": "dark-corners"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "dark-corners",
+        "subheadline": "Dark Corners",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/dark-corners-14461",
+        "videoId": 344118
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

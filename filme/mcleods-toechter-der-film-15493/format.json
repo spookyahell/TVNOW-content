@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 15493,
+  "additionalMeta": {
+    "canonical": "/filme/mcleods-toechter-der-film-15493",
+    "url": "/filme/mcleods-toechter-der-film-15493"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "McLeods Töchter - Der Film",
+      "url": "/filme/mcleods-toechter-der-film-15493"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 15493,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ McLeods Töchter - Der Film 📺 und viele weitere ▶️ Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "McLeods Töchter - Der Film, Film, TV NOW, Watchbox bei TV NOW, Abenteuer, Drama, Australien, Outback, Farm, Pilotfilm",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "McLeods Töchter - Der Film im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ McLeods Töchter - Der Film 📺 und viele weitere ▶️ Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 2591907,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/2591907",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/15493"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_abenteuer/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_abenteuer",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Abenteuer",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: McLeods Töchter - Der Film",
+    "text": "Bei TV NOW kannst Du den Film McLeods Töchter - Der Film und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/mcleods-toechter-der-film-15493",
+        "@type": "Movie",
+        "description": "Drover's Run im australischen Outback: Jack hat von seinem Vater die Farm der Familie geerbt, lebt dort glücklich verheiratet und hat eine Tochter namens Claire. Nach dem Tod seiner Frau heiratet Jack wieder und bekommt eine zweite Tochter, die den Namen Tess trägt. 20 Jahre später treffen sich Claire und Tess nach Jahren des Auseinanderlebens wieder auf der Farm, da sie das Lebenswerk ihres mittlerweile verstorbenen Vaters weiter bewirtschaften wollen. Der Pilotfilm von \"McLeods Töchter\"!",
+        "duration": "PT1H35M2S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/2591907/950x0/mcleods-toechter-der-film.jpg",
+        "name": "McLeods Töchter - Der Film",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/mcleods-toechter-der-film-15493",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2019-06-09T21:26:27.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/mcleods-toechter-der-film-15493",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Drover's Run im australischen Outback: Jack hat von seinem Vater die Farm der Familie geerbt, lebt dort glücklich verheiratet und hat eine Tochter namens Claire. Nach dem Tod seiner Frau heiratet Jack wieder und bekommt eine zweite Tochter, die den Namen Tess trägt. 20 Jahre später treffen sich Claire und Tess nach Jahren des Auseinanderlebens wieder auf der Farm, da sie das Lebenswerk ihres mittlerweile verstorbenen Vaters weiter bewirtschaften wollen. Der Pilotfilm von \"McLeods Töchter\"!",
+          "duration": "PT1H35M2S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/mcleods-toechter-der-film-15493",
+          "name": "McLeods Töchter - Der Film",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2591907/950x0/mcleods-toechter-der-film.jpg",
+          "uploadDate": "2019-06-09T21:26:27.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "McLeods Töchter - Der Film im Online Stream | TVNOW",
+        "headline": "McLeods Töchter - Der Film im Online Stream | TVNOW",
+        "description": "McLeods Töchter - Der Film und viele weitere  ▶️Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW. Ein Film mit ▶️Jack Thomson, Kym Wilson, Tammy McIntosh.",
+        "url": "https://www.tvnow.de/filme/mcleods-toechter-der-film-15493",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/2591907/950x0/mcleods-toechter-der-film.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2591907/950x0/mcleods-toechter-der-film.jpg",
+        "datePublished": "2019-06-09T21:26:27.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/2591907/950x0/mcleods-toechter-der-film.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "McLeods Töchter - Der Film",
+            "item": "https://www.tvnow.de/filme/mcleods-toechter-der-film-15493"
+          }
+        ]
+      }
+    }
+  },
+  "title": "McLeods Töchter - Der Film im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

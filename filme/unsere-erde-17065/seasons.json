@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17065",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17065,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/unsere-erde-17065"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Unsere Erde",
+          "teaserId": "film_359160",
+          "teaserName": "Unsere Erde | Unsere Erde",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Natur"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Unsere Erde",
+        "id": 359160,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/359160/300x0/unsere-erde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/359160/",
+            "filename": "unsere-erde"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/359160/600x0/unsere-erde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/359160/",
+            "filename": "unsere-erde"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/359160/1200x0/unsere-erde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/359160/",
+            "filename": "unsere-erde"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/359160/300x0/unsere-erde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/359160/",
+            "filename": "unsere-erde"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/359160/600x0/unsere-erde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/359160/",
+            "filename": "unsere-erde"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/359160/1200x0/unsere-erde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/359160/",
+            "filename": "unsere-erde"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "unsere-erde",
+        "subheadline": "Unsere Erde",
+        "text": "Staffel  | Do. 29.11.2018, 04:15 Uhr",
+        "type": "film",
+        "url": "/filme/unsere-erde-17065",
+        "videoId": 359160
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

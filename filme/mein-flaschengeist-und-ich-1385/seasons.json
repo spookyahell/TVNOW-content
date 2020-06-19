@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/1385",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 1385,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mein-flaschengeist-und-ich-1385"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mein Flaschengeist und ich",
+          "teaserId": "film_248494",
+          "teaserName": "Mein Flaschengeist und ich | Mein Flaschengeist und ich",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Sa. 21.11.2015, 20:15 Uhr",
+          "teaserEpisodeName": "Mein Flaschengeist und ich"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mein Flaschengeist und ich",
+        "id": 248494,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/248494/300x0/mein-flaschengeist-und-ich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/248494/",
+            "filename": "mein-flaschengeist-und-ich"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/248494/600x0/mein-flaschengeist-und-ich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/248494/",
+            "filename": "mein-flaschengeist-und-ich"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/248494/1200x0/mein-flaschengeist-und-ich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/248494/",
+            "filename": "mein-flaschengeist-und-ich"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/248494/300x0/mein-flaschengeist-und-ich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/248494/",
+            "filename": "mein-flaschengeist-und-ich"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/248494/600x0/mein-flaschengeist-und-ich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/248494/",
+            "filename": "mein-flaschengeist-und-ich"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/248494/1200x0/mein-flaschengeist-und-ich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/248494/",
+            "filename": "mein-flaschengeist-und-ich"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mein-flaschengeist-und-ich",
+        "subheadline": "Mein Flaschengeist und ich",
+        "text": "Staffel 1, Folge 1 | Sa. 21.11.2015, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/mein-flaschengeist-und-ich-1385",
+        "videoId": 248494
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

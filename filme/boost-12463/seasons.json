@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12463",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12463,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/boost-12463"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Boost",
+          "teaserId": "film_329494",
+          "teaserName": "Boost | Boost",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Boost",
+        "id": 329494,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/329494/300x0/boost.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/329494/",
+            "filename": "boost"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/329494/600x0/boost.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/329494/",
+            "filename": "boost"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/329494/1200x0/boost.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/329494/",
+            "filename": "boost"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/329494/300x0/boost.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/329494/",
+            "filename": "boost"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/329494/600x0/boost.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/329494/",
+            "filename": "boost"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/329494/1200x0/boost.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/329494/",
+            "filename": "boost"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "boost",
+        "subheadline": "Boost",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/boost-12463",
+        "videoId": 329494
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

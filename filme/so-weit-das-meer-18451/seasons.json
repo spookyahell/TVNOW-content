@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18451",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18451,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/so-weit-das-meer-18451"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "So weit das Meer",
+          "teaserId": "film_3063456",
+          "teaserName": "So weit das Meer | So weit das Meer",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "So weit das Meer",
+        "id": 3063456,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063456/300x0/so-weit-das-meer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063456/",
+            "filename": "so-weit-das-meer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063456/600x0/so-weit-das-meer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063456/",
+            "filename": "so-weit-das-meer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063456/1200x0/so-weit-das-meer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063456/",
+            "filename": "so-weit-das-meer"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063456/300x0/so-weit-das-meer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063456/",
+            "filename": "so-weit-das-meer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063456/600x0/so-weit-das-meer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063456/",
+            "filename": "so-weit-das-meer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063456/1200x0/so-weit-das-meer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063456/",
+            "filename": "so-weit-das-meer"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "so-weit-das-meer",
+        "subheadline": "So weit das Meer",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/so-weit-das-meer-18451",
+        "videoId": 3063456
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17920",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17920,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/von-maedchen-und-pferden-17920"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Von Mädchen und Pferden",
+          "teaserId": "film_1791268",
+          "teaserName": "Von Mädchen und Pferden | Von Mädchen und Pferden",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Von Mädchen und Pferden",
+        "id": 1791268,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791268/300x0/von-maedchen-und-pferden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791268/",
+            "filename": "von-maedchen-und-pferden"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791268/600x0/von-maedchen-und-pferden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791268/",
+            "filename": "von-maedchen-und-pferden"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791268/1200x0/von-maedchen-und-pferden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791268/",
+            "filename": "von-maedchen-und-pferden"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791268/300x0/von-maedchen-und-pferden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791268/",
+            "filename": "von-maedchen-und-pferden"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791268/600x0/von-maedchen-und-pferden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791268/",
+            "filename": "von-maedchen-und-pferden"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791268/1200x0/von-maedchen-und-pferden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791268/",
+            "filename": "von-maedchen-und-pferden"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "von-maedchen-und-pferden",
+        "subheadline": "Von Mädchen und Pferden",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/von-maedchen-und-pferden-17920",
+        "videoId": 1791268
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

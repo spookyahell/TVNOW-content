@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15593",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15593,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ketten-der-vergangenheit-15593"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ketten der Vergangenheit",
+          "teaserId": "film_389048",
+          "teaserName": "Ketten der Vergangenheit | Ketten der Vergangenheit",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ketten der Vergangenheit",
+        "id": 389048,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389048/300x0/ketten-der-vergangenheit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389048/",
+            "filename": "ketten-der-vergangenheit"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389048/600x0/ketten-der-vergangenheit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389048/",
+            "filename": "ketten-der-vergangenheit"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389048/1200x0/ketten-der-vergangenheit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389048/",
+            "filename": "ketten-der-vergangenheit"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389048/300x0/ketten-der-vergangenheit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389048/",
+            "filename": "ketten-der-vergangenheit"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389048/600x0/ketten-der-vergangenheit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389048/",
+            "filename": "ketten-der-vergangenheit"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389048/1200x0/ketten-der-vergangenheit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389048/",
+            "filename": "ketten-der-vergangenheit"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ketten-der-vergangenheit",
+        "subheadline": "Ketten der Vergangenheit",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/ketten-der-vergangenheit-15593",
+        "videoId": 389048
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12833",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12833,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/antibody-12833"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Antibody",
+          "teaserId": "film_334616",
+          "teaserName": "Antibody | Antibody",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Science Fiction",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Antibody",
+        "id": 334616,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334616/300x0/antibody.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334616/",
+            "filename": "antibody"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334616/600x0/antibody.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334616/",
+            "filename": "antibody"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334616/1200x0/antibody.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334616/",
+            "filename": "antibody"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334616/300x0/antibody.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334616/",
+            "filename": "antibody"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334616/600x0/antibody.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334616/",
+            "filename": "antibody"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334616/1200x0/antibody.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334616/",
+            "filename": "antibody"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "antibody",
+        "subheadline": "Antibody",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/antibody-12833",
+        "videoId": 334616
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

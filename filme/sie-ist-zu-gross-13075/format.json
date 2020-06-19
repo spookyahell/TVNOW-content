@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 13075,
+  "additionalMeta": {
+    "canonical": "/filme/sie-ist-zu-gross-13075",
+    "url": "/filme/sie-ist-zu-gross-13075"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Sie ist zu groß",
+      "url": "/filme/sie-ist-zu-gross-13075"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 13075,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Sie ist zu groß 📺 und viele weitere ▶️ Filme aus dem Genre  findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Sie ist zu groß, Brigitte Nielsen, stream, online-stream,film, spielfilm, Komödie, gratis, kostenlos, video, TV NOW, WATCHBOX, Mode, Kollektion, Intrige",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Sie ist zu groß im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Sie ist zu groß 📺 und viele weitere ▶️ Filme aus dem Genre  findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 336156,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/336156",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/13075"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Sie ist zu groß",
+    "text": "Bei TV NOW kannst Du den Film Sie ist zu groß und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/sie-ist-zu-gross-13075",
+        "@type": "Movie",
+        "description": "Doug Beckwith, verschuldeter Inhaber einer kleinen Auftragsschneiderei, schleicht sich in einem Modeempfang ein und wird prompt herausgeworfen. Trotzdem bekommt er einen Auftrag, eine Modekollektion schnellstens und termingerecht fertig zu nähen. Was er nicht weiß, sein Auftraggeber hofft, dass er versagt und so Verinica Lamar, die Chefin eines großen Modehauses, blamiert, damit sie aus dem Geschäft gedrüngt werden kann. Die Intrige geht aber nach hinten los, die Kollektion wird ein Erfolg und Doug zeigt rasch, was für ein Talent er hat.",
+        "duration": "PT1H32M3S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/336156/950x0/sie-ist-zu-gross.jpg",
+        "name": "Sie ist zu groß",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/sie-ist-zu-gross-13075",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-07-16T16:53:15.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/sie-ist-zu-gross-13075",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Doug Beckwith, verschuldeter Inhaber einer kleinen Auftragsschneiderei, schleicht sich in einem Modeempfang ein und wird prompt herausgeworfen. Trotzdem bekommt er einen Auftrag, eine Modekollektion schnellstens und termingerecht fertig zu nähen. Was er nicht weiß, sein Auftraggeber hofft, dass er versagt und so Verinica Lamar, die Chefin eines großen Modehauses, blamiert, damit sie aus dem Geschäft gedrüngt werden kann. Die Intrige geht aber nach hinten los, die Kollektion wird ein Erfolg und Doug zeigt rasch, was für ein Talent er hat.",
+          "duration": "PT1H32M3S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/sie-ist-zu-gross-13075",
+          "name": "Sie ist zu groß",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/336156/950x0/sie-ist-zu-gross.jpg",
+          "uploadDate": "2017-07-16T16:53:15.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Sie ist zu groß im Online Stream | TVNOW",
+        "headline": "Sie ist zu groß im Online Stream | TVNOW",
+        "description": "Sie ist zu groß und viele weitere  ▶️Filme aus dem Genre  findest du im Online Stream bei TVNOW. Ein Film mit ▶️Brigitte Nielsen, Corey Feldman, George Hamilton.",
+        "url": "https://www.tvnow.de/filme/sie-ist-zu-gross-13075",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/336156/950x0/sie-ist-zu-gross.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/336156/950x0/sie-ist-zu-gross.jpg",
+        "datePublished": "2017-07-16T16:53:15.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/336156/950x0/sie-ist-zu-gross.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sie ist zu groß",
+            "item": "https://www.tvnow.de/filme/sie-ist-zu-gross-13075"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Sie ist zu groß im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

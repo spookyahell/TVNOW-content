@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12897",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12897,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/gisaku-12897"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Gisaku",
+          "teaserId": "film_334980",
+          "teaserName": "Gisaku | Gisaku",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Animation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Gisaku",
+        "id": 334980,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334980/300x0/gisaku.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334980/",
+            "filename": "gisaku"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334980/600x0/gisaku.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334980/",
+            "filename": "gisaku"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334980/1200x0/gisaku.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334980/",
+            "filename": "gisaku"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334980/300x0/gisaku.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334980/",
+            "filename": "gisaku"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334980/600x0/gisaku.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334980/",
+            "filename": "gisaku"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334980/1200x0/gisaku.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334980/",
+            "filename": "gisaku"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "gisaku",
+        "subheadline": "Gisaku",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/gisaku-12897",
+        "videoId": 334980
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

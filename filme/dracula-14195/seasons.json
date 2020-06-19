@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14195",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14195,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/dracula-14195"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Dracula",
+          "teaserId": "film_341294",
+          "teaserName": "Dracula | Dracula",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Dracula",
+        "id": 341294,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341294/300x0/dracula.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341294/",
+            "filename": "dracula"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341294/600x0/dracula.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341294/",
+            "filename": "dracula"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341294/1200x0/dracula.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341294/",
+            "filename": "dracula"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341294/300x0/dracula.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341294/",
+            "filename": "dracula"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341294/600x0/dracula.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341294/",
+            "filename": "dracula"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341294/1200x0/dracula.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341294/",
+            "filename": "dracula"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "dracula",
+        "subheadline": "Dracula",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/dracula-14195",
+        "videoId": 341294
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15485",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15485,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mord-in-barcelona-15485"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mord in Barcelona",
+          "teaserId": "film_385398",
+          "teaserName": "Mord in Barcelona | Mord in Barcelona",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mord in Barcelona",
+        "id": 385398,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/385398/300x0/mord-in-barcelona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/385398/",
+            "filename": "mord-in-barcelona"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/385398/600x0/mord-in-barcelona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/385398/",
+            "filename": "mord-in-barcelona"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/385398/1200x0/mord-in-barcelona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/385398/",
+            "filename": "mord-in-barcelona"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/385398/300x0/mord-in-barcelona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/385398/",
+            "filename": "mord-in-barcelona"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/385398/600x0/mord-in-barcelona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/385398/",
+            "filename": "mord-in-barcelona"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/385398/1200x0/mord-in-barcelona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/385398/",
+            "filename": "mord-in-barcelona"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mord-in-barcelona",
+        "subheadline": "Mord in Barcelona",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/mord-in-barcelona-15485",
+        "videoId": 385398
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

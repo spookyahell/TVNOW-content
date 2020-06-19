@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18454",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18454,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/vermisst-in-berlin-18454"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Vermisst in Berlin",
+          "teaserId": "film_3063484",
+          "teaserName": "Vermisst in Berlin | Vermisst in Berlin",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Vermisst in Berlin",
+        "id": 3063484,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063484/300x0/vermisst-in-berlin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063484/",
+            "filename": "vermisst-in-berlin"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063484/600x0/vermisst-in-berlin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063484/",
+            "filename": "vermisst-in-berlin"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063484/1200x0/vermisst-in-berlin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063484/",
+            "filename": "vermisst-in-berlin"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063484/300x0/vermisst-in-berlin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063484/",
+            "filename": "vermisst-in-berlin"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063484/600x0/vermisst-in-berlin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063484/",
+            "filename": "vermisst-in-berlin"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063484/1200x0/vermisst-in-berlin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063484/",
+            "filename": "vermisst-in-berlin"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "vermisst-in-berlin",
+        "subheadline": "Vermisst in Berlin",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/vermisst-in-berlin-18454",
+        "videoId": 3063484
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

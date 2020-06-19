@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15295",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15295,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/jamie-marks-is-dead-15295"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Jamie Marks is Dead",
+          "teaserId": "film_363246",
+          "teaserName": "Jamie Marks is Dead | Jamie Marks is Dead",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Jamie Marks is Dead",
+        "id": 363246,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/363246/300x0/jamie-marks-is-dead.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/363246/",
+            "filename": "jamie-marks-is-dead"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/363246/600x0/jamie-marks-is-dead.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/363246/",
+            "filename": "jamie-marks-is-dead"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/363246/1200x0/jamie-marks-is-dead.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/363246/",
+            "filename": "jamie-marks-is-dead"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/363246/300x0/jamie-marks-is-dead.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/363246/",
+            "filename": "jamie-marks-is-dead"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/363246/600x0/jamie-marks-is-dead.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/363246/",
+            "filename": "jamie-marks-is-dead"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/363246/1200x0/jamie-marks-is-dead.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/363246/",
+            "filename": "jamie-marks-is-dead"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "jamie-marks-is-dead",
+        "subheadline": "Jamie Marks is Dead",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/jamie-marks-is-dead-15295",
+        "videoId": 363246
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

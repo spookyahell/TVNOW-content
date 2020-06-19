@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13081",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13081,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/horror-house-13081"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Horror House",
+          "teaserId": "film_336152",
+          "teaserName": "Horror House | Horror House",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Horror House",
+        "id": 336152,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336152/300x0/horror-house.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336152/",
+            "filename": "horror-house"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336152/600x0/horror-house.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336152/",
+            "filename": "horror-house"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336152/1200x0/horror-house.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336152/",
+            "filename": "horror-house"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336152/300x0/horror-house.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336152/",
+            "filename": "horror-house"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336152/600x0/horror-house.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336152/",
+            "filename": "horror-house"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336152/1200x0/horror-house.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336152/",
+            "filename": "horror-house"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "horror-house",
+        "subheadline": "Horror House",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/horror-house-13081",
+        "videoId": 336152
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

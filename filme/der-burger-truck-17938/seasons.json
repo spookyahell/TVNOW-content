@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17938",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17938,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-burger-truck-17938"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Burger-Truck",
+          "teaserId": "film_1700646",
+          "teaserName": "Der Burger-Truck | Der Burger-Truck",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Burger-Truck",
+        "id": 1700646,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1700646/300x0/der-burger-truck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1700646/",
+            "filename": "der-burger-truck"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1700646/600x0/der-burger-truck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1700646/",
+            "filename": "der-burger-truck"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1700646/1200x0/der-burger-truck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1700646/",
+            "filename": "der-burger-truck"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1700646/300x0/der-burger-truck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1700646/",
+            "filename": "der-burger-truck"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1700646/600x0/der-burger-truck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1700646/",
+            "filename": "der-burger-truck"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1700646/1200x0/der-burger-truck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1700646/",
+            "filename": "der-burger-truck"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-burger-truck",
+        "subheadline": "Der Burger-Truck",
+        "text": "Staffel  | So. 10.05.2020, 12:10 Uhr",
+        "type": "film",
+        "url": "/filme/der-burger-truck-17938",
+        "videoId": 1700646
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

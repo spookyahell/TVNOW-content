@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17918",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17918,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/looping-17918"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Looping",
+          "teaserId": "film_1791236",
+          "teaserName": "Looping | Looping",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Looping",
+        "id": 1791236,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791236/300x0/looping.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791236/",
+            "filename": "looping"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791236/600x0/looping.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791236/",
+            "filename": "looping"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791236/1200x0/looping.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791236/",
+            "filename": "looping"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791236/300x0/looping.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791236/",
+            "filename": "looping"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791236/600x0/looping.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791236/",
+            "filename": "looping"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791236/1200x0/looping.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791236/",
+            "filename": "looping"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "looping",
+        "subheadline": "Looping",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/looping-17918",
+        "videoId": 1791236
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

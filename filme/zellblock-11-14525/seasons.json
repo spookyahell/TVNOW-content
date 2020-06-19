@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14525",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14525,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/zellblock-11-14525"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Zellblock 11",
+          "teaserId": "film_344426",
+          "teaserName": "Zellblock 11 | Zellblock 11",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Zellblock 11",
+        "id": 344426,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344426/300x0/zellblock-11.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344426/",
+            "filename": "zellblock-11"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344426/600x0/zellblock-11.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344426/",
+            "filename": "zellblock-11"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344426/1200x0/zellblock-11.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344426/",
+            "filename": "zellblock-11"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344426/300x0/zellblock-11.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344426/",
+            "filename": "zellblock-11"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344426/600x0/zellblock-11.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344426/",
+            "filename": "zellblock-11"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344426/1200x0/zellblock-11.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344426/",
+            "filename": "zellblock-11"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "zellblock-11",
+        "subheadline": "Zellblock 11",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/zellblock-11-14525",
+        "videoId": 344426
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

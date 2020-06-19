@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12753",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12753,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/una-de-zombis-12753"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Una de Zombis",
+          "teaserId": "film_333054",
+          "teaserName": "Una de Zombis | Una de Zombis",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Una de Zombis",
+        "id": 333054,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333054/300x0/una-de-zombis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333054/",
+            "filename": "una-de-zombis"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333054/600x0/una-de-zombis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333054/",
+            "filename": "una-de-zombis"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333054/1200x0/una-de-zombis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333054/",
+            "filename": "una-de-zombis"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333054/300x0/una-de-zombis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333054/",
+            "filename": "una-de-zombis"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333054/600x0/una-de-zombis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333054/",
+            "filename": "una-de-zombis"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333054/1200x0/una-de-zombis.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333054/",
+            "filename": "una-de-zombis"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "una-de-zombis",
+        "subheadline": "Una de Zombis",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/una-de-zombis-12753",
+        "videoId": 333054
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

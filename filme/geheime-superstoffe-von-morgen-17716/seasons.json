@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17716",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17716,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/geheime-superstoffe-von-morgen-17716"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Geheime Superstoffe von morgen",
+          "teaserId": "film_1640433",
+          "teaserName": "Geheime Superstoffe von morgen | Geheime Superstoffe von morgen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Geheime Superstoffe von morgen",
+        "id": 1640433,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1640433/300x0/geheime-superstoffe-von-morgen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1640433/",
+            "filename": "geheime-superstoffe-von-morgen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1640433/600x0/geheime-superstoffe-von-morgen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1640433/",
+            "filename": "geheime-superstoffe-von-morgen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1640433/1200x0/geheime-superstoffe-von-morgen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1640433/",
+            "filename": "geheime-superstoffe-von-morgen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1640433/300x0/geheime-superstoffe-von-morgen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1640433/",
+            "filename": "geheime-superstoffe-von-morgen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1640433/600x0/geheime-superstoffe-von-morgen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1640433/",
+            "filename": "geheime-superstoffe-von-morgen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1640433/1200x0/geheime-superstoffe-von-morgen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1640433/",
+            "filename": "geheime-superstoffe-von-morgen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "geheime-superstoffe-von-morgen",
+        "subheadline": "Geheime Superstoffe von morgen",
+        "text": "Staffel  | Mo. 25.05.2020, 02:35 Uhr",
+        "type": "film",
+        "url": "/filme/geheime-superstoffe-von-morgen-17716",
+        "videoId": 1640433
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

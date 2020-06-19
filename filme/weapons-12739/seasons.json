@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12739",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12739,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/weapons-12739"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Weapons",
+          "teaserId": "film_333052",
+          "teaserName": "Weapons | Weapons",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Weapons",
+        "id": 333052,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333052/300x0/weapons.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333052/",
+            "filename": "weapons"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333052/600x0/weapons.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333052/",
+            "filename": "weapons"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333052/1200x0/weapons.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333052/",
+            "filename": "weapons"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333052/300x0/weapons.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333052/",
+            "filename": "weapons"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333052/600x0/weapons.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333052/",
+            "filename": "weapons"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333052/1200x0/weapons.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333052/",
+            "filename": "weapons"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "weapons",
+        "subheadline": "Weapons",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/weapons-12739",
+        "videoId": 333052
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 15109,
+  "additionalMeta": {
+    "canonical": "/filme/sophie-und-der-grosse-freundliche-riese-15109",
+    "url": "/filme/sophie-und-der-grosse-freundliche-riese-15109"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Sophie und der große freundliche Riese",
+      "url": "/filme/sophie-und-der-grosse-freundliche-riese-15109"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 15109,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Sophie und der große freundliche Riese 📺 und viele weitere ▶️ Filme aus dem Genre Animation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Sophie und der große freundliche Riese, Film, Stream, Online-Stream, TV NOW, WATCHBOX, kostenlos, Spielfilm, Video, gratis, Animation, Kinder, Abenteuer, Gigant",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Sophie und der große freundliche Riese im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Sophie und der große freundliche Riese 📺 und viele weitere ▶️ Filme aus dem Genre Animation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 355832,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/355832",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/15109"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_animation/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_animation",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Animation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Sophie und der große freundliche Riese",
+    "text": "Bei TV NOW kannst Du den Film Sophie und der große freundliche Riese und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/sophie-und-der-grosse-freundliche-riese-15109",
+        "@type": "Movie",
+        "description": "In einer Nacht wird Sophie von einem großen Riesen entführt, der sie mit in sein Leben nimmt. Doch die anfängliche Angst wandelt sich, als sich der Riese als freundliches Wesen entpuppt, das viel netter ist als seine unangenehmen Nachbarn. Sophie möchte die grausamen Giganten, die oft Menschen fressen, ein Ende bereiten und heckt zusammen mit ihrem großen freundlichen Riesen einen Plan aus...",
+        "duration": "PT1H27M32S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/355832/950x0/sophie-und-der-grosse-freundliche-riese.jpg",
+        "name": "Sophie und der große freundliche Riese",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/sophie-und-der-grosse-freundliche-riese-15109",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-11-30T16:42:30.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/sophie-und-der-grosse-freundliche-riese-15109",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "In einer Nacht wird Sophie von einem großen Riesen entführt, der sie mit in sein Leben nimmt. Doch die anfängliche Angst wandelt sich, als sich der Riese als freundliches Wesen entpuppt, das viel netter ist als seine unangenehmen Nachbarn. Sophie möchte die grausamen Giganten, die oft Menschen fressen, ein Ende bereiten und heckt zusammen mit ihrem großen freundlichen Riesen einen Plan aus...",
+          "duration": "PT1H27M32S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/sophie-und-der-grosse-freundliche-riese-15109",
+          "name": "Sophie und der große freundliche Riese",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/355832/950x0/sophie-und-der-grosse-freundliche-riese.jpg",
+          "uploadDate": "2017-11-30T16:42:30.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Sophie und der große freundliche Riese im Online Stream | TVNOW",
+        "headline": "Sophie und der große freundliche Riese im Online Stream | TVNOW",
+        "description": "Sophie und der große freundliche Riese und viele weitere  ▶️Filme aus dem Genre Animation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/sophie-und-der-grosse-freundliche-riese-15109",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/355832/950x0/sophie-und-der-grosse-freundliche-riese.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/355832/950x0/sophie-und-der-grosse-freundliche-riese.jpg",
+        "datePublished": "2017-11-30T16:42:30.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/355832/950x0/sophie-und-der-grosse-freundliche-riese.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sophie und der große freundliche Riese",
+            "item": "https://www.tvnow.de/filme/sophie-und-der-grosse-freundliche-riese-15109"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Sophie und der große freundliche Riese im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17976",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17976,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/serien/rake-17976/staffel-1/episode-3-spieler-unter-sich-3150391"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Rake",
+          "teaserId": "serie_episode_3150391",
+          "teaserName": "Rake | Staffel 1 | Folge 3 | Spieler unter sich",
+          "teaserPayType": "paid",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 3",
+          "teaserEpisodeAirtime": "Do. 28.05.2020, 21:15 Uhr",
+          "teaserEpisodeName": "Spieler unter sich"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Spieler unter sich",
+        "id": 3150391,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3150391/300x0/spieler-unter-sich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3150391/",
+            "filename": "spieler-unter-sich"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3150391/600x0/spieler-unter-sich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3150391/",
+            "filename": "spieler-unter-sich"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3150391/1200x0/spieler-unter-sich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3150391/",
+            "filename": "spieler-unter-sich"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3150391/300x0/spieler-unter-sich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3150391/",
+            "filename": "spieler-unter-sich"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3150391/600x0/spieler-unter-sich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3150391/",
+            "filename": "spieler-unter-sich"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3150391/1200x0/spieler-unter-sich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3150391/",
+            "filename": "spieler-unter-sich"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "rake",
+        "subheadline": "Spieler unter sich",
+        "text": "Staffel 1, Folge 3 | Do. 28.05.2020, 21:15 Uhr",
+        "type": "serie",
+        "url": "/serien/rake-17976/staffel-1/episode-3-spieler-unter-sich-3150391",
+        "videoId": 3150391
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

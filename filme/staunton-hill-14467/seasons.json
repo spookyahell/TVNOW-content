@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14467",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14467,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/staunton-hill-14467"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Staunton Hill",
+          "teaserId": "film_344110",
+          "teaserName": "Staunton Hill | Staunton Hill",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Staunton Hill",
+        "id": 344110,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344110/300x0/staunton-hill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344110/",
+            "filename": "staunton-hill"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344110/600x0/staunton-hill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344110/",
+            "filename": "staunton-hill"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344110/1200x0/staunton-hill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344110/",
+            "filename": "staunton-hill"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344110/300x0/staunton-hill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344110/",
+            "filename": "staunton-hill"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344110/600x0/staunton-hill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344110/",
+            "filename": "staunton-hill"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344110/1200x0/staunton-hill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344110/",
+            "filename": "staunton-hill"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "staunton-hill",
+        "subheadline": "Staunton Hill",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/staunton-hill-14467",
+        "videoId": 344110
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

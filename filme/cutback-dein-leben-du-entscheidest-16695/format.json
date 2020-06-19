@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 16695,
+  "additionalMeta": {
+    "canonical": "/filme/cutback-dein-leben-du-entscheidest-16695",
+    "url": "/filme/cutback-dein-leben-du-entscheidest-16695"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Cutback: Dein Leben. Du entscheidest",
+      "url": "/filme/cutback-dein-leben-du-entscheidest-16695"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 16695,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Cutback: Dein Leben. Du entscheidest 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Cutback: Dein Leben. Du entscheidest, Film, TV NOW, Watchbox bei TV NOW, Drama, highschool, lebenssinn, spaß, party, traum, karriere, surfer, konflikt",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Cutback: Dein Leben. Du entscheidest im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Cutback: Dein Leben. Du entscheidest 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1241338,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1241338",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/16695"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_drama/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_drama",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zur Serie: Cutback: Dein Leben. Du entscheidest",
+    "text": "Cutback: Dein Leben. Du entscheidest und viele weitere Serien kannst Du gemütlich online bei TV NOW im Stream anschauen. Also nichts wie los – hole das Knabberzeug raus und genieße Deine Serie ganz entspannt von unterwegs oder von zu Hause aus mit Freunden.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/cutback-dein-leben-du-entscheidest-16695",
+        "@type": "Movie",
+        "description": "Luke - jung, gut aussehend und ein begnadeter Surfer - steht kurz vor seinem Highschool-Abschluss. Vom Ernst des Lebens will er nichts wissen. Zusammen mit seinem besten Freund Casey geht es ihm nur um eins: Spaß haben und Party machen. Sein großer Traum ist eine Karriere als Profi-Surfer. Doch sein Vater ist davon wenig begeistert: Er möchte, dass Luke auf die Uni geht und sich das Surfen ein für alle Mal aus dem Kopf schlägt. Der Streit zwischen Luke und seinem Vater bedeutet zusätzliches Konfliktpotential für die ohnehin angespannte Beziehung seiner Eltern. Die Situation spitzt sich weiter zu, als Luke sich um einen Stammplatz in der Surfmannschaft bewerben will. Denn hier bekommt er Konkurrenz von Matt, einem neuen Mitschüler, der es ebenfalls auf den Platz im Surfteam abgesehen hat. Lukes Mutter bemüht sich verzweifelt um Frieden in der Familie: Sie versucht, ihren Mann für eine Eheberatung zu erwärmen und ihren Sohn für den Glauben zu begeistern. Sie macht Luke mit dem jungen Pastor Shane bekannt und schickt ihn zu den Jugendtreffen in der Gemeinde. Zunächst interessieren sich Luke und Casey mehr für die netten Mädchen dort. Besonders die hübsche Emily hat es Luke angetan. Doch dann zwingt ihn ein tragischer Unfall, sein Leben und seine Ziele neu zu überdenken ...",
+        "duration": "PT1H27M41S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1241338/950x0/cutback-dein-leben-du-entscheidest.jpg",
+        "name": "Cutback: Dein Leben. Du entscheidest",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/cutback-dein-leben-du-entscheidest-16695",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2018-10-22T12:32:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/cutback-dein-leben-du-entscheidest-16695",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Luke - jung, gut aussehend und ein begnadeter Surfer - steht kurz vor seinem Highschool-Abschluss. Vom Ernst des Lebens will er nichts wissen. Zusammen mit seinem besten Freund Casey geht es ihm nur um eins: Spaß haben und Party machen. Sein großer Traum ist eine Karriere als Profi-Surfer. Doch sein Vater ist davon wenig begeistert: Er möchte, dass Luke auf die Uni geht und sich das Surfen ein für alle Mal aus dem Kopf schlägt. Der Streit zwischen Luke und seinem Vater bedeutet zusätzliches Konfliktpotential für die ohnehin angespannte Beziehung seiner Eltern. Die Situation spitzt sich weiter zu, als Luke sich um einen Stammplatz in der Surfmannschaft bewerben will. Denn hier bekommt er Konkurrenz von Matt, einem neuen Mitschüler, der es ebenfalls auf den Platz im Surfteam abgesehen hat. Lukes Mutter bemüht sich verzweifelt um Frieden in der Familie: Sie versucht, ihren Mann für eine Eheberatung zu erwärmen und ihren Sohn für den Glauben zu begeistern. Sie macht Luke mit dem jungen Pastor Shane bekannt und schickt ihn zu den Jugendtreffen in der Gemeinde. Zunächst interessieren sich Luke und Casey mehr für die netten Mädchen dort. Besonders die hübsche Emily hat es Luke angetan. Doch dann zwingt ihn ein tragischer Unfall, sein Leben und seine Ziele neu zu überdenken ...",
+          "duration": "PT1H27M41S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/cutback-dein-leben-du-entscheidest-16695",
+          "name": "Cutback: Dein Leben. Du entscheidest",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1241338/950x0/cutback-dein-leben-du-entscheidest.jpg",
+          "uploadDate": "2018-10-22T12:32:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Cutback: Dein Leben. Du entscheidest im Online Stream | TVNOW",
+        "headline": "Cutback: Dein Leben. Du entscheidest im Online Stream | TVNOW",
+        "description": "Cutback: Dein Leben. Du entscheidest und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Justin Schwan, Kelsey Sanders, Raphael Gardner, Greg Carlson, Angel Cruz.",
+        "url": "https://www.tvnow.de/filme/cutback-dein-leben-du-entscheidest-16695",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1241338/950x0/cutback-dein-leben-du-entscheidest.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1241338/950x0/cutback-dein-leben-du-entscheidest.jpg",
+        "datePublished": "2018-10-22T12:32:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1241338/950x0/cutback-dein-leben-du-entscheidest.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cutback: Dein Leben. Du entscheidest",
+            "item": "https://www.tvnow.de/filme/cutback-dein-leben-du-entscheidest-16695"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Cutback: Dein Leben. Du entscheidest im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

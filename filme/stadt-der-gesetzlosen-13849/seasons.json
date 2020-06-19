@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13849",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13849,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/stadt-der-gesetzlosen-13849"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Stadt der Gesetzlosen",
+          "teaserId": "film_338860",
+          "teaserName": "Stadt der Gesetzlosen | Stadt der Gesetzlosen",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Western",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Stadt der Gesetzlosen",
+        "id": 338860,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338860/300x0/stadt-der-gesetzlosen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338860/",
+            "filename": "stadt-der-gesetzlosen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338860/600x0/stadt-der-gesetzlosen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338860/",
+            "filename": "stadt-der-gesetzlosen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338860/1200x0/stadt-der-gesetzlosen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338860/",
+            "filename": "stadt-der-gesetzlosen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338860/300x0/stadt-der-gesetzlosen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338860/",
+            "filename": "stadt-der-gesetzlosen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338860/600x0/stadt-der-gesetzlosen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338860/",
+            "filename": "stadt-der-gesetzlosen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338860/1200x0/stadt-der-gesetzlosen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338860/",
+            "filename": "stadt-der-gesetzlosen"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "stadt-der-gesetzlosen",
+        "subheadline": "Stadt der Gesetzlosen",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/stadt-der-gesetzlosen-13849",
+        "videoId": 338860
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

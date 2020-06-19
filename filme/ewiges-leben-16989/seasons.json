@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16989",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16989,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ewiges-leben-16989"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ewiges Leben?",
+          "teaserId": "film_776886",
+          "teaserName": "Ewiges Leben? | Ewiges Leben?",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ewiges Leben?",
+        "id": 776886,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/776886/300x0/ewiges-leben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/776886/",
+            "filename": "ewiges-leben"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/776886/600x0/ewiges-leben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/776886/",
+            "filename": "ewiges-leben"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/776886/1200x0/ewiges-leben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/776886/",
+            "filename": "ewiges-leben"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/776886/300x0/ewiges-leben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/776886/",
+            "filename": "ewiges-leben"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/776886/600x0/ewiges-leben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/776886/",
+            "filename": "ewiges-leben"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/776886/1200x0/ewiges-leben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/776886/",
+            "filename": "ewiges-leben"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ewiges-leben",
+        "subheadline": "Ewiges Leben?",
+        "text": "Staffel  | Mo. 25.05.2020, 00:45 Uhr",
+        "type": "film",
+        "url": "/filme/ewiges-leben-16989",
+        "videoId": 776886
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

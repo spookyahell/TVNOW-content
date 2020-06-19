@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 13081,
+  "additionalMeta": {
+    "canonical": "/filme/horror-house-13081",
+    "url": "/filme/horror-house-13081"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Horror House",
+      "url": "/filme/horror-house-13081"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 13081,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Horror House 📺 und viele weitere ▶️ Filme aus dem Genre Horror findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Horror House, Horror, film, spielfilm, video, gratis, kostenlos, stream, online-stream, TV NOW, WATCHBOX, verlassenes Haus, Heimsuchung",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Horror House im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Horror House 📺 und viele weitere ▶️ Filme aus dem Genre Horror findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 336152,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/336152",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/13081"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_horror/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_horror",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Horror",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Horror House",
+    "text": "Bei TV NOW kannst Du den Film Horror House und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/horror-house-13081",
+        "@type": "Movie",
+        "description": "Eine Familie zieht in das alte Winchester Herrenhaus, um dieses für mehrere Monate als Hausmeister zu betreuen. Aber schon bald werden sie durch rachsüchtige Poltergeister terrorisiert und die Tochter wird auf mysteriöse Weise entführt. Um diesen furchteinflößenden Umständen auf den Grund zu gehen, stellen sie Recherchen über das Haus an und mit der Hilfe eines paranormalen Ermittlungsbeamten versuchen sie, das dunkle Geheimnis des Hauses aufzudecken. Nach und nach wird klar, warum das Haus den Ruf hat, einer der schrecklichsten Plätze in Amerika zu sein.",
+        "duration": "PT1H22M1S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/336152/950x0/horror-house.jpg",
+        "name": "Horror House",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/horror-house-13081",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-07-17T02:24:02.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/horror-house-13081",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Eine Familie zieht in das alte Winchester Herrenhaus, um dieses für mehrere Monate als Hausmeister zu betreuen. Aber schon bald werden sie durch rachsüchtige Poltergeister terrorisiert und die Tochter wird auf mysteriöse Weise entführt. Um diesen furchteinflößenden Umständen auf den Grund zu gehen, stellen sie Recherchen über das Haus an und mit der Hilfe eines paranormalen Ermittlungsbeamten versuchen sie, das dunkle Geheimnis des Hauses aufzudecken. Nach und nach wird klar, warum das Haus den Ruf hat, einer der schrecklichsten Plätze in Amerika zu sein.",
+          "duration": "PT1H22M1S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/horror-house-13081",
+          "name": "Horror House",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/336152/950x0/horror-house.jpg",
+          "uploadDate": "2017-07-17T02:24:02.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Horror House im Online Stream | TVNOW",
+        "headline": "Horror House im Online Stream | TVNOW",
+        "description": "Horror House und viele weitere  ▶️Filme aus dem Genre Horror findest du im Online Stream bei TVNOW. Ein Film mit ▶️Lira Kellerman, Michael Holmes, Patty Roberts, Tomas Boykin.",
+        "url": "https://www.tvnow.de/filme/horror-house-13081",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/336152/950x0/horror-house.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/336152/950x0/horror-house.jpg",
+        "datePublished": "2017-07-17T02:24:02.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/336152/950x0/horror-house.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Horror House",
+            "item": "https://www.tvnow.de/filme/horror-house-13081"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Horror House im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

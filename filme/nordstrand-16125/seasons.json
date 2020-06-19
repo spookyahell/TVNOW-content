@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16125",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16125,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/nordstrand-16125"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Nordstrand",
+          "teaserId": "film_578462",
+          "teaserName": "Nordstrand | Nordstrand",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Nordstrand",
+        "id": 578462,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/578462/300x0/nordstrand.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/578462/",
+            "filename": "nordstrand"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/578462/600x0/nordstrand.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/578462/",
+            "filename": "nordstrand"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/578462/1200x0/nordstrand.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/578462/",
+            "filename": "nordstrand"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/578462/300x0/nordstrand.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/578462/",
+            "filename": "nordstrand"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/578462/600x0/nordstrand.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/578462/",
+            "filename": "nordstrand"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/578462/1200x0/nordstrand.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/578462/",
+            "filename": "nordstrand"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "nordstrand",
+        "subheadline": "Nordstrand",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/nordstrand-16125",
+        "videoId": 578462
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

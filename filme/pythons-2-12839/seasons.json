@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12839",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12839,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/pythons-2-12839"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Pythons 2",
+          "teaserId": "film_334608",
+          "teaserName": "Pythons 2 | Pythons 2",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Science Fiction",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Pythons 2",
+        "id": 334608,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334608/300x0/pythons-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334608/",
+            "filename": "pythons-2"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334608/600x0/pythons-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334608/",
+            "filename": "pythons-2"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334608/1200x0/pythons-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334608/",
+            "filename": "pythons-2"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334608/300x0/pythons-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334608/",
+            "filename": "pythons-2"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334608/600x0/pythons-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334608/",
+            "filename": "pythons-2"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334608/1200x0/pythons-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334608/",
+            "filename": "pythons-2"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "pythons-2",
+        "subheadline": "Pythons 2",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/pythons-2-12839",
+        "videoId": 334608
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

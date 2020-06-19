@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 18544,
+  "additionalMeta": {
+    "canonical": "/filme/700-haie-in-der-nacht-18544",
+    "url": "/filme/700-haie-in-der-nacht-18544"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "700 Haie in der Nacht",
+      "url": "/filme/700-haie-in-der-nacht-18544"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18544,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ 700 Haie in der Nacht 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "700 Haie in der Nacht im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ 700 Haie in der Nacht 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3123693,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3123693",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18544"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Tiere",
+      "Wissen"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: 700 Haie in der Nacht",
+    "text": "Bei TVNOW kannst Du den Film 700 Haie in der Nacht und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/700-haie-in-der-nacht-18544",
+        "@type": "Movie",
+        "description": "Laurent Ballesta, Meeresbiologe und renommierter Unterwasserfotograf, taucht mitten in die nächtliche Jagd des größten Haischwarms der je dokumentiert wurde. Spektakuläre Szenen offenbaren völlig neue Verhaltensweisen der schnellen Räuber.",
+        "duration": "PT1H31M56S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3123693/950x0/700-haie-in-der-nacht.jpg",
+        "name": "700 Haie in der Nacht",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/700-haie-in-der-nacht-18544",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-04-30T08:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=700-haie-in-der-nacht-18544",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=700-haie-in-der-nacht-18544",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/700-haie-in-der-nacht-18544",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Laurent Ballesta, Meeresbiologe und renommierter Unterwasserfotograf, taucht mitten in die nächtliche Jagd des größten Haischwarms der je dokumentiert wurde. Spektakuläre Szenen offenbaren völlig neue Verhaltensweisen der schnellen Räuber.",
+          "duration": "PT1H31M56S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/700-haie-in-der-nacht-18544",
+          "name": "700 Haie in der Nacht",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3123693/950x0/700-haie-in-der-nacht.jpg",
+          "uploadDate": "2020-04-30T08:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "700 Haie in der Nacht im Online Stream | TVNOW",
+        "headline": "700 Haie in der Nacht im Online Stream | TVNOW",
+        "description": "700 Haie in der Nacht und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/700-haie-in-der-nacht-18544",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3123693/950x0/700-haie-in-der-nacht.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3123693/950x0/700-haie-in-der-nacht.jpg",
+        "datePublished": "2020-04-30T08:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3123693/950x0/700-haie-in-der-nacht.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "700 Haie in der Nacht",
+            "item": "https://www.tvnow.de/filme/700-haie-in-der-nacht-18544"
+          }
+        ]
+      }
+    }
+  },
+  "title": "700 Haie in der Nacht im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

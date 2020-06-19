@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15303",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15303,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/demon-dibbuk-15303"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Demon - Dibbuk",
+          "teaserId": "film_364690",
+          "teaserName": "Demon - Dibbuk | Demon - Dibbuk",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Demon - Dibbuk",
+        "id": 364690,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/364690/300x0/demon-dibbuk.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/364690/",
+            "filename": "demon-dibbuk"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/364690/600x0/demon-dibbuk.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/364690/",
+            "filename": "demon-dibbuk"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/364690/1200x0/demon-dibbuk.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/364690/",
+            "filename": "demon-dibbuk"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/364690/300x0/demon-dibbuk.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/364690/",
+            "filename": "demon-dibbuk"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/364690/600x0/demon-dibbuk.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/364690/",
+            "filename": "demon-dibbuk"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/364690/1200x0/demon-dibbuk.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/364690/",
+            "filename": "demon-dibbuk"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "demon-dibbuk",
+        "subheadline": "Demon - Dibbuk",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/demon-dibbuk-15303",
+        "videoId": 364690
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

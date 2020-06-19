@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12351",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12351,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/red-corvette-the-12351"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Red Corvette",
+          "teaserId": "film_341984",
+          "teaserName": "The Red Corvette | Red Corvette, The",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Red Corvette, The",
+        "id": 341984,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341984/300x0/red-corvette-the.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341984/",
+            "filename": "red-corvette-the"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341984/600x0/red-corvette-the.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341984/",
+            "filename": "red-corvette-the"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341984/1200x0/red-corvette-the.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341984/",
+            "filename": "red-corvette-the"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341984/300x0/red-corvette-the.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341984/",
+            "filename": "red-corvette-the"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341984/600x0/red-corvette-the.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341984/",
+            "filename": "red-corvette-the"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341984/1200x0/red-corvette-the.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341984/",
+            "filename": "red-corvette-the"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-red-corvette",
+        "subheadline": "Red Corvette, The",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/red-corvette-the-12351",
+        "videoId": 341984
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

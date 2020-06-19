@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15937",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15937,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-killerhand-15937"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Killerhand",
+          "teaserId": "film_424320",
+          "teaserName": "Die Killerhand | Die Killerhand",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Killerhand",
+        "id": 424320,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424320/300x0/die-killerhand.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424320/",
+            "filename": "die-killerhand"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424320/600x0/die-killerhand.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424320/",
+            "filename": "die-killerhand"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424320/1200x0/die-killerhand.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424320/",
+            "filename": "die-killerhand"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424320/300x0/die-killerhand.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424320/",
+            "filename": "die-killerhand"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424320/600x0/die-killerhand.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424320/",
+            "filename": "die-killerhand"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424320/1200x0/die-killerhand.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424320/",
+            "filename": "die-killerhand"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-killerhand",
+        "subheadline": "Die Killerhand",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/die-killerhand-15937",
+        "videoId": 424320
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

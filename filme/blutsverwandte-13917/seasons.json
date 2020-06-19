@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13917",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13917,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/blutsverwandte-13917"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Blutsverwandte",
+          "teaserId": "film_339116",
+          "teaserName": "Blutsverwandte | Blutsverwandte",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Show",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Blutsverwandte",
+        "id": 339116,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339116/300x0/blutsverwandte.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339116/",
+            "filename": "blutsverwandte"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339116/600x0/blutsverwandte.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339116/",
+            "filename": "blutsverwandte"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339116/1200x0/blutsverwandte.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339116/",
+            "filename": "blutsverwandte"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339116/300x0/blutsverwandte.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339116/",
+            "filename": "blutsverwandte"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339116/600x0/blutsverwandte.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339116/",
+            "filename": "blutsverwandte"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339116/1200x0/blutsverwandte.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339116/",
+            "filename": "blutsverwandte"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "blutsverwandte",
+        "subheadline": "Blutsverwandte",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/blutsverwandte-13917",
+        "videoId": 339116
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

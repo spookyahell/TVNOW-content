@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13245",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13245,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-weihnachtsgeschichte-scrooge-13245"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Weihnachtsgeschichte - Scrooge",
+          "teaserId": "film_336654",
+          "teaserName": "Die Weihnachtsgeschichte - Scrooge | Die Weihnachtsgeschichte - Scrooge",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Weihnachtsgeschichte - Scrooge",
+        "id": 336654,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336654/300x0/die-weihnachtsgeschichte-scrooge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336654/",
+            "filename": "die-weihnachtsgeschichte-scrooge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336654/600x0/die-weihnachtsgeschichte-scrooge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336654/",
+            "filename": "die-weihnachtsgeschichte-scrooge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336654/1200x0/die-weihnachtsgeschichte-scrooge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336654/",
+            "filename": "die-weihnachtsgeschichte-scrooge"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336654/300x0/die-weihnachtsgeschichte-scrooge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336654/",
+            "filename": "die-weihnachtsgeschichte-scrooge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336654/600x0/die-weihnachtsgeschichte-scrooge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336654/",
+            "filename": "die-weihnachtsgeschichte-scrooge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336654/1200x0/die-weihnachtsgeschichte-scrooge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336654/",
+            "filename": "die-weihnachtsgeschichte-scrooge"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-weihnachtsgeschichte-scrooge",
+        "subheadline": "Die Weihnachtsgeschichte - Scrooge",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/die-weihnachtsgeschichte-scrooge-13245",
+        "videoId": 336654
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

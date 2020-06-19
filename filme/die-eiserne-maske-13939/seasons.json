@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13939",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13939,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-eiserne-maske-13939"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die eiserne Maske",
+          "teaserId": "film_339198",
+          "teaserName": "Die eiserne Maske | Die eiserne Maske",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die eiserne Maske",
+        "id": 339198,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339198/300x0/die-eiserne-maske.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339198/",
+            "filename": "die-eiserne-maske"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339198/600x0/die-eiserne-maske.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339198/",
+            "filename": "die-eiserne-maske"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339198/1200x0/die-eiserne-maske.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339198/",
+            "filename": "die-eiserne-maske"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339198/300x0/die-eiserne-maske.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339198/",
+            "filename": "die-eiserne-maske"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339198/600x0/die-eiserne-maske.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339198/",
+            "filename": "die-eiserne-maske"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339198/1200x0/die-eiserne-maske.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339198/",
+            "filename": "die-eiserne-maske"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-eiserne-maske",
+        "subheadline": "Die eiserne Maske",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/die-eiserne-maske-13939",
+        "videoId": 339198
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

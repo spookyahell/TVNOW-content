@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15003",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15003,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mirage-man-kicks-ass-15003"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mirage Man Kicks Ass",
+          "teaserId": "film_354754",
+          "teaserName": "Mirage Man Kicks Ass | Mirage Man Kicks Ass",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mirage Man Kicks Ass",
+        "id": 354754,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354754/300x0/mirage-man-kicks-ass.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354754/",
+            "filename": "mirage-man-kicks-ass"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354754/600x0/mirage-man-kicks-ass.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354754/",
+            "filename": "mirage-man-kicks-ass"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354754/1200x0/mirage-man-kicks-ass.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354754/",
+            "filename": "mirage-man-kicks-ass"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354754/300x0/mirage-man-kicks-ass.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354754/",
+            "filename": "mirage-man-kicks-ass"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354754/600x0/mirage-man-kicks-ass.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354754/",
+            "filename": "mirage-man-kicks-ass"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354754/1200x0/mirage-man-kicks-ass.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354754/",
+            "filename": "mirage-man-kicks-ass"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mirage-man-kicks-ass",
+        "subheadline": "Mirage Man Kicks Ass",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/mirage-man-kicks-ass-15003",
+        "videoId": 354754
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

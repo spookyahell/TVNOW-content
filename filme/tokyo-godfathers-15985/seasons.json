@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15985",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15985,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/tokyo-godfathers-15985"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Tokyo Godfathers",
+          "teaserId": "film_426078",
+          "teaserName": "Tokyo Godfathers | Tokyo Godfathers",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Anime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Tokyo Godfathers",
+        "id": 426078,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/426078/300x0/tokyo-godfathers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/426078/",
+            "filename": "tokyo-godfathers"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/426078/600x0/tokyo-godfathers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/426078/",
+            "filename": "tokyo-godfathers"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/426078/1200x0/tokyo-godfathers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/426078/",
+            "filename": "tokyo-godfathers"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/426078/300x0/tokyo-godfathers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/426078/",
+            "filename": "tokyo-godfathers"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/426078/600x0/tokyo-godfathers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/426078/",
+            "filename": "tokyo-godfathers"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/426078/1200x0/tokyo-godfathers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/426078/",
+            "filename": "tokyo-godfathers"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "tokyo-godfathers",
+        "subheadline": "Tokyo Godfathers",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/tokyo-godfathers-15985",
+        "videoId": 426078
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

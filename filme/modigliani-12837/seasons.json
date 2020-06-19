@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12837",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12837,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/modigliani-12837"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Modigliani",
+          "teaserId": "film_334620",
+          "teaserName": "Modigliani | Modigliani",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Modigliani",
+        "id": 334620,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334620/300x0/modigliani.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334620/",
+            "filename": "modigliani"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334620/600x0/modigliani.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334620/",
+            "filename": "modigliani"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334620/1200x0/modigliani.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334620/",
+            "filename": "modigliani"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334620/300x0/modigliani.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334620/",
+            "filename": "modigliani"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334620/600x0/modigliani.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334620/",
+            "filename": "modigliani"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334620/1200x0/modigliani.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334620/",
+            "filename": "modigliani"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "modigliani",
+        "subheadline": "Modigliani",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/modigliani-12837",
+        "videoId": 334620
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

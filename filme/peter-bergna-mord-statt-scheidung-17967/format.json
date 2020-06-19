@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 17967,
+  "additionalMeta": {
+    "canonical": "/filme/peter-bergna-mord-statt-scheidung-17967",
+    "url": "/filme/peter-bergna-mord-statt-scheidung-17967"
+  },
+  "ads": {
+    "station": "crime",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Peter Bergna: Mord statt Scheidung",
+      "url": "/filme/peter-bergna-mord-statt-scheidung-17967"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17967,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Peter Bergna: Mord statt Scheidung 📺 und viele weitere ▶️ Filme aus dem Genre Crime findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Peter Bergna: Mord statt Scheidung, video, videos, online sehen, internet tv, fernsehen, video on demand, TV NOW, TVNOW",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Peter Bergna: Mord statt Scheidung im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Peter Bergna: Mord statt Scheidung 📺 und viele weitere ▶️ Filme aus dem Genre Crime findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1722250,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1722250",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17967"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_cnrtlcrime",
+      "video": "dvrsowf_ten_cnrtlcrime",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/crime_now/formate/crime_format/home",
+      "levels": [
+        "tv_now_de",
+        "crime_now",
+        "formate",
+        "crime_format",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Crime",
+    "cluster": [
+      "True Crime"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Peter Bergna: Mord statt Scheidung",
+    "text": "1998 genießen der wohlhabende 45-jährige Peter Bergna und seine Frau Rinette ein scheinbar unbeschwertes Leben im Ressort Lake Tahoe. Doch dann passiert ein schrecklicher Unfall: Der Wagen des Paares kommt von der Straße ab und stürzt einen etwa 250 Meter hohen Abhang hinunter. Wie durch ein Wunder überlebt Peter Bergna leicht verletzt. \nDie Polizei ist nach Peters Befragung unsicher, ob sich die Ereignisse tatsächlich so zugetragen haben, hat jedoch keine Beweise gegen ihn in der Hand. Doch Sergeant John Schilling lässt nicht locker und schafft es, den Fall 2001 neu aufzurollen. Im ersten Prozess wird Peter Bergna freigesprochen. Aufgrund eines Fehlverhaltens der Jury kommt es aber zu einem zweiten Prozess, in dem Peters Ex-Frau ihm ein missbräuchliches Verhalten bescheinigt. \nPeter Bergna wird wegen Mordes an Rinette schuldig gesprochen.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/peter-bergna-mord-statt-scheidung-17967",
+        "@type": "Movie",
+        "description": "1998 genießen der wohlhabende 45-jährige Peter Bergna und seine Frau Rinette ein scheinbar unbeschwertes Leben im Ressort Lake Tahoe. Doch dann passiert ein schrecklicher Unfall: Der Wagen des Paares kommt von der Straße ab und stürzt einen etwa 250 Meter hohen Abhang hinunter. Wie durch ein Wunder überlebt Peter Bergna leicht verletzt. \nDie Polizei ist nach Peters Befragung unsicher, ob sich die Ereignisse tatsächlich so zugetragen haben, hat jedoch keine Beweise gegen ihn in der Hand. Doch Sergeant John Schilling lässt nicht locker und schafft es, den Fall 2001 neu aufzurollen. Im ersten Prozess wird Peter Bergna freigesprochen. Aufgrund eines Fehlverhaltens der Jury kommt es aber zu einem zweiten Prozess, in dem Peters Ex-Frau ihm ein missbräuchliches Verhalten bescheinigt. \nPeter Bergna wird wegen Mordes an Rinette schuldig gesprochen.",
+        "duration": "PT25M38S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1722250/950x0/peter-bergna-mord-statt-scheidung.jpg",
+        "name": "Peter Bergna: Mord statt Scheidung",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/peter-bergna-mord-statt-scheidung-17967",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-01-06T10:25:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=peter-bergna-mord-statt-scheidung-17967",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=peter-bergna-mord-statt-scheidung-17967",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/peter-bergna-mord-statt-scheidung-17967",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "1998 genießen der wohlhabende 45-jährige Peter Bergna und seine Frau Rinette ein scheinbar unbeschwertes Leben im Ressort Lake Tahoe. Doch dann passiert ein schrecklicher Unfall: Der Wagen des Paares kommt von der Straße ab und stürzt einen etwa 250 Meter hohen Abhang hinunter. Wie durch ein Wunder überlebt Peter Bergna leicht verletzt. \nDie Polizei ist nach Peters Befragung unsicher, ob sich die Ereignisse tatsächlich so zugetragen haben, hat jedoch keine Beweise gegen ihn in der Hand. Doch Sergeant John Schilling lässt nicht locker und schafft es, den Fall 2001 neu aufzurollen. Im ersten Prozess wird Peter Bergna freigesprochen. Aufgrund eines Fehlverhaltens der Jury kommt es aber zu einem zweiten Prozess, in dem Peters Ex-Frau ihm ein missbräuchliches Verhalten bescheinigt. \nPeter Bergna wird wegen Mordes an Rinette schuldig gesprochen.",
+          "duration": "PT25M38S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/peter-bergna-mord-statt-scheidung-17967",
+          "name": "Peter Bergna: Mord statt Scheidung",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1722250/950x0/peter-bergna-mord-statt-scheidung.jpg",
+          "uploadDate": "2020-01-06T10:25:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Peter Bergna: Mord statt Scheidung im Online Stream | TVNOW",
+        "headline": "Peter Bergna: Mord statt Scheidung im Online Stream | TVNOW",
+        "description": "Peter Bergna: Mord statt Scheidung und viele weitere  ▶️Filme aus dem Genre Crime findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/peter-bergna-mord-statt-scheidung-17967",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1722250/950x0/peter-bergna-mord-statt-scheidung.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1722250/950x0/peter-bergna-mord-statt-scheidung.jpg",
+        "datePublished": "2020-01-06T10:25:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1722250/950x0/peter-bergna-mord-statt-scheidung.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Peter Bergna: Mord statt Scheidung",
+            "item": "https://www.tvnow.de/filme/peter-bergna-mord-statt-scheidung-17967"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Peter Bergna: Mord statt Scheidung im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

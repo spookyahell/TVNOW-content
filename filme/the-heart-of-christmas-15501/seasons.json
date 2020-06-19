@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15501",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15501,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-heart-of-christmas-15501"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Heart of Christmas",
+          "teaserId": "film_386268",
+          "teaserName": "The Heart of Christmas | The Heart of Christmas",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Heart of Christmas",
+        "id": 386268,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386268/300x0/the-heart-of-christmas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386268/",
+            "filename": "the-heart-of-christmas"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386268/600x0/the-heart-of-christmas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386268/",
+            "filename": "the-heart-of-christmas"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386268/1200x0/the-heart-of-christmas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386268/",
+            "filename": "the-heart-of-christmas"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386268/300x0/the-heart-of-christmas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386268/",
+            "filename": "the-heart-of-christmas"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386268/600x0/the-heart-of-christmas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386268/",
+            "filename": "the-heart-of-christmas"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386268/1200x0/the-heart-of-christmas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386268/",
+            "filename": "the-heart-of-christmas"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-heart-of-christmas",
+        "subheadline": "The Heart of Christmas",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-heart-of-christmas-15501",
+        "videoId": 386268
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

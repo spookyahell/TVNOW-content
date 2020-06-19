@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12763",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12763,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/seance-12763"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Seance",
+          "teaserId": "film_333678",
+          "teaserName": "Seance | Seance",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Seance",
+        "id": 333678,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333678/300x0/seance.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333678/",
+            "filename": "seance"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333678/600x0/seance.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333678/",
+            "filename": "seance"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333678/1200x0/seance.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333678/",
+            "filename": "seance"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333678/300x0/seance.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333678/",
+            "filename": "seance"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333678/600x0/seance.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333678/",
+            "filename": "seance"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333678/1200x0/seance.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333678/",
+            "filename": "seance"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "seance",
+        "subheadline": "Seance",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/seance-12763",
+        "videoId": 333678
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

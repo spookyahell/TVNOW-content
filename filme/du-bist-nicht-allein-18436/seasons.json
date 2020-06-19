@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18436",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18436,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/du-bist-nicht-allein-18436"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Du bist nicht allein",
+          "teaserId": "film_3047925",
+          "teaserName": "Du bist nicht allein | Du bist nicht allein",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Du bist nicht allein",
+        "id": 3047925,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3047925/300x0/du-bist-nicht-allein.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3047925/",
+            "filename": "du-bist-nicht-allein"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3047925/600x0/du-bist-nicht-allein.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3047925/",
+            "filename": "du-bist-nicht-allein"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3047925/1200x0/du-bist-nicht-allein.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3047925/",
+            "filename": "du-bist-nicht-allein"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3047925/300x0/du-bist-nicht-allein.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3047925/",
+            "filename": "du-bist-nicht-allein"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3047925/600x0/du-bist-nicht-allein.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3047925/",
+            "filename": "du-bist-nicht-allein"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3047925/1200x0/du-bist-nicht-allein.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3047925/",
+            "filename": "du-bist-nicht-allein"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "du-bist-nicht-allein",
+        "subheadline": "Du bist nicht allein",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/du-bist-nicht-allein-18436",
+        "videoId": 3047925
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

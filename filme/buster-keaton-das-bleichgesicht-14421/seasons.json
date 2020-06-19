@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14421",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14421,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/das-bleichgesicht-14421"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Buster Keaton: Das Bleichgesicht",
+          "teaserId": "film_343674",
+          "teaserName": "Buster Keaton: Das Bleichgesicht | Das Bleichgesicht",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Klassiker",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das Bleichgesicht",
+        "id": 343674,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343674/300x0/das-bleichgesicht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343674/",
+            "filename": "das-bleichgesicht"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343674/600x0/das-bleichgesicht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343674/",
+            "filename": "das-bleichgesicht"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343674/1200x0/das-bleichgesicht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343674/",
+            "filename": "das-bleichgesicht"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343674/300x0/das-bleichgesicht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343674/",
+            "filename": "das-bleichgesicht"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343674/600x0/das-bleichgesicht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343674/",
+            "filename": "das-bleichgesicht"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343674/1200x0/das-bleichgesicht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343674/",
+            "filename": "das-bleichgesicht"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "buster-keaton-das-bleichgesicht",
+        "subheadline": "Das Bleichgesicht",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/das-bleichgesicht-14421",
+        "videoId": 343674
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

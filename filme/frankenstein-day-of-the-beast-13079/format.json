@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 13079,
+  "additionalMeta": {
+    "canonical": "/filme/frankenstein-day-of-the-beast-13079",
+    "url": "/filme/frankenstein-day-of-the-beast-13079"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Frankenstein: Day of the Beast",
+      "url": "/filme/frankenstein-day-of-the-beast-13079"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 13079,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Frankenstein: Day of the Beast 📺 und viele weitere ▶️ Filme aus dem Genre Horror findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Frankenstein: Day of the Beast, film, spielfilm, video, gratis, stream, online-stream, kostenlos, Horror, Trash, TV NOW, WATCHBOX, Frankenstein",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Frankenstein: Day of the Beast im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Frankenstein: Day of the Beast 📺 und viele weitere ▶️ Filme aus dem Genre Horror findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 336154,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/336154",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/13079"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_horror/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_horror",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Horror",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Frankenstein: Day of the Beast",
+    "text": "Bei TV NOW kannst Du den Film Frankenstein: Day of the Beast und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/frankenstein-day-of-the-beast-13079",
+        "@type": "Movie",
+        "description": "Ein Priester wird an einem nebligen Wintermorgen zu einer einsamen Insel transportiert. Seine Aufgabe soll es sein, eine geheime Trauung zu vollziehen. Die Betroffenen sind keine geringeren als Victor Frankenstein und seine Cousine Elizabeth. Diese wird jedoch von sieben bewaffneten Söldnern gesucht, die sie vor ihrem zukünftigen Ehemann beschützen sollen. Eine große, unheimliche Kreatur lauert in den dunklen Wäldern und hat nur ein Ziel: Elizabeth.",
+        "duration": "PT1H30M49S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/336154/950x0/frankenstein-day-of-the-beast.jpg",
+        "name": "Frankenstein: Day of the Beast",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/frankenstein-day-of-the-beast-13079",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-07-16T23:38:59.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/frankenstein-day-of-the-beast-13079",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Ein Priester wird an einem nebligen Wintermorgen zu einer einsamen Insel transportiert. Seine Aufgabe soll es sein, eine geheime Trauung zu vollziehen. Die Betroffenen sind keine geringeren als Victor Frankenstein und seine Cousine Elizabeth. Diese wird jedoch von sieben bewaffneten Söldnern gesucht, die sie vor ihrem zukünftigen Ehemann beschützen sollen. Eine große, unheimliche Kreatur lauert in den dunklen Wäldern und hat nur ein Ziel: Elizabeth.",
+          "duration": "PT1H30M49S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/frankenstein-day-of-the-beast-13079",
+          "name": "Frankenstein: Day of the Beast",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/336154/950x0/frankenstein-day-of-the-beast.jpg",
+          "uploadDate": "2017-07-16T23:38:59.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Frankenstein: Day of the Beast im Online Stream | TVNOW",
+        "headline": "Frankenstein: Day of the Beast im Online Stream | TVNOW",
+        "description": "Frankenstein: Day of the Beast und viele weitere  ▶️Filme aus dem Genre Horror findest du im Online Stream bei TVNOW. Ein Film mit ▶️Michelle Shields, Tim Krueger, Adam Stephenson.",
+        "url": "https://www.tvnow.de/filme/frankenstein-day-of-the-beast-13079",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/336154/950x0/frankenstein-day-of-the-beast.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/336154/950x0/frankenstein-day-of-the-beast.jpg",
+        "datePublished": "2017-07-16T23:38:59.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/336154/950x0/frankenstein-day-of-the-beast.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Frankenstein: Day of the Beast",
+            "item": "https://www.tvnow.de/filme/frankenstein-day-of-the-beast-13079"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Frankenstein: Day of the Beast im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

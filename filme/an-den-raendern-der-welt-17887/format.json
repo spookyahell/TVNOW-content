@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 17887,
+  "additionalMeta": {
+    "canonical": "/filme/an-den-raendern-der-welt-17887",
+    "url": "/filme/an-den-raendern-der-welt-17887"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "An den Rändern der Welt",
+      "url": "/filme/an-den-raendern-der-welt-17887"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17887,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ An den Rändern der Welt 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "An den Rändern der Welt, TVNOW, GEO, VOD, Stream, Video, Doku, Dokumentation",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "An den Rändern der Welt im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ An den Rändern der Welt 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1687163,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1687163",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17887"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: An den Rändern der Welt",
+    "text": "Noch gibt es Gesellschaften ohne Smartphone oder fließend Wasser. Aber wie lange noch? Um sich ein Bild zu machen, wagt Fotograf und Greenpeace-Aktivist Markus Mauthe eine spektakuläre Weltreise zu den letzten Naturvölkern. Das Ergebnis ist eine bildgewaltige Reportage, in der magische Naturmomente und aufrüttelnde Botschaften zum Plädoyer für den Schutz der letzten Wildnis-Areale verschmelzen. ",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/an-den-raendern-der-welt-17887",
+        "@type": "Movie",
+        "description": "Noch gibt es Gesellschaften ohne Smartphone oder fließend Wasser. Aber wie lange noch? Um sich ein Bild zu machen, wagt Fotograf und Greenpeace-Aktivist Markus Mauthe eine spektakuläre Weltreise zu den letzten Naturvölkern. Das Ergebnis ist eine bildgewaltige Reportage, in der magische Naturmomente und aufrüttelnde Botschaften zum Plädoyer für den Schutz der letzten Wildnis-Areale verschmelzen. ",
+        "duration": "PT1H28M17S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1687163/950x0/an-den-raendern-der-welt.jpg",
+        "name": "An den Rändern der Welt",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/an-den-raendern-der-welt-17887",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-05-01T21:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=an-den-raendern-der-welt-17887",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=an-den-raendern-der-welt-17887",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/an-den-raendern-der-welt-17887",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Noch gibt es Gesellschaften ohne Smartphone oder fließend Wasser. Aber wie lange noch? Um sich ein Bild zu machen, wagt Fotograf und Greenpeace-Aktivist Markus Mauthe eine spektakuläre Weltreise zu den letzten Naturvölkern. Das Ergebnis ist eine bildgewaltige Reportage, in der magische Naturmomente und aufrüttelnde Botschaften zum Plädoyer für den Schutz der letzten Wildnis-Areale verschmelzen. ",
+          "duration": "PT1H28M17S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/an-den-raendern-der-welt-17887",
+          "name": "An den Rändern der Welt",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1687163/950x0/an-den-raendern-der-welt.jpg",
+          "uploadDate": "2020-05-01T21:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "An den Rändern der Welt im Online Stream | TVNOW",
+        "headline": "An den Rändern der Welt im Online Stream | TVNOW",
+        "description": "An den Rändern der Welt und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/an-den-raendern-der-welt-17887",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1687163/950x0/an-den-raendern-der-welt.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1687163/950x0/an-den-raendern-der-welt.jpg",
+        "datePublished": "2020-05-01T21:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1687163/950x0/an-den-raendern-der-welt.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "An den Rändern der Welt",
+            "item": "https://www.tvnow.de/filme/an-den-raendern-der-welt-17887"
+          }
+        ]
+      }
+    }
+  },
+  "title": "An den Rändern der Welt im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12491",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12491,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/sisters-of-wellber-12491"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sisters of Wellber",
+          "teaserId": "film_332062",
+          "teaserName": "Sisters of Wellber | Sisters of Wellber",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Anime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Sisters of Wellber",
+        "id": 332062,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332062/300x0/sisters-of-wellber.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332062/",
+            "filename": "sisters-of-wellber"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332062/600x0/sisters-of-wellber.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332062/",
+            "filename": "sisters-of-wellber"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332062/1200x0/sisters-of-wellber.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332062/",
+            "filename": "sisters-of-wellber"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332062/300x0/sisters-of-wellber.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332062/",
+            "filename": "sisters-of-wellber"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332062/600x0/sisters-of-wellber.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332062/",
+            "filename": "sisters-of-wellber"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332062/1200x0/sisters-of-wellber.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332062/",
+            "filename": "sisters-of-wellber"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sisters-of-wellber",
+        "subheadline": "Sisters of Wellber",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/sisters-of-wellber-12491",
+        "videoId": 332062
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

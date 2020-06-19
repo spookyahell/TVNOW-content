@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18284",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18284,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/leuchtfeuer-des-lebens-18284"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Leuchtfeuer des Lebens",
+          "teaserId": "film_2803773",
+          "teaserName": "Leuchtfeuer des Lebens | Leuchtfeuer des Lebens",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Natur"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Leuchtfeuer des Lebens",
+        "id": 2803773,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2803773/300x0/leuchtfeuer-des-lebens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2803773/",
+            "filename": "leuchtfeuer-des-lebens"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2803773/600x0/leuchtfeuer-des-lebens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2803773/",
+            "filename": "leuchtfeuer-des-lebens"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2803773/1200x0/leuchtfeuer-des-lebens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2803773/",
+            "filename": "leuchtfeuer-des-lebens"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2803773/300x0/leuchtfeuer-des-lebens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2803773/",
+            "filename": "leuchtfeuer-des-lebens"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2803773/600x0/leuchtfeuer-des-lebens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2803773/",
+            "filename": "leuchtfeuer-des-lebens"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2803773/1200x0/leuchtfeuer-des-lebens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2803773/",
+            "filename": "leuchtfeuer-des-lebens"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "leuchtfeuer-des-lebens",
+        "subheadline": "Leuchtfeuer des Lebens",
+        "text": "Staffel  | So. 31.05.2020, 16:30 Uhr",
+        "type": "film",
+        "url": "/filme/leuchtfeuer-des-lebens-18284",
+        "videoId": 2803773
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

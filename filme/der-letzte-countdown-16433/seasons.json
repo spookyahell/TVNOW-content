@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16433",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16433,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/letzte-countdown-der-16433"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Letzte Countdown",
+          "teaserId": "film_1182110",
+          "teaserName": "Der Letzte Countdown | Letzte Countdown, Der",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Letzte Countdown, Der",
+        "id": 1182110,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182110/300x0/letzte-countdown-der.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182110/",
+            "filename": "letzte-countdown-der"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182110/600x0/letzte-countdown-der.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182110/",
+            "filename": "letzte-countdown-der"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182110/1200x0/letzte-countdown-der.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182110/",
+            "filename": "letzte-countdown-der"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182110/300x0/letzte-countdown-der.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182110/",
+            "filename": "letzte-countdown-der"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182110/600x0/letzte-countdown-der.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182110/",
+            "filename": "letzte-countdown-der"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182110/1200x0/letzte-countdown-der.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182110/",
+            "filename": "letzte-countdown-der"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-letzte-countdown",
+        "subheadline": "Letzte Countdown, Der",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/letzte-countdown-der-16433",
+        "videoId": 1182110
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

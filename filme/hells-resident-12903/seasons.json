@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12903",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12903,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/hell-s-resident-12903"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Hell's Resident",
+          "teaserId": "film_335056",
+          "teaserName": "Hell's Resident | Hell's Resident",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Hell's Resident",
+        "id": 335056,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335056/300x0/hell-s-resident.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335056/",
+            "filename": "hell-s-resident"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335056/600x0/hell-s-resident.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335056/",
+            "filename": "hell-s-resident"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335056/1200x0/hell-s-resident.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335056/",
+            "filename": "hell-s-resident"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335056/300x0/hell-s-resident.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335056/",
+            "filename": "hell-s-resident"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335056/600x0/hell-s-resident.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335056/",
+            "filename": "hell-s-resident"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335056/1200x0/hell-s-resident.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335056/",
+            "filename": "hell-s-resident"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "hells-resident",
+        "subheadline": "Hell's Resident",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/hell-s-resident-12903",
+        "videoId": 335056
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

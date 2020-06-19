@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12829",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12829,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/tapas-barcelona-12829"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Tapas Barcelona",
+          "teaserId": "film_334598",
+          "teaserName": "Tapas Barcelona | Tapas Barcelona",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Tapas Barcelona",
+        "id": 334598,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334598/300x0/tapas-barcelona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334598/",
+            "filename": "tapas-barcelona"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334598/600x0/tapas-barcelona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334598/",
+            "filename": "tapas-barcelona"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334598/1200x0/tapas-barcelona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334598/",
+            "filename": "tapas-barcelona"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334598/300x0/tapas-barcelona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334598/",
+            "filename": "tapas-barcelona"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334598/600x0/tapas-barcelona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334598/",
+            "filename": "tapas-barcelona"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334598/1200x0/tapas-barcelona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334598/",
+            "filename": "tapas-barcelona"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "tapas-barcelona",
+        "subheadline": "Tapas Barcelona",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/tapas-barcelona-12829",
+        "videoId": 334598
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

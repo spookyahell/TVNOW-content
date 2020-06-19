@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12825",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12825,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/rotkaeppchen-12825"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Rotkäppchen",
+          "teaserId": "film_334602",
+          "teaserName": "Rotkäppchen | Rotkäppchen",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Fantasy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Rotkäppchen",
+        "id": 334602,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334602/300x0/rotkaeppchen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334602/",
+            "filename": "rotkaeppchen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334602/600x0/rotkaeppchen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334602/",
+            "filename": "rotkaeppchen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334602/1200x0/rotkaeppchen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334602/",
+            "filename": "rotkaeppchen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334602/300x0/rotkaeppchen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334602/",
+            "filename": "rotkaeppchen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334602/600x0/rotkaeppchen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334602/",
+            "filename": "rotkaeppchen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334602/1200x0/rotkaeppchen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334602/",
+            "filename": "rotkaeppchen"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "rotkaeppchen",
+        "subheadline": "Rotkäppchen",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/rotkaeppchen-12825",
+        "videoId": 334602
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

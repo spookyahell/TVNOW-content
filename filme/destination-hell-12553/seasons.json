@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12553",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12553,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/destination-hell-12553"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Destination Hell",
+          "teaserId": "film_330650",
+          "teaserName": "Destination Hell | Destination Hell",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Destination Hell",
+        "id": 330650,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330650/300x0/destination-hell.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330650/",
+            "filename": "destination-hell"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330650/600x0/destination-hell.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330650/",
+            "filename": "destination-hell"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330650/1200x0/destination-hell.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330650/",
+            "filename": "destination-hell"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330650/300x0/destination-hell.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330650/",
+            "filename": "destination-hell"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330650/600x0/destination-hell.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330650/",
+            "filename": "destination-hell"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330650/1200x0/destination-hell.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330650/",
+            "filename": "destination-hell"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "destination-hell",
+        "subheadline": "Destination Hell",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/destination-hell-12553",
+        "videoId": 330650
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

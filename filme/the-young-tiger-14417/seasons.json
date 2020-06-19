@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14417",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14417,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-young-tiger-14417"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Young Tiger",
+          "teaserId": "film_343692",
+          "teaserName": "The Young Tiger | The Young Tiger",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Young Tiger",
+        "id": 343692,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343692/300x0/the-young-tiger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343692/",
+            "filename": "the-young-tiger"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343692/600x0/the-young-tiger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343692/",
+            "filename": "the-young-tiger"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343692/1200x0/the-young-tiger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343692/",
+            "filename": "the-young-tiger"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343692/300x0/the-young-tiger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343692/",
+            "filename": "the-young-tiger"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343692/600x0/the-young-tiger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343692/",
+            "filename": "the-young-tiger"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343692/1200x0/the-young-tiger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343692/",
+            "filename": "the-young-tiger"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-young-tiger",
+        "subheadline": "The Young Tiger",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-young-tiger-14417",
+        "videoId": 343692
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

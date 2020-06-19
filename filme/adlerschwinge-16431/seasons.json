@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16431",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16431,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/adlerschwinge-16431"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Adlerschwinge",
+          "teaserId": "film_1181986",
+          "teaserName": "Adlerschwinge | Adlerschwinge",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Western",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Adlerschwinge",
+        "id": 1181986,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1181986/300x0/adlerschwinge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1181986/",
+            "filename": "adlerschwinge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1181986/600x0/adlerschwinge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1181986/",
+            "filename": "adlerschwinge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1181986/1200x0/adlerschwinge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1181986/",
+            "filename": "adlerschwinge"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1181986/300x0/adlerschwinge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1181986/",
+            "filename": "adlerschwinge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1181986/600x0/adlerschwinge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1181986/",
+            "filename": "adlerschwinge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1181986/1200x0/adlerschwinge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1181986/",
+            "filename": "adlerschwinge"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "adlerschwinge",
+        "subheadline": "Adlerschwinge",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/adlerschwinge-16431",
+        "videoId": 1181986
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

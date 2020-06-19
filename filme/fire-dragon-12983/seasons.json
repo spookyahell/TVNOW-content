@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12983",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12983,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/fire-dragon-12983"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Fire Dragon",
+          "teaserId": "film_336400",
+          "teaserName": "Fire Dragon | Fire Dragon",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Fire Dragon",
+        "id": 336400,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336400/300x0/fire-dragon.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336400/",
+            "filename": "fire-dragon"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336400/600x0/fire-dragon.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336400/",
+            "filename": "fire-dragon"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336400/1200x0/fire-dragon.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336400/",
+            "filename": "fire-dragon"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336400/300x0/fire-dragon.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336400/",
+            "filename": "fire-dragon"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336400/600x0/fire-dragon.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336400/",
+            "filename": "fire-dragon"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336400/1200x0/fire-dragon.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336400/",
+            "filename": "fire-dragon"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "fire-dragon",
+        "subheadline": "Fire Dragon",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/fire-dragon-12983",
+        "videoId": 336400
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

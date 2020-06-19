@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13295",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13295,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/battle-of-los-angeles-13295"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Battle of Los Angeles",
+          "teaserId": "film_336802",
+          "teaserName": "Battle of Los Angeles | Battle of Los Angeles",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Science Fiction",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Battle of Los Angeles",
+        "id": 336802,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336802/300x0/battle-of-los-angeles.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336802/",
+            "filename": "battle-of-los-angeles"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336802/600x0/battle-of-los-angeles.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336802/",
+            "filename": "battle-of-los-angeles"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336802/1200x0/battle-of-los-angeles.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336802/",
+            "filename": "battle-of-los-angeles"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336802/300x0/battle-of-los-angeles.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336802/",
+            "filename": "battle-of-los-angeles"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336802/600x0/battle-of-los-angeles.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336802/",
+            "filename": "battle-of-los-angeles"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336802/1200x0/battle-of-los-angeles.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336802/",
+            "filename": "battle-of-los-angeles"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "battle-of-los-angeles",
+        "subheadline": "Battle of Los Angeles",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/battle-of-los-angeles-13295",
+        "videoId": 336802
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

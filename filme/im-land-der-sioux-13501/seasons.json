@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13501",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13501,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/im-land-der-sioux-13501"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Im Land der Sioux",
+          "teaserId": "film_337548",
+          "teaserName": "Im Land der Sioux | Im Land der Sioux",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Western",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Im Land der Sioux",
+        "id": 337548,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337548/300x0/im-land-der-sioux.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337548/",
+            "filename": "im-land-der-sioux"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337548/600x0/im-land-der-sioux.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337548/",
+            "filename": "im-land-der-sioux"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337548/1200x0/im-land-der-sioux.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337548/",
+            "filename": "im-land-der-sioux"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337548/300x0/im-land-der-sioux.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337548/",
+            "filename": "im-land-der-sioux"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337548/600x0/im-land-der-sioux.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337548/",
+            "filename": "im-land-der-sioux"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337548/1200x0/im-land-der-sioux.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337548/",
+            "filename": "im-land-der-sioux"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "im-land-der-sioux",
+        "subheadline": "Im Land der Sioux",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/im-land-der-sioux-13501",
+        "videoId": 337548
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

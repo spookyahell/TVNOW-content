@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16917",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16917,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/aus-liebe-zu-spock-16917"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Aus Liebe zu Spock",
+          "teaserId": "film_1671129",
+          "teaserName": "Aus Liebe zu Spock | Aus Liebe zu Spock",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Aus Liebe zu Spock",
+        "id": 1671129,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1671129/300x0/aus-liebe-zu-spock.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1671129/",
+            "filename": "aus-liebe-zu-spock"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1671129/600x0/aus-liebe-zu-spock.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1671129/",
+            "filename": "aus-liebe-zu-spock"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1671129/1200x0/aus-liebe-zu-spock.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1671129/",
+            "filename": "aus-liebe-zu-spock"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1671129/300x0/aus-liebe-zu-spock.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1671129/",
+            "filename": "aus-liebe-zu-spock"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1671129/600x0/aus-liebe-zu-spock.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1671129/",
+            "filename": "aus-liebe-zu-spock"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1671129/1200x0/aus-liebe-zu-spock.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1671129/",
+            "filename": "aus-liebe-zu-spock"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "aus-liebe-zu-spock",
+        "subheadline": "Aus Liebe zu Spock",
+        "text": "Staffel  | Sa. 16.05.2020, 00:20 Uhr",
+        "type": "film",
+        "url": "/filme/aus-liebe-zu-spock-16917",
+        "videoId": 1671129
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14637",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14637,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/alf-der-film-14637"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Alf - Der Film",
+          "teaserId": "film_344848",
+          "teaserName": "Alf - Der Film | ALF - DER FILM",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "ALF - DER FILM",
+        "id": 344848,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344848/300x0/alf-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344848/",
+            "filename": "alf-der-film"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344848/600x0/alf-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344848/",
+            "filename": "alf-der-film"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344848/1200x0/alf-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344848/",
+            "filename": "alf-der-film"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344848/300x0/alf-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344848/",
+            "filename": "alf-der-film"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344848/600x0/alf-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344848/",
+            "filename": "alf-der-film"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344848/1200x0/alf-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344848/",
+            "filename": "alf-der-film"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "alf-der-film",
+        "subheadline": "ALF - DER FILM",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/alf-der-film-14637",
+        "videoId": 344848
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

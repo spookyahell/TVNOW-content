@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17117",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17117,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/vorpommerns-auen-17117"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Vorpommerns Auen",
+          "teaserId": "film_407622",
+          "teaserName": "Vorpommerns Auen | Vorpommerns Auen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Vorpommerns Auen",
+        "id": 407622,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/407622/300x0/vorpommerns-auen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/407622/",
+            "filename": "vorpommerns-auen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/407622/600x0/vorpommerns-auen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/407622/",
+            "filename": "vorpommerns-auen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/407622/1200x0/vorpommerns-auen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/407622/",
+            "filename": "vorpommerns-auen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/407622/300x0/vorpommerns-auen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/407622/",
+            "filename": "vorpommerns-auen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/407622/600x0/vorpommerns-auen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/407622/",
+            "filename": "vorpommerns-auen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/407622/1200x0/vorpommerns-auen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/407622/",
+            "filename": "vorpommerns-auen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "vorpommerns-auen",
+        "subheadline": "Vorpommerns Auen",
+        "text": "Staffel  | Sa. 09.03.2019, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/vorpommerns-auen-17117",
+        "videoId": 407622
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

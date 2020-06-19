@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12867",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12867,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/fruehstueck-mit-scot-12867"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Frühstück mit Scot",
+          "teaserId": "film_347854",
+          "teaserName": "Frühstück mit Scot | Frühstück mit Scot",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Frühstück mit Scot",
+        "id": 347854,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/347854/300x0/fruehstueck-mit-scot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/347854/",
+            "filename": "fruehstueck-mit-scot"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/347854/600x0/fruehstueck-mit-scot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/347854/",
+            "filename": "fruehstueck-mit-scot"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/347854/1200x0/fruehstueck-mit-scot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/347854/",
+            "filename": "fruehstueck-mit-scot"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/347854/300x0/fruehstueck-mit-scot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/347854/",
+            "filename": "fruehstueck-mit-scot"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/347854/600x0/fruehstueck-mit-scot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/347854/",
+            "filename": "fruehstueck-mit-scot"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/347854/1200x0/fruehstueck-mit-scot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/347854/",
+            "filename": "fruehstueck-mit-scot"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "fruehstueck-mit-scot",
+        "subheadline": "Frühstück mit Scot",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/fruehstueck-mit-scot-12867",
+        "videoId": 347854
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

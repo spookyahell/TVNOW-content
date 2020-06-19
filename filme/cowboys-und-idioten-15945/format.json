@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 15945,
+  "additionalMeta": {
+    "canonical": "/filme/cowboys-und-idioten-15945",
+    "url": "/filme/cowboys-und-idioten-15945"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Cowboys und Idioten",
+      "url": "/filme/cowboys-und-idioten-15945"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 15945,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Cowboys und Idioten 📺 und viele weitere ▶️ Filme aus dem Genre  findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Cowboys und Idioten, Film, TV NOW, Watchbox bei TV NOW, Komödie, Drogen, Texas, Ex-Knacki",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Cowboys und Idioten im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Cowboys und Idioten 📺 und viele weitere ▶️ Filme aus dem Genre  findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 424610,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/424610",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/15945"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Cowboys und Idioten",
+    "text": "Bei TV NOW kannst Du den Film Cowboys und Idioten und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/cowboys-und-idioten-15945",
+        "@type": "Movie",
+        "description": "Mit ein paar Tausendern auf der Bank und einem großen Traum im Herzen wollen Earl Crest und seine Freundin Baby aus ihrer Heimatstadt Bennett, Texas, nach Los Angeles fliehen. Allerdings stellen sich der Verwirklichung ihres Plans ein doofer Cousin, ein Ex-Knacki, sowie ein wütender Drogenbaron in den Weg. Als ihnen noch knapp 48 Stunden bleiben, um die Dinge wieder in Ordnung zu bringen, findet sich Earl plötzlich in einem großen Schlamassel wieder - so groß, dass es die Grenzen des Staates Texas sprengt!",
+        "duration": "PT1H24M27S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/424610/950x0/cowboys-und-idioten.jpg",
+        "name": "Cowboys und Idioten",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/cowboys-und-idioten-15945",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2018-11-18T07:38:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/cowboys-und-idioten-15945",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Mit ein paar Tausendern auf der Bank und einem großen Traum im Herzen wollen Earl Crest und seine Freundin Baby aus ihrer Heimatstadt Bennett, Texas, nach Los Angeles fliehen. Allerdings stellen sich der Verwirklichung ihres Plans ein doofer Cousin, ein Ex-Knacki, sowie ein wütender Drogenbaron in den Weg. Als ihnen noch knapp 48 Stunden bleiben, um die Dinge wieder in Ordnung zu bringen, findet sich Earl plötzlich in einem großen Schlamassel wieder - so groß, dass es die Grenzen des Staates Texas sprengt!",
+          "duration": "PT1H24M27S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/cowboys-und-idioten-15945",
+          "name": "Cowboys und Idioten",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/424610/950x0/cowboys-und-idioten.jpg",
+          "uploadDate": "2018-11-18T07:38:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Cowboys und Idioten im Online Stream | TVNOW",
+        "headline": "Cowboys und Idioten im Online Stream | TVNOW",
+        "description": "Cowboys und Idioten und viele weitere  ▶️Filme aus dem Genre  findest du im Online Stream bei TVNOW. Ein Film mit ▶️Joshua Jackson, Jaime King, DJ Qualls.",
+        "url": "https://www.tvnow.de/filme/cowboys-und-idioten-15945",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/424610/950x0/cowboys-und-idioten.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/424610/950x0/cowboys-und-idioten.jpg",
+        "datePublished": "2018-11-18T07:38:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/424610/950x0/cowboys-und-idioten.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cowboys und Idioten",
+            "item": "https://www.tvnow.de/filme/cowboys-und-idioten-15945"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Cowboys und Idioten im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

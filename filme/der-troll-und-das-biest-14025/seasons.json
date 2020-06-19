@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14025",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14025,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-troll-und-das-biest-14025"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Troll und das Biest",
+          "teaserId": "film_339442",
+          "teaserName": "Der Troll und das Biest | Der Troll und das Biest",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Fantasy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Troll und das Biest",
+        "id": 339442,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339442/300x0/der-troll-und-das-biest.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339442/",
+            "filename": "der-troll-und-das-biest"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339442/600x0/der-troll-und-das-biest.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339442/",
+            "filename": "der-troll-und-das-biest"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339442/1200x0/der-troll-und-das-biest.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339442/",
+            "filename": "der-troll-und-das-biest"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339442/300x0/der-troll-und-das-biest.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339442/",
+            "filename": "der-troll-und-das-biest"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339442/600x0/der-troll-und-das-biest.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339442/",
+            "filename": "der-troll-und-das-biest"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339442/1200x0/der-troll-und-das-biest.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339442/",
+            "filename": "der-troll-und-das-biest"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-troll-und-das-biest",
+        "subheadline": "Der Troll und das Biest",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/der-troll-und-das-biest-14025",
+        "videoId": 339442
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

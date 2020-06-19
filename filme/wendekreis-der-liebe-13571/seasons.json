@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13571",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13571,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/wendekreis-der-liebe-13571"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wendekreis der Liebe",
+          "teaserId": "film_337650",
+          "teaserName": "Wendekreis der Liebe | Wendekreis der Liebe",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wendekreis der Liebe",
+        "id": 337650,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337650/300x0/wendekreis-der-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337650/",
+            "filename": "wendekreis-der-liebe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337650/600x0/wendekreis-der-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337650/",
+            "filename": "wendekreis-der-liebe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337650/1200x0/wendekreis-der-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337650/",
+            "filename": "wendekreis-der-liebe"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337650/300x0/wendekreis-der-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337650/",
+            "filename": "wendekreis-der-liebe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337650/600x0/wendekreis-der-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337650/",
+            "filename": "wendekreis-der-liebe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337650/1200x0/wendekreis-der-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337650/",
+            "filename": "wendekreis-der-liebe"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wendekreis-der-liebe",
+        "subheadline": "Wendekreis der Liebe",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/wendekreis-der-liebe-13571",
+        "videoId": 337650
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

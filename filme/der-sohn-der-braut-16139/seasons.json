@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16139",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16139,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-sohn-der-braut-16139"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Sohn der Braut",
+          "teaserId": "film_639328",
+          "teaserName": "Der Sohn der Braut | Der Sohn der Braut",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Sohn der Braut",
+        "id": 639328,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/639328/300x0/der-sohn-der-braut.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/639328/",
+            "filename": "der-sohn-der-braut"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/639328/600x0/der-sohn-der-braut.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/639328/",
+            "filename": "der-sohn-der-braut"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/639328/1200x0/der-sohn-der-braut.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/639328/",
+            "filename": "der-sohn-der-braut"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/639328/300x0/der-sohn-der-braut.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/639328/",
+            "filename": "der-sohn-der-braut"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/639328/600x0/der-sohn-der-braut.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/639328/",
+            "filename": "der-sohn-der-braut"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/639328/1200x0/der-sohn-der-braut.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/639328/",
+            "filename": "der-sohn-der-braut"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-sohn-der-braut",
+        "subheadline": "Der Sohn der Braut",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/der-sohn-der-braut-16139",
+        "videoId": 639328
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

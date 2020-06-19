@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13677",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13677,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/killer-proof-13677"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Killer Proof",
+          "teaserId": "film_337840",
+          "teaserName": "Killer Proof | Killer Proof",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Killer Proof",
+        "id": 337840,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337840/300x0/killer-proof.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337840/",
+            "filename": "killer-proof"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337840/600x0/killer-proof.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337840/",
+            "filename": "killer-proof"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337840/1200x0/killer-proof.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337840/",
+            "filename": "killer-proof"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337840/300x0/killer-proof.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337840/",
+            "filename": "killer-proof"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337840/600x0/killer-proof.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337840/",
+            "filename": "killer-proof"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337840/1200x0/killer-proof.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337840/",
+            "filename": "killer-proof"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "killer-proof",
+        "subheadline": "Killer Proof",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/killer-proof-13677",
+        "videoId": 337840
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

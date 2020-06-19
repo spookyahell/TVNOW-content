@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 16697,
+  "additionalMeta": {
+    "canonical": "/filme/old-fashioned-16697",
+    "url": "/filme/old-fashioned-16697"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Old Fashioned",
+      "url": "/filme/old-fashioned-16697"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 16697,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Old Fashioned 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Old Fashioned, Film, TV NOW, Watchbox bei TV NOW, Drama, Romantik, Liebe, Hoffnung, echt, ehrlich, Liebesgeschichte, independent, liberal",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Old Fashioned im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Old Fashioned 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1241216,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1241216",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/16697"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_drama/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_drama",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zur Serie: Old Fashioned",
+    "text": "Old Fashioned und viele weitere Serien kannst Du gemütlich online bei TV NOW im Stream anschauen. Also nichts wie los – hole das Knabberzeug raus und genieße Deine Serie ganz entspannt von unterwegs oder von zu Hause aus mit Freunden.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/old-fashioned-16697",
+        "@type": "Movie",
+        "description": "Clay ist für seine veralteten Ansichten von Liebe und Romantik bekannt. Eines Tages zieht Amber über seinem Antiquitätenladen ein. Anstatt Clay wie die anderen für verrückt zu erklären, ist sie von ihm und seiner Art fasziniert. Während sie versucht ihn hinter seinen Theorien hervorzulocken, will er sie für eine gottesfürchtige, ehrliche und \"altmodische\" Beziehung begeistern. Am Ende verändert sich nicht nur Ambers Sicht auf ihr eigenes Leben, auch Clay muss seine Prinzipien hinterfragen.",
+        "duration": "PT1H49M42S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1241216/950x0/old-fashioned.jpg",
+        "name": "Old Fashioned",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/old-fashioned-16697",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2018-10-22T13:59:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/old-fashioned-16697",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Clay ist für seine veralteten Ansichten von Liebe und Romantik bekannt. Eines Tages zieht Amber über seinem Antiquitätenladen ein. Anstatt Clay wie die anderen für verrückt zu erklären, ist sie von ihm und seiner Art fasziniert. Während sie versucht ihn hinter seinen Theorien hervorzulocken, will er sie für eine gottesfürchtige, ehrliche und \"altmodische\" Beziehung begeistern. Am Ende verändert sich nicht nur Ambers Sicht auf ihr eigenes Leben, auch Clay muss seine Prinzipien hinterfragen.",
+          "duration": "PT1H49M42S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/old-fashioned-16697",
+          "name": "Old Fashioned",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1241216/950x0/old-fashioned.jpg",
+          "uploadDate": "2018-10-22T13:59:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Old Fashioned im Online Stream | TVNOW",
+        "headline": "Old Fashioned im Online Stream | TVNOW",
+        "description": "Old Fashioned und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Elizabeth Roberts, Rik Swartzwelder, LeJon Woods, Dorothy Silver, Tyler Hollinger.",
+        "url": "https://www.tvnow.de/filme/old-fashioned-16697",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1241216/950x0/old-fashioned.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1241216/950x0/old-fashioned.jpg",
+        "datePublished": "2018-10-22T13:59:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1241216/950x0/old-fashioned.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Old Fashioned",
+            "item": "https://www.tvnow.de/filme/old-fashioned-16697"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Old Fashioned im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

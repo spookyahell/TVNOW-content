@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15011",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15011,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/september-dawn-15011"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "September Dawn",
+          "teaserId": "film_354752",
+          "teaserName": "September Dawn | September Dawn",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "September Dawn",
+        "id": 354752,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354752/300x0/september-dawn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354752/",
+            "filename": "september-dawn"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354752/600x0/september-dawn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354752/",
+            "filename": "september-dawn"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354752/1200x0/september-dawn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354752/",
+            "filename": "september-dawn"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354752/300x0/september-dawn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354752/",
+            "filename": "september-dawn"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354752/600x0/september-dawn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354752/",
+            "filename": "september-dawn"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/354752/1200x0/september-dawn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/354752/",
+            "filename": "september-dawn"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "september-dawn",
+        "subheadline": "September Dawn",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/september-dawn-15011",
+        "videoId": 354752
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

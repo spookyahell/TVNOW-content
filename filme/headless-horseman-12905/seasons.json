@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12905",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12905,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/headless-horseman-12905"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Headless Horseman",
+          "teaserId": "film_335006",
+          "teaserName": "Headless Horseman | Headless Horseman",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Headless Horseman",
+        "id": 335006,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335006/300x0/headless-horseman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335006/",
+            "filename": "headless-horseman"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335006/600x0/headless-horseman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335006/",
+            "filename": "headless-horseman"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335006/1200x0/headless-horseman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335006/",
+            "filename": "headless-horseman"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335006/300x0/headless-horseman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335006/",
+            "filename": "headless-horseman"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335006/600x0/headless-horseman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335006/",
+            "filename": "headless-horseman"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335006/1200x0/headless-horseman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335006/",
+            "filename": "headless-horseman"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "headless-horseman",
+        "subheadline": "Headless Horseman",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/headless-horseman-12905",
+        "videoId": 335006
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15131",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15131,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/sergeant-york-15131"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sergeant York",
+          "teaserId": "film_356094",
+          "teaserName": "Sergeant York | Sergeant York",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Sergeant York",
+        "id": 356094,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/356094/300x0/sergeant-york.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/356094/",
+            "filename": "sergeant-york"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/356094/600x0/sergeant-york.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/356094/",
+            "filename": "sergeant-york"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/356094/1200x0/sergeant-york.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/356094/",
+            "filename": "sergeant-york"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/356094/300x0/sergeant-york.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/356094/",
+            "filename": "sergeant-york"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/356094/600x0/sergeant-york.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/356094/",
+            "filename": "sergeant-york"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/356094/1200x0/sergeant-york.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/356094/",
+            "filename": "sergeant-york"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sergeant-york",
+        "subheadline": "Sergeant York",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/sergeant-york-15131",
+        "videoId": 356094
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

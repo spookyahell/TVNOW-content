@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17917",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17917,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/zwischen-sommer-und-herbst-17917"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Zwischen Sommer und Herbst",
+          "teaserId": "film_1791262",
+          "teaserName": "Zwischen Sommer und Herbst | Zwischen Sommer und Herbst",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Zwischen Sommer und Herbst",
+        "id": 1791262,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791262/300x0/zwischen-sommer-und-herbst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791262/",
+            "filename": "zwischen-sommer-und-herbst"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791262/600x0/zwischen-sommer-und-herbst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791262/",
+            "filename": "zwischen-sommer-und-herbst"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791262/1200x0/zwischen-sommer-und-herbst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791262/",
+            "filename": "zwischen-sommer-und-herbst"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791262/300x0/zwischen-sommer-und-herbst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791262/",
+            "filename": "zwischen-sommer-und-herbst"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791262/600x0/zwischen-sommer-und-herbst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791262/",
+            "filename": "zwischen-sommer-und-herbst"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1791262/1200x0/zwischen-sommer-und-herbst.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1791262/",
+            "filename": "zwischen-sommer-und-herbst"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "zwischen-sommer-und-herbst",
+        "subheadline": "Zwischen Sommer und Herbst",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/zwischen-sommer-und-herbst-17917",
+        "videoId": 1791262
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

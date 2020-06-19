@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14333",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14333,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-hard-easy-14333"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Hard Easy",
+          "teaserId": "film_343656",
+          "teaserName": "The Hard Easy | The Hard Easy",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Hard Easy",
+        "id": 343656,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343656/300x0/the-hard-easy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343656/",
+            "filename": "the-hard-easy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343656/600x0/the-hard-easy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343656/",
+            "filename": "the-hard-easy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343656/1200x0/the-hard-easy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343656/",
+            "filename": "the-hard-easy"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343656/300x0/the-hard-easy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343656/",
+            "filename": "the-hard-easy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343656/600x0/the-hard-easy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343656/",
+            "filename": "the-hard-easy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343656/1200x0/the-hard-easy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343656/",
+            "filename": "the-hard-easy"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-hard-easy",
+        "subheadline": "The Hard Easy",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-hard-easy-14333",
+        "videoId": 343656
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

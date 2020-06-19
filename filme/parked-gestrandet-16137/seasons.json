@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16137",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16137,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/parked-gestrandet-16137"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Parked - Gestrandet",
+          "teaserId": "film_639446",
+          "teaserName": "Parked - Gestrandet | Parked - Gestrandet",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Parked - Gestrandet",
+        "id": 639446,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/639446/300x0/parked-gestrandet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/639446/",
+            "filename": "parked-gestrandet"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/639446/600x0/parked-gestrandet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/639446/",
+            "filename": "parked-gestrandet"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/639446/1200x0/parked-gestrandet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/639446/",
+            "filename": "parked-gestrandet"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/639446/300x0/parked-gestrandet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/639446/",
+            "filename": "parked-gestrandet"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/639446/600x0/parked-gestrandet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/639446/",
+            "filename": "parked-gestrandet"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/639446/1200x0/parked-gestrandet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/639446/",
+            "filename": "parked-gestrandet"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "parked-gestrandet",
+        "subheadline": "Parked - Gestrandet",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/parked-gestrandet-16137",
+        "videoId": 639446
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

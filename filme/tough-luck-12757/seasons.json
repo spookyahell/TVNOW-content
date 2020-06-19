@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12757",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12757,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/tough-luck-12757"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Tough Luck",
+          "teaserId": "film_333814",
+          "teaserName": "Tough Luck | Tough Luck",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Tough Luck",
+        "id": 333814,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333814/300x0/tough-luck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333814/",
+            "filename": "tough-luck"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333814/600x0/tough-luck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333814/",
+            "filename": "tough-luck"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333814/1200x0/tough-luck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333814/",
+            "filename": "tough-luck"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333814/300x0/tough-luck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333814/",
+            "filename": "tough-luck"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333814/600x0/tough-luck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333814/",
+            "filename": "tough-luck"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333814/1200x0/tough-luck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333814/",
+            "filename": "tough-luck"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "tough-luck",
+        "subheadline": "Tough Luck",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/tough-luck-12757",
+        "videoId": 333814
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

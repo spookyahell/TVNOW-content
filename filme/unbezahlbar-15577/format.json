@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 15577,
+  "additionalMeta": {
+    "canonical": "/filme/unbezahlbar-15577",
+    "url": "/filme/unbezahlbar-15577"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Unbezahlbar",
+      "url": "/filme/unbezahlbar-15577"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 15577,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Unbezahlbar 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Unbezahlbar, Film, TV NOW, Watchbox bei TV NOW, Drama, Romantik, Krimi, Independent, Geld, Mädchenschleuser, Schmuggel, Mädchenhandel, Transporter, Liebe, Mut, Held",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Unbezahlbar im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Unbezahlbar 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 389054,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/389054",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/15577"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_drama/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_drama",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Unbezahlbar",
+    "text": "Bei TV NOW kannst Du den Film Unbezahlbar und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/unbezahlbar-15577",
+        "@type": "Movie",
+        "description": "James (Joel Smallbone) muss an Geld kommen, und nimmt deshalb jede Arbeit an, die er kriegen kann. Er erhält ein sehr aussichtsreiches Angebot, bei dem er einen Transporter durch die USA fahren soll. Es gibt nur eine Bedingung: Er soll keine Fragen stellen und die Ladung muss in Ruhe gelassen werden. Bei einem Unfall wird auch klar, warum: Auf der Ladefläche sitzen zwei junge Frauen, Antonia (Bianca A. Santos) und Maria (Amber Midthunder), die nach Amerika geschleust wurden. James wird klar, dass sie nicht da ankommen werden, wo sie wollen. Dennoch bringt er sie zum vereinbarten Übergabeort. Doch schon kurz darauf plagt ihn sein Gewissen, und James beschließt, zum Helden zu werden...",
+        "duration": "PT1H34M56S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/389054/950x0/unbezahlbar.jpg",
+        "name": "Unbezahlbar",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/unbezahlbar-15577",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-12-12T07:24:25.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/unbezahlbar-15577",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "James (Joel Smallbone) muss an Geld kommen, und nimmt deshalb jede Arbeit an, die er kriegen kann. Er erhält ein sehr aussichtsreiches Angebot, bei dem er einen Transporter durch die USA fahren soll. Es gibt nur eine Bedingung: Er soll keine Fragen stellen und die Ladung muss in Ruhe gelassen werden. Bei einem Unfall wird auch klar, warum: Auf der Ladefläche sitzen zwei junge Frauen, Antonia (Bianca A. Santos) und Maria (Amber Midthunder), die nach Amerika geschleust wurden. James wird klar, dass sie nicht da ankommen werden, wo sie wollen. Dennoch bringt er sie zum vereinbarten Übergabeort. Doch schon kurz darauf plagt ihn sein Gewissen, und James beschließt, zum Helden zu werden...",
+          "duration": "PT1H34M56S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/unbezahlbar-15577",
+          "name": "Unbezahlbar",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/389054/950x0/unbezahlbar.jpg",
+          "uploadDate": "2017-12-12T07:24:25.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Unbezahlbar im Online Stream | TVNOW",
+        "headline": "Unbezahlbar im Online Stream | TVNOW",
+        "description": "Unbezahlbar und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Joel Smallbone, Bianca A. Santos, David Koechner, Amber Midthunder.",
+        "url": "https://www.tvnow.de/filme/unbezahlbar-15577",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/389054/950x0/unbezahlbar.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/389054/950x0/unbezahlbar.jpg",
+        "datePublished": "2017-12-12T07:24:25.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/389054/950x0/unbezahlbar.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Unbezahlbar",
+            "item": "https://www.tvnow.de/filme/unbezahlbar-15577"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Unbezahlbar im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

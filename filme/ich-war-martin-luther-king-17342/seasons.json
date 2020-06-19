@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17342",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17342,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ich-war-martin-luther-king-17342"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ich war Martin Luther King",
+          "teaserId": "film_1376793",
+          "teaserName": "Ich war Martin Luther King | Ich war Martin Luther King",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ich war Martin Luther King",
+        "id": 1376793,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1376793/300x0/ich-war-martin-luther-king.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1376793/",
+            "filename": "ich-war-martin-luther-king"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1376793/600x0/ich-war-martin-luther-king.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1376793/",
+            "filename": "ich-war-martin-luther-king"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1376793/1200x0/ich-war-martin-luther-king.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1376793/",
+            "filename": "ich-war-martin-luther-king"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1376793/300x0/ich-war-martin-luther-king.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1376793/",
+            "filename": "ich-war-martin-luther-king"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1376793/600x0/ich-war-martin-luther-king.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1376793/",
+            "filename": "ich-war-martin-luther-king"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1376793/1200x0/ich-war-martin-luther-king.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1376793/",
+            "filename": "ich-war-martin-luther-king"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ich-war-martin-luther-king",
+        "subheadline": "Ich war Martin Luther King",
+        "text": "Staffel  | Sa. 30.05.2020, 00:25 Uhr",
+        "type": "film",
+        "url": "/filme/ich-war-martin-luther-king-17342",
+        "videoId": 1376793
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

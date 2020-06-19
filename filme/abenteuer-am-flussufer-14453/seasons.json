@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14453",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14453,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/abenteuer-am-flussufer-14453"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Abenteuer am Flussufer",
+          "teaserId": "film_344114",
+          "teaserName": "Abenteuer am Flussufer | Abenteuer am Flussufer",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Animation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Abenteuer am Flussufer",
+        "id": 344114,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344114/300x0/abenteuer-am-flussufer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344114/",
+            "filename": "abenteuer-am-flussufer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344114/600x0/abenteuer-am-flussufer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344114/",
+            "filename": "abenteuer-am-flussufer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344114/1200x0/abenteuer-am-flussufer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344114/",
+            "filename": "abenteuer-am-flussufer"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344114/300x0/abenteuer-am-flussufer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344114/",
+            "filename": "abenteuer-am-flussufer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344114/600x0/abenteuer-am-flussufer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344114/",
+            "filename": "abenteuer-am-flussufer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344114/1200x0/abenteuer-am-flussufer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344114/",
+            "filename": "abenteuer-am-flussufer"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "abenteuer-am-flussufer",
+        "subheadline": "Abenteuer am Flussufer",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/abenteuer-am-flussufer-14453",
+        "videoId": 344114
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

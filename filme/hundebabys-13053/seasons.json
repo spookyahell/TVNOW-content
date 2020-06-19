@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13053",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13053,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/hundebabys-13053"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Hundebabys",
+          "teaserId": "film_335900",
+          "teaserName": "Hundebabys | Hundebabys",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Hundebabys",
+        "id": 335900,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335900/300x0/hundebabys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335900/",
+            "filename": "hundebabys"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335900/600x0/hundebabys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335900/",
+            "filename": "hundebabys"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335900/1200x0/hundebabys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335900/",
+            "filename": "hundebabys"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335900/300x0/hundebabys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335900/",
+            "filename": "hundebabys"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335900/600x0/hundebabys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335900/",
+            "filename": "hundebabys"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335900/1200x0/hundebabys.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335900/",
+            "filename": "hundebabys"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "hundebabys",
+        "subheadline": "Hundebabys",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/hundebabys-13053",
+        "videoId": 335900
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16035",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16035,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-virginity-hit-16035"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Virginity Hit",
+          "teaserId": "film_439294",
+          "teaserName": "The Virginity Hit | The Virginity Hit",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Virginity Hit",
+        "id": 439294,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/439294/300x0/the-virginity-hit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/439294/",
+            "filename": "the-virginity-hit"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/439294/600x0/the-virginity-hit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/439294/",
+            "filename": "the-virginity-hit"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/439294/1200x0/the-virginity-hit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/439294/",
+            "filename": "the-virginity-hit"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/439294/300x0/the-virginity-hit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/439294/",
+            "filename": "the-virginity-hit"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/439294/600x0/the-virginity-hit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/439294/",
+            "filename": "the-virginity-hit"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/439294/1200x0/the-virginity-hit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/439294/",
+            "filename": "the-virginity-hit"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-virginity-hit",
+        "subheadline": "The Virginity Hit",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-virginity-hit-16035",
+        "videoId": 439294
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

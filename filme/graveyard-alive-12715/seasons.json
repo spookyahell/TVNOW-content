@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12715",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12715,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/graveyard-alive-12715"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Graveyard Alive",
+          "teaserId": "film_333786",
+          "teaserName": "Graveyard Alive | Graveyard alive",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Graveyard alive",
+        "id": 333786,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333786/300x0/graveyard-alive.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333786/",
+            "filename": "graveyard-alive"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333786/600x0/graveyard-alive.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333786/",
+            "filename": "graveyard-alive"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333786/1200x0/graveyard-alive.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333786/",
+            "filename": "graveyard-alive"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333786/300x0/graveyard-alive.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333786/",
+            "filename": "graveyard-alive"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333786/600x0/graveyard-alive.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333786/",
+            "filename": "graveyard-alive"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333786/1200x0/graveyard-alive.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333786/",
+            "filename": "graveyard-alive"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "graveyard-alive",
+        "subheadline": "Graveyard alive",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/graveyard-alive-12715",
+        "videoId": 333786
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

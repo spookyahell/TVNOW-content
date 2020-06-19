@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16928",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16928,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-central-park-five-16928"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Central Park Five",
+          "teaserId": "film_690960",
+          "teaserName": "The Central Park Five | The Central Park Five",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Central Park Five",
+        "id": 690960,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/690960/300x0/the-central-park-five.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/690960/",
+            "filename": "the-central-park-five"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/690960/600x0/the-central-park-five.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/690960/",
+            "filename": "the-central-park-five"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/690960/1200x0/the-central-park-five.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/690960/",
+            "filename": "the-central-park-five"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/690960/300x0/the-central-park-five.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/690960/",
+            "filename": "the-central-park-five"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/690960/600x0/the-central-park-five.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/690960/",
+            "filename": "the-central-park-five"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/690960/1200x0/the-central-park-five.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/690960/",
+            "filename": "the-central-park-five"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-central-park-five",
+        "subheadline": "The Central Park Five",
+        "text": "Staffel  | Sa. 23.05.2020, 22:35 Uhr",
+        "type": "film",
+        "url": "/filme/the-central-park-five-16928",
+        "videoId": 690960
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

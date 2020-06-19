@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 18124,
+  "additionalMeta": {
+    "canonical": "/filme/alleskoenner-aluminium-18124",
+    "url": "/filme/alleskoenner-aluminium-18124"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Alleskönner Aluminium",
+      "url": "/filme/alleskoenner-aluminium-18124"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 18124,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Alleskönner Aluminium 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Alleskönner Aluminium im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Alleskönner Aluminium 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 2164701,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/2164701",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18124"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Alleskönner Aluminium",
+    "text": "n-tv Doku - Aluminium - der vermeintliche Alleskönner steckt in Verpackungen, Getränkedosen, Fensterrahmen, Fahrrädern und auch in Autos. Das liegt vor allem daran, dass Aluminium leicht, aber trotzdem äußerst stabil ist. Allerdings ist die Herstellung nicht unumstritten. Kann man umweltbewusst sein und trotzdem Aluminium nutzen? Hat das Leichtmetall Auswirkungen auf die Gesundheit? Die Dokumentation sucht nach Antworten auf diese Fragen.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/alleskoenner-aluminium-18124",
+        "@type": "Movie",
+        "description": "n-tv Doku - Aluminium - der vermeintliche Alleskönner steckt in Verpackungen, Getränkedosen, Fensterrahmen, Fahrrädern und auch in Autos. Das liegt vor allem daran, dass Aluminium leicht, aber trotzdem äußerst stabil ist. Allerdings ist die Herstellung nicht unumstritten. Kann man umweltbewusst sein und trotzdem Aluminium nutzen? Hat das Leichtmetall Auswirkungen auf die Gesundheit? Die Dokumentation sucht nach Antworten auf diese Fragen.",
+        "duration": "PT40M21S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/2164701/950x0/alleskoenner-aluminium.jpg",
+        "name": "Alleskönner Aluminium",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/alleskoenner-aluminium-18124",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2019-10-24T08:06:06.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/alleskoenner-aluminium-18124",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "n-tv Doku - Aluminium - der vermeintliche Alleskönner steckt in Verpackungen, Getränkedosen, Fensterrahmen, Fahrrädern und auch in Autos. Das liegt vor allem daran, dass Aluminium leicht, aber trotzdem äußerst stabil ist. Allerdings ist die Herstellung nicht unumstritten. Kann man umweltbewusst sein und trotzdem Aluminium nutzen? Hat das Leichtmetall Auswirkungen auf die Gesundheit? Die Dokumentation sucht nach Antworten auf diese Fragen.",
+          "duration": "PT40M21S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/alleskoenner-aluminium-18124",
+          "name": "Alleskönner Aluminium",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2164701/950x0/alleskoenner-aluminium.jpg",
+          "uploadDate": "2019-10-24T08:06:06.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Alleskönner Aluminium im Online Stream | TVNOW",
+        "headline": "Alleskönner Aluminium im Online Stream | TVNOW",
+        "description": "Alleskönner Aluminium und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/alleskoenner-aluminium-18124",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/2164701/950x0/alleskoenner-aluminium.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2164701/950x0/alleskoenner-aluminium.jpg",
+        "datePublished": "2019-10-24T08:06:06.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/2164701/950x0/alleskoenner-aluminium.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Alleskönner Aluminium",
+            "item": "https://www.tvnow.de/filme/alleskoenner-aluminium-18124"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Alleskönner Aluminium im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

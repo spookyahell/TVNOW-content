@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12292",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12292,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/lagerfeld-der-einsame-koenig-12292"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Lagerfeld, der einsame König",
+          "teaserId": "film_1215890",
+          "teaserName": "Lagerfeld, der einsame König | Lagerfeld, der einsame König",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Lifestyle",
+          "cluster": [
+            "Lifestyle"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Lagerfeld, der einsame König",
+        "id": 1215890,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1215890/300x0/lagerfeld-der-einsame-koenig.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1215890/",
+            "filename": "lagerfeld-der-einsame-koenig"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1215890/600x0/lagerfeld-der-einsame-koenig.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1215890/",
+            "filename": "lagerfeld-der-einsame-koenig"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1215890/1200x0/lagerfeld-der-einsame-koenig.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1215890/",
+            "filename": "lagerfeld-der-einsame-koenig"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1215890/300x0/lagerfeld-der-einsame-koenig.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1215890/",
+            "filename": "lagerfeld-der-einsame-koenig"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1215890/600x0/lagerfeld-der-einsame-koenig.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1215890/",
+            "filename": "lagerfeld-der-einsame-koenig"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1215890/1200x0/lagerfeld-der-einsame-koenig.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1215890/",
+            "filename": "lagerfeld-der-einsame-koenig"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "lagerfeld-der-einsame-koenig",
+        "subheadline": "Lagerfeld, der einsame König",
+        "text": "Staffel  | Mi. 01.04.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/lagerfeld-der-einsame-koenig-12292",
+        "videoId": 1215890
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

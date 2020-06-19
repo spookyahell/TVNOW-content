@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 16115,
+  "additionalMeta": {
+    "canonical": "/filme/willkommen-bei-habib-oder-das-glueck-des-verlierens-16115",
+    "url": "/filme/willkommen-bei-habib-oder-das-glueck-des-verlierens-16115"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Willkommen bei Habib",
+      "url": "/filme/willkommen-bei-habib-oder-das-glueck-des-verlierens-16115"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 16115,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Willkommen bei Habib 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Willkommen bei Habib, Film, kostenlos, gratis, TV NOW, WATCHBOX, Komödie, deutsch, Identität, Heimat",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Willkommen bei Habib im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Willkommen bei Habib 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 577644,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/577644",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/16115"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Willkommen bei Habib",
+    "text": "Bei TV NOW kannst Du den Film Willkommen bei Habib und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/willkommen-bei-habib-oder-das-glueck-des-verlierens-16115",
+        "@type": "Movie",
+        "description": "Die Müllabfuhr streikt. Und so wie die Stadt mehr und mehr ihr sauberes Antlitz verliert, geraten auch die Leben von vier ihrer Bewohner in Unordnung. Ihre großen und kleinen Lebenslügen drängen an die Oberfläche. Habib (49) trifft nach vielen Jahren auf seine Jugendliebe, die er in der Türkei zurück ließ. Sein Sohn Neco (24) liebt eine junge Studentin, ist aber verheiratet. Bruno (46) wird aus seiner Firma geworfen und tritt auf der davor liegenden Verkehrsinsel in Sitzstreik. Ingo (78) flüchtet aus dem Krankenhaus, um seine Tochter nach 40 Jahren um Verzeihung zu bitten. Allen gemein ist die universelle Frage: Wozu lebe ich, wie und warum hier? Eine zu Herzen gehende Geschichte von vier Männern verschiedener Nationalitäten und verschiedenen Alters, ihren Lebenslügen und der Kunst ehrlich zu sich selbst zu sein.",
+        "duration": "PT1H50M36S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/577644/950x0/willkommen-bei-habib-oder-das-glueck-des-verlierens.jpg",
+        "name": "Willkommen bei Habib",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/willkommen-bei-habib-oder-das-glueck-des-verlierens-16115",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2018-06-01T01:24:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/willkommen-bei-habib-oder-das-glueck-des-verlierens-16115",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die Müllabfuhr streikt. Und so wie die Stadt mehr und mehr ihr sauberes Antlitz verliert, geraten auch die Leben von vier ihrer Bewohner in Unordnung. Ihre großen und kleinen Lebenslügen drängen an die Oberfläche. Habib (49) trifft nach vielen Jahren auf seine Jugendliebe, die er in der Türkei zurück ließ. Sein Sohn Neco (24) liebt eine junge Studentin, ist aber verheiratet. Bruno (46) wird aus seiner Firma geworfen und tritt auf der davor liegenden Verkehrsinsel in Sitzstreik. Ingo (78) flüchtet aus dem Krankenhaus, um seine Tochter nach 40 Jahren um Verzeihung zu bitten. Allen gemein ist die universelle Frage: Wozu lebe ich, wie und warum hier? Eine zu Herzen gehende Geschichte von vier Männern verschiedener Nationalitäten und verschiedenen Alters, ihren Lebenslügen und der Kunst ehrlich zu sich selbst zu sein.",
+          "duration": "PT1H50M36S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/willkommen-bei-habib-oder-das-glueck-des-verlierens-16115",
+          "name": "Willkommen bei Habib",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/577644/950x0/willkommen-bei-habib-oder-das-glueck-des-verlierens.jpg",
+          "uploadDate": "2018-06-01T01:24:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Willkommen bei Habib im Online Stream | TVNOW",
+        "headline": "Willkommen bei Habib im Online Stream | TVNOW",
+        "description": "Willkommen bei Habib und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Vedat Erincin, Thorsten Merten, Klaus Manchen, Burak Yigit, Teresa Harder, Luise Heyer.",
+        "url": "https://www.tvnow.de/filme/willkommen-bei-habib-oder-das-glueck-des-verlierens-16115",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/577644/950x0/willkommen-bei-habib-oder-das-glueck-des-verlierens.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/577644/950x0/willkommen-bei-habib-oder-das-glueck-des-verlierens.jpg",
+        "datePublished": "2018-06-01T01:24:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/577644/950x0/willkommen-bei-habib-oder-das-glueck-des-verlierens.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Willkommen bei Habib",
+            "item": "https://www.tvnow.de/filme/willkommen-bei-habib-oder-das-glueck-des-verlierens-16115"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Willkommen bei Habib im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16097",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16097,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/hemel-16097"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Hemel (OmU)",
+          "teaserId": "film_577450",
+          "teaserName": "Hemel (OmU) | Hemel",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Hemel",
+        "id": 577450,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577450/300x0/hemel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577450/",
+            "filename": "hemel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577450/600x0/hemel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577450/",
+            "filename": "hemel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577450/1200x0/hemel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577450/",
+            "filename": "hemel"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577450/300x0/hemel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577450/",
+            "filename": "hemel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577450/600x0/hemel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577450/",
+            "filename": "hemel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/577450/1200x0/hemel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/577450/",
+            "filename": "hemel"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "hemel",
+        "subheadline": "Hemel",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/hemel-16097",
+        "videoId": 577450
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

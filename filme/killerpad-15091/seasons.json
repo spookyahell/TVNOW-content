@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15091",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15091,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/killerpad-15091"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Killerpad",
+          "teaserId": "film_355634",
+          "teaserName": "Killerpad | Killerpad",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Killerpad",
+        "id": 355634,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355634/300x0/killerpad.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355634/",
+            "filename": "killerpad"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355634/600x0/killerpad.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355634/",
+            "filename": "killerpad"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355634/1200x0/killerpad.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355634/",
+            "filename": "killerpad"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355634/300x0/killerpad.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355634/",
+            "filename": "killerpad"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355634/600x0/killerpad.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355634/",
+            "filename": "killerpad"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355634/1200x0/killerpad.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355634/",
+            "filename": "killerpad"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "killerpad",
+        "subheadline": "Killerpad",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/killerpad-15091",
+        "videoId": 355634
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

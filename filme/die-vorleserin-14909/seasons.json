@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14909",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14909,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-vorleserin-14909"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Vorleserin",
+          "teaserId": "film_352024",
+          "teaserName": "Die Vorleserin | Die Vorleserin",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Vorleserin",
+        "id": 352024,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/352024/300x0/die-vorleserin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/352024/",
+            "filename": "die-vorleserin"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/352024/600x0/die-vorleserin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/352024/",
+            "filename": "die-vorleserin"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/352024/1200x0/die-vorleserin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/352024/",
+            "filename": "die-vorleserin"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/352024/300x0/die-vorleserin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/352024/",
+            "filename": "die-vorleserin"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/352024/600x0/die-vorleserin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/352024/",
+            "filename": "die-vorleserin"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/352024/1200x0/die-vorleserin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/352024/",
+            "filename": "die-vorleserin"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-vorleserin",
+        "subheadline": "Die Vorleserin",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/die-vorleserin-14909",
+        "videoId": 352024
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

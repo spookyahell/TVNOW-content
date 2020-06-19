@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12353",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12353,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/havoc-12353"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Havoc",
+          "teaserId": "film_344950",
+          "teaserName": "Havoc | Havoc",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Havoc",
+        "id": 344950,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344950/300x0/havoc.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344950/",
+            "filename": "havoc"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344950/600x0/havoc.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344950/",
+            "filename": "havoc"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344950/1200x0/havoc.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344950/",
+            "filename": "havoc"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344950/300x0/havoc.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344950/",
+            "filename": "havoc"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344950/600x0/havoc.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344950/",
+            "filename": "havoc"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344950/1200x0/havoc.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344950/",
+            "filename": "havoc"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "havoc",
+        "subheadline": "Havoc",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/havoc-12353",
+        "videoId": 344950
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

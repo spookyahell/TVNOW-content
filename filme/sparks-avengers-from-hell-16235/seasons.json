@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16235",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16235,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/sparks-avengers-from-hell-16235"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sparks - Avengers from Hell",
+          "teaserId": "film_919390",
+          "teaserName": "Sparks - Avengers from Hell | Sparks - Avengers from Hell",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Sparks - Avengers from Hell",
+        "id": 919390,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919390/300x0/sparks-avengers-from-hell.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919390/",
+            "filename": "sparks-avengers-from-hell"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919390/600x0/sparks-avengers-from-hell.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919390/",
+            "filename": "sparks-avengers-from-hell"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919390/1200x0/sparks-avengers-from-hell.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919390/",
+            "filename": "sparks-avengers-from-hell"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919390/300x0/sparks-avengers-from-hell.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919390/",
+            "filename": "sparks-avengers-from-hell"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919390/600x0/sparks-avengers-from-hell.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919390/",
+            "filename": "sparks-avengers-from-hell"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/919390/1200x0/sparks-avengers-from-hell.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/919390/",
+            "filename": "sparks-avengers-from-hell"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sparks-avengers-from-hell",
+        "subheadline": "Sparks - Avengers from Hell",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/sparks-avengers-from-hell-16235",
+        "videoId": 919390
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

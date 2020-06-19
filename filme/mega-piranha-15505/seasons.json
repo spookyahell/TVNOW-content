@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15505",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15505,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mega-piranha-15505"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mega Piranha",
+          "teaserId": "film_386256",
+          "teaserName": "Mega Piranha | Mega Piranha",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mega Piranha",
+        "id": 386256,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386256/300x0/mega-piranha.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386256/",
+            "filename": "mega-piranha"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386256/600x0/mega-piranha.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386256/",
+            "filename": "mega-piranha"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386256/1200x0/mega-piranha.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386256/",
+            "filename": "mega-piranha"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386256/300x0/mega-piranha.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386256/",
+            "filename": "mega-piranha"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386256/600x0/mega-piranha.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386256/",
+            "filename": "mega-piranha"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386256/1200x0/mega-piranha.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386256/",
+            "filename": "mega-piranha"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mega-piranha",
+        "subheadline": "Mega Piranha",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/mega-piranha-15505",
+        "videoId": 386256
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

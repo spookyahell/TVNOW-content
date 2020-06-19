@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 18137,
+  "additionalMeta": {
+    "canonical": "/filme/the-rainbow-wohnzimmer-des-rock-n-roll-18137",
+    "url": "/filme/the-rainbow-wohnzimmer-des-rock-n-roll-18137"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "The Rainbow - Wohnzimmer des Rock ’n’ Roll",
+      "url": "/filme/the-rainbow-wohnzimmer-des-rock-n-roll-18137"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18137,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ The Rainbow - Wohnzimmer des Rock ’n’ Roll 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "The Rainbow - Wohnzimmer des Rock ’n’ Roll im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ The Rainbow - Wohnzimmer des Rock ’n’ Roll 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 2370061,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/2370061",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18137"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Promis",
+      "History"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: The Rainbow - Wohnzimmer des Rock 'n' Roll",
+    "text": "Während sich die Welt rasend verändert, bleibt das \"Rainbow Bar and Grill\" in Hollywood seit 1972 eine der letzten Bastionen des wahren Rock'n'Roll. Ihr legendärer Besitzer Mario Maglieri und seine Stammgäste wie Lemmy Kilmister, Gene Simmons, Slash und Ozzy Osbourne erinnern sich an das goldene Zeitalter des Rock'n'Roll - und die Geschichten, die sich in der berühmten Bar abgespielt haben.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/the-rainbow-wohnzimmer-des-rock-n-roll-18137",
+        "@type": "Movie",
+        "description": "Während sich die Welt rasend verändert, bleibt das \"Rainbow Bar and Grill\" in Hollywood seit 1972 eine der letzten Bastionen des wahren Rock'n'Roll. Ihr legendärer Besitzer Mario Maglieri und seine Stammgäste wie Lemmy Kilmister, Gene Simmons, Slash und Ozzy Osbourne erinnern sich an das goldene Zeitalter des Rock'n'Roll - und die Geschichten, die sich in der berühmten Bar abgespielt haben.",
+        "duration": "PT1H11M48S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/2370061/950x0/the-rainbow-wohnzimmer-des-rock-n-roll.jpg",
+        "name": "The Rainbow - Wohnzimmer des Rock ’n’ Roll",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/the-rainbow-wohnzimmer-des-rock-n-roll-18137",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2019-11-24T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=the-rainbow-wohnzimmer-des-rock-n-roll-18137",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=the-rainbow-wohnzimmer-des-rock-n-roll-18137",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/the-rainbow-wohnzimmer-des-rock-n-roll-18137",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Während sich die Welt rasend verändert, bleibt das \"Rainbow Bar and Grill\" in Hollywood seit 1972 eine der letzten Bastionen des wahren Rock'n'Roll. Ihr legendärer Besitzer Mario Maglieri und seine Stammgäste wie Lemmy Kilmister, Gene Simmons, Slash und Ozzy Osbourne erinnern sich an das goldene Zeitalter des Rock'n'Roll - und die Geschichten, die sich in der berühmten Bar abgespielt haben.",
+          "duration": "PT1H11M48S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/the-rainbow-wohnzimmer-des-rock-n-roll-18137",
+          "name": "The Rainbow - Wohnzimmer des Rock ’n’ Roll",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2370061/950x0/the-rainbow-wohnzimmer-des-rock-n-roll.jpg",
+          "uploadDate": "2019-11-24T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "The Rainbow - Wohnzimmer des Rock ’n’ Roll im Online Stream | TVNOW",
+        "headline": "The Rainbow - Wohnzimmer des Rock ’n’ Roll im Online Stream | TVNOW",
+        "description": "The Rainbow - Wohnzimmer des Rock ’n’ Roll und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/the-rainbow-wohnzimmer-des-rock-n-roll-18137",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/2370061/950x0/the-rainbow-wohnzimmer-des-rock-n-roll.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2370061/950x0/the-rainbow-wohnzimmer-des-rock-n-roll.jpg",
+        "datePublished": "2019-11-24T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/2370061/950x0/the-rainbow-wohnzimmer-des-rock-n-roll.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The Rainbow - Wohnzimmer des Rock ’n’ Roll",
+            "item": "https://www.tvnow.de/filme/the-rainbow-wohnzimmer-des-rock-n-roll-18137"
+          }
+        ]
+      }
+    }
+  },
+  "title": "The Rainbow - Wohnzimmer des Rock ’n’ Roll im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

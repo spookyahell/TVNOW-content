@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17670",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17670,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-tierfluesterin-17670"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Tierflüsterin",
+          "teaserId": "film_1635810",
+          "teaserName": "Die Tierflüsterin | Die Tierflüsterin",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Tierflüsterin",
+        "id": 1635810,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635810/300x0/die-tierfluesterin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635810/",
+            "filename": "die-tierfluesterin"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635810/600x0/die-tierfluesterin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635810/",
+            "filename": "die-tierfluesterin"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635810/1200x0/die-tierfluesterin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635810/",
+            "filename": "die-tierfluesterin"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635810/300x0/die-tierfluesterin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635810/",
+            "filename": "die-tierfluesterin"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635810/600x0/die-tierfluesterin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635810/",
+            "filename": "die-tierfluesterin"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635810/1200x0/die-tierfluesterin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635810/",
+            "filename": "die-tierfluesterin"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-tierfluesterin",
+        "subheadline": "Die Tierflüsterin",
+        "text": "Staffel  | Di. 07.01.2020, 21:10 Uhr",
+        "type": "film",
+        "url": "/filme/die-tierfluesterin-17670",
+        "videoId": 1635810
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

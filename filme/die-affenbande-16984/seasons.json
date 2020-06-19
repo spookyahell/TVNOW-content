@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16984",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16984,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-affenbande-16984"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Affenbande",
+          "teaserId": "film_353994",
+          "teaserName": "Die Affenbande | Die Affenbande",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Affenbande",
+        "id": 353994,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353994/300x0/die-affenbande.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353994/",
+            "filename": "die-affenbande"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353994/600x0/die-affenbande.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353994/",
+            "filename": "die-affenbande"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353994/1200x0/die-affenbande.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353994/",
+            "filename": "die-affenbande"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353994/300x0/die-affenbande.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353994/",
+            "filename": "die-affenbande"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353994/600x0/die-affenbande.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353994/",
+            "filename": "die-affenbande"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353994/1200x0/die-affenbande.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353994/",
+            "filename": "die-affenbande"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-affenbande",
+        "subheadline": "Die Affenbande",
+        "text": "Staffel  | Mi. 04.03.2020, 18:30 Uhr",
+        "type": "film",
+        "url": "/filme/die-affenbande-16984",
+        "videoId": 353994
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

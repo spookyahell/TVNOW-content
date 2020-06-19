@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17112",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17112,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/top-hits-der-tiere-17112"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Top Hits der Tiere",
+          "teaserId": "film_1329716",
+          "teaserName": "Top Hits der Tiere | Top Hits der Tiere",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Tiere"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Top Hits der Tiere",
+        "id": 1329716,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1329716/300x0/top-hits-der-tiere.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1329716/",
+            "filename": "top-hits-der-tiere"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1329716/600x0/top-hits-der-tiere.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1329716/",
+            "filename": "top-hits-der-tiere"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1329716/1200x0/top-hits-der-tiere.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1329716/",
+            "filename": "top-hits-der-tiere"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1329716/300x0/top-hits-der-tiere.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1329716/",
+            "filename": "top-hits-der-tiere"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1329716/600x0/top-hits-der-tiere.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1329716/",
+            "filename": "top-hits-der-tiere"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1329716/1200x0/top-hits-der-tiere.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1329716/",
+            "filename": "top-hits-der-tiere"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "top-hits-der-tiere",
+        "subheadline": "Top Hits der Tiere",
+        "text": "Staffel  | Di. 12.02.2019, 22:15 Uhr",
+        "type": "film",
+        "url": "/filme/top-hits-der-tiere-17112",
+        "videoId": 1329716
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

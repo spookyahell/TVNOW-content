@@ -1,0 +1,208 @@
+﻿{
+  "formatId": 17733,
+  "additionalMeta": {
+    "canonical": "/serien/vera-ein-ganz-spezieller-fall-17733",
+    "url": "/serien/vera-ein-ganz-spezieller-fall-17733"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Vera - Ein ganz spezieller Fall",
+      "url": "/serien/vera-ein-ganz-spezieller-fall-17733"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 17733,
+  "meta": [
+    {
+      "content": "Die Serie Vera - Ein ganz spezieller Fall (tvnow) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Crime im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "video, videos, online sehen, internet tv, fernsehen, video on demand, TVNOW, Vera",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Vera - Ein ganz spezieller Fall im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Vera - Ein ganz spezieller Fall (tvnow) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Crime im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/17733",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/17733",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/17733",
+      "type": "teaserrow"
+    },
+    {
+      "id": 17733,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/17733",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnveraspeziellerfall",
+      "video": "dvrsowf_ten_tnveraspeziellerfall",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/vera_spezieller_fall/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "vera_spezieller_fall",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Crime",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Vera - Ein ganz spezieller Fall - Informationen zur Serie",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "https://www.tvnow.de/serien/vera-ein-ganz-spezieller-fall-17733",
+        "url": "https://www.tvnow.de/serien/vera-ein-ganz-spezieller-fall-17733",
+        "name": "Vera - Ein ganz spezieller Fall",
+        "description": "Die Serie Vera - Ein ganz spezieller Fall (tvnow) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Crime im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/17733_04metalogo/1200x0/vera-ein-ganz-spezieller-fall.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Vera - Ein ganz spezieller Fall - Informationen zur Serie",
+        "headline": "Vera - Ein ganz spezieller Fall - Informationen zur Serie",
+        "description": "Die Serie Vera - Ein ganz spezieller Fall (tvnow) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Crime im Online Stream bei TVNOW anschauen.",
+        "url": "https://www.tvnow.de/serien/vera-ein-ganz-spezieller-fall-17733",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/17733_04metalogo/1200x0/vera-ein-ganz-spezieller-fall.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/17733_04metalogo/1200x0/vera-ein-ganz-spezieller-fall.png",
+        "keywords": "video, videos, online sehen, internet tv, fernsehen, video on demand, TVNOW, Vera",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/17733_04metalogo/1200x0/vera-ein-ganz-spezieller-fall.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "https://www.tvnow.de/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Vera - Ein ganz spezieller Fall",
+            "item": "https://www.tvnow.de/serien/vera-ein-ganz-spezieller-fall-17733"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Vera - Ein ganz spezieller Fall im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

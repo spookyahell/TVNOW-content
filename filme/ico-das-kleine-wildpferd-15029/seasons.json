@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15029",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15029,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ico-das-kleine-wildpferd-15029"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ico - Das kleine Wildpferd",
+          "teaserId": "film_355012",
+          "teaserName": "Ico - Das kleine Wildpferd | Ico - Das kleine Wildpferd",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Animation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ico - Das kleine Wildpferd",
+        "id": 355012,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355012/300x0/ico-das-kleine-wildpferd.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355012/",
+            "filename": "ico-das-kleine-wildpferd"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355012/600x0/ico-das-kleine-wildpferd.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355012/",
+            "filename": "ico-das-kleine-wildpferd"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355012/1200x0/ico-das-kleine-wildpferd.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355012/",
+            "filename": "ico-das-kleine-wildpferd"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355012/300x0/ico-das-kleine-wildpferd.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355012/",
+            "filename": "ico-das-kleine-wildpferd"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355012/600x0/ico-das-kleine-wildpferd.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355012/",
+            "filename": "ico-das-kleine-wildpferd"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355012/1200x0/ico-das-kleine-wildpferd.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355012/",
+            "filename": "ico-das-kleine-wildpferd"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ico-das-kleine-wildpferd",
+        "subheadline": "Ico - Das kleine Wildpferd",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/ico-das-kleine-wildpferd-15029",
+        "videoId": 355012
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15077",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15077,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/weihnachtspost-15077"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Weihnachtspost",
+          "teaserId": "film_355630",
+          "teaserName": "Weihnachtspost | Weihnachtspost",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Weihnachtspost",
+        "id": 355630,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355630/300x0/weihnachtspost.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355630/",
+            "filename": "weihnachtspost"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355630/600x0/weihnachtspost.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355630/",
+            "filename": "weihnachtspost"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355630/1200x0/weihnachtspost.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355630/",
+            "filename": "weihnachtspost"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355630/300x0/weihnachtspost.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355630/",
+            "filename": "weihnachtspost"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355630/600x0/weihnachtspost.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355630/",
+            "filename": "weihnachtspost"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355630/1200x0/weihnachtspost.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355630/",
+            "filename": "weihnachtspost"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "weihnachtspost",
+        "subheadline": "Weihnachtspost",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/weihnachtspost-15077",
+        "videoId": 355630
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12933",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12933,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/sindbads-sechste-reise-12933"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sindbads sechste Reise",
+          "teaserId": "film_335072",
+          "teaserName": "Sindbads sechste Reise | Sindbads sechste Reise",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Fantasy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Sindbads sechste Reise",
+        "id": 335072,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335072/300x0/sindbads-sechste-reise.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335072/",
+            "filename": "sindbads-sechste-reise"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335072/600x0/sindbads-sechste-reise.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335072/",
+            "filename": "sindbads-sechste-reise"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335072/1200x0/sindbads-sechste-reise.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335072/",
+            "filename": "sindbads-sechste-reise"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335072/300x0/sindbads-sechste-reise.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335072/",
+            "filename": "sindbads-sechste-reise"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335072/600x0/sindbads-sechste-reise.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335072/",
+            "filename": "sindbads-sechste-reise"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335072/1200x0/sindbads-sechste-reise.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335072/",
+            "filename": "sindbads-sechste-reise"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sindbads-sechste-reise",
+        "subheadline": "Sindbads sechste Reise",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/sindbads-sechste-reise-12933",
+        "videoId": 335072
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

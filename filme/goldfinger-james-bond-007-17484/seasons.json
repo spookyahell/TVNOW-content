@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17484",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17484,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/james-bond-007-goldfinger-17484"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Goldfinger (1964) - James Bond 007",
+          "teaserId": "film_1635353",
+          "teaserName": "Goldfinger (1964) - James Bond 007 | James Bond 007 - Goldfinger",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "James Bond 007 - Goldfinger",
+        "id": 1635353,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635353/300x0/james-bond-007-goldfinger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635353/",
+            "filename": "james-bond-007-goldfinger"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635353/600x0/james-bond-007-goldfinger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635353/",
+            "filename": "james-bond-007-goldfinger"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635353/1200x0/james-bond-007-goldfinger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635353/",
+            "filename": "james-bond-007-goldfinger"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635353/300x0/james-bond-007-goldfinger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635353/",
+            "filename": "james-bond-007-goldfinger"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635353/600x0/james-bond-007-goldfinger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635353/",
+            "filename": "james-bond-007-goldfinger"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635353/1200x0/james-bond-007-goldfinger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635353/",
+            "filename": "james-bond-007-goldfinger"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "goldfinger-james-bond-007",
+        "subheadline": "James Bond 007 - Goldfinger",
+        "text": "Staffel  | EXKLUSIV",
+        "type": "film",
+        "url": "/filme/james-bond-007-goldfinger-17484",
+        "videoId": 1635353
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

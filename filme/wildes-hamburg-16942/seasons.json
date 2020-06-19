@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16942",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16942,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/wildes-hamburg-16942"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wildes Hamburg",
+          "teaserId": "film_682886",
+          "teaserName": "Wildes Hamburg | Wildes Hamburg",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wildes Hamburg",
+        "id": 682886,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/682886/300x0/wildes-hamburg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/682886/",
+            "filename": "wildes-hamburg"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/682886/600x0/wildes-hamburg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/682886/",
+            "filename": "wildes-hamburg"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/682886/1200x0/wildes-hamburg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/682886/",
+            "filename": "wildes-hamburg"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/682886/300x0/wildes-hamburg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/682886/",
+            "filename": "wildes-hamburg"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/682886/600x0/wildes-hamburg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/682886/",
+            "filename": "wildes-hamburg"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/682886/1200x0/wildes-hamburg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/682886/",
+            "filename": "wildes-hamburg"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wildes-hamburg",
+        "subheadline": "Wildes Hamburg",
+        "text": "Staffel  | Mo. 03.12.2018, 11:25 Uhr",
+        "type": "film",
+        "url": "/filme/wildes-hamburg-16942",
+        "videoId": 682886
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

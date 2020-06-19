@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12769",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12769,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/phantom-the-submarine-12769"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Phantom: The Submarine",
+          "teaserId": "film_333820",
+          "teaserName": "Phantom: The Submarine | Phantom: The Submarine",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Phantom: The Submarine",
+        "id": 333820,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333820/300x0/phantom-the-submarine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333820/",
+            "filename": "phantom-the-submarine"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333820/600x0/phantom-the-submarine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333820/",
+            "filename": "phantom-the-submarine"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333820/1200x0/phantom-the-submarine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333820/",
+            "filename": "phantom-the-submarine"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333820/300x0/phantom-the-submarine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333820/",
+            "filename": "phantom-the-submarine"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333820/600x0/phantom-the-submarine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333820/",
+            "filename": "phantom-the-submarine"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333820/1200x0/phantom-the-submarine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333820/",
+            "filename": "phantom-the-submarine"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "phantom-the-submarine",
+        "subheadline": "Phantom: The Submarine",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/phantom-the-submarine-12769",
+        "videoId": 333820
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

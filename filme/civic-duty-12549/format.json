@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 12549,
+  "additionalMeta": {
+    "canonical": "/filme/civic-duty-12549",
+    "url": "/filme/civic-duty-12549"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Civic Duty",
+      "url": "/filme/civic-duty-12549"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 12549,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Civic Duty 📺 und viele weitere ▶️ Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Civic Duty, Film, TV NOW, Watchbox bei TV NOW, USA, Terror, 9/11, Nine Eleven, Terrorismus, Angst, Islam",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Civic Duty im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Civic Duty 📺 und viele weitere ▶️ Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 330652,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/330652",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/12549"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_thriller/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_thriller",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Thriller",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Civic Duty",
+    "text": "Bei TV NOW kannst Du den Film Civic Duty und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/civic-duty-12549",
+        "@type": "Movie",
+        "description": "USA, es ist die Zeit nach 9/11. Die Angst vor dem weltweiten Terrorismus ist allgegenwärtig. Auch der Alltag des Buchhalters Terry Allen wird nur von dem einen Thema bestimmt. Obsessiv verfolgt er in den Medien die Berichterstattungen über den Kampf gegen den Terror. Als im Nachbarhaus ein islamischer Student einzieht, wächst in Terry der Verdacht, dass es sich um einen Terroristen handelt. Obwohl ihm niemand glauben möchte, fängt er an seinen neuen Nachbarn zu beobachten. Für Terry ist klar, er wird alles tun, um die wahre Identität des Studenten zu entlarven. Koste es, was es wolle...",
+        "duration": "PT1H30M55S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/330652/950x0/civic-duty.jpg",
+        "name": "Civic Duty",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/civic-duty-12549",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-09-01T20:07:24.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/civic-duty-12549",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "USA, es ist die Zeit nach 9/11. Die Angst vor dem weltweiten Terrorismus ist allgegenwärtig. Auch der Alltag des Buchhalters Terry Allen wird nur von dem einen Thema bestimmt. Obsessiv verfolgt er in den Medien die Berichterstattungen über den Kampf gegen den Terror. Als im Nachbarhaus ein islamischer Student einzieht, wächst in Terry der Verdacht, dass es sich um einen Terroristen handelt. Obwohl ihm niemand glauben möchte, fängt er an seinen neuen Nachbarn zu beobachten. Für Terry ist klar, er wird alles tun, um die wahre Identität des Studenten zu entlarven. Koste es, was es wolle...",
+          "duration": "PT1H30M55S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/civic-duty-12549",
+          "name": "Civic Duty",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/330652/950x0/civic-duty.jpg",
+          "uploadDate": "2017-09-01T20:07:24.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Civic Duty im Online Stream | TVNOW",
+        "headline": "Civic Duty im Online Stream | TVNOW",
+        "description": "Civic Duty und viele weitere  ▶️Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW. Ein Film mit ▶️Kari Matchett, Ian Tracey, Richard Schiff, Khaled Abol Naga.",
+        "url": "https://www.tvnow.de/filme/civic-duty-12549",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/330652/950x0/civic-duty.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/330652/950x0/civic-duty.jpg",
+        "datePublished": "2017-09-01T20:07:24.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/330652/950x0/civic-duty.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Civic Duty",
+            "item": "https://www.tvnow.de/filme/civic-duty-12549"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Civic Duty im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

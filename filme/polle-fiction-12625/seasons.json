@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12625",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12625,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/polle-fiction-12625"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Polle Fiction",
+          "teaserId": "film_333842",
+          "teaserName": "Polle Fiction | Polle Fiction",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Polle Fiction",
+        "id": 333842,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333842/300x0/polle-fiction.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333842/",
+            "filename": "polle-fiction"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333842/600x0/polle-fiction.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333842/",
+            "filename": "polle-fiction"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333842/1200x0/polle-fiction.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333842/",
+            "filename": "polle-fiction"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333842/300x0/polle-fiction.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333842/",
+            "filename": "polle-fiction"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333842/600x0/polle-fiction.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333842/",
+            "filename": "polle-fiction"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333842/1200x0/polle-fiction.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333842/",
+            "filename": "polle-fiction"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "polle-fiction",
+        "subheadline": "Polle Fiction",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/polle-fiction-12625",
+        "videoId": 333842
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

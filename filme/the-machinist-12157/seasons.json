@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12157",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12157,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-machinist-12157"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Machinist",
+          "teaserId": "film_328160",
+          "teaserName": "The Machinist | The Machinist",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Machinist",
+        "id": 328160,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/328160/300x0/the-machinist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/328160/",
+            "filename": "the-machinist"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/328160/600x0/the-machinist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/328160/",
+            "filename": "the-machinist"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/328160/1200x0/the-machinist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/328160/",
+            "filename": "the-machinist"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/328160/300x0/the-machinist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/328160/",
+            "filename": "the-machinist"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/328160/600x0/the-machinist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/328160/",
+            "filename": "the-machinist"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/328160/1200x0/the-machinist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/328160/",
+            "filename": "the-machinist"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-machinist",
+        "subheadline": "The Machinist",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-machinist-12157",
+        "videoId": 328160
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

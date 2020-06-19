@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17081",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17081,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/tickled-17081"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Tickled",
+          "teaserId": "film_411604",
+          "teaserName": "Tickled | Tickled",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Tickled",
+        "id": 411604,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/411604/300x0/tickled.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/411604/",
+            "filename": "tickled"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/411604/600x0/tickled.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/411604/",
+            "filename": "tickled"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/411604/1200x0/tickled.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/411604/",
+            "filename": "tickled"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/411604/300x0/tickled.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/411604/",
+            "filename": "tickled"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/411604/600x0/tickled.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/411604/",
+            "filename": "tickled"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/411604/1200x0/tickled.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/411604/",
+            "filename": "tickled"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "tickled",
+        "subheadline": "Tickled",
+        "text": "Staffel  | Mi. 26.02.2020, 02:15 Uhr",
+        "type": "film",
+        "url": "/filme/tickled-17081",
+        "videoId": 411604
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

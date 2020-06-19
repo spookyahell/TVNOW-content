@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14349",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14349,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/robo-geisha-14349"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Robo Geisha",
+          "teaserId": "film_343670",
+          "teaserName": "Robo Geisha | Robo Geisha",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Robo Geisha",
+        "id": 343670,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343670/300x0/robo-geisha.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343670/",
+            "filename": "robo-geisha"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343670/600x0/robo-geisha.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343670/",
+            "filename": "robo-geisha"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343670/1200x0/robo-geisha.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343670/",
+            "filename": "robo-geisha"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343670/300x0/robo-geisha.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343670/",
+            "filename": "robo-geisha"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343670/600x0/robo-geisha.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343670/",
+            "filename": "robo-geisha"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343670/1200x0/robo-geisha.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343670/",
+            "filename": "robo-geisha"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "robo-geisha",
+        "subheadline": "Robo Geisha",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/robo-geisha-14349",
+        "videoId": 343670
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

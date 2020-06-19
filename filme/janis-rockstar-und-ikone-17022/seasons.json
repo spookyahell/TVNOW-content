@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17022",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17022,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/janis-rockstar-und-ikone-17022"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Janis - Rockstar und Ikone",
+          "teaserId": "film_1131344",
+          "teaserName": "Janis - Rockstar und Ikone | Janis - Rockstar und Ikone",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Janis - Rockstar und Ikone",
+        "id": 1131344,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1131344/300x0/janis-rockstar-und-ikone.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1131344/",
+            "filename": "janis-rockstar-und-ikone"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1131344/600x0/janis-rockstar-und-ikone.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1131344/",
+            "filename": "janis-rockstar-und-ikone"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1131344/1200x0/janis-rockstar-und-ikone.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1131344/",
+            "filename": "janis-rockstar-und-ikone"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1131344/300x0/janis-rockstar-und-ikone.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1131344/",
+            "filename": "janis-rockstar-und-ikone"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1131344/600x0/janis-rockstar-und-ikone.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1131344/",
+            "filename": "janis-rockstar-und-ikone"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1131344/1200x0/janis-rockstar-und-ikone.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1131344/",
+            "filename": "janis-rockstar-und-ikone"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "janis-rockstar-und-ikone",
+        "subheadline": "Janis - Rockstar und Ikone",
+        "text": "Staffel  | Fr. 05.06.2020, 00:25 Uhr",
+        "type": "film",
+        "url": "/filme/janis-rockstar-und-ikone-17022",
+        "videoId": 1131344
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

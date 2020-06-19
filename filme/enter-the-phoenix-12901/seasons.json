@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12901",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12901,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/enter-the-phoenix-12901"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Enter the Phoenix",
+          "teaserId": "film_335060",
+          "teaserName": "Enter the Phoenix | Enter the Phoenix",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Enter the Phoenix",
+        "id": 335060,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335060/300x0/enter-the-phoenix.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335060/",
+            "filename": "enter-the-phoenix"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335060/600x0/enter-the-phoenix.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335060/",
+            "filename": "enter-the-phoenix"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335060/1200x0/enter-the-phoenix.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335060/",
+            "filename": "enter-the-phoenix"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335060/300x0/enter-the-phoenix.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335060/",
+            "filename": "enter-the-phoenix"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335060/600x0/enter-the-phoenix.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335060/",
+            "filename": "enter-the-phoenix"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335060/1200x0/enter-the-phoenix.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335060/",
+            "filename": "enter-the-phoenix"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "enter-the-phoenix",
+        "subheadline": "Enter the Phoenix",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/enter-the-phoenix-12901",
+        "videoId": 335060
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

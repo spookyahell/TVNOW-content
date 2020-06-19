@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16039",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16039,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/dance-with-me-16039"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Dance with Me",
+          "teaserId": "film_439286",
+          "teaserName": "Dance with Me | Dance with Me",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Dance with Me",
+        "id": 439286,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/439286/300x0/dance-with-me.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/439286/",
+            "filename": "dance-with-me"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/439286/600x0/dance-with-me.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/439286/",
+            "filename": "dance-with-me"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/439286/1200x0/dance-with-me.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/439286/",
+            "filename": "dance-with-me"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/439286/300x0/dance-with-me.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/439286/",
+            "filename": "dance-with-me"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/439286/600x0/dance-with-me.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/439286/",
+            "filename": "dance-with-me"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/439286/1200x0/dance-with-me.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/439286/",
+            "filename": "dance-with-me"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "dance-with-me",
+        "subheadline": "Dance with Me",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/dance-with-me-16039",
+        "videoId": 439286
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17075",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17075,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/das-recht-der-macht-17075"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Recht der Macht",
+          "teaserId": "film_1331350",
+          "teaserName": "Das Recht der Macht | Das Recht der Macht",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das Recht der Macht",
+        "id": 1331350,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331350/300x0/das-recht-der-macht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331350/",
+            "filename": "das-recht-der-macht"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331350/600x0/das-recht-der-macht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331350/",
+            "filename": "das-recht-der-macht"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331350/1200x0/das-recht-der-macht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331350/",
+            "filename": "das-recht-der-macht"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331350/300x0/das-recht-der-macht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331350/",
+            "filename": "das-recht-der-macht"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331350/600x0/das-recht-der-macht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331350/",
+            "filename": "das-recht-der-macht"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331350/1200x0/das-recht-der-macht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331350/",
+            "filename": "das-recht-der-macht"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-recht-der-macht",
+        "subheadline": "Das Recht der Macht",
+        "text": "Staffel  | Mi. 01.04.2020, 00:15 Uhr",
+        "type": "film",
+        "url": "/filme/das-recht-der-macht-17075",
+        "videoId": 1331350
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 1602,
+  "additionalMeta": {
+    "canonical": "/filme/world-express-atemlos-durch-mexiko-1602",
+    "url": "/filme/world-express-atemlos-durch-mexiko-1602"
+  },
+  "ads": {
+    "station": "rtl",
+    "taggingPack": "film",
+    "taggingSubSite": "world_express"
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "World Express - Atemlos durch Mexiko",
+      "url": "/filme/world-express-atemlos-durch-mexiko-1602"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 1602,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ World Express - Atemlos durch Mexiko 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "video, videos, rtl, online, Kino, DVD, Abruf, online, RTLnow, TV NOW, World Express, Atemlos durch Mexiko, Action, Marco Girnth, Sarah Maria Besgen, Manta",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "World Express - Atemlos durch Mexiko im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ World Express - Atemlos durch Mexiko 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 45211,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/45211",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/1602"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rnworldexpress",
+      "video": "dvrsowf_ten_rnworldexpress",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_now/formate/world_express/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_now",
+        "formate",
+        "world_express",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Action",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zur Serie: World Express - Atemlos durch Mexiko",
+    "text": "World Express - Atemlos durch Mexiko und viele weitere Serien kannst Du gemütlich online bei TV NOW im Stream anschauen. Also nichts wie los – hole das Knabberzeug raus und genieße Deine Serie ganz entspannt von unterwegs oder von zu Hause aus mit Freunden.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/world-express-atemlos-durch-mexiko-1602",
+        "@type": "Movie",
+        "description": "David Voss und Philip Harmsdorf sind das Top-Team des 'World Express', einem internationalen Kurierdienst spezialisiert auf besonders schwierige Fälle. Tagtäglich jagen sie im Auftrag ihres geheimnisvollen Chefs Anson unter Hochdruck rund um den Globus, um ihre sensible Fracht pünktlich und gegen alle Widrigkeiten ans Ziel zu bringen. Doch als David und Philip in Mexiko das Lösegeld für ein entführtes deutsches Mädchen  überbringen sollen, kommt es zur Katastrophe: Philip wird erschossen und das Lösegeld gestohlen. Viel Zeit zum Trauern bleibt David jedoch nicht, er muss das Lösegeld wiederbeschaffen und das Mädchen retten. Doch er hat nicht mit der Mutter des Mädchens gerechnet: In Corinna Achternberg erkennt er seine Ex-Freundin wieder, von der er sich vor vielen Jahren nicht unbedingt im Guten getrennt hat. Sie hütet ein brisantes Geheimnis und hat es sich in den Kopf gesetzt, ihr Kind selbst aus den Händen der Entführer zu befreien. Auf der Suche nach Janina erleben Corinna und David nicht nur einen abenteuerlichen Trip durch Mexiko - sie merken auch, dass alte Liebe nicht so schnell rostet...",
+        "duration": "PT1H30M21S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/45211/950x0/world-express-atemlos-durch-mexiko.jpg",
+        "name": "World Express - Atemlos durch Mexiko",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/world-express-atemlos-durch-mexiko-1602",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2011-09-08T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=world-express-atemlos-durch-mexiko-1602",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=world-express-atemlos-durch-mexiko-1602",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/world-express-atemlos-durch-mexiko-1602",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "David Voss und Philip Harmsdorf sind das Top-Team des 'World Express', einem internationalen Kurierdienst spezialisiert auf besonders schwierige Fälle. Tagtäglich jagen sie im Auftrag ihres geheimnisvollen Chefs Anson unter Hochdruck rund um den Globus, um ihre sensible Fracht pünktlich und gegen alle Widrigkeiten ans Ziel zu bringen. Doch als David und Philip in Mexiko das Lösegeld für ein entführtes deutsches Mädchen  überbringen sollen, kommt es zur Katastrophe: Philip wird erschossen und das Lösegeld gestohlen. Viel Zeit zum Trauern bleibt David jedoch nicht, er muss das Lösegeld wiederbeschaffen und das Mädchen retten. Doch er hat nicht mit der Mutter des Mädchens gerechnet: In Corinna Achternberg erkennt er seine Ex-Freundin wieder, von der er sich vor vielen Jahren nicht unbedingt im Guten getrennt hat. Sie hütet ein brisantes Geheimnis und hat es sich in den Kopf gesetzt, ihr Kind selbst aus den Händen der Entführer zu befreien. Auf der Suche nach Janina erleben Corinna und David nicht nur einen abenteuerlichen Trip durch Mexiko - sie merken auch, dass alte Liebe nicht so schnell rostet...",
+          "duration": "PT1H30M21S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/world-express-atemlos-durch-mexiko-1602",
+          "name": "World Express - Atemlos durch Mexiko",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/45211/950x0/world-express-atemlos-durch-mexiko.jpg",
+          "uploadDate": "2011-09-08T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "World Express - Atemlos durch Mexiko im Online Stream | TVNOW",
+        "headline": "World Express - Atemlos durch Mexiko im Online Stream | TVNOW",
+        "description": "World Express - Atemlos durch Mexiko und viele weitere  ▶️Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/world-express-atemlos-durch-mexiko-1602",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/45211/950x0/world-express-atemlos-durch-mexiko.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/45211/950x0/world-express-atemlos-durch-mexiko.jpg",
+        "datePublished": "2011-09-08T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/45211/950x0/world-express-atemlos-durch-mexiko.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "World Express - Atemlos durch Mexiko",
+            "item": "https://www.tvnow.de/filme/world-express-atemlos-durch-mexiko-1602"
+          }
+        ]
+      }
+    }
+  },
+  "title": "World Express - Atemlos durch Mexiko im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

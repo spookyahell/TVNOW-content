@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18469",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18469,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/dieter-der-film-18469"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Dieter Bohlen - Der Film",
+          "teaserId": "film_3043554",
+          "teaserName": "Dieter Bohlen - Der Film | Dieter - Der Film",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Dieter - Der Film",
+        "id": 3043554,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3043554/300x0/dieter-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3043554/",
+            "filename": "dieter-der-film"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3043554/600x0/dieter-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3043554/",
+            "filename": "dieter-der-film"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3043554/1200x0/dieter-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3043554/",
+            "filename": "dieter-der-film"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3043554/300x0/dieter-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3043554/",
+            "filename": "dieter-der-film"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3043554/600x0/dieter-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3043554/",
+            "filename": "dieter-der-film"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3043554/1200x0/dieter-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3043554/",
+            "filename": "dieter-der-film"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "",
+        "subheadline": "Dieter - Der Film",
+        "text": "Staffel  | Fr. 10.04.2020, 17:15 Uhr",
+        "type": "film",
+        "url": "/filme/dieter-der-film-18469",
+        "videoId": 3043554
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17056",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17056,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ich-liebe-dich-u-bahn-17056"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ich liebe dich, U-Bahn!",
+          "teaserId": "film_361808",
+          "teaserName": "Ich liebe dich, U-Bahn! | Ich liebe dich, U-Bahn!",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ich liebe dich, U-Bahn!",
+        "id": 361808,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/361808/300x0/ich-liebe-dich-u-bahn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/361808/",
+            "filename": "ich-liebe-dich-u-bahn"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/361808/600x0/ich-liebe-dich-u-bahn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/361808/",
+            "filename": "ich-liebe-dich-u-bahn"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/361808/1200x0/ich-liebe-dich-u-bahn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/361808/",
+            "filename": "ich-liebe-dich-u-bahn"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/361808/300x0/ich-liebe-dich-u-bahn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/361808/",
+            "filename": "ich-liebe-dich-u-bahn"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/361808/600x0/ich-liebe-dich-u-bahn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/361808/",
+            "filename": "ich-liebe-dich-u-bahn"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/361808/1200x0/ich-liebe-dich-u-bahn.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/361808/",
+            "filename": "ich-liebe-dich-u-bahn"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ich-liebe-dich-u-bahn",
+        "subheadline": "Ich liebe dich, U-Bahn!",
+        "text": "Staffel  | Sa. 11.04.2020, 22:35 Uhr",
+        "type": "film",
+        "url": "/filme/ich-liebe-dich-u-bahn-17056",
+        "videoId": 361808
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

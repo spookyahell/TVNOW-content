@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12531",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12531,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ninja-scroll-12531"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ninja Scroll",
+          "teaserId": "film_330604",
+          "teaserName": "Ninja Scroll | Ninja Scroll",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Anime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ninja Scroll",
+        "id": 330604,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330604/300x0/ninja-scroll.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330604/",
+            "filename": "ninja-scroll"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330604/600x0/ninja-scroll.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330604/",
+            "filename": "ninja-scroll"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330604/1200x0/ninja-scroll.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330604/",
+            "filename": "ninja-scroll"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330604/300x0/ninja-scroll.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330604/",
+            "filename": "ninja-scroll"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330604/600x0/ninja-scroll.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330604/",
+            "filename": "ninja-scroll"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/330604/1200x0/ninja-scroll.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/330604/",
+            "filename": "ninja-scroll"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ninja-scroll",
+        "subheadline": "Ninja Scroll",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/ninja-scroll-12531",
+        "videoId": 330604
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

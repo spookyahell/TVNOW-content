@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12899",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12899,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/dot-kill-12899"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Dot.Kill",
+          "teaserId": "film_335026",
+          "teaserName": "Dot.Kill | Dot.Kill",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Dot.Kill",
+        "id": 335026,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335026/300x0/dot-kill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335026/",
+            "filename": "dot-kill"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335026/600x0/dot-kill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335026/",
+            "filename": "dot-kill"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335026/1200x0/dot-kill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335026/",
+            "filename": "dot-kill"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335026/300x0/dot-kill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335026/",
+            "filename": "dot-kill"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335026/600x0/dot-kill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335026/",
+            "filename": "dot-kill"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335026/1200x0/dot-kill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335026/",
+            "filename": "dot-kill"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "dotkill",
+        "subheadline": "Dot.Kill",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/dot-kill-12899",
+        "videoId": 335026
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

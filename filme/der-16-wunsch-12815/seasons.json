@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12815",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12815,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-16-wunsch-12815"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der 16. Wunsch",
+          "teaserId": "film_334356",
+          "teaserName": "Der 16. Wunsch | Der 16. Wunsch",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Fantasy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der 16. Wunsch",
+        "id": 334356,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334356/300x0/der-16-wunsch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334356/",
+            "filename": "der-16-wunsch"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334356/600x0/der-16-wunsch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334356/",
+            "filename": "der-16-wunsch"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334356/1200x0/der-16-wunsch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334356/",
+            "filename": "der-16-wunsch"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334356/300x0/der-16-wunsch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334356/",
+            "filename": "der-16-wunsch"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334356/600x0/der-16-wunsch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334356/",
+            "filename": "der-16-wunsch"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334356/1200x0/der-16-wunsch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334356/",
+            "filename": "der-16-wunsch"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-16-wunsch",
+        "subheadline": "Der 16. Wunsch",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/der-16-wunsch-12815",
+        "videoId": 334356
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

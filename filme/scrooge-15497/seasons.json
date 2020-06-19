@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15497",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15497,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/scrooge-15497"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Scrooge",
+          "teaserId": "film_386252",
+          "teaserName": "Scrooge | Scrooge",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Scrooge",
+        "id": 386252,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386252/300x0/scrooge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386252/",
+            "filename": "scrooge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386252/600x0/scrooge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386252/",
+            "filename": "scrooge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386252/1200x0/scrooge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386252/",
+            "filename": "scrooge"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386252/300x0/scrooge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386252/",
+            "filename": "scrooge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386252/600x0/scrooge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386252/",
+            "filename": "scrooge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386252/1200x0/scrooge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386252/",
+            "filename": "scrooge"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "scrooge",
+        "subheadline": "Scrooge",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/scrooge-15497",
+        "videoId": 386252
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

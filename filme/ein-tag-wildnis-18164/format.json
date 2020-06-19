@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 18164,
+  "additionalMeta": {
+    "canonical": "/filme/ein-tag-wildnis-18164",
+    "url": "/filme/ein-tag-wildnis-18164"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Ein Tag Wildnis",
+      "url": "/filme/ein-tag-wildnis-18164"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18164,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Ein Tag Wildnis 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Ein Tag Wildnis im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Ein Tag Wildnis 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 2273468,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/2273468",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18164"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Natur"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Ein Tag Wildnis",
+    "text": "Die Dokumentation \"Ein Tag Wildnis\" bringt mittels phänomenaler Kameraeinstellungen das Wundersame des Alltäglichen in allen Zeit- und Klimazonen auf den TV-Bildschirm. Regisseur Phil Coles verdichtet Naturspektakel rund um den Globus zu einem typischen Tag auf dem Planeten Erde in einem atemberaubende Zusammenschnitt der die Rhythmen der Natur widerspiegelt - an einem Tag Wildnis.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/ein-tag-wildnis-18164",
+        "@type": "Movie",
+        "description": "Die Dokumentation \"Ein Tag Wildnis\" bringt mittels phänomenaler Kameraeinstellungen das Wundersame des Alltäglichen in allen Zeit- und Klimazonen auf den TV-Bildschirm. Regisseur Phil Coles verdichtet Naturspektakel rund um den Globus zu einem typischen Tag auf dem Planeten Erde in einem atemberaubende Zusammenschnitt der die Rhythmen der Natur widerspiegelt - an einem Tag Wildnis.",
+        "duration": "PT52M",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/2273468/950x0/ein-tag-wildnis.jpg",
+        "name": "Ein Tag Wildnis",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/ein-tag-wildnis-18164",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-05-15T18:25:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=ein-tag-wildnis-18164",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=ein-tag-wildnis-18164",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/ein-tag-wildnis-18164",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die Dokumentation \"Ein Tag Wildnis\" bringt mittels phänomenaler Kameraeinstellungen das Wundersame des Alltäglichen in allen Zeit- und Klimazonen auf den TV-Bildschirm. Regisseur Phil Coles verdichtet Naturspektakel rund um den Globus zu einem typischen Tag auf dem Planeten Erde in einem atemberaubende Zusammenschnitt der die Rhythmen der Natur widerspiegelt - an einem Tag Wildnis.",
+          "duration": "PT52M",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/ein-tag-wildnis-18164",
+          "name": "Ein Tag Wildnis",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2273468/950x0/ein-tag-wildnis.jpg",
+          "uploadDate": "2020-05-15T18:25:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Ein Tag Wildnis im Online Stream | TVNOW",
+        "headline": "Ein Tag Wildnis im Online Stream | TVNOW",
+        "description": "Ein Tag Wildnis und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/ein-tag-wildnis-18164",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/2273468/950x0/ein-tag-wildnis.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2273468/950x0/ein-tag-wildnis.jpg",
+        "datePublished": "2020-05-15T18:25:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/2273468/950x0/ein-tag-wildnis.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ein Tag Wildnis",
+            "item": "https://www.tvnow.de/filme/ein-tag-wildnis-18164"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Ein Tag Wildnis im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

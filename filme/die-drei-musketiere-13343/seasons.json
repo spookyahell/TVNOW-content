@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13343",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13343,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-drei-musketiere-13343"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die drei Musketiere",
+          "teaserId": "film_337058",
+          "teaserName": "Die drei Musketiere | Die drei Musketiere",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die drei Musketiere",
+        "id": 337058,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337058/300x0/die-drei-musketiere.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337058/",
+            "filename": "die-drei-musketiere"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337058/600x0/die-drei-musketiere.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337058/",
+            "filename": "die-drei-musketiere"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337058/1200x0/die-drei-musketiere.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337058/",
+            "filename": "die-drei-musketiere"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337058/300x0/die-drei-musketiere.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337058/",
+            "filename": "die-drei-musketiere"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337058/600x0/die-drei-musketiere.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337058/",
+            "filename": "die-drei-musketiere"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337058/1200x0/die-drei-musketiere.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337058/",
+            "filename": "die-drei-musketiere"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-drei-musketiere",
+        "subheadline": "Die drei Musketiere",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/die-drei-musketiere-13343",
+        "videoId": 337058
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

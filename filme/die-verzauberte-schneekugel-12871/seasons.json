@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12871",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12871,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-verzauberte-schneekugel-12871"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die verzauberte Schneekugel",
+          "teaserId": "film_334698",
+          "teaserName": "Die verzauberte Schneekugel | Die verzauberte Schneekugel",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die verzauberte Schneekugel",
+        "id": 334698,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334698/300x0/die-verzauberte-schneekugel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334698/",
+            "filename": "die-verzauberte-schneekugel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334698/600x0/die-verzauberte-schneekugel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334698/",
+            "filename": "die-verzauberte-schneekugel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334698/1200x0/die-verzauberte-schneekugel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334698/",
+            "filename": "die-verzauberte-schneekugel"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334698/300x0/die-verzauberte-schneekugel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334698/",
+            "filename": "die-verzauberte-schneekugel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334698/600x0/die-verzauberte-schneekugel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334698/",
+            "filename": "die-verzauberte-schneekugel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334698/1200x0/die-verzauberte-schneekugel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334698/",
+            "filename": "die-verzauberte-schneekugel"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-verzauberte-schneekugel",
+        "subheadline": "Die verzauberte Schneekugel",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/die-verzauberte-schneekugel-12871",
+        "videoId": 334698
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

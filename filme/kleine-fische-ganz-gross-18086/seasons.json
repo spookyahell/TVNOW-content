@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18086",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18086,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/kleine-fische-ganz-gross-18086"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Kleine Fische ganz groß",
+          "teaserId": "film_2035317",
+          "teaserName": "Kleine Fische ganz groß | Kleine Fische ganz groß",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Tiere"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Kleine Fische ganz groß",
+        "id": 2035317,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2035317/300x0/kleine-fische-ganz-gross.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2035317/",
+            "filename": "kleine-fische-ganz-gross"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2035317/600x0/kleine-fische-ganz-gross.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2035317/",
+            "filename": "kleine-fische-ganz-gross"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2035317/1200x0/kleine-fische-ganz-gross.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2035317/",
+            "filename": "kleine-fische-ganz-gross"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2035317/300x0/kleine-fische-ganz-gross.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2035317/",
+            "filename": "kleine-fische-ganz-gross"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2035317/600x0/kleine-fische-ganz-gross.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2035317/",
+            "filename": "kleine-fische-ganz-gross"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2035317/1200x0/kleine-fische-ganz-gross.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2035317/",
+            "filename": "kleine-fische-ganz-gross"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "kleine-fische-ganz-gross",
+        "subheadline": "Kleine Fische ganz groß",
+        "text": "Staffel  | Di. 18.02.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/kleine-fische-ganz-gross-18086",
+        "videoId": 2035317
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

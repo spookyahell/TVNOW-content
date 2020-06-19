@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14759",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14759,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/piraten-der-schatzinsel-14759"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Piraten der Schatzinsel",
+          "teaserId": "film_346168",
+          "teaserName": "Piraten der Schatzinsel | Piraten der Schatzinsel",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Piraten der Schatzinsel",
+        "id": 346168,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346168/300x0/piraten-der-schatzinsel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346168/",
+            "filename": "piraten-der-schatzinsel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346168/600x0/piraten-der-schatzinsel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346168/",
+            "filename": "piraten-der-schatzinsel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346168/1200x0/piraten-der-schatzinsel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346168/",
+            "filename": "piraten-der-schatzinsel"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346168/300x0/piraten-der-schatzinsel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346168/",
+            "filename": "piraten-der-schatzinsel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346168/600x0/piraten-der-schatzinsel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346168/",
+            "filename": "piraten-der-schatzinsel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346168/1200x0/piraten-der-schatzinsel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346168/",
+            "filename": "piraten-der-schatzinsel"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "piraten-der-schatzinsel",
+        "subheadline": "Piraten der Schatzinsel",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/piraten-der-schatzinsel-14759",
+        "videoId": 346168
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

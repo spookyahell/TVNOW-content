@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18412,
+  "additionalMeta": {
+    "canonical": "/filme/-18412",
+    "url": "/filme/-18412"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Angst - Der Feind in meinem Haus",
+      "url": "/filme/-18412"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18412,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Angst - Der Feind in meinem Haus 📺 und viele weitere ▶️ Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Angst - Der Feind in meinem Haus im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Angst - Der Feind in meinem Haus 📺 und viele weitere ▶️ Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3096230,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3096230",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18412"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Thriller",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Angst - Der Feind in meinem Haus",
+    "text": "Der Architekt Randolph Tiefenthaler zieht mit seiner Familie in die neue Eigentumswohnung. Der freundliche Nachbar, Herr Tiberius aus dem Souterrain, entwickelt sich nach und nach zum Stalker. Eine Anzeige bleibt erfolglos. Ein entsetzlicher Gedanke macht sich breit: Selbstjustiz. Tiefenthaler ruft die Polizei und behauptet, sein Vater habe Tiberius erschossen. Der alte Mann gesteht, doch ist es auch die Wahrheit?",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/angst-der-feind-in-meinem-haus-18412",
+        "@type": "Movie",
+        "description": "Der Architekt Randolph Tiefenthaler zieht mit seiner Familie in die neue Eigentumswohnung. Der freundliche Nachbar, Herr Tiberius aus dem Souterrain, entwickelt sich nach und nach zum Stalker. Eine Anzeige bleibt erfolglos. Ein entsetzlicher Gedanke macht sich breit: Selbstjustiz. Tiefenthaler ruft die Polizei und behauptet, sein Vater habe Tiberius erschossen. Der alte Mann gesteht, doch ist es auch die Wahrheit?",
+        "duration": "PT1H29M30S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3096230/950x0/angst-der-feind-in-meinem-haus.jpg",
+        "name": "Angst - Der Feind in meinem Haus",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/angst-der-feind-in-meinem-haus-18412",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-04-08T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=-18412",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=-18412",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/angst-der-feind-in-meinem-haus-18412",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Der Architekt Randolph Tiefenthaler zieht mit seiner Familie in die neue Eigentumswohnung. Der freundliche Nachbar, Herr Tiberius aus dem Souterrain, entwickelt sich nach und nach zum Stalker. Eine Anzeige bleibt erfolglos. Ein entsetzlicher Gedanke macht sich breit: Selbstjustiz. Tiefenthaler ruft die Polizei und behauptet, sein Vater habe Tiberius erschossen. Der alte Mann gesteht, doch ist es auch die Wahrheit?",
+          "duration": "PT1H29M30S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/angst-der-feind-in-meinem-haus-18412",
+          "name": "Angst - Der Feind in meinem Haus",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3096230/950x0/angst-der-feind-in-meinem-haus.jpg",
+          "uploadDate": "2020-04-08T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Angst - Der Feind in meinem Haus im Online Stream | TVNOW",
+        "headline": "Angst - Der Feind in meinem Haus im Online Stream | TVNOW",
+        "description": "Angst - Der Feind in meinem Haus und viele weitere  ▶️Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/angst-der-feind-in-meinem-haus-18412",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3096230/950x0/angst-der-feind-in-meinem-haus.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3096230/950x0/angst-der-feind-in-meinem-haus.jpg",
+        "datePublished": "2020-04-08T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3096230/950x0/angst-der-feind-in-meinem-haus.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Angst - Der Feind in meinem Haus",
+            "item": "https://www.tvnow.de/filme/-18412"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Angst - Der Feind in meinem Haus im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

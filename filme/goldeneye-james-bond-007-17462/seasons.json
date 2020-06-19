@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17462",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17462,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/james-bond-007-goldeneye-17462"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "GoldenEye (1995) - James Bond 007",
+          "teaserId": "film_1635355",
+          "teaserName": "GoldenEye (1995) - James Bond 007 | James Bond 007 - Goldeneye",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "James Bond 007 - Goldeneye",
+        "id": 1635355,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635355/300x0/james-bond-007-goldeneye.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635355/",
+            "filename": "james-bond-007-goldeneye"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635355/600x0/james-bond-007-goldeneye.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635355/",
+            "filename": "james-bond-007-goldeneye"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635355/1200x0/james-bond-007-goldeneye.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635355/",
+            "filename": "james-bond-007-goldeneye"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635355/300x0/james-bond-007-goldeneye.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635355/",
+            "filename": "james-bond-007-goldeneye"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635355/600x0/james-bond-007-goldeneye.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635355/",
+            "filename": "james-bond-007-goldeneye"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1635355/1200x0/james-bond-007-goldeneye.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1635355/",
+            "filename": "james-bond-007-goldeneye"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "goldeneye-james-bond-007",
+        "subheadline": "James Bond 007 - Goldeneye",
+        "text": "Staffel  | EXKLUSIV",
+        "type": "film",
+        "url": "/filme/james-bond-007-goldeneye-17462",
+        "videoId": 1635355
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13067",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13067,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/birds-of-america-13067"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Birds of America",
+          "teaserId": "film_336066",
+          "teaserName": "Birds of America | Birds of America",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Birds of America",
+        "id": 336066,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336066/300x0/birds-of-america.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336066/",
+            "filename": "birds-of-america"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336066/600x0/birds-of-america.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336066/",
+            "filename": "birds-of-america"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336066/1200x0/birds-of-america.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336066/",
+            "filename": "birds-of-america"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336066/300x0/birds-of-america.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336066/",
+            "filename": "birds-of-america"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336066/600x0/birds-of-america.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336066/",
+            "filename": "birds-of-america"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336066/1200x0/birds-of-america.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336066/",
+            "filename": "birds-of-america"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "birds-of-america",
+        "subheadline": "Birds of America",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/birds-of-america-13067",
+        "videoId": 336066
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17087",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17087,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-mann-der-tutanchamun-fotografierte-17087"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Mann, der Tutanchamun fotografierte",
+          "teaserId": "film_415424",
+          "teaserName": "Der Mann, der Tutanchamun fotografierte | Der Mann, der Tutanchamun fotografierte",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Mann, der Tutanchamun fotografierte",
+        "id": 415424,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/415424/300x0/der-mann-der-tutanchamun-fotografierte.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/415424/",
+            "filename": "der-mann-der-tutanchamun-fotografierte"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/415424/600x0/der-mann-der-tutanchamun-fotografierte.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/415424/",
+            "filename": "der-mann-der-tutanchamun-fotografierte"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/415424/1200x0/der-mann-der-tutanchamun-fotografierte.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/415424/",
+            "filename": "der-mann-der-tutanchamun-fotografierte"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/415424/300x0/der-mann-der-tutanchamun-fotografierte.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/415424/",
+            "filename": "der-mann-der-tutanchamun-fotografierte"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/415424/600x0/der-mann-der-tutanchamun-fotografierte.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/415424/",
+            "filename": "der-mann-der-tutanchamun-fotografierte"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/415424/1200x0/der-mann-der-tutanchamun-fotografierte.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/415424/",
+            "filename": "der-mann-der-tutanchamun-fotografierte"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mann-der-der-tutanchamun-fotografierte",
+        "subheadline": "Der Mann, der Tutanchamun fotografierte",
+        "text": "Staffel  | Mo. 25.11.2019, 00:45 Uhr",
+        "type": "film",
+        "url": "/filme/der-mann-der-tutanchamun-fotografierte-17087",
+        "videoId": 415424
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

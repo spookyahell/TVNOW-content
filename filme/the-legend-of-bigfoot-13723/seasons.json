@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13723",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13723,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-legend-of-bigfoot-13723"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Legend of Bigfoot",
+          "teaserId": "film_338610",
+          "teaserName": "The Legend of Bigfoot | The Legend of Bigfoot",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Legend of Bigfoot",
+        "id": 338610,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338610/300x0/the-legend-of-bigfoot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338610/",
+            "filename": "the-legend-of-bigfoot"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338610/600x0/the-legend-of-bigfoot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338610/",
+            "filename": "the-legend-of-bigfoot"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338610/1200x0/the-legend-of-bigfoot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338610/",
+            "filename": "the-legend-of-bigfoot"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338610/300x0/the-legend-of-bigfoot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338610/",
+            "filename": "the-legend-of-bigfoot"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338610/600x0/the-legend-of-bigfoot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338610/",
+            "filename": "the-legend-of-bigfoot"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338610/1200x0/the-legend-of-bigfoot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338610/",
+            "filename": "the-legend-of-bigfoot"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-legend-of-bigfoot",
+        "subheadline": "The Legend of Bigfoot",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-legend-of-bigfoot-13723",
+        "videoId": 338610
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

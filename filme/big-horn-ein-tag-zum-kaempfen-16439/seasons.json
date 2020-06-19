@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16439",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16439,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/big-horn-ein-tag-zum-kaempfen-16439"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Big Horn - Ein Tag zum Kämpfen",
+          "teaserId": "film_1182024",
+          "teaserName": "Big Horn - Ein Tag zum Kämpfen | Big Horn - Ein Tag zum Kämpfen",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Western",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Big Horn - Ein Tag zum Kämpfen",
+        "id": 1182024,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182024/300x0/big-horn-ein-tag-zum-kaempfen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182024/",
+            "filename": "big-horn-ein-tag-zum-kaempfen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182024/600x0/big-horn-ein-tag-zum-kaempfen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182024/",
+            "filename": "big-horn-ein-tag-zum-kaempfen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182024/1200x0/big-horn-ein-tag-zum-kaempfen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182024/",
+            "filename": "big-horn-ein-tag-zum-kaempfen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182024/300x0/big-horn-ein-tag-zum-kaempfen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182024/",
+            "filename": "big-horn-ein-tag-zum-kaempfen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182024/600x0/big-horn-ein-tag-zum-kaempfen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182024/",
+            "filename": "big-horn-ein-tag-zum-kaempfen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1182024/1200x0/big-horn-ein-tag-zum-kaempfen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1182024/",
+            "filename": "big-horn-ein-tag-zum-kaempfen"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "big-horn-ein-tag-zum-kaempfen",
+        "subheadline": "Big Horn - Ein Tag zum Kämpfen",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/big-horn-ein-tag-zum-kaempfen-16439",
+        "videoId": 1182024
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

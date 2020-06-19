@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 14621,
+  "additionalMeta": {
+    "canonical": "/filme/ein-meer-der-gefuehle-14621",
+    "url": "/filme/ein-meer-der-gefuehle-14621"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Ein Meer der Gefühle",
+      "url": "/filme/ein-meer-der-gefuehle-14621"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 14621,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Ein Meer der Gefühle 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Ein Meer der Gefühle, Film, TV NOW, Watchbox bei TV NOW, Drama, Schauspielerin, Behinderung, Rollstuhl, Schicksal, Alkohol, Abhängigkeit",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Ein Meer der Gefühle im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Ein Meer der Gefühle 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 344744,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/344744",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/14621"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_drama/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_drama",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Ein Meer der Gefühle",
+    "text": "Bei TV NOW kannst Du den Film Ein Meer der Gefühle und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/ein-meer-der-gefuehle-14621",
+        "@type": "Movie",
+        "description": "",
+        "duration": "PT2H9M35S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/344744/950x0/ein-meer-der-gefuehle.jpg",
+        "name": "Ein Meer der Gefühle",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/ein-meer-der-gefuehle-14621",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-11-04T14:05:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/ein-meer-der-gefuehle-14621",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "",
+          "duration": "PT2H9M35S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/ein-meer-der-gefuehle-14621",
+          "name": "Ein Meer der Gefühle",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/344744/950x0/ein-meer-der-gefuehle.jpg",
+          "uploadDate": "2017-11-04T14:05:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Ein Meer der Gefühle im Online Stream | TVNOW",
+        "headline": "Ein Meer der Gefühle im Online Stream | TVNOW",
+        "description": "Ein Meer der Gefühle und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/ein-meer-der-gefuehle-14621",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/344744/950x0/ein-meer-der-gefuehle.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/344744/950x0/ein-meer-der-gefuehle.jpg",
+        "datePublished": "2017-11-04T14:05:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/344744/950x0/ein-meer-der-gefuehle.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ein Meer der Gefühle",
+            "item": "https://www.tvnow.de/filme/ein-meer-der-gefuehle-14621"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Ein Meer der Gefühle im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

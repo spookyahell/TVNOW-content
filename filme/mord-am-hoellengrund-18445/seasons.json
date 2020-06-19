@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18445",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18445,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mord-am-hoellengrund-18445"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mord am Höllengrund",
+          "teaserId": "film_3063450",
+          "teaserName": "Mord am Höllengrund | Mord am Höllengrund",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mord am Höllengrund",
+        "id": 3063450,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063450/300x0/mord-am-hoellengrund.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063450/",
+            "filename": "mord-am-hoellengrund"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063450/600x0/mord-am-hoellengrund.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063450/",
+            "filename": "mord-am-hoellengrund"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063450/1200x0/mord-am-hoellengrund.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063450/",
+            "filename": "mord-am-hoellengrund"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063450/300x0/mord-am-hoellengrund.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063450/",
+            "filename": "mord-am-hoellengrund"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063450/600x0/mord-am-hoellengrund.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063450/",
+            "filename": "mord-am-hoellengrund"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063450/1200x0/mord-am-hoellengrund.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063450/",
+            "filename": "mord-am-hoellengrund"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mord-am-hoellengrund",
+        "subheadline": "Mord am Höllengrund",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/mord-am-hoellengrund-18445",
+        "videoId": 3063450
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13399",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13399,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/absentia-13399"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Absentia",
+          "teaserId": "film_338978",
+          "teaserName": "Absentia | Absentia",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Absentia",
+        "id": 338978,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338978/300x0/absentia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338978/",
+            "filename": "absentia"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338978/600x0/absentia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338978/",
+            "filename": "absentia"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338978/1200x0/absentia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338978/",
+            "filename": "absentia"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338978/300x0/absentia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338978/",
+            "filename": "absentia"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338978/600x0/absentia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338978/",
+            "filename": "absentia"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338978/1200x0/absentia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338978/",
+            "filename": "absentia"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "absentia",
+        "subheadline": "Absentia",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/absentia-13399",
+        "videoId": 338978
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

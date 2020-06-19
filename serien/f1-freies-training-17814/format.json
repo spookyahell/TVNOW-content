@@ -1,0 +1,194 @@
+﻿{
+  "formatId": 17814,
+  "additionalMeta": {
+    "canonical": "/serien/f1-freies-training-17814",
+    "url": "/serien/f1-freies-training-17814"
+  },
+  "ads": {
+    "station": "nitro",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Formel 1 - Freies Training",
+      "url": "/serien/f1-freies-training-17814"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 17814,
+  "meta": [
+    {
+      "content": "Die Serie Formel 1 - Freies Training (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Sport im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Formel 1 - Freies Training im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Formel 1 - Freies Training (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Sport im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/17814",
+      "type": "teaserrow"
+    },
+    {
+      "id": 17814,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/17814",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rnnformel1training",
+      "video": "dvrsowf_ten_rnnformel1training",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_nitro_now/formate/formel_1_training/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_nitro_now",
+        "formate",
+        "formel_1_training",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Sport",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Formel 1 - Freies Training – Informationen zur Show",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "https://www.tvnow.de/serien/f1-freies-training-17814",
+        "url": "https://www.tvnow.de/serien/f1-freies-training-17814",
+        "name": "Formel 1 - Freies Training",
+        "description": "Die Serie Formel 1 - Freies Training (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Sport im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/17814_04metalogo/1200x0/f1-freies-training.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Formel 1 - Freies Training – Informationen zur Show",
+        "headline": "Formel 1 - Freies Training – Informationen zur Show",
+        "description": "Die Serie Formel 1 - Freies Training (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Sport im Online Stream bei TVNOW anschauen.",
+        "url": "https://www.tvnow.de/serien/f1-freies-training-17814",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/17814_04metalogo/1200x0/f1-freies-training.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/17814_04metalogo/1200x0/f1-freies-training.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/17814_04metalogo/1200x0/f1-freies-training.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "https://www.tvnow.de/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Formel 1 - Freies Training",
+            "item": "https://www.tvnow.de/serien/f1-freies-training-17814"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Formel 1 - Freies Training im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

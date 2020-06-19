@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15655",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15655,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/exterminators-vs-aliens-15655"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Exterminators vs. Aliens",
+          "teaserId": "film_404212",
+          "teaserName": "Exterminators vs. Aliens | Exterminators vs. Aliens",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Science Fiction",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Exterminators vs. Aliens",
+        "id": 404212,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/404212/300x0/exterminators-vs-aliens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/404212/",
+            "filename": "exterminators-vs-aliens"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/404212/600x0/exterminators-vs-aliens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/404212/",
+            "filename": "exterminators-vs-aliens"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/404212/1200x0/exterminators-vs-aliens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/404212/",
+            "filename": "exterminators-vs-aliens"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/404212/300x0/exterminators-vs-aliens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/404212/",
+            "filename": "exterminators-vs-aliens"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/404212/600x0/exterminators-vs-aliens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/404212/",
+            "filename": "exterminators-vs-aliens"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/404212/1200x0/exterminators-vs-aliens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/404212/",
+            "filename": "exterminators-vs-aliens"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "exterminators-vs-aliens",
+        "subheadline": "Exterminators vs. Aliens",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/exterminators-vs-aliens-15655",
+        "videoId": 404212
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18455",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18455,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/vertraue-mir-18455"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Vertraue mir!",
+          "teaserId": "film_3063482",
+          "teaserName": "Vertraue mir! | Vertraue mir",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Vertraue mir",
+        "id": 3063482,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063482/300x0/vertraue-mir.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063482/",
+            "filename": "vertraue-mir"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063482/600x0/vertraue-mir.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063482/",
+            "filename": "vertraue-mir"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063482/1200x0/vertraue-mir.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063482/",
+            "filename": "vertraue-mir"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063482/300x0/vertraue-mir.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063482/",
+            "filename": "vertraue-mir"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063482/600x0/vertraue-mir.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063482/",
+            "filename": "vertraue-mir"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063482/1200x0/vertraue-mir.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063482/",
+            "filename": "vertraue-mir"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "vertraue-mir",
+        "subheadline": "Vertraue mir",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/vertraue-mir-18455",
+        "videoId": 3063482
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

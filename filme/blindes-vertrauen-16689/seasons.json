@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16689",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16689,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/blindes-vertrauen-16689"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Blindes Vertrauen",
+          "teaserId": "film_1241186",
+          "teaserName": "Blindes Vertrauen | Blindes Vertrauen",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Blindes Vertrauen",
+        "id": 1241186,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1241186/300x0/blindes-vertrauen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1241186/",
+            "filename": "blindes-vertrauen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1241186/600x0/blindes-vertrauen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1241186/",
+            "filename": "blindes-vertrauen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1241186/1200x0/blindes-vertrauen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1241186/",
+            "filename": "blindes-vertrauen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1241186/300x0/blindes-vertrauen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1241186/",
+            "filename": "blindes-vertrauen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1241186/600x0/blindes-vertrauen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1241186/",
+            "filename": "blindes-vertrauen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1241186/1200x0/blindes-vertrauen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1241186/",
+            "filename": "blindes-vertrauen"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "blindes-vertrauen",
+        "subheadline": "Blindes Vertrauen",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/blindes-vertrauen-16689",
+        "videoId": 1241186
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

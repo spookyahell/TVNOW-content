@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17345",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17345,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/racing-extinction-17345"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Racing Extinction",
+          "teaserId": "film_1415579",
+          "teaserName": "Racing Extinction | Racing Extinction",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Racing Extinction",
+        "id": 1415579,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1415579/300x0/racing-extinction.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1415579/",
+            "filename": "racing-extinction"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1415579/600x0/racing-extinction.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1415579/",
+            "filename": "racing-extinction"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1415579/1200x0/racing-extinction.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1415579/",
+            "filename": "racing-extinction"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1415579/300x0/racing-extinction.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1415579/",
+            "filename": "racing-extinction"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1415579/600x0/racing-extinction.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1415579/",
+            "filename": "racing-extinction"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1415579/1200x0/racing-extinction.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1415579/",
+            "filename": "racing-extinction"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "racing-extinction",
+        "subheadline": "Racing Extinction",
+        "text": "Staffel  | Di. 30.04.2019, 22:00 Uhr",
+        "type": "film",
+        "url": "/filme/racing-extinction-17345",
+        "videoId": 1415579
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

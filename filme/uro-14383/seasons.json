@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14383",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14383,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/uro-14383"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "URO",
+          "teaserId": "film_345168",
+          "teaserName": "URO | URO",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "URO",
+        "id": 345168,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/345168/300x0/uro.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/345168/",
+            "filename": "uro"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/345168/600x0/uro.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/345168/",
+            "filename": "uro"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/345168/1200x0/uro.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/345168/",
+            "filename": "uro"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/345168/300x0/uro.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/345168/",
+            "filename": "uro"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/345168/600x0/uro.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/345168/",
+            "filename": "uro"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/345168/1200x0/uro.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/345168/",
+            "filename": "uro"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "uro",
+        "subheadline": "URO",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/uro-14383",
+        "videoId": 345168
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

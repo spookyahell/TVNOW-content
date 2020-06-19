@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18260",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18260,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/20-jahre-jamie-oliver-18260"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "20 Jahre Jamie Oliver",
+          "teaserId": "film_2891291",
+          "teaserName": "20 Jahre Jamie Oliver | 20 Jahre Jamie Oliver",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kochen",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "20 Jahre Jamie Oliver",
+        "id": 2891291,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2891291/300x0/20-jahre-jamie-oliver.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2891291/",
+            "filename": "20-jahre-jamie-oliver"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2891291/600x0/20-jahre-jamie-oliver.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2891291/",
+            "filename": "20-jahre-jamie-oliver"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2891291/1200x0/20-jahre-jamie-oliver.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2891291/",
+            "filename": "20-jahre-jamie-oliver"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2891291/300x0/20-jahre-jamie-oliver.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2891291/",
+            "filename": "20-jahre-jamie-oliver"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2891291/600x0/20-jahre-jamie-oliver.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2891291/",
+            "filename": "20-jahre-jamie-oliver"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2891291/1200x0/20-jahre-jamie-oliver.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2891291/",
+            "filename": "20-jahre-jamie-oliver"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "20-jahre-jamie-oliver",
+        "subheadline": "20 Jahre Jamie Oliver",
+        "text": "Staffel  | Do. 14.05.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/20-jahre-jamie-oliver-18260",
+        "videoId": 2891291
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

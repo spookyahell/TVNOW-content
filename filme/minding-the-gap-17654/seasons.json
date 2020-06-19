@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17654",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17654,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/minding-the-gap-17654"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Minding The Gap",
+          "teaserId": "film_1636962",
+          "teaserName": "Minding The Gap | Minding The Gap",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Minding The Gap",
+        "id": 1636962,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1636962/300x0/minding-the-gap.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1636962/",
+            "filename": "minding-the-gap"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1636962/600x0/minding-the-gap.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1636962/",
+            "filename": "minding-the-gap"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1636962/1200x0/minding-the-gap.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1636962/",
+            "filename": "minding-the-gap"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1636962/300x0/minding-the-gap.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1636962/",
+            "filename": "minding-the-gap"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1636962/600x0/minding-the-gap.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1636962/",
+            "filename": "minding-the-gap"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1636962/1200x0/minding-the-gap.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1636962/",
+            "filename": "minding-the-gap"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "minding-the-gap",
+        "subheadline": "Minding The Gap",
+        "text": "Staffel  | Sa. 08.02.2020, 00:30 Uhr",
+        "type": "film",
+        "url": "/filme/minding-the-gap-17654",
+        "videoId": 1636962
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

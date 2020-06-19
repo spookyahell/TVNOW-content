@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12795",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12795,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/fighter-in-the-wind-12795"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Fighter in the Wind",
+          "teaserId": "film_334438",
+          "teaserName": "Fighter in the Wind | Fighter in the Wind",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Fighter in the Wind",
+        "id": 334438,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334438/300x0/fighter-in-the-wind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334438/",
+            "filename": "fighter-in-the-wind"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334438/600x0/fighter-in-the-wind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334438/",
+            "filename": "fighter-in-the-wind"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334438/1200x0/fighter-in-the-wind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334438/",
+            "filename": "fighter-in-the-wind"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334438/300x0/fighter-in-the-wind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334438/",
+            "filename": "fighter-in-the-wind"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334438/600x0/fighter-in-the-wind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334438/",
+            "filename": "fighter-in-the-wind"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334438/1200x0/fighter-in-the-wind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334438/",
+            "filename": "fighter-in-the-wind"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "fighter-in-the-wind",
+        "subheadline": "Fighter in the Wind",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/fighter-in-the-wind-12795",
+        "videoId": 334438
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

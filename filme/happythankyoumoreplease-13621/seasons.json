@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13621",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13621,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/happythankyoumoreplease-13621"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Happythankyoumoreplease",
+          "teaserId": "film_337686",
+          "teaserName": "Happythankyoumoreplease | Happythankyoumoreplease",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Happythankyoumoreplease",
+        "id": 337686,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337686/300x0/happythankyoumoreplease.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337686/",
+            "filename": "happythankyoumoreplease"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337686/600x0/happythankyoumoreplease.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337686/",
+            "filename": "happythankyoumoreplease"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337686/1200x0/happythankyoumoreplease.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337686/",
+            "filename": "happythankyoumoreplease"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337686/300x0/happythankyoumoreplease.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337686/",
+            "filename": "happythankyoumoreplease"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337686/600x0/happythankyoumoreplease.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337686/",
+            "filename": "happythankyoumoreplease"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337686/1200x0/happythankyoumoreplease.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337686/",
+            "filename": "happythankyoumoreplease"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "happythankyoumoreplease",
+        "subheadline": "Happythankyoumoreplease",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/happythankyoumoreplease-13621",
+        "videoId": 337686
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

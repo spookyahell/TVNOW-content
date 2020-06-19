@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14315",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14315,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/abraham-lincoln-vs-zombies-14315"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Abraham Lincoln vs. Zombies",
+          "teaserId": "film_343210",
+          "teaserName": "Abraham Lincoln vs. Zombies | Abraham Lincoln vs. Zombies",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Abraham Lincoln vs. Zombies",
+        "id": 343210,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343210/300x0/abraham-lincoln-vs-zombies.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343210/",
+            "filename": "abraham-lincoln-vs-zombies"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343210/600x0/abraham-lincoln-vs-zombies.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343210/",
+            "filename": "abraham-lincoln-vs-zombies"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343210/1200x0/abraham-lincoln-vs-zombies.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343210/",
+            "filename": "abraham-lincoln-vs-zombies"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343210/300x0/abraham-lincoln-vs-zombies.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343210/",
+            "filename": "abraham-lincoln-vs-zombies"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343210/600x0/abraham-lincoln-vs-zombies.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343210/",
+            "filename": "abraham-lincoln-vs-zombies"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343210/1200x0/abraham-lincoln-vs-zombies.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343210/",
+            "filename": "abraham-lincoln-vs-zombies"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "abraham-lincoln-vs-zombies",
+        "subheadline": "Abraham Lincoln vs. Zombies",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/abraham-lincoln-vs-zombies-14315",
+        "videoId": 343210
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

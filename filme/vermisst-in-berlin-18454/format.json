@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18454,
+  "additionalMeta": {
+    "canonical": "/filme/vermisst-in-berlin-18454",
+    "url": "/filme/vermisst-in-berlin-18454"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Vermisst in Berlin",
+      "url": "/filme/vermisst-in-berlin-18454"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18454,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Vermisst in Berlin 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Vermisst in Berlin im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Vermisst in Berlin 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3063484,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3063484",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18454"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "INFORMATIONEN ZUM FILM: VERMISST IN BERLIN",
+    "text": "Streame die spannende Krimiverfilmung Vermisst in Berlin jederzeit online bei TVNOW.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/vermisst-in-berlin-18454",
+        "@type": "Movie",
+        "description": "Der früheren Ermittlerin Judith Volkmann läuft nachts in Berlin ein zehnjähriger Junge vor das Auto. Was macht das Kind um diese Zeit allein auf der Straße? Der Kleine entwischt Judith, die beginnt, nach seiner Identität zu fahnden. Sie versucht zunächst, das Kind mit polizeilichen Mitteln aufzuspüren. Dabei gerät sie schnell an ihre Grenzen. Der gesuchte Junge, Djamal, ist nur einer von Zehntausenden, die Kriege und Armut nach Europa gespült haben.",
+        "duration": "PT1H28M1S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3063484/950x0/vermisst-in-berlin.jpg",
+        "name": "Vermisst in Berlin",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/vermisst-in-berlin-18454",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-03-27T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=vermisst-in-berlin-18454",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=vermisst-in-berlin-18454",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/vermisst-in-berlin-18454",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Der früheren Ermittlerin Judith Volkmann läuft nachts in Berlin ein zehnjähriger Junge vor das Auto. Was macht das Kind um diese Zeit allein auf der Straße? Der Kleine entwischt Judith, die beginnt, nach seiner Identität zu fahnden. Sie versucht zunächst, das Kind mit polizeilichen Mitteln aufzuspüren. Dabei gerät sie schnell an ihre Grenzen. Der gesuchte Junge, Djamal, ist nur einer von Zehntausenden, die Kriege und Armut nach Europa gespült haben.",
+          "duration": "PT1H28M1S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/vermisst-in-berlin-18454",
+          "name": "Vermisst in Berlin",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3063484/950x0/vermisst-in-berlin.jpg",
+          "uploadDate": "2020-03-27T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Vermisst in Berlin im Online Stream | TVNOW",
+        "headline": "Vermisst in Berlin im Online Stream | TVNOW",
+        "description": "Vermisst in Berlin und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/vermisst-in-berlin-18454",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3063484/950x0/vermisst-in-berlin.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3063484/950x0/vermisst-in-berlin.jpg",
+        "datePublished": "2020-03-27T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3063484/950x0/vermisst-in-berlin.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Vermisst in Berlin",
+            "item": "https://www.tvnow.de/filme/vermisst-in-berlin-18454"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Vermisst in Berlin im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

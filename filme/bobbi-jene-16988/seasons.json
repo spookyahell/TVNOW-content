@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16988",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16988,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/bobbi-jene-16988"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Bobbi Jene",
+          "teaserId": "film_827372",
+          "teaserName": "Bobbi Jene | Bobbi Jene",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Biographie"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Bobbi Jene",
+        "id": 827372,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/827372/300x0/bobbi-jene.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/827372/",
+            "filename": "bobbi-jene"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/827372/600x0/bobbi-jene.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/827372/",
+            "filename": "bobbi-jene"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/827372/1200x0/bobbi-jene.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/827372/",
+            "filename": "bobbi-jene"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/827372/300x0/bobbi-jene.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/827372/",
+            "filename": "bobbi-jene"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/827372/600x0/bobbi-jene.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/827372/",
+            "filename": "bobbi-jene"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/827372/1200x0/bobbi-jene.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/827372/",
+            "filename": "bobbi-jene"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "bobbi-jene",
+        "subheadline": "Bobbi Jene",
+        "text": "Staffel  | Mi. 17.06.2020, 00:10 Uhr",
+        "type": "film",
+        "url": "/filme/bobbi-jene-16988",
+        "videoId": 827372
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

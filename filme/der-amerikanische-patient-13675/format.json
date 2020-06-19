@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 13675,
+  "additionalMeta": {
+    "canonical": "/filme/der-amerikanische-patient-13675",
+    "url": "/filme/der-amerikanische-patient-13675"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Der amerikanische Patient",
+      "url": "/filme/der-amerikanische-patient-13675"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 13675,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Der amerikanische Patient 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Der amerikanische Patient, Film, Stream, Online-Stream, TV NOW, WATCHBOX, kostenlos, Spielfilm, Video, gratis, Drama, Thriller",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Der amerikanische Patient im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Der amerikanische Patient 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 337842,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/337842",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/13675"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_drama/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_drama",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Der amerikanische Patient",
+    "text": "Bei TV NOW kannst Du den Film Der amerikanische Patient und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/der-amerikanische-patient-13675",
+        "@type": "Movie",
+        "description": "Als John Reilly in einem überfüllten afrikanischen Krankenhaus die Augen öffnet, kann er sich weder an seinen Namen noch an sonst ein Detail aus seiner Vergangenheit erinnern. Kurze Zeit später wird der Amerikaner durch das einheimische Militärregime festgenommen - man beschuldigt ihn der feindlichen Spionage. Um der drohenden Hinrichtung zu entgehen, muss John mehr über seine wahre Identität in Erfahrung bringen. Schnell findet er sich in einem tödlichen Netz politischer Intrigen wieder, in dem er das Bauernopfer darzustellen scheint.",
+        "duration": "PT1H24M35S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/337842/950x0/der-amerikanische-patient.jpg",
+        "name": "Der amerikanische Patient",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/der-amerikanische-patient-13675",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-06-22T18:53:48.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/der-amerikanische-patient-13675",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Als John Reilly in einem überfüllten afrikanischen Krankenhaus die Augen öffnet, kann er sich weder an seinen Namen noch an sonst ein Detail aus seiner Vergangenheit erinnern. Kurze Zeit später wird der Amerikaner durch das einheimische Militärregime festgenommen - man beschuldigt ihn der feindlichen Spionage. Um der drohenden Hinrichtung zu entgehen, muss John mehr über seine wahre Identität in Erfahrung bringen. Schnell findet er sich in einem tödlichen Netz politischer Intrigen wieder, in dem er das Bauernopfer darzustellen scheint.",
+          "duration": "PT1H24M35S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/der-amerikanische-patient-13675",
+          "name": "Der amerikanische Patient",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/337842/950x0/der-amerikanische-patient.jpg",
+          "uploadDate": "2017-06-22T18:53:48.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Der amerikanische Patient im Online Stream | TVNOW",
+        "headline": "Der amerikanische Patient im Online Stream | TVNOW",
+        "description": "Der amerikanische Patient und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Nick Chinlund, Isaach de Bankole, Brendan Fehr.",
+        "url": "https://www.tvnow.de/filme/der-amerikanische-patient-13675",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/337842/950x0/der-amerikanische-patient.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/337842/950x0/der-amerikanische-patient.jpg",
+        "datePublished": "2017-06-22T18:53:48.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/337842/950x0/der-amerikanische-patient.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Der amerikanische Patient",
+            "item": "https://www.tvnow.de/filme/der-amerikanische-patient-13675"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Der amerikanische Patient im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

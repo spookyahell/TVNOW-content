@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12807",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12807,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/low-lights-12807"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Low Lights",
+          "teaserId": "film_334412",
+          "teaserName": "Low Lights | Low Lights",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Low Lights",
+        "id": 334412,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334412/300x0/low-lights.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334412/",
+            "filename": "low-lights"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334412/600x0/low-lights.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334412/",
+            "filename": "low-lights"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334412/1200x0/low-lights.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334412/",
+            "filename": "low-lights"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334412/300x0/low-lights.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334412/",
+            "filename": "low-lights"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334412/600x0/low-lights.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334412/",
+            "filename": "low-lights"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334412/1200x0/low-lights.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334412/",
+            "filename": "low-lights"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "low-lights",
+        "subheadline": "Low Lights",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/low-lights-12807",
+        "videoId": 334412
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

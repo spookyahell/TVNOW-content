@@ -1,0 +1,208 @@
+﻿{
+  "formatId": 17351,
+  "additionalMeta": {
+    "canonical": "/serien/bates-motel-17351",
+    "url": "/serien/bates-motel-17351"
+  },
+  "ads": {
+    "station": "nowus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Bates Motel - NOW!",
+      "url": "/serien/bates-motel-17351"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 17351,
+  "meta": [
+    {
+      "content": "Die Serie Bates Motel - NOW! (nowus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Thriller im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "video, videos, online sehen, internet tv, fernsehen, video on demand, TV NOW, NOW US, Bates Motel, Psycho",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Bates Motel - NOW! im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Bates Motel - NOW! (nowus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Thriller im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/17351",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/17351",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/17351",
+      "type": "teaserrow"
+    },
+    {
+      "id": 17351,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/17351",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nusbatesmotel",
+      "video": "dvrsowf_ten_nusbatesmotel",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/nowus_now/formate/bates_motel/home",
+      "levels": [
+        "tv_now_de",
+        "nowus_now",
+        "formate",
+        "bates_motel",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Thriller",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "https://www.tvnow.de/serien/bates-motel-17351",
+        "url": "https://www.tvnow.de/serien/bates-motel-17351",
+        "name": "Bates Motel - NOW!",
+        "description": "Die Serie Bates Motel - NOW! (nowus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Thriller im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/17351_04metalogo/1200x0/bates-motel.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "",
+        "headline": "",
+        "description": "Die Serie Bates Motel - NOW! (nowus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Thriller im Online Stream bei TVNOW anschauen.",
+        "url": "https://www.tvnow.de/serien/bates-motel-17351",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/17351_04metalogo/1200x0/bates-motel.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/17351_04metalogo/1200x0/bates-motel.png",
+        "keywords": "video, videos, online sehen, internet tv, fernsehen, video on demand, TV NOW, NOW US, Bates Motel, Psycho",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/17351_04metalogo/1200x0/bates-motel.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "https://www.tvnow.de/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bates Motel - NOW!",
+            "item": "https://www.tvnow.de/serien/bates-motel-17351"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Bates Motel - NOW! im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

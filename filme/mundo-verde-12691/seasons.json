@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12691",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12691,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mundo-verde-12691"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mundo Verde",
+          "teaserId": "film_332838",
+          "teaserName": "Mundo Verde | Mundo Verde",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mundo Verde",
+        "id": 332838,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332838/300x0/mundo-verde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332838/",
+            "filename": "mundo-verde"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332838/600x0/mundo-verde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332838/",
+            "filename": "mundo-verde"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332838/1200x0/mundo-verde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332838/",
+            "filename": "mundo-verde"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332838/300x0/mundo-verde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332838/",
+            "filename": "mundo-verde"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332838/600x0/mundo-verde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332838/",
+            "filename": "mundo-verde"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/332838/1200x0/mundo-verde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/332838/",
+            "filename": "mundo-verde"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mundo-verde",
+        "subheadline": "Mundo Verde",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/mundo-verde-12691",
+        "videoId": 332838
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

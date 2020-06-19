@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13331",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13331,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-schlange-13331"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Schlange",
+          "teaserId": "film_337046",
+          "teaserName": "Die Schlange | Die Schlange",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Schlange",
+        "id": 337046,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337046/300x0/die-schlange.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337046/",
+            "filename": "die-schlange"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337046/600x0/die-schlange.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337046/",
+            "filename": "die-schlange"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337046/1200x0/die-schlange.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337046/",
+            "filename": "die-schlange"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337046/300x0/die-schlange.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337046/",
+            "filename": "die-schlange"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337046/600x0/die-schlange.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337046/",
+            "filename": "die-schlange"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337046/1200x0/die-schlange.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337046/",
+            "filename": "die-schlange"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-schlange",
+        "subheadline": "Die Schlange",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/die-schlange-13331",
+        "videoId": 337046
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

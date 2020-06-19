@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15941",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15941,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/devour-der-schwarze-pfad-15941"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Devour - Der schwarze Pfad",
+          "teaserId": "film_424300",
+          "teaserName": "Devour - Der schwarze Pfad | Devour - Der schwarze Pfad",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Devour - Der schwarze Pfad",
+        "id": 424300,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424300/300x0/devour-der-schwarze-pfad.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424300/",
+            "filename": "devour-der-schwarze-pfad"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424300/600x0/devour-der-schwarze-pfad.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424300/",
+            "filename": "devour-der-schwarze-pfad"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424300/1200x0/devour-der-schwarze-pfad.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424300/",
+            "filename": "devour-der-schwarze-pfad"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424300/300x0/devour-der-schwarze-pfad.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424300/",
+            "filename": "devour-der-schwarze-pfad"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424300/600x0/devour-der-schwarze-pfad.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424300/",
+            "filename": "devour-der-schwarze-pfad"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/424300/1200x0/devour-der-schwarze-pfad.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/424300/",
+            "filename": "devour-der-schwarze-pfad"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "devour-der-schwarze-pfad",
+        "subheadline": "Devour - Der schwarze Pfad",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/devour-der-schwarze-pfad-15941",
+        "videoId": 424300
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

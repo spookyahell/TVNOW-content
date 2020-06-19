@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17417",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17417,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/comic-con-hinter-den-kulissen-17417"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Comic-Con - Hinter den Kulissen",
+          "teaserId": "film_689362",
+          "teaserName": "Comic-Con - Hinter den Kulissen | Comic-Con - Hinter den Kulissen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Comic-Con - Hinter den Kulissen",
+        "id": 689362,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/689362/300x0/comic-con-hinter-den-kulissen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/689362/",
+            "filename": "comic-con-hinter-den-kulissen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/689362/600x0/comic-con-hinter-den-kulissen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/689362/",
+            "filename": "comic-con-hinter-den-kulissen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/689362/1200x0/comic-con-hinter-den-kulissen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/689362/",
+            "filename": "comic-con-hinter-den-kulissen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/689362/300x0/comic-con-hinter-den-kulissen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/689362/",
+            "filename": "comic-con-hinter-den-kulissen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/689362/600x0/comic-con-hinter-den-kulissen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/689362/",
+            "filename": "comic-con-hinter-den-kulissen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/689362/1200x0/comic-con-hinter-den-kulissen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/689362/",
+            "filename": "comic-con-hinter-den-kulissen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "comic-con-hinter-den-kulissen",
+        "subheadline": "Comic-Con - Hinter den Kulissen",
+        "text": "Staffel  | Sa. 28.12.2019, 22:35 Uhr",
+        "type": "film",
+        "url": "/filme/comic-con-hinter-den-kulissen-17417",
+        "videoId": 689362
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

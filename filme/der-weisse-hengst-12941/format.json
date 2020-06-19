@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 12941,
+  "additionalMeta": {
+    "canonical": "/filme/der-weisse-hengst-12941",
+    "url": "/filme/der-weisse-hengst-12941"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Der weiße Hengst",
+      "url": "/filme/der-weisse-hengst-12941"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 12941,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Der weiße Hengst 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Der weiße Hengst, Film, Stream, Online-Stream, TV NOW, WATCHBOX, kostenlos, Spielfilm, Video, gratis, Drama, Klassiker, Pferd",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Der weiße Hengst im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Der weiße Hengst 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 335048,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/335048",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/12941"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_drama/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_drama",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Der weiße Hengst",
+    "text": "Bei TV NOW kannst Du den Film Der weiße Hengst und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/der-weisse-hengst-12941",
+        "@type": "Movie",
+        "description": "Der weiße Hengst lebt in Freiheit als Anführer seiner Herde, wird dann aber von einem Züchter gefangen. Dieser erkennt den eigenwilligen Geist des Tieres und die Unmöglichkeit, es zu zähmen, und lässt es daher frei. Doch damit ist die Jagd auf den Hengst eröffnet. Der Fischerjunge Folco stellt sich gegen die Jäger...",
+        "duration": "PT38M12S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/335048/950x0/der-weisse-hengst.jpg",
+        "name": "Der weiße Hengst",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/der-weisse-hengst-12941",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-07-06T10:37:18.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/der-weisse-hengst-12941",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Der weiße Hengst lebt in Freiheit als Anführer seiner Herde, wird dann aber von einem Züchter gefangen. Dieser erkennt den eigenwilligen Geist des Tieres und die Unmöglichkeit, es zu zähmen, und lässt es daher frei. Doch damit ist die Jagd auf den Hengst eröffnet. Der Fischerjunge Folco stellt sich gegen die Jäger...",
+          "duration": "PT38M12S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/der-weisse-hengst-12941",
+          "name": "Der weiße Hengst",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/335048/950x0/der-weisse-hengst.jpg",
+          "uploadDate": "2017-07-06T10:37:18.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Der weiße Hengst im Online Stream | TVNOW",
+        "headline": "Der weiße Hengst im Online Stream | TVNOW",
+        "description": "Der weiße Hengst und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Alain Emery, Jean-Pierre Grenier, Pascal Lamorisse.",
+        "url": "https://www.tvnow.de/filme/der-weisse-hengst-12941",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/335048/950x0/der-weisse-hengst.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/335048/950x0/der-weisse-hengst.jpg",
+        "datePublished": "2017-07-06T10:37:18.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/335048/950x0/der-weisse-hengst.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Der weiße Hengst",
+            "item": "https://www.tvnow.de/filme/der-weisse-hengst-12941"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Der weiße Hengst im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

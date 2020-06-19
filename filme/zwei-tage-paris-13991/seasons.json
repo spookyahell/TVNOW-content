@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13991",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13991,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/zwei-tage-paris-13991"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Zwei Tage Paris",
+          "teaserId": "film_339460",
+          "teaserName": "Zwei Tage Paris | Zwei Tage Paris",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Zwei Tage Paris",
+        "id": 339460,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339460/300x0/zwei-tage-paris.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339460/",
+            "filename": "zwei-tage-paris"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339460/600x0/zwei-tage-paris.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339460/",
+            "filename": "zwei-tage-paris"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339460/1200x0/zwei-tage-paris.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339460/",
+            "filename": "zwei-tage-paris"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339460/300x0/zwei-tage-paris.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339460/",
+            "filename": "zwei-tage-paris"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339460/600x0/zwei-tage-paris.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339460/",
+            "filename": "zwei-tage-paris"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339460/1200x0/zwei-tage-paris.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339460/",
+            "filename": "zwei-tage-paris"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "zwei-tage-paris",
+        "subheadline": "Zwei Tage Paris",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/zwei-tage-paris-13991",
+        "videoId": 339460
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

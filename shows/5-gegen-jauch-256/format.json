@@ -1,0 +1,208 @@
+﻿{
+  "formatId": 256,
+  "additionalMeta": {
+    "canonical": "/shows/5-gegen-jauch-256",
+    "url": "/shows/5-gegen-jauch-256"
+  },
+  "ads": {
+    "station": "rtl",
+    "taggingPack": "shows",
+    "taggingSubSite": "fuenf_gegen_jauch"
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "5 gegen Jauch",
+      "url": "/shows/5-gegen-jauch-256"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 256,
+  "meta": [
+    {
+      "content": "Die Show ▶ 5 gegen Jauch (RTL) streamen & weitere Highlights aus dem Genre 📺 Show im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "video, videos, online sehen, internet tv, fernsehen, video on demand, rtl, 5 gegen Jauch, Günther Jauch, WWM, Quiz, Wissen, Raten, Oliver Pocher, Kandidaten, Fragen, Günther, Antworten, online, Stream, TV NOW, vod, Show, Unterhaltung, mitmachen",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "5 gegen Jauch im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ 5 gegen Jauch (RTL) streamen & weitere Highlights aus dem Genre 📺 Show im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/256",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/256",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/256",
+      "type": "teaserrow"
+    },
+    {
+      "id": 256,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/256",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rn5gegenjauch",
+      "video": "dvrsowf_ten_rn5gegenjauch",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_now/formate/5_gegen_jauch/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_now",
+        "formate",
+        "5_gegen_jauch",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Show",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zur Serie: 5 gegen Jauch",
+    "text": "5 gegen Jauch und viele weitere Serien kannst Du gemütlich online bei TV NOW im Stream anschauen. Also nichts wie los – hole das Knabberzeug raus und genieße Deine Serie ganz entspannt von unterwegs oder von zu Hause aus mit Freunden.",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "https://www.tvnow.de/shows/5-gegen-jauch-256",
+        "url": "https://www.tvnow.de/shows/5-gegen-jauch-256",
+        "name": "5 gegen Jauch",
+        "description": "Die Show ▶ 5 gegen Jauch (RTL) streamen & weitere Highlights aus dem Genre 📺 Show im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/256_04metalogo/1200x0/5-gegen-jauch.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Information zur Serie: 5 gegen Jauch",
+        "headline": "Information zur Serie: 5 gegen Jauch",
+        "description": "Die Show ▶ 5 gegen Jauch (RTL) streamen & weitere Highlights aus dem Genre 📺 Show im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+        "url": "https://www.tvnow.de/shows/5-gegen-jauch-256",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/256_04metalogo/1200x0/5-gegen-jauch.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/256_04metalogo/1200x0/5-gegen-jauch.png",
+        "keywords": "video, videos, online sehen, internet tv, fernsehen, video on demand, rtl, 5 gegen Jauch, Günther Jauch, WWM, Quiz, Wissen, Raten, Oliver Pocher, Kandidaten, Fragen, Günther, Antworten, online, Stream, TV NOW, vod, Show, Unterhaltung, mitmachen",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/256_04metalogo/1200x0/5-gegen-jauch.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "https://www.tvnow.de/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "5 gegen Jauch",
+            "item": "https://www.tvnow.de/shows/5-gegen-jauch-256"
+          }
+        ]
+      }
+    }
+  },
+  "title": "5 gegen Jauch im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

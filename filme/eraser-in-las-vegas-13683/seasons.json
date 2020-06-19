@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13683",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13683,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/eraser-in-las-vegas-13683"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Eraser in Las Vegas",
+          "teaserId": "film_337880",
+          "teaserName": "Eraser in Las Vegas | Eraser in Las Vegas",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Eraser in Las Vegas",
+        "id": 337880,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337880/300x0/eraser-in-las-vegas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337880/",
+            "filename": "eraser-in-las-vegas"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337880/600x0/eraser-in-las-vegas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337880/",
+            "filename": "eraser-in-las-vegas"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337880/1200x0/eraser-in-las-vegas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337880/",
+            "filename": "eraser-in-las-vegas"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337880/300x0/eraser-in-las-vegas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337880/",
+            "filename": "eraser-in-las-vegas"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337880/600x0/eraser-in-las-vegas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337880/",
+            "filename": "eraser-in-las-vegas"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337880/1200x0/eraser-in-las-vegas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337880/",
+            "filename": "eraser-in-las-vegas"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "eraser-in-las-vegas",
+        "subheadline": "Eraser in Las Vegas",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/eraser-in-las-vegas-13683",
+        "videoId": 337880
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

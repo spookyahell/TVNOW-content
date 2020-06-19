@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15209",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15209,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/verlust-und-verlangen-15209"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Verlust und Verlangen",
+          "teaserId": "film_358474",
+          "teaserName": "Verlust und Verlangen | Verlust und Verlangen",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Verlust und Verlangen",
+        "id": 358474,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/358474/300x0/verlust-und-verlangen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/358474/",
+            "filename": "verlust-und-verlangen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/358474/600x0/verlust-und-verlangen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/358474/",
+            "filename": "verlust-und-verlangen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/358474/1200x0/verlust-und-verlangen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/358474/",
+            "filename": "verlust-und-verlangen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/358474/300x0/verlust-und-verlangen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/358474/",
+            "filename": "verlust-und-verlangen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/358474/600x0/verlust-und-verlangen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/358474/",
+            "filename": "verlust-und-verlangen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/358474/1200x0/verlust-und-verlangen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/358474/",
+            "filename": "verlust-und-verlangen"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "verlust-und-verlangen",
+        "subheadline": "Verlust und Verlangen",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/verlust-und-verlangen-15209",
+        "videoId": 358474
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

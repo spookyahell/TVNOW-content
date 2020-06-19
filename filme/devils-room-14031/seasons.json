@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14031",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14031,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/devil-s-room-14031"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Devil's Room",
+          "teaserId": "film_341360",
+          "teaserName": "Devil's Room | Devil's Room",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Devil's Room",
+        "id": 341360,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341360/300x0/devil-s-room.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341360/",
+            "filename": "devil-s-room"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341360/600x0/devil-s-room.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341360/",
+            "filename": "devil-s-room"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341360/1200x0/devil-s-room.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341360/",
+            "filename": "devil-s-room"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341360/300x0/devil-s-room.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341360/",
+            "filename": "devil-s-room"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341360/600x0/devil-s-room.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341360/",
+            "filename": "devil-s-room"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341360/1200x0/devil-s-room.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341360/",
+            "filename": "devil-s-room"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "devils-room",
+        "subheadline": "Devil's Room",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/devil-s-room-14031",
+        "videoId": 341360
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

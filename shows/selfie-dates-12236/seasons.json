@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12236",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12236,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/selfie-dates-12236/weitere/episode-0-selfie-dates-326004"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Selfie Dates",
+          "teaserId": "show_episode_326004",
+          "teaserName": "Selfie Dates | Selfie Dates",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Real Life",
+          "cluster": [
+            "Dating"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Selfie Dates",
+        "id": 326004,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/326004/300x0/selfie-dates.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/326004/",
+            "filename": "selfie-dates"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/326004/600x0/selfie-dates.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/326004/",
+            "filename": "selfie-dates"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/326004/1200x0/selfie-dates.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/326004/",
+            "filename": "selfie-dates"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/326004/300x0/selfie-dates.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/326004/",
+            "filename": "selfie-dates"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/326004/600x0/selfie-dates.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/326004/",
+            "filename": "selfie-dates"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/326004/1200x0/selfie-dates.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/326004/",
+            "filename": "selfie-dates"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "selfie-dates",
+        "subheadline": "Selfie Dates",
+        "text": "Staffel  | Mo. 08.05.2017, 23:15 Uhr",
+        "type": "show",
+        "url": "/shows/selfie-dates-12236/weitere/episode-0-selfie-dates-326004",
+        "videoId": 326004
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18249",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18249,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/wilder-pazifik-18249"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wilder Pazifik",
+          "teaserId": "film_2667260",
+          "teaserName": "Wilder Pazifik | Wilder Pazifik",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Natur"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wilder Pazifik",
+        "id": 2667260,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2667260/300x0/wilder-pazifik.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2667260/",
+            "filename": "wilder-pazifik"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2667260/600x0/wilder-pazifik.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2667260/",
+            "filename": "wilder-pazifik"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2667260/1200x0/wilder-pazifik.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2667260/",
+            "filename": "wilder-pazifik"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2667260/300x0/wilder-pazifik.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2667260/",
+            "filename": "wilder-pazifik"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2667260/600x0/wilder-pazifik.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2667260/",
+            "filename": "wilder-pazifik"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2667260/1200x0/wilder-pazifik.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2667260/",
+            "filename": "wilder-pazifik"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wilder-pazifik",
+        "subheadline": "Wilder Pazifik",
+        "text": "Staffel  | Fr. 24.01.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/wilder-pazifik-18249",
+        "videoId": 2667260
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

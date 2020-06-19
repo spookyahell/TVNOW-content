@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12733",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12733,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-ring-virus-12733"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Ring Virus",
+          "teaserId": "film_333694",
+          "teaserName": "The Ring Virus | The Ring Virus",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Ring Virus",
+        "id": 333694,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333694/300x0/the-ring-virus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333694/",
+            "filename": "the-ring-virus"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333694/600x0/the-ring-virus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333694/",
+            "filename": "the-ring-virus"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333694/1200x0/the-ring-virus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333694/",
+            "filename": "the-ring-virus"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333694/300x0/the-ring-virus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333694/",
+            "filename": "the-ring-virus"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333694/600x0/the-ring-virus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333694/",
+            "filename": "the-ring-virus"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333694/1200x0/the-ring-virus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333694/",
+            "filename": "the-ring-virus"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-ring-virus",
+        "subheadline": "The Ring Virus",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-ring-virus-12733",
+        "videoId": 333694
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

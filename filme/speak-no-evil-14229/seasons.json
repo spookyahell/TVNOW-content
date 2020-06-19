@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14229",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14229,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/speak-no-evil-14229"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Speak no Evil",
+          "teaserId": "film_342444",
+          "teaserName": "Speak no Evil | Speak no Evil",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Speak no Evil",
+        "id": 342444,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342444/300x0/speak-no-evil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342444/",
+            "filename": "speak-no-evil"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342444/600x0/speak-no-evil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342444/",
+            "filename": "speak-no-evil"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342444/1200x0/speak-no-evil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342444/",
+            "filename": "speak-no-evil"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342444/300x0/speak-no-evil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342444/",
+            "filename": "speak-no-evil"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342444/600x0/speak-no-evil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342444/",
+            "filename": "speak-no-evil"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/342444/1200x0/speak-no-evil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/342444/",
+            "filename": "speak-no-evil"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "speak-no-evil",
+        "subheadline": "Speak no Evil",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/speak-no-evil-14229",
+        "videoId": 342444
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

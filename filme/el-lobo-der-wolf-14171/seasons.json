@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14171",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14171,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/el-lobo-der-wolf-14171"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "El Lobo - Der Wolf",
+          "teaserId": "film_341120",
+          "teaserName": "El Lobo - Der Wolf | El Lobo - Der Wolf",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "El Lobo - Der Wolf",
+        "id": 341120,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341120/300x0/el-lobo-der-wolf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341120/",
+            "filename": "el-lobo-der-wolf"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341120/600x0/el-lobo-der-wolf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341120/",
+            "filename": "el-lobo-der-wolf"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341120/1200x0/el-lobo-der-wolf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341120/",
+            "filename": "el-lobo-der-wolf"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341120/300x0/el-lobo-der-wolf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341120/",
+            "filename": "el-lobo-der-wolf"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341120/600x0/el-lobo-der-wolf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341120/",
+            "filename": "el-lobo-der-wolf"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341120/1200x0/el-lobo-der-wolf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341120/",
+            "filename": "el-lobo-der-wolf"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "el-lobo-der-wolf",
+        "subheadline": "El Lobo - Der Wolf",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/el-lobo-der-wolf-14171",
+        "videoId": 341120
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

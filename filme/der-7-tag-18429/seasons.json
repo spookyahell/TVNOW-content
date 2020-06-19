@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18429",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18429,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-7-tag-18429"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der 7. Tag",
+          "teaserId": "film_3044617",
+          "teaserName": "Der 7. Tag | Der 7. Tag",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der 7. Tag",
+        "id": 3044617,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3044617/300x0/der-7-tag.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3044617/",
+            "filename": "der-7-tag"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3044617/600x0/der-7-tag.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3044617/",
+            "filename": "der-7-tag"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3044617/1200x0/der-7-tag.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3044617/",
+            "filename": "der-7-tag"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3044617/300x0/der-7-tag.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3044617/",
+            "filename": "der-7-tag"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3044617/600x0/der-7-tag.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3044617/",
+            "filename": "der-7-tag"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3044617/1200x0/der-7-tag.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3044617/",
+            "filename": "der-7-tag"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-7-tag",
+        "subheadline": "Der 7. Tag",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/der-7-tag-18429",
+        "videoId": 3044617
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

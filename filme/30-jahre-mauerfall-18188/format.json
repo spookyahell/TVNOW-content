@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 18188,
+  "additionalMeta": {
+    "canonical": "/filme/30-jahre-mauerfall-18188",
+    "url": "/filme/30-jahre-mauerfall-18188"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "30 Jahre Mauerfall",
+      "url": "/filme/30-jahre-mauerfall-18188"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 18188,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ 30 Jahre Mauerfall 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "30 Jahre Mauerfall im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ 30 Jahre Mauerfall 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 2274348,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/2274348",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18188"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: 30 Jahre Mauerfall",
+    "text": "Moderator Maik Meuser begibt sich mit einem Wartburg auf eine Reise entlang der ehemaligen Mauer. In Gesprächen mit Politikern und Bürgern will er sich ein Bild davon machen, auf welchem Fundament das vereinte Deutschland 30 Jahre nach der historischen Zäsur steht.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/30-jahre-mauerfall-18188",
+        "@type": "Movie",
+        "description": "Moderator Maik Meuser begibt sich mit einem Wartburg auf eine Reise entlang der ehemaligen Mauer. In Gesprächen mit Politikern und Bürgern will er sich ein Bild davon machen, auf welchem Fundament das vereinte Deutschland 30 Jahre nach der historischen Zäsur steht.",
+        "duration": "PT20M9S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/2274348/950x0/30-jahre-mauerfall.jpg",
+        "name": "30 Jahre Mauerfall",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/30-jahre-mauerfall-18188",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2019-12-15T18:30:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/30-jahre-mauerfall-18188",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Moderator Maik Meuser begibt sich mit einem Wartburg auf eine Reise entlang der ehemaligen Mauer. In Gesprächen mit Politikern und Bürgern will er sich ein Bild davon machen, auf welchem Fundament das vereinte Deutschland 30 Jahre nach der historischen Zäsur steht.",
+          "duration": "PT20M9S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/30-jahre-mauerfall-18188",
+          "name": "30 Jahre Mauerfall",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2274348/950x0/30-jahre-mauerfall.jpg",
+          "uploadDate": "2019-12-15T18:30:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "30 Jahre Mauerfall im Online Stream | TVNOW",
+        "headline": "30 Jahre Mauerfall im Online Stream | TVNOW",
+        "description": "30 Jahre Mauerfall und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/30-jahre-mauerfall-18188",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/2274348/950x0/30-jahre-mauerfall.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/2274348/950x0/30-jahre-mauerfall.jpg",
+        "datePublished": "2019-12-15T18:30:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/2274348/950x0/30-jahre-mauerfall.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "30 Jahre Mauerfall",
+            "item": "https://www.tvnow.de/filme/30-jahre-mauerfall-18188"
+          }
+        ]
+      }
+    }
+  },
+  "title": "30 Jahre Mauerfall im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12879",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12879,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-graveyard-12879"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Graveyard",
+          "teaserId": "film_334674",
+          "teaserName": "The Graveyard | The Graveyard",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Graveyard",
+        "id": 334674,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334674/300x0/the-graveyard.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334674/",
+            "filename": "the-graveyard"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334674/600x0/the-graveyard.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334674/",
+            "filename": "the-graveyard"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334674/1200x0/the-graveyard.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334674/",
+            "filename": "the-graveyard"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334674/300x0/the-graveyard.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334674/",
+            "filename": "the-graveyard"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334674/600x0/the-graveyard.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334674/",
+            "filename": "the-graveyard"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334674/1200x0/the-graveyard.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334674/",
+            "filename": "the-graveyard"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-graveyard",
+        "subheadline": "The Graveyard",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-graveyard-12879",
+        "videoId": 334674
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

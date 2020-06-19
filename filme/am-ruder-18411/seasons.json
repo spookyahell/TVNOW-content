@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18411",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18411,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/am-ruder-18411"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Am Ruder",
+          "teaserId": "film_3096219",
+          "teaserName": "Am Ruder | Am Ruder",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Am Ruder",
+        "id": 3096219,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3096219/300x0/am-ruder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3096219/",
+            "filename": "am-ruder"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3096219/600x0/am-ruder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3096219/",
+            "filename": "am-ruder"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3096219/1200x0/am-ruder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3096219/",
+            "filename": "am-ruder"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3096219/300x0/am-ruder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3096219/",
+            "filename": "am-ruder"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3096219/600x0/am-ruder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3096219/",
+            "filename": "am-ruder"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3096219/1200x0/am-ruder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3096219/",
+            "filename": "am-ruder"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "am-ruder",
+        "subheadline": "Am Ruder",
+        "text": "Staffel  | Mi. 08.04.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/am-ruder-18411",
+        "videoId": 3096219
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

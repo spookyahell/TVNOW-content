@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16949",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16949,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/cameraperson-16949"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Cameraperson",
+          "teaserId": "film_1331578",
+          "teaserName": "Cameraperson | Cameraperson",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Cameraperson",
+        "id": 1331578,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331578/300x0/cameraperson.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331578/",
+            "filename": "cameraperson"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331578/600x0/cameraperson.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331578/",
+            "filename": "cameraperson"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331578/1200x0/cameraperson.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331578/",
+            "filename": "cameraperson"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331578/300x0/cameraperson.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331578/",
+            "filename": "cameraperson"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331578/600x0/cameraperson.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331578/",
+            "filename": "cameraperson"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1331578/1200x0/cameraperson.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1331578/",
+            "filename": "cameraperson"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "cameraperson",
+        "subheadline": "Cameraperson",
+        "text": "Staffel  | Sa. 11.04.2020, 00:30 Uhr",
+        "type": "film",
+        "url": "/filme/cameraperson-16949",
+        "videoId": 1331578
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

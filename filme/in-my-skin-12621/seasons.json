@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12621",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12621,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/in-my-skin-12621"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "In my Skin",
+          "teaserId": "film_333832",
+          "teaserName": "In my Skin | In my Skin",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "In my Skin",
+        "id": 333832,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333832/300x0/in-my-skin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333832/",
+            "filename": "in-my-skin"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333832/600x0/in-my-skin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333832/",
+            "filename": "in-my-skin"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333832/1200x0/in-my-skin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333832/",
+            "filename": "in-my-skin"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333832/300x0/in-my-skin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333832/",
+            "filename": "in-my-skin"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333832/600x0/in-my-skin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333832/",
+            "filename": "in-my-skin"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/333832/1200x0/in-my-skin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/333832/",
+            "filename": "in-my-skin"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "in-my-skin",
+        "subheadline": "In my Skin",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/in-my-skin-12621",
+        "videoId": 333832
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

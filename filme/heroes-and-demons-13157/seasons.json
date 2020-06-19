@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13157",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13157,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/heroes-and-demons-13157"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Heroes and Demons",
+          "teaserId": "film_336376",
+          "teaserName": "Heroes and Demons | Heroes and Demons",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Heroes and Demons",
+        "id": 336376,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336376/300x0/heroes-and-demons.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336376/",
+            "filename": "heroes-and-demons"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336376/600x0/heroes-and-demons.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336376/",
+            "filename": "heroes-and-demons"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336376/1200x0/heroes-and-demons.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336376/",
+            "filename": "heroes-and-demons"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336376/300x0/heroes-and-demons.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336376/",
+            "filename": "heroes-and-demons"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336376/600x0/heroes-and-demons.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336376/",
+            "filename": "heroes-and-demons"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336376/1200x0/heroes-and-demons.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336376/",
+            "filename": "heroes-and-demons"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "heroes-and-demons",
+        "subheadline": "Heroes and Demons",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/heroes-and-demons-13157",
+        "videoId": 336376
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

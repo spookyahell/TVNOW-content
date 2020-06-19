@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17278",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17278,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/teuflische-versuchung-17278"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Teuflische Versuchung",
+          "teaserId": "film_1347932",
+          "teaserName": "Teuflische Versuchung | Teuflische Versuchung",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Teuflische Versuchung",
+        "id": 1347932,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1347932/300x0/teuflische-versuchung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1347932/",
+            "filename": "teuflische-versuchung"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1347932/600x0/teuflische-versuchung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1347932/",
+            "filename": "teuflische-versuchung"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1347932/1200x0/teuflische-versuchung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1347932/",
+            "filename": "teuflische-versuchung"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1347932/300x0/teuflische-versuchung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1347932/",
+            "filename": "teuflische-versuchung"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1347932/600x0/teuflische-versuchung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1347932/",
+            "filename": "teuflische-versuchung"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1347932/1200x0/teuflische-versuchung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1347932/",
+            "filename": "teuflische-versuchung"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "teuflische-versuchung",
+        "subheadline": "Teuflische Versuchung",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/teuflische-versuchung-17278",
+        "videoId": 1347932
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

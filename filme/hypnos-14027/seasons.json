@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14027",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14027,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/hypnos-14027"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Hypnos",
+          "teaserId": "film_341374",
+          "teaserName": "Hypnos | Hypnos",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Hypnos",
+        "id": 341374,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341374/300x0/hypnos.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341374/",
+            "filename": "hypnos"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341374/600x0/hypnos.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341374/",
+            "filename": "hypnos"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341374/1200x0/hypnos.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341374/",
+            "filename": "hypnos"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341374/300x0/hypnos.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341374/",
+            "filename": "hypnos"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341374/600x0/hypnos.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341374/",
+            "filename": "hypnos"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341374/1200x0/hypnos.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341374/",
+            "filename": "hypnos"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "hypnos",
+        "subheadline": "Hypnos",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/hypnos-14027",
+        "videoId": 341374
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

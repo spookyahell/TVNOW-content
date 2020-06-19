@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18427",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18427,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/dorf-des-schweigens-das-18427"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Dorf des Schweigens",
+          "teaserId": "film_3044653",
+          "teaserName": "Das Dorf des Schweigens | Dorf des Schweigens, Das",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Dorf des Schweigens, Das",
+        "id": 3044653,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3044653/300x0/dorf-des-schweigens-das.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3044653/",
+            "filename": "dorf-des-schweigens-das"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3044653/600x0/dorf-des-schweigens-das.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3044653/",
+            "filename": "dorf-des-schweigens-das"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3044653/1200x0/dorf-des-schweigens-das.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3044653/",
+            "filename": "dorf-des-schweigens-das"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3044653/300x0/dorf-des-schweigens-das.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3044653/",
+            "filename": "dorf-des-schweigens-das"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3044653/600x0/dorf-des-schweigens-das.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3044653/",
+            "filename": "dorf-des-schweigens-das"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3044653/1200x0/dorf-des-schweigens-das.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3044653/",
+            "filename": "dorf-des-schweigens-das"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-dorf-des-schweigens",
+        "subheadline": "Dorf des Schweigens, Das",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/dorf-des-schweigens-das-18427",
+        "videoId": 3044653
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13783",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13783,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-mann-ohne-gesicht-13783"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Mann ohne Gesicht",
+          "teaserId": "film_338778",
+          "teaserName": "Der Mann ohne Gesicht | Der Mann ohne Gesicht",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Mann ohne Gesicht",
+        "id": 338778,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338778/300x0/der-mann-ohne-gesicht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338778/",
+            "filename": "der-mann-ohne-gesicht"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338778/600x0/der-mann-ohne-gesicht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338778/",
+            "filename": "der-mann-ohne-gesicht"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338778/1200x0/der-mann-ohne-gesicht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338778/",
+            "filename": "der-mann-ohne-gesicht"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338778/300x0/der-mann-ohne-gesicht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338778/",
+            "filename": "der-mann-ohne-gesicht"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338778/600x0/der-mann-ohne-gesicht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338778/",
+            "filename": "der-mann-ohne-gesicht"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/338778/1200x0/der-mann-ohne-gesicht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/338778/",
+            "filename": "der-mann-ohne-gesicht"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-mann-ohne-gesicht",
+        "subheadline": "Der Mann ohne Gesicht",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/der-mann-ohne-gesicht-13783",
+        "videoId": 338778
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

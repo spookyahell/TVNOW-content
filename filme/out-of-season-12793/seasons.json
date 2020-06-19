@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12793",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12793,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/out-of-season-12793"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Out of Season",
+          "teaserId": "film_334436",
+          "teaserName": "Out of Season | Out of Season",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Out of Season",
+        "id": 334436,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334436/300x0/out-of-season.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334436/",
+            "filename": "out-of-season"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334436/600x0/out-of-season.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334436/",
+            "filename": "out-of-season"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334436/1200x0/out-of-season.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334436/",
+            "filename": "out-of-season"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334436/300x0/out-of-season.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334436/",
+            "filename": "out-of-season"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334436/600x0/out-of-season.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334436/",
+            "filename": "out-of-season"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334436/1200x0/out-of-season.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334436/",
+            "filename": "out-of-season"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "out-of-season",
+        "subheadline": "Out of Season",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/out-of-season-12793",
+        "videoId": 334436
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14971",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14971,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/evilenko-14971"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Evilenko",
+          "teaserId": "film_353534",
+          "teaserName": "Evilenko | Evilenko",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Evilenko",
+        "id": 353534,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353534/300x0/evilenko.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353534/",
+            "filename": "evilenko"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353534/600x0/evilenko.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353534/",
+            "filename": "evilenko"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353534/1200x0/evilenko.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353534/",
+            "filename": "evilenko"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353534/300x0/evilenko.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353534/",
+            "filename": "evilenko"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353534/600x0/evilenko.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353534/",
+            "filename": "evilenko"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/353534/1200x0/evilenko.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/353534/",
+            "filename": "evilenko"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "evilenko",
+        "subheadline": "Evilenko",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/evilenko-14971",
+        "videoId": 353534
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

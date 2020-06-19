@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 17412,
+  "additionalMeta": {
+    "canonical": "/filme/a-murder-in-the-park-unschuldig-im-todestrakt-17412",
+    "url": "/filme/a-murder-in-the-park-unschuldig-im-todestrakt-17412"
+  },
+  "ads": {
+    "station": "crime",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "A Murder in the Park - Unschuldig im Todestrakt",
+      "url": "/filme/a-murder-in-the-park-unschuldig-im-todestrakt-17412"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17412,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ A Murder in the Park - Unschuldig im Todestrakt 📺 und viele weitere ▶️ Filme aus dem Genre Crime findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "A Murder in the Park - Unschuldig im Todestrakt, video, videos, online sehen, internet tv, fernsehen, video on demand, TV NOW, TVNOW",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "A Murder in the Park - Unschuldig im Todestrakt im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ A Murder in the Park - Unschuldig im Todestrakt 📺 und viele weitere ▶️ Filme aus dem Genre Crime findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1458942,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1458942",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17412"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_cnrtlcrime",
+      "video": "dvrsowf_ten_cnrtlcrime",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/crime_now/formate/crime_format/home",
+      "levels": [
+        "tv_now_de",
+        "crime_now",
+        "formate",
+        "crime_format",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Crime",
+    "cluster": [
+      "True Crime"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: A Murder in the Park - Unschuldig im Todestrakt",
+    "text": "Als 1982 zwei Jugendliche in Chicago erschossen werden, wird Anthony Porter als Schütze identifiziert und zum Tode verurteilt. Der Fall lässt jedoch Fragen offen, sodass sich ein Journalismus-Professor 1998 daran macht, ihn neu aufzurollen. Als Porter begnadigt wird, verwandelt sich seine falsche Verurteilung in ein Plädoyer gegen die Todesstrafe. Doch die Wahrheit tritt bald zutage.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/a-murder-in-the-park-unschuldig-im-todestrakt-17412",
+        "@type": "Movie",
+        "description": "Als 1982 zwei Jugendliche in Chicago erschossen werden, wird Anthony Porter als Schütze identifiziert und zum Tode verurteilt. Der Fall lässt jedoch Fragen offen, sodass sich ein Journalismus-Professor 1998 daran macht, ihn neu aufzurollen. Als Porter begnadigt wird, verwandelt sich seine falsche Verurteilung in ein Plädoyer gegen die Todesstrafe. Doch die Wahrheit tritt bald zutage.",
+        "duration": "PT1H31M17S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1458942/950x0/a-murder-in-the-park-unschuldig-im-todestrakt.jpg",
+        "name": "A Murder in the Park - Unschuldig im Todestrakt",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/a-murder-in-the-park-unschuldig-im-todestrakt-17412",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2019-02-24T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "https://www.tvnow.de/premium?typ=format&formatname=a-murder-in-the-park-unschuldig-im-todestrakt-17412",
+              "sameAs": "https://www.tvnow.de/premium?typ=format&formatname=a-murder-in-the-park-unschuldig-im-todestrakt-17412",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "https://www.tvnow.de/filme/a-murder-in-the-park-unschuldig-im-todestrakt-17412",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Als 1982 zwei Jugendliche in Chicago erschossen werden, wird Anthony Porter als Schütze identifiziert und zum Tode verurteilt. Der Fall lässt jedoch Fragen offen, sodass sich ein Journalismus-Professor 1998 daran macht, ihn neu aufzurollen. Als Porter begnadigt wird, verwandelt sich seine falsche Verurteilung in ein Plädoyer gegen die Todesstrafe. Doch die Wahrheit tritt bald zutage.",
+          "duration": "PT1H31M17S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/a-murder-in-the-park-unschuldig-im-todestrakt-17412",
+          "name": "A Murder in the Park - Unschuldig im Todestrakt",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1458942/950x0/a-murder-in-the-park-unschuldig-im-todestrakt.jpg",
+          "uploadDate": "2019-02-24T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "A Murder in the Park - Unschuldig im Todestrakt im Online Stream | TVNOW",
+        "headline": "A Murder in the Park - Unschuldig im Todestrakt im Online Stream | TVNOW",
+        "description": "A Murder in the Park - Unschuldig im Todestrakt und viele weitere  ▶️Filme aus dem Genre Crime findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/a-murder-in-the-park-unschuldig-im-todestrakt-17412",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1458942/950x0/a-murder-in-the-park-unschuldig-im-todestrakt.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1458942/950x0/a-murder-in-the-park-unschuldig-im-todestrakt.jpg",
+        "datePublished": "2019-02-24T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1458942/950x0/a-murder-in-the-park-unschuldig-im-todestrakt.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "A Murder in the Park - Unschuldig im Todestrakt",
+            "item": "https://www.tvnow.de/filme/a-murder-in-the-park-unschuldig-im-todestrakt-17412"
+          }
+        ]
+      }
+    }
+  },
+  "title": "A Murder in the Park - Unschuldig im Todestrakt im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

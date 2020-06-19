@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15301",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15301,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/frankenhooker-15301"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Frankenhooker",
+          "teaserId": "film_363266",
+          "teaserName": "Frankenhooker | Frankenhooker",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Frankenhooker",
+        "id": 363266,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/363266/300x0/frankenhooker.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/363266/",
+            "filename": "frankenhooker"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/363266/600x0/frankenhooker.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/363266/",
+            "filename": "frankenhooker"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/363266/1200x0/frankenhooker.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/363266/",
+            "filename": "frankenhooker"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/363266/300x0/frankenhooker.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/363266/",
+            "filename": "frankenhooker"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/363266/600x0/frankenhooker.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/363266/",
+            "filename": "frankenhooker"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/363266/1200x0/frankenhooker.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/363266/",
+            "filename": "frankenhooker"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "frankenhooker",
+        "subheadline": "Frankenhooker",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/frankenhooker-15301",
+        "videoId": 363266
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

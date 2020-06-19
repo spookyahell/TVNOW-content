@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16935",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16935,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/taxi-zur-hoelle-16935"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Taxi zur Hölle",
+          "teaserId": "film_365060",
+          "teaserName": "Taxi zur Hölle | Taxi zur Hölle",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Taxi zur Hölle",
+        "id": 365060,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365060/300x0/taxi-zur-hoelle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365060/",
+            "filename": "taxi-zur-hoelle"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365060/600x0/taxi-zur-hoelle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365060/",
+            "filename": "taxi-zur-hoelle"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365060/1200x0/taxi-zur-hoelle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365060/",
+            "filename": "taxi-zur-hoelle"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365060/300x0/taxi-zur-hoelle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365060/",
+            "filename": "taxi-zur-hoelle"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365060/600x0/taxi-zur-hoelle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365060/",
+            "filename": "taxi-zur-hoelle"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/365060/1200x0/taxi-zur-hoelle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/365060/",
+            "filename": "taxi-zur-hoelle"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "taxi-zur-hoelle",
+        "subheadline": "Taxi zur Hölle",
+        "text": "Staffel  | Sa. 23.02.2019, 16:00 Uhr",
+        "type": "film",
+        "url": "/filme/taxi-zur-hoelle-16935",
+        "videoId": 365060
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

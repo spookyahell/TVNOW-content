@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12535",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12535,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/van-diemen-s-land-12535"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Van Diemen's Land",
+          "teaserId": "film_329496",
+          "teaserName": "Van Diemen's Land | Van Diemen's Land",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Van Diemen's Land",
+        "id": 329496,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/329496/300x0/van-diemen-s-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/329496/",
+            "filename": "van-diemen-s-land"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/329496/600x0/van-diemen-s-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/329496/",
+            "filename": "van-diemen-s-land"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/329496/1200x0/van-diemen-s-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/329496/",
+            "filename": "van-diemen-s-land"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/329496/300x0/van-diemen-s-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/329496/",
+            "filename": "van-diemen-s-land"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/329496/600x0/van-diemen-s-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/329496/",
+            "filename": "van-diemen-s-land"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/329496/1200x0/van-diemen-s-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/329496/",
+            "filename": "van-diemen-s-land"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "van-diemens-land",
+        "subheadline": "Van Diemen's Land",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/van-diemen-s-land-12535",
+        "videoId": 329496
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

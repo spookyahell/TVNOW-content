@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18254",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18254,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/kult-marken-der-ddr-18254"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Kult-Marken der DDR",
+          "teaserId": "film_2593199",
+          "teaserName": "Kult-Marken der DDR | Kult-Marken der DDR",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Kult-Marken der DDR",
+        "id": 2593199,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2593199/300x0/kult-marken-der-ddr.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2593199/",
+            "filename": "kult-marken-der-ddr"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2593199/600x0/kult-marken-der-ddr.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2593199/",
+            "filename": "kult-marken-der-ddr"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2593199/1200x0/kult-marken-der-ddr.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2593199/",
+            "filename": "kult-marken-der-ddr"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2593199/300x0/kult-marken-der-ddr.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2593199/",
+            "filename": "kult-marken-der-ddr"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2593199/600x0/kult-marken-der-ddr.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2593199/",
+            "filename": "kult-marken-der-ddr"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2593199/1200x0/kult-marken-der-ddr.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2593199/",
+            "filename": "kult-marken-der-ddr"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "kult-marken-der-ddr",
+        "subheadline": "Kult-Marken der DDR",
+        "text": "Staffel  | Sa. 16.05.2020, 16:10 Uhr",
+        "type": "film",
+        "url": "/filme/kult-marken-der-ddr-18254",
+        "videoId": 2593199
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16912",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16912,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ich-war-heath-ledger-16912"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ich war Heath Ledger",
+          "teaserId": "film_1326470",
+          "teaserName": "Ich war Heath Ledger | Ich war Heath Ledger",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ich war Heath Ledger",
+        "id": 1326470,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326470/300x0/ich-war-heath-ledger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326470/",
+            "filename": "ich-war-heath-ledger"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326470/600x0/ich-war-heath-ledger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326470/",
+            "filename": "ich-war-heath-ledger"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326470/1200x0/ich-war-heath-ledger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326470/",
+            "filename": "ich-war-heath-ledger"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326470/300x0/ich-war-heath-ledger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326470/",
+            "filename": "ich-war-heath-ledger"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326470/600x0/ich-war-heath-ledger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326470/",
+            "filename": "ich-war-heath-ledger"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326470/1200x0/ich-war-heath-ledger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326470/",
+            "filename": "ich-war-heath-ledger"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ich-war-heath-ledger",
+        "subheadline": "Ich war Heath Ledger",
+        "text": "Staffel  | Fr. 29.05.2020, 22:50 Uhr",
+        "type": "film",
+        "url": "/filme/ich-war-heath-ledger-16912",
+        "videoId": 1326470
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

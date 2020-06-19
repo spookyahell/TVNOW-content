@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 14021,
+  "additionalMeta": {
+    "canonical": "/filme/junkies-14021",
+    "url": "/filme/junkies-14021"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Junkies",
+      "url": "/filme/junkies-14021"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 14021,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Junkies 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Junkies, Film, TV NOW, Watchbox bei TV NOW, Drama, Thriller, Romantik, Independent, Teenager, Drogen, Drogensucht",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Junkies im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Junkies 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 339444,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/339444",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/14021"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_drama/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_drama",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Junkies",
+    "text": "Bei TV NOW kannst Du den Film Junkies und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/junkies-14021",
+        "@type": "Movie",
+        "description": "Sarah ist eine 15-jährige Teenagerin, die unter dem Missbrauch ihres Vaters leidet. Spike ist ein 21- jähriger junger Mann, der seine Hoffnung, als Musiker berühmt zu werden, fast aufgegeben hat. Beide halten sich mit kleineren Gaunereien gerade eben so über Wasser. Aber beide haben auch ihre hingebungsvolle und bedingungslose Liebe für einander - und diese lässt sie die größten Probleme wie ihre Drogensucht wenigstens zeitweise vergessen. Als Spike mit seiner Band erste Erfolge feiert, können die beiden zunächst auf eine bessere Zukunft hoffen. Wird ihnen Ihre Liebe dabei helfen, alle Steine zu überwinden, die ihnen in den Weg gelegt werden?",
+        "duration": "PT1H18M",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/339444/950x0/junkies.jpg",
+        "name": "Junkies",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/junkies-14021",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-07-06T04:19:29.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/junkies-14021",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Sarah ist eine 15-jährige Teenagerin, die unter dem Missbrauch ihres Vaters leidet. Spike ist ein 21- jähriger junger Mann, der seine Hoffnung, als Musiker berühmt zu werden, fast aufgegeben hat. Beide halten sich mit kleineren Gaunereien gerade eben so über Wasser. Aber beide haben auch ihre hingebungsvolle und bedingungslose Liebe für einander - und diese lässt sie die größten Probleme wie ihre Drogensucht wenigstens zeitweise vergessen. Als Spike mit seiner Band erste Erfolge feiert, können die beiden zunächst auf eine bessere Zukunft hoffen. Wird ihnen Ihre Liebe dabei helfen, alle Steine zu überwinden, die ihnen in den Weg gelegt werden?",
+          "duration": "PT1H18M",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/junkies-14021",
+          "name": "Junkies",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/339444/950x0/junkies.jpg",
+          "uploadDate": "2017-07-06T04:19:29.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Junkies im Online Stream | TVNOW",
+        "headline": "Junkies im Online Stream | TVNOW",
+        "description": "Junkies und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Emma Bing, Chad Lindberg, Max Perlich.",
+        "url": "https://www.tvnow.de/filme/junkies-14021",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/339444/950x0/junkies.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/339444/950x0/junkies.jpg",
+        "datePublished": "2017-07-06T04:19:29.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/339444/950x0/junkies.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Junkies",
+            "item": "https://www.tvnow.de/filme/junkies-14021"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Junkies im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

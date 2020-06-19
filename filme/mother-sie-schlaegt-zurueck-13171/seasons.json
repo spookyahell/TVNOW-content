@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13171",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13171,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mother-sie-schlaegt-zurueck-13171"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mother - Sie schlägt zurück",
+          "teaserId": "film_336560",
+          "teaserName": "Mother - Sie schlägt zurück | Mother - Sie schlägt zurück",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mother - Sie schlägt zurück",
+        "id": 336560,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336560/300x0/mother-sie-schlaegt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336560/",
+            "filename": "mother-sie-schlaegt-zurueck"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336560/600x0/mother-sie-schlaegt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336560/",
+            "filename": "mother-sie-schlaegt-zurueck"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336560/1200x0/mother-sie-schlaegt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336560/",
+            "filename": "mother-sie-schlaegt-zurueck"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336560/300x0/mother-sie-schlaegt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336560/",
+            "filename": "mother-sie-schlaegt-zurueck"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336560/600x0/mother-sie-schlaegt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336560/",
+            "filename": "mother-sie-schlaegt-zurueck"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336560/1200x0/mother-sie-schlaegt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336560/",
+            "filename": "mother-sie-schlaegt-zurueck"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mother-sie-schlaegt-zurueck",
+        "subheadline": "Mother - Sie schlägt zurück",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/mother-sie-schlaegt-zurueck-13171",
+        "videoId": 336560
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

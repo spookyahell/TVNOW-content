@@ -1,0 +1,109 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17600",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17600,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/date-roulette-17600/staffel-1/episode-1-das-heisse-beach-date-1580660"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Date Roulette",
+          "teaserId": "show_episode_1580660",
+          "teaserName": "Date Roulette | Staffel 1 | Folge 1 | Das heiße Beach-Date",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Real Life",
+          "cluster": [
+            "Dating"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Exklusiv",
+          "teaserEpisodeName": "Das heiße Beach-Date"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das heiße Beach-Date",
+        "id": 1580660,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1580660/300x0/das-heisse-beach-date.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1580660/",
+            "filename": "das-heisse-beach-date"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1580660/600x0/das-heisse-beach-date.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1580660/",
+            "filename": "das-heisse-beach-date"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1580660/1200x0/das-heisse-beach-date.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1580660/",
+            "filename": "das-heisse-beach-date"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1580660/300x0/das-heisse-beach-date.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1580660/",
+            "filename": "das-heisse-beach-date"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1580660/600x0/das-heisse-beach-date.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1580660/",
+            "filename": "das-heisse-beach-date"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1580660/1200x0/das-heisse-beach-date.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1580660/",
+            "filename": "das-heisse-beach-date"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "date-roulette",
+        "subheadline": "Das heiße Beach-Date",
+        "text": "Staffel 1, Folge 1 | Exklusiv",
+        "type": "show",
+        "url": "/shows/date-roulette-17600/staffel-1/episode-1-das-heisse-beach-date-1580660",
+        "videoId": 1580660
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

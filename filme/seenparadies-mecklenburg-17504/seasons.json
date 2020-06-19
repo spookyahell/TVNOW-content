@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17504",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17504,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/seenparadies-mecklenburg-17504"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Seenparadies Mecklenburg",
+          "teaserId": "film_1494615",
+          "teaserName": "Seenparadies Mecklenburg | Seenparadies Mecklenburg",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Seenparadies Mecklenburg",
+        "id": 1494615,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1494615/300x0/seenparadies-mecklenburg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1494615/",
+            "filename": "seenparadies-mecklenburg"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1494615/600x0/seenparadies-mecklenburg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1494615/",
+            "filename": "seenparadies-mecklenburg"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1494615/1200x0/seenparadies-mecklenburg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1494615/",
+            "filename": "seenparadies-mecklenburg"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1494615/300x0/seenparadies-mecklenburg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1494615/",
+            "filename": "seenparadies-mecklenburg"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1494615/600x0/seenparadies-mecklenburg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1494615/",
+            "filename": "seenparadies-mecklenburg"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1494615/1200x0/seenparadies-mecklenburg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1494615/",
+            "filename": "seenparadies-mecklenburg"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "seenparadies-mecklenburg",
+        "subheadline": "Seenparadies Mecklenburg",
+        "text": "Staffel  | Sa. 29.02.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/seenparadies-mecklenburg-17504",
+        "videoId": 1494615
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

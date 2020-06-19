@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15095",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15095,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-investigator-15095"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Investigator",
+          "teaserId": "film_355654",
+          "teaserName": "The Investigator | The Investigator",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Investigator",
+        "id": 355654,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355654/300x0/the-investigator.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355654/",
+            "filename": "the-investigator"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355654/600x0/the-investigator.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355654/",
+            "filename": "the-investigator"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355654/1200x0/the-investigator.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355654/",
+            "filename": "the-investigator"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355654/300x0/the-investigator.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355654/",
+            "filename": "the-investigator"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355654/600x0/the-investigator.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355654/",
+            "filename": "the-investigator"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355654/1200x0/the-investigator.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355654/",
+            "filename": "the-investigator"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-investigator",
+        "subheadline": "The Investigator",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-investigator-15095",
+        "videoId": 355654
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

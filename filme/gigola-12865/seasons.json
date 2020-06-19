@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12865",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12865,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/gigola-12865"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Gigola",
+          "teaserId": "film_334700",
+          "teaserName": "Gigola | Gigola",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Gigola",
+        "id": 334700,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334700/300x0/gigola.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334700/",
+            "filename": "gigola"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334700/600x0/gigola.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334700/",
+            "filename": "gigola"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334700/1200x0/gigola.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334700/",
+            "filename": "gigola"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334700/300x0/gigola.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334700/",
+            "filename": "gigola"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334700/600x0/gigola.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334700/",
+            "filename": "gigola"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/334700/1200x0/gigola.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/334700/",
+            "filename": "gigola"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "gigola",
+        "subheadline": "Gigola",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/gigola-12865",
+        "videoId": 334700
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

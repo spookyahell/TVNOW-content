@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14899",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14899,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/family-secret-14899"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Family Secret",
+          "teaserId": "film_351986",
+          "teaserName": "Family Secret | Family Secret",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Family Secret",
+        "id": 351986,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/351986/300x0/family-secret.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/351986/",
+            "filename": "family-secret"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/351986/600x0/family-secret.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/351986/",
+            "filename": "family-secret"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/351986/1200x0/family-secret.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/351986/",
+            "filename": "family-secret"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/351986/300x0/family-secret.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/351986/",
+            "filename": "family-secret"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/351986/600x0/family-secret.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/351986/",
+            "filename": "family-secret"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/351986/1200x0/family-secret.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/351986/",
+            "filename": "family-secret"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "family-secret",
+        "subheadline": "Family Secret",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/family-secret-14899",
+        "videoId": 351986
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

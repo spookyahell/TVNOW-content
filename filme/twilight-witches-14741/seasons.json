@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14741",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14741,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/twilight-witches-14741"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Twilight Witches",
+          "teaserId": "film_346120",
+          "teaserName": "Twilight Witches | Twilight Witches",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Twilight Witches",
+        "id": 346120,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346120/300x0/twilight-witches.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346120/",
+            "filename": "twilight-witches"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346120/600x0/twilight-witches.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346120/",
+            "filename": "twilight-witches"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346120/1200x0/twilight-witches.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346120/",
+            "filename": "twilight-witches"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346120/300x0/twilight-witches.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346120/",
+            "filename": "twilight-witches"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346120/600x0/twilight-witches.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346120/",
+            "filename": "twilight-witches"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/346120/1200x0/twilight-witches.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/346120/",
+            "filename": "twilight-witches"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "twilight-witches",
+        "subheadline": "Twilight Witches",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/twilight-witches-14741",
+        "videoId": 346120
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

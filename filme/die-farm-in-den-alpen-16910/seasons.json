@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16910",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16910,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-farm-in-den-alpen-16910"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Farm in den Alpen",
+          "teaserId": "film_1326469",
+          "teaserName": "Die Farm in den Alpen | Die Farm in den Alpen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Farm in den Alpen",
+        "id": 1326469,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326469/300x0/die-farm-in-den-alpen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326469/",
+            "filename": "die-farm-in-den-alpen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326469/600x0/die-farm-in-den-alpen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326469/",
+            "filename": "die-farm-in-den-alpen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326469/1200x0/die-farm-in-den-alpen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326469/",
+            "filename": "die-farm-in-den-alpen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326469/300x0/die-farm-in-den-alpen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326469/",
+            "filename": "die-farm-in-den-alpen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326469/600x0/die-farm-in-den-alpen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326469/",
+            "filename": "die-farm-in-den-alpen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326469/1200x0/die-farm-in-den-alpen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326469/",
+            "filename": "die-farm-in-den-alpen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-farm-in-den-alpen",
+        "subheadline": "Die Farm in den Alpen",
+        "text": "Staffel  | Sa. 07.03.2020, 21:05 Uhr",
+        "type": "film",
+        "url": "/filme/die-farm-in-den-alpen-16910",
+        "videoId": 1326469
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

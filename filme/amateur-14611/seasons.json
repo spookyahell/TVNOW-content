@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14611",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14611,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/amateur-14611"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Amateur",
+          "teaserId": "film_344750",
+          "teaserName": "Amateur | Amateur",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Amateur",
+        "id": 344750,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344750/300x0/amateur.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344750/",
+            "filename": "amateur"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344750/600x0/amateur.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344750/",
+            "filename": "amateur"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344750/1200x0/amateur.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344750/",
+            "filename": "amateur"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344750/300x0/amateur.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344750/",
+            "filename": "amateur"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344750/600x0/amateur.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344750/",
+            "filename": "amateur"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/344750/1200x0/amateur.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/344750/",
+            "filename": "amateur"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "amateur",
+        "subheadline": "Amateur",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/amateur-14611",
+        "videoId": 344750
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

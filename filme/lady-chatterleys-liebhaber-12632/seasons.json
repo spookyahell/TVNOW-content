@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12632",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12632,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/lady-chatterleys-liebhaber-12632"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Lady Chatterleys Liebhaber",
+          "teaserId": "film_396146",
+          "teaserName": "Lady Chatterleys Liebhaber | Lady Chatterleys Liebhaber",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Lady Chatterleys Liebhaber",
+        "id": 396146,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/396146/300x0/lady-chatterleys-liebhaber.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/396146/",
+            "filename": "lady-chatterleys-liebhaber"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/396146/600x0/lady-chatterleys-liebhaber.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/396146/",
+            "filename": "lady-chatterleys-liebhaber"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/396146/1200x0/lady-chatterleys-liebhaber.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/396146/",
+            "filename": "lady-chatterleys-liebhaber"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/396146/300x0/lady-chatterleys-liebhaber.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/396146/",
+            "filename": "lady-chatterleys-liebhaber"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/396146/600x0/lady-chatterleys-liebhaber.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/396146/",
+            "filename": "lady-chatterleys-liebhaber"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/396146/1200x0/lady-chatterleys-liebhaber.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/396146/",
+            "filename": "lady-chatterleys-liebhaber"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "lady-chatterleys-liebhaber",
+        "subheadline": "Lady Chatterleys Liebhaber",
+        "text": "Staffel  | Di. 11.02.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/lady-chatterleys-liebhaber-12632",
+        "videoId": 396146
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16909",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16909,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/last-days-in-vietnam-16909"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Last Days In Vietnam",
+          "teaserId": "film_1316794",
+          "teaserName": "Last Days In Vietnam | Last Days In Vietnam",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Last Days In Vietnam",
+        "id": 1316794,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1316794/300x0/last-days-in-vietnam.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1316794/",
+            "filename": "last-days-in-vietnam"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1316794/600x0/last-days-in-vietnam.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1316794/",
+            "filename": "last-days-in-vietnam"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1316794/1200x0/last-days-in-vietnam.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1316794/",
+            "filename": "last-days-in-vietnam"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1316794/300x0/last-days-in-vietnam.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1316794/",
+            "filename": "last-days-in-vietnam"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1316794/600x0/last-days-in-vietnam.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1316794/",
+            "filename": "last-days-in-vietnam"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1316794/1200x0/last-days-in-vietnam.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1316794/",
+            "filename": "last-days-in-vietnam"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "last-days-in-vietnam",
+        "subheadline": "Last Days In Vietnam",
+        "text": "Staffel  | Mi. 27.05.2020, 22:00 Uhr",
+        "type": "film",
+        "url": "/filme/last-days-in-vietnam-16909",
+        "videoId": 1316794
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

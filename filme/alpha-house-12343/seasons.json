@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12343",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12343,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/alpha-house-12343"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Alpha House",
+          "teaserId": "film_341320",
+          "teaserName": "Alpha House | Alpha House",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Alpha House",
+        "id": 341320,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341320/300x0/alpha-house.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341320/",
+            "filename": "alpha-house"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341320/600x0/alpha-house.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341320/",
+            "filename": "alpha-house"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341320/1200x0/alpha-house.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341320/",
+            "filename": "alpha-house"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341320/300x0/alpha-house.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341320/",
+            "filename": "alpha-house"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341320/600x0/alpha-house.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341320/",
+            "filename": "alpha-house"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/341320/1200x0/alpha-house.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/341320/",
+            "filename": "alpha-house"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "alpha-house",
+        "subheadline": "Alpha House",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/alpha-house-12343",
+        "videoId": 341320
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

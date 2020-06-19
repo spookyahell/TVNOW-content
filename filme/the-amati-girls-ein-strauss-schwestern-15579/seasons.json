@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15579",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15579,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/strauss-schwestern-ein-15579"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Amati Girls - Ein Strauß Schwestern",
+          "teaserId": "film_389298",
+          "teaserName": "The Amati Girls - Ein Strauß Schwestern | Strauss Schwestern, Ein",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Strauss Schwestern, Ein",
+        "id": 389298,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389298/300x0/strauss-schwestern-ein.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389298/",
+            "filename": "strauss-schwestern-ein"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389298/600x0/strauss-schwestern-ein.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389298/",
+            "filename": "strauss-schwestern-ein"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389298/1200x0/strauss-schwestern-ein.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389298/",
+            "filename": "strauss-schwestern-ein"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389298/300x0/strauss-schwestern-ein.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389298/",
+            "filename": "strauss-schwestern-ein"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389298/600x0/strauss-schwestern-ein.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389298/",
+            "filename": "strauss-schwestern-ein"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389298/1200x0/strauss-schwestern-ein.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389298/",
+            "filename": "strauss-schwestern-ein"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-amati-girls-ein-strauss-schwestern",
+        "subheadline": "Strauss Schwestern, Ein",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/strauss-schwestern-ein-15579",
+        "videoId": 389298
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

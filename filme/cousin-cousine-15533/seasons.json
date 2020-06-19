@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15533",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15533,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/cousin-cousine-15533"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Cousin, Cousine",
+          "teaserId": "film_387140",
+          "teaserName": "Cousin, Cousine | Cousin, Cousine",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Cousin, Cousine",
+        "id": 387140,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/387140/300x0/cousin-cousine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/387140/",
+            "filename": "cousin-cousine"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/387140/600x0/cousin-cousine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/387140/",
+            "filename": "cousin-cousine"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/387140/1200x0/cousin-cousine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/387140/",
+            "filename": "cousin-cousine"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/387140/300x0/cousin-cousine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/387140/",
+            "filename": "cousin-cousine"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/387140/600x0/cousin-cousine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/387140/",
+            "filename": "cousin-cousine"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/387140/1200x0/cousin-cousine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/387140/",
+            "filename": "cousin-cousine"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "cousin-cousine",
+        "subheadline": "Cousin, Cousine",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/cousin-cousine-15533",
+        "videoId": 387140
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

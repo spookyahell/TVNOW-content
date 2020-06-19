@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15587",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15587,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/familie-gesucht-15587"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Familie gesucht",
+          "teaserId": "film_389086",
+          "teaserName": "Familie gesucht | Familie gesucht",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Familie gesucht",
+        "id": 389086,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389086/300x0/familie-gesucht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389086/",
+            "filename": "familie-gesucht"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389086/600x0/familie-gesucht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389086/",
+            "filename": "familie-gesucht"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389086/1200x0/familie-gesucht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389086/",
+            "filename": "familie-gesucht"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389086/300x0/familie-gesucht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389086/",
+            "filename": "familie-gesucht"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389086/600x0/familie-gesucht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389086/",
+            "filename": "familie-gesucht"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/389086/1200x0/familie-gesucht.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/389086/",
+            "filename": "familie-gesucht"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "familie-gesucht",
+        "subheadline": "Familie gesucht",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/familie-gesucht-15587",
+        "videoId": 389086
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

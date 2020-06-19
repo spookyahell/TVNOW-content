@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13241",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13241,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/school-of-life-13241"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "School of Life",
+          "teaserId": "film_336660",
+          "teaserName": "School of Life | School of Life",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "School of Life",
+        "id": 336660,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336660/300x0/school-of-life.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336660/",
+            "filename": "school-of-life"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336660/600x0/school-of-life.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336660/",
+            "filename": "school-of-life"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336660/1200x0/school-of-life.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336660/",
+            "filename": "school-of-life"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336660/300x0/school-of-life.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336660/",
+            "filename": "school-of-life"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336660/600x0/school-of-life.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336660/",
+            "filename": "school-of-life"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336660/1200x0/school-of-life.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336660/",
+            "filename": "school-of-life"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "school-of-life",
+        "subheadline": "School of Life",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/school-of-life-13241",
+        "videoId": 336660
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

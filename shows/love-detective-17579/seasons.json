@@ -1,0 +1,110 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17579",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17579,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/love-detective-17579/staffel-1/episode-1-folge-1-1563523"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Love Detective",
+          "teaserId": "show_episode_1563523",
+          "teaserName": "Love Detective | Staffel 1 | Folge 1 | Folge 1",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Lifestyle"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Exklusiv",
+          "teaserEpisodeName": "Folge 1"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 1",
+        "id": 1563523,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1563523/300x0/folge-1.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1563523/",
+            "filename": "folge-1"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1563523/600x0/folge-1.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1563523/",
+            "filename": "folge-1"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1563523/1200x0/folge-1.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1563523/",
+            "filename": "folge-1"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1563523/300x0/folge-1.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1563523/",
+            "filename": "folge-1"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1563523/600x0/folge-1.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1563523/",
+            "filename": "folge-1"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1563523/1200x0/folge-1.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1563523/",
+            "filename": "folge-1"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "love-detective",
+        "subheadline": "Folge 1",
+        "text": "Staffel 1, Folge 1 | Exklusiv",
+        "type": "show",
+        "url": "/shows/love-detective-17579/staffel-1/episode-1-folge-1-1563523",
+        "videoId": 1563523
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

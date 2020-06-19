@@ -1,0 +1,212 @@
+﻿{
+  "formatId": 17392,
+  "additionalMeta": {
+    "canonical": "/shows/makel-los-17392",
+    "url": "/shows/makel-los-17392"
+  },
+  "ads": {
+    "station": "vox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "Makel? Los!",
+      "url": "/shows/makel-los-17392"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 17392,
+  "meta": [
+    {
+      "content": "Die Show ▶ Makel? Los! (VOX) streamen & weitere Highlights aus dem Genre 📺 Lifestyle im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "Makel? Los!, video, videos, online sehen, internet tv, fernsehen, video on demand, TV NOW, Mediathek, VoD, Porgramm, Vox, VOX, Makel Los, Makel los, makel los, makel, los, Schönheit, Schönheitsmakel, Experten, Hilfe, Doku-Soap",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Makel? Los! im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ Makel? Los! (VOX) streamen & weitere Highlights aus dem Genre 📺 Lifestyle im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/17392",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/17392",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/17392",
+      "type": "teaserrow"
+    },
+    {
+      "id": 17392,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/17392",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_vnmakellos",
+      "video": "dvrsowf_ten_vnmakellos",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/vox_now/formate/makellos/home",
+      "levels": [
+        "tv_now_de",
+        "vox_now",
+        "formate",
+        "makellos",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Lifestyle",
+    "cluster": [],
+    "classification": [
+      "Pre-TV"
+    ]
+  },
+  "seo": {
+    "headline": "Information zur Show: Makel? Los!",
+    "text": "Deine Lieblings-Show ist \"Makel? Los!\"? Kein Problem, bei TV NOW kannst Du sie Dir im Stream anschauen! Egal ob auf Reisen oder von zu Hause aus – mit unserer Vielzahl von Shows vergeht die Zeit wie im Flug! Einfach auswählen, zurücklehnen und Deine Lieblings-Show online bei TV NOW genießen.",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "https://www.tvnow.de/shows/makel-los-17392",
+        "url": "https://www.tvnow.de/shows/makel-los-17392",
+        "name": "Makel? Los!",
+        "description": "Die Show ▶ Makel? Los! (VOX) streamen & weitere Highlights aus dem Genre 📺 Lifestyle im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/17392_04metalogo/1200x0/makel-los.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Information zur Show: Makel? Los!",
+        "headline": "Information zur Show: Makel? Los!",
+        "description": "Die Show ▶ Makel? Los! (VOX) streamen & weitere Highlights aus dem Genre 📺 Lifestyle im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+        "url": "https://www.tvnow.de/shows/makel-los-17392",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/17392_04metalogo/1200x0/makel-los.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/17392_04metalogo/1200x0/makel-los.png",
+        "keywords": "Makel? Los!, video, videos, online sehen, internet tv, fernsehen, video on demand, TV NOW, Mediathek, VoD, Porgramm, Vox, VOX, Makel Los, Makel los, makel los, makel, los, Schönheit, Schönheitsmakel, Experten, Hilfe, Doku-Soap",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/17392_04metalogo/1200x0/makel-los.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "https://www.tvnow.de/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Makel? Los!",
+            "item": "https://www.tvnow.de/shows/makel-los-17392"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Makel? Los! im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {
+    "instagram": "https://www.instagram.com/makellos.tv/"
+  },
+  "audiences": [
+    "adults"
+  ]
+}

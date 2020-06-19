@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17754",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17754,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/harold-shipman-dr-death-17754"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Harold Shipman: Dr. Death",
+          "teaserId": "film_1641078",
+          "teaserName": "Harold Shipman: Dr. Death | Harold Shipman: Dr. Death",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [
+            "True Crime"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Harold Shipman: Dr. Death",
+        "id": 1641078,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1641078/300x0/harold-shipman-dr-death.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1641078/",
+            "filename": "harold-shipman-dr-death"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1641078/600x0/harold-shipman-dr-death.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1641078/",
+            "filename": "harold-shipman-dr-death"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1641078/1200x0/harold-shipman-dr-death.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1641078/",
+            "filename": "harold-shipman-dr-death"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1641078/300x0/harold-shipman-dr-death.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1641078/",
+            "filename": "harold-shipman-dr-death"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1641078/600x0/harold-shipman-dr-death.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1641078/",
+            "filename": "harold-shipman-dr-death"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1641078/1200x0/harold-shipman-dr-death.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1641078/",
+            "filename": "harold-shipman-dr-death"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "harold-shipman-dr-death",
+        "subheadline": "Harold Shipman: Dr. Death",
+        "text": "Staffel  | Fr. 27.09.2019, 21:45 Uhr",
+        "type": "film",
+        "url": "/filme/harold-shipman-dr-death-17754",
+        "videoId": 1641078
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

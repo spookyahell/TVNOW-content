@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13899",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13899,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/spaceship-firestar-13899"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Spaceship Firestar",
+          "teaserId": "film_339100",
+          "teaserName": "Spaceship Firestar | Spaceship Firestar",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Science Fiction",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Spaceship Firestar",
+        "id": 339100,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339100/300x0/spaceship-firestar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339100/",
+            "filename": "spaceship-firestar"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339100/600x0/spaceship-firestar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339100/",
+            "filename": "spaceship-firestar"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339100/1200x0/spaceship-firestar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339100/",
+            "filename": "spaceship-firestar"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339100/300x0/spaceship-firestar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339100/",
+            "filename": "spaceship-firestar"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339100/600x0/spaceship-firestar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339100/",
+            "filename": "spaceship-firestar"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/339100/1200x0/spaceship-firestar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/339100/",
+            "filename": "spaceship-firestar"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "spaceship-firestar",
+        "subheadline": "Spaceship Firestar",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/spaceship-firestar-13899",
+        "videoId": 339100
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

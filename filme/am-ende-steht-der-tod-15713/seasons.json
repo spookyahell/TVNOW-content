@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15713",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15713,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/am-ende-steht-der-tod-15713"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Am Ende steht der Tod",
+          "teaserId": "film_410536",
+          "teaserName": "Am Ende steht der Tod | Am Ende steht der Tod",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Am Ende steht der Tod",
+        "id": 410536,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410536/300x0/am-ende-steht-der-tod.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410536/",
+            "filename": "am-ende-steht-der-tod"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410536/600x0/am-ende-steht-der-tod.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410536/",
+            "filename": "am-ende-steht-der-tod"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410536/1200x0/am-ende-steht-der-tod.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410536/",
+            "filename": "am-ende-steht-der-tod"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410536/300x0/am-ende-steht-der-tod.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410536/",
+            "filename": "am-ende-steht-der-tod"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410536/600x0/am-ende-steht-der-tod.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410536/",
+            "filename": "am-ende-steht-der-tod"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/410536/1200x0/am-ende-steht-der-tod.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/410536/",
+            "filename": "am-ende-steht-der-tod"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "am-ende-steht-der-tod",
+        "subheadline": "Am Ende steht der Tod",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/am-ende-steht-der-tod-15713",
+        "videoId": 410536
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

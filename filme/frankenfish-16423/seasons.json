@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16423",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16423,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/frankenfish-16423"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Frankenfish",
+          "teaserId": "film_1174942",
+          "teaserName": "Frankenfish | Frankenfish",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Frankenfish",
+        "id": 1174942,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1174942/300x0/frankenfish.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1174942/",
+            "filename": "frankenfish"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1174942/600x0/frankenfish.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1174942/",
+            "filename": "frankenfish"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1174942/1200x0/frankenfish.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1174942/",
+            "filename": "frankenfish"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1174942/300x0/frankenfish.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1174942/",
+            "filename": "frankenfish"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1174942/600x0/frankenfish.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1174942/",
+            "filename": "frankenfish"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1174942/1200x0/frankenfish.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1174942/",
+            "filename": "frankenfish"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "frankenfish",
+        "subheadline": "Frankenfish",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/frankenfish-16423",
+        "videoId": 1174942
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

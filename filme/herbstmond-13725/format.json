@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 13725,
+  "additionalMeta": {
+    "canonical": "/filme/herbstmond-13725",
+    "url": "/filme/herbstmond-13725"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Herbstmond",
+      "url": "/filme/herbstmond-13725"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 13725,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Herbstmond 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Herbstmond, Spielfilm, Film, Stream, Online-Stream, TV NOW, WATCHBOX, kostenlos, Video, gratis, Drama",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Herbstmond im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Herbstmond 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 338678,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/338678",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/13725"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_drama/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_drama",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Herbstmond",
+    "text": "Bei TV NOW kannst Du den Film Herbstmond und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/herbstmond-13725",
+        "@type": "Movie",
+        "description": "Frank ist alt und leidet an beginnender Demenz. Dadurch hat er eine für ihn selbst schwere Entscheidung zu treffen: Er könnte sein restliches Leben bei seiner Familie fortführen, die sich auch stets fürsorglich um ihn kümmern und seine Wiederkehr begrüßen würde. Allerdings gehen damit auch die Sorgen einher, seiner Familie zur Last fallen zu können. Nicht nur deshalb ist die zweite Option ebenfalls durchaus verlockend: Er könnte seinen bisherigen, durchaus vergnüglichen Aufenthalt im Pflegeheim fortsetzen und so auch seinen Freundinnen June, Ella und Alice weiterhin Gesellschaft leisten. Frank zögert mit der Entscheidung, da er in der Einrichtung auch ein waschechter Hahn im Korb ist und jenen Ruf nicht ohne Weiteres missen möchte.",
+        "duration": "PT1H24M25S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/338678/950x0/herbstmond.jpg",
+        "name": "Herbstmond",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/herbstmond-13725",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-06-26T15:02:53.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/herbstmond-13725",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Frank ist alt und leidet an beginnender Demenz. Dadurch hat er eine für ihn selbst schwere Entscheidung zu treffen: Er könnte sein restliches Leben bei seiner Familie fortführen, die sich auch stets fürsorglich um ihn kümmern und seine Wiederkehr begrüßen würde. Allerdings gehen damit auch die Sorgen einher, seiner Familie zur Last fallen zu können. Nicht nur deshalb ist die zweite Option ebenfalls durchaus verlockend: Er könnte seinen bisherigen, durchaus vergnüglichen Aufenthalt im Pflegeheim fortsetzen und so auch seinen Freundinnen June, Ella und Alice weiterhin Gesellschaft leisten. Frank zögert mit der Entscheidung, da er in der Einrichtung auch ein waschechter Hahn im Korb ist und jenen Ruf nicht ohne Weiteres missen möchte.",
+          "duration": "PT1H24M25S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/herbstmond-13725",
+          "name": "Herbstmond",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/338678/950x0/herbstmond.jpg",
+          "uploadDate": "2017-06-26T15:02:53.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Herbstmond im Online Stream | TVNOW",
+        "headline": "Herbstmond im Online Stream | TVNOW",
+        "description": "Herbstmond und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Ernest Borgnine, Piper Laurie, Anne Meara.",
+        "url": "https://www.tvnow.de/filme/herbstmond-13725",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/338678/950x0/herbstmond.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/338678/950x0/herbstmond.jpg",
+        "datePublished": "2017-06-26T15:02:53.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/338678/950x0/herbstmond.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Herbstmond",
+            "item": "https://www.tvnow.de/filme/herbstmond-13725"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Herbstmond im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

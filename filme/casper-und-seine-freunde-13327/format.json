@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 13327,
+  "additionalMeta": {
+    "canonical": "/filme/casper-und-seine-freunde-13327",
+    "url": "/filme/casper-und-seine-freunde-13327"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Casper und seine Freunde",
+      "url": "/filme/casper-und-seine-freunde-13327"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 13327,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Casper und seine Freunde 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Casper und seine Freunde, Film, TV NOW, Watchbox bei TV NOW, Kinder, Geist, Freundschaft",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Casper und seine Freunde im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Casper und seine Freunde 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 337036,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/337036",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/13327"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_kinder/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_kinder",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Casper und seine Freunde",
+    "text": "Bei TV NOW kannst Du den Film Casper und seine Freunde und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/casper-und-seine-freunde-13327",
+        "@type": "Movie",
+        "description": "Casper beschließt seine Freunde zu suchen. Es dauert nicht lange und Casper lernt eine kleine Ente kenne, die nicht schwimmen kann und der freundliche Geist hilft ihr. Auch bei den Menschen will er Freunde finden, doch die Leute haben Angst vor ihm. Seht selbst ob es Casper gelingt unter den Menschen Freunde zu finden und welche Rolle der \"Mondkönig\" noch spielt...",
+        "duration": "PT56M58S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/337036/950x0/casper-und-seine-freunde.jpg",
+        "name": "Casper und seine Freunde",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/casper-und-seine-freunde-13327",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2017-07-21T20:57:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/casper-und-seine-freunde-13327",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Casper beschließt seine Freunde zu suchen. Es dauert nicht lange und Casper lernt eine kleine Ente kenne, die nicht schwimmen kann und der freundliche Geist hilft ihr. Auch bei den Menschen will er Freunde finden, doch die Leute haben Angst vor ihm. Seht selbst ob es Casper gelingt unter den Menschen Freunde zu finden und welche Rolle der \"Mondkönig\" noch spielt...",
+          "duration": "PT56M58S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/casper-und-seine-freunde-13327",
+          "name": "Casper und seine Freunde",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/337036/950x0/casper-und-seine-freunde.jpg",
+          "uploadDate": "2017-07-21T20:57:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Casper und seine Freunde im Online Stream | TVNOW",
+        "headline": "Casper und seine Freunde im Online Stream | TVNOW",
+        "description": "Casper und seine Freunde und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/casper-und-seine-freunde-13327",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/337036/950x0/casper-und-seine-freunde.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/337036/950x0/casper-und-seine-freunde.jpg",
+        "datePublished": "2017-07-21T20:57:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/337036/950x0/casper-und-seine-freunde.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Casper und seine Freunde",
+            "item": "https://www.tvnow.de/filme/casper-und-seine-freunde-13327"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Casper und seine Freunde im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

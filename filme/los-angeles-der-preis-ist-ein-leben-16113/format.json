@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 16113,
+  "additionalMeta": {
+    "canonical": "/filme/los-angeles-der-preis-ist-ein-leben-16113",
+    "url": "/filme/los-angeles-der-preis-ist-ein-leben-16113"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Los Ángeles - Der Preis ist ein Leben",
+      "url": "/filme/los-angeles-der-preis-ist-ein-leben-16113"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 16113,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Los Ángeles - Der Preis ist ein Leben 📺 und viele weitere ▶️ Filme aus dem Genre Crime findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Los Ángeles - Der Preis ist ein Leben, Film, gratis, kostenlos, Krimi, Drama, TV NOW, WATCHBOX, Grenze, Mexiko, Los Angeles",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Los Ángeles - Der Preis ist ein Leben im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Los Ángeles - Der Preis ist ein Leben 📺 und viele weitere ▶️ Filme aus dem Genre Crime findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 577772,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/577772",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/16113"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_krimi/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_krimi",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Crime",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Los Ángeles - Der Preis ist ein Leben",
+    "text": "Bei TV NOW kannst Du den Film Los Ángeles - Der Preis ist ein Leben und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/los-angeles-der-preis-ist-ein-leben-16113",
+        "@type": "Movie",
+        "description": "Der 17jährige Mateo hat einen Traum - er will unbedingt nach Los Angeles. Dort will er arbeiten, um seine Mutter und seinen kleinen Bruder zuhause finanziell unterstützen zu können. Die einzige Möglichkeit, das kleine zapotekischen Dorf im Süden Mexikos verlassen zu können, ist, sich für viel Geld über die mexikanische Grenze schleusen zu lassen.\nAuf der Suche nach Schutz und Zugehörigkeit auf der anderen Seite der Grenze entscheidet er sich vor seiner Abreise in eine Gang einzutreten, die auch im Dorf Mitglieder hat. Doch nach dem Aufnahmeritual erfährt er den wahren Preis für seine Mitgliedschaft: er muss ein Mitglied einer rivalisierenden Gang töten. Anfangs tut Mateo alles, um sich den Respekt der Gang zu verdienen, aber im letzten Moment ist er unfähig den Mord auszuführen und lässt die Waffe sinken. Der Anführer der Gang ist außer sich und schwört bittere Rache...",
+        "duration": "PT1H35M45S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/577772/950x0/los-angeles-der-preis-ist-ein-leben.jpg",
+        "name": "Los Ángeles - Der Preis ist ein Leben",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/los-angeles-der-preis-ist-ein-leben-16113",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2018-05-31T23:47:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/los-angeles-der-preis-ist-ein-leben-16113",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Der 17jährige Mateo hat einen Traum - er will unbedingt nach Los Angeles. Dort will er arbeiten, um seine Mutter und seinen kleinen Bruder zuhause finanziell unterstützen zu können. Die einzige Möglichkeit, das kleine zapotekischen Dorf im Süden Mexikos verlassen zu können, ist, sich für viel Geld über die mexikanische Grenze schleusen zu lassen.\nAuf der Suche nach Schutz und Zugehörigkeit auf der anderen Seite der Grenze entscheidet er sich vor seiner Abreise in eine Gang einzutreten, die auch im Dorf Mitglieder hat. Doch nach dem Aufnahmeritual erfährt er den wahren Preis für seine Mitgliedschaft: er muss ein Mitglied einer rivalisierenden Gang töten. Anfangs tut Mateo alles, um sich den Respekt der Gang zu verdienen, aber im letzten Moment ist er unfähig den Mord auszuführen und lässt die Waffe sinken. Der Anführer der Gang ist außer sich und schwört bittere Rache...",
+          "duration": "PT1H35M45S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/los-angeles-der-preis-ist-ein-leben-16113",
+          "name": "Los Ángeles - Der Preis ist ein Leben",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/577772/950x0/los-angeles-der-preis-ist-ein-leben.jpg",
+          "uploadDate": "2018-05-31T23:47:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Los Ángeles - Der Preis ist ein Leben im Online Stream | TVNOW",
+        "headline": "Los Ángeles - Der Preis ist ein Leben im Online Stream | TVNOW",
+        "description": "Los Ángeles - Der Preis ist ein Leben und viele weitere  ▶️Filme aus dem Genre Crime findest du im Online Stream bei TVNOW. Ein Film mit ▶️Mateo Bautista Matías, Marcos Rodríguez Ruíz, Lidia García, Daniel Bautista, Donaciano Bautista Matías.",
+        "url": "https://www.tvnow.de/filme/los-angeles-der-preis-ist-ein-leben-16113",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/577772/950x0/los-angeles-der-preis-ist-ein-leben.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/577772/950x0/los-angeles-der-preis-ist-ein-leben.jpg",
+        "datePublished": "2018-05-31T23:47:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/577772/950x0/los-angeles-der-preis-ist-ein-leben.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Los Ángeles - Der Preis ist ein Leben",
+            "item": "https://www.tvnow.de/filme/los-angeles-der-preis-ist-ein-leben-16113"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Los Ángeles - Der Preis ist ein Leben im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

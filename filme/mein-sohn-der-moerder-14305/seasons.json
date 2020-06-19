@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14305",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14305,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mein-sohn-der-moerder-14305"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mein Sohn, der Mörder",
+          "teaserId": "film_343216",
+          "teaserName": "Mein Sohn, der Mörder | Mein Sohn, der Mörder",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mein Sohn, der Mörder",
+        "id": 343216,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343216/300x0/mein-sohn-der-moerder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343216/",
+            "filename": "mein-sohn-der-moerder"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343216/600x0/mein-sohn-der-moerder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343216/",
+            "filename": "mein-sohn-der-moerder"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343216/1200x0/mein-sohn-der-moerder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343216/",
+            "filename": "mein-sohn-der-moerder"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343216/300x0/mein-sohn-der-moerder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343216/",
+            "filename": "mein-sohn-der-moerder"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343216/600x0/mein-sohn-der-moerder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343216/",
+            "filename": "mein-sohn-der-moerder"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/343216/1200x0/mein-sohn-der-moerder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/343216/",
+            "filename": "mein-sohn-der-moerder"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mein-sohn-der-moerder",
+        "subheadline": "Mein Sohn, der Mörder",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/mein-sohn-der-moerder-14305",
+        "videoId": 343216
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

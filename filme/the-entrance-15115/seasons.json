@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/15115",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 15115,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-entrance-15115"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Entrance",
+          "teaserId": "film_355838",
+          "teaserName": "The Entrance | The Entrance",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Horror",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Entrance",
+        "id": 355838,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355838/300x0/the-entrance.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355838/",
+            "filename": "the-entrance"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355838/600x0/the-entrance.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355838/",
+            "filename": "the-entrance"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355838/1200x0/the-entrance.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355838/",
+            "filename": "the-entrance"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355838/300x0/the-entrance.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355838/",
+            "filename": "the-entrance"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355838/600x0/the-entrance.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355838/",
+            "filename": "the-entrance"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/355838/1200x0/the-entrance.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/355838/",
+            "filename": "the-entrance"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-entrance",
+        "subheadline": "The Entrance",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/the-entrance-15115",
+        "videoId": 355838
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

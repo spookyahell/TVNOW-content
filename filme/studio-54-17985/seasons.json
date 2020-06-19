@@ -1,0 +1,106 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17985",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17985,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/studio-54-17985"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Studio 54",
+          "teaserId": "film_1891623",
+          "teaserName": "Studio 54 | Studio 54",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Promis",
+            "History"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Studio 54",
+        "id": 1891623,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1891623/300x0/studio-54.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1891623/",
+            "filename": "studio-54"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1891623/600x0/studio-54.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1891623/",
+            "filename": "studio-54"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1891623/1200x0/studio-54.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1891623/",
+            "filename": "studio-54"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1891623/300x0/studio-54.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1891623/",
+            "filename": "studio-54"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1891623/600x0/studio-54.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1891623/",
+            "filename": "studio-54"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1891623/1200x0/studio-54.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1891623/",
+            "filename": "studio-54"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "studio-54",
+        "subheadline": "Studio 54",
+        "text": "Staffel  | Di. 16.06.2020, 09:20 Uhr",
+        "type": "film",
+        "url": "/filme/studio-54-17985",
+        "videoId": 1891623
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

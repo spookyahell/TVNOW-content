@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 15951,
+  "additionalMeta": {
+    "canonical": "/filme/mrs-winterbourne-15951",
+    "url": "/filme/mrs-winterbourne-15951"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Mrs. Winterbourne",
+      "url": "/filme/mrs-winterbourne-15951"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 15951,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Mrs. Winterbourne 📺 und viele weitere ▶️ Filme aus dem Genre Romantik findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Mrs. Winterbourne, Film, TV NOW, Watchbox bei TV NOW, Komödie, Romantik, Drama, Zugunflück, Schwiegermutter, Familie, Verwechslung, Geheimnis",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Mrs. Winterbourne im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Mrs. Winterbourne 📺 und viele weitere ▶️ Filme aus dem Genre Romantik findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 424616,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/424616",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/15951"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnfilme",
+      "video": "dvrsowf_ten_wbnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Mrs. Winterbourne",
+    "text": "Bei TV NOW kannst Du den Film Mrs. Winterbourne und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/mrs-winterbourne-15951",
+        "@type": "Movie",
+        "description": "Ohne einen Cent in der Tasche landet die Ausreißerin Connie in New York genau bei dem Falschen: Steve ist ein gewissenloser Ganove, der nichts mehr von der 18jährigen wissen will, als sie schwanger wird. Frustriert kehrt Connie dem Großstadtdschungel den Rücken. Doch der Zug, mit dem sie in eine ungewisse Zukunft aufbricht, verunglückt. Als sie im Krankenhaus wieder aufwacht, wird sie als \"Patricia Winterbourne\" begrüßt. Keine schlechte Verwechslung - denn die steinreichen Winterbournes leben in einem wahren Palast! Die neue \"Schwiegermutter\" Grace kümmert sich rührend um Connie, und der charmante Bill himmelt sie an. Alles wunderbar - wäre da nicht wieder der Schurke Steve, der Connie mit ihrer geheimen Vergangenheit erpresst ...",
+        "duration": "PT1H41M37S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/424616/950x0/mrs-winterbourne.jpg",
+        "name": "Mrs. Winterbourne",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/mrs-winterbourne-15951",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2018-04-09T21:02:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/mrs-winterbourne-15951",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Ohne einen Cent in der Tasche landet die Ausreißerin Connie in New York genau bei dem Falschen: Steve ist ein gewissenloser Ganove, der nichts mehr von der 18jährigen wissen will, als sie schwanger wird. Frustriert kehrt Connie dem Großstadtdschungel den Rücken. Doch der Zug, mit dem sie in eine ungewisse Zukunft aufbricht, verunglückt. Als sie im Krankenhaus wieder aufwacht, wird sie als \"Patricia Winterbourne\" begrüßt. Keine schlechte Verwechslung - denn die steinreichen Winterbournes leben in einem wahren Palast! Die neue \"Schwiegermutter\" Grace kümmert sich rührend um Connie, und der charmante Bill himmelt sie an. Alles wunderbar - wäre da nicht wieder der Schurke Steve, der Connie mit ihrer geheimen Vergangenheit erpresst ...",
+          "duration": "PT1H41M37S",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/mrs-winterbourne-15951",
+          "name": "Mrs. Winterbourne",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/424616/950x0/mrs-winterbourne.jpg",
+          "uploadDate": "2018-04-09T21:02:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Mrs. Winterbourne im Online Stream | TVNOW",
+        "headline": "Mrs. Winterbourne im Online Stream | TVNOW",
+        "description": "Mrs. Winterbourne und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei TVNOW. Ein Film mit ▶️Ricki Lake, Brendan Fraser, Shirley MacLaine.",
+        "url": "https://www.tvnow.de/filme/mrs-winterbourne-15951",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/424616/950x0/mrs-winterbourne.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/424616/950x0/mrs-winterbourne.jpg",
+        "datePublished": "2018-04-09T21:02:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/424616/950x0/mrs-winterbourne.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mrs. Winterbourne",
+            "item": "https://www.tvnow.de/filme/mrs-winterbourne-15951"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Mrs. Winterbourne im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

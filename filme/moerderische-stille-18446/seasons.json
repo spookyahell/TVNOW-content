@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18446",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18446,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/moerderische-stille-18446"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mörderische Stille",
+          "teaserId": "film_3063453",
+          "teaserName": "Mörderische Stille | Mörderische Stille",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mörderische Stille",
+        "id": 3063453,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063453/300x0/moerderische-stille.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063453/",
+            "filename": "moerderische-stille"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063453/600x0/moerderische-stille.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063453/",
+            "filename": "moerderische-stille"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063453/1200x0/moerderische-stille.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063453/",
+            "filename": "moerderische-stille"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063453/300x0/moerderische-stille.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063453/",
+            "filename": "moerderische-stille"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063453/600x0/moerderische-stille.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063453/",
+            "filename": "moerderische-stille"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3063453/1200x0/moerderische-stille.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3063453/",
+            "filename": "moerderische-stille"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "moerderische-stille",
+        "subheadline": "Mörderische Stille",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/moerderische-stille-18446",
+        "videoId": 3063453
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

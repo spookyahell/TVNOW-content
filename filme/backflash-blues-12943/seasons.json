@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12943",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12943,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/backflash-blues-12943"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Backflash Blues",
+          "teaserId": "film_335002",
+          "teaserName": "Backflash Blues | Backflash Blues",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Backflash Blues",
+        "id": 335002,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335002/300x0/backflash-blues.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335002/",
+            "filename": "backflash-blues"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335002/600x0/backflash-blues.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335002/",
+            "filename": "backflash-blues"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335002/1200x0/backflash-blues.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335002/",
+            "filename": "backflash-blues"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335002/300x0/backflash-blues.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335002/",
+            "filename": "backflash-blues"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335002/600x0/backflash-blues.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335002/",
+            "filename": "backflash-blues"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/335002/1200x0/backflash-blues.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/335002/",
+            "filename": "backflash-blues"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "backflash-blues",
+        "subheadline": "Backflash Blues",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/backflash-blues-12943",
+        "videoId": 335002
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

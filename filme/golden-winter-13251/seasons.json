@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13251",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13251,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/golden-winter-13251"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Golden Winter",
+          "teaserId": "film_336676",
+          "teaserName": "Golden Winter | Golden Winter",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Golden Winter",
+        "id": 336676,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336676/300x0/golden-winter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336676/",
+            "filename": "golden-winter"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336676/600x0/golden-winter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336676/",
+            "filename": "golden-winter"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336676/1200x0/golden-winter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336676/",
+            "filename": "golden-winter"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336676/300x0/golden-winter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336676/",
+            "filename": "golden-winter"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336676/600x0/golden-winter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336676/",
+            "filename": "golden-winter"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/336676/1200x0/golden-winter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/336676/",
+            "filename": "golden-winter"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "golden-winter",
+        "subheadline": "Golden Winter",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/golden-winter-13251",
+        "videoId": 336676
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17008",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17008,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-fall-anthony-weiner-17008"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Fall Anthony Weiner",
+          "teaserId": "film_1326550",
+          "teaserName": "Der Fall Anthony Weiner | Der Fall Anthony Weiner",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Fall Anthony Weiner",
+        "id": 1326550,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326550/300x0/der-fall-anthony-weiner.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326550/",
+            "filename": "der-fall-anthony-weiner"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326550/600x0/der-fall-anthony-weiner.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326550/",
+            "filename": "der-fall-anthony-weiner"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326550/1200x0/der-fall-anthony-weiner.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326550/",
+            "filename": "der-fall-anthony-weiner"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326550/300x0/der-fall-anthony-weiner.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326550/",
+            "filename": "der-fall-anthony-weiner"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326550/600x0/der-fall-anthony-weiner.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326550/",
+            "filename": "der-fall-anthony-weiner"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1326550/1200x0/der-fall-anthony-weiner.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1326550/",
+            "filename": "der-fall-anthony-weiner"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-fall-anthony-weiner",
+        "subheadline": "Der Fall Anthony Weiner",
+        "text": "Staffel  | So. 24.05.2020, 00:30 Uhr",
+        "type": "film",
+        "url": "/filme/der-fall-anthony-weiner-17008",
+        "videoId": 1326550
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

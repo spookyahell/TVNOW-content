@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/13327",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 13327,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/casper-und-seine-freunde-13327"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Casper und seine Freunde",
+          "teaserId": "film_337036",
+          "teaserName": "Casper und seine Freunde | Casper und seine Freunde",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Casper und seine Freunde",
+        "id": 337036,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337036/300x0/casper-und-seine-freunde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337036/",
+            "filename": "casper-und-seine-freunde"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337036/600x0/casper-und-seine-freunde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337036/",
+            "filename": "casper-und-seine-freunde"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337036/1200x0/casper-und-seine-freunde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337036/",
+            "filename": "casper-und-seine-freunde"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337036/300x0/casper-und-seine-freunde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337036/",
+            "filename": "casper-und-seine-freunde"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337036/600x0/casper-und-seine-freunde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337036/",
+            "filename": "casper-und-seine-freunde"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/337036/1200x0/casper-und-seine-freunde.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/337036/",
+            "filename": "casper-und-seine-freunde"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "casper-und-seine-freunde",
+        "subheadline": "Casper und seine Freunde",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/casper-und-seine-freunde-13327",
+        "videoId": 337036
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

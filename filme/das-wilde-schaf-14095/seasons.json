@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14095",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14095,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/das-wilde-schaf-14095"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das wilde Schaf",
+          "teaserId": "film_340446",
+          "teaserName": "Das wilde Schaf | Das wilde Schaf",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das wilde Schaf",
+        "id": 340446,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/340446/300x0/das-wilde-schaf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/340446/",
+            "filename": "das-wilde-schaf"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/340446/600x0/das-wilde-schaf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/340446/",
+            "filename": "das-wilde-schaf"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/340446/1200x0/das-wilde-schaf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/340446/",
+            "filename": "das-wilde-schaf"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/340446/300x0/das-wilde-schaf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/340446/",
+            "filename": "das-wilde-schaf"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/340446/600x0/das-wilde-schaf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/340446/",
+            "filename": "das-wilde-schaf"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/340446/1200x0/das-wilde-schaf.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/340446/",
+            "filename": "das-wilde-schaf"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-wilde-schaf",
+        "subheadline": "Das wilde Schaf",
+        "text": "Staffel  | WATCHBOX",
+        "type": "film",
+        "url": "/filme/das-wilde-schaf-14095",
+        "videoId": 340446
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

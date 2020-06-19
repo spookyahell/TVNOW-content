@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16951",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16951,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-fitness-formel-16951"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Fitness-Formel",
+          "teaserId": "film_1316984",
+          "teaserName": "Die Fitness-Formel | Die Fitness-Formel",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Fitness-Formel",
+        "id": 1316984,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1316984/300x0/die-fitness-formel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1316984/",
+            "filename": "die-fitness-formel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1316984/600x0/die-fitness-formel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1316984/",
+            "filename": "die-fitness-formel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1316984/1200x0/die-fitness-formel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1316984/",
+            "filename": "die-fitness-formel"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1316984/300x0/die-fitness-formel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1316984/",
+            "filename": "die-fitness-formel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1316984/600x0/die-fitness-formel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1316984/",
+            "filename": "die-fitness-formel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1316984/1200x0/die-fitness-formel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1316984/",
+            "filename": "die-fitness-formel"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-fitness-formel",
+        "subheadline": "Die Fitness-Formel",
+        "text": "Staffel  | Do. 18.06.2020, 21:10 Uhr",
+        "type": "film",
+        "url": "/filme/die-fitness-formel-16951",
+        "videoId": 1316984
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]
