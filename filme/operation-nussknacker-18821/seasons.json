@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18821",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18821,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/operation-nussknacker-18821"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Operation: Nussknacker",
+          "teaserId": "film_3289207",
+          "teaserName": "Operation: Nussknacker | Operation: Nussknacker",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [
+            "Kids"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Operation: Nussknacker",
+        "id": 3289207,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3289207/300x0/operation-nussknacker.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3289207/",
+            "filename": "operation-nussknacker"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3289207/600x0/operation-nussknacker.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3289207/",
+            "filename": "operation-nussknacker"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3289207/1200x0/operation-nussknacker.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3289207/",
+            "filename": "operation-nussknacker"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3289207/300x0/operation-nussknacker.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3289207/",
+            "filename": "operation-nussknacker"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3289207/600x0/operation-nussknacker.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3289207/",
+            "filename": "operation-nussknacker"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3289207/1200x0/operation-nussknacker.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3289207/",
+            "filename": "operation-nussknacker"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "operation-nussknacker",
+        "subheadline": "Operation: Nussknacker",
+        "text": "Staffel  | Mo. 29.06.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/operation-nussknacker-18821",
+        "videoId": 3289207
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

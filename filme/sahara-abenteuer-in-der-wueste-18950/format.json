@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18950,
+  "additionalMeta": {
+    "canonical": "/filme/sahara-abenteuer-in-der-wueste-18950",
+    "url": "/filme/sahara-abenteuer-in-der-wueste-18950"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Sahara - Abenteuer in der Wüste",
+      "url": "/filme/sahara-abenteuer-in-der-wueste-18950"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18950,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Sahara - Abenteuer in der Wüste 📺 und viele weitere ▶️ Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Sahara - Abenteuer in der Wüste im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Sahara - Abenteuer in der Wüste 📺 und viele weitere ▶️ Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3331139,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3331139",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18950"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_abenteuer/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_abenteuer",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Abenteuer",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Sahara - Abenteuer in der Wüste - Informationen zum Film",
+    "text": "Abenteurer Dirk Pitt und sein Partner Al reisen nach Mali, Afrika, um dort einen im Jahr 1865 versenkten Goldschatz aufzuspüren. Doch schnell entwickelt sich die Suche nach den begehrten Münzen zu einer mörderischen Mission. Unerschrocken und actionreich nehmen Dirk und Al es in den dortigen Bürgerkriegswirren mit afrikanischen Despoten und französischen Industriellen auf und retten der schönen Ärztin Eva spektakulär das Leben.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/sahara-abenteuer-in-der-wueste-18950",
+        "@type": "Movie",
+        "description": "Abenteurer Dirk Pitt und sein Partner Al reisen nach Mali, Afrika, um dort einen im Jahr 1865 versenkten Goldschatz aufzuspüren. Doch schnell entwickelt sich die Suche nach den begehrten Münzen zu einer mörderischen Mission. Unerschrocken und actionreich nehmen Dirk und Al es in den dortigen Bürgerkriegswirren mit afrikanischen Despoten und französischen Industriellen auf und retten der schönen Ärztin Eva spektakulär das Leben.",
+        "duration": "PT1H58M50S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3331139/950x0/sahara-abenteuer-in-der-wueste.jpg",
+        "name": "Sahara - Abenteuer in der Wüste",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/sahara-abenteuer-in-der-wueste-18950",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-20T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=sahara-abenteuer-in-der-wueste-18950",
+              "sameAs": "%s/premium?typ=format&formatname=sahara-abenteuer-in-der-wueste-18950",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/sahara-abenteuer-in-der-wueste-18950",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Abenteurer Dirk Pitt und sein Partner Al reisen nach Mali, Afrika, um dort einen im Jahr 1865 versenkten Goldschatz aufzuspüren. Doch schnell entwickelt sich die Suche nach den begehrten Münzen zu einer mörderischen Mission. Unerschrocken und actionreich nehmen Dirk und Al es in den dortigen Bürgerkriegswirren mit afrikanischen Despoten und französischen Industriellen auf und retten der schönen Ärztin Eva spektakulär das Leben.",
+          "duration": "PT1H58M50S",
+          "embedUrl": "%s/googlebot/player/filme/sahara-abenteuer-in-der-wueste-18950",
+          "name": "Sahara - Abenteuer in der Wüste",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3331139/950x0/sahara-abenteuer-in-der-wueste.jpg",
+          "uploadDate": "2020-08-20T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Sahara - Abenteuer in der Wüste im Online Stream | TVNOW",
+        "headline": "Sahara - Abenteuer in der Wüste im Online Stream | TVNOW",
+        "description": "Sahara - Abenteuer in der Wüste und viele weitere  ▶️Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW. Ein Film mit ▶️Matthew McConaughey, Penélope Cruz, Steve Zahn, Lambert Wilson, Glynn Turman, Delroy Lindo, William H. Macy, Lennie James.",
+        "url": "%s/filme/sahara-abenteuer-in-der-wueste-18950",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3331139/950x0/sahara-abenteuer-in-der-wueste.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3331139/950x0/sahara-abenteuer-in-der-wueste.jpg",
+        "datePublished": "2020-08-20T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3331139/950x0/sahara-abenteuer-in-der-wueste.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sahara - Abenteuer in der Wüste",
+            "item": "%s/filme/sahara-abenteuer-in-der-wueste-18950"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Sahara - Abenteuer in der Wüste im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

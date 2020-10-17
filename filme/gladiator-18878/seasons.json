@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18878",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18878,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/gladiator-18878"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Gladiator",
+          "teaserId": "film_3324713",
+          "teaserName": "Gladiator | Gladiator",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Gladiator",
+        "id": 3324713,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324713/300x0/gladiator.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324713/",
+            "filename": "gladiator"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324713/600x0/gladiator.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324713/",
+            "filename": "gladiator"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324713/1200x0/gladiator.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324713/",
+            "filename": "gladiator"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324713/300x0/gladiator.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324713/",
+            "filename": "gladiator"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324713/600x0/gladiator.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324713/",
+            "filename": "gladiator"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324713/1200x0/gladiator.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324713/",
+            "filename": "gladiator"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "gladiator",
+        "subheadline": "Gladiator",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/gladiator-18878",
+        "videoId": 3324713
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

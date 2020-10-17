@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19008",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19008,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/vergiss-und-vergib-19008"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Vergiss und vergib",
+          "teaserId": "film_3327768",
+          "teaserName": "Vergiss und vergib | Vergiss und vergib",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Vergiss und vergib",
+        "id": 3327768,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327768/300x0/vergiss-und-vergib.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327768/",
+            "filename": "vergiss-und-vergib"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327768/600x0/vergiss-und-vergib.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327768/",
+            "filename": "vergiss-und-vergib"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327768/1200x0/vergiss-und-vergib.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327768/",
+            "filename": "vergiss-und-vergib"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327768/300x0/vergiss-und-vergib.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327768/",
+            "filename": "vergiss-und-vergib"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327768/600x0/vergiss-und-vergib.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327768/",
+            "filename": "vergiss-und-vergib"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327768/1200x0/vergiss-und-vergib.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327768/",
+            "filename": "vergiss-und-vergib"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "vergiss-und-vergib",
+        "subheadline": "Vergiss und vergib",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/vergiss-und-vergib-19008",
+        "videoId": 3327768
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

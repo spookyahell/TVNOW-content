@@ -30,7 +30,7 @@
           "teaserFormatName": "Sing meinen Song - Das Tauschkonzert",
           "teaserId": "show_episode_3127613",
           "teaserName": "Sing meinen Song - Das Tauschkonzert | Staffel 7 | Folge 1 | Folge 1: Max Giesinger",
-          "teaserPayType": "free",
+          "teaserPayType": "paid",
           "teaserType": "show_episode",
           "teaserGenre": "Musik",
           "cluster": [
@@ -91,7 +91,7 @@
             "filename": "folge-1-max-giesinger"
           }
         ],
-        "isPremium": false,
+        "isPremium": true,
         "overlays": [
           "premium"
         ],
@@ -121,7 +121,7 @@
           "teaserFormatName": "Sing meinen Song - Das Tauschkonzert",
           "teaserId": "show_episode_3137701",
           "teaserName": "Sing meinen Song - Das Tauschkonzert | Staffel 7 | Folge 2 | Folge 2: Nico Santos",
-          "teaserPayType": "free",
+          "teaserPayType": "paid",
           "teaserType": "show_episode",
           "teaserGenre": "Musik",
           "cluster": [
@@ -182,7 +182,7 @@
             "filename": "folge-2-nico-santos"
           }
         ],
-        "isPremium": false,
+        "isPremium": true,
         "overlays": [
           "premium"
         ],
@@ -212,7 +212,7 @@
           "teaserFormatName": "Sing meinen Song - Das Tauschkonzert",
           "teaserId": "show_episode_3147866",
           "teaserName": "Sing meinen Song - Das Tauschkonzert | Staffel 7 | Folge 3 | Ilse DeLange",
-          "teaserPayType": "free",
+          "teaserPayType": "paid",
           "teaserType": "show_episode",
           "teaserGenre": "Musik",
           "cluster": [
@@ -273,7 +273,7 @@
             "filename": "ilse-delange"
           }
         ],
-        "isPremium": false,
+        "isPremium": true,
         "overlays": [
           "premium"
         ],
@@ -303,7 +303,7 @@
           "teaserFormatName": "Sing meinen Song - Das Tauschkonzert",
           "teaserId": "show_episode_3153929",
           "teaserName": "Sing meinen Song - Das Tauschkonzert | Staffel 7 | Folge 4 | MoTrip",
-          "teaserPayType": "free",
+          "teaserPayType": "paid",
           "teaserType": "show_episode",
           "teaserGenre": "Musik",
           "cluster": [
@@ -364,7 +364,7 @@
             "filename": "motrip"
           }
         ],
-        "isPremium": false,
+        "isPremium": true,
         "overlays": [
           "premium"
         ],
@@ -465,6 +465,550 @@
         "type": "show",
         "url": "/shows/sing-meinen-song-das-tauschkonzert-7007/staffel-7/episode-5-jan-plewka-selig-3164803",
         "videoId": 3164803
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 7007,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/sing-meinen-song-das-tauschkonzert-7007/staffel-7/episode-spezial-die-lustigsten-momente-3180264"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sing meinen Song - Das Tauschkonzert",
+          "teaserId": "show_episode_3180264",
+          "teaserName": "Sing meinen Song - Das Tauschkonzert | Staffel 7 | Die lustigsten Momente",
+          "teaserPayType": "free",
+          "teaserType": "show_episode",
+          "teaserGenre": "Musik",
+          "cluster": [
+            "Promis"
+          ],
+          "classification": [
+            "Pre-TV"
+          ],
+          "teaserSeason": "Staffel 7",
+          "teaserEpisodeAirtime": "Di. 09.06.2020, 20:15 Uhr",
+          "teaserEpisodeName": "Die lustigsten Momente"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die lustigsten Momente",
+        "id": 3180264,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3180264/300x0/die-lustigsten-momente.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3180264/",
+            "filename": "die-lustigsten-momente"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3180264/600x0/die-lustigsten-momente.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3180264/",
+            "filename": "die-lustigsten-momente"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3180264/1200x0/die-lustigsten-momente.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3180264/",
+            "filename": "die-lustigsten-momente"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3180264/300x0/die-lustigsten-momente.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3180264/",
+            "filename": "die-lustigsten-momente"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3180264/600x0/die-lustigsten-momente.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3180264/",
+            "filename": "die-lustigsten-momente"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3180264/1200x0/die-lustigsten-momente.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3180264/",
+            "filename": "die-lustigsten-momente"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sing-meinen-song-das-tauschkonzert",
+        "subheadline": "Die lustigsten Momente",
+        "text": "Staffel 7 | Di. 09.06.2020, 20:15 Uhr",
+        "type": "show",
+        "url": "/shows/sing-meinen-song-das-tauschkonzert-7007/staffel-7/episode-spezial-die-lustigsten-momente-3180264",
+        "videoId": 3180264
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 7007,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/sing-meinen-song-das-tauschkonzert-7007/staffel-7/episode-6-lea-3199037"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sing meinen Song - Das Tauschkonzert",
+          "teaserId": "show_episode_3199037",
+          "teaserName": "Sing meinen Song - Das Tauschkonzert | Staffel 7 | Folge 6 | LEA",
+          "teaserPayType": "free",
+          "teaserType": "show_episode",
+          "teaserGenre": "Musik",
+          "cluster": [
+            "Promis"
+          ],
+          "classification": [
+            "Pre-TV"
+          ],
+          "teaserSeason": "Staffel 7",
+          "teaserEpisodeNumber": "Folge 6",
+          "teaserEpisodeAirtime": "Di. 16.06.2020, 20:15 Uhr",
+          "teaserEpisodeName": "LEA"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "LEA",
+        "id": 3199037,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3199037/300x0/lea.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3199037/",
+            "filename": "lea"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3199037/600x0/lea.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3199037/",
+            "filename": "lea"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3199037/1200x0/lea.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3199037/",
+            "filename": "lea"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3199037/300x0/lea.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3199037/",
+            "filename": "lea"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3199037/600x0/lea.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3199037/",
+            "filename": "lea"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3199037/1200x0/lea.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3199037/",
+            "filename": "lea"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sing-meinen-song-das-tauschkonzert",
+        "subheadline": "LEA",
+        "text": "Staffel 7, Folge 6 | Di. 16.06.2020, 20:15 Uhr",
+        "type": "show",
+        "url": "/shows/sing-meinen-song-das-tauschkonzert-7007/staffel-7/episode-6-lea-3199037",
+        "videoId": 3199037
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 7007,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/sing-meinen-song-das-tauschkonzert-7007/staffel-7/episode-7-michael-patrick-kelly-3210221"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sing meinen Song - Das Tauschkonzert",
+          "teaserId": "show_episode_3210221",
+          "teaserName": "Sing meinen Song - Das Tauschkonzert | Staffel 7 | Folge 7 | Michael Patrick Kelly",
+          "teaserPayType": "free",
+          "teaserType": "show_episode",
+          "teaserGenre": "Musik",
+          "cluster": [
+            "Promis"
+          ],
+          "classification": [
+            "Pre-TV"
+          ],
+          "teaserSeason": "Staffel 7",
+          "teaserEpisodeNumber": "Folge 7",
+          "teaserEpisodeAirtime": "Di. 23.06.2020, 20:15 Uhr",
+          "teaserEpisodeName": "Michael Patrick Kelly"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Michael Patrick Kelly",
+        "id": 3210221,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3210221/300x0/michael-patrick-kelly.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3210221/",
+            "filename": "michael-patrick-kelly"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3210221/600x0/michael-patrick-kelly.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3210221/",
+            "filename": "michael-patrick-kelly"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3210221/1200x0/michael-patrick-kelly.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3210221/",
+            "filename": "michael-patrick-kelly"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3210221/300x0/michael-patrick-kelly.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3210221/",
+            "filename": "michael-patrick-kelly"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3210221/600x0/michael-patrick-kelly.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3210221/",
+            "filename": "michael-patrick-kelly"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3210221/1200x0/michael-patrick-kelly.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3210221/",
+            "filename": "michael-patrick-kelly"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sing-meinen-song-das-tauschkonzert",
+        "subheadline": "Michael Patrick Kelly",
+        "text": "Staffel 7, Folge 7 | Di. 23.06.2020, 20:15 Uhr",
+        "type": "show",
+        "url": "/shows/sing-meinen-song-das-tauschkonzert-7007/staffel-7/episode-7-michael-patrick-kelly-3210221",
+        "videoId": 3210221
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 7007,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/sing-meinen-song-das-tauschkonzert-7007/staffel-7/episode-8-duette-staffel-vii-3222805"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sing meinen Song - Das Tauschkonzert",
+          "teaserId": "show_episode_3222805",
+          "teaserName": "Sing meinen Song - Das Tauschkonzert | Staffel 7 | Folge 8 | Duette (Staffel VII)",
+          "teaserPayType": "free",
+          "teaserType": "show_episode",
+          "teaserGenre": "Musik",
+          "cluster": [
+            "Promis"
+          ],
+          "classification": [
+            "Pre-TV"
+          ],
+          "teaserSeason": "Staffel 7",
+          "teaserEpisodeNumber": "Folge 8",
+          "teaserEpisodeAirtime": "Di. 30.06.2020, 20:15 Uhr",
+          "teaserEpisodeName": "Duette (Staffel VII)"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Duette (Staffel VII)",
+        "id": 3222805,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3222805/300x0/duette-staffel-vii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3222805/",
+            "filename": "duette-staffel-vii"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3222805/600x0/duette-staffel-vii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3222805/",
+            "filename": "duette-staffel-vii"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3222805/1200x0/duette-staffel-vii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3222805/",
+            "filename": "duette-staffel-vii"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3222805/300x0/duette-staffel-vii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3222805/",
+            "filename": "duette-staffel-vii"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3222805/600x0/duette-staffel-vii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3222805/",
+            "filename": "duette-staffel-vii"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3222805/1200x0/duette-staffel-vii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3222805/",
+            "filename": "duette-staffel-vii"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sing-meinen-song-das-tauschkonzert",
+        "subheadline": "Duette (Staffel VII)",
+        "text": "Staffel 7, Folge 8 | Di. 30.06.2020, 20:15 Uhr",
+        "type": "show",
+        "url": "/shows/sing-meinen-song-das-tauschkonzert-7007/staffel-7/episode-8-duette-staffel-vii-3222805",
+        "videoId": 3222805
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 7007,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/sing-meinen-song-das-tauschkonzert-7007/staffel-7/episode-spezial-die-groessten-ueberraschungen-3240981"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sing meinen Song - Das Tauschkonzert",
+          "teaserId": "show_episode_3240981",
+          "teaserName": "Sing meinen Song - Das Tauschkonzert | Staffel 7 | Die größten Überraschungen",
+          "teaserPayType": "free",
+          "teaserType": "show_episode",
+          "teaserGenre": "Musik",
+          "cluster": [
+            "Promis"
+          ],
+          "classification": [
+            "Pre-TV"
+          ],
+          "teaserSeason": "Staffel 7",
+          "teaserEpisodeAirtime": "Di. 07.07.2020, 20:15 Uhr",
+          "teaserEpisodeName": "Die größten Überraschungen"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die größten Überraschungen",
+        "id": 3240981,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3240981/300x0/die-groessten-ueberraschungen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3240981/",
+            "filename": "die-groessten-ueberraschungen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3240981/600x0/die-groessten-ueberraschungen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3240981/",
+            "filename": "die-groessten-ueberraschungen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3240981/1200x0/die-groessten-ueberraschungen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3240981/",
+            "filename": "die-groessten-ueberraschungen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3240981/300x0/die-groessten-ueberraschungen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3240981/",
+            "filename": "die-groessten-ueberraschungen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3240981/600x0/die-groessten-ueberraschungen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3240981/",
+            "filename": "die-groessten-ueberraschungen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3240981/1200x0/die-groessten-ueberraschungen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3240981/",
+            "filename": "die-groessten-ueberraschungen"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sing-meinen-song-das-tauschkonzert",
+        "subheadline": "Die größten Überraschungen",
+        "text": "Staffel 7 | Di. 07.07.2020, 20:15 Uhr",
+        "type": "show",
+        "url": "/shows/sing-meinen-song-das-tauschkonzert-7007/staffel-7/episode-spezial-die-groessten-ueberraschungen-3240981",
+        "videoId": 3240981
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 7007,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/sing-meinen-song-das-tauschkonzert-7007/staffel-7/episode-10-die-besten-duette-3263062"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sing meinen Song - Das Tauschkonzert",
+          "teaserId": "show_episode_3263062",
+          "teaserName": "Sing meinen Song - Das Tauschkonzert | Staffel 7 | Folge 10 | Die besten Duette",
+          "teaserPayType": "free",
+          "teaserType": "show_episode",
+          "teaserGenre": "Musik",
+          "cluster": [
+            "Promis"
+          ],
+          "classification": [
+            "Pre-TV"
+          ],
+          "teaserSeason": "Staffel 7",
+          "teaserEpisodeNumber": "Folge 10",
+          "teaserEpisodeAirtime": "Di. 14.07.2020, 20:15 Uhr",
+          "teaserEpisodeName": "Die besten Duette"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die besten Duette",
+        "id": 3263062,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3263062/300x0/die-besten-duette.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3263062/",
+            "filename": "die-besten-duette"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3263062/600x0/die-besten-duette.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3263062/",
+            "filename": "die-besten-duette"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3263062/1200x0/die-besten-duette.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3263062/",
+            "filename": "die-besten-duette"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3263062/300x0/die-besten-duette.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3263062/",
+            "filename": "die-besten-duette"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3263062/600x0/die-besten-duette.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3263062/",
+            "filename": "die-besten-duette"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3263062/1200x0/die-besten-duette.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3263062/",
+            "filename": "die-besten-duette"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sing-meinen-song-das-tauschkonzert",
+        "subheadline": "Die besten Duette",
+        "text": "Staffel 7, Folge 10 | Di. 14.07.2020, 20:15 Uhr",
+        "type": "show",
+        "url": "/shows/sing-meinen-song-das-tauschkonzert-7007/staffel-7/episode-10-die-besten-duette-3263062",
+        "videoId": 3263062
       }
     ],
     "format_navigation": {

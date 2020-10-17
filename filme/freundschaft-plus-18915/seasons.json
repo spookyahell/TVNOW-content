@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18915",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18915,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/freundschaft-plus-18915"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Freundschaft Plus",
+          "teaserId": "film_3331130",
+          "teaserName": "Freundschaft Plus | Freundschaft Plus",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Freundschaft Plus",
+        "id": 3331130,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331130/300x0/freundschaft-plus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331130/",
+            "filename": "freundschaft-plus"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331130/600x0/freundschaft-plus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331130/",
+            "filename": "freundschaft-plus"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331130/1200x0/freundschaft-plus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331130/",
+            "filename": "freundschaft-plus"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331130/300x0/freundschaft-plus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331130/",
+            "filename": "freundschaft-plus"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331130/600x0/freundschaft-plus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331130/",
+            "filename": "freundschaft-plus"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331130/1200x0/freundschaft-plus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331130/",
+            "filename": "freundschaft-plus"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "freundschaft-plus",
+        "subheadline": "Freundschaft Plus",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/freundschaft-plus-18915",
+        "videoId": 3331130
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18881",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18881,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/lucy-18881"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Lucy",
+          "teaserId": "film_3324797",
+          "teaserName": "Lucy | Lucy",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Lucy",
+        "id": 3324797,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324797/300x0/lucy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324797/",
+            "filename": "lucy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324797/600x0/lucy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324797/",
+            "filename": "lucy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324797/1200x0/lucy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324797/",
+            "filename": "lucy"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324797/300x0/lucy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324797/",
+            "filename": "lucy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324797/600x0/lucy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324797/",
+            "filename": "lucy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324797/1200x0/lucy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324797/",
+            "filename": "lucy"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "lucy",
+        "subheadline": "Lucy",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/lucy-18881",
+        "videoId": 3324797
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

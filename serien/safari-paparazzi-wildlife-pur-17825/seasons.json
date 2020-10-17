@@ -1,1 +1,108 @@
-NONE
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 2020, Monat 10"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17825",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17825,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/serien/safari-paparazzi-wildlife-pur-17825/2020-10/episode-3-folge-3-3456229"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Safari-Paparazzi - Wildlife pur",
+          "teaserId": "serie_episode_3456229",
+          "teaserName": "Safari-Paparazzi - Wildlife pur | Staffel 5 | Folge 3 | Folge 3",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 5",
+          "teaserEpisodeNumber": "Folge 3",
+          "teaserEpisodeAirtime": "Fr. 16.10.2020, 00:30 Uhr",
+          "teaserEpisodeName": "Folge 3"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 3",
+        "id": 3456229,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3456229/300x0/folge-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3456229/",
+            "filename": "folge-3"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3456229/600x0/folge-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3456229/",
+            "filename": "folge-3"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3456229/1200x0/folge-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3456229/",
+            "filename": "folge-3"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3456229/300x0/folge-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3456229/",
+            "filename": "folge-3"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3456229/600x0/folge-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3456229/",
+            "filename": "folge-3"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3456229/1200x0/folge-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3456229/",
+            "filename": "folge-3"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "safari-paparazzi-wildlife-pur",
+        "subheadline": "Folge 3",
+        "text": "Staffel 5, Folge 3 | Fr. 16.10.2020, 00:30 Uhr",
+        "type": "serie",
+        "url": "/serien/safari-paparazzi-wildlife-pur-17825/2020-10/episode-3-folge-3-3456229",
+        "videoId": 3456229
+      }
+    ],
+    "format_navigation": {
+      "month": 10,
+      "year": 2020
+    },
+    "navigationType": "annual"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18912",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18912,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mission-impossible-3-iii-18912"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mission: Impossible 3",
+          "teaserId": "film_3331761",
+          "teaserName": "Mission: Impossible 3 | Mission: Impossible (3): III",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mission: Impossible (3): III",
+        "id": 3331761,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331761/300x0/mission-impossible-3-iii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331761/",
+            "filename": "mission-impossible-3-iii"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331761/600x0/mission-impossible-3-iii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331761/",
+            "filename": "mission-impossible-3-iii"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331761/1200x0/mission-impossible-3-iii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331761/",
+            "filename": "mission-impossible-3-iii"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331761/300x0/mission-impossible-3-iii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331761/",
+            "filename": "mission-impossible-3-iii"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331761/600x0/mission-impossible-3-iii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331761/",
+            "filename": "mission-impossible-3-iii"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331761/1200x0/mission-impossible-3-iii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331761/",
+            "filename": "mission-impossible-3-iii"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mission-impossible-3",
+        "subheadline": "Mission: Impossible (3): III",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/mission-impossible-3-iii-18912",
+        "videoId": 3331761
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

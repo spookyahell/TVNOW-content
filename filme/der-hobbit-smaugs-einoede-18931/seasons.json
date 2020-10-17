@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18931",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18931,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-hobbit-smaugs-einoede-18931"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Hobbit: Smaugs Einöde",
+          "teaserId": "film_3391298",
+          "teaserName": "Der Hobbit: Smaugs Einöde | Der Hobbit - Smaugs Einöde",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Hobbit - Smaugs Einöde",
+        "id": 3391298,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3391298/300x0/der-hobbit-smaugs-einoede.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3391298/",
+            "filename": "der-hobbit-smaugs-einoede"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3391298/600x0/der-hobbit-smaugs-einoede.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3391298/",
+            "filename": "der-hobbit-smaugs-einoede"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3391298/1200x0/der-hobbit-smaugs-einoede.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3391298/",
+            "filename": "der-hobbit-smaugs-einoede"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3391298/300x0/der-hobbit-smaugs-einoede.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3391298/",
+            "filename": "der-hobbit-smaugs-einoede"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3391298/600x0/der-hobbit-smaugs-einoede.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3391298/",
+            "filename": "der-hobbit-smaugs-einoede"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3391298/1200x0/der-hobbit-smaugs-einoede.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3391298/",
+            "filename": "der-hobbit-smaugs-einoede"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-hobbit-smaugs-einoede",
+        "subheadline": "Der Hobbit - Smaugs Einöde",
+        "text": "Staffel  | Di. 15.09.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/der-hobbit-smaugs-einoede-18931",
+        "videoId": 3391298
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

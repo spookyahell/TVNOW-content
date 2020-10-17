@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18833,
+  "additionalMeta": {
+    "canonical": "/filme/und-dann-kam-polly-18833",
+    "url": "/filme/und-dann-kam-polly-18833"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Und dann kam Polly",
+      "url": "/filme/und-dann-kam-polly-18833"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18833,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Und dann kam Polly 📺 und viele weitere ▶️ Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Und dann kam Polly im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Und dann kam Polly 📺 und viele weitere ▶️ Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3325012,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3325012",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18833"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "... und dann kam Polly – Informationen zum Film",
+    "text": "Reuben Feffer ist zweifellos ein liebenswerter Mann, aber auch ebenso neurotisch. Zwanghaft geht er jedem noch so kleinen Risiko aus dem Weg. Als er sich ausgerechnet in die waghalsige und etwas verrückte Polly verliebt, gerät Reubens ordentliches Leben so richtig durcheinander.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/und-dann-kam-polly-18833",
+        "@type": "Movie",
+        "description": "Reuben Feffer ist zweifellos ein liebenswerter Mann, aber auch ebenso neurotisch. Zwanghaft geht er jedem noch so kleinen Risiko aus dem Weg. Als er sich ausgerechnet in die waghalsige und etwas verrückte Polly verliebt, gerät Reubens ordentliches Leben so richtig durcheinander.",
+        "duration": "PT1H26M26S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3325012/950x0/und-dann-kam-polly.jpg",
+        "name": "Und dann kam Polly",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/und-dann-kam-polly-18833",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-20T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=und-dann-kam-polly-18833",
+              "sameAs": "%s/premium?typ=format&formatname=und-dann-kam-polly-18833",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/und-dann-kam-polly-18833",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Reuben Feffer ist zweifellos ein liebenswerter Mann, aber auch ebenso neurotisch. Zwanghaft geht er jedem noch so kleinen Risiko aus dem Weg. Als er sich ausgerechnet in die waghalsige und etwas verrückte Polly verliebt, gerät Reubens ordentliches Leben so richtig durcheinander.",
+          "duration": "PT1H26M26S",
+          "embedUrl": "%s/googlebot/player/filme/und-dann-kam-polly-18833",
+          "name": "Und dann kam Polly",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3325012/950x0/und-dann-kam-polly.jpg",
+          "uploadDate": "2020-08-20T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Und dann kam Polly im Online Stream | TVNOW",
+        "headline": "Und dann kam Polly im Online Stream | TVNOW",
+        "description": "Und dann kam Polly und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW. Ein Film mit ▶️Ben Stiller, Jennifer Aniston, Debra Messing, Alec Baldwin.",
+        "url": "%s/filme/und-dann-kam-polly-18833",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3325012/950x0/und-dann-kam-polly.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3325012/950x0/und-dann-kam-polly.jpg",
+        "datePublished": "2020-08-20T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3325012/950x0/und-dann-kam-polly.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Und dann kam Polly",
+            "item": "%s/filme/und-dann-kam-polly-18833"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Und dann kam Polly im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18923",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18923,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-hobbit-eine-unerwartete-reise-18923"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Hobbit: Eine unerwartete Reise",
+          "teaserId": "film_3390583",
+          "teaserName": "Der Hobbit: Eine unerwartete Reise | Der Hobbit - Eine unerwartete Reise",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Hobbit - Eine unerwartete Reise",
+        "id": 3390583,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3390583/300x0/der-hobbit-eine-unerwartete-reise.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3390583/",
+            "filename": "der-hobbit-eine-unerwartete-reise"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3390583/600x0/der-hobbit-eine-unerwartete-reise.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3390583/",
+            "filename": "der-hobbit-eine-unerwartete-reise"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3390583/1200x0/der-hobbit-eine-unerwartete-reise.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3390583/",
+            "filename": "der-hobbit-eine-unerwartete-reise"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3390583/300x0/der-hobbit-eine-unerwartete-reise.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3390583/",
+            "filename": "der-hobbit-eine-unerwartete-reise"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3390583/600x0/der-hobbit-eine-unerwartete-reise.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3390583/",
+            "filename": "der-hobbit-eine-unerwartete-reise"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3390583/1200x0/der-hobbit-eine-unerwartete-reise.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3390583/",
+            "filename": "der-hobbit-eine-unerwartete-reise"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-hobbit-eine-unerwartete-reise",
+        "subheadline": "Der Hobbit - Eine unerwartete Reise",
+        "text": "Staffel  | Di. 15.09.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/der-hobbit-eine-unerwartete-reise-18923",
+        "videoId": 3390583
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,194 @@
+﻿{
+  "formatId": 11873,
+  "additionalMeta": {
+    "canonical": "/serien/captain-future-11873",
+    "url": "/serien/captain-future-11873"
+  },
+  "ads": {
+    "station": "nitro",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Captain Future",
+      "url": "/serien/captain-future-11873"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 11873,
+  "meta": [
+    {
+      "content": "Die Serie Captain Future (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Anime im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "video, videos, online sehen, internet tv, fernsehen, alle folgen, rtl , nitro, rtl nitro, video on demand, mediathek, serien, Captain Future, Zeichentrick, Science Fiction, Auftrag, Planet, Weltall, Weltraum, Böse, Curtis Newton, Professor, Roboter",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Captain Future im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Captain Future (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Anime im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/11873",
+      "type": "teaserrow"
+    },
+    {
+      "id": 11873,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/11873",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rnncaptainfuture",
+      "video": "dvrsowf_ten_rnncaptainfuture",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_nitro_now/formate/captain_future/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_nitro_now",
+        "formate",
+        "captain_future",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Anime",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zur Serie: Captain Future",
+    "text": "Captain Future und viele weitere Serien kannst Du gemütlich online bei TV NOW im Stream anschauen. Also nichts wie los – hole das Knabberzeug raus und genieße Deine Serie ganz entspannt von unterwegs oder von zu Hause aus mit Freunden.",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/captain-future-11873",
+        "url": "%s/serien/captain-future-11873",
+        "name": "Captain Future",
+        "description": "Die Serie Captain Future (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Anime im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/11873_04metalogo/1200x0/captain-future.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Information zur Serie: Captain Future",
+        "headline": "Information zur Serie: Captain Future",
+        "description": "Die Serie Captain Future (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Anime im Online Stream bei TVNOW anschauen.",
+        "url": "%s/serien/captain-future-11873",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/11873_04metalogo/1200x0/captain-future.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/11873_04metalogo/1200x0/captain-future.png",
+        "keywords": "video, videos, online sehen, internet tv, fernsehen, alle folgen, rtl , nitro, rtl nitro, video on demand, mediathek, serien, Captain Future, Zeichentrick, Science Fiction, Auftrag, Planet, Weltall, Weltraum, Böse, Curtis Newton, Professor, Roboter",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/11873_04metalogo/1200x0/captain-future.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Captain Future",
+            "item": "%s/serien/captain-future-11873"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Captain Future im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18871,
+  "additionalMeta": {
+    "canonical": "/filme/all-inclusive-18871",
+    "url": "/filme/all-inclusive-18871"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "All Inclusive",
+      "url": "/filme/all-inclusive-18871"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18871,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ All Inclusive 📺 und viele weitere ▶️ Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "All Inclusive im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ All Inclusive 📺 und viele weitere ▶️ Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3327285,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3327285",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18871"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "All Inclusive - Alle Informationen zum Film",
+    "text": "Nach acht glücklichen Jahren stecken Jason und Cynthia in einer handfesten Ehekrise. Zusammen mit drei befreundeten Paaren reisen die beiden auf die paradiesische Südseeinsel \"Eden\". Doch dort erwartet die vier Paare nicht nur Entspannung pur, sondern auch eine ungewollte Liebesberatung \"all inclusive\". Denn das traumhafte Inselressort ist auf Paartherapie spezialisiert. Niemand kann sich dem seltsamenPärchenflüsterer Monsieur Marcel entziehen.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/all-inclusive-18871",
+        "@type": "Movie",
+        "description": "Nach acht glücklichen Jahren stecken Jason und Cynthia in einer handfesten Ehekrise. Zusammen mit drei befreundeten Paaren reisen die beiden auf die paradiesische Südseeinsel \"Eden\". Doch dort erwartet die vier Paare nicht nur Entspannung pur, sondern auch eine ungewollte Liebesberatung \"all inclusive\". Denn das traumhafte Inselressort ist auf Paartherapie spezialisiert. Niemand kann sich dem seltsamenPärchenflüsterer Monsieur Marcel entziehen.",
+        "duration": "PT1H48M52S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3327285/950x0/all-inclusive.jpg",
+        "name": "All Inclusive",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/all-inclusive-18871",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-20T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=all-inclusive-18871",
+              "sameAs": "%s/premium?typ=format&formatname=all-inclusive-18871",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/all-inclusive-18871",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Nach acht glücklichen Jahren stecken Jason und Cynthia in einer handfesten Ehekrise. Zusammen mit drei befreundeten Paaren reisen die beiden auf die paradiesische Südseeinsel \"Eden\". Doch dort erwartet die vier Paare nicht nur Entspannung pur, sondern auch eine ungewollte Liebesberatung \"all inclusive\". Denn das traumhafte Inselressort ist auf Paartherapie spezialisiert. Niemand kann sich dem seltsamenPärchenflüsterer Monsieur Marcel entziehen.",
+          "duration": "PT1H48M52S",
+          "embedUrl": "%s/googlebot/player/filme/all-inclusive-18871",
+          "name": "All Inclusive",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3327285/950x0/all-inclusive.jpg",
+          "uploadDate": "2020-08-20T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "All Inclusive im Online Stream | TVNOW",
+        "headline": "All Inclusive im Online Stream | TVNOW",
+        "description": "All Inclusive und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW. Ein Film mit ▶️Vince Vaughn, Jason Bateman, Faizon Love, Jon Favreau, Malin Akerman, Kristen Bell, Kristin Davis, Kali Hawk, Tasha Smith.",
+        "url": "%s/filme/all-inclusive-18871",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3327285/950x0/all-inclusive.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3327285/950x0/all-inclusive.jpg",
+        "datePublished": "2020-08-20T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3327285/950x0/all-inclusive.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "All Inclusive",
+            "item": "%s/filme/all-inclusive-18871"
+          }
+        ]
+      }
+    }
+  },
+  "title": "All Inclusive im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

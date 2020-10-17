@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 19091,
+  "additionalMeta": {
+    "canonical": "/filme/die-traumprinzen-19091",
+    "url": "/filme/die-traumprinzen-19091"
+  },
+  "ads": {
+    "station": "passion",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die Traumprinzen",
+      "url": "/filme/die-traumprinzen-19091"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19091,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Die Traumprinzen 📺 und viele weitere ▶️ Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Traumprinzen im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Die Traumprinzen 📺 und viele weitere ▶️ Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3417502,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3417502",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19091"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/passion_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "passion_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Thriller",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Die Traumprinzen",
+    "text": "Die erfolgreiche Rechtsanwältin Sarah Werner vertritt den attraktiven David, der sich sein Geld als Mitglied der Männer-Striptease-Gruppe \"Die Traumprinzen\" verdient. Als eine der Show-Besucherinnen ermordet wird, gerät David unter Mordverdacht. Sarah ist felsenfest von der Unschuld ihres Mandanten überzeugt. Sie beginnt, auf eigene Faust zu ermitteln und begibt sich in das einschlägige Milieu. Schnell ist sie in einer ihr völlig fremden Welt.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/die-traumprinzen-19091",
+        "@type": "Movie",
+        "description": "Die erfolgreiche Rechtsanwältin Sarah Werner vertritt den attraktiven David, der sich sein Geld als Mitglied der Männer-Striptease-Gruppe \"Die Traumprinzen\" verdient. Als eine der Show-Besucherinnen ermordet wird, gerät David unter Mordverdacht. Sarah ist felsenfest von der Unschuld ihres Mandanten überzeugt. Sie beginnt, auf eigene Faust zu ermitteln und begibt sich in das einschlägige Milieu. Schnell ist sie in einer ihr völlig fremden Welt.",
+        "duration": "PT1H33M6S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3417502/950x0/die-traumprinzen.jpg",
+        "name": "Die Traumprinzen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/die-traumprinzen-19091",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-10-03T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=die-traumprinzen-19091",
+              "sameAs": "%s/premium?typ=format&formatname=die-traumprinzen-19091",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/die-traumprinzen-19091",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die erfolgreiche Rechtsanwältin Sarah Werner vertritt den attraktiven David, der sich sein Geld als Mitglied der Männer-Striptease-Gruppe \"Die Traumprinzen\" verdient. Als eine der Show-Besucherinnen ermordet wird, gerät David unter Mordverdacht. Sarah ist felsenfest von der Unschuld ihres Mandanten überzeugt. Sie beginnt, auf eigene Faust zu ermitteln und begibt sich in das einschlägige Milieu. Schnell ist sie in einer ihr völlig fremden Welt.",
+          "duration": "PT1H33M6S",
+          "embedUrl": "%s/googlebot/player/filme/die-traumprinzen-19091",
+          "name": "Die Traumprinzen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3417502/950x0/die-traumprinzen.jpg",
+          "uploadDate": "2020-10-03T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Traumprinzen im Online Stream | TVNOW",
+        "headline": "Die Traumprinzen im Online Stream | TVNOW",
+        "description": "Die Traumprinzen und viele weitere  ▶️Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW. Ein Film mit ▶️Julia Bremermann, Matthias Schloo, Manfred Stücklschwaiger, Angela Roy, Michael Habeck, Sandra Nedeleff, Janette Rauch, Joram Voelklein, Dietrich Hollinderbäumer.",
+        "url": "%s/filme/die-traumprinzen-19091",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3417502/950x0/die-traumprinzen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3417502/950x0/die-traumprinzen.jpg",
+        "datePublished": "2020-10-03T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3417502/950x0/die-traumprinzen.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Traumprinzen",
+            "item": "%s/filme/die-traumprinzen-19091"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Traumprinzen im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

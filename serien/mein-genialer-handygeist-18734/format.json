@@ -1,0 +1,213 @@
+﻿{
+  "formatId": 18734,
+  "additionalMeta": {
+    "canonical": "/serien/mein-genialer-handygeist-18734",
+    "url": "/serien/mein-genialer-handygeist-18734"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Mein genialer Handygeist",
+      "url": "/serien/mein-genialer-handygeist-18734"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 18734,
+  "meta": [
+    {
+      "content": "Die Serie Mein genialer Handygeist (tvnowkids) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Mein genialer Handygeist im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Mein genialer Handygeist (tvnowkids) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/18734",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/18734",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/18734",
+      "type": "teaserrow"
+    },
+    {
+      "id": 18734,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/18734",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now_kids/formate/mein_genialer_handygeist/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now_kids",
+        "formate",
+        "mein_genialer_handygeist",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 10 bis Teens",
+      "KIDS Mädchen",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/mein-genialer-handygeist-18734",
+        "url": "%s/serien/mein-genialer-handygeist-18734",
+        "name": "Mein genialer Handygeist",
+        "description": "Die Serie Mein genialer Handygeist (tvnowkids) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/18734_04metalogo/1200x0/mein-genialer-handygeist.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "",
+        "headline": "",
+        "description": "Die Serie Mein genialer Handygeist (tvnowkids) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei TVNOW anschauen.",
+        "url": "%s/serien/mein-genialer-handygeist-18734",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/18734_04metalogo/1200x0/mein-genialer-handygeist.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/18734_04metalogo/1200x0/mein-genialer-handygeist.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/18734_04metalogo/1200x0/mein-genialer-handygeist.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mein genialer Handygeist",
+            "item": "%s/serien/mein-genialer-handygeist-18734"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Mein genialer Handygeist im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

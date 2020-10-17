@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18893,
+  "additionalMeta": {
+    "canonical": "/filme/wie-werde-ich-ihn-los-in-10-tagen-18893",
+    "url": "/filme/wie-werde-ich-ihn-los-in-10-tagen-18893"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Wie werde ich ihn los - in 10 Tagen ?",
+      "url": "/filme/wie-werde-ich-ihn-los-in-10-tagen-18893"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18893,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Wie werde ich ihn los - in 10 Tagen ? 📺 und viele weitere ▶️ Filme aus dem Genre Romantik findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Wie werde ich ihn los - in 10 Tagen ? im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Wie werde ich ihn los - in 10 Tagen ? 📺 und viele weitere ▶️ Filme aus dem Genre Romantik findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3334710,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3334710",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18893"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Wie werde ich ihn los - in 10 Tagen? – Informationen zum Film",
+    "text": "Andie Anderson, Kolumnistin beim trendigen Compsure Magazine, erklärt sich bereit, aus erster Hand einen Artikel darüber zu schreiben, wie man einen Kerl aus seinem Leben vertreibt... in zehn Tagen. Zur gleichen Zeit schließt der eingefleischte Junggeselle und Werber Benjamin Berry eine hoch dotierte Wette ab: ER behauptet, das er jede beliebige Frau dazu bringen kann, sich Hals über Kopf in ihn zu verlieben... ebenfalls innerhalb von zehn Tagen. ",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/wie-werde-ich-ihn-los-in-10-tagen-18893",
+        "@type": "Movie",
+        "description": "Andie Anderson, Kolumnistin beim trendigen Compsure Magazine, erklärt sich bereit, aus erster Hand einen Artikel darüber zu schreiben, wie man einen Kerl aus seinem Leben vertreibt... in zehn Tagen. Zur gleichen Zeit schließt der eingefleischte Junggeselle und Werber Benjamin Berry eine hoch dotierte Wette ab: ER behauptet, das er jede beliebige Frau dazu bringen kann, sich Hals über Kopf in ihn zu verlieben... ebenfalls innerhalb von zehn Tagen. ",
+        "duration": "PT1H50M34S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3334710/950x0/wie-werde-ich-ihn-los-in-10-tagen.jpg",
+        "name": "Wie werde ich ihn los - in 10 Tagen ?",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/wie-werde-ich-ihn-los-in-10-tagen-18893",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-20T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=wie-werde-ich-ihn-los-in-10-tagen-18893",
+              "sameAs": "%s/premium?typ=format&formatname=wie-werde-ich-ihn-los-in-10-tagen-18893",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/wie-werde-ich-ihn-los-in-10-tagen-18893",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Andie Anderson, Kolumnistin beim trendigen Compsure Magazine, erklärt sich bereit, aus erster Hand einen Artikel darüber zu schreiben, wie man einen Kerl aus seinem Leben vertreibt... in zehn Tagen. Zur gleichen Zeit schließt der eingefleischte Junggeselle und Werber Benjamin Berry eine hoch dotierte Wette ab: ER behauptet, das er jede beliebige Frau dazu bringen kann, sich Hals über Kopf in ihn zu verlieben... ebenfalls innerhalb von zehn Tagen. ",
+          "duration": "PT1H50M34S",
+          "embedUrl": "%s/googlebot/player/filme/wie-werde-ich-ihn-los-in-10-tagen-18893",
+          "name": "Wie werde ich ihn los - in 10 Tagen ?",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3334710/950x0/wie-werde-ich-ihn-los-in-10-tagen.jpg",
+          "uploadDate": "2020-08-20T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Wie werde ich ihn los - in 10 Tagen ? im Online Stream | TVNOW",
+        "headline": "Wie werde ich ihn los - in 10 Tagen ? im Online Stream | TVNOW",
+        "description": "Wie werde ich ihn los - in 10 Tagen ? und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/wie-werde-ich-ihn-los-in-10-tagen-18893",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3334710/950x0/wie-werde-ich-ihn-los-in-10-tagen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3334710/950x0/wie-werde-ich-ihn-los-in-10-tagen.jpg",
+        "datePublished": "2020-08-20T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3334710/950x0/wie-werde-ich-ihn-los-in-10-tagen.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wie werde ich ihn los - in 10 Tagen ?",
+            "item": "%s/filme/wie-werde-ich-ihn-los-in-10-tagen-18893"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Wie werde ich ihn los - in 10 Tagen ? im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

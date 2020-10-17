@@ -1,0 +1,217 @@
+﻿{
+  "formatId": 19129,
+  "additionalMeta": {
+    "canonical": "/shows/der-hunde-profi-ruetters-team-19129",
+    "url": "/shows/der-hunde-profi-ruetters-team-19129"
+  },
+  "ads": {
+    "station": "vox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "Der Hundeprofi - Rütters Team",
+      "url": "/shows/der-hunde-profi-ruetters-team-19129"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 19129,
+  "meta": [
+    {
+      "content": "Die Show ▶ Der Hundeprofi - Rütters Team (VOX) streamen & weitere Highlights aus dem Genre 📺 Tiere im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "video, videos, online sehen, internet tv, fernsehen, video on demand, alle folgen, vod, vox, Hund, Profi, Martin Rütter, Rat, Hilfe, Erziehung, hundetraining, hundeerziehung, tierpsychologe, therapie, der hundeprofi, rütters team",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Der Hundeprofi - Rütters Team im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ Der Hundeprofi - Rütters Team (VOX) streamen & weitere Highlights aus dem Genre 📺 Tiere im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/19129",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/19129",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/19129",
+      "type": "teaserrow"
+    },
+    {
+      "id": 78981264,
+      "label": null,
+      "moduleLayout": "ctabuttonbox_small",
+      "moduleUrl": "/module/cta-button-box-small/78981264",
+      "type": "ctabuttonbox_small"
+    },
+    {
+      "id": 19129,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19129",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_vnsendungen",
+      "video": "dvrsowf_ten_vnsendungen",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/formate/home",
+      "levels": [
+        "tv_now_de",
+        "formate",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Tiere",
+    "cluster": [
+      "Tiere"
+    ],
+    "classification": [
+      "Pre-TV"
+    ]
+  },
+  "seo": {
+    "headline": "Der Hundeprofi - Rütters Team: Informationen zur Show",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/shows/der-hunde-profi-ruetters-team-19129",
+        "url": "%s/shows/der-hunde-profi-ruetters-team-19129",
+        "name": "Der Hundeprofi - Rütters Team",
+        "description": "Die Show ▶ Der Hundeprofi - Rütters Team (VOX) streamen & weitere Highlights aus dem Genre 📺 Tiere im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/19129_04metalogo/1200x0/der-hunde-profi-ruetters-team.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Der Hundeprofi - Rütters Team: Informationen zur Show",
+        "headline": "Der Hundeprofi - Rütters Team: Informationen zur Show",
+        "description": "Die Show ▶ Der Hundeprofi - Rütters Team (VOX) streamen & weitere Highlights aus dem Genre 📺 Tiere im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+        "url": "%s/shows/der-hunde-profi-ruetters-team-19129",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/19129_04metalogo/1200x0/der-hunde-profi-ruetters-team.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/19129_04metalogo/1200x0/der-hunde-profi-ruetters-team.png",
+        "keywords": "video, videos, online sehen, internet tv, fernsehen, video on demand, alle folgen, vod, vox, Hund, Profi, Martin Rütter, Rat, Hilfe, Erziehung, hundetraining, hundeerziehung, tierpsychologe, therapie, der hundeprofi, rütters team",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/19129_04metalogo/1200x0/der-hunde-profi-ruetters-team.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "%s/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Der Hundeprofi - Rütters Team",
+            "item": "%s/shows/der-hunde-profi-ruetters-team-19129"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Der Hundeprofi - Rütters Team im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

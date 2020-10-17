@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18782",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18782,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/immer-und-ewig-18782"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Immer und Ewig",
+          "teaserId": "film_3291968",
+          "teaserName": "Immer und Ewig | Immer und Ewig",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Immer und Ewig",
+        "id": 3291968,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3291968/300x0/immer-und-ewig.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3291968/",
+            "filename": "immer-und-ewig"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3291968/600x0/immer-und-ewig.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3291968/",
+            "filename": "immer-und-ewig"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3291968/1200x0/immer-und-ewig.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3291968/",
+            "filename": "immer-und-ewig"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3291968/300x0/immer-und-ewig.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3291968/",
+            "filename": "immer-und-ewig"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3291968/600x0/immer-und-ewig.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3291968/",
+            "filename": "immer-und-ewig"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3291968/1200x0/immer-und-ewig.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3291968/",
+            "filename": "immer-und-ewig"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "immer-und-ewig",
+        "subheadline": "Immer und Ewig",
+        "text": "Staffel  | So. 16.08.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/immer-und-ewig-18782",
+        "videoId": 3291968
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

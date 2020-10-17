@@ -1,1 +1,108 @@
-NONE
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 2020, Monat 10"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17685",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17685,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/serien/uberleben-17685/2020-10/episode-1-nie-die-nerven-verlieren-3450961"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Überleben!",
+          "teaserId": "serie_episode_3450961",
+          "teaserName": "Überleben! | Staffel 1 | Folge 1 | Nie die Nerven verlieren",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Mo. 12.10.2020, 00:10 Uhr",
+          "teaserEpisodeName": "Nie die Nerven verlieren"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Nie die Nerven verlieren",
+        "id": 3450961,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3450961/300x0/nie-die-nerven-verlieren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3450961/",
+            "filename": "nie-die-nerven-verlieren"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3450961/600x0/nie-die-nerven-verlieren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3450961/",
+            "filename": "nie-die-nerven-verlieren"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3450961/1200x0/nie-die-nerven-verlieren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3450961/",
+            "filename": "nie-die-nerven-verlieren"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3450961/300x0/nie-die-nerven-verlieren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3450961/",
+            "filename": "nie-die-nerven-verlieren"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3450961/600x0/nie-die-nerven-verlieren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3450961/",
+            "filename": "nie-die-nerven-verlieren"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3450961/1200x0/nie-die-nerven-verlieren.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3450961/",
+            "filename": "nie-die-nerven-verlieren"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "uberleben",
+        "subheadline": "Nie die Nerven verlieren",
+        "text": "Staffel 1, Folge 1 | Mo. 12.10.2020, 00:10 Uhr",
+        "type": "serie",
+        "url": "/serien/uberleben-17685/2020-10/episode-1-nie-die-nerven-verlieren-3450961",
+        "videoId": 3450961
+      }
+    ],
+    "format_navigation": {
+      "month": 10,
+      "year": 2020
+    },
+    "navigationType": "annual"
+  }
+]

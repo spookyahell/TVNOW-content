@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19099",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19099,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/terra-19099"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Terra",
+          "teaserId": "film_3437950",
+          "teaserName": "Terra | Terra",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Terra",
+        "id": 3437950,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3437950/300x0/terra.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3437950/",
+            "filename": "terra"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3437950/600x0/terra.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3437950/",
+            "filename": "terra"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3437950/1200x0/terra.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3437950/",
+            "filename": "terra"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3437950/300x0/terra.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3437950/",
+            "filename": "terra"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3437950/600x0/terra.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3437950/",
+            "filename": "terra"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3437950/1200x0/terra.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3437950/",
+            "filename": "terra"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "terra",
+        "subheadline": "Terra",
+        "text": "Staffel  | Di. 27.10.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/terra-19099",
+        "videoId": 3437950
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

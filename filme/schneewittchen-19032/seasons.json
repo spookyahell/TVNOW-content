@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19032",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19032,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/schneewittchen-19032"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Schneewittchen",
+          "teaserId": "film_3348931",
+          "teaserName": "Schneewittchen | Schneewittchen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Schneewittchen",
+        "id": 3348931,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3348931/300x0/schneewittchen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3348931/",
+            "filename": "schneewittchen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3348931/600x0/schneewittchen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3348931/",
+            "filename": "schneewittchen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3348931/1200x0/schneewittchen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3348931/",
+            "filename": "schneewittchen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3348931/300x0/schneewittchen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3348931/",
+            "filename": "schneewittchen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3348931/600x0/schneewittchen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3348931/",
+            "filename": "schneewittchen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3348931/1200x0/schneewittchen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3348931/",
+            "filename": "schneewittchen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "schneewittchen",
+        "subheadline": "Schneewittchen",
+        "text": "Staffel  | Di. 30.06.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/schneewittchen-19032",
+        "videoId": 3348931
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

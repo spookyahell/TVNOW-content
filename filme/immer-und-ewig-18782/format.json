@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18782,
+  "additionalMeta": {
+    "canonical": "/filme/immer-und-ewig-18782",
+    "url": "/filme/immer-und-ewig-18782"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Immer und Ewig",
+      "url": "/filme/immer-und-ewig-18782"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18782,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Immer und Ewig 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Immer und Ewig im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Immer und Ewig 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3291968,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3291968",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18782"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Immer und Ewig",
+    "text": "Schon vor Jahrzehnten erkrankte die Schweizerin Annette an MS und ist rund um die Uhr auf Hilfe angewiesen. Ein Pflegeheim stand für ihren Mann Niggi jedoch nie zur Debatte. Seinen Job an den Nagel gehängt, bricht das einst wilde Paar nun in einem eigens umgebauten Bus zu einer Tour durch Südeuropa auf - und sucht dabei, trotz aller Hürden, weiterhin nach dem Schönen im Leben.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/immer-und-ewig-18782",
+        "@type": "Movie",
+        "description": "Schon vor Jahrzehnten erkrankte die Schweizerin Annette an MS und ist rund um die Uhr auf Hilfe angewiesen. Ein Pflegeheim stand für ihren Mann Niggi jedoch nie zur Debatte. Seinen Job an den Nagel gehängt, bricht das einst wilde Paar nun in einem eigens umgebauten Bus zu einer Tour durch Südeuropa auf - und sucht dabei, trotz aller Hürden, weiterhin nach dem Schönen im Leben.",
+        "duration": "PT1H25M15S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3291968/950x0/immer-und-ewig.jpg",
+        "name": "Immer und Ewig",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/immer-und-ewig-18782",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-16T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=immer-und-ewig-18782",
+              "sameAs": "%s/premium?typ=format&formatname=immer-und-ewig-18782",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/immer-und-ewig-18782",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Schon vor Jahrzehnten erkrankte die Schweizerin Annette an MS und ist rund um die Uhr auf Hilfe angewiesen. Ein Pflegeheim stand für ihren Mann Niggi jedoch nie zur Debatte. Seinen Job an den Nagel gehängt, bricht das einst wilde Paar nun in einem eigens umgebauten Bus zu einer Tour durch Südeuropa auf - und sucht dabei, trotz aller Hürden, weiterhin nach dem Schönen im Leben.",
+          "duration": "PT1H25M15S",
+          "embedUrl": "%s/googlebot/player/filme/immer-und-ewig-18782",
+          "name": "Immer und Ewig",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3291968/950x0/immer-und-ewig.jpg",
+          "uploadDate": "2020-08-16T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Immer und Ewig im Online Stream | TVNOW",
+        "headline": "Immer und Ewig im Online Stream | TVNOW",
+        "description": "Immer und Ewig und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/immer-und-ewig-18782",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3291968/950x0/immer-und-ewig.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3291968/950x0/immer-und-ewig.jpg",
+        "datePublished": "2020-08-16T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3291968/950x0/immer-und-ewig.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Immer und Ewig",
+            "item": "%s/filme/immer-und-ewig-18782"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Immer und Ewig im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

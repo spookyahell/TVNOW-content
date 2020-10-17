@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 19090,
+  "additionalMeta": {
+    "canonical": "/filme/paris-couture-glanzstunden-der-modeschoepfung-19090",
+    "url": "/filme/paris-couture-glanzstunden-der-modeschoepfung-19090"
+  },
+  "ads": {
+    "station": "living",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Paris Couture - Glanzstunden der Modeschöpfung",
+      "url": "/filme/paris-couture-glanzstunden-der-modeschoepfung-19090"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19090,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Paris Couture - Glanzstunden der Modeschöpfung 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Paris Couture - Glanzstunden der Modeschöpfung im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Paris Couture - Glanzstunden der Modeschöpfung 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3391507,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3391507",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19090"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/living_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "living_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Paris Couture - Glanzstunden der Modeschöpfung",
+    "text": "Balenciaga, Dior oder Yves Saint Laurent - diese und andere berühmte französische Couturiers prägen und revolutionieren die internationale Modewelt nach Ende des Zweiten Weltkriegs. Die Dokumentation erzählt von der bewegten Nachkriegsgeschichte der französischen Mode und ihrer Abkehr von der Haute Couture, vom unaufhaltsamen Aufstieg der Prêt-à-porter-Mode - und dem Anbruch einer neuen Epoche.    ",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/paris-couture-glanzstunden-der-modeschoepfung-19090",
+        "@type": "Movie",
+        "description": "Balenciaga, Dior oder Yves Saint Laurent - diese und andere berühmte französische Couturiers prägen und revolutionieren die internationale Modewelt nach Ende des Zweiten Weltkriegs. Die Dokumentation erzählt von der bewegten Nachkriegsgeschichte der französischen Mode und ihrer Abkehr von der Haute Couture, vom unaufhaltsamen Aufstieg der Prêt-à-porter-Mode - und dem Anbruch einer neuen Epoche.    ",
+        "duration": "PT54M17S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3391507/950x0/paris-couture-glanzstunden-der-modeschoepfung.jpg",
+        "name": "Paris Couture - Glanzstunden der Modeschöpfung",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/paris-couture-glanzstunden-der-modeschoepfung-19090",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-09-30T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=paris-couture-glanzstunden-der-modeschoepfung-19090",
+              "sameAs": "%s/premium?typ=format&formatname=paris-couture-glanzstunden-der-modeschoepfung-19090",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/paris-couture-glanzstunden-der-modeschoepfung-19090",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Balenciaga, Dior oder Yves Saint Laurent - diese und andere berühmte französische Couturiers prägen und revolutionieren die internationale Modewelt nach Ende des Zweiten Weltkriegs. Die Dokumentation erzählt von der bewegten Nachkriegsgeschichte der französischen Mode und ihrer Abkehr von der Haute Couture, vom unaufhaltsamen Aufstieg der Prêt-à-porter-Mode - und dem Anbruch einer neuen Epoche.    ",
+          "duration": "PT54M17S",
+          "embedUrl": "%s/googlebot/player/filme/paris-couture-glanzstunden-der-modeschoepfung-19090",
+          "name": "Paris Couture - Glanzstunden der Modeschöpfung",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3391507/950x0/paris-couture-glanzstunden-der-modeschoepfung.jpg",
+          "uploadDate": "2020-09-30T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Paris Couture - Glanzstunden der Modeschöpfung im Online Stream | TVNOW",
+        "headline": "Paris Couture - Glanzstunden der Modeschöpfung im Online Stream | TVNOW",
+        "description": "Paris Couture - Glanzstunden der Modeschöpfung und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/paris-couture-glanzstunden-der-modeschoepfung-19090",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3391507/950x0/paris-couture-glanzstunden-der-modeschoepfung.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3391507/950x0/paris-couture-glanzstunden-der-modeschoepfung.jpg",
+        "datePublished": "2020-09-30T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3391507/950x0/paris-couture-glanzstunden-der-modeschoepfung.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Paris Couture - Glanzstunden der Modeschöpfung",
+            "item": "%s/filme/paris-couture-glanzstunden-der-modeschoepfung-19090"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Paris Couture - Glanzstunden der Modeschöpfung im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

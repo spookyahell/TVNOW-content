@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18858,
+  "additionalMeta": {
+    "canonical": "/filme/hitchderdatedoktor-18858",
+    "url": "/filme/hitchderdatedoktor-18858"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Hitch - Der Date Doktor",
+      "url": "/filme/hitchderdatedoktor-18858"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18858,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Hitch - Der Date Doktor 📺 und viele weitere ▶️ Filme aus dem Genre Romantik findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Hitch - Der Date Doktor im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Hitch - Der Date Doktor 📺 und viele weitere ▶️ Filme aus dem Genre Romantik findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3429631,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3429631",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18858"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Hitch - der Date Doktor",
+    "text": "Alex \"Hitch\" Hitchens hat als \"Date Doktor\" viele Kunden. Verzweifelte Männer, die nicht wissen, wie sie ihre Traumfrau erobern können, sind bei ihm genau richtig. Doch während Alex sich die Zähne an einem besonders schüchternen Klienten auszubeißen droht, verliebt er sich selbst scheinbar aussichtslos in eine clevere Klatschreporterin. Diese hat sich unter falschem Namen in seine Agentur eingeschlichen. Missverständnisse vorprogrammiert!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/hitch-der-date-doktor-18858",
+        "@type": "Movie",
+        "description": "Alex \"Hitch\" Hitchens hat als \"Date Doktor\" viele Kunden. Verzweifelte Männer, die nicht wissen, wie sie ihre Traumfrau erobern können, sind bei ihm genau richtig. Doch während Alex sich die Zähne an einem besonders schüchternen Klienten auszubeißen droht, verliebt er sich selbst scheinbar aussichtslos in eine clevere Klatschreporterin. Diese hat sich unter falschem Namen in seine Agentur eingeschlichen. Missverständnisse vorprogrammiert!",
+        "duration": "PT1H53M21S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3429631/950x0/hitchderdatedoktor.jpg",
+        "name": "Hitch - Der Date Doktor",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/hitch-der-date-doktor-18858",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-10-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=hitchderdatedoktor-18858",
+              "sameAs": "%s/premium?typ=format&formatname=hitchderdatedoktor-18858",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/hitch-der-date-doktor-18858",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Alex \"Hitch\" Hitchens hat als \"Date Doktor\" viele Kunden. Verzweifelte Männer, die nicht wissen, wie sie ihre Traumfrau erobern können, sind bei ihm genau richtig. Doch während Alex sich die Zähne an einem besonders schüchternen Klienten auszubeißen droht, verliebt er sich selbst scheinbar aussichtslos in eine clevere Klatschreporterin. Diese hat sich unter falschem Namen in seine Agentur eingeschlichen. Missverständnisse vorprogrammiert!",
+          "duration": "PT1H53M21S",
+          "embedUrl": "%s/googlebot/player/filme/hitch-der-date-doktor-18858",
+          "name": "Hitch - Der Date Doktor",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3429631/950x0/hitchderdatedoktor.jpg",
+          "uploadDate": "2020-10-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Hitch - Der Date Doktor im Online Stream | TVNOW",
+        "headline": "Hitch - Der Date Doktor im Online Stream | TVNOW",
+        "description": "Hitch - Der Date Doktor und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei TVNOW. Ein Film mit ▶️Will Smith, Eva Mendes, Kevin James, Amber Valletta, Julie Ann Emery, Michael Rapaport, Alan Arkin, Robinne Lee, Nathan Lee Graham.",
+        "url": "%s/filme/hitch-der-date-doktor-18858",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3429631/950x0/hitchderdatedoktor.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3429631/950x0/hitchderdatedoktor.jpg",
+        "datePublished": "2020-10-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3429631/950x0/hitchderdatedoktor.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hitch - Der Date Doktor",
+            "item": "%s/filme/hitchderdatedoktor-18858"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Hitch - Der Date Doktor im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

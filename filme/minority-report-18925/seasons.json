@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18925",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18925,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/minority-report-18925"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Minority Report",
+          "teaserId": "film_3331145",
+          "teaserName": "Minority Report | Minority Report",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Minority Report",
+        "id": 3331145,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331145/300x0/minority-report.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331145/",
+            "filename": "minority-report"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331145/600x0/minority-report.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331145/",
+            "filename": "minority-report"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331145/1200x0/minority-report.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331145/",
+            "filename": "minority-report"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331145/300x0/minority-report.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331145/",
+            "filename": "minority-report"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331145/600x0/minority-report.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331145/",
+            "filename": "minority-report"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331145/1200x0/minority-report.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331145/",
+            "filename": "minority-report"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "minority-report",
+        "subheadline": "Minority Report",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/minority-report-18925",
+        "videoId": 3331145
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

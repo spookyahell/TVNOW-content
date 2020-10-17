@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18875",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18875,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/fast-verheiratet-18875"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Fast verheiratet",
+          "teaserId": "film_3327758",
+          "teaserName": "Fast verheiratet | Fast verheiratet",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Fast verheiratet",
+        "id": 3327758,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327758/300x0/fast-verheiratet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327758/",
+            "filename": "fast-verheiratet"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327758/600x0/fast-verheiratet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327758/",
+            "filename": "fast-verheiratet"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327758/1200x0/fast-verheiratet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327758/",
+            "filename": "fast-verheiratet"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327758/300x0/fast-verheiratet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327758/",
+            "filename": "fast-verheiratet"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327758/600x0/fast-verheiratet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327758/",
+            "filename": "fast-verheiratet"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327758/1200x0/fast-verheiratet.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327758/",
+            "filename": "fast-verheiratet"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "fast-verheiratet",
+        "subheadline": "Fast verheiratet",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/fast-verheiratet-18875",
+        "videoId": 3327758
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

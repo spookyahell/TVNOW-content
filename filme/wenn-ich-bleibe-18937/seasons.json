@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18937",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18937,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/wenn-ich-bleibe-18937"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wenn ich bleibe",
+          "teaserId": "film_3337532",
+          "teaserName": "Wenn ich bleibe | Wenn ich bleibe",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wenn ich bleibe",
+        "id": 3337532,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3337532/300x0/wenn-ich-bleibe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3337532/",
+            "filename": "wenn-ich-bleibe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3337532/600x0/wenn-ich-bleibe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3337532/",
+            "filename": "wenn-ich-bleibe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3337532/1200x0/wenn-ich-bleibe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3337532/",
+            "filename": "wenn-ich-bleibe"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3337532/300x0/wenn-ich-bleibe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3337532/",
+            "filename": "wenn-ich-bleibe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3337532/600x0/wenn-ich-bleibe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3337532/",
+            "filename": "wenn-ich-bleibe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3337532/1200x0/wenn-ich-bleibe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3337532/",
+            "filename": "wenn-ich-bleibe"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wenn-ich-bleibe",
+        "subheadline": "Wenn ich bleibe",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/wenn-ich-bleibe-18937",
+        "videoId": 3337532
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

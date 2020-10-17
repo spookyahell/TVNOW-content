@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18982",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18982,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/fantastic-four-18982"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Fantastic Four (2005)",
+          "teaserId": "film_3330646",
+          "teaserName": "Fantastic Four (2005) | Fantastic Four",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Science Fiction",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Fantastic Four",
+        "id": 3330646,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330646/300x0/fantastic-four.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330646/",
+            "filename": "fantastic-four"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330646/600x0/fantastic-four.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330646/",
+            "filename": "fantastic-four"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330646/1200x0/fantastic-four.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330646/",
+            "filename": "fantastic-four"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330646/300x0/fantastic-four.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330646/",
+            "filename": "fantastic-four"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330646/600x0/fantastic-four.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330646/",
+            "filename": "fantastic-four"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330646/1200x0/fantastic-four.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330646/",
+            "filename": "fantastic-four"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "fantastic-four-2005",
+        "subheadline": "Fantastic Four",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/fantastic-four-18982",
+        "videoId": 3330646
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

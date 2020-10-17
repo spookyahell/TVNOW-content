@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 18666,
+  "additionalMeta": {
+    "canonical": "/filme/hunting-for-hedonia-freude-auf-knopfdruck-18666",
+    "url": "/filme/hunting-for-hedonia-freude-auf-knopfdruck-18666"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Hunting for Hedonia - Freude auf Knopfdruck",
+      "url": "/filme/hunting-for-hedonia-freude-auf-knopfdruck-18666"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18666,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Hunting for Hedonia - Freude auf Knopfdruck 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Hunting for Hedonia - Freude auf Knopfdruck im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Hunting for Hedonia - Freude auf Knopfdruck 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3239409,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3239409",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18666"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Wissen"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Hunting for Hedonia - Freude auf Knopfdruck",
+    "text": "Depression, Epilepsie oder Zwangsstörung - weltweit leiden Millionen Menschen unter derartigen Erkrankungen. Ärzte und Wissenschaftler forschen unter Hochdruck an alternativen Therapien. Die Tiefenhirnstimulation weckt dabei große Hoffnungen. Doch trotz ihrer Erfolge, ist diese Therapieform umstritten - denn sie lindert nicht nur die Beschwerden, sondern verändert dabei oft die Persönlichkeit.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/hunting-for-hedonia-freude-auf-knopfdruck-18666",
+        "@type": "Movie",
+        "description": "Depression, Epilepsie oder Zwangsstörung - weltweit leiden Millionen Menschen unter derartigen Erkrankungen. Ärzte und Wissenschaftler forschen unter Hochdruck an alternativen Therapien. Die Tiefenhirnstimulation weckt dabei große Hoffnungen. Doch trotz ihrer Erfolge, ist diese Therapieform umstritten - denn sie lindert nicht nur die Beschwerden, sondern verändert dabei oft die Persönlichkeit.",
+        "duration": "PT1H27M35S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3239409/950x0/hunting-for-hedonia-freude-auf-knopfdruck.jpg",
+        "name": "Hunting for Hedonia - Freude auf Knopfdruck",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/hunting-for-hedonia-freude-auf-knopfdruck-18666",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-31T21:50:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=hunting-for-hedonia-freude-auf-knopfdruck-18666",
+              "sameAs": "%s/premium?typ=format&formatname=hunting-for-hedonia-freude-auf-knopfdruck-18666",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/hunting-for-hedonia-freude-auf-knopfdruck-18666",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Depression, Epilepsie oder Zwangsstörung - weltweit leiden Millionen Menschen unter derartigen Erkrankungen. Ärzte und Wissenschaftler forschen unter Hochdruck an alternativen Therapien. Die Tiefenhirnstimulation weckt dabei große Hoffnungen. Doch trotz ihrer Erfolge, ist diese Therapieform umstritten - denn sie lindert nicht nur die Beschwerden, sondern verändert dabei oft die Persönlichkeit.",
+          "duration": "PT1H27M35S",
+          "embedUrl": "%s/googlebot/player/filme/hunting-for-hedonia-freude-auf-knopfdruck-18666",
+          "name": "Hunting for Hedonia - Freude auf Knopfdruck",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3239409/950x0/hunting-for-hedonia-freude-auf-knopfdruck.jpg",
+          "uploadDate": "2020-08-31T21:50:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Hunting for Hedonia - Freude auf Knopfdruck im Online Stream | TVNOW",
+        "headline": "Hunting for Hedonia - Freude auf Knopfdruck im Online Stream | TVNOW",
+        "description": "Hunting for Hedonia - Freude auf Knopfdruck und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/hunting-for-hedonia-freude-auf-knopfdruck-18666",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3239409/950x0/hunting-for-hedonia-freude-auf-knopfdruck.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3239409/950x0/hunting-for-hedonia-freude-auf-knopfdruck.jpg",
+        "datePublished": "2020-08-31T21:50:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3239409/950x0/hunting-for-hedonia-freude-auf-knopfdruck.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hunting for Hedonia - Freude auf Knopfdruck",
+            "item": "%s/filme/hunting-for-hedonia-freude-auf-knopfdruck-18666"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Hunting for Hedonia - Freude auf Knopfdruck im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

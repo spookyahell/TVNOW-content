@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18966,
+  "additionalMeta": {
+    "canonical": "/filme/the-transporter-3-18966",
+    "url": "/filme/the-transporter-3-18966"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "The Transporter 3",
+      "url": "/filme/the-transporter-3-18966"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18966,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ The Transporter 3 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "The Transporter 3 im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ The Transporter 3 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3330661,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3330661",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18966"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_action/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_action",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Action",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "The Transporter 3 - Informationen zum Film",
+    "text": "Er hat genau drei Regeln: An Vereinbarungen mit Geschäftspartnern wird nichts geändert, es werden keine Namen genannt, Pakete werden niemals geöffnet. Der \"Transporter\" Frank Martin ist zurück! Auch im dritten Teil der Erfolgsreihe \"Transporter\" hält der Ex-Elitesoldat für hoch brisante Fracht den Kopf hin.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/transporter-3-18966",
+        "@type": "Movie",
+        "description": "Er hat genau drei Regeln: An Vereinbarungen mit Geschäftspartnern wird nichts geändert, es werden keine Namen genannt, Pakete werden niemals geöffnet. Der \"Transporter\" Frank Martin ist zurück! Auch im dritten Teil der Erfolgsreihe \"Transporter\" hält der Ex-Elitesoldat für hoch brisante Fracht den Kopf hin.",
+        "duration": "PT1H39M14S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3330661/950x0/the-transporter-3.jpg",
+        "name": "The Transporter 3",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/transporter-3-18966",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-20T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=the-transporter-3-18966",
+              "sameAs": "%s/premium?typ=format&formatname=the-transporter-3-18966",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/transporter-3-18966",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Er hat genau drei Regeln: An Vereinbarungen mit Geschäftspartnern wird nichts geändert, es werden keine Namen genannt, Pakete werden niemals geöffnet. Der \"Transporter\" Frank Martin ist zurück! Auch im dritten Teil der Erfolgsreihe \"Transporter\" hält der Ex-Elitesoldat für hoch brisante Fracht den Kopf hin.",
+          "duration": "PT1H39M14S",
+          "embedUrl": "%s/googlebot/player/filme/transporter-3-18966",
+          "name": "The Transporter 3",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3330661/950x0/the-transporter-3.jpg",
+          "uploadDate": "2020-08-20T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "The Transporter 3 im Online Stream | TVNOW",
+        "headline": "The Transporter 3 im Online Stream | TVNOW",
+        "description": "The Transporter 3 und viele weitere  ▶️Filme aus dem Genre Action findest du im Online Stream bei TVNOW. Ein Film mit ▶️Jason Statham, Natalya Rudakova, Francois Berléand, Robert Knepper, Jeroen Krabbé, David Atrakchi, Paul Barrett.",
+        "url": "%s/filme/transporter-3-18966",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3330661/950x0/the-transporter-3.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3330661/950x0/the-transporter-3.jpg",
+        "datePublished": "2020-08-20T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3330661/950x0/the-transporter-3.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The Transporter 3",
+            "item": "%s/filme/the-transporter-3-18966"
+          }
+        ]
+      }
+    }
+  },
+  "title": "The Transporter 3 im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

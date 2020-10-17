@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18886",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18886,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-mumie-kehrt-zurueck-18886"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Mumie kehrt zurück",
+          "teaserId": "film_3331605",
+          "teaserName": "Die Mumie kehrt zurück | Die Mumie kehrt zurück",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Mumie kehrt zurück",
+        "id": 3331605,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331605/300x0/die-mumie-kehrt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331605/",
+            "filename": "die-mumie-kehrt-zurueck"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331605/600x0/die-mumie-kehrt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331605/",
+            "filename": "die-mumie-kehrt-zurueck"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331605/1200x0/die-mumie-kehrt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331605/",
+            "filename": "die-mumie-kehrt-zurueck"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331605/300x0/die-mumie-kehrt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331605/",
+            "filename": "die-mumie-kehrt-zurueck"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331605/600x0/die-mumie-kehrt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331605/",
+            "filename": "die-mumie-kehrt-zurueck"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331605/1200x0/die-mumie-kehrt-zurueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331605/",
+            "filename": "die-mumie-kehrt-zurueck"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-mumie-kehrt-zurueck",
+        "subheadline": "Die Mumie kehrt zurück",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/die-mumie-kehrt-zurueck-18886",
+        "videoId": 3331605
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

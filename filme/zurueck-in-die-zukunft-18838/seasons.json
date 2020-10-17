@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18838",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18838,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/zurueck-in-die-zukunft-18838"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Zurück in die Zukunft",
+          "teaserId": "film_3325015",
+          "teaserName": "Zurück in die Zukunft | Zurück in die Zukunft",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Zurück in die Zukunft",
+        "id": 3325015,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325015/300x0/zurueck-in-die-zukunft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325015/",
+            "filename": "zurueck-in-die-zukunft"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325015/600x0/zurueck-in-die-zukunft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325015/",
+            "filename": "zurueck-in-die-zukunft"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325015/1200x0/zurueck-in-die-zukunft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325015/",
+            "filename": "zurueck-in-die-zukunft"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325015/300x0/zurueck-in-die-zukunft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325015/",
+            "filename": "zurueck-in-die-zukunft"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325015/600x0/zurueck-in-die-zukunft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325015/",
+            "filename": "zurueck-in-die-zukunft"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325015/1200x0/zurueck-in-die-zukunft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325015/",
+            "filename": "zurueck-in-die-zukunft"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "zurueck-in-die-zukunft",
+        "subheadline": "Zurück in die Zukunft",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/zurueck-in-die-zukunft-18838",
+        "videoId": 3325015
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

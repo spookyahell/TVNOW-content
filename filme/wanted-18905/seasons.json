@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18905",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18905,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/wanted-18905"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wanted",
+          "teaserId": "film_3325028",
+          "teaserName": "Wanted | Wanted",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wanted",
+        "id": 3325028,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325028/300x0/wanted.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325028/",
+            "filename": "wanted"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325028/600x0/wanted.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325028/",
+            "filename": "wanted"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325028/1200x0/wanted.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325028/",
+            "filename": "wanted"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325028/300x0/wanted.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325028/",
+            "filename": "wanted"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325028/600x0/wanted.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325028/",
+            "filename": "wanted"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325028/1200x0/wanted.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325028/",
+            "filename": "wanted"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wanted",
+        "subheadline": "Wanted",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/wanted-18905",
+        "videoId": 3325028
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18953",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18953,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/magic-mike-18953"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Magic Mike",
+          "teaserId": "film_3328897",
+          "teaserName": "Magic Mike | Magic Mike",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Magic Mike",
+        "id": 3328897,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328897/300x0/magic-mike.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328897/",
+            "filename": "magic-mike"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328897/600x0/magic-mike.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328897/",
+            "filename": "magic-mike"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328897/1200x0/magic-mike.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328897/",
+            "filename": "magic-mike"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328897/300x0/magic-mike.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328897/",
+            "filename": "magic-mike"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328897/600x0/magic-mike.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328897/",
+            "filename": "magic-mike"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328897/1200x0/magic-mike.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328897/",
+            "filename": "magic-mike"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "magic-mike",
+        "subheadline": "Magic Mike",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/magic-mike-18953",
+        "videoId": 3328897
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

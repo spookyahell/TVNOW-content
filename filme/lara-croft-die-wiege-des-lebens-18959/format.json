@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18959,
+  "additionalMeta": {
+    "canonical": "/filme/lara-croft-die-wiege-des-lebens-18959",
+    "url": "/filme/lara-croft-die-wiege-des-lebens-18959"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Lara Croft: Tomb Raider - Die Wiege des Lebens",
+      "url": "/filme/lara-croft-die-wiege-des-lebens-18959"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18959,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Lara Croft: Tomb Raider - Die Wiege des Lebens 📺 und viele weitere ▶️ Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Lara Croft: Tomb Raider - Die Wiege des Lebens im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Lara Croft: Tomb Raider - Die Wiege des Lebens 📺 und viele weitere ▶️ Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3328719,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3328719",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18959"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_abenteuer/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_abenteuer",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Abenteuer",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Lara Croft: Tomb Raider - Die Wiege des Lebens - Informationen zum Film ",
+    "text": "Lara Croft sucht nach der legendären Büchse der Pandora und findet sie letztlich in der Nähe des Kilimandscharo. Aber auch der finstere Wissenschaftler Reiss macht Jagd auf das Artefakt. Reiss will es an global agierende Terroristen veräußern. Lara findet und entschlüsselt eine kugelförmige Schatzkarte, die ihr Reiss jedoch stiehlt. Gemeinsam mit dem Ex-Spion Sheridan, versucht sie, die Karte wieder in ihren Besitz zu bringen.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/lara-croft-tomb-raider-die-wiege-des-lebens-18959",
+        "@type": "Movie",
+        "description": "Lara Croft sucht nach der legendären Büchse der Pandora und findet sie letztlich in der Nähe des Kilimandscharo. Aber auch der finstere Wissenschaftler Reiss macht Jagd auf das Artefakt. Reiss will es an global agierende Terroristen veräußern. Lara findet und entschlüsselt eine kugelförmige Schatzkarte, die ihr Reiss jedoch stiehlt. Gemeinsam mit dem Ex-Spion Sheridan, versucht sie, die Karte wieder in ihren Besitz zu bringen.",
+        "duration": "PT1H52M30S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3328719/950x0/lara-croft-die-wiege-des-lebens.jpg",
+        "name": "Lara Croft: Tomb Raider - Die Wiege des Lebens",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/lara-croft-tomb-raider-die-wiege-des-lebens-18959",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-20T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=lara-croft-die-wiege-des-lebens-18959",
+              "sameAs": "%s/premium?typ=format&formatname=lara-croft-die-wiege-des-lebens-18959",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/lara-croft-tomb-raider-die-wiege-des-lebens-18959",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Lara Croft sucht nach der legendären Büchse der Pandora und findet sie letztlich in der Nähe des Kilimandscharo. Aber auch der finstere Wissenschaftler Reiss macht Jagd auf das Artefakt. Reiss will es an global agierende Terroristen veräußern. Lara findet und entschlüsselt eine kugelförmige Schatzkarte, die ihr Reiss jedoch stiehlt. Gemeinsam mit dem Ex-Spion Sheridan, versucht sie, die Karte wieder in ihren Besitz zu bringen.",
+          "duration": "PT1H52M30S",
+          "embedUrl": "%s/googlebot/player/filme/lara-croft-tomb-raider-die-wiege-des-lebens-18959",
+          "name": "Lara Croft: Tomb Raider - Die Wiege des Lebens",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3328719/950x0/lara-croft-die-wiege-des-lebens.jpg",
+          "uploadDate": "2020-08-20T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Lara Croft: Tomb Raider - Die Wiege des Lebens im Online Stream | TVNOW",
+        "headline": "Lara Croft: Tomb Raider - Die Wiege des Lebens im Online Stream | TVNOW",
+        "description": "Lara Croft: Tomb Raider - Die Wiege des Lebens und viele weitere  ▶️Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW. Ein Film mit ▶️Angelina Jolie, Gerard Butler, Ciarán Hinds, Noah Taylor, Til Schweiger, Chris Barrie.",
+        "url": "%s/filme/lara-croft-tomb-raider-die-wiege-des-lebens-18959",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3328719/950x0/lara-croft-die-wiege-des-lebens.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3328719/950x0/lara-croft-die-wiege-des-lebens.jpg",
+        "datePublished": "2020-08-20T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3328719/950x0/lara-croft-die-wiege-des-lebens.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lara Croft: Tomb Raider - Die Wiege des Lebens",
+            "item": "%s/filme/lara-croft-die-wiege-des-lebens-18959"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Lara Croft: Tomb Raider - Die Wiege des Lebens im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

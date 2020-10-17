@@ -3,6 +3,111 @@
     "ecommerce": {
       "rowCategory": "small_teaser",
       "rowId": "na",
+      "rowName": "Staffel 2"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/46",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 46,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/das-supertalent-46/staffel-2/episode-1-die-groessten-fernsehmomente-der-welt-ea-01-01-19-3248286"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Supertalent",
+          "teaserId": "show_episode_3248286",
+          "teaserName": "Das Supertalent | Staffel 2 | Folge 1 | Die größten Fernsehmomente der Welt - EA: 01.01.19",
+          "teaserPayType": "free",
+          "teaserType": "show_episode",
+          "teaserGenre": "Show",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 2",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "So. 12.07.2020, 10:15 Uhr",
+          "teaserEpisodeName": "Die größten Fernsehmomente der Welt - EA: 01.01.19"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die größten Fernsehmomente der Welt - EA: 01.01.19",
+        "id": 3248286,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3248286/300x0/die-groessten-fernsehmomente-der-welt-ea-01-01-19.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3248286/",
+            "filename": "die-groessten-fernsehmomente-der-welt-ea-01-01-19"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3248286/600x0/die-groessten-fernsehmomente-der-welt-ea-01-01-19.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3248286/",
+            "filename": "die-groessten-fernsehmomente-der-welt-ea-01-01-19"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3248286/1200x0/die-groessten-fernsehmomente-der-welt-ea-01-01-19.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3248286/",
+            "filename": "die-groessten-fernsehmomente-der-welt-ea-01-01-19"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3248286/300x0/die-groessten-fernsehmomente-der-welt-ea-01-01-19.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3248286/",
+            "filename": "die-groessten-fernsehmomente-der-welt-ea-01-01-19"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3248286/600x0/die-groessten-fernsehmomente-der-welt-ea-01-01-19.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3248286/",
+            "filename": "die-groessten-fernsehmomente-der-welt-ea-01-01-19"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3248286/1200x0/die-groessten-fernsehmomente-der-welt-ea-01-01-19.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3248286/",
+            "filename": "die-groessten-fernsehmomente-der-welt-ea-01-01-19"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-supertalent",
+        "subheadline": "Die größten Fernsehmomente der Welt - EA: 01.01.19",
+        "text": "Staffel 2, Folge 1 | So. 12.07.2020, 10:15 Uhr",
+        "type": "show",
+        "url": "/shows/das-supertalent-46/staffel-2/episode-1-die-groessten-fernsehmomente-der-welt-ea-01-01-19-3248286",
+        "videoId": 3248286
+      }
+    ],
+    "format_navigation": {
+      "season": 2
+    },
+    "navigationType": "season"
+  },
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
       "rowName": "Staffel 4"
     },
     "id": null,
@@ -11159,7 +11264,7 @@
           "cluster": [],
           "classification": [],
           "teaserSeason": "Staffel 13",
-          "teaserEpisodeAirtime": "Sa. 10.08.2019, 20:15 Uhr",
+          "teaserEpisodeAirtime": "Sa. 20.06.2020, 20:15 Uhr",
           "teaserEpisodeName": "MEGA! Der Super-Supertalent-Samstag"
         },
         "fsk": {
@@ -11215,7 +11320,7 @@
         ],
         "seoUrl": "das-supertalent",
         "subheadline": "MEGA! Der Super-Supertalent-Samstag",
-        "text": "Staffel 13 | Sa. 10.08.2019, 20:15 Uhr",
+        "text": "Staffel 13 | Sa. 20.06.2020, 20:15 Uhr",
         "type": "show",
         "url": "/shows/das-supertalent-46/staffel-13/episode-0-mega-der-super-supertalent-samstag-1663641",
         "videoId": 1663641

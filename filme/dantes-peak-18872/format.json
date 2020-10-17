@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18872,
+  "additionalMeta": {
+    "canonical": "/filme/dantes-peak-18872",
+    "url": "/filme/dantes-peak-18872"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Dante's Peak",
+      "url": "/filme/dantes-peak-18872"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18872,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Dante's Peak 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Dante's Peak im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Dante's Peak 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3327763,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3327763",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18872"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_abenteuer/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_abenteuer",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Action",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Dante's Peak - Informationen zum Film",
+    "text": "Der Geologe Harry Dalton hat in der Kleinstadt Dante's Peak Anzeichen für einen bevorstehenden Vulkanausbruch entdeckt, doch niemand will dem Wissenschaftler Glauben schenken. Als die drohende Gefahr nicht mehr zu leugnen ist und die Bürgermeisterin Rachel Wando den Ernst der Lage erkennt und endlich die Evakuierung einleitet, ist es fast schon zu spät, denn der Vulkan hat bereits seine ersten Opfer gefordert.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/dante-s-peak-18872",
+        "@type": "Movie",
+        "description": "Der Geologe Harry Dalton hat in der Kleinstadt Dante's Peak Anzeichen für einen bevorstehenden Vulkanausbruch entdeckt, doch niemand will dem Wissenschaftler Glauben schenken. Als die drohende Gefahr nicht mehr zu leugnen ist und die Bürgermeisterin Rachel Wando den Ernst der Lage erkennt und endlich die Evakuierung einleitet, ist es fast schon zu spät, denn der Vulkan hat bereits seine ersten Opfer gefordert.",
+        "duration": "PT1H43M58S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3327763/950x0/dantes-peak.jpg",
+        "name": "Dante's Peak",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/dante-s-peak-18872",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-20T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=dantes-peak-18872",
+              "sameAs": "%s/premium?typ=format&formatname=dantes-peak-18872",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/dante-s-peak-18872",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Der Geologe Harry Dalton hat in der Kleinstadt Dante's Peak Anzeichen für einen bevorstehenden Vulkanausbruch entdeckt, doch niemand will dem Wissenschaftler Glauben schenken. Als die drohende Gefahr nicht mehr zu leugnen ist und die Bürgermeisterin Rachel Wando den Ernst der Lage erkennt und endlich die Evakuierung einleitet, ist es fast schon zu spät, denn der Vulkan hat bereits seine ersten Opfer gefordert.",
+          "duration": "PT1H43M58S",
+          "embedUrl": "%s/googlebot/player/filme/dante-s-peak-18872",
+          "name": "Dante's Peak",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3327763/950x0/dantes-peak.jpg",
+          "uploadDate": "2020-08-20T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Dante's Peak im Online Stream | TVNOW",
+        "headline": "Dante's Peak im Online Stream | TVNOW",
+        "description": "Dante's Peak und viele weitere  ▶️Filme aus dem Genre Action findest du im Online Stream bei TVNOW. Ein Film mit ▶️Pierce Brosnan, Linda Hamilton, Jamie Renée Smith, Jeremy Foley, Elizabeth Hoffman, Charles Hallahan, Grant Heslov, Kirk Trutner, Arabella Field, Tzi Ma, Brian Reddy, Lee Garlington, Bill Bolender, Carol Androsky, Peter Jason.",
+        "url": "%s/filme/dante-s-peak-18872",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3327763/950x0/dantes-peak.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3327763/950x0/dantes-peak.jpg",
+        "datePublished": "2020-08-20T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3327763/950x0/dantes-peak.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dante's Peak",
+            "item": "%s/filme/dantes-peak-18872"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Dante's Peak im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

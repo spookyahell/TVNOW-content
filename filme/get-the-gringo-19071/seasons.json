@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19071",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19071,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/get-the-gringo-19071"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Get the Gringo",
+          "teaserId": "film_3366286",
+          "teaserName": "Get the Gringo | Get The Gringo",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Get The Gringo",
+        "id": 3366286,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3366286/300x0/get-the-gringo.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3366286/",
+            "filename": "get-the-gringo"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3366286/600x0/get-the-gringo.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3366286/",
+            "filename": "get-the-gringo"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3366286/1200x0/get-the-gringo.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3366286/",
+            "filename": "get-the-gringo"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3366286/300x0/get-the-gringo.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3366286/",
+            "filename": "get-the-gringo"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3366286/600x0/get-the-gringo.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3366286/",
+            "filename": "get-the-gringo"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3366286/1200x0/get-the-gringo.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3366286/",
+            "filename": "get-the-gringo"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "get-the-gringo",
+        "subheadline": "Get The Gringo",
+        "text": "Staffel  | Di. 08.09.2020, 22:05 Uhr",
+        "type": "film",
+        "url": "/filme/get-the-gringo-19071",
+        "videoId": 3366286
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

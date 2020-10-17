@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18945",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18945,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/ein-ganzes-halbes-jahr-18945"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ein ganzes halbes Jahr",
+          "teaserId": "film_3390541",
+          "teaserName": "Ein ganzes halbes Jahr | Ein Ganzes halbes Jahr",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ein Ganzes halbes Jahr",
+        "id": 3390541,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3390541/300x0/ein-ganzes-halbes-jahr.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3390541/",
+            "filename": "ein-ganzes-halbes-jahr"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3390541/600x0/ein-ganzes-halbes-jahr.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3390541/",
+            "filename": "ein-ganzes-halbes-jahr"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3390541/1200x0/ein-ganzes-halbes-jahr.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3390541/",
+            "filename": "ein-ganzes-halbes-jahr"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3390541/300x0/ein-ganzes-halbes-jahr.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3390541/",
+            "filename": "ein-ganzes-halbes-jahr"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3390541/600x0/ein-ganzes-halbes-jahr.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3390541/",
+            "filename": "ein-ganzes-halbes-jahr"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3390541/1200x0/ein-ganzes-halbes-jahr.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3390541/",
+            "filename": "ein-ganzes-halbes-jahr"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ein-ganzes-halbes-jahr",
+        "subheadline": "Ein Ganzes halbes Jahr",
+        "text": "Staffel  | Di. 15.09.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/ein-ganzes-halbes-jahr-18945",
+        "videoId": 3390541
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

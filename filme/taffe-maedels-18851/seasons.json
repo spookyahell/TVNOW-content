@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18851",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18851,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/taffe-maedels-18851"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Taffe Mädels",
+          "teaserId": "film_3329403",
+          "teaserName": "Taffe Mädels | Taffe Mädels",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Taffe Mädels",
+        "id": 3329403,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329403/300x0/taffe-maedels.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329403/",
+            "filename": "taffe-maedels"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329403/600x0/taffe-maedels.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329403/",
+            "filename": "taffe-maedels"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329403/1200x0/taffe-maedels.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329403/",
+            "filename": "taffe-maedels"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329403/300x0/taffe-maedels.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329403/",
+            "filename": "taffe-maedels"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329403/600x0/taffe-maedels.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329403/",
+            "filename": "taffe-maedels"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329403/1200x0/taffe-maedels.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329403/",
+            "filename": "taffe-maedels"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "taffe-maedels",
+        "subheadline": "Taffe Mädels",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/taffe-maedels-18851",
+        "videoId": 3329403
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 19099,
+  "additionalMeta": {
+    "canonical": "/filme/terra-19099",
+    "url": "/filme/terra-19099"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Terra",
+      "url": "/filme/terra-19099"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19099,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Terra 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Terra im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Terra 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3437950,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3437950",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19099"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Terra",
+    "text": "Von Einzellern über Pilze bis hin zu Wirbeltieren - seit Äonen leben Millionen Arten von Lebewesen auf der Erde zusammen. Doch der späte Auftritt des Menschen stellt einen evolutionären Paradigmenwechsel dar: der Homo sapiens betreibt Ackerbau, domestiziert Tiere - und expandiert ohne Unterlass. \"Terra\" ist ein brillant fotografierter Appell, der auffordert, den Blick auf das Leben zu ändern.   ",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/terra-19099",
+        "@type": "Movie",
+        "description": "Von Einzellern über Pilze bis hin zu Wirbeltieren - seit Äonen leben Millionen Arten von Lebewesen auf der Erde zusammen. Doch der späte Auftritt des Menschen stellt einen evolutionären Paradigmenwechsel dar: der Homo sapiens betreibt Ackerbau, domestiziert Tiere - und expandiert ohne Unterlass. \"Terra\" ist ein brillant fotografierter Appell, der auffordert, den Blick auf das Leben zu ändern.   ",
+        "duration": "PT1H34M5S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3437950/950x0/terra.jpg",
+        "name": "Terra",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/terra-19099",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-10-27T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=terra-19099",
+              "sameAs": "%s/premium?typ=format&formatname=terra-19099",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/terra-19099",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Von Einzellern über Pilze bis hin zu Wirbeltieren - seit Äonen leben Millionen Arten von Lebewesen auf der Erde zusammen. Doch der späte Auftritt des Menschen stellt einen evolutionären Paradigmenwechsel dar: der Homo sapiens betreibt Ackerbau, domestiziert Tiere - und expandiert ohne Unterlass. \"Terra\" ist ein brillant fotografierter Appell, der auffordert, den Blick auf das Leben zu ändern.   ",
+          "duration": "PT1H34M5S",
+          "embedUrl": "%s/googlebot/player/filme/terra-19099",
+          "name": "Terra",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3437950/950x0/terra.jpg",
+          "uploadDate": "2020-10-27T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Terra im Online Stream | TVNOW",
+        "headline": "Terra im Online Stream | TVNOW",
+        "description": "Terra und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/terra-19099",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3437950/950x0/terra.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3437950/950x0/terra.jpg",
+        "datePublished": "2020-10-27T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3437950/950x0/terra.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Terra",
+            "item": "%s/filme/terra-19099"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Terra im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

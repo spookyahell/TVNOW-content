@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18885",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18885,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-mumie-18885"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Mumie",
+          "teaserId": "film_3329404",
+          "teaserName": "Die Mumie | Die Mumie",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Mumie",
+        "id": 3329404,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329404/300x0/die-mumie.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329404/",
+            "filename": "die-mumie"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329404/600x0/die-mumie.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329404/",
+            "filename": "die-mumie"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329404/1200x0/die-mumie.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329404/",
+            "filename": "die-mumie"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329404/300x0/die-mumie.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329404/",
+            "filename": "die-mumie"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329404/600x0/die-mumie.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329404/",
+            "filename": "die-mumie"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329404/1200x0/die-mumie.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329404/",
+            "filename": "die-mumie"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-mumie",
+        "subheadline": "Die Mumie",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/die-mumie-18885",
+        "videoId": 3329404
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

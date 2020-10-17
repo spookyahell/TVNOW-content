@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 17744,
+  "additionalMeta": {
+    "canonical": "/filme/riddick-17744",
+    "url": "/filme/riddick-17744"
+  },
+  "ads": {
+    "station": "vox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Riddick - Überleben ist seine Rache",
+      "url": "/filme/riddick-17744"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 17744,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Riddick - Überleben ist seine Rache 📺 und viele weitere ▶️ Filme aus dem Genre Science Fiction findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Riddick - Überleben ist seine Rache, video, videos, online sehen, internet tv, fernsehen, video on demand, TV NOW, TVNOW",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Riddick - Überleben ist seine Rache im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Riddick - Überleben ist seine Rache 📺 und viele weitere ▶️ Filme aus dem Genre Science Fiction findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3476664,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3476664",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17744"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_vnfilme",
+      "video": "dvrsowf_ten_vnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/vox_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "vox_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Science Fiction",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zur Serie: Riddick",
+    "text": "Von den eigenen Leuten verraten und schwerverletzt, muss sich Riddick auf einem unbewohnten Wüstenplaneten durchschlagen. Als er sich gerade vermeintlich in Sicherheit gebracht hat, zieht am Horizont ein tödlicher Regen auf und Riddick bleiben nur wenige Tage, um den Planeten zu verlassen. Obwohl er um die Gefahr weiß, setzt er von einer verlassenen Station einen Notruf ab. Dieser lockt eine Truppe skrupelloser Kopfgeldjäger an.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/riddick-ueberleben-ist-seine-rache-17744",
+        "@type": "Movie",
+        "description": "Von den eigenen Leuten verraten und schwerverletzt, muss sich Riddick auf einem unbewohnten Wüstenplaneten durchschlagen. Als er sich gerade vermeintlich in Sicherheit gebracht hat, zieht am Horizont ein tödlicher Regen auf und Riddick bleiben nur wenige Tage, um den Planeten zu verlassen. Obwohl er um die Gefahr weiß, setzt er von einer verlassenen Station einen Notruf ab. Dieser lockt eine Truppe skrupelloser Kopfgeldjäger an.",
+        "duration": "PT2H1M37S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3476664/950x0/riddick.jpg",
+        "name": "Riddick - Überleben ist seine Rache",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/riddick-ueberleben-ist-seine-rache-17744",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2020-10-15T22:50:00.000Z"
+          }
+        },
+        "url": "%s/filme/riddick-ueberleben-ist-seine-rache-17744",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Von den eigenen Leuten verraten und schwerverletzt, muss sich Riddick auf einem unbewohnten Wüstenplaneten durchschlagen. Als er sich gerade vermeintlich in Sicherheit gebracht hat, zieht am Horizont ein tödlicher Regen auf und Riddick bleiben nur wenige Tage, um den Planeten zu verlassen. Obwohl er um die Gefahr weiß, setzt er von einer verlassenen Station einen Notruf ab. Dieser lockt eine Truppe skrupelloser Kopfgeldjäger an.",
+          "duration": "PT2H1M37S",
+          "embedUrl": "%s/googlebot/player/filme/riddick-ueberleben-ist-seine-rache-17744",
+          "name": "Riddick - Überleben ist seine Rache",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3476664/950x0/riddick.jpg",
+          "uploadDate": "2020-10-15T22:50:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Riddick - Überleben ist seine Rache im Online Stream | TVNOW",
+        "headline": "Riddick - Überleben ist seine Rache im Online Stream | TVNOW",
+        "description": "Riddick - Überleben ist seine Rache und viele weitere  ▶️Filme aus dem Genre Science Fiction findest du im Online Stream bei TVNOW. Ein Film mit ▶️Vin Diesel, Jordi Molla, Matthew Nable, Katee Sackhoff, Dave Bautista, Bokeem Woodbine, Raoul Trujillo, Karl Urban, Nolan Gerard Funk, Conrad Pia, Andreas Apergis, Neil Napier.",
+        "url": "%s/filme/riddick-ueberleben-ist-seine-rache-17744",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3476664/950x0/riddick.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3476664/950x0/riddick.jpg",
+        "datePublished": "2020-10-15T22:50:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3476664/950x0/riddick.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Riddick - Überleben ist seine Rache",
+            "item": "%s/filme/riddick-17744"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Riddick - Überleben ist seine Rache im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

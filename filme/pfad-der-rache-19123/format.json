@@ -1,0 +1,223 @@
+﻿{
+  "formatId": 19123,
+  "additionalMeta": {
+    "canonical": "/filme/pfad-der-rache-19123",
+    "url": "/filme/pfad-der-rache-19123"
+  },
+  "ads": {
+    "station": "rtl2",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Pfad der Rache",
+      "url": "/filme/pfad-der-rache-19123"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 19123,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Pfad der Rache 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Pfad der Rache im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Pfad der Rache 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3485564,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3485564",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19123"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_r2nfilme",
+      "video": "dvrsowf_ten_r2nfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_2_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_2_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Action",
+    "cluster": [
+      "Promis"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Pfad der Rache",
+    "text": "Frank Valeria ist ein erfolgreicher Strafverteidiger, der seine ganze Energie in seinen Job steckt und zu wenig Zeit mit seiner Familie verbringt. Als seine Frau und seine Tochter brutal ermordet werden, wird Frank von schweren Schuldgefühlen geplagt. Da die Polizei bei den Ermittlungen auf der Stelle tritt beschließt Frank, den Täter auf eigene Faust ausfindig zu machen. Er legt ein Schweigegelübde ab und fängt an bis zur äußersten Erschöpfung zu trainieren, um seinen Körper in eine...",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/pfad-der-rache-19123",
+        "@type": "Movie",
+        "description": "Frank Valeria ist ein erfolgreicher Strafverteidiger, der seine ganze Energie in seinen Job steckt und zu wenig Zeit mit seiner Familie verbringt. Als seine Frau und seine Tochter brutal ermordet werden, wird Frank von schweren Schuldgefühlen geplagt. Da die Polizei bei den Ermittlungen auf der Stelle tritt beschließt Frank, den Täter auf eigene Faust ausfindig zu machen. Er legt ein Schweigegelübde ab und fängt an bis zur äußersten Erschöpfung zu trainieren, um seinen Körper in eine...",
+        "duration": "PT1H23M31S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3485564/950x0/pfad-der-rache.jpg",
+        "name": "Pfad der Rache",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/pfad-der-rache-19123",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2020-10-16T22:30:00.000Z"
+          }
+        },
+        "url": "%s/filme/pfad-der-rache-19123",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Frank Valeria ist ein erfolgreicher Strafverteidiger, der seine ganze Energie in seinen Job steckt und zu wenig Zeit mit seiner Familie verbringt. Als seine Frau und seine Tochter brutal ermordet werden, wird Frank von schweren Schuldgefühlen geplagt. Da die Polizei bei den Ermittlungen auf der Stelle tritt beschließt Frank, den Täter auf eigene Faust ausfindig zu machen. Er legt ein Schweigegelübde ab und fängt an bis zur äußersten Erschöpfung zu trainieren, um seinen Körper in eine...",
+          "duration": "PT1H23M31S",
+          "embedUrl": "%s/googlebot/player/filme/pfad-der-rache-19123",
+          "name": "Pfad der Rache",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3485564/950x0/pfad-der-rache.jpg",
+          "uploadDate": "2020-10-16T22:30:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Pfad der Rache im Online Stream | TVNOW",
+        "headline": "Pfad der Rache im Online Stream | TVNOW",
+        "description": "Pfad der Rache und viele weitere  ▶️Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/pfad-der-rache-19123",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3485564/950x0/pfad-der-rache.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3485564/950x0/pfad-der-rache.jpg",
+        "datePublished": "2020-10-16T22:30:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3485564/950x0/pfad-der-rache.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pfad der Rache",
+            "item": "%s/filme/pfad-der-rache-19123"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Pfad der Rache im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

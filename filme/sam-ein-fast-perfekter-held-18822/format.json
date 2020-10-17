@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 18822,
+  "additionalMeta": {
+    "canonical": "/filme/sam-ein-fast-perfekter-held-18822",
+    "url": "/filme/sam-ein-fast-perfekter-held-18822"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Sam - Ein fast perfekter Held",
+      "url": "/filme/sam-ein-fast-perfekter-held-18822"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18822,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Sam - Ein fast perfekter Held 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Sam - Ein fast perfekter Held im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Sam - Ein fast perfekter Held 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3289351,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3289351",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18822"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Sam - Ein fast perfekter Held",
+    "text": "Mechaniker Sam möchte seine große Liebe Sue zu heiraten. Dazu besorgt er den größten und schönsten Verlobungsring. Dummerweise ähnelt genau dieser Ring dem Ring, den der hinterhältige Oscar zur Übernahme der Weltherrschaft konstruiert hat.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/sam-ein-fast-perfekter-held-18822",
+        "@type": "Movie",
+        "description": "Mechaniker Sam möchte seine große Liebe Sue zu heiraten. Dazu besorgt er den größten und schönsten Verlobungsring. Dummerweise ähnelt genau dieser Ring dem Ring, den der hinterhältige Oscar zur Übernahme der Weltherrschaft konstruiert hat.",
+        "duration": "PT1H17M43S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3289351/950x0/sam-ein-fast-perfekter-held.jpg",
+        "name": "Sam - Ein fast perfekter Held",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/sam-ein-fast-perfekter-held-18822",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-06-29T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=sam-ein-fast-perfekter-held-18822",
+              "sameAs": "%s/premium?typ=format&formatname=sam-ein-fast-perfekter-held-18822",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/sam-ein-fast-perfekter-held-18822",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Mechaniker Sam möchte seine große Liebe Sue zu heiraten. Dazu besorgt er den größten und schönsten Verlobungsring. Dummerweise ähnelt genau dieser Ring dem Ring, den der hinterhältige Oscar zur Übernahme der Weltherrschaft konstruiert hat.",
+          "duration": "PT1H17M43S",
+          "embedUrl": "%s/googlebot/player/filme/sam-ein-fast-perfekter-held-18822",
+          "name": "Sam - Ein fast perfekter Held",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3289351/950x0/sam-ein-fast-perfekter-held.jpg",
+          "uploadDate": "2020-06-29T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Sam - Ein fast perfekter Held im Online Stream | TVNOW",
+        "headline": "Sam - Ein fast perfekter Held im Online Stream | TVNOW",
+        "description": "Sam - Ein fast perfekter Held und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/sam-ein-fast-perfekter-held-18822",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3289351/950x0/sam-ein-fast-perfekter-held.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3289351/950x0/sam-ein-fast-perfekter-held.jpg",
+        "datePublished": "2020-06-29T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3289351/950x0/sam-ein-fast-perfekter-held.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sam - Ein fast perfekter Held",
+            "item": "%s/filme/sam-ein-fast-perfekter-held-18822"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Sam - Ein fast perfekter Held im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18882",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18882,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/tatsaechlich-liebe-18882"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Tatsächlich Liebe",
+          "teaserId": "film_3324789",
+          "teaserName": "Tatsächlich Liebe | Tatsächlich... Liebe",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Tatsächlich... Liebe",
+        "id": 3324789,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324789/300x0/tatsaechlich-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324789/",
+            "filename": "tatsaechlich-liebe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324789/600x0/tatsaechlich-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324789/",
+            "filename": "tatsaechlich-liebe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324789/1200x0/tatsaechlich-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324789/",
+            "filename": "tatsaechlich-liebe"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324789/300x0/tatsaechlich-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324789/",
+            "filename": "tatsaechlich-liebe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324789/600x0/tatsaechlich-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324789/",
+            "filename": "tatsaechlich-liebe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324789/1200x0/tatsaechlich-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324789/",
+            "filename": "tatsaechlich-liebe"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "tatsaechlich-liebe",
+        "subheadline": "Tatsächlich... Liebe",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/tatsaechlich-liebe-18882",
+        "videoId": 3324789
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

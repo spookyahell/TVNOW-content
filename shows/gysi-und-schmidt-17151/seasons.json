@@ -109,112 +109,6 @@
     "ecommerce": {
       "rowCategory": "small_teaser",
       "rowId": "na",
-      "rowName": "Staffel 2019, Monat 7"
-    },
-    "id": null,
-    "label": null,
-    "moduleLayout": "format_episode",
-    "moduleUrl": "/module/teaserrow/format/episode/17151",
-    "type": "teaserrow",
-    "items": [
-      {
-        "buttons": [
-          {
-            "display": true,
-            "formatId": 17151,
-            "text": null,
-            "type": "favorites"
-          },
-          {
-            "display": true,
-            "text": "Jetzt ansehen",
-            "type": "play",
-            "url": "/shows/gysi-und-schmidt-17151/2019-07/episode-1-der-n-tv-jahresrueckblick-2019-halbzeit-1640848"
-          }
-        ],
-        "ecommerce": {
-          "teaserFormatName": "Gysi & Schmidt ",
-          "teaserId": "show_episode_1640848",
-          "teaserName": "Gysi & Schmidt  | Staffel 2 | Folge 1 | Der n-tv Jahresrückblick 2019 - Halbzeit",
-          "teaserPayType": "free",
-          "teaserType": "show_episode",
-          "teaserGenre": "Dokumentation",
-          "cluster": [],
-          "classification": [],
-          "teaserSeason": "Staffel 2",
-          "teaserEpisodeNumber": "Folge 1",
-          "teaserEpisodeAirtime": "Di. 02.07.2019, 23:30 Uhr",
-          "teaserEpisodeName": "Der n-tv Jahresrückblick 2019 - Halbzeit"
-        },
-        "fsk": {
-          "isVisible": false,
-          "label": "ab 0",
-          "minAge": 0
-        },
-        "headline": "Der n-tv Jahresrückblick 2019 - Halbzeit",
-        "id": 1640848,
-        "images": [
-          {
-            "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/1640848/300x0/der-n-tv-jahresrueckblick-2019-halbzeit.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/1640848/",
-            "filename": "der-n-tv-jahresrueckblick-2019-halbzeit"
-          },
-          {
-            "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/1640848/600x0/der-n-tv-jahresrueckblick-2019-halbzeit.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/1640848/",
-            "filename": "der-n-tv-jahresrueckblick-2019-halbzeit"
-          },
-          {
-            "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/1640848/1200x0/der-n-tv-jahresrueckblick-2019-halbzeit.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/1640848/",
-            "filename": "der-n-tv-jahresrueckblick-2019-halbzeit"
-          }
-        ],
-        "imagesHover": [
-          {
-            "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/1640848/300x0/der-n-tv-jahresrueckblick-2019-halbzeit.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/1640848/",
-            "filename": "der-n-tv-jahresrueckblick-2019-halbzeit"
-          },
-          {
-            "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/1640848/600x0/der-n-tv-jahresrueckblick-2019-halbzeit.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/1640848/",
-            "filename": "der-n-tv-jahresrueckblick-2019-halbzeit"
-          },
-          {
-            "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/1640848/1200x0/der-n-tv-jahresrueckblick-2019-halbzeit.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/1640848/",
-            "filename": "der-n-tv-jahresrueckblick-2019-halbzeit"
-          }
-        ],
-        "isPremium": false,
-        "overlays": [
-          "premium"
-        ],
-        "seoUrl": "gysi-und-schmidt",
-        "subheadline": "Der n-tv Jahresrückblick 2019 - Halbzeit",
-        "text": "Staffel 2, Folge 1 | Di. 02.07.2019, 23:30 Uhr",
-        "type": "show",
-        "url": "/shows/gysi-und-schmidt-17151/2019-07/episode-1-der-n-tv-jahresrueckblick-2019-halbzeit-1640848",
-        "videoId": 1640848
-      }
-    ],
-    "format_navigation": {
-      "month": 7,
-      "year": 2019
-    },
-    "navigationType": "annual"
-  },
-  {
-    "ecommerce": {
-      "rowCategory": "small_teaser",
-      "rowId": "na",
       "rowName": "Staffel 2019, Monat 12"
     },
     "id": null,
@@ -314,6 +208,112 @@
     "format_navigation": {
       "month": 12,
       "year": 2019
+    },
+    "navigationType": "annual"
+  },
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 2020, Monat 7"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17151",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17151,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/gysi-und-schmidt-17151/2020-07/episode-1-der-ntv-jahresrueckblick-2020-halbzeit-3247507"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Gysi & Schmidt ",
+          "teaserId": "show_episode_3247507",
+          "teaserName": "Gysi & Schmidt  | Staffel 3 | Folge 1 | Der ntv Jahresrückblick 2020 - Halbzeit",
+          "teaserPayType": "free",
+          "teaserType": "show_episode",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Fr. 03.07.2020, 19:10 Uhr",
+          "teaserEpisodeName": "Der ntv Jahresrückblick 2020 - Halbzeit"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der ntv Jahresrückblick 2020 - Halbzeit",
+        "id": 3247507,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3247507/300x0/der-ntv-jahresrueckblick-2020-halbzeit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3247507/",
+            "filename": "der-ntv-jahresrueckblick-2020-halbzeit"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3247507/600x0/der-ntv-jahresrueckblick-2020-halbzeit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3247507/",
+            "filename": "der-ntv-jahresrueckblick-2020-halbzeit"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3247507/1200x0/der-ntv-jahresrueckblick-2020-halbzeit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3247507/",
+            "filename": "der-ntv-jahresrueckblick-2020-halbzeit"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3247507/300x0/der-ntv-jahresrueckblick-2020-halbzeit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3247507/",
+            "filename": "der-ntv-jahresrueckblick-2020-halbzeit"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3247507/600x0/der-ntv-jahresrueckblick-2020-halbzeit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3247507/",
+            "filename": "der-ntv-jahresrueckblick-2020-halbzeit"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3247507/1200x0/der-ntv-jahresrueckblick-2020-halbzeit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3247507/",
+            "filename": "der-ntv-jahresrueckblick-2020-halbzeit"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "gysi-und-schmidt",
+        "subheadline": "Der ntv Jahresrückblick 2020 - Halbzeit",
+        "text": "Staffel 3, Folge 1 | Fr. 03.07.2020, 19:10 Uhr",
+        "type": "show",
+        "url": "/shows/gysi-und-schmidt-17151/2020-07/episode-1-der-ntv-jahresrueckblick-2020-halbzeit-3247507",
+        "videoId": 3247507
+      }
+    ],
+    "format_navigation": {
+      "month": 7,
+      "year": 2020
     },
     "navigationType": "annual"
   }

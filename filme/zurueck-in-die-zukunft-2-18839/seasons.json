@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18839",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18839,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/zurueck-in-die-zukunft-ii-18839"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Zurück in die Zukunft 2",
+          "teaserId": "film_3328900",
+          "teaserName": "Zurück in die Zukunft 2 | Zurück in die Zukunft II",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Zurück in die Zukunft II",
+        "id": 3328900,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328900/300x0/zurueck-in-die-zukunft-ii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328900/",
+            "filename": "zurueck-in-die-zukunft-ii"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328900/600x0/zurueck-in-die-zukunft-ii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328900/",
+            "filename": "zurueck-in-die-zukunft-ii"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328900/1200x0/zurueck-in-die-zukunft-ii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328900/",
+            "filename": "zurueck-in-die-zukunft-ii"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328900/300x0/zurueck-in-die-zukunft-ii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328900/",
+            "filename": "zurueck-in-die-zukunft-ii"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328900/600x0/zurueck-in-die-zukunft-ii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328900/",
+            "filename": "zurueck-in-die-zukunft-ii"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328900/1200x0/zurueck-in-die-zukunft-ii.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328900/",
+            "filename": "zurueck-in-die-zukunft-ii"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "zurueck-in-die-zukunft-2",
+        "subheadline": "Zurück in die Zukunft II",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/zurueck-in-die-zukunft-ii-18839",
+        "videoId": 3328900
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

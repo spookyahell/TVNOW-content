@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18961",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18961,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-transporter-refueled-18961"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Transporter Refueled",
+          "teaserId": "film_3327761",
+          "teaserName": "The Transporter Refueled | The Transporter Refueled",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Transporter Refueled",
+        "id": 3327761,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327761/300x0/the-transporter-refueled.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327761/",
+            "filename": "the-transporter-refueled"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327761/600x0/the-transporter-refueled.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327761/",
+            "filename": "the-transporter-refueled"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327761/1200x0/the-transporter-refueled.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327761/",
+            "filename": "the-transporter-refueled"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327761/300x0/the-transporter-refueled.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327761/",
+            "filename": "the-transporter-refueled"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327761/600x0/the-transporter-refueled.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327761/",
+            "filename": "the-transporter-refueled"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327761/1200x0/the-transporter-refueled.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327761/",
+            "filename": "the-transporter-refueled"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-transporter-refueled",
+        "subheadline": "The Transporter Refueled",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/the-transporter-refueled-18961",
+        "videoId": 3327761
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

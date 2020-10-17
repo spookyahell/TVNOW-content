@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/7929",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 7929,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-legende-von-sarila-7929"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Legende von Sarila",
+          "teaserId": "film_3213154",
+          "teaserName": "Die Legende von Sarila | Die Legende von Sarila",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "Kids"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Legende von Sarila",
+        "id": 3213154,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3213154/300x0/die-legende-von-sarila.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3213154/",
+            "filename": "die-legende-von-sarila"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3213154/600x0/die-legende-von-sarila.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3213154/",
+            "filename": "die-legende-von-sarila"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3213154/1200x0/die-legende-von-sarila.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3213154/",
+            "filename": "die-legende-von-sarila"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3213154/300x0/die-legende-von-sarila.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3213154/",
+            "filename": "die-legende-von-sarila"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3213154/600x0/die-legende-von-sarila.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3213154/",
+            "filename": "die-legende-von-sarila"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3213154/1200x0/die-legende-von-sarila.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3213154/",
+            "filename": "die-legende-von-sarila"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-legende-von-sarila",
+        "subheadline": "Die Legende von Sarila",
+        "text": "Staffel  | Fr. 19.06.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/die-legende-von-sarila-7929",
+        "videoId": 3213154
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

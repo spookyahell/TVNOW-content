@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19155",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19155,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/manta-manta-19155"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Manta Manta",
+          "teaserId": "film_3477586",
+          "teaserName": "Manta Manta | Manta Manta",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Manta Manta",
+        "id": 3477586,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3477586/300x0/manta-manta.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3477586/",
+            "filename": "manta-manta"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3477586/600x0/manta-manta.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3477586/",
+            "filename": "manta-manta"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3477586/1200x0/manta-manta.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3477586/",
+            "filename": "manta-manta"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3477586/300x0/manta-manta.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3477586/",
+            "filename": "manta-manta"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3477586/600x0/manta-manta.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3477586/",
+            "filename": "manta-manta"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3477586/1200x0/manta-manta.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3477586/",
+            "filename": "manta-manta"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "manta-manta",
+        "subheadline": "Manta Manta",
+        "text": "Staffel  | Mi. 14.10.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/manta-manta-19155",
+        "videoId": 3477586
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

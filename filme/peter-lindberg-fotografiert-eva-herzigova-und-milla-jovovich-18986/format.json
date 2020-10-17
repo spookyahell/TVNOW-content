@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18986,
+  "additionalMeta": {
+    "canonical": "/filme/peter-lindberg-fotografiert-eva-herzigova-und-milla-jovovich-18986",
+    "url": "/filme/peter-lindberg-fotografiert-eva-herzigova-und-milla-jovovich-18986"
+  },
+  "ads": {
+    "station": "living",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Peter Lindberg fotografiert Eva Herzigova und Milla Jovovich",
+      "url": "/filme/peter-lindberg-fotografiert-eva-herzigova-und-milla-jovovich-18986"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18986,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Peter Lindberg fotografiert Eva Herzigova und Milla Jovovich 📺 und viele weitere ▶️ Filme aus dem Genre Lifestyle findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Peter Lindberg fotografiert Eva Herzigova und Milla Jovovich im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Peter Lindberg fotografiert Eva Herzigova und Milla Jovovich 📺 und viele weitere ▶️ Filme aus dem Genre Lifestyle findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3343764,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3343764",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18986"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/living_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "living_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Lifestyle",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Peter Lindbergh fotografiert Eva Herzigova und Milla Jovovich",
+    "text": "Die 1990er Jahre bringen einen neuen Typen des Supermodels hervor - dieser ist nicht nur international gefragt, attraktiv und wandelbar, sondern auch überaus selbstbewusst und charakterstark: Auch Eva Herzigova und Milla Jovovich stellen die Modewelt im jungen Alter auf den Kopf. Der deutsche Starfotograf Peter Lindbergh inszeniert beide und zeigt, dass Mode-Fotografie nicht nur Schönheit, sondern auch Charakter erzählen kann.  \n\n\n",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/peter-lindbergh-fotografiert-eva-herzigova-und-milla-jovovich-18986",
+        "@type": "Movie",
+        "description": "Die 1990er Jahre bringen einen neuen Typen des Supermodels hervor - dieser ist nicht nur international gefragt, attraktiv und wandelbar, sondern auch überaus selbstbewusst und charakterstark: Auch Eva Herzigova und Milla Jovovich stellen die Modewelt im jungen Alter auf den Kopf. Der deutsche Starfotograf Peter Lindbergh inszeniert beide und zeigt, dass Mode-Fotografie nicht nur Schönheit, sondern auch Charakter erzählen kann.  \n\n\n",
+        "duration": "PT50M56S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3343764/950x0/peter-lindberg-fotografiert-eva-herzigova-und-milla-jovovich.jpg",
+        "name": "Peter Lindberg fotografiert Eva Herzigova und Milla Jovovich",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/peter-lindbergh-fotografiert-eva-herzigova-und-milla-jovovich-18986",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-09-02T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=peter-lindberg-fotografiert-eva-herzigova-und-milla-jovovich-18986",
+              "sameAs": "%s/premium?typ=format&formatname=peter-lindberg-fotografiert-eva-herzigova-und-milla-jovovich-18986",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/peter-lindbergh-fotografiert-eva-herzigova-und-milla-jovovich-18986",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die 1990er Jahre bringen einen neuen Typen des Supermodels hervor - dieser ist nicht nur international gefragt, attraktiv und wandelbar, sondern auch überaus selbstbewusst und charakterstark: Auch Eva Herzigova und Milla Jovovich stellen die Modewelt im jungen Alter auf den Kopf. Der deutsche Starfotograf Peter Lindbergh inszeniert beide und zeigt, dass Mode-Fotografie nicht nur Schönheit, sondern auch Charakter erzählen kann.  \n\n\n",
+          "duration": "PT50M56S",
+          "embedUrl": "%s/googlebot/player/filme/peter-lindbergh-fotografiert-eva-herzigova-und-milla-jovovich-18986",
+          "name": "Peter Lindberg fotografiert Eva Herzigova und Milla Jovovich",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3343764/950x0/peter-lindberg-fotografiert-eva-herzigova-und-milla-jovovich.jpg",
+          "uploadDate": "2020-09-02T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Peter Lindberg fotografiert Eva Herzigova und Milla Jovovich im Online Stream | TVNOW",
+        "headline": "Peter Lindberg fotografiert Eva Herzigova und Milla Jovovich im Online Stream | TVNOW",
+        "description": "Peter Lindberg fotografiert Eva Herzigova und Milla Jovovich und viele weitere  ▶️Filme aus dem Genre Lifestyle findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/peter-lindbergh-fotografiert-eva-herzigova-und-milla-jovovich-18986",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3343764/950x0/peter-lindberg-fotografiert-eva-herzigova-und-milla-jovovich.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3343764/950x0/peter-lindberg-fotografiert-eva-herzigova-und-milla-jovovich.jpg",
+        "datePublished": "2020-09-02T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3343764/950x0/peter-lindberg-fotografiert-eva-herzigova-und-milla-jovovich.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Peter Lindberg fotografiert Eva Herzigova und Milla Jovovich",
+            "item": "%s/filme/peter-lindberg-fotografiert-eva-herzigova-und-milla-jovovich-18986"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Peter Lindberg fotografiert Eva Herzigova und Milla Jovovich im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

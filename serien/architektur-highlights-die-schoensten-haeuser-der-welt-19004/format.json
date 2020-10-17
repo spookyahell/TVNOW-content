@@ -1,0 +1,206 @@
+﻿{
+  "formatId": 19004,
+  "additionalMeta": {
+    "canonical": "/serien/architektur-highlights-die-schoensten-haeuser-der-welt-19004",
+    "url": "/serien/architektur-highlights-die-schoensten-haeuser-der-welt-19004"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Architektur-Highlights - Die schönsten Häuser der Welt",
+      "url": "/serien/architektur-highlights-die-schoensten-haeuser-der-welt-19004"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 19004,
+  "meta": [
+    {
+      "content": "Die Serie Architektur-Highlights - Die schönsten Häuser der Welt (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺  im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Architektur-Highlights - Die schönsten Häuser der Welt im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Architektur-Highlights - Die schönsten Häuser der Welt (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺  im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/19004",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/19004",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/19004",
+      "type": "teaserrow"
+    },
+    {
+      "id": 19004,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19004",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/formate/home",
+      "levels": [
+        "tv_now_de",
+        "formate",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/architektur-highlights-die-schoensten-haeuser-der-welt-19004",
+        "url": "%s/serien/architektur-highlights-die-schoensten-haeuser-der-welt-19004",
+        "name": "Architektur-Highlights - Die schönsten Häuser der Welt",
+        "description": "Die Serie Architektur-Highlights - Die schönsten Häuser der Welt (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺  im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/19004_04metalogo/1200x0/architektur-highlights-die-schoensten-haeuser-der-welt.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "",
+        "headline": "",
+        "description": "Die Serie Architektur-Highlights - Die schönsten Häuser der Welt (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺  im Online Stream bei TVNOW anschauen.",
+        "url": "%s/serien/architektur-highlights-die-schoensten-haeuser-der-welt-19004",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/19004_04metalogo/1200x0/architektur-highlights-die-schoensten-haeuser-der-welt.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/19004_04metalogo/1200x0/architektur-highlights-die-schoensten-haeuser-der-welt.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/19004_04metalogo/1200x0/architektur-highlights-die-schoensten-haeuser-der-welt.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Architektur-Highlights - Die schönsten Häuser der Welt",
+            "item": "%s/serien/architektur-highlights-die-schoensten-haeuser-der-welt-19004"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Architektur-Highlights - Die schönsten Häuser der Welt im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

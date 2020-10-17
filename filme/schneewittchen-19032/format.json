@@ -1,0 +1,232 @@
+﻿{
+  "formatId": 19032,
+  "additionalMeta": {
+    "canonical": "/filme/schneewittchen-19032",
+    "url": "/filme/schneewittchen-19032"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Schneewittchen",
+      "url": "/filme/schneewittchen-19032"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19032,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Schneewittchen 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Schneewittchen im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Schneewittchen 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3348931,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3348931",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19032"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now_kids/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now_kids",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Mädchen",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Schneewittchen - Information zur Kinderserie ",
+    "text": "Schneewittchen flüchtet vor ihrer bösen Stiefmutter, die Schneewittchens Schönheit nicht erträgt und ihr nach dem Leben trachtet, zu den sieben Zwergen hinter den sieben Bergen. Dort kümmert sich Schneewittchen aufopfernd um den Haushalt. Doch der missgünstigen Stiefmutter gelingt es, Schneewittchen aufzuspüren. Mit verschiedenen Tricks versucht sich, ihre ungeliebte Stieftochter zu töten, was ihr beinahe auch gelingt.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/schneewittchen-19032",
+        "@type": "Movie",
+        "description": "Schneewittchen flüchtet vor ihrer bösen Stiefmutter, die Schneewittchens Schönheit nicht erträgt und ihr nach dem Leben trachtet, zu den sieben Zwergen hinter den sieben Bergen. Dort kümmert sich Schneewittchen aufopfernd um den Haushalt. Doch der missgünstigen Stiefmutter gelingt es, Schneewittchen aufzuspüren. Mit verschiedenen Tricks versucht sich, ihre ungeliebte Stieftochter zu töten, was ihr beinahe auch gelingt.",
+        "duration": "PT1H22S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3348931/950x0/schneewittchen.jpg",
+        "name": "Schneewittchen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/schneewittchen-19032",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-06-30T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=schneewittchen-19032",
+              "sameAs": "%s/premium?typ=format&formatname=schneewittchen-19032",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/schneewittchen-19032",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Schneewittchen flüchtet vor ihrer bösen Stiefmutter, die Schneewittchens Schönheit nicht erträgt und ihr nach dem Leben trachtet, zu den sieben Zwergen hinter den sieben Bergen. Dort kümmert sich Schneewittchen aufopfernd um den Haushalt. Doch der missgünstigen Stiefmutter gelingt es, Schneewittchen aufzuspüren. Mit verschiedenen Tricks versucht sich, ihre ungeliebte Stieftochter zu töten, was ihr beinahe auch gelingt.",
+          "duration": "PT1H22S",
+          "embedUrl": "%s/googlebot/player/filme/schneewittchen-19032",
+          "name": "Schneewittchen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3348931/950x0/schneewittchen.jpg",
+          "uploadDate": "2020-06-30T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Schneewittchen im Online Stream | TVNOW",
+        "headline": "Schneewittchen im Online Stream | TVNOW",
+        "description": "Schneewittchen und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/schneewittchen-19032",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3348931/950x0/schneewittchen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3348931/950x0/schneewittchen.jpg",
+        "datePublished": "2020-06-30T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3348931/950x0/schneewittchen.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Schneewittchen",
+            "item": "%s/filme/schneewittchen-19032"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Schneewittchen im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

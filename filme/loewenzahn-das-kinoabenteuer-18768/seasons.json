@@ -1,0 +1,108 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18768",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18768,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/loewenzahn-das-kinoabenteuer-18768"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Löwenzahn - Das Kinoabenteuer",
+          "teaserId": "film_3239430",
+          "teaserName": "Löwenzahn - Das Kinoabenteuer | Löwenzahn - Das Kinoabenteuer",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 3 bis 6 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Löwenzahn - Das Kinoabenteuer",
+        "id": 3239430,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3239430/300x0/loewenzahn-das-kinoabenteuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3239430/",
+            "filename": "loewenzahn-das-kinoabenteuer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3239430/600x0/loewenzahn-das-kinoabenteuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3239430/",
+            "filename": "loewenzahn-das-kinoabenteuer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3239430/1200x0/loewenzahn-das-kinoabenteuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3239430/",
+            "filename": "loewenzahn-das-kinoabenteuer"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3239430/300x0/loewenzahn-das-kinoabenteuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3239430/",
+            "filename": "loewenzahn-das-kinoabenteuer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3239430/600x0/loewenzahn-das-kinoabenteuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3239430/",
+            "filename": "loewenzahn-das-kinoabenteuer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3239430/1200x0/loewenzahn-das-kinoabenteuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3239430/",
+            "filename": "loewenzahn-das-kinoabenteuer"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "loewenzahn-das-kinoabenteuer",
+        "subheadline": "Löwenzahn - Das Kinoabenteuer",
+        "text": "Staffel  | Di. 30.06.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/loewenzahn-das-kinoabenteuer-18768",
+        "videoId": 3239430
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

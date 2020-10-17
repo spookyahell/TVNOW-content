@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 19060,
+  "additionalMeta": {
+    "canonical": "/filme/halloween-h20-19060",
+    "url": "/filme/halloween-h20-19060"
+  },
+  "ads": {
+    "station": "rtl2",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Halloween H20 - 20 Jahre später",
+      "url": "/filme/halloween-h20-19060"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 19060,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Halloween H20 - 20 Jahre später 📺 und viele weitere ▶️ Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Halloween H20 - 20 Jahre später im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Halloween H20 - 20 Jahre später 📺 und viele weitere ▶️ Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3349356,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3349356",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19060"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_r2nfilme",
+      "video": "dvrsowf_ten_r2nfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_2_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_2_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Thriller",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Halloween H20 - 20 Jahre später",
+    "text": "20 Jahre sind vergangen seit den schrecklichen Ereignissen der Halloweennacht in Haddonfield 1978. Laurie Strode, die Schwester des Killers Michael Myers, hat eine neue Identität angenommen und ist Leiterin eines Privat-Internats. Zu Halloween verlassen die meisten Schüler das Internat, nur einige wenige sowie Laurie und ihre Familie bleiben zurück. In der Nacht geschieht das, was niemand für möglich hielt. Während einer Halloweenparty, die Lauries Sohn Josh trotz eines Verbotes seiner...",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/halloween-h20-20-jahre-spaeter-19060",
+        "@type": "Movie",
+        "description": "20 Jahre sind vergangen seit den schrecklichen Ereignissen der Halloweennacht in Haddonfield 1978. Laurie Strode, die Schwester des Killers Michael Myers, hat eine neue Identität angenommen und ist Leiterin eines Privat-Internats. Zu Halloween verlassen die meisten Schüler das Internat, nur einige wenige sowie Laurie und ihre Familie bleiben zurück. In der Nacht geschieht das, was niemand für möglich hielt. Während einer Halloweenparty, die Lauries Sohn Josh trotz eines Verbotes seiner...",
+        "duration": "PT1H21M12S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3349356/950x0/halloween-h20.jpg",
+        "name": "Halloween H20 - 20 Jahre später",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/halloween-h20-20-jahre-spaeter-19060",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2020-09-07T00:15:00.000Z"
+          }
+        },
+        "url": "%s/filme/halloween-h20-20-jahre-spaeter-19060",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "20 Jahre sind vergangen seit den schrecklichen Ereignissen der Halloweennacht in Haddonfield 1978. Laurie Strode, die Schwester des Killers Michael Myers, hat eine neue Identität angenommen und ist Leiterin eines Privat-Internats. Zu Halloween verlassen die meisten Schüler das Internat, nur einige wenige sowie Laurie und ihre Familie bleiben zurück. In der Nacht geschieht das, was niemand für möglich hielt. Während einer Halloweenparty, die Lauries Sohn Josh trotz eines Verbotes seiner...",
+          "duration": "PT1H21M12S",
+          "embedUrl": "%s/googlebot/player/filme/halloween-h20-20-jahre-spaeter-19060",
+          "name": "Halloween H20 - 20 Jahre später",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3349356/950x0/halloween-h20.jpg",
+          "uploadDate": "2020-09-07T00:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Halloween H20 - 20 Jahre später im Online Stream | TVNOW",
+        "headline": "Halloween H20 - 20 Jahre später im Online Stream | TVNOW",
+        "description": "Halloween H20 - 20 Jahre später und viele weitere  ▶️Filme aus dem Genre Thriller findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/halloween-h20-20-jahre-spaeter-19060",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3349356/950x0/halloween-h20.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3349356/950x0/halloween-h20.jpg",
+        "datePublished": "2020-09-07T00:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3349356/950x0/halloween-h20.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Halloween H20 - 20 Jahre später",
+            "item": "%s/filme/halloween-h20-19060"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Halloween H20 - 20 Jahre später im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

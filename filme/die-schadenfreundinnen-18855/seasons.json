@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18855",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18855,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-schadenfreundinnen-18855"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Schadenfreundinnen",
+          "teaserId": "film_3329412",
+          "teaserName": "Die Schadenfreundinnen | Die Schadenfreundinnen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Schadenfreundinnen",
+        "id": 3329412,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329412/300x0/die-schadenfreundinnen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329412/",
+            "filename": "die-schadenfreundinnen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329412/600x0/die-schadenfreundinnen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329412/",
+            "filename": "die-schadenfreundinnen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329412/1200x0/die-schadenfreundinnen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329412/",
+            "filename": "die-schadenfreundinnen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329412/300x0/die-schadenfreundinnen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329412/",
+            "filename": "die-schadenfreundinnen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329412/600x0/die-schadenfreundinnen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329412/",
+            "filename": "die-schadenfreundinnen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329412/1200x0/die-schadenfreundinnen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329412/",
+            "filename": "die-schadenfreundinnen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-schadenfreundinnen",
+        "subheadline": "Die Schadenfreundinnen",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/die-schadenfreundinnen-18855",
+        "videoId": 3329412
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

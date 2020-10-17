@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18941",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18941,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/into-the-blue-18941"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Into the Blue",
+          "teaserId": "film_3334817",
+          "teaserName": "Into the Blue | Into the Blue",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Into the Blue",
+        "id": 3334817,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334817/300x0/into-the-blue.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334817/",
+            "filename": "into-the-blue"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334817/600x0/into-the-blue.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334817/",
+            "filename": "into-the-blue"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334817/1200x0/into-the-blue.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334817/",
+            "filename": "into-the-blue"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334817/300x0/into-the-blue.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334817/",
+            "filename": "into-the-blue"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334817/600x0/into-the-blue.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334817/",
+            "filename": "into-the-blue"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334817/1200x0/into-the-blue.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334817/",
+            "filename": "into-the-blue"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "into-the-blue",
+        "subheadline": "Into the Blue",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/into-the-blue-18941",
+        "videoId": 3334817
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

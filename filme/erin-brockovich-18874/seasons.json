@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18874",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18874,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/erin-brockovich-18874"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Erin Brockovich",
+          "teaserId": "film_3329406",
+          "teaserName": "Erin Brockovich | Erin Brockovich",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Erin Brockovich",
+        "id": 3329406,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329406/300x0/erin-brockovich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329406/",
+            "filename": "erin-brockovich"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329406/600x0/erin-brockovich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329406/",
+            "filename": "erin-brockovich"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329406/1200x0/erin-brockovich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329406/",
+            "filename": "erin-brockovich"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329406/300x0/erin-brockovich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329406/",
+            "filename": "erin-brockovich"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329406/600x0/erin-brockovich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329406/",
+            "filename": "erin-brockovich"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3329406/1200x0/erin-brockovich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3329406/",
+            "filename": "erin-brockovich"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "erin-brockovich",
+        "subheadline": "Erin Brockovich",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/erin-brockovich-18874",
+        "videoId": 3329406
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

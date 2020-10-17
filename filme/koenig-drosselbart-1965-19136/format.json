@@ -1,0 +1,233 @@
+﻿{
+  "formatId": 19136,
+  "additionalMeta": {
+    "canonical": "/filme/koenig-drosselbart-1965-19136",
+    "url": "/filme/koenig-drosselbart-1965-19136"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "König Drosselbart",
+      "url": "/filme/koenig-drosselbart-1965-19136"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19136,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ König Drosselbart 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "König Drosselbart im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ König Drosselbart 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3455519,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3455519",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19136"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now_kids/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now_kids",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 10 bis Teens",
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Jungs",
+      "KIDS Mädchen",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: König Drosselbart",
+    "text": "Prinzessin Roswitha verunglückt mit ihrer Kutsche im Wald. Ein junger Reiter hilft ihr, doch sie behandelt ihn schnippisch. Im Schloß angekommen, wird sie schon von Freiern erwartet. Sie kann wählen, aber keiner ist ihr gut genug, auch nicht der letzte, jener Reiter aus dem Wald - weil er einen Bart wie eine Drossel hat. Roswitha ist derart verletzend, daß der König beschließt, ihr den nächsten Bettler zum Mann zu geben, der aufs Schloß kommt. ",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/koenig-drosselbart-19136",
+        "@type": "Movie",
+        "description": "Prinzessin Roswitha verunglückt mit ihrer Kutsche im Wald. Ein junger Reiter hilft ihr, doch sie behandelt ihn schnippisch. Im Schloß angekommen, wird sie schon von Freiern erwartet. Sie kann wählen, aber keiner ist ihr gut genug, auch nicht der letzte, jener Reiter aus dem Wald - weil er einen Bart wie eine Drossel hat. Roswitha ist derart verletzend, daß der König beschließt, ihr den nächsten Bettler zum Mann zu geben, der aufs Schloß kommt. ",
+        "duration": "PT1H9M30S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3455519/950x0/koenig-drosselbart-1965.jpg",
+        "name": "König Drosselbart",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/koenig-drosselbart-19136",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-06-30T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=koenig-drosselbart-1965-19136",
+              "sameAs": "%s/premium?typ=format&formatname=koenig-drosselbart-1965-19136",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/koenig-drosselbart-19136",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Prinzessin Roswitha verunglückt mit ihrer Kutsche im Wald. Ein junger Reiter hilft ihr, doch sie behandelt ihn schnippisch. Im Schloß angekommen, wird sie schon von Freiern erwartet. Sie kann wählen, aber keiner ist ihr gut genug, auch nicht der letzte, jener Reiter aus dem Wald - weil er einen Bart wie eine Drossel hat. Roswitha ist derart verletzend, daß der König beschließt, ihr den nächsten Bettler zum Mann zu geben, der aufs Schloß kommt. ",
+          "duration": "PT1H9M30S",
+          "embedUrl": "%s/googlebot/player/filme/koenig-drosselbart-19136",
+          "name": "König Drosselbart",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3455519/950x0/koenig-drosselbart-1965.jpg",
+          "uploadDate": "2020-06-30T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "König Drosselbart im Online Stream | TVNOW",
+        "headline": "König Drosselbart im Online Stream | TVNOW",
+        "description": "König Drosselbart und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/koenig-drosselbart-19136",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3455519/950x0/koenig-drosselbart-1965.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3455519/950x0/koenig-drosselbart-1965.jpg",
+        "datePublished": "2020-06-30T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3455519/950x0/koenig-drosselbart-1965.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "König Drosselbart",
+            "item": "%s/filme/koenig-drosselbart-1965-19136"
+          }
+        ]
+      }
+    }
+  },
+  "title": "König Drosselbart im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

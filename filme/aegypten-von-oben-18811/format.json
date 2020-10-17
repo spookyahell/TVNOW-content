@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18811,
+  "additionalMeta": {
+    "canonical": "/filme/aegypten-von-oben-18811",
+    "url": "/filme/aegypten-von-oben-18811"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Ägypten von Oben",
+      "url": "/filme/aegypten-von-oben-18811"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18811,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Ägypten von Oben 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Ägypten von Oben im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Ägypten von Oben 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3317921,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3317921",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18811"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Ägypten von oben",
+    "text": "Ägyptens Pyramiden, Pharaonen und Touristenstrände kennt Jeder. Aber was wissen wir eigentlich über die heutigen Landsleute? Um diese Lücke zu schließen, unternimmt Yann Arthus-Bertrand eine epische Flugreise entlang des Nils. Jenseits der Klischees trifft der legendäre Fotograf dabei auf eine Nation, die zwischen den Ufern des Nils, Millionenstädten und arabischem Frühling ihre Zukunft sucht.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/aegypten-von-oben-18811",
+        "@type": "Movie",
+        "description": "Ägyptens Pyramiden, Pharaonen und Touristenstrände kennt Jeder. Aber was wissen wir eigentlich über die heutigen Landsleute? Um diese Lücke zu schließen, unternimmt Yann Arthus-Bertrand eine epische Flugreise entlang des Nils. Jenseits der Klischees trifft der legendäre Fotograf dabei auf eine Nation, die zwischen den Ufern des Nils, Millionenstädten und arabischem Frühling ihre Zukunft sucht.",
+        "duration": "PT1H27M38S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3317921/950x0/aegypten-von-oben.jpg",
+        "name": "Ägypten von Oben",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/aegypten-von-oben-18811",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-07T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=aegypten-von-oben-18811",
+              "sameAs": "%s/premium?typ=format&formatname=aegypten-von-oben-18811",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/aegypten-von-oben-18811",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Ägyptens Pyramiden, Pharaonen und Touristenstrände kennt Jeder. Aber was wissen wir eigentlich über die heutigen Landsleute? Um diese Lücke zu schließen, unternimmt Yann Arthus-Bertrand eine epische Flugreise entlang des Nils. Jenseits der Klischees trifft der legendäre Fotograf dabei auf eine Nation, die zwischen den Ufern des Nils, Millionenstädten und arabischem Frühling ihre Zukunft sucht.",
+          "duration": "PT1H27M38S",
+          "embedUrl": "%s/googlebot/player/filme/aegypten-von-oben-18811",
+          "name": "Ägypten von Oben",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3317921/950x0/aegypten-von-oben.jpg",
+          "uploadDate": "2020-08-07T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Ägypten von Oben im Online Stream | TVNOW",
+        "headline": "Ägypten von Oben im Online Stream | TVNOW",
+        "description": "Ägypten von Oben und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/aegypten-von-oben-18811",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3317921/950x0/aegypten-von-oben.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3317921/950x0/aegypten-von-oben.jpg",
+        "datePublished": "2020-08-07T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3317921/950x0/aegypten-von-oben.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ägypten von Oben",
+            "item": "%s/filme/aegypten-von-oben-18811"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Ägypten von Oben im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

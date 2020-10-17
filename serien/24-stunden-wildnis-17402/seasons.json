@@ -1,1 +1,108 @@
-NONE
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 2020, Monat 9"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17402",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17402,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/serien/24-stunden-wildnis-17402/2020-09/episode-3-jaeger-des-dschungels-3391231"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "24 Stunden Wildnis",
+          "teaserId": "serie_episode_3391231",
+          "teaserName": "24 Stunden Wildnis | Staffel 1 | Folge 3 | Jäger des Dschungels",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Tiere",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 3",
+          "teaserEpisodeAirtime": "Do. 17.09.2020, 23:30 Uhr",
+          "teaserEpisodeName": "Jäger des Dschungels"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Jäger des Dschungels",
+        "id": 3391231,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3391231/300x0/jaeger-des-dschungels.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3391231/",
+            "filename": "jaeger-des-dschungels"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3391231/600x0/jaeger-des-dschungels.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3391231/",
+            "filename": "jaeger-des-dschungels"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3391231/1200x0/jaeger-des-dschungels.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3391231/",
+            "filename": "jaeger-des-dschungels"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3391231/300x0/jaeger-des-dschungels.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3391231/",
+            "filename": "jaeger-des-dschungels"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3391231/600x0/jaeger-des-dschungels.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3391231/",
+            "filename": "jaeger-des-dschungels"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3391231/1200x0/jaeger-des-dschungels.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3391231/",
+            "filename": "jaeger-des-dschungels"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "24-stunden-wildnis",
+        "subheadline": "Jäger des Dschungels",
+        "text": "Staffel 1, Folge 3 | Do. 17.09.2020, 23:30 Uhr",
+        "type": "serie",
+        "url": "/serien/24-stunden-wildnis-17402/2020-09/episode-3-jaeger-des-dschungels-3391231",
+        "videoId": 3391231
+      }
+    ],
+    "format_navigation": {
+      "month": 9,
+      "year": 2020
+    },
+    "navigationType": "annual"
+  }
+]

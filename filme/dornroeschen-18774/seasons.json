@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18774",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18774,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/dornroeschen-18774"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Dornröschen",
+          "teaserId": "film_3243922",
+          "teaserName": "Dornröschen | Dornröschen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Dornröschen",
+        "id": 3243922,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3243922/300x0/dornroeschen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3243922/",
+            "filename": "dornroeschen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3243922/600x0/dornroeschen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3243922/",
+            "filename": "dornroeschen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3243922/1200x0/dornroeschen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3243922/",
+            "filename": "dornroeschen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3243922/300x0/dornroeschen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3243922/",
+            "filename": "dornroeschen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3243922/600x0/dornroeschen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3243922/",
+            "filename": "dornroeschen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3243922/1200x0/dornroeschen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3243922/",
+            "filename": "dornroeschen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "dornroeschen",
+        "subheadline": "Dornröschen",
+        "text": "Staffel  | Mi. 01.07.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/dornroeschen-18774",
+        "videoId": 3243922
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

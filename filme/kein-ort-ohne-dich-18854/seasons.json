@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18854",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18854,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/kein-ort-ohne-dich-18854"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Kein Ort ohne dich ",
+          "teaserId": "film_3330645",
+          "teaserName": "Kein Ort ohne dich  | Kein Ort ohne dich",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Kein Ort ohne dich",
+        "id": 3330645,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330645/300x0/kein-ort-ohne-dich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330645/",
+            "filename": "kein-ort-ohne-dich"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330645/600x0/kein-ort-ohne-dich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330645/",
+            "filename": "kein-ort-ohne-dich"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330645/1200x0/kein-ort-ohne-dich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330645/",
+            "filename": "kein-ort-ohne-dich"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330645/300x0/kein-ort-ohne-dich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330645/",
+            "filename": "kein-ort-ohne-dich"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330645/600x0/kein-ort-ohne-dich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330645/",
+            "filename": "kein-ort-ohne-dich"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330645/1200x0/kein-ort-ohne-dich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330645/",
+            "filename": "kein-ort-ohne-dich"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "kein-ort-ohne-dich",
+        "subheadline": "Kein Ort ohne dich",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/kein-ort-ohne-dich-18854",
+        "videoId": 3330645
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

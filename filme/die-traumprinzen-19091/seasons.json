@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19091",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19091,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-traumprinzen-19091"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Traumprinzen",
+          "teaserId": "film_3417502",
+          "teaserName": "Die Traumprinzen | Die Traumprinzen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Traumprinzen",
+        "id": 3417502,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3417502/300x0/die-traumprinzen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3417502/",
+            "filename": "die-traumprinzen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3417502/600x0/die-traumprinzen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3417502/",
+            "filename": "die-traumprinzen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3417502/1200x0/die-traumprinzen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3417502/",
+            "filename": "die-traumprinzen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3417502/300x0/die-traumprinzen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3417502/",
+            "filename": "die-traumprinzen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3417502/600x0/die-traumprinzen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3417502/",
+            "filename": "die-traumprinzen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3417502/1200x0/die-traumprinzen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3417502/",
+            "filename": "die-traumprinzen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-traumprinzen",
+        "subheadline": "Die Traumprinzen",
+        "text": "Staffel  | Sa. 03.10.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/die-traumprinzen-19091",
+        "videoId": 3417502
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

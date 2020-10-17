@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18978",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18978,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/neues-vom-wixxer-18978"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Neues vom Wixxer",
+          "teaserId": "film_3325020",
+          "teaserName": "Neues vom Wixxer | Neues vom WiXXer",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Neues vom WiXXer",
+        "id": 3325020,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325020/300x0/neues-vom-wixxer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325020/",
+            "filename": "neues-vom-wixxer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325020/600x0/neues-vom-wixxer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325020/",
+            "filename": "neues-vom-wixxer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325020/1200x0/neues-vom-wixxer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325020/",
+            "filename": "neues-vom-wixxer"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325020/300x0/neues-vom-wixxer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325020/",
+            "filename": "neues-vom-wixxer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325020/600x0/neues-vom-wixxer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325020/",
+            "filename": "neues-vom-wixxer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325020/1200x0/neues-vom-wixxer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325020/",
+            "filename": "neues-vom-wixxer"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "neues-vom-wixxer",
+        "subheadline": "Neues vom WiXXer",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/neues-vom-wixxer-18978",
+        "videoId": 3325020
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

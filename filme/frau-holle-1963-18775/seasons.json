@@ -1,0 +1,108 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18775",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18775,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/frau-holle-18775"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Frau Holle (1963)",
+          "teaserId": "film_3243923",
+          "teaserName": "Frau Holle (1963) | Frau Holle",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Frau Holle",
+        "id": 3243923,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3243923/300x0/frau-holle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3243923/",
+            "filename": "frau-holle"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3243923/600x0/frau-holle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3243923/",
+            "filename": "frau-holle"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3243923/1200x0/frau-holle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3243923/",
+            "filename": "frau-holle"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3243923/300x0/frau-holle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3243923/",
+            "filename": "frau-holle"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3243923/600x0/frau-holle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3243923/",
+            "filename": "frau-holle"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3243923/1200x0/frau-holle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3243923/",
+            "filename": "frau-holle"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "frau-holle-1963",
+        "subheadline": "Frau Holle",
+        "text": "Staffel  | Mi. 01.07.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/frau-holle-18775",
+        "videoId": 3243923
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

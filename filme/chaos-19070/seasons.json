@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19070",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19070,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/chaos-19070"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Chaos",
+          "teaserId": "film_3366358",
+          "teaserName": "Chaos | Chaos",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Chaos",
+        "id": 3366358,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3366358/300x0/chaos.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3366358/",
+            "filename": "chaos"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3366358/600x0/chaos.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3366358/",
+            "filename": "chaos"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3366358/1200x0/chaos.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3366358/",
+            "filename": "chaos"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3366358/300x0/chaos.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3366358/",
+            "filename": "chaos"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3366358/600x0/chaos.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3366358/",
+            "filename": "chaos"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3366358/1200x0/chaos.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3366358/",
+            "filename": "chaos"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "chaos",
+        "subheadline": "Chaos",
+        "text": "Staffel  | Di. 08.09.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/chaos-19070",
+        "videoId": 3366358
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

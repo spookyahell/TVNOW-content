@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18819",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18819,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/friends-freunde-fuers-leben-18819"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Friends - Freunde fürs Leben",
+          "teaserId": "film_3289201",
+          "teaserName": "Friends - Freunde fürs Leben | Friends - Freunde fürs Leben",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Friends - Freunde fürs Leben",
+        "id": 3289201,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3289201/300x0/friends-freunde-fuers-leben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3289201/",
+            "filename": "friends-freunde-fuers-leben"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3289201/600x0/friends-freunde-fuers-leben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3289201/",
+            "filename": "friends-freunde-fuers-leben"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3289201/1200x0/friends-freunde-fuers-leben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3289201/",
+            "filename": "friends-freunde-fuers-leben"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3289201/300x0/friends-freunde-fuers-leben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3289201/",
+            "filename": "friends-freunde-fuers-leben"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3289201/600x0/friends-freunde-fuers-leben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3289201/",
+            "filename": "friends-freunde-fuers-leben"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3289201/1200x0/friends-freunde-fuers-leben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3289201/",
+            "filename": "friends-freunde-fuers-leben"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "friends-freunde-fuers-leben",
+        "subheadline": "Friends - Freunde fürs Leben",
+        "text": "Staffel  | Mo. 29.06.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/friends-freunde-fuers-leben-18819",
+        "videoId": 3289201
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

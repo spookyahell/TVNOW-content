@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18871",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18871,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/all-inclusive-18871"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "All Inclusive",
+          "teaserId": "film_3327285",
+          "teaserName": "All Inclusive | All Inclusive",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "All Inclusive",
+        "id": 3327285,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327285/300x0/all-inclusive.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327285/",
+            "filename": "all-inclusive"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327285/600x0/all-inclusive.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327285/",
+            "filename": "all-inclusive"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327285/1200x0/all-inclusive.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327285/",
+            "filename": "all-inclusive"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327285/300x0/all-inclusive.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327285/",
+            "filename": "all-inclusive"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327285/600x0/all-inclusive.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327285/",
+            "filename": "all-inclusive"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327285/1200x0/all-inclusive.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327285/",
+            "filename": "all-inclusive"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "all-inclusive",
+        "subheadline": "All Inclusive",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/all-inclusive-18871",
+        "videoId": 3327285
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

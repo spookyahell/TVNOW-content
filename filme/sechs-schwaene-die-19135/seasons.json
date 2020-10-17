@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19135",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19135,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-sechs-schwaene-19135"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die sechs Schwäne",
+          "teaserId": "film_3455580",
+          "teaserName": "Die sechs Schwäne | Die sechs Schwäne",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die sechs Schwäne",
+        "id": 3455580,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3455580/300x0/die-sechs-schwaene.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3455580/",
+            "filename": "die-sechs-schwaene"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3455580/600x0/die-sechs-schwaene.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3455580/",
+            "filename": "die-sechs-schwaene"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3455580/1200x0/die-sechs-schwaene.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3455580/",
+            "filename": "die-sechs-schwaene"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3455580/300x0/die-sechs-schwaene.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3455580/",
+            "filename": "die-sechs-schwaene"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3455580/600x0/die-sechs-schwaene.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3455580/",
+            "filename": "die-sechs-schwaene"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3455580/1200x0/die-sechs-schwaene.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3455580/",
+            "filename": "die-sechs-schwaene"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sechs-schwaene-die",
+        "subheadline": "Die sechs Schwäne",
+        "text": "Staffel  | Mi. 01.07.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/die-sechs-schwaene-19135",
+        "videoId": 3455580
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

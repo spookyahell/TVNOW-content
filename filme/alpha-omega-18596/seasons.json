@@ -1,0 +1,109 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18596",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18596,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/alpha-omega-18596"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Alpha & Omega",
+          "teaserId": "film_3239443",
+          "teaserName": "Alpha & Omega | Alpha & Omega",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Action und Abenteuer",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Alpha & Omega",
+        "id": 3239443,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3239443/300x0/alpha-omega.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3239443/",
+            "filename": "alpha-omega"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3239443/600x0/alpha-omega.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3239443/",
+            "filename": "alpha-omega"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3239443/1200x0/alpha-omega.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3239443/",
+            "filename": "alpha-omega"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3239443/300x0/alpha-omega.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3239443/",
+            "filename": "alpha-omega"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3239443/600x0/alpha-omega.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3239443/",
+            "filename": "alpha-omega"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3239443/1200x0/alpha-omega.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3239443/",
+            "filename": "alpha-omega"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "alpha-omega",
+        "subheadline": "Alpha & Omega",
+        "text": "Staffel  | Di. 30.06.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/alpha-omega-18596",
+        "videoId": 3239443
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

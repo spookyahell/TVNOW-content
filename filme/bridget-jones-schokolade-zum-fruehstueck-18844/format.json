@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18844,
+  "additionalMeta": {
+    "canonical": "/filme/bridget-jones-schokolade-zum-fruehstueck-18844",
+    "url": "/filme/bridget-jones-schokolade-zum-fruehstueck-18844"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Bridget Jones - Schokolade zum Frühstück",
+      "url": "/filme/bridget-jones-schokolade-zum-fruehstueck-18844"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18844,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Bridget Jones - Schokolade zum Frühstück 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Bridget Jones - Schokolade zum Frühstück im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Bridget Jones - Schokolade zum Frühstück 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3329407,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3329407",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18844"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Bridget Jones - Schokolade zum Frühstück – Informationen zum Film",
+    "text": "Bridget Jones ist übergewichtig, raucht, trinkt und redet zu viel. Ihr Liebesleben ist zudem ziemlich chaotisch. Am Neujahrsmorgen fasst sie den Entschluss, ihr Leben neu zu ordnen. Entgegen aller Vernunft beginnt sie ein Verhältnis mit ihrem überheblichen Boss Daniel Cleaver. Dann trifft sie auf den versnobten Anwalt und Freund der Familie Mark Darcy. Ein chaotisches Liebesdreieck entsteht, und Bridgets Liebesleben gerät komplett aus den Fugen!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/bridget-jones-schokolade-zum-fruehstueck-18844",
+        "@type": "Movie",
+        "description": "Bridget Jones ist übergewichtig, raucht, trinkt und redet zu viel. Ihr Liebesleben ist zudem ziemlich chaotisch. Am Neujahrsmorgen fasst sie den Entschluss, ihr Leben neu zu ordnen. Entgegen aller Vernunft beginnt sie ein Verhältnis mit ihrem überheblichen Boss Daniel Cleaver. Dann trifft sie auf den versnobten Anwalt und Freund der Familie Mark Darcy. Ein chaotisches Liebesdreieck entsteht, und Bridgets Liebesleben gerät komplett aus den Fugen!",
+        "duration": "PT1H32M51S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3329407/950x0/bridget-jones-schokolade-zum-fruehstueck.jpg",
+        "name": "Bridget Jones - Schokolade zum Frühstück",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/bridget-jones-schokolade-zum-fruehstueck-18844",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-20T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=bridget-jones-schokolade-zum-fruehstueck-18844",
+              "sameAs": "%s/premium?typ=format&formatname=bridget-jones-schokolade-zum-fruehstueck-18844",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/bridget-jones-schokolade-zum-fruehstueck-18844",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Bridget Jones ist übergewichtig, raucht, trinkt und redet zu viel. Ihr Liebesleben ist zudem ziemlich chaotisch. Am Neujahrsmorgen fasst sie den Entschluss, ihr Leben neu zu ordnen. Entgegen aller Vernunft beginnt sie ein Verhältnis mit ihrem überheblichen Boss Daniel Cleaver. Dann trifft sie auf den versnobten Anwalt und Freund der Familie Mark Darcy. Ein chaotisches Liebesdreieck entsteht, und Bridgets Liebesleben gerät komplett aus den Fugen!",
+          "duration": "PT1H32M51S",
+          "embedUrl": "%s/googlebot/player/filme/bridget-jones-schokolade-zum-fruehstueck-18844",
+          "name": "Bridget Jones - Schokolade zum Frühstück",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3329407/950x0/bridget-jones-schokolade-zum-fruehstueck.jpg",
+          "uploadDate": "2020-08-20T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Bridget Jones - Schokolade zum Frühstück im Online Stream | TVNOW",
+        "headline": "Bridget Jones - Schokolade zum Frühstück im Online Stream | TVNOW",
+        "description": "Bridget Jones - Schokolade zum Frühstück und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Renée Zellweger, Colin Firth, Hugh Grant, Gemma Jones, Jim Broadbent, Embeth Davidtz, Shirley Henderson, Sally Phillips, James Callis, Honor Blackman, Celia Imrie.",
+        "url": "%s/filme/bridget-jones-schokolade-zum-fruehstueck-18844",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3329407/950x0/bridget-jones-schokolade-zum-fruehstueck.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3329407/950x0/bridget-jones-schokolade-zum-fruehstueck.jpg",
+        "datePublished": "2020-08-20T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3329407/950x0/bridget-jones-schokolade-zum-fruehstueck.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bridget Jones - Schokolade zum Frühstück",
+            "item": "%s/filme/bridget-jones-schokolade-zum-fruehstueck-18844"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Bridget Jones - Schokolade zum Frühstück im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

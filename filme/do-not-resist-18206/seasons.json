@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18206",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18206,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/do-not-resist-18206"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Do Not Resist",
+          "teaserId": "film_2512671",
+          "teaserName": "Do Not Resist | Do Not Resist",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Do Not Resist",
+        "id": 2512671,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2512671/300x0/do-not-resist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2512671/",
+            "filename": "do-not-resist"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2512671/600x0/do-not-resist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2512671/",
+            "filename": "do-not-resist"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2512671/1200x0/do-not-resist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2512671/",
+            "filename": "do-not-resist"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2512671/300x0/do-not-resist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2512671/",
+            "filename": "do-not-resist"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2512671/600x0/do-not-resist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2512671/",
+            "filename": "do-not-resist"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2512671/1200x0/do-not-resist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/2512671/",
+            "filename": "do-not-resist"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "do-not-resist",
+        "subheadline": "Do Not Resist",
+        "text": "Staffel  | Sa. 05.09.2020, 00:30 Uhr",
+        "type": "film",
+        "url": "/filme/do-not-resist-18206",
+        "videoId": 2512671
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

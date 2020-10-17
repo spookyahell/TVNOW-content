@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18867,
+  "additionalMeta": {
+    "canonical": "/filme/der-kaufhaus-cop-18867",
+    "url": "/filme/der-kaufhaus-cop-18867"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Der Kaufhaus Cop",
+      "url": "/filme/der-kaufhaus-cop-18867"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18867,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Der Kaufhaus Cop 📺 und viele weitere ▶️ Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Der Kaufhaus Cop im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Der Kaufhaus Cop 📺 und viele weitere ▶️ Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3431151,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3431151",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18867"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Der Kaufhaus Cop - Informationen zum Film",
+    "text": "Paul Blarts größter Wunsch ist es Polizist zu werden, doch die Sportprüfung an der Polizeiakademie wird für ihn zum unüberwindbaren Hindernis. Um wenigstens das Gefühl zu haben, etwas für die öffentliche Sicherheit tun zu können, nimmt der sanftmütige Paul notgedrungen einen Job als Wachmann im örtlichen Einkaufszentrum an, dem er sich fortan mit Leib und Seele hingibt.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/der-kaufhaus-cop-18867",
+        "@type": "Movie",
+        "description": "Paul Blarts größter Wunsch ist es Polizist zu werden, doch die Sportprüfung an der Polizeiakademie wird für ihn zum unüberwindbaren Hindernis. Um wenigstens das Gefühl zu haben, etwas für die öffentliche Sicherheit tun zu können, nimmt der sanftmütige Paul notgedrungen einen Job als Wachmann im örtlichen Einkaufszentrum an, dem er sich fortan mit Leib und Seele hingibt.",
+        "duration": "PT1H27M15S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3431151/950x0/der-kaufhaus-cop.jpg",
+        "name": "Der Kaufhaus Cop",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/der-kaufhaus-cop-18867",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-10-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=der-kaufhaus-cop-18867",
+              "sameAs": "%s/premium?typ=format&formatname=der-kaufhaus-cop-18867",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/der-kaufhaus-cop-18867",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Paul Blarts größter Wunsch ist es Polizist zu werden, doch die Sportprüfung an der Polizeiakademie wird für ihn zum unüberwindbaren Hindernis. Um wenigstens das Gefühl zu haben, etwas für die öffentliche Sicherheit tun zu können, nimmt der sanftmütige Paul notgedrungen einen Job als Wachmann im örtlichen Einkaufszentrum an, dem er sich fortan mit Leib und Seele hingibt.",
+          "duration": "PT1H27M15S",
+          "embedUrl": "%s/googlebot/player/filme/der-kaufhaus-cop-18867",
+          "name": "Der Kaufhaus Cop",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3431151/950x0/der-kaufhaus-cop.jpg",
+          "uploadDate": "2020-10-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Der Kaufhaus Cop im Online Stream | TVNOW",
+        "headline": "Der Kaufhaus Cop im Online Stream | TVNOW",
+        "description": "Der Kaufhaus Cop und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/der-kaufhaus-cop-18867",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3431151/950x0/der-kaufhaus-cop.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3431151/950x0/der-kaufhaus-cop.jpg",
+        "datePublished": "2020-10-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3431151/950x0/der-kaufhaus-cop.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Der Kaufhaus Cop",
+            "item": "%s/filme/der-kaufhaus-cop-18867"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Der Kaufhaus Cop im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

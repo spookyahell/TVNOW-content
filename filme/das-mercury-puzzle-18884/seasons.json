@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18884",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18884,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/das-mercury-puzzle-18884"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Mercury Puzzle",
+          "teaserId": "film_3327848",
+          "teaserName": "Das Mercury Puzzle | Das Mercury Puzzle",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das Mercury Puzzle",
+        "id": 3327848,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327848/300x0/das-mercury-puzzle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327848/",
+            "filename": "das-mercury-puzzle"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327848/600x0/das-mercury-puzzle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327848/",
+            "filename": "das-mercury-puzzle"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327848/1200x0/das-mercury-puzzle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327848/",
+            "filename": "das-mercury-puzzle"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327848/300x0/das-mercury-puzzle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327848/",
+            "filename": "das-mercury-puzzle"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327848/600x0/das-mercury-puzzle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327848/",
+            "filename": "das-mercury-puzzle"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327848/1200x0/das-mercury-puzzle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327848/",
+            "filename": "das-mercury-puzzle"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-mercury-puzzle",
+        "subheadline": "Das Mercury Puzzle",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/das-mercury-puzzle-18884",
+        "videoId": 3327848
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

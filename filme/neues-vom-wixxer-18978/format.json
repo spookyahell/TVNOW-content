@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18978,
+  "additionalMeta": {
+    "canonical": "/filme/neues-vom-wixxer-18978",
+    "url": "/filme/neues-vom-wixxer-18978"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Neues vom Wixxer",
+      "url": "/filme/neues-vom-wixxer-18978"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18978,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Neues vom Wixxer 📺 und viele weitere ▶️ Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Neues vom Wixxer im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Neues vom Wixxer 📺 und viele weitere ▶️ Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3325020,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3325020",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18978"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Neues vom Wixxer - Informationen zum Film",
+    "text": "Gerade als Inspector Very Long und Chief Inspector Even Longer einen Informanten befragen, wird dieser vom Wixxer erschossen. Er ist also wieder zurück! Und diesmal hat der Wixxer eine Todesliste! Dumm für Very Long: Auf dieser steht sein Name, ebenso wie der seiner Angebetenen Victoria Dickham. Schnellstmöglich müssen die Inspektoren die Identität des Wixxers aufdecken, denn die Liste wird immer kürzer. Die Spur führt zu einem Kloster, in dem das Leben in schwarz-weiß abläuft.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/neues-vom-wixxer-18978",
+        "@type": "Movie",
+        "description": "Gerade als Inspector Very Long und Chief Inspector Even Longer einen Informanten befragen, wird dieser vom Wixxer erschossen. Er ist also wieder zurück! Und diesmal hat der Wixxer eine Todesliste! Dumm für Very Long: Auf dieser steht sein Name, ebenso wie der seiner Angebetenen Victoria Dickham. Schnellstmöglich müssen die Inspektoren die Identität des Wixxers aufdecken, denn die Liste wird immer kürzer. Die Spur führt zu einem Kloster, in dem das Leben in schwarz-weiß abläuft.",
+        "duration": "PT1H33M28S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3325020/950x0/neues-vom-wixxer.jpg",
+        "name": "Neues vom Wixxer",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/neues-vom-wixxer-18978",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-20T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=neues-vom-wixxer-18978",
+              "sameAs": "%s/premium?typ=format&formatname=neues-vom-wixxer-18978",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/neues-vom-wixxer-18978",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Gerade als Inspector Very Long und Chief Inspector Even Longer einen Informanten befragen, wird dieser vom Wixxer erschossen. Er ist also wieder zurück! Und diesmal hat der Wixxer eine Todesliste! Dumm für Very Long: Auf dieser steht sein Name, ebenso wie der seiner Angebetenen Victoria Dickham. Schnellstmöglich müssen die Inspektoren die Identität des Wixxers aufdecken, denn die Liste wird immer kürzer. Die Spur führt zu einem Kloster, in dem das Leben in schwarz-weiß abläuft.",
+          "duration": "PT1H33M28S",
+          "embedUrl": "%s/googlebot/player/filme/neues-vom-wixxer-18978",
+          "name": "Neues vom Wixxer",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3325020/950x0/neues-vom-wixxer.jpg",
+          "uploadDate": "2020-08-20T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Neues vom Wixxer im Online Stream | TVNOW",
+        "headline": "Neues vom Wixxer im Online Stream | TVNOW",
+        "description": "Neues vom Wixxer und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/neues-vom-wixxer-18978",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3325020/950x0/neues-vom-wixxer.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3325020/950x0/neues-vom-wixxer.jpg",
+        "datePublished": "2020-08-20T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3325020/950x0/neues-vom-wixxer.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Neues vom Wixxer",
+            "item": "%s/filme/neues-vom-wixxer-18978"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Neues vom Wixxer im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

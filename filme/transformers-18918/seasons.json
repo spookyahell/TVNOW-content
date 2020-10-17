@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18918",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18918,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/transformers-18918"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Transformers",
+          "teaserId": "film_3331759",
+          "teaserName": "Transformers | Transformers",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Transformers",
+        "id": 3331759,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331759/300x0/transformers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331759/",
+            "filename": "transformers"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331759/600x0/transformers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331759/",
+            "filename": "transformers"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331759/1200x0/transformers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331759/",
+            "filename": "transformers"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331759/300x0/transformers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331759/",
+            "filename": "transformers"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331759/600x0/transformers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331759/",
+            "filename": "transformers"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331759/1200x0/transformers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331759/",
+            "filename": "transformers"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "transformers",
+        "subheadline": "Transformers",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/transformers-18918",
+        "videoId": 3331759
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

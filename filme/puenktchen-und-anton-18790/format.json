@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 18790,
+  "additionalMeta": {
+    "canonical": "/filme/puenktchen-und-anton-18790",
+    "url": "/filme/puenktchen-und-anton-18790"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Pünktchen und Anton",
+      "url": "/filme/puenktchen-und-anton-18790"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18790,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Pünktchen und Anton 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Pünktchen und Anton im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Pünktchen und Anton 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3265838,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3265838",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18790"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now_kids/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now_kids",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Pünktchen und Anton",
+    "text": "Die Freundschaft von Pünktchen (10) und Anton (11) kennt keine sozialen Gegensätze - Anton stammt aus ärmlichen Verhältnissen und arbeitet jeden Abend in einer kleinen Eisdiele, um seine kranke Mutter zu versorgen. Pünktchen möchte ihrem Freund helfen, aber obwohl ihre Eltern extrem reich sind, haben sie für ihre Tochter weder Zeit noch Geld übrig. Doch mit ihrem erstaunlichen Einfallsreichtum findet das Mädchen schnell eine Möglichkeit, um für Anton heimlich Geld aufzutreiben.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/puenktchen-und-anton-18790",
+        "@type": "Movie",
+        "description": "Die Freundschaft von Pünktchen (10) und Anton (11) kennt keine sozialen Gegensätze - Anton stammt aus ärmlichen Verhältnissen und arbeitet jeden Abend in einer kleinen Eisdiele, um seine kranke Mutter zu versorgen. Pünktchen möchte ihrem Freund helfen, aber obwohl ihre Eltern extrem reich sind, haben sie für ihre Tochter weder Zeit noch Geld übrig. Doch mit ihrem erstaunlichen Einfallsreichtum findet das Mädchen schnell eine Möglichkeit, um für Anton heimlich Geld aufzutreiben.",
+        "duration": "PT1H44M44S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3265838/950x0/puenktchen-und-anton.jpg",
+        "name": "Pünktchen und Anton",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/puenktchen-und-anton-18790",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-06-30T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=puenktchen-und-anton-18790",
+              "sameAs": "%s/premium?typ=format&formatname=puenktchen-und-anton-18790",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/puenktchen-und-anton-18790",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die Freundschaft von Pünktchen (10) und Anton (11) kennt keine sozialen Gegensätze - Anton stammt aus ärmlichen Verhältnissen und arbeitet jeden Abend in einer kleinen Eisdiele, um seine kranke Mutter zu versorgen. Pünktchen möchte ihrem Freund helfen, aber obwohl ihre Eltern extrem reich sind, haben sie für ihre Tochter weder Zeit noch Geld übrig. Doch mit ihrem erstaunlichen Einfallsreichtum findet das Mädchen schnell eine Möglichkeit, um für Anton heimlich Geld aufzutreiben.",
+          "duration": "PT1H44M44S",
+          "embedUrl": "%s/googlebot/player/filme/puenktchen-und-anton-18790",
+          "name": "Pünktchen und Anton",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3265838/950x0/puenktchen-und-anton.jpg",
+          "uploadDate": "2020-06-30T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Pünktchen und Anton im Online Stream | TVNOW",
+        "headline": "Pünktchen und Anton im Online Stream | TVNOW",
+        "description": "Pünktchen und Anton und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/puenktchen-und-anton-18790",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3265838/950x0/puenktchen-und-anton.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3265838/950x0/puenktchen-und-anton.jpg",
+        "datePublished": "2020-06-30T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3265838/950x0/puenktchen-und-anton.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pünktchen und Anton",
+            "item": "%s/filme/puenktchen-und-anton-18790"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Pünktchen und Anton im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

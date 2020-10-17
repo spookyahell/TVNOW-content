@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 18657,
+  "additionalMeta": {
+    "canonical": "/filme/aegyptens-vergessene-pyramide-18657",
+    "url": "/filme/aegyptens-vergessene-pyramide-18657"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Ägyptens vergessene Pyramide",
+      "url": "/filme/aegyptens-vergessene-pyramide-18657"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18657,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Ägyptens vergessene Pyramide 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Ägyptens vergessene Pyramide im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Ägyptens vergessene Pyramide 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3222687,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3222687",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18657"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Wissen",
+      "History"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Ägyptens vergessene Pyramide",
+    "text": "In der Wüste Nordägyptens wurde eine erstaunliche Entdeckung gemacht: eine Pyramide mit einer noch immer versiegelten Grabkammer. Ein Team an Ägyptologen und Forschern macht sich an die Arbeit, das Geheimnis des vergessenen Grabes zu lüften, doch dabei stoßen sie auf einen Tatort. Die Doku taucht in die Welt der Grabräuber und Schätze der Pharaos ein, um ein 4000 Jahre altes Rätsel zu lösen.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/aegyptens-vergessene-pyramide-18657",
+        "@type": "Movie",
+        "description": "In der Wüste Nordägyptens wurde eine erstaunliche Entdeckung gemacht: eine Pyramide mit einer noch immer versiegelten Grabkammer. Ein Team an Ägyptologen und Forschern macht sich an die Arbeit, das Geheimnis des vergessenen Grabes zu lüften, doch dabei stoßen sie auf einen Tatort. Die Doku taucht in die Welt der Grabräuber und Schätze der Pharaos ein, um ein 4000 Jahre altes Rätsel zu lösen.",
+        "duration": "PT46M32S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3222687/950x0/aegyptens-vergessene-pyramide.jpg",
+        "name": "Ägyptens vergessene Pyramide",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/aegyptens-vergessene-pyramide-18657",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-07-01T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=aegyptens-vergessene-pyramide-18657",
+              "sameAs": "%s/premium?typ=format&formatname=aegyptens-vergessene-pyramide-18657",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/aegyptens-vergessene-pyramide-18657",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "In der Wüste Nordägyptens wurde eine erstaunliche Entdeckung gemacht: eine Pyramide mit einer noch immer versiegelten Grabkammer. Ein Team an Ägyptologen und Forschern macht sich an die Arbeit, das Geheimnis des vergessenen Grabes zu lüften, doch dabei stoßen sie auf einen Tatort. Die Doku taucht in die Welt der Grabräuber und Schätze der Pharaos ein, um ein 4000 Jahre altes Rätsel zu lösen.",
+          "duration": "PT46M32S",
+          "embedUrl": "%s/googlebot/player/filme/aegyptens-vergessene-pyramide-18657",
+          "name": "Ägyptens vergessene Pyramide",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3222687/950x0/aegyptens-vergessene-pyramide.jpg",
+          "uploadDate": "2020-07-01T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Ägyptens vergessene Pyramide im Online Stream | TVNOW",
+        "headline": "Ägyptens vergessene Pyramide im Online Stream | TVNOW",
+        "description": "Ägyptens vergessene Pyramide und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/aegyptens-vergessene-pyramide-18657",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3222687/950x0/aegyptens-vergessene-pyramide.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3222687/950x0/aegyptens-vergessene-pyramide.jpg",
+        "datePublished": "2020-07-01T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3222687/950x0/aegyptens-vergessene-pyramide.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ägyptens vergessene Pyramide",
+            "item": "%s/filme/aegyptens-vergessene-pyramide-18657"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Ägyptens vergessene Pyramide im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

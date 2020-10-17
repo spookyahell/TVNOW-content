@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18927",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18927,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/catch-me-if-you-can-18927"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Catch Me If You Can",
+          "teaserId": "film_3336717",
+          "teaserName": "Catch Me If You Can | Catch Me If You Can",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Catch Me If You Can",
+        "id": 3336717,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3336717/300x0/catch-me-if-you-can.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3336717/",
+            "filename": "catch-me-if-you-can"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3336717/600x0/catch-me-if-you-can.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3336717/",
+            "filename": "catch-me-if-you-can"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3336717/1200x0/catch-me-if-you-can.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3336717/",
+            "filename": "catch-me-if-you-can"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3336717/300x0/catch-me-if-you-can.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3336717/",
+            "filename": "catch-me-if-you-can"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3336717/600x0/catch-me-if-you-can.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3336717/",
+            "filename": "catch-me-if-you-can"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3336717/1200x0/catch-me-if-you-can.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3336717/",
+            "filename": "catch-me-if-you-can"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "catch-me-if-you-can",
+        "subheadline": "Catch Me If You Can",
+        "text": "Staffel  | Sa. 29.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/catch-me-if-you-can-18927",
+        "videoId": 3336717
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

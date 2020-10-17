@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 19088,
+  "additionalMeta": {
+    "canonical": "/filme/land-des-honigs-19088",
+    "url": "/filme/land-des-honigs-19088"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Land des Honigs - ab 9.10.",
+      "url": "/filme/land-des-honigs-19088"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 19088,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Land des Honigs - ab 9.10. 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Land des Honigs - ab 9.10. im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Land des Honigs - ab 9.10. 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3429348,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3429348",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19088"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Land des Honigs - ab 9.10.",
+    "text": "Bei TVNOW kannst Du den Film Land des Honigs - ab 9.10. und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/land-des-honigs-ab-9-10-19088",
+        "@type": "Movie",
+        "description": "Die Oscar-nominierte Dokumentation \"Land des Honigs\" erzählt die Geschichte der letzten Wildimkerin Europas - ab 9. Oktober auf TVNOW!",
+        "duration": "PT45S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3429348/950x0/land-des-honigs.jpg",
+        "name": "Land des Honigs - ab 9.10.",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/land-des-honigs-ab-9-10-19088",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2020-10-01T00:00:00.000Z"
+          }
+        },
+        "url": "%s/filme/land-des-honigs-ab-9-10-19088",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die Oscar-nominierte Dokumentation \"Land des Honigs\" erzählt die Geschichte der letzten Wildimkerin Europas - ab 9. Oktober auf TVNOW!",
+          "duration": "PT45S",
+          "embedUrl": "%s/googlebot/player/filme/land-des-honigs-ab-9-10-19088",
+          "name": "Land des Honigs - ab 9.10.",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3429348/950x0/land-des-honigs.jpg",
+          "uploadDate": "2020-10-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Land des Honigs - ab 9.10. im Online Stream | TVNOW",
+        "headline": "Land des Honigs - ab 9.10. im Online Stream | TVNOW",
+        "description": "Land des Honigs - ab 9.10. und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/land-des-honigs-ab-9-10-19088",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3429348/950x0/land-des-honigs.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3429348/950x0/land-des-honigs.jpg",
+        "datePublished": "2020-10-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3429348/950x0/land-des-honigs.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Land des Honigs - ab 9.10.",
+            "item": "%s/filme/land-des-honigs-19088"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Land des Honigs - ab 9.10. im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

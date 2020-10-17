@@ -1,0 +1,210 @@
+﻿{
+  "formatId": 18690,
+  "additionalMeta": {
+    "canonical": "/serien/k-18690",
+    "url": "/serien/k-18690"
+  },
+  "ads": {
+    "station": "watchbox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "K",
+      "url": "/serien/k-18690"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 18690,
+  "meta": [
+    {
+      "content": "Die Serie K (watchbox) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Anime im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "K im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie K (watchbox) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Anime im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/18690",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/18690",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/18690",
+      "type": "teaserrow"
+    },
+    {
+      "id": 18690,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/18690",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_wbnk",
+      "video": "dvrsowf_ten_wbnk",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/watchbox_now/formate/k_/home",
+      "levels": [
+        "tv_now_de",
+        "watchbox_now",
+        "formate",
+        "k_",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Anime",
+    "cluster": [],
+    "classification": [
+      "Box-Set"
+    ]
+  },
+  "seo": {
+    "headline": "Weitere Informationen zu K alias K-Project",
+    "text": "<h3>Erstausstrahlung</h3> <ul> <li>2012</li> </ul> <h3>Deutschsprachige Veröffentlichung</h3> <ul> <li>2017 bei KSM</li> </ul> <h3>Studio</h3> <ul> <li>GoHands</li> </ul> <h3>Regisseure</h3> <ul> <li>Shingo Suzuki </li> <li>Hiromishi Kanazawa </li> <li>Susumu Kudou </li> </ul> <h3>Produktionsland</h3> <ul> <li>Japan</li> </ul> <h3>Genre</h3> <ul> <li><a href=\"/serien/anime\">Anime</a></li> </ul> <h3>Titellied</h3> <ul> <li>KINGS von angela</li> </ul> <h3>Originaltitel</h3> <ul> <li>K</li> </ul> </ul> <h3>Alternative Titel</h3> <ul> <li>K-Project</li> <li>K: Return of Kings (Staffel 2)</li> </ul> <h3>Originalsprache (OV)</h3> <ul> <li>Japanisch</li> </ul> <h3>Staffel Anzahl</h3> <ul> <li>2 Staffeln</li> </ul> <h3>Episoden Anzahl</h3> <ul> <li>26 Episoden</li> </ul> <h3>L&auml;nge der Episoden</h3> <ul> <li>Etwa 24 Minuten</li> </ul> <h3>&Auml;hnliche Serienformate</h3> <ul> <li><a href=\"/serien/kiznaiver-15171\">Kiznaiver</a></li>  </ul> <p><strong>Anime-Fans aufgepasst</strong>: Jetzt auf TVNOW Staffel 1 von K alias K-Project im Online Stream genie&szlig;en!</p>",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/k-18690",
+        "url": "%s/serien/k-18690",
+        "name": "K",
+        "description": "Die Serie K (watchbox) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Anime im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/18690_04metalogo/1200x0/k.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Weitere Informationen zu K alias K-Project",
+        "headline": "Weitere Informationen zu K alias K-Project",
+        "description": "Die Serie K (watchbox) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Anime im Online Stream bei TVNOW anschauen.",
+        "url": "%s/serien/k-18690",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/18690_04metalogo/1200x0/k.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/18690_04metalogo/1200x0/k.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/18690_04metalogo/1200x0/k.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "K",
+            "item": "%s/serien/k-18690"
+          }
+        ]
+      }
+    }
+  },
+  "title": "K im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

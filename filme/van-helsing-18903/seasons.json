@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18903",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18903,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/van-helsing-18903"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Van Helsing",
+          "teaserId": "film_3327099",
+          "teaserName": "Van Helsing | Van Helsing",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Van Helsing",
+        "id": 3327099,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327099/300x0/van-helsing.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327099/",
+            "filename": "van-helsing"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327099/600x0/van-helsing.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327099/",
+            "filename": "van-helsing"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327099/1200x0/van-helsing.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327099/",
+            "filename": "van-helsing"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327099/300x0/van-helsing.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327099/",
+            "filename": "van-helsing"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327099/600x0/van-helsing.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327099/",
+            "filename": "van-helsing"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327099/1200x0/van-helsing.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327099/",
+            "filename": "van-helsing"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "van-helsing",
+        "subheadline": "Van Helsing",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/van-helsing-18903",
+        "videoId": 3327099
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

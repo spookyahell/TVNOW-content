@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18650",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18650,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-millionaer-und-die-stripperin-18650"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Millionär und die Stripperin",
+          "teaserId": "film_3209963",
+          "teaserName": "Der Millionär und die Stripperin | Der Millionär und die Stripperin",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Millionär und die Stripperin",
+        "id": 3209963,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3209963/300x0/der-millionaer-und-die-stripperin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3209963/",
+            "filename": "der-millionaer-und-die-stripperin"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3209963/600x0/der-millionaer-und-die-stripperin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3209963/",
+            "filename": "der-millionaer-und-die-stripperin"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3209963/1200x0/der-millionaer-und-die-stripperin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3209963/",
+            "filename": "der-millionaer-und-die-stripperin"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3209963/300x0/der-millionaer-und-die-stripperin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3209963/",
+            "filename": "der-millionaer-und-die-stripperin"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3209963/600x0/der-millionaer-und-die-stripperin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3209963/",
+            "filename": "der-millionaer-und-die-stripperin"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3209963/1200x0/der-millionaer-und-die-stripperin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3209963/",
+            "filename": "der-millionaer-und-die-stripperin"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-millionaer-und-die-stripperin",
+        "subheadline": "Der Millionär und die Stripperin",
+        "text": "Staffel  | Sa. 20.06.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/der-millionaer-und-die-stripperin-18650",
+        "videoId": 3209963
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18873",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18873,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/white-house-down-18873"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "White House Down",
+          "teaserId": "film_3429606",
+          "teaserName": "White House Down | White House Down",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "White House Down",
+        "id": 3429606,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429606/300x0/white-house-down.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429606/",
+            "filename": "white-house-down"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429606/600x0/white-house-down.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429606/",
+            "filename": "white-house-down"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429606/1200x0/white-house-down.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429606/",
+            "filename": "white-house-down"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429606/300x0/white-house-down.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429606/",
+            "filename": "white-house-down"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429606/600x0/white-house-down.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429606/",
+            "filename": "white-house-down"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429606/1200x0/white-house-down.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429606/",
+            "filename": "white-house-down"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "white-house-down",
+        "subheadline": "White House Down",
+        "text": "Staffel  | Do. 01.10.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/white-house-down-18873",
+        "videoId": 3429606
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

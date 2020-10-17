@@ -1,0 +1,198 @@
+﻿{
+  "formatId": 18602,
+  "additionalMeta": {
+    "canonical": "/shows/rupauls-drag-race-canada-18602",
+    "url": "/shows/rupauls-drag-race-canada-18602"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "RuPaul's Drag Race Canada",
+      "url": "/shows/rupauls-drag-race-canada-18602"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 18602,
+  "meta": [
+    {
+      "content": "Die Show ▶ RuPaul's Drag Race Canada (tvnow) streamen & weitere Highlights aus dem Genre 📺 Show im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "RuPaul's Drag Race Canada im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ RuPaul's Drag Race Canada (tvnow) streamen & weitere Highlights aus dem Genre 📺 Show im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/18602",
+      "type": "teaserrow"
+    },
+    {
+      "id": 18602,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/18602",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnrupaulsdragracecanada",
+      "video": "dvrsowf_ten_tnrupaulsdragracecanada",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/rupauls_dragrace_canada/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "rupauls_dragrace_canada",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Show",
+    "cluster": [
+      "Lifestyle"
+    ],
+    "classification": [
+      "Box-Set"
+    ]
+  },
+  "seo": {
+    "headline": "",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/shows/rupauls-drag-race-canada-18602",
+        "url": "%s/shows/rupauls-drag-race-canada-18602",
+        "name": "RuPaul's Drag Race Canada",
+        "description": "Die Show ▶ RuPaul's Drag Race Canada (tvnow) streamen & weitere Highlights aus dem Genre 📺 Show im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/18602_04metalogo/1200x0/rupauls-drag-race-canada.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "",
+        "headline": "",
+        "description": "Die Show ▶ RuPaul's Drag Race Canada (tvnow) streamen & weitere Highlights aus dem Genre 📺 Show im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+        "url": "%s/shows/rupauls-drag-race-canada-18602",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/18602_04metalogo/1200x0/rupauls-drag-race-canada.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/18602_04metalogo/1200x0/rupauls-drag-race-canada.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/18602_04metalogo/1200x0/rupauls-drag-race-canada.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "%s/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "RuPaul's Drag Race Canada",
+            "item": "%s/shows/rupauls-drag-race-canada-18602"
+          }
+        ]
+      }
+    }
+  },
+  "title": "RuPaul's Drag Race Canada im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

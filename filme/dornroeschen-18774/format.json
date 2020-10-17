@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 18774,
+  "additionalMeta": {
+    "canonical": "/filme/dornroeschen-18774",
+    "url": "/filme/dornroeschen-18774"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Dornröschen",
+      "url": "/filme/dornroeschen-18774"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18774,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Dornröschen 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Dornröschen im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Dornröschen 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3243922,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3243922",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18774"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now_kids/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now_kids",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Dornröschen",
+    "text": "Aus Freude über die Geburt ihrer Tochter gibt ein Königspaar ein großes Fest. Zwölf Feen sollen ihre guten Wünsche über das Kind aussprechen. Die 13. Fee, die nicht eingeladen war, erscheint dennoch und wünscht dem Kind den Tod. Der zwölften Fee gelingt es, den Fluch abzumildern, und am 15. Geburtstag des Kindes, fällt das gesamte Schloss in einen hundertjährigen Schlaf, aus dem nur ein Prinz es befreien kann, wenn er Dornröschen wachküsst.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/dornroeschen-18774",
+        "@type": "Movie",
+        "description": "Aus Freude über die Geburt ihrer Tochter gibt ein Königspaar ein großes Fest. Zwölf Feen sollen ihre guten Wünsche über das Kind aussprechen. Die 13. Fee, die nicht eingeladen war, erscheint dennoch und wünscht dem Kind den Tod. Der zwölften Fee gelingt es, den Fluch abzumildern, und am 15. Geburtstag des Kindes, fällt das gesamte Schloss in einen hundertjährigen Schlaf, aus dem nur ein Prinz es befreien kann, wenn er Dornröschen wachküsst.",
+        "duration": "PT1H7M30S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3243922/950x0/dornroeschen.jpg",
+        "name": "Dornröschen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/dornroeschen-18774",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-07-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=dornroeschen-18774",
+              "sameAs": "%s/premium?typ=format&formatname=dornroeschen-18774",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/dornroeschen-18774",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Aus Freude über die Geburt ihrer Tochter gibt ein Königspaar ein großes Fest. Zwölf Feen sollen ihre guten Wünsche über das Kind aussprechen. Die 13. Fee, die nicht eingeladen war, erscheint dennoch und wünscht dem Kind den Tod. Der zwölften Fee gelingt es, den Fluch abzumildern, und am 15. Geburtstag des Kindes, fällt das gesamte Schloss in einen hundertjährigen Schlaf, aus dem nur ein Prinz es befreien kann, wenn er Dornröschen wachküsst.",
+          "duration": "PT1H7M30S",
+          "embedUrl": "%s/googlebot/player/filme/dornroeschen-18774",
+          "name": "Dornröschen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3243922/950x0/dornroeschen.jpg",
+          "uploadDate": "2020-07-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Dornröschen im Online Stream | TVNOW",
+        "headline": "Dornröschen im Online Stream | TVNOW",
+        "description": "Dornröschen und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/dornroeschen-18774",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3243922/950x0/dornroeschen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3243922/950x0/dornroeschen.jpg",
+        "datePublished": "2020-07-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3243922/950x0/dornroeschen.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dornröschen",
+            "item": "%s/filme/dornroeschen-18774"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Dornröschen im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

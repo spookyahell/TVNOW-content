@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18842",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18842,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/battleship-18842"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Battleship",
+          "teaserId": "film_3324787",
+          "teaserName": "Battleship | Battleship",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Battleship",
+        "id": 3324787,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324787/300x0/battleship.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324787/",
+            "filename": "battleship"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324787/600x0/battleship.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324787/",
+            "filename": "battleship"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324787/1200x0/battleship.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324787/",
+            "filename": "battleship"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324787/300x0/battleship.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324787/",
+            "filename": "battleship"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324787/600x0/battleship.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324787/",
+            "filename": "battleship"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324787/1200x0/battleship.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324787/",
+            "filename": "battleship"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "battleship",
+        "subheadline": "Battleship",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/battleship-18842",
+        "videoId": 3324787
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

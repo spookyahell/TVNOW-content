@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18960,
+  "additionalMeta": {
+    "canonical": "/filme/sex-on-the-beach-18960",
+    "url": "/filme/sex-on-the-beach-18960"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Sex on the Beach",
+      "url": "/filme/sex-on-the-beach-18960"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18960,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Sex on the Beach 📺 und viele weitere ▶️ Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Sex on the Beach im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Sex on the Beach 📺 und viele weitere ▶️ Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3327280,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3327280",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18960"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Sex on the Beach - Informationen zum Film",
+    "text": "Die vier Freunde Will, Neil, Simon und Jay haben wider erwarten ihren Schulabschluss geschafft und möchten diese Überraschung auf Kreta feiern. Doch was als Traumurlaub geplant war, erweist sich dank des miserabelsten Hotels Griechenlands, Avancen britischer Seniorinnen und Blitz-Ebbe in der Urlaubskasse als echter Horrortrip...",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/sex-on-the-beach-the-inbetweeners-movie-18960",
+        "@type": "Movie",
+        "description": "Die vier Freunde Will, Neil, Simon und Jay haben wider erwarten ihren Schulabschluss geschafft und möchten diese Überraschung auf Kreta feiern. Doch was als Traumurlaub geplant war, erweist sich dank des miserabelsten Hotels Griechenlands, Avancen britischer Seniorinnen und Blitz-Ebbe in der Urlaubskasse als echter Horrortrip...",
+        "duration": "PT1H33M29S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3327280/950x0/sex-on-the-beach.jpg",
+        "name": "Sex on the Beach",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/sex-on-the-beach-the-inbetweeners-movie-18960",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-20T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=sex-on-the-beach-18960",
+              "sameAs": "%s/premium?typ=format&formatname=sex-on-the-beach-18960",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/sex-on-the-beach-the-inbetweeners-movie-18960",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die vier Freunde Will, Neil, Simon und Jay haben wider erwarten ihren Schulabschluss geschafft und möchten diese Überraschung auf Kreta feiern. Doch was als Traumurlaub geplant war, erweist sich dank des miserabelsten Hotels Griechenlands, Avancen britischer Seniorinnen und Blitz-Ebbe in der Urlaubskasse als echter Horrortrip...",
+          "duration": "PT1H33M29S",
+          "embedUrl": "%s/googlebot/player/filme/sex-on-the-beach-the-inbetweeners-movie-18960",
+          "name": "Sex on the Beach",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3327280/950x0/sex-on-the-beach.jpg",
+          "uploadDate": "2020-08-20T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Sex on the Beach im Online Stream | TVNOW",
+        "headline": "Sex on the Beach im Online Stream | TVNOW",
+        "description": "Sex on the Beach und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/sex-on-the-beach-the-inbetweeners-movie-18960",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3327280/950x0/sex-on-the-beach.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3327280/950x0/sex-on-the-beach.jpg",
+        "datePublished": "2020-08-20T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3327280/950x0/sex-on-the-beach.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sex on the Beach",
+            "item": "%s/filme/sex-on-the-beach-18960"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Sex on the Beach im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

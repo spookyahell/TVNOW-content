@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18907",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18907,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/waterworld-18907"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Waterworld",
+          "teaserId": "film_3325029",
+          "teaserName": "Waterworld | Waterworld",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Waterworld",
+        "id": 3325029,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325029/300x0/waterworld.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325029/",
+            "filename": "waterworld"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325029/600x0/waterworld.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325029/",
+            "filename": "waterworld"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325029/1200x0/waterworld.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325029/",
+            "filename": "waterworld"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325029/300x0/waterworld.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325029/",
+            "filename": "waterworld"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325029/600x0/waterworld.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325029/",
+            "filename": "waterworld"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325029/1200x0/waterworld.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325029/",
+            "filename": "waterworld"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "waterworld",
+        "subheadline": "Waterworld",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/waterworld-18907",
+        "videoId": 3325029
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

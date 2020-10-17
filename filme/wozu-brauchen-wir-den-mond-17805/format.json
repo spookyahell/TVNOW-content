@@ -1,0 +1,221 @@
+﻿{
+  "formatId": 17805,
+  "additionalMeta": {
+    "canonical": "/filme/wozu-brauchen-wir-den-mond-17805",
+    "url": "/filme/wozu-brauchen-wir-den-mond-17805"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Wozu brauchen wir den Mond?",
+      "url": "/filme/wozu-brauchen-wir-den-mond-17805"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 17805,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Wozu brauchen wir den Mond? 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Wozu brauchen wir den Mond? im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Wozu brauchen wir den Mond? 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1684167,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/1684167",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17805"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zur Serie Wozu brauchen wir den Mond?",
+    "text": "Wozu brauchen wir den Mond? und viele weitere Serien kannst Du gemütlich online bei TVNOW im Stream anschauen. Also nichts wie los – hole das Knabberzeug raus und genieße Deine Serie ganz entspannt von unterwegs oder von zu Hause aus mit Freunden.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "https://www.tvnow.de/filme/wozu-brauchen-wir-den-mond-17805",
+        "@type": "Movie",
+        "description": "Der Mond beeinflusst die Gezeiten, bestimmt die Länge eines Tages, den Rhythmus der Jahreszeiten und gewährleistet sogar die Stabilität des Planeten im Weltall. Dabei ist er immer in Bewegung. In der Vergangenheit war er der Erde näher, in der Zukunft wird er ihr ferner sein. Die Dokumentation blickt in die Vergangenheit von Erde und Mond und erklärt, wie ein Felsbrocken in 384.400 Kilometern Entfernung die Zukunft der Erde bestimmen wird.",
+        "duration": "PT39M",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/1684167/950x0/wozu-brauchen-wir-den-mond.jpg",
+        "name": "Wozu brauchen wir den Mond?",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.tvnow.de/filme/wozu-brauchen-wir-den-mond-17805",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2020-06-01T21:05:00.000Z"
+          }
+        },
+        "url": "https://www.tvnow.de/filme/wozu-brauchen-wir-den-mond-17805",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Der Mond beeinflusst die Gezeiten, bestimmt die Länge eines Tages, den Rhythmus der Jahreszeiten und gewährleistet sogar die Stabilität des Planeten im Weltall. Dabei ist er immer in Bewegung. In der Vergangenheit war er der Erde näher, in der Zukunft wird er ihr ferner sein. Die Dokumentation blickt in die Vergangenheit von Erde und Mond und erklärt, wie ein Felsbrocken in 384.400 Kilometern Entfernung die Zukunft der Erde bestimmen wird.",
+          "duration": "PT39M",
+          "embedUrl": "https://www.tvnow.de/googlebot/player/filme/wozu-brauchen-wir-den-mond-17805",
+          "name": "Wozu brauchen wir den Mond?",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1684167/950x0/wozu-brauchen-wir-den-mond.jpg",
+          "uploadDate": "2020-06-01T21:05:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Wozu brauchen wir den Mond? im Online Stream | TVNOW",
+        "headline": "Wozu brauchen wir den Mond? im Online Stream | TVNOW",
+        "description": "Wozu brauchen wir den Mond? und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "https://www.tvnow.de/filme/wozu-brauchen-wir-den-mond-17805",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/1684167/950x0/wozu-brauchen-wir-den-mond.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/1684167/950x0/wozu-brauchen-wir-den-mond.jpg",
+        "datePublished": "2020-06-01T21:05:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/1684167/950x0/wozu-brauchen-wir-den-mond.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "https://www.tvnow.de"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "https://www.tvnow.de",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.tvnow.de/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "https://www.tvnow.de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "https://www.tvnow.de/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wozu brauchen wir den Mond?",
+            "item": "https://www.tvnow.de/filme/wozu-brauchen-wir-den-mond-17805"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Wozu brauchen wir den Mond? im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

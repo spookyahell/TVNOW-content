@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18852,
+  "additionalMeta": {
+    "canonical": "/filme/in-den-schuhen-meiner-schwester-now-18852",
+    "url": "/filme/in-den-schuhen-meiner-schwester-now-18852"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "In den Schuhen meiner Schwester",
+      "url": "/filme/in-den-schuhen-meiner-schwester-now-18852"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18852,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ In den Schuhen meiner Schwester 📺 und viele weitere ▶️ Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "In den Schuhen meiner Schwester im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ In den Schuhen meiner Schwester 📺 und viele weitere ▶️ Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3328858,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3328858",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18852"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "In den Schuhen meiner Schwester – Informationen zum Film",
+    "text": "Die Schwestern Maggie und Rose Feller haben außer ihrer Schuhgröße nichts gemeinsam: Maggie ist ein richtiges Party-Girl, die ältere Rose dagegen ist eine erfolgreiche Anwältin, klug, verantwortungsbewusst, leicht übergewichtig und unsterblich in ihren Boss Jim Danvers verliebt. Dennoch haben die beiden Schwestern ein sehr enges Verhältnis zueinander. Das ändert sich schlagartig, als Maggie sich bei Rose einnistet und deren Boss verführt ...",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/in-den-schuhen-meiner-schwester-18852",
+        "@type": "Movie",
+        "description": "Die Schwestern Maggie und Rose Feller haben außer ihrer Schuhgröße nichts gemeinsam: Maggie ist ein richtiges Party-Girl, die ältere Rose dagegen ist eine erfolgreiche Anwältin, klug, verantwortungsbewusst, leicht übergewichtig und unsterblich in ihren Boss Jim Danvers verliebt. Dennoch haben die beiden Schwestern ein sehr enges Verhältnis zueinander. Das ändert sich schlagartig, als Maggie sich bei Rose einnistet und deren Boss verführt ...",
+        "duration": "PT2H4M59S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3328858/950x0/in-den-schuhen-meiner-schwester-now.jpg",
+        "name": "In den Schuhen meiner Schwester",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/in-den-schuhen-meiner-schwester-18852",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-20T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=in-den-schuhen-meiner-schwester-now-18852",
+              "sameAs": "%s/premium?typ=format&formatname=in-den-schuhen-meiner-schwester-now-18852",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/in-den-schuhen-meiner-schwester-18852",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die Schwestern Maggie und Rose Feller haben außer ihrer Schuhgröße nichts gemeinsam: Maggie ist ein richtiges Party-Girl, die ältere Rose dagegen ist eine erfolgreiche Anwältin, klug, verantwortungsbewusst, leicht übergewichtig und unsterblich in ihren Boss Jim Danvers verliebt. Dennoch haben die beiden Schwestern ein sehr enges Verhältnis zueinander. Das ändert sich schlagartig, als Maggie sich bei Rose einnistet und deren Boss verführt ...",
+          "duration": "PT2H4M59S",
+          "embedUrl": "%s/googlebot/player/filme/in-den-schuhen-meiner-schwester-18852",
+          "name": "In den Schuhen meiner Schwester",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3328858/950x0/in-den-schuhen-meiner-schwester-now.jpg",
+          "uploadDate": "2020-08-20T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "In den Schuhen meiner Schwester im Online Stream | TVNOW",
+        "headline": "In den Schuhen meiner Schwester im Online Stream | TVNOW",
+        "description": "In den Schuhen meiner Schwester und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW. Ein Film mit ▶️Cameron Diaz, Toni Collette, Mark Feuerstein, Anson Mount, Candice Azzara, Brooke Smith, Shirley MacLaine.",
+        "url": "%s/filme/in-den-schuhen-meiner-schwester-18852",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3328858/950x0/in-den-schuhen-meiner-schwester-now.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3328858/950x0/in-den-schuhen-meiner-schwester-now.jpg",
+        "datePublished": "2020-08-20T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3328858/950x0/in-den-schuhen-meiner-schwester-now.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "In den Schuhen meiner Schwester",
+            "item": "%s/filme/in-den-schuhen-meiner-schwester-now-18852"
+          }
+        ]
+      }
+    }
+  },
+  "title": "In den Schuhen meiner Schwester im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

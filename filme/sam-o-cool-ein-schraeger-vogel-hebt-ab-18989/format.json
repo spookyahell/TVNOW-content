@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 18989,
+  "additionalMeta": {
+    "canonical": "/filme/sam-o-cool-ein-schraeger-vogel-hebt-ab-18989",
+    "url": "/filme/sam-o-cool-ein-schraeger-vogel-hebt-ab-18989"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Sam O'Cool - Ein schräger Vogel hebt ab",
+      "url": "/filme/sam-o-cool-ein-schraeger-vogel-hebt-ab-18989"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18989,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Sam O'Cool - Ein schräger Vogel hebt ab 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Sam O'Cool - Ein schräger Vogel hebt ab im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Sam O'Cool - Ein schräger Vogel hebt ab 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3318727,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3318727",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18989"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Sam O'Cool - Ein schräger Vogel hebt ab",
+    "text": "Als Sam in seinem Vogelei aus dem Nest fällt, ist er von da an auf sich gestellt. Ängstlich und tollpatschig sieht er nicht viel von der Welt. Doch er trifft auf den Vogel Darius, der tödlich von einer Katze verletzt wurde. Darius schafft es gerade noch, Sam die ideale Flugroute für seinen Schwarm von Zugvögeln zu verraten. Um endlich etwas aus seinem Leben zu machen, will der unsichere Vogel den Schwarm in den Süden bringen und übernimmt statt Darius die Führung. Unwissend und voller Zweifel macht sich der Jungvogel mit dem Schwarm auf den Weg und ein großes Abenteuer beginnt...",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/sam-o-cool-ein-schraeger-vogel-hebt-ab-18989",
+        "@type": "Movie",
+        "description": "Als Sam in seinem Vogelei aus dem Nest fällt, ist er von da an auf sich gestellt. Ängstlich und tollpatschig sieht er nicht viel von der Welt. Doch er trifft auf den Vogel Darius, der tödlich von einer Katze verletzt wurde. Darius schafft es gerade noch, Sam die ideale Flugroute für seinen Schwarm von Zugvögeln zu verraten. Um endlich etwas aus seinem Leben zu machen, will der unsichere Vogel den Schwarm in den Süden bringen und übernimmt statt Darius die Führung. Unwissend und voller Zweifel macht sich der Jungvogel mit dem Schwarm auf den Weg und ein großes Abenteuer beginnt...",
+        "duration": "PT1H26M31S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3318727/950x0/sam-o-cool-ein-schraeger-vogel-hebt-ab.jpg",
+        "name": "Sam O'Cool - Ein schräger Vogel hebt ab",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/sam-o-cool-ein-schraeger-vogel-hebt-ab-18989",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-06-22T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=sam-o-cool-ein-schraeger-vogel-hebt-ab-18989",
+              "sameAs": "%s/premium?typ=format&formatname=sam-o-cool-ein-schraeger-vogel-hebt-ab-18989",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/sam-o-cool-ein-schraeger-vogel-hebt-ab-18989",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Als Sam in seinem Vogelei aus dem Nest fällt, ist er von da an auf sich gestellt. Ängstlich und tollpatschig sieht er nicht viel von der Welt. Doch er trifft auf den Vogel Darius, der tödlich von einer Katze verletzt wurde. Darius schafft es gerade noch, Sam die ideale Flugroute für seinen Schwarm von Zugvögeln zu verraten. Um endlich etwas aus seinem Leben zu machen, will der unsichere Vogel den Schwarm in den Süden bringen und übernimmt statt Darius die Führung. Unwissend und voller Zweifel macht sich der Jungvogel mit dem Schwarm auf den Weg und ein großes Abenteuer beginnt...",
+          "duration": "PT1H26M31S",
+          "embedUrl": "%s/googlebot/player/filme/sam-o-cool-ein-schraeger-vogel-hebt-ab-18989",
+          "name": "Sam O'Cool - Ein schräger Vogel hebt ab",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3318727/950x0/sam-o-cool-ein-schraeger-vogel-hebt-ab.jpg",
+          "uploadDate": "2020-06-22T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Sam O'Cool - Ein schräger Vogel hebt ab im Online Stream | TVNOW",
+        "headline": "Sam O'Cool - Ein schräger Vogel hebt ab im Online Stream | TVNOW",
+        "description": "Sam O'Cool - Ein schräger Vogel hebt ab und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/sam-o-cool-ein-schraeger-vogel-hebt-ab-18989",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3318727/950x0/sam-o-cool-ein-schraeger-vogel-hebt-ab.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3318727/950x0/sam-o-cool-ein-schraeger-vogel-hebt-ab.jpg",
+        "datePublished": "2020-06-22T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3318727/950x0/sam-o-cool-ein-schraeger-vogel-hebt-ab.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sam O'Cool - Ein schräger Vogel hebt ab",
+            "item": "%s/filme/sam-o-cool-ein-schraeger-vogel-hebt-ab-18989"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Sam O'Cool - Ein schräger Vogel hebt ab im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

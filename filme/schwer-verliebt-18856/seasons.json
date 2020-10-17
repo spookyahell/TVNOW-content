@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18856",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18856,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/schwer-verliebt-18856"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Schwer verliebt",
+          "teaserId": "film_3328754",
+          "teaserName": "Schwer verliebt | Schwer verliebt",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Schwer verliebt",
+        "id": 3328754,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328754/300x0/schwer-verliebt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328754/",
+            "filename": "schwer-verliebt"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328754/600x0/schwer-verliebt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328754/",
+            "filename": "schwer-verliebt"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328754/1200x0/schwer-verliebt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328754/",
+            "filename": "schwer-verliebt"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328754/300x0/schwer-verliebt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328754/",
+            "filename": "schwer-verliebt"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328754/600x0/schwer-verliebt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328754/",
+            "filename": "schwer-verliebt"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328754/1200x0/schwer-verliebt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328754/",
+            "filename": "schwer-verliebt"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "schwer-verliebt",
+        "subheadline": "Schwer verliebt",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/schwer-verliebt-18856",
+        "videoId": 3328754
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

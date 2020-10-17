@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18946",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18946,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/tomb-raider-18946"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Tomb Raider",
+          "teaserId": "film_3390544",
+          "teaserName": "Tomb Raider | Tomb Raider",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Tomb Raider",
+        "id": 3390544,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3390544/300x0/tomb-raider.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3390544/",
+            "filename": "tomb-raider"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3390544/600x0/tomb-raider.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3390544/",
+            "filename": "tomb-raider"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3390544/1200x0/tomb-raider.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3390544/",
+            "filename": "tomb-raider"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3390544/300x0/tomb-raider.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3390544/",
+            "filename": "tomb-raider"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3390544/600x0/tomb-raider.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3390544/",
+            "filename": "tomb-raider"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3390544/1200x0/tomb-raider.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3390544/",
+            "filename": "tomb-raider"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "tomb-raider",
+        "subheadline": "Tomb Raider",
+        "text": "Staffel  | Di. 15.09.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/tomb-raider-18946",
+        "videoId": 3390544
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

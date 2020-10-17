@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18981,
+  "additionalMeta": {
+    "canonical": "/filme/fantastic-four-rise-of-the-silver-surfer-18981",
+    "url": "/filme/fantastic-four-rise-of-the-silver-surfer-18981"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Fantastic Four - Rise of the Silver Surfer",
+      "url": "/filme/fantastic-four-rise-of-the-silver-surfer-18981"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18981,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Fantastic Four - Rise of the Silver Surfer 📺 und viele weitere ▶️ Filme aus dem Genre Science Fiction findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Fantastic Four - Rise of the Silver Surfer im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Fantastic Four - Rise of the Silver Surfer 📺 und viele weitere ▶️ Filme aus dem Genre Science Fiction findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3330634,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3330634",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18981"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_abenteuer/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_abenteuer",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Science Fiction",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Fantastic Four - Rise of the Silver Surfer - Informationen zum Film",
+    "text": "Kurz vor der Hochzeit von Reed \"Mr. Fantastic\" Richards und Sue \"Invisible Girl\" Storm tauchen unerklärliche, mysteriöse Naturphänomene auf. Die Wissenschaft ist ratlos. Doch als General Hager Reed Richards aufsucht und ihn um Hilfe bittet, fügen sich die Puzzleteile allmählich zusammen. Ein Teleskop hat im Weltall ein mysteriöses Objekt aufgenommen, das mit direktem Kurs auf die Erde zusteuert und das die Ursache für die ungewöhnlichen Vorkommnisse zu sein scheint.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/fantastic-four-rise-of-the-silver-surfer-18981",
+        "@type": "Movie",
+        "description": "Kurz vor der Hochzeit von Reed \"Mr. Fantastic\" Richards und Sue \"Invisible Girl\" Storm tauchen unerklärliche, mysteriöse Naturphänomene auf. Die Wissenschaft ist ratlos. Doch als General Hager Reed Richards aufsucht und ihn um Hilfe bittet, fügen sich die Puzzleteile allmählich zusammen. Ein Teleskop hat im Weltall ein mysteriöses Objekt aufgenommen, das mit direktem Kurs auf die Erde zusteuert und das die Ursache für die ungewöhnlichen Vorkommnisse zu sein scheint.",
+        "duration": "PT1H27M55S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3330634/950x0/fantastic-four-rise-of-the-silver-surfer.jpg",
+        "name": "Fantastic Four - Rise of the Silver Surfer",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/fantastic-four-rise-of-the-silver-surfer-18981",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-20T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=fantastic-four-rise-of-the-silver-surfer-18981",
+              "sameAs": "%s/premium?typ=format&formatname=fantastic-four-rise-of-the-silver-surfer-18981",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/fantastic-four-rise-of-the-silver-surfer-18981",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Kurz vor der Hochzeit von Reed \"Mr. Fantastic\" Richards und Sue \"Invisible Girl\" Storm tauchen unerklärliche, mysteriöse Naturphänomene auf. Die Wissenschaft ist ratlos. Doch als General Hager Reed Richards aufsucht und ihn um Hilfe bittet, fügen sich die Puzzleteile allmählich zusammen. Ein Teleskop hat im Weltall ein mysteriöses Objekt aufgenommen, das mit direktem Kurs auf die Erde zusteuert und das die Ursache für die ungewöhnlichen Vorkommnisse zu sein scheint.",
+          "duration": "PT1H27M55S",
+          "embedUrl": "%s/googlebot/player/filme/fantastic-four-rise-of-the-silver-surfer-18981",
+          "name": "Fantastic Four - Rise of the Silver Surfer",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3330634/950x0/fantastic-four-rise-of-the-silver-surfer.jpg",
+          "uploadDate": "2020-08-20T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Fantastic Four - Rise of the Silver Surfer im Online Stream | TVNOW",
+        "headline": "Fantastic Four - Rise of the Silver Surfer im Online Stream | TVNOW",
+        "description": "Fantastic Four - Rise of the Silver Surfer und viele weitere  ▶️Filme aus dem Genre Science Fiction findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/fantastic-four-rise-of-the-silver-surfer-18981",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3330634/950x0/fantastic-four-rise-of-the-silver-surfer.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3330634/950x0/fantastic-four-rise-of-the-silver-surfer.jpg",
+        "datePublished": "2020-08-20T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3330634/950x0/fantastic-four-rise-of-the-silver-surfer.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Fantastic Four - Rise of the Silver Surfer",
+            "item": "%s/filme/fantastic-four-rise-of-the-silver-surfer-18981"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Fantastic Four - Rise of the Silver Surfer im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

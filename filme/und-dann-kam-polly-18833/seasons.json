@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18833",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18833,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/und-dann-kam-polly-18833"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "... und dann kam Polly",
+          "teaserId": "film_3325012",
+          "teaserName": "... und dann kam Polly | ...Und dann kam Polly",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "...Und dann kam Polly",
+        "id": 3325012,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325012/300x0/und-dann-kam-polly.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325012/",
+            "filename": "und-dann-kam-polly"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325012/600x0/und-dann-kam-polly.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325012/",
+            "filename": "und-dann-kam-polly"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325012/1200x0/und-dann-kam-polly.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325012/",
+            "filename": "und-dann-kam-polly"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325012/300x0/und-dann-kam-polly.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325012/",
+            "filename": "und-dann-kam-polly"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325012/600x0/und-dann-kam-polly.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325012/",
+            "filename": "und-dann-kam-polly"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325012/1200x0/und-dann-kam-polly.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325012/",
+            "filename": "und-dann-kam-polly"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "und-dann-kam-polly",
+        "subheadline": "...Und dann kam Polly",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/und-dann-kam-polly-18833",
+        "videoId": 3325012
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

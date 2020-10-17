@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 18975,
+  "additionalMeta": {
+    "canonical": "/filme/h2o-ploetzlich-meerjungfrau-spielfilm-2-18975",
+    "url": "/filme/h2o-ploetzlich-meerjungfrau-spielfilm-2-18975"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "H2O - Plötzlich Meerjungfrau, Spielfilm 2",
+      "url": "/filme/h2o-ploetzlich-meerjungfrau-spielfilm-2-18975"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18975,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ H2O - Plötzlich Meerjungfrau, Spielfilm 2 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "H2O - Plötzlich Meerjungfrau, Spielfilm 2 im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ H2O - Plötzlich Meerjungfrau, Spielfilm 2 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3321989,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3321989",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18975"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now_kids/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now_kids",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: H2O - Plötzlich Meerjungfrau, Spielfilm 2",
+    "text": "Emma, Rikki und Cleo glauben alle davon überzeugt zu haben, dass sie ihre Fähigkeiten verloren hätten. Die Mädchen können wieder ganz normale Dinge wie Schwimmen oder Shoppen zu gehen. Sie vermeiden lediglich, von Wasser bespritzt zu werden. Nur Lewis weiß, dass sie noch Meerjungfrauen sind. Doch beim nächsten Vollmond hat ihr normales Teenager-Leben ein jähes End. Ihre Fähigkeiten kehren nicht nur zurück, sie werden sogar noch stärker! ",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/h2o-ploetzlich-meerjungfrau-spielfilm-2-18975",
+        "@type": "Movie",
+        "description": "Emma, Rikki und Cleo glauben alle davon überzeugt zu haben, dass sie ihre Fähigkeiten verloren hätten. Die Mädchen können wieder ganz normale Dinge wie Schwimmen oder Shoppen zu gehen. Sie vermeiden lediglich, von Wasser bespritzt zu werden. Nur Lewis weiß, dass sie noch Meerjungfrauen sind. Doch beim nächsten Vollmond hat ihr normales Teenager-Leben ein jähes End. Ihre Fähigkeiten kehren nicht nur zurück, sie werden sogar noch stärker! ",
+        "duration": "PT1H31M41S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3321989/950x0/h2o-ploetzlich-meerjungfrau-spielfilm-2.jpg",
+        "name": "H2O - Plötzlich Meerjungfrau, Spielfilm 2",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/h2o-ploetzlich-meerjungfrau-spielfilm-2-18975",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-07-10T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=h2o-ploetzlich-meerjungfrau-spielfilm-2-18975",
+              "sameAs": "%s/premium?typ=format&formatname=h2o-ploetzlich-meerjungfrau-spielfilm-2-18975",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/h2o-ploetzlich-meerjungfrau-spielfilm-2-18975",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Emma, Rikki und Cleo glauben alle davon überzeugt zu haben, dass sie ihre Fähigkeiten verloren hätten. Die Mädchen können wieder ganz normale Dinge wie Schwimmen oder Shoppen zu gehen. Sie vermeiden lediglich, von Wasser bespritzt zu werden. Nur Lewis weiß, dass sie noch Meerjungfrauen sind. Doch beim nächsten Vollmond hat ihr normales Teenager-Leben ein jähes End. Ihre Fähigkeiten kehren nicht nur zurück, sie werden sogar noch stärker! ",
+          "duration": "PT1H31M41S",
+          "embedUrl": "%s/googlebot/player/filme/h2o-ploetzlich-meerjungfrau-spielfilm-2-18975",
+          "name": "H2O - Plötzlich Meerjungfrau, Spielfilm 2",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3321989/950x0/h2o-ploetzlich-meerjungfrau-spielfilm-2.jpg",
+          "uploadDate": "2020-07-10T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "H2O - Plötzlich Meerjungfrau, Spielfilm 2 im Online Stream | TVNOW",
+        "headline": "H2O - Plötzlich Meerjungfrau, Spielfilm 2 im Online Stream | TVNOW",
+        "description": "H2O - Plötzlich Meerjungfrau, Spielfilm 2 und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/h2o-ploetzlich-meerjungfrau-spielfilm-2-18975",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3321989/950x0/h2o-ploetzlich-meerjungfrau-spielfilm-2.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3321989/950x0/h2o-ploetzlich-meerjungfrau-spielfilm-2.jpg",
+        "datePublished": "2020-07-10T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3321989/950x0/h2o-ploetzlich-meerjungfrau-spielfilm-2.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "H2O - Plötzlich Meerjungfrau, Spielfilm 2",
+            "item": "%s/filme/h2o-ploetzlich-meerjungfrau-spielfilm-2-18975"
+          }
+        ]
+      }
+    }
+  },
+  "title": "H2O - Plötzlich Meerjungfrau, Spielfilm 2 im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

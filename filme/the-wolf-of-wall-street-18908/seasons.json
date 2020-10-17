@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18908",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18908,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-wolf-of-wall-street-18908"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Wolf of Wall Street",
+          "teaserId": "film_3327767",
+          "teaserName": "The Wolf of Wall Street | The Wolf of Wall Street",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Wolf of Wall Street",
+        "id": 3327767,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327767/300x0/the-wolf-of-wall-street.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327767/",
+            "filename": "the-wolf-of-wall-street"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327767/600x0/the-wolf-of-wall-street.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327767/",
+            "filename": "the-wolf-of-wall-street"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327767/1200x0/the-wolf-of-wall-street.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327767/",
+            "filename": "the-wolf-of-wall-street"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327767/300x0/the-wolf-of-wall-street.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327767/",
+            "filename": "the-wolf-of-wall-street"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327767/600x0/the-wolf-of-wall-street.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327767/",
+            "filename": "the-wolf-of-wall-street"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327767/1200x0/the-wolf-of-wall-street.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327767/",
+            "filename": "the-wolf-of-wall-street"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-wolf-of-wall-street",
+        "subheadline": "The Wolf of Wall Street",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/the-wolf-of-wall-street-18908",
+        "videoId": 3327767
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

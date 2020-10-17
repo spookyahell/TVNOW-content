@@ -1,0 +1,106 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18767",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18767,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/das-kalte-herz-18767"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das kalte Herz",
+          "teaserId": "film_3239428",
+          "teaserName": "Das kalte Herz | Das kalte Herz",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "Kids"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das kalte Herz",
+        "id": 3239428,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3239428/300x0/das-kalte-herz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3239428/",
+            "filename": "das-kalte-herz"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3239428/600x0/das-kalte-herz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3239428/",
+            "filename": "das-kalte-herz"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3239428/1200x0/das-kalte-herz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3239428/",
+            "filename": "das-kalte-herz"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3239428/300x0/das-kalte-herz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3239428/",
+            "filename": "das-kalte-herz"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3239428/600x0/das-kalte-herz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3239428/",
+            "filename": "das-kalte-herz"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3239428/1200x0/das-kalte-herz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3239428/",
+            "filename": "das-kalte-herz"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-kalte-herz",
+        "subheadline": "Das kalte Herz",
+        "text": "Staffel  | Di. 30.06.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/das-kalte-herz-18767",
+        "videoId": 3239428
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

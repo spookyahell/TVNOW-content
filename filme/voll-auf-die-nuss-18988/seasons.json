@@ -1,0 +1,109 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18988",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18988,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/voll-auf-die-nuss-18988"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Voll auf die Nuss",
+          "teaserId": "film_3318732",
+          "teaserName": "Voll auf die Nuss | Voll auf die Nuss",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Lustig und schräg",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Voll auf die Nuss",
+        "id": 3318732,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3318732/300x0/voll-auf-die-nuss.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3318732/",
+            "filename": "voll-auf-die-nuss"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3318732/600x0/voll-auf-die-nuss.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3318732/",
+            "filename": "voll-auf-die-nuss"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3318732/1200x0/voll-auf-die-nuss.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3318732/",
+            "filename": "voll-auf-die-nuss"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3318732/300x0/voll-auf-die-nuss.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3318732/",
+            "filename": "voll-auf-die-nuss"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3318732/600x0/voll-auf-die-nuss.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3318732/",
+            "filename": "voll-auf-die-nuss"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3318732/1200x0/voll-auf-die-nuss.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3318732/",
+            "filename": "voll-auf-die-nuss"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "voll-auf-die-nuss",
+        "subheadline": "Voll auf die Nuss",
+        "text": "Staffel  | Mo. 22.06.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/voll-auf-die-nuss-18988",
+        "videoId": 3318732
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

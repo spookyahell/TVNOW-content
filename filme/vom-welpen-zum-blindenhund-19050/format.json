@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 19050,
+  "additionalMeta": {
+    "canonical": "/filme/vom-welpen-zum-blindenhund-19050",
+    "url": "/filme/vom-welpen-zum-blindenhund-19050"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Vom Welpen zum Blindenhund",
+      "url": "/filme/vom-welpen-zum-blindenhund-19050"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19050,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Vom Welpen zum Blindenhund 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Vom Welpen zum Blindenhund im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Vom Welpen zum Blindenhund 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3343134,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3343134",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19050"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Tiere"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Vom Welpen zum Blindenhund",
+    "text": "Die US-Organisation \"Guide Dogs for the Blind\" züchtet jährlich 800 Hunde, die bereits wenige Tage nach ihrer Geburt eine 20-monatige Ausbildung zum Blindenhund antreten - doch nur 300 der Vierbeiner bringen genügend Talent, Geduld und Ausdauer mit, um das Training abzuschließen. Der preisgekrönte Dokumentarfilm begleitet fünf charismatische Welpen bei ihrer Ausbildung zum Assistenzhund. ",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/vom-welpen-zum-blindenhund-19050",
+        "@type": "Movie",
+        "description": "Die US-Organisation \"Guide Dogs for the Blind\" züchtet jährlich 800 Hunde, die bereits wenige Tage nach ihrer Geburt eine 20-monatige Ausbildung zum Blindenhund antreten - doch nur 300 der Vierbeiner bringen genügend Talent, Geduld und Ausdauer mit, um das Training abzuschließen. Der preisgekrönte Dokumentarfilm begleitet fünf charismatische Welpen bei ihrer Ausbildung zum Assistenzhund. ",
+        "duration": "PT1H17M5S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3343134/950x0/vom-welpen-zum-blindenhund.jpg",
+        "name": "Vom Welpen zum Blindenhund",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/vom-welpen-zum-blindenhund-19050",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-10-19T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=vom-welpen-zum-blindenhund-19050",
+              "sameAs": "%s/premium?typ=format&formatname=vom-welpen-zum-blindenhund-19050",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/vom-welpen-zum-blindenhund-19050",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die US-Organisation \"Guide Dogs for the Blind\" züchtet jährlich 800 Hunde, die bereits wenige Tage nach ihrer Geburt eine 20-monatige Ausbildung zum Blindenhund antreten - doch nur 300 der Vierbeiner bringen genügend Talent, Geduld und Ausdauer mit, um das Training abzuschließen. Der preisgekrönte Dokumentarfilm begleitet fünf charismatische Welpen bei ihrer Ausbildung zum Assistenzhund. ",
+          "duration": "PT1H17M5S",
+          "embedUrl": "%s/googlebot/player/filme/vom-welpen-zum-blindenhund-19050",
+          "name": "Vom Welpen zum Blindenhund",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3343134/950x0/vom-welpen-zum-blindenhund.jpg",
+          "uploadDate": "2020-10-19T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Vom Welpen zum Blindenhund im Online Stream | TVNOW",
+        "headline": "Vom Welpen zum Blindenhund im Online Stream | TVNOW",
+        "description": "Vom Welpen zum Blindenhund und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/vom-welpen-zum-blindenhund-19050",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3343134/950x0/vom-welpen-zum-blindenhund.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3343134/950x0/vom-welpen-zum-blindenhund.jpg",
+        "datePublished": "2020-10-19T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3343134/950x0/vom-welpen-zum-blindenhund.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Vom Welpen zum Blindenhund",
+            "item": "%s/filme/vom-welpen-zum-blindenhund-19050"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Vom Welpen zum Blindenhund im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

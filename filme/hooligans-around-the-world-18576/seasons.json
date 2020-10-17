@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18576",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18576,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/hooligans-around-the-world-18576"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Hooligans - Around the World",
+          "teaserId": "film_3166920",
+          "teaserName": "Hooligans - Around the World | Hooligans Around the World",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "True Crime"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Hooligans Around the World",
+        "id": 3166920,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3166920/300x0/hooligans-around-the-world.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3166920/",
+            "filename": "hooligans-around-the-world"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3166920/600x0/hooligans-around-the-world.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3166920/",
+            "filename": "hooligans-around-the-world"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3166920/1200x0/hooligans-around-the-world.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3166920/",
+            "filename": "hooligans-around-the-world"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3166920/300x0/hooligans-around-the-world.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3166920/",
+            "filename": "hooligans-around-the-world"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3166920/600x0/hooligans-around-the-world.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3166920/",
+            "filename": "hooligans-around-the-world"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3166920/1200x0/hooligans-around-the-world.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3166920/",
+            "filename": "hooligans-around-the-world"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "hooligans-around-the-world",
+        "subheadline": "Hooligans Around the World",
+        "text": "Staffel  | So. 31.05.2020, 21:30 Uhr",
+        "type": "film",
+        "url": "/filme/hooligans-around-the-world-18576",
+        "videoId": 3166920
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,1 +1,107 @@
-NONE
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 5"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/8157",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 8157,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/serien/chicago-pd-8157/staffel-5/episode-3-das-versprechen-3485440"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Chicago P.D.",
+          "teaserId": "serie_episode_3485440",
+          "teaserName": "Chicago P.D. | Staffel 5 | Folge 3 | Das Versprechen",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 5",
+          "teaserEpisodeNumber": "Folge 3",
+          "teaserEpisodeAirtime": "Fr. 16.10.2020, 23:05 Uhr",
+          "teaserEpisodeName": "Das Versprechen"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das Versprechen",
+        "id": 3485440,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3485440/300x0/das-versprechen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3485440/",
+            "filename": "das-versprechen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3485440/600x0/das-versprechen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3485440/",
+            "filename": "das-versprechen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3485440/1200x0/das-versprechen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3485440/",
+            "filename": "das-versprechen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3485440/300x0/das-versprechen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3485440/",
+            "filename": "das-versprechen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3485440/600x0/das-versprechen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3485440/",
+            "filename": "das-versprechen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3485440/1200x0/das-versprechen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3485440/",
+            "filename": "das-versprechen"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "chicago-pd",
+        "subheadline": "Das Versprechen",
+        "text": "Staffel 5, Folge 3 | Fr. 16.10.2020, 23:05 Uhr",
+        "type": "serie",
+        "url": "/serien/chicago-pd-8157/staffel-5/episode-3-das-versprechen-3485440",
+        "videoId": 3485440
+      }
+    ],
+    "format_navigation": {
+      "season": 5
+    },
+    "navigationType": "season"
+  }
+]

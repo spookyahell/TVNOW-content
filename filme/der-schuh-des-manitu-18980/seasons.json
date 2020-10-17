@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18980",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18980,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-schuh-des-manitu-18980"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Schuh des Manitu",
+          "teaserId": "film_3331136",
+          "teaserName": "Der Schuh des Manitu | Der Schuh des Manitu",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Schuh des Manitu",
+        "id": 3331136,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331136/300x0/der-schuh-des-manitu.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331136/",
+            "filename": "der-schuh-des-manitu"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331136/600x0/der-schuh-des-manitu.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331136/",
+            "filename": "der-schuh-des-manitu"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331136/1200x0/der-schuh-des-manitu.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331136/",
+            "filename": "der-schuh-des-manitu"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331136/300x0/der-schuh-des-manitu.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331136/",
+            "filename": "der-schuh-des-manitu"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331136/600x0/der-schuh-des-manitu.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331136/",
+            "filename": "der-schuh-des-manitu"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331136/1200x0/der-schuh-des-manitu.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331136/",
+            "filename": "der-schuh-des-manitu"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-schuh-des-manitu",
+        "subheadline": "Der Schuh des Manitu",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/der-schuh-des-manitu-18980",
+        "videoId": 3331136
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

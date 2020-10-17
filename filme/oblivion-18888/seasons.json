@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18888",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18888,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/oblivion-18888"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Oblivion",
+          "teaserId": "film_3324748",
+          "teaserName": "Oblivion | Oblivion",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Science Fiction",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Oblivion",
+        "id": 3324748,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324748/300x0/oblivion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324748/",
+            "filename": "oblivion"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324748/600x0/oblivion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324748/",
+            "filename": "oblivion"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324748/1200x0/oblivion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324748/",
+            "filename": "oblivion"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324748/300x0/oblivion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324748/",
+            "filename": "oblivion"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324748/600x0/oblivion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324748/",
+            "filename": "oblivion"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324748/1200x0/oblivion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324748/",
+            "filename": "oblivion"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "oblivion",
+        "subheadline": "Oblivion",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/oblivion-18888",
+        "videoId": 3324748
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

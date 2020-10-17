@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17042",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17042,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/saving-face-17042"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Saving Face",
+          "teaserId": "film_1460832",
+          "teaserName": "Saving Face | Saving Face",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Saving Face",
+        "id": 1460832,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1460832/300x0/saving-face.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1460832/",
+            "filename": "saving-face"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1460832/600x0/saving-face.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1460832/",
+            "filename": "saving-face"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1460832/1200x0/saving-face.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1460832/",
+            "filename": "saving-face"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1460832/300x0/saving-face.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1460832/",
+            "filename": "saving-face"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1460832/600x0/saving-face.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1460832/",
+            "filename": "saving-face"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1460832/1200x0/saving-face.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1460832/",
+            "filename": "saving-face"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "saving-face",
+        "subheadline": "Saving Face",
+        "text": "Staffel  | Fr. 16.10.2020, 00:40 Uhr",
+        "type": "film",
+        "url": "/filme/saving-face-17042",
+        "videoId": 1460832
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

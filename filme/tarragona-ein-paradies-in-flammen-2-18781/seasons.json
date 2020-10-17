@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18781",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18781,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/teil-2-18781"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Tarragona - Ein Paradies in Flammen (2)",
+          "teaserId": "film_3291559",
+          "teaserName": "Tarragona - Ein Paradies in Flammen (2) | Teil 2",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Teil 2",
+        "id": 3291559,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3291559/300x0/teil-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3291559/",
+            "filename": "teil-2"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3291559/600x0/teil-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3291559/",
+            "filename": "teil-2"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3291559/1200x0/teil-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3291559/",
+            "filename": "teil-2"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3291559/300x0/teil-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3291559/",
+            "filename": "teil-2"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3291559/600x0/teil-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3291559/",
+            "filename": "teil-2"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3291559/1200x0/teil-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3291559/",
+            "filename": "teil-2"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "tarragona-ein-paradies-in-flammen-2",
+        "subheadline": "Teil 2",
+        "text": "Staffel  | Sa. 25.07.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/teil-2-18781",
+        "videoId": 3291559
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

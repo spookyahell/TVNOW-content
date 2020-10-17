@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17986",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17986,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/go-trabi-go-17986"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Go Trabi Go",
+          "teaserId": "film_3473601",
+          "teaserName": "Go Trabi Go | Go Trabi Go",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Go Trabi Go",
+        "id": 3473601,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3473601/300x0/go-trabi-go.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3473601/",
+            "filename": "go-trabi-go"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3473601/600x0/go-trabi-go.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3473601/",
+            "filename": "go-trabi-go"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3473601/1200x0/go-trabi-go.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3473601/",
+            "filename": "go-trabi-go"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3473601/300x0/go-trabi-go.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3473601/",
+            "filename": "go-trabi-go"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3473601/600x0/go-trabi-go.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3473601/",
+            "filename": "go-trabi-go"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3473601/1200x0/go-trabi-go.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3473601/",
+            "filename": "go-trabi-go"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "go-trabi-go",
+        "subheadline": "Go Trabi Go",
+        "text": "Staffel  | Di. 13.10.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/go-trabi-go-17986",
+        "videoId": 3473601
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

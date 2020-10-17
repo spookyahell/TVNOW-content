@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17363",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17363,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/bank-job-17363"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Bank Job",
+          "teaserId": "film_1428705",
+          "teaserName": "Bank Job | Bank Job",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Bank Job",
+        "id": 1428705,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1428705/300x0/bank-job.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1428705/",
+            "filename": "bank-job"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1428705/600x0/bank-job.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1428705/",
+            "filename": "bank-job"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1428705/1200x0/bank-job.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1428705/",
+            "filename": "bank-job"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1428705/300x0/bank-job.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1428705/",
+            "filename": "bank-job"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1428705/600x0/bank-job.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1428705/",
+            "filename": "bank-job"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1428705/1200x0/bank-job.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1428705/",
+            "filename": "bank-job"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "bank-job",
+        "subheadline": "Bank Job",
+        "text": "Staffel  | Mi. 09.09.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/bank-job-17363",
+        "videoId": 1428705
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/14948",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 14948,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/fan-14948"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Fan",
+          "teaserId": "film_1175940",
+          "teaserName": "Fan | Fan",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Fan",
+        "id": 1175940,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1175940/300x0/fan.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1175940/",
+            "filename": "fan"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1175940/600x0/fan.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1175940/",
+            "filename": "fan"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1175940/1200x0/fan.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1175940/",
+            "filename": "fan"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1175940/300x0/fan.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1175940/",
+            "filename": "fan"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1175940/600x0/fan.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1175940/",
+            "filename": "fan"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/1175940/1200x0/fan.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/1175940/",
+            "filename": "fan"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "fan",
+        "subheadline": "Fan",
+        "text": "Staffel  | Sa. 11.07.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/fan-14948",
+        "videoId": 1175940
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

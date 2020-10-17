@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18970,
+  "additionalMeta": {
+    "canonical": "/filme/sex-on-the-beach-2-down-under-brennt-der-busch-18970",
+    "url": "/filme/sex-on-the-beach-2-down-under-brennt-der-busch-18970"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Sex on the Beach 2 - Down Under brennt der Busch",
+      "url": "/filme/sex-on-the-beach-2-down-under-brennt-der-busch-18970"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18970,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Sex on the Beach 2 - Down Under brennt der Busch 📺 und viele weitere ▶️ Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Sex on the Beach 2 - Down Under brennt der Busch im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Sex on the Beach 2 - Down Under brennt der Busch 📺 und viele weitere ▶️ Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3327378,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3327378",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18970"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Sex on the Beach 2 - Down Under brennt der Busch - Informationen zum Film",
+    "text": "Möchtegern-Frauenheld Jay macht sein Auslandsjahr in Australien. Als er seinen drei Kumpels Will, Simon und Neil von seinen angeblichen Party- und Sex-Abenteuern Down Under erzählt, kommen die ihn prompt besuchen. Und stellen fest, dass die Sache mit den Frauen auch auf dem fünften Kontinent nicht immer nach Plan verläuft. ",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/sex-on-the-beach-2-18970",
+        "@type": "Movie",
+        "description": "Möchtegern-Frauenheld Jay macht sein Auslandsjahr in Australien. Als er seinen drei Kumpels Will, Simon und Neil von seinen angeblichen Party- und Sex-Abenteuern Down Under erzählt, kommen die ihn prompt besuchen. Und stellen fest, dass die Sache mit den Frauen auch auf dem fünften Kontinent nicht immer nach Plan verläuft. ",
+        "duration": "PT1H32M32S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3327378/950x0/sex-on-the-beach-2-down-under-brennt-der-busch.jpg",
+        "name": "Sex on the Beach 2 - Down Under brennt der Busch",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/sex-on-the-beach-2-18970",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-20T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=sex-on-the-beach-2-down-under-brennt-der-busch-18970",
+              "sameAs": "%s/premium?typ=format&formatname=sex-on-the-beach-2-down-under-brennt-der-busch-18970",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/sex-on-the-beach-2-18970",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Möchtegern-Frauenheld Jay macht sein Auslandsjahr in Australien. Als er seinen drei Kumpels Will, Simon und Neil von seinen angeblichen Party- und Sex-Abenteuern Down Under erzählt, kommen die ihn prompt besuchen. Und stellen fest, dass die Sache mit den Frauen auch auf dem fünften Kontinent nicht immer nach Plan verläuft. ",
+          "duration": "PT1H32M32S",
+          "embedUrl": "%s/googlebot/player/filme/sex-on-the-beach-2-18970",
+          "name": "Sex on the Beach 2 - Down Under brennt der Busch",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3327378/950x0/sex-on-the-beach-2-down-under-brennt-der-busch.jpg",
+          "uploadDate": "2020-08-20T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Sex on the Beach 2 - Down Under brennt der Busch im Online Stream | TVNOW",
+        "headline": "Sex on the Beach 2 - Down Under brennt der Busch im Online Stream | TVNOW",
+        "description": "Sex on the Beach 2 - Down Under brennt der Busch und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/sex-on-the-beach-2-18970",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3327378/950x0/sex-on-the-beach-2-down-under-brennt-der-busch.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3327378/950x0/sex-on-the-beach-2-down-under-brennt-der-busch.jpg",
+        "datePublished": "2020-08-20T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3327378/950x0/sex-on-the-beach-2-down-under-brennt-der-busch.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sex on the Beach 2 - Down Under brennt der Busch",
+            "item": "%s/filme/sex-on-the-beach-2-down-under-brennt-der-busch-18970"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Sex on the Beach 2 - Down Under brennt der Busch im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

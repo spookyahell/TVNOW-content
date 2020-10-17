@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 18934,
+  "additionalMeta": {
+    "canonical": "/filme/ausgeliefert-im-visier-der-grossclans-18934",
+    "url": "/filme/ausgeliefert-im-visier-der-grossclans-18934"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Ausgeliefert - Im Visier der Großclans",
+      "url": "/filme/ausgeliefert-im-visier-der-grossclans-18934"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18934,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Ausgeliefert - Im Visier der Großclans 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Ausgeliefert - Im Visier der Großclans im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Ausgeliefert - Im Visier der Großclans 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3309454,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3309454",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18934"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Wissen",
+      "True Crime"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Ausgeliefert- Im Visier der Großclans",
+    "text": "Eine Großfamilie aus Köln soll sich ihr Luxusleben durch Einbrüche bei Senioren finanzieren und das bundesweit. Einige ihrer miesen Tricks sind sogar Kriminalbeamten neu. Die News-Reportage geht den kriminellen Machenschaften der Familienbande genauer auf den Grund, deckt ihre Masche auf und spricht mit Opfern. Bei ihren Recherchen werden die Reporter plötzlich selbst zur Zielscheibe, als Mitglieder des Betrüger-Clans deren Auto attackieren.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/ausgeliefert-im-visier-der-grossclans-18934",
+        "@type": "Movie",
+        "description": "Eine Großfamilie aus Köln soll sich ihr Luxusleben durch Einbrüche bei Senioren finanzieren und das bundesweit. Einige ihrer miesen Tricks sind sogar Kriminalbeamten neu. Die News-Reportage geht den kriminellen Machenschaften der Familienbande genauer auf den Grund, deckt ihre Masche auf und spricht mit Opfern. Bei ihren Recherchen werden die Reporter plötzlich selbst zur Zielscheibe, als Mitglieder des Betrüger-Clans deren Auto attackieren.",
+        "duration": "PT20M13S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3309454/950x0/ausgeliefert-im-visier-der-grossclans.jpg",
+        "name": "Ausgeliefert - Im Visier der Großclans",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/ausgeliefert-im-visier-der-grossclans-18934",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-07-29T23:30:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=ausgeliefert-im-visier-der-grossclans-18934",
+              "sameAs": "%s/premium?typ=format&formatname=ausgeliefert-im-visier-der-grossclans-18934",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/ausgeliefert-im-visier-der-grossclans-18934",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Eine Großfamilie aus Köln soll sich ihr Luxusleben durch Einbrüche bei Senioren finanzieren und das bundesweit. Einige ihrer miesen Tricks sind sogar Kriminalbeamten neu. Die News-Reportage geht den kriminellen Machenschaften der Familienbande genauer auf den Grund, deckt ihre Masche auf und spricht mit Opfern. Bei ihren Recherchen werden die Reporter plötzlich selbst zur Zielscheibe, als Mitglieder des Betrüger-Clans deren Auto attackieren.",
+          "duration": "PT20M13S",
+          "embedUrl": "%s/googlebot/player/filme/ausgeliefert-im-visier-der-grossclans-18934",
+          "name": "Ausgeliefert - Im Visier der Großclans",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3309454/950x0/ausgeliefert-im-visier-der-grossclans.jpg",
+          "uploadDate": "2020-07-29T23:30:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Ausgeliefert - Im Visier der Großclans im Online Stream | TVNOW",
+        "headline": "Ausgeliefert - Im Visier der Großclans im Online Stream | TVNOW",
+        "description": "Ausgeliefert - Im Visier der Großclans und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/ausgeliefert-im-visier-der-grossclans-18934",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3309454/950x0/ausgeliefert-im-visier-der-grossclans.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3309454/950x0/ausgeliefert-im-visier-der-grossclans.jpg",
+        "datePublished": "2020-07-29T23:30:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3309454/950x0/ausgeliefert-im-visier-der-grossclans.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ausgeliefert - Im Visier der Großclans",
+            "item": "%s/filme/ausgeliefert-im-visier-der-grossclans-18934"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Ausgeliefert - Im Visier der Großclans im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

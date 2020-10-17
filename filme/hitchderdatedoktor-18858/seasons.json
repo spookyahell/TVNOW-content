@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18858",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18858,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/hitch-der-date-doktor-18858"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Hitch - Der Date Doktor",
+          "teaserId": "film_3429631",
+          "teaserName": "Hitch - Der Date Doktor | Hitch - Der Date Doktor",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Hitch - Der Date Doktor",
+        "id": 3429631,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429631/300x0/hitch-der-date-doktor.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429631/",
+            "filename": "hitch-der-date-doktor"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429631/600x0/hitch-der-date-doktor.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429631/",
+            "filename": "hitch-der-date-doktor"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429631/1200x0/hitch-der-date-doktor.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429631/",
+            "filename": "hitch-der-date-doktor"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429631/300x0/hitch-der-date-doktor.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429631/",
+            "filename": "hitch-der-date-doktor"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429631/600x0/hitch-der-date-doktor.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429631/",
+            "filename": "hitch-der-date-doktor"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429631/1200x0/hitch-der-date-doktor.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429631/",
+            "filename": "hitch-der-date-doktor"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "hitchderdatedoktor",
+        "subheadline": "Hitch - Der Date Doktor",
+        "text": "Staffel  | Do. 01.10.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/hitch-der-date-doktor-18858",
+        "videoId": 3429631
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

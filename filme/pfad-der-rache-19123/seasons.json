@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19123",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19123,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/pfad-der-rache-19123"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Pfad der Rache",
+          "teaserId": "film_3485564",
+          "teaserName": "Pfad der Rache | Pfad der Rache",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [
+            "Promis"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Pfad der Rache",
+        "id": 3485564,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3485564/300x0/pfad-der-rache.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3485564/",
+            "filename": "pfad-der-rache"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3485564/600x0/pfad-der-rache.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3485564/",
+            "filename": "pfad-der-rache"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3485564/1200x0/pfad-der-rache.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3485564/",
+            "filename": "pfad-der-rache"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3485564/300x0/pfad-der-rache.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3485564/",
+            "filename": "pfad-der-rache"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3485564/600x0/pfad-der-rache.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3485564/",
+            "filename": "pfad-der-rache"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3485564/1200x0/pfad-der-rache.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3485564/",
+            "filename": "pfad-der-rache"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "pfad-der-rache",
+        "subheadline": "Pfad der Rache",
+        "text": "Staffel  | Fr. 16.10.2020, 22:30 Uhr",
+        "type": "film",
+        "url": "/filme/pfad-der-rache-19123",
+        "videoId": 3485564
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

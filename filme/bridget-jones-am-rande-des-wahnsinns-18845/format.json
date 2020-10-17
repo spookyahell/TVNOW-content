@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18845,
+  "additionalMeta": {
+    "canonical": "/filme/bridget-jones-am-rande-des-wahnsinns-18845",
+    "url": "/filme/bridget-jones-am-rande-des-wahnsinns-18845"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Bridget Jones - Am Rande des Wahnsinns",
+      "url": "/filme/bridget-jones-am-rande-des-wahnsinns-18845"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18845,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Bridget Jones - Am Rande des Wahnsinns 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Bridget Jones - Am Rande des Wahnsinns im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Bridget Jones - Am Rande des Wahnsinns 📺 und viele weitere ▶️ Filme aus dem Genre Drama findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3327895,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3327895",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18845"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Bridget Jones - Am Rande des Wahnsinns – Informationen zum Film",
+    "text": "Sechs Wochen führen Bridget und Mark Darcy nun schon eine richtige Beziehung. Ihr Glück scheint grenzenlos - bis Bridget in Marks neuer Kollegin Rebecca eine Rivalin wittert. Ihre Eifersucht, aber auch Marks Unfähigkeit, seine Gefühle zu zeigen, bringen die Beziehung fast zum Scheitern und Bridgets Ex-Lover Daniel Cleaver auf die Idee, es noch einmal bei ihr zu versuchen. Und seine Verführungskünste sind bekanntermaßen ausgeprägt.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/bridget-jones-am-rande-des-wahnsinns-18845",
+        "@type": "Movie",
+        "description": "Sechs Wochen führen Bridget und Mark Darcy nun schon eine richtige Beziehung. Ihr Glück scheint grenzenlos - bis Bridget in Marks neuer Kollegin Rebecca eine Rivalin wittert. Ihre Eifersucht, aber auch Marks Unfähigkeit, seine Gefühle zu zeigen, bringen die Beziehung fast zum Scheitern und Bridgets Ex-Lover Daniel Cleaver auf die Idee, es noch einmal bei ihr zu versuchen. Und seine Verführungskünste sind bekanntermaßen ausgeprägt.",
+        "duration": "PT1H43M",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3327895/950x0/bridget-jones-am-rande-des-wahnsinns.jpg",
+        "name": "Bridget Jones - Am Rande des Wahnsinns",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/bridget-jones-am-rande-des-wahnsinns-18845",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-20T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=bridget-jones-am-rande-des-wahnsinns-18845",
+              "sameAs": "%s/premium?typ=format&formatname=bridget-jones-am-rande-des-wahnsinns-18845",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/bridget-jones-am-rande-des-wahnsinns-18845",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Sechs Wochen führen Bridget und Mark Darcy nun schon eine richtige Beziehung. Ihr Glück scheint grenzenlos - bis Bridget in Marks neuer Kollegin Rebecca eine Rivalin wittert. Ihre Eifersucht, aber auch Marks Unfähigkeit, seine Gefühle zu zeigen, bringen die Beziehung fast zum Scheitern und Bridgets Ex-Lover Daniel Cleaver auf die Idee, es noch einmal bei ihr zu versuchen. Und seine Verführungskünste sind bekanntermaßen ausgeprägt.",
+          "duration": "PT1H43M",
+          "embedUrl": "%s/googlebot/player/filme/bridget-jones-am-rande-des-wahnsinns-18845",
+          "name": "Bridget Jones - Am Rande des Wahnsinns",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3327895/950x0/bridget-jones-am-rande-des-wahnsinns.jpg",
+          "uploadDate": "2020-08-20T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Bridget Jones - Am Rande des Wahnsinns im Online Stream | TVNOW",
+        "headline": "Bridget Jones - Am Rande des Wahnsinns im Online Stream | TVNOW",
+        "description": "Bridget Jones - Am Rande des Wahnsinns und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei TVNOW. Ein Film mit ▶️Renee Zellweger, Colin Firth, Hugh Grant, Jim Broadbent, Gemma Jones, Jacinda Barrett.",
+        "url": "%s/filme/bridget-jones-am-rande-des-wahnsinns-18845",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3327895/950x0/bridget-jones-am-rande-des-wahnsinns.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3327895/950x0/bridget-jones-am-rande-des-wahnsinns.jpg",
+        "datePublished": "2020-08-20T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3327895/950x0/bridget-jones-am-rande-des-wahnsinns.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bridget Jones - Am Rande des Wahnsinns",
+            "item": "%s/filme/bridget-jones-am-rande-des-wahnsinns-18845"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Bridget Jones - Am Rande des Wahnsinns im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

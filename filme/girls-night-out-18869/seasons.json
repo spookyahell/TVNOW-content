@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18869",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18869,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/girls-night-out-18869"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Girls' Night Out",
+          "teaserId": "film_3429776",
+          "teaserName": "Girls' Night Out | Girls' Night Out",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Girls' Night Out",
+        "id": 3429776,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429776/300x0/girls-night-out.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429776/",
+            "filename": "girls-night-out"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429776/600x0/girls-night-out.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429776/",
+            "filename": "girls-night-out"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429776/1200x0/girls-night-out.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429776/",
+            "filename": "girls-night-out"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429776/300x0/girls-night-out.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429776/",
+            "filename": "girls-night-out"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429776/600x0/girls-night-out.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429776/",
+            "filename": "girls-night-out"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429776/1200x0/girls-night-out.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429776/",
+            "filename": "girls-night-out"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "girls-night-out",
+        "subheadline": "Girls' Night Out",
+        "text": "Staffel  | Do. 01.10.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/girls-night-out-18869",
+        "videoId": 3429776
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

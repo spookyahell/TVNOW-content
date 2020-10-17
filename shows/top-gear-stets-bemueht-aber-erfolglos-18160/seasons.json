@@ -1,1 +1,107 @@
-NONE
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18160",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18160,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/top-gear-stets-bemueht-aber-erfolglos-18160/staffel-1/episode-7-caterham-modell-in-acht-stunden-3381054"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Top Gear: Stets bemüht, aber erfolglos",
+          "teaserId": "show_episode_3381054",
+          "teaserName": "Top Gear: Stets bemüht, aber erfolglos | Staffel 1 | Folge 7 | Caterham-Modell in acht Stunden",
+          "teaserPayType": "free",
+          "teaserType": "show_episode",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 7",
+          "teaserEpisodeAirtime": "So. 13.09.2020, 16:10 Uhr",
+          "teaserEpisodeName": "Caterham-Modell in acht Stunden"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Caterham-Modell in acht Stunden",
+        "id": 3381054,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3381054/300x0/caterham-modell-in-acht-stunden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3381054/",
+            "filename": "caterham-modell-in-acht-stunden"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3381054/600x0/caterham-modell-in-acht-stunden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3381054/",
+            "filename": "caterham-modell-in-acht-stunden"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3381054/1200x0/caterham-modell-in-acht-stunden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3381054/",
+            "filename": "caterham-modell-in-acht-stunden"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3381054/300x0/caterham-modell-in-acht-stunden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3381054/",
+            "filename": "caterham-modell-in-acht-stunden"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3381054/600x0/caterham-modell-in-acht-stunden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3381054/",
+            "filename": "caterham-modell-in-acht-stunden"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3381054/1200x0/caterham-modell-in-acht-stunden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3381054/",
+            "filename": "caterham-modell-in-acht-stunden"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "top-gear-stets-bemueht-aber-erfolglos",
+        "subheadline": "Caterham-Modell in acht Stunden",
+        "text": "Staffel 1, Folge 7 | So. 13.09.2020, 16:10 Uhr",
+        "type": "show",
+        "url": "/shows/top-gear-stets-bemueht-aber-erfolglos-18160/staffel-1/episode-7-caterham-modell-in-acht-stunden-3381054",
+        "videoId": 3381054
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 18776,
+  "additionalMeta": {
+    "canonical": "/filme/amundsen-der-pinguin-18776",
+    "url": "/filme/amundsen-der-pinguin-18776"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Amundsen der Pinguin",
+      "url": "/filme/amundsen-der-pinguin-18776"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18776,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Amundsen der Pinguin 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Amundsen der Pinguin im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Amundsen der Pinguin 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3243920,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3243920",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18776"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now_kids/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now_kids",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Amundsen der Pinguin",
+    "text": "Die 12-jährige Anne traut ihren Augen nicht, als ihr Onkel Cornelius eines Tages mit einem Pinguin im Gepäck bei ihren Eltern auftaucht. Begeistert tauft Anne den neuen Freund Amundsen und räumt erst mal den Kühlschrank leer. Denn wo sonst soll ein Pinguin bei sommerlichen Temperaturen schlafen? ",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/amundsen-der-pinguin-18776",
+        "@type": "Movie",
+        "description": "Die 12-jährige Anne traut ihren Augen nicht, als ihr Onkel Cornelius eines Tages mit einem Pinguin im Gepäck bei ihren Eltern auftaucht. Begeistert tauft Anne den neuen Freund Amundsen und räumt erst mal den Kühlschrank leer. Denn wo sonst soll ein Pinguin bei sommerlichen Temperaturen schlafen? ",
+        "duration": "PT1H28M1S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3243920/950x0/amundsen-der-pinguin.jpg",
+        "name": "Amundsen der Pinguin",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/amundsen-der-pinguin-18776",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-07-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=amundsen-der-pinguin-18776",
+              "sameAs": "%s/premium?typ=format&formatname=amundsen-der-pinguin-18776",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/amundsen-der-pinguin-18776",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die 12-jährige Anne traut ihren Augen nicht, als ihr Onkel Cornelius eines Tages mit einem Pinguin im Gepäck bei ihren Eltern auftaucht. Begeistert tauft Anne den neuen Freund Amundsen und räumt erst mal den Kühlschrank leer. Denn wo sonst soll ein Pinguin bei sommerlichen Temperaturen schlafen? ",
+          "duration": "PT1H28M1S",
+          "embedUrl": "%s/googlebot/player/filme/amundsen-der-pinguin-18776",
+          "name": "Amundsen der Pinguin",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3243920/950x0/amundsen-der-pinguin.jpg",
+          "uploadDate": "2020-07-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Amundsen der Pinguin im Online Stream | TVNOW",
+        "headline": "Amundsen der Pinguin im Online Stream | TVNOW",
+        "description": "Amundsen der Pinguin und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/amundsen-der-pinguin-18776",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3243920/950x0/amundsen-der-pinguin.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3243920/950x0/amundsen-der-pinguin.jpg",
+        "datePublished": "2020-07-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3243920/950x0/amundsen-der-pinguin.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Amundsen der Pinguin",
+            "item": "%s/filme/amundsen-der-pinguin-18776"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Amundsen der Pinguin im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

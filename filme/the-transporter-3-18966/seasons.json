@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18966",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18966,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/transporter-3-18966"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Transporter 3",
+          "teaserId": "film_3330661",
+          "teaserName": "The Transporter 3 | Transporter 3",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Transporter 3",
+        "id": 3330661,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330661/300x0/transporter-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330661/",
+            "filename": "transporter-3"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330661/600x0/transporter-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330661/",
+            "filename": "transporter-3"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330661/1200x0/transporter-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330661/",
+            "filename": "transporter-3"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330661/300x0/transporter-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330661/",
+            "filename": "transporter-3"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330661/600x0/transporter-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330661/",
+            "filename": "transporter-3"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330661/1200x0/transporter-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330661/",
+            "filename": "transporter-3"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-transporter-3",
+        "subheadline": "Transporter 3",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/transporter-3-18966",
+        "videoId": 3330661
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

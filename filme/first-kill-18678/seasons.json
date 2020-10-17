@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18678",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18678,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/first-kill-18678"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "First Kill",
+          "teaserId": "film_3214677",
+          "teaserName": "First Kill | First Kill",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "First Kill",
+        "id": 3214677,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3214677/300x0/first-kill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3214677/",
+            "filename": "first-kill"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3214677/600x0/first-kill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3214677/",
+            "filename": "first-kill"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3214677/1200x0/first-kill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3214677/",
+            "filename": "first-kill"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3214677/300x0/first-kill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3214677/",
+            "filename": "first-kill"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3214677/600x0/first-kill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3214677/",
+            "filename": "first-kill"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3214677/1200x0/first-kill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3214677/",
+            "filename": "first-kill"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "first-kill",
+        "subheadline": "First Kill",
+        "text": "Staffel  | Sa. 20.06.2020, 00:25 Uhr",
+        "type": "film",
+        "url": "/filme/first-kill-18678",
+        "videoId": 3214677
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

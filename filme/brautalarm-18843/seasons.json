@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18843",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18843,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/brautalarm-18843"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Brautalarm",
+          "teaserId": "film_3324711",
+          "teaserName": "Brautalarm | Brautalarm",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Brautalarm",
+        "id": 3324711,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324711/300x0/brautalarm.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324711/",
+            "filename": "brautalarm"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324711/600x0/brautalarm.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324711/",
+            "filename": "brautalarm"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324711/1200x0/brautalarm.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324711/",
+            "filename": "brautalarm"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324711/300x0/brautalarm.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324711/",
+            "filename": "brautalarm"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324711/600x0/brautalarm.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324711/",
+            "filename": "brautalarm"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3324711/1200x0/brautalarm.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3324711/",
+            "filename": "brautalarm"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "brautalarm",
+        "subheadline": "Brautalarm",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/brautalarm-18843",
+        "videoId": 3324711
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

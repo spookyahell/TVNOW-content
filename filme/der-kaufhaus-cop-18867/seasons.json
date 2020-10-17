@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18867",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18867,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-kaufhaus-cop-18867"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Kaufhaus Cop",
+          "teaserId": "film_3431151",
+          "teaserName": "Der Kaufhaus Cop | Der Kaufhaus Cop",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Kaufhaus Cop",
+        "id": 3431151,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3431151/300x0/der-kaufhaus-cop.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3431151/",
+            "filename": "der-kaufhaus-cop"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3431151/600x0/der-kaufhaus-cop.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3431151/",
+            "filename": "der-kaufhaus-cop"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3431151/1200x0/der-kaufhaus-cop.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3431151/",
+            "filename": "der-kaufhaus-cop"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3431151/300x0/der-kaufhaus-cop.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3431151/",
+            "filename": "der-kaufhaus-cop"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3431151/600x0/der-kaufhaus-cop.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3431151/",
+            "filename": "der-kaufhaus-cop"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3431151/1200x0/der-kaufhaus-cop.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3431151/",
+            "filename": "der-kaufhaus-cop"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-kaufhaus-cop",
+        "subheadline": "Der Kaufhaus Cop",
+        "text": "Staffel  | Do. 01.10.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/der-kaufhaus-cop-18867",
+        "videoId": 3431151
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

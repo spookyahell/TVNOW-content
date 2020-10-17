@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18897",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18897,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/indiana-jones-der-letzte-kreuzzug-18897"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Indiana Jones und der letzte Kreuzzug",
+          "teaserId": "film_3331672",
+          "teaserName": "Indiana Jones und der letzte Kreuzzug | Indiana Jones - Der letzte Kreuzzug",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Indiana Jones - Der letzte Kreuzzug",
+        "id": 3331672,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331672/300x0/indiana-jones-der-letzte-kreuzzug.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331672/",
+            "filename": "indiana-jones-der-letzte-kreuzzug"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331672/600x0/indiana-jones-der-letzte-kreuzzug.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331672/",
+            "filename": "indiana-jones-der-letzte-kreuzzug"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331672/1200x0/indiana-jones-der-letzte-kreuzzug.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331672/",
+            "filename": "indiana-jones-der-letzte-kreuzzug"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331672/300x0/indiana-jones-der-letzte-kreuzzug.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331672/",
+            "filename": "indiana-jones-der-letzte-kreuzzug"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331672/600x0/indiana-jones-der-letzte-kreuzzug.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331672/",
+            "filename": "indiana-jones-der-letzte-kreuzzug"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331672/1200x0/indiana-jones-der-letzte-kreuzzug.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331672/",
+            "filename": "indiana-jones-der-letzte-kreuzzug"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "indiana-jones-und-der-letzte-kreuzzug",
+        "subheadline": "Indiana Jones - Der letzte Kreuzzug",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/indiana-jones-der-letzte-kreuzzug-18897",
+        "videoId": 3331672
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

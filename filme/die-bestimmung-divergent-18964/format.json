@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18964,
+  "additionalMeta": {
+    "canonical": "/filme/die-bestimmung-divergent-18964",
+    "url": "/filme/die-bestimmung-divergent-18964"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die Bestimmung - DIVERGENT",
+      "url": "/filme/die-bestimmung-divergent-18964"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18964,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Die Bestimmung - DIVERGENT 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Bestimmung - DIVERGENT im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Die Bestimmung - DIVERGENT 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3331097,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3331097",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18964"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_abenteuer/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_abenteuer",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Action",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Die Bestimmung - DIVERGENT - Informationen zum Film ",
+    "text": "Chicago in der Zukunft: Beatrice muss wie alle Sechzehnjährigen einer sogenannten Fraktion, einer von fünf unterschiedlichen Lebensformen, beitreten. Diese Fraktion gilt von da an für den Rest ihres Lebens als ihre Familie. Doch der Eignungstest über ihre innere Bestimmung zeigt kein eindeutiges Ergebnis. Sie ist eine Unbestimmte, sie trägt mehrere widerstreitende Begabungen in sich. Und damit gilt sie als Gefahr für die Gemeinschaft. ",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/die-bestimmung-divergent-18964",
+        "@type": "Movie",
+        "description": "Chicago in der Zukunft: Beatrice muss wie alle Sechzehnjährigen einer sogenannten Fraktion, einer von fünf unterschiedlichen Lebensformen, beitreten. Diese Fraktion gilt von da an für den Rest ihres Lebens als ihre Familie. Doch der Eignungstest über ihre innere Bestimmung zeigt kein eindeutiges Ergebnis. Sie ist eine Unbestimmte, sie trägt mehrere widerstreitende Begabungen in sich. Und damit gilt sie als Gefahr für die Gemeinschaft. ",
+        "duration": "PT2H14M9S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3331097/950x0/die-bestimmung-divergent.jpg",
+        "name": "Die Bestimmung - DIVERGENT",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/die-bestimmung-divergent-18964",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-20T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=die-bestimmung-divergent-18964",
+              "sameAs": "%s/premium?typ=format&formatname=die-bestimmung-divergent-18964",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/die-bestimmung-divergent-18964",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Chicago in der Zukunft: Beatrice muss wie alle Sechzehnjährigen einer sogenannten Fraktion, einer von fünf unterschiedlichen Lebensformen, beitreten. Diese Fraktion gilt von da an für den Rest ihres Lebens als ihre Familie. Doch der Eignungstest über ihre innere Bestimmung zeigt kein eindeutiges Ergebnis. Sie ist eine Unbestimmte, sie trägt mehrere widerstreitende Begabungen in sich. Und damit gilt sie als Gefahr für die Gemeinschaft. ",
+          "duration": "PT2H14M9S",
+          "embedUrl": "%s/googlebot/player/filme/die-bestimmung-divergent-18964",
+          "name": "Die Bestimmung - DIVERGENT",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3331097/950x0/die-bestimmung-divergent.jpg",
+          "uploadDate": "2020-08-20T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Bestimmung - DIVERGENT im Online Stream | TVNOW",
+        "headline": "Die Bestimmung - DIVERGENT im Online Stream | TVNOW",
+        "description": "Die Bestimmung - DIVERGENT und viele weitere  ▶️Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/die-bestimmung-divergent-18964",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3331097/950x0/die-bestimmung-divergent.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3331097/950x0/die-bestimmung-divergent.jpg",
+        "datePublished": "2020-08-20T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3331097/950x0/die-bestimmung-divergent.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Bestimmung - DIVERGENT",
+            "item": "%s/filme/die-bestimmung-divergent-18964"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Bestimmung - DIVERGENT im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

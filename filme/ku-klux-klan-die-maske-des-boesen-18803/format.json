@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 18803,
+  "additionalMeta": {
+    "canonical": "/filme/ku-klux-klan-die-maske-des-boesen-18803",
+    "url": "/filme/ku-klux-klan-die-maske-des-boesen-18803"
+  },
+  "ads": {
+    "station": "crime",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Ku Klux Klan - Die Maske des Bösen",
+      "url": "/filme/ku-klux-klan-die-maske-des-boesen-18803"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18803,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Ku Klux Klan - Die Maske des Bösen 📺 und viele weitere ▶️ Filme aus dem Genre Crime findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Ku Klux Klan - Die Maske des Bösen im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Ku Klux Klan - Die Maske des Bösen 📺 und viele weitere ▶️ Filme aus dem Genre Crime findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3318592,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3318592",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18803"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/crime_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "crime_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Crime",
+    "cluster": [
+      "True Crime"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Ku Klux Klan - Die Maske des Bösen",
+    "text": "Die Dokumentation zeigt das gegenwärtige Bestehen des Ku-Klux-Klans in der heutigen Gesellschaft. Trotz der Hochphase vor circa einem Jahrhundert, strebt der Ku-Klux-Klan die Verbreitung seiner Ideologie auch in der Gegenwart an.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/ku-klux-klan-die-maske-des-boesen-18803",
+        "@type": "Movie",
+        "description": "Die Dokumentation zeigt das gegenwärtige Bestehen des Ku-Klux-Klans in der heutigen Gesellschaft. Trotz der Hochphase vor circa einem Jahrhundert, strebt der Ku-Klux-Klan die Verbreitung seiner Ideologie auch in der Gegenwart an.",
+        "duration": "PT43M55S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3318592/950x0/ku-klux-klan-die-maske-des-boesen.jpg",
+        "name": "Ku Klux Klan - Die Maske des Bösen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/ku-klux-klan-die-maske-des-boesen-18803",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-07T21:30:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=ku-klux-klan-die-maske-des-boesen-18803",
+              "sameAs": "%s/premium?typ=format&formatname=ku-klux-klan-die-maske-des-boesen-18803",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/ku-klux-klan-die-maske-des-boesen-18803",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die Dokumentation zeigt das gegenwärtige Bestehen des Ku-Klux-Klans in der heutigen Gesellschaft. Trotz der Hochphase vor circa einem Jahrhundert, strebt der Ku-Klux-Klan die Verbreitung seiner Ideologie auch in der Gegenwart an.",
+          "duration": "PT43M55S",
+          "embedUrl": "%s/googlebot/player/filme/ku-klux-klan-die-maske-des-boesen-18803",
+          "name": "Ku Klux Klan - Die Maske des Bösen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3318592/950x0/ku-klux-klan-die-maske-des-boesen.jpg",
+          "uploadDate": "2020-08-07T21:30:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Ku Klux Klan - Die Maske des Bösen im Online Stream | TVNOW",
+        "headline": "Ku Klux Klan - Die Maske des Bösen im Online Stream | TVNOW",
+        "description": "Ku Klux Klan - Die Maske des Bösen und viele weitere  ▶️Filme aus dem Genre Crime findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/ku-klux-klan-die-maske-des-boesen-18803",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3318592/950x0/ku-klux-klan-die-maske-des-boesen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3318592/950x0/ku-klux-klan-die-maske-des-boesen.jpg",
+        "datePublished": "2020-08-07T21:30:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3318592/950x0/ku-klux-klan-die-maske-des-boesen.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ku Klux Klan - Die Maske des Bösen",
+            "item": "%s/filme/ku-klux-klan-die-maske-des-boesen-18803"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Ku Klux Klan - Die Maske des Bösen im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

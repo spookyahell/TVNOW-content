@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18910",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18910,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mission-impossible-18910"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mission: Impossible ",
+          "teaserId": "film_3331763",
+          "teaserName": "Mission: Impossible  | Mission: Impossible",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Thriller",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mission: Impossible",
+        "id": 3331763,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331763/300x0/mission-impossible.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331763/",
+            "filename": "mission-impossible"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331763/600x0/mission-impossible.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331763/",
+            "filename": "mission-impossible"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331763/1200x0/mission-impossible.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331763/",
+            "filename": "mission-impossible"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331763/300x0/mission-impossible.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331763/",
+            "filename": "mission-impossible"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331763/600x0/mission-impossible.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331763/",
+            "filename": "mission-impossible"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331763/1200x0/mission-impossible.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331763/",
+            "filename": "mission-impossible"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mission-impossible",
+        "subheadline": "Mission: Impossible",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/mission-impossible-18910",
+        "videoId": 3331763
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

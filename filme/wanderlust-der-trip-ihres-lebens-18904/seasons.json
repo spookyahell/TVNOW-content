@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18904",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18904,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/wanderlust-der-trip-ihres-lebens-18904"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wanderlust",
+          "teaserId": "film_3325030",
+          "teaserName": "Wanderlust | Wanderlust - Der Trip ihres Lebens",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wanderlust - Der Trip ihres Lebens",
+        "id": 3325030,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325030/300x0/wanderlust-der-trip-ihres-lebens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325030/",
+            "filename": "wanderlust-der-trip-ihres-lebens"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325030/600x0/wanderlust-der-trip-ihres-lebens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325030/",
+            "filename": "wanderlust-der-trip-ihres-lebens"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325030/1200x0/wanderlust-der-trip-ihres-lebens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325030/",
+            "filename": "wanderlust-der-trip-ihres-lebens"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325030/300x0/wanderlust-der-trip-ihres-lebens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325030/",
+            "filename": "wanderlust-der-trip-ihres-lebens"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325030/600x0/wanderlust-der-trip-ihres-lebens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325030/",
+            "filename": "wanderlust-der-trip-ihres-lebens"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325030/1200x0/wanderlust-der-trip-ihres-lebens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325030/",
+            "filename": "wanderlust-der-trip-ihres-lebens"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wanderlust-der-trip-ihres-lebens",
+        "subheadline": "Wanderlust - Der Trip ihres Lebens",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/wanderlust-der-trip-ihres-lebens-18904",
+        "videoId": 3325030
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

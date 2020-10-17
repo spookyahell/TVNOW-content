@@ -1,0 +1,200 @@
+﻿{
+  "formatId": 19095,
+  "additionalMeta": {
+    "canonical": "/shows/temptation-island-vip-19095",
+    "url": "/shows/temptation-island-vip-19095"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "Temptation Island V.I.P.",
+      "url": "/shows/temptation-island-vip-19095"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 19095,
+  "meta": [
+    {
+      "content": "Die Show ▶ Temptation Island V.I.P. (tvnow) streamen & weitere Highlights aus dem Genre 📺 Reality im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Temptation Island V.I.P. im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ Temptation Island V.I.P. (tvnow) streamen & weitere Highlights aus dem Genre 📺 Reality im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/19095",
+      "type": "teaserrow"
+    },
+    {
+      "id": 19095,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19095",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tntemptationisland",
+      "video": "dvrsowf_ten_tntemptationisland",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/temptation_island/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "temptation_island",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Reality",
+    "cluster": [
+      "Promis",
+      "Dating",
+      "Guilty Pleasure"
+    ],
+    "classification": [
+      "Original"
+    ]
+  },
+  "seo": {
+    "headline": "Temptation Island V.I.P. - Informationen zur Show",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/shows/temptation-island-vip-19095",
+        "url": "%s/shows/temptation-island-vip-19095",
+        "name": "Temptation Island V.I.P.",
+        "description": "Die Show ▶ Temptation Island V.I.P. (tvnow) streamen & weitere Highlights aus dem Genre 📺 Reality im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/19095_04metalogo/1200x0/temptation-island-vip.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Temptation Island V.I.P. - Informationen zur Show",
+        "headline": "Temptation Island V.I.P. - Informationen zur Show",
+        "description": "Die Show ▶ Temptation Island V.I.P. (tvnow) streamen & weitere Highlights aus dem Genre 📺 Reality im Online Stream bei TVNOW anschauen. Jetzt mitfiebern!",
+        "url": "%s/shows/temptation-island-vip-19095",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/19095_04metalogo/1200x0/temptation-island-vip.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/19095_04metalogo/1200x0/temptation-island-vip.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/19095_04metalogo/1200x0/temptation-island-vip.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "%s/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Temptation Island V.I.P.",
+            "item": "%s/shows/temptation-island-vip-19095"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Temptation Island V.I.P. im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

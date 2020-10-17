@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18870",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18870,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/sex-tape-18870"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sex Tape",
+          "teaserId": "film_3429643",
+          "teaserName": "Sex Tape | Sex Tape",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Sex Tape",
+        "id": 3429643,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429643/300x0/sex-tape.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429643/",
+            "filename": "sex-tape"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429643/600x0/sex-tape.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429643/",
+            "filename": "sex-tape"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429643/1200x0/sex-tape.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429643/",
+            "filename": "sex-tape"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429643/300x0/sex-tape.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429643/",
+            "filename": "sex-tape"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429643/600x0/sex-tape.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429643/",
+            "filename": "sex-tape"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429643/1200x0/sex-tape.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429643/",
+            "filename": "sex-tape"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sex-tape",
+        "subheadline": "Sex Tape",
+        "text": "Staffel  | Do. 01.10.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/sex-tape-18870",
+        "videoId": 3429643
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

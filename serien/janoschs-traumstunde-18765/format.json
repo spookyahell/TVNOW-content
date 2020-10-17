@@ -1,0 +1,225 @@
+﻿{
+  "formatId": 18765,
+  "additionalMeta": {
+    "canonical": "/serien/janoschs-traumstunde-18765",
+    "url": "/serien/janoschs-traumstunde-18765"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Janoschs Traumstunde",
+      "url": "/serien/janoschs-traumstunde-18765"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 18765,
+  "meta": [
+    {
+      "content": "Die Serie Janoschs Traumstunde (tvnowkids) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Janoschs Traumstunde im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Janoschs Traumstunde (tvnowkids) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/18765",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/18765",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/18765",
+      "type": "teaserrow"
+    },
+    {
+      "id": 78922367,
+      "label": null,
+      "moduleLayout": "ctabuttonbox_small",
+      "moduleUrl": "/module/cta-button-box-small/78922367",
+      "type": "ctabuttonbox_small"
+    },
+    {
+      "id": 14267,
+      "label": "Noch mehr tolle Tipps für dich!",
+      "moduleLayout": "landscape_small",
+      "moduleUrl": "/module/teaserrow/manual/14267",
+      "type": "teaserrow"
+    },
+    {
+      "id": 18765,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/18765",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now_kids/formate/janosch_traumstunde/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now_kids",
+        "formate",
+        "janosch_traumstunde",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/janoschs-traumstunde-18765",
+        "url": "%s/serien/janoschs-traumstunde-18765",
+        "name": "Janoschs Traumstunde",
+        "description": "Die Serie Janoschs Traumstunde (tvnowkids) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/18765_04metalogo/1200x0/janoschs-traumstunde.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "",
+        "headline": "",
+        "description": "Die Serie Janoschs Traumstunde (tvnowkids) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei TVNOW anschauen.",
+        "url": "%s/serien/janoschs-traumstunde-18765",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/18765_04metalogo/1200x0/janoschs-traumstunde.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/18765_04metalogo/1200x0/janoschs-traumstunde.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/18765_04metalogo/1200x0/janoschs-traumstunde.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Janoschs Traumstunde",
+            "item": "%s/serien/janoschs-traumstunde-18765"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Janoschs Traumstunde im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

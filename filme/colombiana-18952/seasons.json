@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18952",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18952,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/colombiana-18952"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Colombiana",
+          "teaserId": "film_3328275",
+          "teaserName": "Colombiana | Colombiana",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Colombiana",
+        "id": 3328275,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328275/300x0/colombiana.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328275/",
+            "filename": "colombiana"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328275/600x0/colombiana.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328275/",
+            "filename": "colombiana"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328275/1200x0/colombiana.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328275/",
+            "filename": "colombiana"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328275/300x0/colombiana.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328275/",
+            "filename": "colombiana"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328275/600x0/colombiana.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328275/",
+            "filename": "colombiana"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328275/1200x0/colombiana.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328275/",
+            "filename": "colombiana"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "colombiana",
+        "subheadline": "Colombiana",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/colombiana-18952",
+        "videoId": 3328275
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

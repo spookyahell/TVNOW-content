@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 18795,
+  "additionalMeta": {
+    "canonical": "/filme/tiger-tatzen-und-tamtam-18795",
+    "url": "/filme/tiger-tatzen-und-tamtam-18795"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Tiger, Tatzen und TamTam",
+      "url": "/filme/tiger-tatzen-und-tamtam-18795"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18795,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Tiger, Tatzen und TamTam 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Tiger, Tatzen und TamTam im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Tiger, Tatzen und TamTam 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3265835,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3265835",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18795"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now_kids/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now_kids",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Tiger, Tatzen und TamTam",
+    "text": "Luna ist ein überaus aufgeweckter und neugieriger Baby-Tiger und hält es im Zoo vor Langeweile langsam nicht mehr aus. Die Wildkatze heckt also einen Plan aus, um den Tiergarten für immer zu verlassen. Die Chance auf Flucht bietet sich schließlich, als der kleine Billy (Will Spencer) dem Zoo einen Besuch abstattet. Luna kann sich unbemerkt in dessen Rucksack verstecken und Billy nimmt sie unwissentlich mit zu sich nach Hause. ",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/tiger-tatzen-und-tamtam-18795",
+        "@type": "Movie",
+        "description": "Luna ist ein überaus aufgeweckter und neugieriger Baby-Tiger und hält es im Zoo vor Langeweile langsam nicht mehr aus. Die Wildkatze heckt also einen Plan aus, um den Tiergarten für immer zu verlassen. Die Chance auf Flucht bietet sich schließlich, als der kleine Billy (Will Spencer) dem Zoo einen Besuch abstattet. Luna kann sich unbemerkt in dessen Rucksack verstecken und Billy nimmt sie unwissentlich mit zu sich nach Hause. ",
+        "duration": "PT1H17M45S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3265835/950x0/tiger-tatzen-und-tamtam.jpg",
+        "name": "Tiger, Tatzen und TamTam",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/tiger-tatzen-und-tamtam-18795",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-06-30T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=tiger-tatzen-und-tamtam-18795",
+              "sameAs": "%s/premium?typ=format&formatname=tiger-tatzen-und-tamtam-18795",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/tiger-tatzen-und-tamtam-18795",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Luna ist ein überaus aufgeweckter und neugieriger Baby-Tiger und hält es im Zoo vor Langeweile langsam nicht mehr aus. Die Wildkatze heckt also einen Plan aus, um den Tiergarten für immer zu verlassen. Die Chance auf Flucht bietet sich schließlich, als der kleine Billy (Will Spencer) dem Zoo einen Besuch abstattet. Luna kann sich unbemerkt in dessen Rucksack verstecken und Billy nimmt sie unwissentlich mit zu sich nach Hause. ",
+          "duration": "PT1H17M45S",
+          "embedUrl": "%s/googlebot/player/filme/tiger-tatzen-und-tamtam-18795",
+          "name": "Tiger, Tatzen und TamTam",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3265835/950x0/tiger-tatzen-und-tamtam.jpg",
+          "uploadDate": "2020-06-30T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Tiger, Tatzen und TamTam im Online Stream | TVNOW",
+        "headline": "Tiger, Tatzen und TamTam im Online Stream | TVNOW",
+        "description": "Tiger, Tatzen und TamTam und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/tiger-tatzen-und-tamtam-18795",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3265835/950x0/tiger-tatzen-und-tamtam.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3265835/950x0/tiger-tatzen-und-tamtam.jpg",
+        "datePublished": "2020-06-30T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3265835/950x0/tiger-tatzen-und-tamtam.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tiger, Tatzen und TamTam",
+            "item": "%s/filme/tiger-tatzen-und-tamtam-18795"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Tiger, Tatzen und TamTam im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

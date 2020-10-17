@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18846",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18846,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-teufel-traegt-prada-18846"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Teufel trägt Prada",
+          "teaserId": "film_3328856",
+          "teaserName": "Der Teufel trägt Prada | Der Teufel trägt Prada",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Teufel trägt Prada",
+        "id": 3328856,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328856/300x0/der-teufel-traegt-prada.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328856/",
+            "filename": "der-teufel-traegt-prada"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328856/600x0/der-teufel-traegt-prada.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328856/",
+            "filename": "der-teufel-traegt-prada"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328856/1200x0/der-teufel-traegt-prada.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328856/",
+            "filename": "der-teufel-traegt-prada"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328856/300x0/der-teufel-traegt-prada.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328856/",
+            "filename": "der-teufel-traegt-prada"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328856/600x0/der-teufel-traegt-prada.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328856/",
+            "filename": "der-teufel-traegt-prada"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328856/1200x0/der-teufel-traegt-prada.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328856/",
+            "filename": "der-teufel-traegt-prada"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-teufel-traegt-prada",
+        "subheadline": "Der Teufel trägt Prada",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/der-teufel-traegt-prada-18846",
+        "videoId": 3328856
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

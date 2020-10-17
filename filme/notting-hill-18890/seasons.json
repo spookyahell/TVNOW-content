@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18890",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18890,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/notting-hill-18890"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Notting Hill",
+          "teaserId": "film_3325014",
+          "teaserName": "Notting Hill | Notting Hill",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Notting Hill",
+        "id": 3325014,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325014/300x0/notting-hill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325014/",
+            "filename": "notting-hill"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325014/600x0/notting-hill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325014/",
+            "filename": "notting-hill"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325014/1200x0/notting-hill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325014/",
+            "filename": "notting-hill"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325014/300x0/notting-hill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325014/",
+            "filename": "notting-hill"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325014/600x0/notting-hill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325014/",
+            "filename": "notting-hill"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325014/1200x0/notting-hill.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325014/",
+            "filename": "notting-hill"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "notting-hill",
+        "subheadline": "Notting Hill",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/notting-hill-18890",
+        "videoId": 3325014
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

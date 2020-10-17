@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19088",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19088,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/land-des-honigs-19088"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Land des Honigs",
+          "teaserId": "film_3441470",
+          "teaserName": "Land des Honigs | Land des Honigs",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Biographie"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Land des Honigs",
+        "id": 3441470,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3441470/300x0/land-des-honigs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3441470/",
+            "filename": "land-des-honigs"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3441470/600x0/land-des-honigs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3441470/",
+            "filename": "land-des-honigs"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3441470/1200x0/land-des-honigs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3441470/",
+            "filename": "land-des-honigs"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3441470/300x0/land-des-honigs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3441470/",
+            "filename": "land-des-honigs"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3441470/600x0/land-des-honigs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3441470/",
+            "filename": "land-des-honigs"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3441470/1200x0/land-des-honigs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3441470/",
+            "filename": "land-des-honigs"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "land-des-honigs",
+        "subheadline": "Land des Honigs",
+        "text": "Staffel  | Mo. 12.10.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/land-des-honigs-19088",
+        "videoId": 3441470
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

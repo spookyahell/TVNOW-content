@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 18992,
+  "additionalMeta": {
+    "canonical": "/filme/fussball-grosses-spiel-mit-kleinen-helden-18992",
+    "url": "/filme/fussball-grosses-spiel-mit-kleinen-helden-18992"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Fußball - Großes Spiel mit kleinen Helden",
+      "url": "/filme/fussball-grosses-spiel-mit-kleinen-helden-18992"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18992,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Fußball - Großes Spiel mit kleinen Helden 📺 und viele weitere ▶️ Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Fußball - Großes Spiel mit kleinen Helden im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Fußball - Großes Spiel mit kleinen Helden 📺 und viele weitere ▶️ Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3318728,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3318728",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18992"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Abenteuer",
+    "cluster": [
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Fußball - Großes Spiel mit kleinen Helden",
+    "text": "Der unscheinbare Joachim hat ein außergewöhnliches Talent: Tischfußball! Als der arrogante Rolando ihn aber zu einem Duell herausfordert, scheint plötzlich alles gegen ihn zu sprechen. Doch dann kommen seine Tischkicker-Figuren ins Spiel.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/fussball-grosses-spiel-mit-kleinen-helden-18992",
+        "@type": "Movie",
+        "description": "Der unscheinbare Joachim hat ein außergewöhnliches Talent: Tischfußball! Als der arrogante Rolando ihn aber zu einem Duell herausfordert, scheint plötzlich alles gegen ihn zu sprechen. Doch dann kommen seine Tischkicker-Figuren ins Spiel.",
+        "duration": "PT1H42M17S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3318728/950x0/fussball-grosses-spiel-mit-kleinen-helden.jpg",
+        "name": "Fußball - Großes Spiel mit kleinen Helden",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/fussball-grosses-spiel-mit-kleinen-helden-18992",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-06-22T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=fussball-grosses-spiel-mit-kleinen-helden-18992",
+              "sameAs": "%s/premium?typ=format&formatname=fussball-grosses-spiel-mit-kleinen-helden-18992",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/fussball-grosses-spiel-mit-kleinen-helden-18992",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Der unscheinbare Joachim hat ein außergewöhnliches Talent: Tischfußball! Als der arrogante Rolando ihn aber zu einem Duell herausfordert, scheint plötzlich alles gegen ihn zu sprechen. Doch dann kommen seine Tischkicker-Figuren ins Spiel.",
+          "duration": "PT1H42M17S",
+          "embedUrl": "%s/googlebot/player/filme/fussball-grosses-spiel-mit-kleinen-helden-18992",
+          "name": "Fußball - Großes Spiel mit kleinen Helden",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3318728/950x0/fussball-grosses-spiel-mit-kleinen-helden.jpg",
+          "uploadDate": "2020-06-22T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Fußball - Großes Spiel mit kleinen Helden im Online Stream | TVNOW",
+        "headline": "Fußball - Großes Spiel mit kleinen Helden im Online Stream | TVNOW",
+        "description": "Fußball - Großes Spiel mit kleinen Helden und viele weitere  ▶️Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/fussball-grosses-spiel-mit-kleinen-helden-18992",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3318728/950x0/fussball-grosses-spiel-mit-kleinen-helden.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3318728/950x0/fussball-grosses-spiel-mit-kleinen-helden.jpg",
+        "datePublished": "2020-06-22T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3318728/950x0/fussball-grosses-spiel-mit-kleinen-helden.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Fußball - Großes Spiel mit kleinen Helden",
+            "item": "%s/filme/fussball-grosses-spiel-mit-kleinen-helden-18992"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Fußball - Großes Spiel mit kleinen Helden im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

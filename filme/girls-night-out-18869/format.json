@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18869,
+  "additionalMeta": {
+    "canonical": "/filme/girls-night-out-18869",
+    "url": "/filme/girls-night-out-18869"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Girls' Night Out",
+      "url": "/filme/girls-night-out-18869"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18869,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Girls' Night Out 📺 und viele weitere ▶️ Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Girls' Night Out im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Girls' Night Out 📺 und viele weitere ▶️ Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3429776,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3429776",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18869"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Girls' Night Out",
+    "text": "Nach zehn langen Jahren sind die fünf alten College-Freundinnen Jess, Pippa, Frankie, Alice und Blair endlich wiedervereint: Auf einem wilden Junggesellinnenabschied in Miami lassen sie so richtig die Sau raus! Doch die ausgelassene Party läuft plötzlich aus dem Ruder, als die Clique aus Versehen einen Stripper um die Ecke bringt. Panik bricht aus und für die Frauen beginnt eine wahnsinnige Nacht voller skurriler Eskapaden, die sie nur überstehen werden, wenn alle zusammenhalten...",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/girls-night-out-18869",
+        "@type": "Movie",
+        "description": "Nach zehn langen Jahren sind die fünf alten College-Freundinnen Jess, Pippa, Frankie, Alice und Blair endlich wiedervereint: Auf einem wilden Junggesellinnenabschied in Miami lassen sie so richtig die Sau raus! Doch die ausgelassene Party läuft plötzlich aus dem Ruder, als die Clique aus Versehen einen Stripper um die Ecke bringt. Panik bricht aus und für die Frauen beginnt eine wahnsinnige Nacht voller skurriler Eskapaden, die sie nur überstehen werden, wenn alle zusammenhalten...",
+        "duration": "PT1H36M53S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3429776/950x0/girls-night-out.jpg",
+        "name": "Girls' Night Out",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/girls-night-out-18869",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-10-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=girls-night-out-18869",
+              "sameAs": "%s/premium?typ=format&formatname=girls-night-out-18869",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/girls-night-out-18869",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Nach zehn langen Jahren sind die fünf alten College-Freundinnen Jess, Pippa, Frankie, Alice und Blair endlich wiedervereint: Auf einem wilden Junggesellinnenabschied in Miami lassen sie so richtig die Sau raus! Doch die ausgelassene Party läuft plötzlich aus dem Ruder, als die Clique aus Versehen einen Stripper um die Ecke bringt. Panik bricht aus und für die Frauen beginnt eine wahnsinnige Nacht voller skurriler Eskapaden, die sie nur überstehen werden, wenn alle zusammenhalten...",
+          "duration": "PT1H36M53S",
+          "embedUrl": "%s/googlebot/player/filme/girls-night-out-18869",
+          "name": "Girls' Night Out",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3429776/950x0/girls-night-out.jpg",
+          "uploadDate": "2020-10-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Girls' Night Out im Online Stream | TVNOW",
+        "headline": "Girls' Night Out im Online Stream | TVNOW",
+        "description": "Girls' Night Out und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW. Ein Film mit ▶️Ryan Reynolds, Jake Gyllenhaal.",
+        "url": "%s/filme/girls-night-out-18869",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3429776/950x0/girls-night-out.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3429776/950x0/girls-night-out.jpg",
+        "datePublished": "2020-10-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3429776/950x0/girls-night-out.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Girls' Night Out",
+            "item": "%s/filme/girls-night-out-18869"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Girls' Night Out im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,1 +1,109 @@
-NONE
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 4"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12134",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12134,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/comeback-oder-weg-12134/staffel-4/episode-1-waescheklammerbeutel-schreibmaschine-3456384"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Comeback oder weg?",
+          "teaserId": "show_episode_3456384",
+          "teaserName": "Comeback oder weg? | Staffel 4 | Folge 1 | Wäscheklammerbeutel, Schreibmaschine",
+          "teaserPayType": "free",
+          "teaserType": "show_episode",
+          "teaserGenre": "Show",
+          "cluster": [
+            "Promis"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 4",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "So. 11.10.2020, 19:05 Uhr",
+          "teaserEpisodeName": "Wäscheklammerbeutel, Schreibmaschine"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wäscheklammerbeutel, Schreibmaschine",
+        "id": 3456384,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3456384/300x0/waescheklammerbeutel-schreibmaschine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3456384/",
+            "filename": "waescheklammerbeutel-schreibmaschine"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3456384/600x0/waescheklammerbeutel-schreibmaschine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3456384/",
+            "filename": "waescheklammerbeutel-schreibmaschine"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3456384/1200x0/waescheklammerbeutel-schreibmaschine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3456384/",
+            "filename": "waescheklammerbeutel-schreibmaschine"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3456384/300x0/waescheklammerbeutel-schreibmaschine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3456384/",
+            "filename": "waescheklammerbeutel-schreibmaschine"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3456384/600x0/waescheklammerbeutel-schreibmaschine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3456384/",
+            "filename": "waescheklammerbeutel-schreibmaschine"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3456384/1200x0/waescheklammerbeutel-schreibmaschine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3456384/",
+            "filename": "waescheklammerbeutel-schreibmaschine"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "comeback-oder-weg",
+        "subheadline": "Wäscheklammerbeutel, Schreibmaschine",
+        "text": "Staffel 4, Folge 1 | So. 11.10.2020, 19:05 Uhr",
+        "type": "show",
+        "url": "/shows/comeback-oder-weg-12134/staffel-4/episode-1-waescheklammerbeutel-schreibmaschine-3456384",
+        "videoId": 3456384
+      }
+    ],
+    "format_navigation": {
+      "season": 4
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 19087,
+  "additionalMeta": {
+    "canonical": "/filme/die-industrielle-revolution-19087",
+    "url": "/filme/die-industrielle-revolution-19087"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die Industrielle Revolution",
+      "url": "/filme/die-industrielle-revolution-19087"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19087,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Die Industrielle Revolution 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Industrielle Revolution im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Die Industrielle Revolution 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 365046,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/365046",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19087"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Die industrielle Revolution",
+    "text": "Sie war ein einzigartiger Entwicklungssprung der Moderne und ein historischer Umwälzungsprozess. Die Industrielle Revolution während der zweiten Hälfte des 19. Jahrhunderts hatte dramatische technologische, wirtschaftliche und soziale Auswirkungen und hat das Leben in der gesamten zivilisierten Welt für immer verändert. Sie brachte zahlreiche Erfindungen hervor. Sklavenhandel und Kinderarbeit waren ihre negativen Folgen.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/die-industrielle-revolution-19087",
+        "@type": "Movie",
+        "description": "Sie war ein einzigartiger Entwicklungssprung der Moderne und ein historischer Umwälzungsprozess. Die Industrielle Revolution während der zweiten Hälfte des 19. Jahrhunderts hatte dramatische technologische, wirtschaftliche und soziale Auswirkungen und hat das Leben in der gesamten zivilisierten Welt für immer verändert. Sie brachte zahlreiche Erfindungen hervor. Sklavenhandel und Kinderarbeit waren ihre negativen Folgen.",
+        "duration": "PT51M26S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/365046/950x0/die-industrielle-revolution.jpg",
+        "name": "Die Industrielle Revolution",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/die-industrielle-revolution-19087",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-10-05T03:30:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=die-industrielle-revolution-19087",
+              "sameAs": "%s/premium?typ=format&formatname=die-industrielle-revolution-19087",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/die-industrielle-revolution-19087",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Sie war ein einzigartiger Entwicklungssprung der Moderne und ein historischer Umwälzungsprozess. Die Industrielle Revolution während der zweiten Hälfte des 19. Jahrhunderts hatte dramatische technologische, wirtschaftliche und soziale Auswirkungen und hat das Leben in der gesamten zivilisierten Welt für immer verändert. Sie brachte zahlreiche Erfindungen hervor. Sklavenhandel und Kinderarbeit waren ihre negativen Folgen.",
+          "duration": "PT51M26S",
+          "embedUrl": "%s/googlebot/player/filme/die-industrielle-revolution-19087",
+          "name": "Die Industrielle Revolution",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/365046/950x0/die-industrielle-revolution.jpg",
+          "uploadDate": "2020-10-05T03:30:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Industrielle Revolution im Online Stream | TVNOW",
+        "headline": "Die Industrielle Revolution im Online Stream | TVNOW",
+        "description": "Die Industrielle Revolution und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/die-industrielle-revolution-19087",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/365046/950x0/die-industrielle-revolution.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/365046/950x0/die-industrielle-revolution.jpg",
+        "datePublished": "2020-10-05T03:30:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/365046/950x0/die-industrielle-revolution.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Industrielle Revolution",
+            "item": "%s/filme/die-industrielle-revolution-19087"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Industrielle Revolution im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

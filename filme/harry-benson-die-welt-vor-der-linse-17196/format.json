@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 17196,
+  "additionalMeta": {
+    "canonical": "/filme/harry-benson-die-welt-vor-der-linse-17196",
+    "url": "/filme/harry-benson-die-welt-vor-der-linse-17196"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Harry Benson - Die Welt vor der Linse",
+      "url": "/filme/harry-benson-die-welt-vor-der-linse-17196"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17196,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Harry Benson - Die Welt vor der Linse 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "Harry Benson, Fotografie, GEO, Stream, Doku, Dokumentation",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Harry Benson - Die Welt vor der Linse im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Harry Benson - Die Welt vor der Linse 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3406855,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3406855",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17196"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Promis"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Harry Benson - Die Welt vor der Linse",
+    "text": "Harry Benson hatte sie alle vor der Kamera: die Beatles, Muhammad Ali, Frank Sinatra, Richard Nixon, Michael Jackson und noch viele andere. Der heute 87-jährige Schotte war aber nicht nur ein beliebter Promi-Fotograf, der für seinen natürlichen Stil geschätzt wurde. Er hielt auch die Ermordung Kennedys fest und rüttelte die Welt mit seiner Dokumentation der somalischen Hungersnot auf. Über ein halbes Jahrhundert lang porträtierte er mit Hartnäckigkeit, Charme und großem Einfühlungsvermögen Politiker, Künstler und Sportler für Zeitschriften wie \"Vanity Fair\" oder \"People\" und berichtete zudem aus Krisengebieten. So gingen innerhalb der letzten 50 Jahre unzählige seiner Bilder um die Welt. Die Dokumentation betrachtet seine berühmtesten Fotografien, aber auch das private Leben des viel geschätzten Künstlers. Dabei kommen prominente Bewunderer und Weggefährten, aber auch der arbeitswütige Schotte selbst zu Wort.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/harry-benson-die-welt-vor-der-linse-17196",
+        "@type": "Movie",
+        "description": "Harry Benson hatte sie alle vor der Kamera: die Beatles, Muhammad Ali, Frank Sinatra, Richard Nixon, Michael Jackson und noch viele andere. Der heute 87-jährige Schotte war aber nicht nur ein beliebter Promi-Fotograf, der für seinen natürlichen Stil geschätzt wurde. Er hielt auch die Ermordung Kennedys fest und rüttelte die Welt mit seiner Dokumentation der somalischen Hungersnot auf. Über ein halbes Jahrhundert lang porträtierte er mit Hartnäckigkeit, Charme und großem Einfühlungsvermögen Politiker, Künstler und Sportler für Zeitschriften wie \"Vanity Fair\" oder \"People\" und berichtete zudem aus Krisengebieten. So gingen innerhalb der letzten 50 Jahre unzählige seiner Bilder um die Welt. Die Dokumentation betrachtet seine berühmtesten Fotografien, aber auch das private Leben des viel geschätzten Künstlers. Dabei kommen prominente Bewunderer und Weggefährten, aber auch der arbeitswütige Schotte selbst zu Wort.",
+        "duration": "PT1H26M13S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3406855/950x0/harry-benson-die-welt-vor-der-linse.jpg",
+        "name": "Harry Benson - Die Welt vor der Linse",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/harry-benson-die-welt-vor-der-linse-17196",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-09-30T00:35:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=harry-benson-die-welt-vor-der-linse-17196",
+              "sameAs": "%s/premium?typ=format&formatname=harry-benson-die-welt-vor-der-linse-17196",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/harry-benson-die-welt-vor-der-linse-17196",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Harry Benson hatte sie alle vor der Kamera: die Beatles, Muhammad Ali, Frank Sinatra, Richard Nixon, Michael Jackson und noch viele andere. Der heute 87-jährige Schotte war aber nicht nur ein beliebter Promi-Fotograf, der für seinen natürlichen Stil geschätzt wurde. Er hielt auch die Ermordung Kennedys fest und rüttelte die Welt mit seiner Dokumentation der somalischen Hungersnot auf. Über ein halbes Jahrhundert lang porträtierte er mit Hartnäckigkeit, Charme und großem Einfühlungsvermögen Politiker, Künstler und Sportler für Zeitschriften wie \"Vanity Fair\" oder \"People\" und berichtete zudem aus Krisengebieten. So gingen innerhalb der letzten 50 Jahre unzählige seiner Bilder um die Welt. Die Dokumentation betrachtet seine berühmtesten Fotografien, aber auch das private Leben des viel geschätzten Künstlers. Dabei kommen prominente Bewunderer und Weggefährten, aber auch der arbeitswütige Schotte selbst zu Wort.",
+          "duration": "PT1H26M13S",
+          "embedUrl": "%s/googlebot/player/filme/harry-benson-die-welt-vor-der-linse-17196",
+          "name": "Harry Benson - Die Welt vor der Linse",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3406855/950x0/harry-benson-die-welt-vor-der-linse.jpg",
+          "uploadDate": "2020-09-30T00:35:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Harry Benson - Die Welt vor der Linse im Online Stream | TVNOW",
+        "headline": "Harry Benson - Die Welt vor der Linse im Online Stream | TVNOW",
+        "description": "Harry Benson - Die Welt vor der Linse und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/harry-benson-die-welt-vor-der-linse-17196",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3406855/950x0/harry-benson-die-welt-vor-der-linse.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3406855/950x0/harry-benson-die-welt-vor-der-linse.jpg",
+        "datePublished": "2020-09-30T00:35:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3406855/950x0/harry-benson-die-welt-vor-der-linse.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Harry Benson - Die Welt vor der Linse",
+            "item": "%s/filme/harry-benson-die-welt-vor-der-linse-17196"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Harry Benson - Die Welt vor der Linse im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

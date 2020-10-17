@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18847",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18847,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/stirb-langsam-18847"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Stirb langsam",
+          "teaserId": "film_3461893",
+          "teaserName": "Stirb langsam | Stirb langsam",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Stirb langsam",
+        "id": 3461893,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461893/300x0/stirb-langsam.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3461893/",
+            "filename": "stirb-langsam"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461893/600x0/stirb-langsam.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3461893/",
+            "filename": "stirb-langsam"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461893/1200x0/stirb-langsam.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3461893/",
+            "filename": "stirb-langsam"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461893/300x0/stirb-langsam.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3461893/",
+            "filename": "stirb-langsam"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461893/600x0/stirb-langsam.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3461893/",
+            "filename": "stirb-langsam"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461893/1200x0/stirb-langsam.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3461893/",
+            "filename": "stirb-langsam"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "stirb-langsam",
+        "subheadline": "Stirb langsam",
+        "text": "Staffel  | Do. 15.10.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/stirb-langsam-18847",
+        "videoId": 3461893
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

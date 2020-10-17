@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18879",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18879,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/liebe-braucht-keine-ferien-18879"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Liebe braucht keine Ferien",
+          "teaserId": "film_3325021",
+          "teaserName": "Liebe braucht keine Ferien | Liebe braucht keine Ferien",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Liebe braucht keine Ferien",
+        "id": 3325021,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325021/300x0/liebe-braucht-keine-ferien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325021/",
+            "filename": "liebe-braucht-keine-ferien"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325021/600x0/liebe-braucht-keine-ferien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325021/",
+            "filename": "liebe-braucht-keine-ferien"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325021/1200x0/liebe-braucht-keine-ferien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325021/",
+            "filename": "liebe-braucht-keine-ferien"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325021/300x0/liebe-braucht-keine-ferien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325021/",
+            "filename": "liebe-braucht-keine-ferien"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325021/600x0/liebe-braucht-keine-ferien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325021/",
+            "filename": "liebe-braucht-keine-ferien"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325021/1200x0/liebe-braucht-keine-ferien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325021/",
+            "filename": "liebe-braucht-keine-ferien"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "liebe-braucht-keine-ferien",
+        "subheadline": "Liebe braucht keine Ferien",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/liebe-braucht-keine-ferien-18879",
+        "videoId": 3325021
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

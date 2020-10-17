@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18857",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18857,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/kindskoepfe-2-18857"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Kindsköpfe 2",
+          "teaserId": "film_3431150",
+          "teaserName": "Kindsköpfe 2 | Kindsköpfe 2",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Kindsköpfe 2",
+        "id": 3431150,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3431150/300x0/kindskoepfe-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3431150/",
+            "filename": "kindskoepfe-2"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3431150/600x0/kindskoepfe-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3431150/",
+            "filename": "kindskoepfe-2"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3431150/1200x0/kindskoepfe-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3431150/",
+            "filename": "kindskoepfe-2"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3431150/300x0/kindskoepfe-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3431150/",
+            "filename": "kindskoepfe-2"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3431150/600x0/kindskoepfe-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3431150/",
+            "filename": "kindskoepfe-2"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3431150/1200x0/kindskoepfe-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3431150/",
+            "filename": "kindskoepfe-2"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "kindskoepfe2",
+        "subheadline": "Kindsköpfe 2",
+        "text": "Staffel  | Do. 01.10.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/kindskoepfe-2-18857",
+        "videoId": 3431150
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

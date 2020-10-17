@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18956",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18956,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/96-hours-taken-3-18956"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "96 Hours - Taken 3",
+          "teaserId": "film_3331604",
+          "teaserName": "96 Hours - Taken 3 | 96 Hours - Taken 3",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "96 Hours - Taken 3",
+        "id": 3331604,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331604/300x0/96-hours-taken-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331604/",
+            "filename": "96-hours-taken-3"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331604/600x0/96-hours-taken-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331604/",
+            "filename": "96-hours-taken-3"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331604/1200x0/96-hours-taken-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331604/",
+            "filename": "96-hours-taken-3"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331604/300x0/96-hours-taken-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331604/",
+            "filename": "96-hours-taken-3"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331604/600x0/96-hours-taken-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331604/",
+            "filename": "96-hours-taken-3"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331604/1200x0/96-hours-taken-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331604/",
+            "filename": "96-hours-taken-3"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "96-hours-taken-3",
+        "subheadline": "96 Hours - Taken 3",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/96-hours-taken-3-18956",
+        "videoId": 3331604
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18883",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18883,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mamma-mia-18883"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mamma Mia!",
+          "teaserId": "film_3325013",
+          "teaserName": "Mamma Mia! | Mamma Mia!",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mamma Mia!",
+        "id": 3325013,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325013/300x0/mamma-mia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325013/",
+            "filename": "mamma-mia"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325013/600x0/mamma-mia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325013/",
+            "filename": "mamma-mia"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325013/1200x0/mamma-mia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325013/",
+            "filename": "mamma-mia"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325013/300x0/mamma-mia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325013/",
+            "filename": "mamma-mia"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325013/600x0/mamma-mia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325013/",
+            "filename": "mamma-mia"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325013/1200x0/mamma-mia.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325013/",
+            "filename": "mamma-mia"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mamma-mia",
+        "subheadline": "Mamma Mia!",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/mamma-mia-18883",
+        "videoId": 3325013
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

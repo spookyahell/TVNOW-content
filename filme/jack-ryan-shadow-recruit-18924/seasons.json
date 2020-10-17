@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18924",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18924,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/jack-ryan-shadow-recruit-18924"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Jack Ryan: Shadow Recruit",
+          "teaserId": "film_3334714",
+          "teaserName": "Jack Ryan: Shadow Recruit | Jack Ryan: Shadow Recruit",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Jack Ryan: Shadow Recruit",
+        "id": 3334714,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334714/300x0/jack-ryan-shadow-recruit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334714/",
+            "filename": "jack-ryan-shadow-recruit"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334714/600x0/jack-ryan-shadow-recruit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334714/",
+            "filename": "jack-ryan-shadow-recruit"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334714/1200x0/jack-ryan-shadow-recruit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334714/",
+            "filename": "jack-ryan-shadow-recruit"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334714/300x0/jack-ryan-shadow-recruit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334714/",
+            "filename": "jack-ryan-shadow-recruit"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334714/600x0/jack-ryan-shadow-recruit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334714/",
+            "filename": "jack-ryan-shadow-recruit"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334714/1200x0/jack-ryan-shadow-recruit.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334714/",
+            "filename": "jack-ryan-shadow-recruit"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "jack-ryan-shadow-recruit",
+        "subheadline": "Jack Ryan: Shadow Recruit",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/jack-ryan-shadow-recruit-18924",
+        "videoId": 3334714
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

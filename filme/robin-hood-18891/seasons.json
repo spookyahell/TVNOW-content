@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18891",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18891,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/robin-hood-18891"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Robin Hood",
+          "teaserId": "film_3325027",
+          "teaserName": "Robin Hood | Robin Hood",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Robin Hood",
+        "id": 3325027,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325027/300x0/robin-hood.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325027/",
+            "filename": "robin-hood"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325027/600x0/robin-hood.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325027/",
+            "filename": "robin-hood"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325027/1200x0/robin-hood.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325027/",
+            "filename": "robin-hood"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325027/300x0/robin-hood.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325027/",
+            "filename": "robin-hood"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325027/600x0/robin-hood.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325027/",
+            "filename": "robin-hood"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325027/1200x0/robin-hood.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325027/",
+            "filename": "robin-hood"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "robin-hood",
+        "subheadline": "Robin Hood",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/robin-hood-18891",
+        "videoId": 3325027
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

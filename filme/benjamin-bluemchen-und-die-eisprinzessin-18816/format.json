@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 18816,
+  "additionalMeta": {
+    "canonical": "/filme/benjamin-bluemchen-und-die-eisprinzessin-18816",
+    "url": "/filme/benjamin-bluemchen-und-die-eisprinzessin-18816"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Benjamin Blümchen und die Eisprinzessin",
+      "url": "/filme/benjamin-bluemchen-und-die-eisprinzessin-18816"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18816,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Benjamin Blümchen und die Eisprinzessin 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Benjamin Blümchen und die Eisprinzessin im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Benjamin Blümchen und die Eisprinzessin 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3289124,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3289124",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18816"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Benjamin Blümchen und die Eisprinzessin",
+    "text": "Was für ein Spaß! Auf dem Zooteich läuft Benjamin mit seinem Freund Otto Schlittschuh - und das auf zwei großen Bratpfannen. Die beiden finden, dass die kleine Maria, die wundervolle Pirouetten dreht, unbedingt Eisprinzessin werden muss, denn es wird eine Hauptdarstellerin für die Eisrevue gesucht. Doch da ist auch die ehrgeizige Mutter von Jasmin, die ihre Tochter unbedingt zum Eislaufstar machen will. Mit allen Mitteln verhindert sie, dass Maria das Probelaufen für die Eisrevue gewinnt. Zum Glück gibt es Benjamin...",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/benjamin-bluemchen-und-die-eisprinzessin-18816",
+        "@type": "Movie",
+        "description": "Was für ein Spaß! Auf dem Zooteich läuft Benjamin mit seinem Freund Otto Schlittschuh - und das auf zwei großen Bratpfannen. Die beiden finden, dass die kleine Maria, die wundervolle Pirouetten dreht, unbedingt Eisprinzessin werden muss, denn es wird eine Hauptdarstellerin für die Eisrevue gesucht. Doch da ist auch die ehrgeizige Mutter von Jasmin, die ihre Tochter unbedingt zum Eislaufstar machen will. Mit allen Mitteln verhindert sie, dass Maria das Probelaufen für die Eisrevue gewinnt. Zum Glück gibt es Benjamin...",
+        "duration": "PT44M21S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3289124/950x0/benjamin-bluemchen-und-die-eisprinzessin.jpg",
+        "name": "Benjamin Blümchen und die Eisprinzessin",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/benjamin-bluemchen-und-die-eisprinzessin-18816",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-06-29T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=benjamin-bluemchen-und-die-eisprinzessin-18816",
+              "sameAs": "%s/premium?typ=format&formatname=benjamin-bluemchen-und-die-eisprinzessin-18816",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/benjamin-bluemchen-und-die-eisprinzessin-18816",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Was für ein Spaß! Auf dem Zooteich läuft Benjamin mit seinem Freund Otto Schlittschuh - und das auf zwei großen Bratpfannen. Die beiden finden, dass die kleine Maria, die wundervolle Pirouetten dreht, unbedingt Eisprinzessin werden muss, denn es wird eine Hauptdarstellerin für die Eisrevue gesucht. Doch da ist auch die ehrgeizige Mutter von Jasmin, die ihre Tochter unbedingt zum Eislaufstar machen will. Mit allen Mitteln verhindert sie, dass Maria das Probelaufen für die Eisrevue gewinnt. Zum Glück gibt es Benjamin...",
+          "duration": "PT44M21S",
+          "embedUrl": "%s/googlebot/player/filme/benjamin-bluemchen-und-die-eisprinzessin-18816",
+          "name": "Benjamin Blümchen und die Eisprinzessin",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3289124/950x0/benjamin-bluemchen-und-die-eisprinzessin.jpg",
+          "uploadDate": "2020-06-29T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Benjamin Blümchen und die Eisprinzessin im Online Stream | TVNOW",
+        "headline": "Benjamin Blümchen und die Eisprinzessin im Online Stream | TVNOW",
+        "description": "Benjamin Blümchen und die Eisprinzessin und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/benjamin-bluemchen-und-die-eisprinzessin-18816",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3289124/950x0/benjamin-bluemchen-und-die-eisprinzessin.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3289124/950x0/benjamin-bluemchen-und-die-eisprinzessin.jpg",
+        "datePublished": "2020-06-29T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3289124/950x0/benjamin-bluemchen-und-die-eisprinzessin.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Benjamin Blümchen und die Eisprinzessin",
+            "item": "%s/filme/benjamin-bluemchen-und-die-eisprinzessin-18816"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Benjamin Blümchen und die Eisprinzessin im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

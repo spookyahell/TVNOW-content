@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18876,
+  "additionalMeta": {
+    "canonical": "/filme/nie-wieder-sex-mit-der-ex-18876",
+    "url": "/filme/nie-wieder-sex-mit-der-ex-18876"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Nie wieder Sex mit der Ex",
+      "url": "/filme/nie-wieder-sex-mit-der-ex-18876"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18876,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Nie wieder Sex mit der Ex 📺 und viele weitere ▶️ Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Nie wieder Sex mit der Ex im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Nie wieder Sex mit der Ex 📺 und viele weitere ▶️ Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3324738,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3324738",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18876"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Nie wieder Sex mit der Ex - Informationen zum Film",
+    "text": "Peter Bretter wird von seiner Freundin Sarah sitzengelassen. Auf Hawaii will er sie vergessen. Doch ausgerechnet dort verbringen Sarah und ihr neuer Freund Aldous einen romantischen Urlaub. Gerade als sich zwischen Peter und der Kellnerin Rachel eine zarte Romanze entwickelt, merkt Sarah, dass sie Peter zurückgewinnen möchte. Sie trennt sich von Aldous und verführt Peter. Erst nach dem Sex mit Sarah merkt Peter, wem sein Herz wirklich gehört.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/nie-wieder-sex-mit-der-ex-18876",
+        "@type": "Movie",
+        "description": "Peter Bretter wird von seiner Freundin Sarah sitzengelassen. Auf Hawaii will er sie vergessen. Doch ausgerechnet dort verbringen Sarah und ihr neuer Freund Aldous einen romantischen Urlaub. Gerade als sich zwischen Peter und der Kellnerin Rachel eine zarte Romanze entwickelt, merkt Sarah, dass sie Peter zurückgewinnen möchte. Sie trennt sich von Aldous und verführt Peter. Erst nach dem Sex mit Sarah merkt Peter, wem sein Herz wirklich gehört.",
+        "duration": "PT1H46M18S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3324738/950x0/nie-wieder-sex-mit-der-ex.jpg",
+        "name": "Nie wieder Sex mit der Ex",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/nie-wieder-sex-mit-der-ex-18876",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-20T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=nie-wieder-sex-mit-der-ex-18876",
+              "sameAs": "%s/premium?typ=format&formatname=nie-wieder-sex-mit-der-ex-18876",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/nie-wieder-sex-mit-der-ex-18876",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Peter Bretter wird von seiner Freundin Sarah sitzengelassen. Auf Hawaii will er sie vergessen. Doch ausgerechnet dort verbringen Sarah und ihr neuer Freund Aldous einen romantischen Urlaub. Gerade als sich zwischen Peter und der Kellnerin Rachel eine zarte Romanze entwickelt, merkt Sarah, dass sie Peter zurückgewinnen möchte. Sie trennt sich von Aldous und verführt Peter. Erst nach dem Sex mit Sarah merkt Peter, wem sein Herz wirklich gehört.",
+          "duration": "PT1H46M18S",
+          "embedUrl": "%s/googlebot/player/filme/nie-wieder-sex-mit-der-ex-18876",
+          "name": "Nie wieder Sex mit der Ex",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3324738/950x0/nie-wieder-sex-mit-der-ex.jpg",
+          "uploadDate": "2020-08-20T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Nie wieder Sex mit der Ex im Online Stream | TVNOW",
+        "headline": "Nie wieder Sex mit der Ex im Online Stream | TVNOW",
+        "description": "Nie wieder Sex mit der Ex und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei TVNOW. Ein Film mit ▶️Jason Segel, Kristen Bell, Mila Kunis, Russell Brand, Bill Hader, Maria Thayer, Jack McBrayer, Paul Rudd.",
+        "url": "%s/filme/nie-wieder-sex-mit-der-ex-18876",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3324738/950x0/nie-wieder-sex-mit-der-ex.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3324738/950x0/nie-wieder-sex-mit-der-ex.jpg",
+        "datePublished": "2020-08-20T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3324738/950x0/nie-wieder-sex-mit-der-ex.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Nie wieder Sex mit der Ex",
+            "item": "%s/filme/nie-wieder-sex-mit-der-ex-18876"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Nie wieder Sex mit der Ex im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

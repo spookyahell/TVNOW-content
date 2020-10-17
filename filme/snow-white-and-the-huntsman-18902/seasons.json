@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18902",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18902,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/snow-white-the-huntsman-18902"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Snow White and the Huntsman",
+          "teaserId": "film_3325022",
+          "teaserName": "Snow White and the Huntsman | Snow White & the Huntsman",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Snow White & the Huntsman",
+        "id": 3325022,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325022/300x0/snow-white-the-huntsman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325022/",
+            "filename": "snow-white-the-huntsman"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325022/600x0/snow-white-the-huntsman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325022/",
+            "filename": "snow-white-the-huntsman"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325022/1200x0/snow-white-the-huntsman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325022/",
+            "filename": "snow-white-the-huntsman"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325022/300x0/snow-white-the-huntsman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325022/",
+            "filename": "snow-white-the-huntsman"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325022/600x0/snow-white-the-huntsman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325022/",
+            "filename": "snow-white-the-huntsman"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325022/1200x0/snow-white-the-huntsman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325022/",
+            "filename": "snow-white-the-huntsman"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "snow-white-and-the-huntsman",
+        "subheadline": "Snow White & the Huntsman",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/snow-white-the-huntsman-18902",
+        "videoId": 3325022
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

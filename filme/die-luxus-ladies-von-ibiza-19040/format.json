@@ -1,0 +1,223 @@
+﻿{
+  "formatId": 19040,
+  "additionalMeta": {
+    "canonical": "/filme/die-luxus-ladies-von-ibiza-19040",
+    "url": "/filme/die-luxus-ladies-von-ibiza-19040"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die Luxus-Ladies von Ibiza",
+      "url": "/filme/die-luxus-ladies-von-ibiza-19040"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 19040,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Die Luxus-Ladies von Ibiza 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Luxus-Ladies von Ibiza im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Die Luxus-Ladies von Ibiza 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3334766,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3334766",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19040"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tndokuwissen",
+      "video": "dvrsowf_ten_tndokuwissen",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/tvnow_doku_wissen/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "tvnow_doku_wissen",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Lifestyle"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Die Luxus-Ladies von Ibiza - Informationen zum Film",
+    "text": "Ein Abendessen für über 1500 Euro in einem der teuersten Restaurants des Planeten? Oder eine Yacht für mehrere 10.000 Euro pro Woche? Sowas organisiert Monika Milde für Menschen, die Geld im Überfluß haben. Wir haben sie und eine Luxusdesignerin vor Corona auf Ibiza begleitet und in eine Welt hineingeschaut, zu der sonst nur die richtig Superreichen Zutritt haben.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/luxus-ladies-von-ibiza-die-19040",
+        "@type": "Movie",
+        "description": "Ein Abendessen für über 1500 Euro in einem der teuersten Restaurants des Planeten? Oder eine Yacht für mehrere 10.000 Euro pro Woche? Sowas organisiert Monika Milde für Menschen, die Geld im Überfluß haben. Wir haben sie und eine Luxusdesignerin vor Corona auf Ibiza begleitet und in eine Welt hineingeschaut, zu der sonst nur die richtig Superreichen Zutritt haben.",
+        "duration": "PT22M4S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3334766/950x0/die-luxus-ladies-von-ibiza.jpg",
+        "name": "Die Luxus-Ladies von Ibiza",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/luxus-ladies-von-ibiza-die-19040",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2020-08-25T00:00:00.000Z"
+          }
+        },
+        "url": "%s/filme/luxus-ladies-von-ibiza-die-19040",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Ein Abendessen für über 1500 Euro in einem der teuersten Restaurants des Planeten? Oder eine Yacht für mehrere 10.000 Euro pro Woche? Sowas organisiert Monika Milde für Menschen, die Geld im Überfluß haben. Wir haben sie und eine Luxusdesignerin vor Corona auf Ibiza begleitet und in eine Welt hineingeschaut, zu der sonst nur die richtig Superreichen Zutritt haben.",
+          "duration": "PT22M4S",
+          "embedUrl": "%s/googlebot/player/filme/luxus-ladies-von-ibiza-die-19040",
+          "name": "Die Luxus-Ladies von Ibiza",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3334766/950x0/die-luxus-ladies-von-ibiza.jpg",
+          "uploadDate": "2020-08-25T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Luxus-Ladies von Ibiza im Online Stream | TVNOW",
+        "headline": "Die Luxus-Ladies von Ibiza im Online Stream | TVNOW",
+        "description": "Die Luxus-Ladies von Ibiza und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/luxus-ladies-von-ibiza-die-19040",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3334766/950x0/die-luxus-ladies-von-ibiza.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3334766/950x0/die-luxus-ladies-von-ibiza.jpg",
+        "datePublished": "2020-08-25T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3334766/950x0/die-luxus-ladies-von-ibiza.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Luxus-Ladies von Ibiza",
+            "item": "%s/filme/die-luxus-ladies-von-ibiza-19040"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Luxus-Ladies von Ibiza im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

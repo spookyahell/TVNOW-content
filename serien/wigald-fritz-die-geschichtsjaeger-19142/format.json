@@ -1,0 +1,206 @@
+﻿{
+  "formatId": 19142,
+  "additionalMeta": {
+    "canonical": "/serien/wigald-fritz-die-geschichtsjaeger-19142",
+    "url": "/serien/wigald-fritz-die-geschichtsjaeger-19142"
+  },
+  "ads": {
+    "station": "nitro",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Wigald & Fritz - Die Geschichtsjäger",
+      "url": "/serien/wigald-fritz-die-geschichtsjaeger-19142"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 19142,
+  "meta": [
+    {
+      "content": "Die Serie Wigald & Fritz - Die Geschichtsjäger (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺  im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Wigald & Fritz - Die Geschichtsjäger im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Wigald & Fritz - Die Geschichtsjäger (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺  im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/19142",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/19142",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/19142",
+      "type": "teaserrow"
+    },
+    {
+      "id": 19142,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19142",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/formate/home",
+      "levels": [
+        "tv_now_de",
+        "formate",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/wigald-fritz-die-geschichtsjaeger-19142",
+        "url": "%s/serien/wigald-fritz-die-geschichtsjaeger-19142",
+        "name": "Wigald & Fritz - Die Geschichtsjäger",
+        "description": "Die Serie Wigald & Fritz - Die Geschichtsjäger (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺  im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/19142_04metalogo/1200x0/wigald-fritz-die-geschichtsjaeger.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "",
+        "headline": "",
+        "description": "Die Serie Wigald & Fritz - Die Geschichtsjäger (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺  im Online Stream bei TVNOW anschauen.",
+        "url": "%s/serien/wigald-fritz-die-geschichtsjaeger-19142",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/19142_04metalogo/1200x0/wigald-fritz-die-geschichtsjaeger.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/19142_04metalogo/1200x0/wigald-fritz-die-geschichtsjaeger.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/19142_04metalogo/1200x0/wigald-fritz-die-geschichtsjaeger.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wigald & Fritz - Die Geschichtsjäger",
+            "item": "%s/serien/wigald-fritz-die-geschichtsjaeger-19142"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Wigald & Fritz - Die Geschichtsjäger im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

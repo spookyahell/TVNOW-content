@@ -1,0 +1,232 @@
+﻿{
+  "formatId": 19135,
+  "additionalMeta": {
+    "canonical": "/filme/sechs-schwaene-die-19135",
+    "url": "/filme/sechs-schwaene-die-19135"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die sechs Schwäne",
+      "url": "/filme/sechs-schwaene-die-19135"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19135,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Die sechs Schwäne 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die sechs Schwäne im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Die sechs Schwäne 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3455580,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3455580",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19135"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now_kids/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now_kids",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Mädchen",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Die sechs Schwäne",
+    "text": "An ihrem 18. Geburtstag stößt Constanze auf ein Geheimnis. Sie entdeckt, dass es sechs Brüder geben muss, die durch ein unbedachtes Wort des Vaters am Tag von Constanzes Geburt in schneeweiße Schwäne verwandelt worden sind. Constanze ist fassungslos, als die sechs Schwäne erscheinen. Sie erklären ihr, dass nur sie allein den Fluch bezwingen kann: Sechs Jahre lang dürfe sie kein einziges Wort sprechen und müsse Hemden aus Brennnesseln nähen.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/die-sechs-schwaene-19135",
+        "@type": "Movie",
+        "description": "An ihrem 18. Geburtstag stößt Constanze auf ein Geheimnis. Sie entdeckt, dass es sechs Brüder geben muss, die durch ein unbedachtes Wort des Vaters am Tag von Constanzes Geburt in schneeweiße Schwäne verwandelt worden sind. Constanze ist fassungslos, als die sechs Schwäne erscheinen. Sie erklären ihr, dass nur sie allein den Fluch bezwingen kann: Sechs Jahre lang dürfe sie kein einziges Wort sprechen und müsse Hemden aus Brennnesseln nähen.",
+        "duration": "PT1H29M5S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3455580/950x0/sechs-schwaene-die.jpg",
+        "name": "Die sechs Schwäne",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/die-sechs-schwaene-19135",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-07-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=sechs-schwaene-die-19135",
+              "sameAs": "%s/premium?typ=format&formatname=sechs-schwaene-die-19135",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/die-sechs-schwaene-19135",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "An ihrem 18. Geburtstag stößt Constanze auf ein Geheimnis. Sie entdeckt, dass es sechs Brüder geben muss, die durch ein unbedachtes Wort des Vaters am Tag von Constanzes Geburt in schneeweiße Schwäne verwandelt worden sind. Constanze ist fassungslos, als die sechs Schwäne erscheinen. Sie erklären ihr, dass nur sie allein den Fluch bezwingen kann: Sechs Jahre lang dürfe sie kein einziges Wort sprechen und müsse Hemden aus Brennnesseln nähen.",
+          "duration": "PT1H29M5S",
+          "embedUrl": "%s/googlebot/player/filme/die-sechs-schwaene-19135",
+          "name": "Die sechs Schwäne",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3455580/950x0/sechs-schwaene-die.jpg",
+          "uploadDate": "2020-07-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die sechs Schwäne im Online Stream | TVNOW",
+        "headline": "Die sechs Schwäne im Online Stream | TVNOW",
+        "description": "Die sechs Schwäne und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/die-sechs-schwaene-19135",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3455580/950x0/sechs-schwaene-die.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3455580/950x0/sechs-schwaene-die.jpg",
+        "datePublished": "2020-07-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3455580/950x0/sechs-schwaene-die.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die sechs Schwäne",
+            "item": "%s/filme/sechs-schwaene-die-19135"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die sechs Schwäne im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

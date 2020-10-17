@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19027",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19027,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/shows/25-jahre-peep-19027/weitere/episode-0-25-jahre-peep-3334664"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "25 Jahre Peep!",
+          "teaserId": "show_episode_3334664",
+          "teaserName": "25 Jahre Peep! | 25 Jahre Peep!",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reportage",
+          "cluster": [
+            "Promis"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "25 Jahre Peep!",
+        "id": 3334664,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334664/300x0/25-jahre-peep.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334664/",
+            "filename": "25-jahre-peep"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334664/600x0/25-jahre-peep.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334664/",
+            "filename": "25-jahre-peep"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334664/1200x0/25-jahre-peep.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334664/",
+            "filename": "25-jahre-peep"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334664/300x0/25-jahre-peep.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334664/",
+            "filename": "25-jahre-peep"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334664/600x0/25-jahre-peep.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334664/",
+            "filename": "25-jahre-peep"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334664/1200x0/25-jahre-peep.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334664/",
+            "filename": "25-jahre-peep"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "25-jahre-peep",
+        "subheadline": "25 Jahre Peep!",
+        "text": "Staffel  | Mo. 31.08.2020, 22:00 Uhr",
+        "type": "show",
+        "url": "/shows/25-jahre-peep-19027/weitere/episode-0-25-jahre-peep-3334664",
+        "videoId": 3334664
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

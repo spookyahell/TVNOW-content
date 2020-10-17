@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 18766,
+  "additionalMeta": {
+    "canonical": "/filme/dennis-rodman-jenseits-von-gut-und-boese-18766",
+    "url": "/filme/dennis-rodman-jenseits-von-gut-und-boese-18766"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Dennis Rodman - Jenseits von Gut und Böse",
+      "url": "/filme/dennis-rodman-jenseits-von-gut-und-boese-18766"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18766,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Dennis Rodman - Jenseits von Gut und Böse 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Dennis Rodman - Jenseits von Gut und Böse im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Dennis Rodman - Jenseits von Gut und Böse 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3260263,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3260263",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18766"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Promis",
+      "Biographie"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Dennis Rodman - Jenseits von Gut und Böse",
+    "text": "Der ehemalige NBA-Profi Dennis Rodman zählt zu den bekanntesten Sportlern der Welt. Mit seinen Mannschaftskollegen Michael Jordan und Scottie Pippen erringt er damals dreimal in Folge die NBA-Meisterschaft. Für den ehemals schüchternen Rodman ist der Weg an die Spitze jedoch oft mehr als steinig. Als \"schwarzes Schaf der NBA\", versucht er zeitlebens seinen Platz im Leben zu finden.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/dennis-rodman-jenseits-von-gut-und-boese-18766",
+        "@type": "Movie",
+        "description": "Der ehemalige NBA-Profi Dennis Rodman zählt zu den bekanntesten Sportlern der Welt. Mit seinen Mannschaftskollegen Michael Jordan und Scottie Pippen erringt er damals dreimal in Folge die NBA-Meisterschaft. Für den ehemals schüchternen Rodman ist der Weg an die Spitze jedoch oft mehr als steinig. Als \"schwarzes Schaf der NBA\", versucht er zeitlebens seinen Platz im Leben zu finden.",
+        "duration": "PT1H38M26S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3260263/950x0/dennis-rodman-jenseits-von-gut-und-boese.jpg",
+        "name": "Dennis Rodman - Jenseits von Gut und Böse",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/dennis-rodman-jenseits-von-gut-und-boese-18766",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-09-20T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=dennis-rodman-jenseits-von-gut-und-boese-18766",
+              "sameAs": "%s/premium?typ=format&formatname=dennis-rodman-jenseits-von-gut-und-boese-18766",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/dennis-rodman-jenseits-von-gut-und-boese-18766",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Der ehemalige NBA-Profi Dennis Rodman zählt zu den bekanntesten Sportlern der Welt. Mit seinen Mannschaftskollegen Michael Jordan und Scottie Pippen erringt er damals dreimal in Folge die NBA-Meisterschaft. Für den ehemals schüchternen Rodman ist der Weg an die Spitze jedoch oft mehr als steinig. Als \"schwarzes Schaf der NBA\", versucht er zeitlebens seinen Platz im Leben zu finden.",
+          "duration": "PT1H38M26S",
+          "embedUrl": "%s/googlebot/player/filme/dennis-rodman-jenseits-von-gut-und-boese-18766",
+          "name": "Dennis Rodman - Jenseits von Gut und Böse",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3260263/950x0/dennis-rodman-jenseits-von-gut-und-boese.jpg",
+          "uploadDate": "2020-09-20T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Dennis Rodman - Jenseits von Gut und Böse im Online Stream | TVNOW",
+        "headline": "Dennis Rodman - Jenseits von Gut und Böse im Online Stream | TVNOW",
+        "description": "Dennis Rodman - Jenseits von Gut und Böse und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/dennis-rodman-jenseits-von-gut-und-boese-18766",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3260263/950x0/dennis-rodman-jenseits-von-gut-und-boese.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3260263/950x0/dennis-rodman-jenseits-von-gut-und-boese.jpg",
+        "datePublished": "2020-09-20T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3260263/950x0/dennis-rodman-jenseits-von-gut-und-boese.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dennis Rodman - Jenseits von Gut und Böse",
+            "item": "%s/filme/dennis-rodman-jenseits-von-gut-und-boese-18766"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Dennis Rodman - Jenseits von Gut und Böse im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

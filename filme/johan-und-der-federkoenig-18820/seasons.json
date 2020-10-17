@@ -1,0 +1,109 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18820",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18820,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/johan-und-der-federkoenig-18820"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Johan und der Federkönig",
+          "teaserId": "film_3289200",
+          "teaserName": "Johan und der Federkönig | Johan und der Federkönig",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Action und Abenteuer",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Johan und der Federkönig",
+        "id": 3289200,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3289200/300x0/johan-und-der-federkoenig.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3289200/",
+            "filename": "johan-und-der-federkoenig"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3289200/600x0/johan-und-der-federkoenig.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3289200/",
+            "filename": "johan-und-der-federkoenig"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3289200/1200x0/johan-und-der-federkoenig.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3289200/",
+            "filename": "johan-und-der-federkoenig"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3289200/300x0/johan-und-der-federkoenig.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3289200/",
+            "filename": "johan-und-der-federkoenig"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3289200/600x0/johan-und-der-federkoenig.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3289200/",
+            "filename": "johan-und-der-federkoenig"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3289200/1200x0/johan-und-der-federkoenig.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3289200/",
+            "filename": "johan-und-der-federkoenig"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "johan-und-der-federkoenig",
+        "subheadline": "Johan und der Federkönig",
+        "text": "Staffel  | Mo. 29.06.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/johan-und-der-federkoenig-18820",
+        "videoId": 3289200
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

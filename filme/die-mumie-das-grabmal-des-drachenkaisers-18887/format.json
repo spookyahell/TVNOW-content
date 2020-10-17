@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18887,
+  "additionalMeta": {
+    "canonical": "/filme/die-mumie-das-grabmal-des-drachenkaisers-18887",
+    "url": "/filme/die-mumie-das-grabmal-des-drachenkaisers-18887"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die Mumie: Das Grabmal des Drachenkaisers",
+      "url": "/filme/die-mumie-das-grabmal-des-drachenkaisers-18887"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18887,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Die Mumie: Das Grabmal des Drachenkaisers 📺 und viele weitere ▶️ Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Mumie: Das Grabmal des Drachenkaisers im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Die Mumie: Das Grabmal des Drachenkaisers 📺 und viele weitere ▶️ Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3327281,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3327281",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18887"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_abenteuer/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_abenteuer",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Abenteuer",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Die Mumie: Das Grabmal des Drachenkaisers - Informationen zum Film",
+    "text": "China 1946: Als der Drachenkaiser mit seiner Armee von 10.000 unbesiegbaren Terrakotta-Kriegern nach 2.000 Jahren wieder zum Leben erweckt wird, kennt der dämonische Despot nur ein Ziel - die Weltherrschaft. Lediglich der zu allem entschlossene Abenteurer Rick O'Connell, sein Sohn Alex, seine Frau Evelyn und ihr Bruder Jonathan können den blutigen Siegeszug der Mumie aufhalten und ein neues Zeitalter des Schreckens verhindern...",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/die-mumie-das-grabmal-des-drachenkaisers-18887",
+        "@type": "Movie",
+        "description": "China 1946: Als der Drachenkaiser mit seiner Armee von 10.000 unbesiegbaren Terrakotta-Kriegern nach 2.000 Jahren wieder zum Leben erweckt wird, kennt der dämonische Despot nur ein Ziel - die Weltherrschaft. Lediglich der zu allem entschlossene Abenteurer Rick O'Connell, sein Sohn Alex, seine Frau Evelyn und ihr Bruder Jonathan können den blutigen Siegeszug der Mumie aufhalten und ein neues Zeitalter des Schreckens verhindern...",
+        "duration": "PT1H47M",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3327281/950x0/die-mumie-das-grabmal-des-drachenkaisers.jpg",
+        "name": "Die Mumie: Das Grabmal des Drachenkaisers",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/die-mumie-das-grabmal-des-drachenkaisers-18887",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-20T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=die-mumie-das-grabmal-des-drachenkaisers-18887",
+              "sameAs": "%s/premium?typ=format&formatname=die-mumie-das-grabmal-des-drachenkaisers-18887",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/die-mumie-das-grabmal-des-drachenkaisers-18887",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "China 1946: Als der Drachenkaiser mit seiner Armee von 10.000 unbesiegbaren Terrakotta-Kriegern nach 2.000 Jahren wieder zum Leben erweckt wird, kennt der dämonische Despot nur ein Ziel - die Weltherrschaft. Lediglich der zu allem entschlossene Abenteurer Rick O'Connell, sein Sohn Alex, seine Frau Evelyn und ihr Bruder Jonathan können den blutigen Siegeszug der Mumie aufhalten und ein neues Zeitalter des Schreckens verhindern...",
+          "duration": "PT1H47M",
+          "embedUrl": "%s/googlebot/player/filme/die-mumie-das-grabmal-des-drachenkaisers-18887",
+          "name": "Die Mumie: Das Grabmal des Drachenkaisers",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3327281/950x0/die-mumie-das-grabmal-des-drachenkaisers.jpg",
+          "uploadDate": "2020-08-20T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Mumie: Das Grabmal des Drachenkaisers im Online Stream | TVNOW",
+        "headline": "Die Mumie: Das Grabmal des Drachenkaisers im Online Stream | TVNOW",
+        "description": "Die Mumie: Das Grabmal des Drachenkaisers und viele weitere  ▶️Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW. Ein Film mit ▶️Brendan Fraser, Maria Bello, John Hannah, Michelle Yeoh, Liam Cunningham, Isabella Leong, Luke Ford, David Calder, Anthony Wong Chau-Sang, Daniel Richard Giverin, Stella Maryna Troshyna, James Bradford, Jessey Meng.",
+        "url": "%s/filme/die-mumie-das-grabmal-des-drachenkaisers-18887",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3327281/950x0/die-mumie-das-grabmal-des-drachenkaisers.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3327281/950x0/die-mumie-das-grabmal-des-drachenkaisers.jpg",
+        "datePublished": "2020-08-20T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3327281/950x0/die-mumie-das-grabmal-des-drachenkaisers.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Mumie: Das Grabmal des Drachenkaisers",
+            "item": "%s/filme/die-mumie-das-grabmal-des-drachenkaisers-18887"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Mumie: Das Grabmal des Drachenkaisers im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

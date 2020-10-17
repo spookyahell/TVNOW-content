@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19029",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19029,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/die-schneekoenigin-19029"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Schneekönigin",
+          "teaserId": "film_3348923",
+          "teaserName": "Die Schneekönigin | Die Schneekönigin",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Schneekönigin",
+        "id": 3348923,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3348923/300x0/die-schneekoenigin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3348923/",
+            "filename": "die-schneekoenigin"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3348923/600x0/die-schneekoenigin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3348923/",
+            "filename": "die-schneekoenigin"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3348923/1200x0/die-schneekoenigin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3348923/",
+            "filename": "die-schneekoenigin"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3348923/300x0/die-schneekoenigin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3348923/",
+            "filename": "die-schneekoenigin"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3348923/600x0/die-schneekoenigin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3348923/",
+            "filename": "die-schneekoenigin"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3348923/1200x0/die-schneekoenigin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3348923/",
+            "filename": "die-schneekoenigin"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-schneekoenigin",
+        "subheadline": "Die Schneekönigin",
+        "text": "Staffel  | Mi. 01.07.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/die-schneekoenigin-19029",
+        "videoId": 3348923
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

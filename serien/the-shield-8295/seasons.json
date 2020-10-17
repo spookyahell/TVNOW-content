@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 7"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/8295",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 8295,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/serien/the-shield-8295/staffel-7/episode-11-portokasse-3353447"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Shield",
+          "teaserId": "serie_episode_3353447",
+          "teaserName": "The Shield | Staffel 7 | Folge 11 | Portokasse",
+          "teaserPayType": "paid",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 7",
+          "teaserEpisodeNumber": "Folge 11",
+          "teaserEpisodeAirtime": "Di. 08.09.2020, 20:15 Uhr",
+          "teaserEpisodeName": "Portokasse"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Portokasse",
+        "id": 3353447,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3353447/300x0/portokasse.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3353447/",
+            "filename": "portokasse"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3353447/600x0/portokasse.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3353447/",
+            "filename": "portokasse"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3353447/1200x0/portokasse.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3353447/",
+            "filename": "portokasse"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3353447/300x0/portokasse.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3353447/",
+            "filename": "portokasse"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3353447/600x0/portokasse.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3353447/",
+            "filename": "portokasse"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3353447/1200x0/portokasse.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3353447/",
+            "filename": "portokasse"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-shield",
+        "subheadline": "Portokasse",
+        "text": "Staffel 7, Folge 11 | Di. 08.09.2020, 20:15 Uhr",
+        "type": "serie",
+        "url": "/serien/the-shield-8295/staffel-7/episode-11-portokasse-3353447",
+        "videoId": 3353447
+      }
+    ],
+    "format_navigation": {
+      "season": 7
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,234 @@
+﻿{
+  "formatId": 19137,
+  "additionalMeta": {
+    "canonical": "/filme/ein-wunder-am-weihnachtssee-19137",
+    "url": "/filme/ein-wunder-am-weihnachtssee-19137"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Ein Wunder am Weihnachtssee",
+      "url": "/filme/ein-wunder-am-weihnachtssee-19137"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19137,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Ein Wunder am Weihnachtssee 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Ein Wunder am Weihnachtssee im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Ein Wunder am Weihnachtssee 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3455516,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3455516",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19137"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now_kids/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now_kids",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 10 bis Teens",
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Jungs",
+      "KIDS Mädchen",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Ein Wunder am Weihnachtssee",
+    "text": "Der 16-jährigen Bobby Whiteside hasst die Weihnachtszeit. Vor acht Jahren verließ sein Vater an Weihnachten die Familie und als letztes Jahr auch noch sein bester Freund Charlie bei einem Autounfall am Weihnachtsabend ums Leben kam, ist Weihnachten für ihn endgültig gestorben. Weihnachten steht nun kurz bevor und auf der Suche nach ein wenig Trost, geht Bobby auf den See hinaus, wo er und Charlie einst gemeinsam Hockey spielten. ",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/ein-wunder-am-weihnachtssee-19137",
+        "@type": "Movie",
+        "description": "Der 16-jährigen Bobby Whiteside hasst die Weihnachtszeit. Vor acht Jahren verließ sein Vater an Weihnachten die Familie und als letztes Jahr auch noch sein bester Freund Charlie bei einem Autounfall am Weihnachtsabend ums Leben kam, ist Weihnachten für ihn endgültig gestorben. Weihnachten steht nun kurz bevor und auf der Suche nach ein wenig Trost, geht Bobby auf den See hinaus, wo er und Charlie einst gemeinsam Hockey spielten. ",
+        "duration": "PT1H46M14S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3455516/950x0/ein-wunder-am-weihnachtssee.jpg",
+        "name": "Ein Wunder am Weihnachtssee",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/ein-wunder-am-weihnachtssee-19137",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-06-30T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=ein-wunder-am-weihnachtssee-19137",
+              "sameAs": "%s/premium?typ=format&formatname=ein-wunder-am-weihnachtssee-19137",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/ein-wunder-am-weihnachtssee-19137",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Der 16-jährigen Bobby Whiteside hasst die Weihnachtszeit. Vor acht Jahren verließ sein Vater an Weihnachten die Familie und als letztes Jahr auch noch sein bester Freund Charlie bei einem Autounfall am Weihnachtsabend ums Leben kam, ist Weihnachten für ihn endgültig gestorben. Weihnachten steht nun kurz bevor und auf der Suche nach ein wenig Trost, geht Bobby auf den See hinaus, wo er und Charlie einst gemeinsam Hockey spielten. ",
+          "duration": "PT1H46M14S",
+          "embedUrl": "%s/googlebot/player/filme/ein-wunder-am-weihnachtssee-19137",
+          "name": "Ein Wunder am Weihnachtssee",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3455516/950x0/ein-wunder-am-weihnachtssee.jpg",
+          "uploadDate": "2020-06-30T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Ein Wunder am Weihnachtssee im Online Stream | TVNOW",
+        "headline": "Ein Wunder am Weihnachtssee im Online Stream | TVNOW",
+        "description": "Ein Wunder am Weihnachtssee und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/ein-wunder-am-weihnachtssee-19137",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3455516/950x0/ein-wunder-am-weihnachtssee.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3455516/950x0/ein-wunder-am-weihnachtssee.jpg",
+        "datePublished": "2020-06-30T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3455516/950x0/ein-wunder-am-weihnachtssee.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ein Wunder am Weihnachtssee",
+            "item": "%s/filme/ein-wunder-am-weihnachtssee-19137"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Ein Wunder am Weihnachtssee im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

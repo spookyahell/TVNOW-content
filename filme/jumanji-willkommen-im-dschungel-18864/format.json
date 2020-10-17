@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18864,
+  "additionalMeta": {
+    "canonical": "/filme/jumanji-willkommen-im-dschungel-18864",
+    "url": "/filme/jumanji-willkommen-im-dschungel-18864"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Jumanji: Willkommen im Dschungel",
+      "url": "/filme/jumanji-willkommen-im-dschungel-18864"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18864,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Jumanji: Willkommen im Dschungel 📺 und viele weitere ▶️ Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Jumanji: Willkommen im Dschungel im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Jumanji: Willkommen im Dschungel 📺 und viele weitere ▶️ Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3429645,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3429645",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18864"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_abenteuer/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_abenteuer",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Abenteuer",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Jumanji: Willkommen im Dschungel - Informationen zum Film",
+    "text": "Der Kultfilm mit Robin Williams von 1995 bekommt mit diesem Fantasy-Abenteuer eine rundum modernisierte Fortsetzung. Statt eines Brettspiels wie im Vorgängerfilm, zieht in diesem Sequel ein Videogame seine Spieler in die Jumanji-Welt. So landen vier Schüler im abenteuerlichen Dschungel, verwandelt in die Spielcharaktere (u.a. Dwayne Johnson, Jack Black und Kevin Hart). Nur wenn sie das Spielziel erreichen, können sie den Gefahren entkommen.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/jumanji-willkommen-im-dschungel-18864",
+        "@type": "Movie",
+        "description": "Der Kultfilm mit Robin Williams von 1995 bekommt mit diesem Fantasy-Abenteuer eine rundum modernisierte Fortsetzung. Statt eines Brettspiels wie im Vorgängerfilm, zieht in diesem Sequel ein Videogame seine Spieler in die Jumanji-Welt. So landen vier Schüler im abenteuerlichen Dschungel, verwandelt in die Spielcharaktere (u.a. Dwayne Johnson, Jack Black und Kevin Hart). Nur wenn sie das Spielziel erreichen, können sie den Gefahren entkommen.",
+        "duration": "PT1H54M24S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3429645/950x0/jumanji-willkommen-im-dschungel.jpg",
+        "name": "Jumanji: Willkommen im Dschungel",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/jumanji-willkommen-im-dschungel-18864",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-10-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=jumanji-willkommen-im-dschungel-18864",
+              "sameAs": "%s/premium?typ=format&formatname=jumanji-willkommen-im-dschungel-18864",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/jumanji-willkommen-im-dschungel-18864",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Der Kultfilm mit Robin Williams von 1995 bekommt mit diesem Fantasy-Abenteuer eine rundum modernisierte Fortsetzung. Statt eines Brettspiels wie im Vorgängerfilm, zieht in diesem Sequel ein Videogame seine Spieler in die Jumanji-Welt. So landen vier Schüler im abenteuerlichen Dschungel, verwandelt in die Spielcharaktere (u.a. Dwayne Johnson, Jack Black und Kevin Hart). Nur wenn sie das Spielziel erreichen, können sie den Gefahren entkommen.",
+          "duration": "PT1H54M24S",
+          "embedUrl": "%s/googlebot/player/filme/jumanji-willkommen-im-dschungel-18864",
+          "name": "Jumanji: Willkommen im Dschungel",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3429645/950x0/jumanji-willkommen-im-dschungel.jpg",
+          "uploadDate": "2020-10-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Jumanji: Willkommen im Dschungel im Online Stream | TVNOW",
+        "headline": "Jumanji: Willkommen im Dschungel im Online Stream | TVNOW",
+        "description": "Jumanji: Willkommen im Dschungel und viele weitere  ▶️Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW. Ein Film mit ▶️Dwayne \"The Rock\" Johnson, Kevin Hart, Jack Black, Karen Gillan, Rhys Darby, Bobby Cannavale, Nick Jonas, Colin Hanks, Alex Wolff, Ser'Darius Blain, Madison Iseman, Morgan Turner, Marin Hinkle, Tracey Bonner, Najah Jackson, Natasha Charles Parker, Kat Altman, Maribeth Monroe, Missi Pyle, Marc Evan Jackson, Tim Matheson, William Tokarsky, Michael Shacket, Rob Mars, Tait Fletcher.",
+        "url": "%s/filme/jumanji-willkommen-im-dschungel-18864",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3429645/950x0/jumanji-willkommen-im-dschungel.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3429645/950x0/jumanji-willkommen-im-dschungel.jpg",
+        "datePublished": "2020-10-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3429645/950x0/jumanji-willkommen-im-dschungel.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Jumanji: Willkommen im Dschungel",
+            "item": "%s/filme/jumanji-willkommen-im-dschungel-18864"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Jumanji: Willkommen im Dschungel im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

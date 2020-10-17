@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18967",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18967,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/transporter-the-mission-18967"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Transporter 2 - The Mission",
+          "teaserId": "film_3330651",
+          "teaserName": "The Transporter 2 - The Mission | Transporter - The Mission",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Transporter - The Mission",
+        "id": 3330651,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330651/300x0/transporter-the-mission.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330651/",
+            "filename": "transporter-the-mission"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330651/600x0/transporter-the-mission.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330651/",
+            "filename": "transporter-the-mission"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330651/1200x0/transporter-the-mission.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330651/",
+            "filename": "transporter-the-mission"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330651/300x0/transporter-the-mission.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330651/",
+            "filename": "transporter-the-mission"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330651/600x0/transporter-the-mission.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330651/",
+            "filename": "transporter-the-mission"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3330651/1200x0/transporter-the-mission.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3330651/",
+            "filename": "transporter-the-mission"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-transporter-2-the-mission",
+        "subheadline": "Transporter - The Mission",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/transporter-the-mission-18967",
+        "videoId": 3330651
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

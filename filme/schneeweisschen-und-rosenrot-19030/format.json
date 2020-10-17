@@ -1,0 +1,232 @@
+﻿{
+  "formatId": 19030,
+  "additionalMeta": {
+    "canonical": "/filme/schneeweisschen-und-rosenrot-19030",
+    "url": "/filme/schneeweisschen-und-rosenrot-19030"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Schneeweißchen und Rosenrot",
+      "url": "/filme/schneeweisschen-und-rosenrot-19030"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19030,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Schneeweißchen und Rosenrot 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Schneeweißchen und Rosenrot im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Schneeweißchen und Rosenrot 📺 und viele weitere ▶️ Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3348921,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3348921",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19030"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now_kids/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now_kids",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Mädchen",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Schneeweißchen und Rosenrot - Information zur Kinderserie ",
+    "text": "Die beiden Mädchen Schneeweißchen und Rosenrot leben mit ihrer Mutter im Wald. Ohne dass sie wissen, dass es sich um verwandelte Prinzen handelt, versorgen sie einen Bären und einen Falken. Das gefällt dem Berggeist Schimmelbart gar nicht, der die Prinzen verzaubert hatte, als sie versuchten, in sein Reich einzudringen. Er will sich an den Mädchen rächen, obwohl die beiden auch ihn verschiedene Male aus Notlagen befreien.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/schneeweisschen-und-rosenrot-19030",
+        "@type": "Movie",
+        "description": "Die beiden Mädchen Schneeweißchen und Rosenrot leben mit ihrer Mutter im Wald. Ohne dass sie wissen, dass es sich um verwandelte Prinzen handelt, versorgen sie einen Bären und einen Falken. Das gefällt dem Berggeist Schimmelbart gar nicht, der die Prinzen verzaubert hatte, als sie versuchten, in sein Reich einzudringen. Er will sich an den Mädchen rächen, obwohl die beiden auch ihn verschiedene Male aus Notlagen befreien.",
+        "duration": "PT59M25S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3348921/950x0/schneeweisschen-und-rosenrot.jpg",
+        "name": "Schneeweißchen und Rosenrot",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/schneeweisschen-und-rosenrot-19030",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-07-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=schneeweisschen-und-rosenrot-19030",
+              "sameAs": "%s/premium?typ=format&formatname=schneeweisschen-und-rosenrot-19030",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/schneeweisschen-und-rosenrot-19030",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Die beiden Mädchen Schneeweißchen und Rosenrot leben mit ihrer Mutter im Wald. Ohne dass sie wissen, dass es sich um verwandelte Prinzen handelt, versorgen sie einen Bären und einen Falken. Das gefällt dem Berggeist Schimmelbart gar nicht, der die Prinzen verzaubert hatte, als sie versuchten, in sein Reich einzudringen. Er will sich an den Mädchen rächen, obwohl die beiden auch ihn verschiedene Male aus Notlagen befreien.",
+          "duration": "PT59M25S",
+          "embedUrl": "%s/googlebot/player/filme/schneeweisschen-und-rosenrot-19030",
+          "name": "Schneeweißchen und Rosenrot",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3348921/950x0/schneeweisschen-und-rosenrot.jpg",
+          "uploadDate": "2020-07-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Schneeweißchen und Rosenrot im Online Stream | TVNOW",
+        "headline": "Schneeweißchen und Rosenrot im Online Stream | TVNOW",
+        "description": "Schneeweißchen und Rosenrot und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/schneeweisschen-und-rosenrot-19030",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3348921/950x0/schneeweisschen-und-rosenrot.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3348921/950x0/schneeweisschen-und-rosenrot.jpg",
+        "datePublished": "2020-07-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3348921/950x0/schneeweisschen-und-rosenrot.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Schneeweißchen und Rosenrot",
+            "item": "%s/filme/schneeweisschen-und-rosenrot-19030"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Schneeweißchen und Rosenrot im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

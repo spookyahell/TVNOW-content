@@ -1,0 +1,109 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19136",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19136,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/koenig-drosselbart-19136"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "König Drosselbart",
+          "teaserId": "film_3455519",
+          "teaserName": "König Drosselbart | König Drosselbart",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 10 bis Teens",
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "König Drosselbart",
+        "id": 3455519,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3455519/300x0/koenig-drosselbart.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3455519/",
+            "filename": "koenig-drosselbart"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3455519/600x0/koenig-drosselbart.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3455519/",
+            "filename": "koenig-drosselbart"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3455519/1200x0/koenig-drosselbart.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3455519/",
+            "filename": "koenig-drosselbart"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3455519/300x0/koenig-drosselbart.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3455519/",
+            "filename": "koenig-drosselbart"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3455519/600x0/koenig-drosselbart.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3455519/",
+            "filename": "koenig-drosselbart"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3455519/1200x0/koenig-drosselbart.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3455519/",
+            "filename": "koenig-drosselbart"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "koenig-drosselbart-1965",
+        "subheadline": "König Drosselbart",
+        "text": "Staffel  | Di. 30.06.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/koenig-drosselbart-19136",
+        "videoId": 3455519
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

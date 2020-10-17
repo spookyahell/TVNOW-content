@@ -1,0 +1,106 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19059",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19059,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/the-boy-19059"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Boy",
+          "teaserId": "film_3349358",
+          "teaserName": "The Boy | The Boy",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Mystery",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeAirtime": "So. 06.09.2020, 20:15 Uhr",
+          "teaserEpisodeName": "The Boy"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Boy",
+        "id": 3349358,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3349358/300x0/the-boy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3349358/",
+            "filename": "the-boy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3349358/600x0/the-boy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3349358/",
+            "filename": "the-boy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3349358/1200x0/the-boy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3349358/",
+            "filename": "the-boy"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3349358/300x0/the-boy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3349358/",
+            "filename": "the-boy"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3349358/600x0/the-boy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3349358/",
+            "filename": "the-boy"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3349358/1200x0/the-boy.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3349358/",
+            "filename": "the-boy"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-boy",
+        "subheadline": "The Boy",
+        "text": "Staffel 1 | So. 06.09.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/the-boy-19059",
+        "videoId": 3349358
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

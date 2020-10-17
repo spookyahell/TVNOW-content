@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18920",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18920,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/transformers-3-18920"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Transformers 3",
+          "teaserId": "film_3331614",
+          "teaserName": "Transformers 3 | Transformers 3",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Transformers 3",
+        "id": 3331614,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331614/300x0/transformers-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331614/",
+            "filename": "transformers-3"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331614/600x0/transformers-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331614/",
+            "filename": "transformers-3"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331614/1200x0/transformers-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331614/",
+            "filename": "transformers-3"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331614/300x0/transformers-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331614/",
+            "filename": "transformers-3"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331614/600x0/transformers-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331614/",
+            "filename": "transformers-3"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331614/1200x0/transformers-3.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331614/",
+            "filename": "transformers-3"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "transformers-3",
+        "subheadline": "Transformers 3",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/transformers-3-18920",
+        "videoId": 3331614
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

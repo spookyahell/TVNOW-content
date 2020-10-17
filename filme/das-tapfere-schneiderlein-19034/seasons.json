@@ -1,0 +1,106 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19034",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19034,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/das-tapfere-schneiderlein-19034"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das tapfere Schneiderlein",
+          "teaserId": "film_3348929",
+          "teaserName": "Das tapfere Schneiderlein | Das tapfere Schneiderlein",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "Kids"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das tapfere Schneiderlein",
+        "id": 3348929,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3348929/300x0/das-tapfere-schneiderlein.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3348929/",
+            "filename": "das-tapfere-schneiderlein"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3348929/600x0/das-tapfere-schneiderlein.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3348929/",
+            "filename": "das-tapfere-schneiderlein"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3348929/1200x0/das-tapfere-schneiderlein.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3348929/",
+            "filename": "das-tapfere-schneiderlein"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3348929/300x0/das-tapfere-schneiderlein.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3348929/",
+            "filename": "das-tapfere-schneiderlein"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3348929/600x0/das-tapfere-schneiderlein.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3348929/",
+            "filename": "das-tapfere-schneiderlein"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3348929/1200x0/das-tapfere-schneiderlein.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3348929/",
+            "filename": "das-tapfere-schneiderlein"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-tapfere-schneiderlein",
+        "subheadline": "Das tapfere Schneiderlein",
+        "text": "Staffel  | Di. 30.06.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/das-tapfere-schneiderlein-19034",
+        "videoId": 3348929
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

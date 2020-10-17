@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18940",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18940,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/forever-my-girl-18940"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Forever My Girl",
+          "teaserId": "film_3334723",
+          "teaserName": "Forever My Girl | Forever My Girl",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Forever My Girl",
+        "id": 3334723,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334723/300x0/forever-my-girl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334723/",
+            "filename": "forever-my-girl"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334723/600x0/forever-my-girl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334723/",
+            "filename": "forever-my-girl"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334723/1200x0/forever-my-girl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334723/",
+            "filename": "forever-my-girl"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334723/300x0/forever-my-girl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334723/",
+            "filename": "forever-my-girl"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334723/600x0/forever-my-girl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334723/",
+            "filename": "forever-my-girl"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3334723/1200x0/forever-my-girl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3334723/",
+            "filename": "forever-my-girl"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "forever-my-girl",
+        "subheadline": "Forever My Girl",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/forever-my-girl-18940",
+        "videoId": 3334723
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

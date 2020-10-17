@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18872",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18872,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/dante-s-peak-18872"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Dante's Peak",
+          "teaserId": "film_3327763",
+          "teaserName": "Dante's Peak | Dante's Peak",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Dante's Peak",
+        "id": 3327763,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327763/300x0/dante-s-peak.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327763/",
+            "filename": "dante-s-peak"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327763/600x0/dante-s-peak.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327763/",
+            "filename": "dante-s-peak"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327763/1200x0/dante-s-peak.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327763/",
+            "filename": "dante-s-peak"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327763/300x0/dante-s-peak.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327763/",
+            "filename": "dante-s-peak"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327763/600x0/dante-s-peak.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327763/",
+            "filename": "dante-s-peak"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3327763/1200x0/dante-s-peak.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3327763/",
+            "filename": "dante-s-peak"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "dantes-peak",
+        "subheadline": "Dante's Peak",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/dante-s-peak-18872",
+        "videoId": 3327763
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

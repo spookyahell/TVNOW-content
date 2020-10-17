@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19121",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19121,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/unknown-identity-19121"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Unknown Identity",
+          "teaserId": "film_3462349",
+          "teaserName": "Unknown Identity | Unknown Identity",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Unknown Identity",
+        "id": 3462349,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462349/300x0/unknown-identity.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462349/",
+            "filename": "unknown-identity"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462349/600x0/unknown-identity.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462349/",
+            "filename": "unknown-identity"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462349/1200x0/unknown-identity.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462349/",
+            "filename": "unknown-identity"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462349/300x0/unknown-identity.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462349/",
+            "filename": "unknown-identity"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462349/600x0/unknown-identity.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462349/",
+            "filename": "unknown-identity"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462349/1200x0/unknown-identity.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462349/",
+            "filename": "unknown-identity"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "unknown-identity",
+        "subheadline": "Unknown Identity",
+        "text": "Staffel  | So. 11.10.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/unknown-identity-19121",
+        "videoId": 3462349
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

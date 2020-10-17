@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18859",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18859,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/verrueckt-nach-mary-18859"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Verrückt nach Mary ",
+          "teaserId": "film_3328857",
+          "teaserName": "Verrückt nach Mary  | Verrückt nach Mary",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Verrückt nach Mary",
+        "id": 3328857,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328857/300x0/verrueckt-nach-mary.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328857/",
+            "filename": "verrueckt-nach-mary"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328857/600x0/verrueckt-nach-mary.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328857/",
+            "filename": "verrueckt-nach-mary"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328857/1200x0/verrueckt-nach-mary.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328857/",
+            "filename": "verrueckt-nach-mary"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328857/300x0/verrueckt-nach-mary.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328857/",
+            "filename": "verrueckt-nach-mary"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328857/600x0/verrueckt-nach-mary.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328857/",
+            "filename": "verrueckt-nach-mary"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3328857/1200x0/verrueckt-nach-mary.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3328857/",
+            "filename": "verrueckt-nach-mary"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "verrueckt-nach-mary",
+        "subheadline": "Verrückt nach Mary",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/verrueckt-nach-mary-18859",
+        "videoId": 3328857
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

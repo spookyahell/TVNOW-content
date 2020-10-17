@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18913",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18913,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/mission-impossible-phantom-protokoll-18913"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mission: Impossible - Phantom Protokoll",
+          "teaserId": "film_3331135",
+          "teaserName": "Mission: Impossible - Phantom Protokoll | Mission: Impossible - Phantom Protokoll",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mission: Impossible - Phantom Protokoll",
+        "id": 3331135,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331135/300x0/mission-impossible-phantom-protokoll.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331135/",
+            "filename": "mission-impossible-phantom-protokoll"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331135/600x0/mission-impossible-phantom-protokoll.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331135/",
+            "filename": "mission-impossible-phantom-protokoll"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331135/1200x0/mission-impossible-phantom-protokoll.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331135/",
+            "filename": "mission-impossible-phantom-protokoll"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331135/300x0/mission-impossible-phantom-protokoll.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331135/",
+            "filename": "mission-impossible-phantom-protokoll"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331135/600x0/mission-impossible-phantom-protokoll.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331135/",
+            "filename": "mission-impossible-phantom-protokoll"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3331135/1200x0/mission-impossible-phantom-protokoll.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3331135/",
+            "filename": "mission-impossible-phantom-protokoll"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mission-impossible-phantom-protokoll",
+        "subheadline": "Mission: Impossible - Phantom Protokoll",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/mission-impossible-phantom-protokoll-18913",
+        "videoId": 3331135
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

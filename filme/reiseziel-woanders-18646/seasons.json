@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18646",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18646,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/reiseziel-woanders-18646"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Reiseziel: Woanders",
+          "teaserId": "film_3167200",
+          "teaserName": "Reiseziel: Woanders | Reiseziel: Woanders",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Natur"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Reiseziel: Woanders",
+        "id": 3167200,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3167200/300x0/reiseziel-woanders.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3167200/",
+            "filename": "reiseziel-woanders"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3167200/600x0/reiseziel-woanders.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3167200/",
+            "filename": "reiseziel-woanders"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3167200/1200x0/reiseziel-woanders.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3167200/",
+            "filename": "reiseziel-woanders"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3167200/300x0/reiseziel-woanders.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3167200/",
+            "filename": "reiseziel-woanders"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3167200/600x0/reiseziel-woanders.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3167200/",
+            "filename": "reiseziel-woanders"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3167200/1200x0/reiseziel-woanders.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3167200/",
+            "filename": "reiseziel-woanders"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "reiseziel-woanders",
+        "subheadline": "Reiseziel: Woanders",
+        "text": "Staffel  | Mo. 05.10.2020, 18:40 Uhr",
+        "type": "film",
+        "url": "/filme/reiseziel-woanders-18646",
+        "videoId": 3167200
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

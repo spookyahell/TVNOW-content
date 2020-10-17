@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18861",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18861,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/jumanji-18861"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Jumanji",
+          "teaserId": "film_3429792",
+          "teaserName": "Jumanji | Jumanji",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Abenteuer",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Jumanji",
+        "id": 3429792,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429792/300x0/jumanji.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429792/",
+            "filename": "jumanji"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429792/600x0/jumanji.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429792/",
+            "filename": "jumanji"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429792/1200x0/jumanji.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429792/",
+            "filename": "jumanji"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429792/300x0/jumanji.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429792/",
+            "filename": "jumanji"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429792/600x0/jumanji.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429792/",
+            "filename": "jumanji"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3429792/1200x0/jumanji.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3429792/",
+            "filename": "jumanji"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "jumanji",
+        "subheadline": "Jumanji",
+        "text": "Staffel  | Do. 01.10.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/jumanji-18861",
+        "videoId": 3429792
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

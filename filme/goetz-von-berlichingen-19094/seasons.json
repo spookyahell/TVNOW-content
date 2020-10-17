@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19094",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19094,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/goetz-von-berlichingen-19094"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Götz von Berlichingen",
+          "teaserId": "film_3420397",
+          "teaserName": "Götz von Berlichingen | Götz von Berlichingen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [
+            "FILME Abenteuer"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Götz von Berlichingen",
+        "id": 3420397,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3420397/300x0/goetz-von-berlichingen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3420397/",
+            "filename": "goetz-von-berlichingen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3420397/600x0/goetz-von-berlichingen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3420397/",
+            "filename": "goetz-von-berlichingen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3420397/1200x0/goetz-von-berlichingen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3420397/",
+            "filename": "goetz-von-berlichingen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3420397/300x0/goetz-von-berlichingen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3420397/",
+            "filename": "goetz-von-berlichingen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3420397/600x0/goetz-von-berlichingen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3420397/",
+            "filename": "goetz-von-berlichingen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3420397/1200x0/goetz-von-berlichingen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3420397/",
+            "filename": "goetz-von-berlichingen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "goetz-von-berlichingen",
+        "subheadline": "Götz von Berlichingen",
+        "text": "Staffel  | Do. 08.10.2020, 16:05 Uhr",
+        "type": "film",
+        "url": "/filme/goetz-von-berlichingen-19094",
+        "videoId": 3420397
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

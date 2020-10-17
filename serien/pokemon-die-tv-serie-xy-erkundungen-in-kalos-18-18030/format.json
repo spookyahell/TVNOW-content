@@ -1,0 +1,218 @@
+﻿{
+  "formatId": 18030,
+  "additionalMeta": {
+    "canonical": "/serien/pokemon-die-tv-serie-xy-erkundungen-in-kalos-18-18030",
+    "url": "/serien/pokemon-die-tv-serie-xy-erkundungen-in-kalos-18-18030"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Pokémon - Die TV-Serie: XY - Erkundungen in Kalos / 18",
+      "url": "/serien/pokemon-die-tv-serie-xy-erkundungen-in-kalos-18-18030"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 18030,
+  "meta": [
+    {
+      "content": "Die Serie Pokémon - Die TV-Serie: XY - Erkundungen in Kalos / 18 (TOGGO plus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei TVNOW anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Pokémon - Die TV-Serie: XY - Erkundungen in Kalos / 18 im Online Stream ansehen | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Pokémon - Die TV-Serie: XY - Erkundungen in Kalos / 18 (TOGGO plus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei TVNOW anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/18030",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/18030",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/18030",
+      "type": "teaserrow"
+    },
+    {
+      "id": 13254,
+      "label": "Ähnliche Formate",
+      "moduleLayout": "landscape_small",
+      "moduleUrl": "/module/teaserrow/manual/13254",
+      "type": "teaserrow"
+    },
+    {
+      "id": 18030,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/18030",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tpnpokemon",
+      "video": "dvrsowf_ten_tpnpokemon",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/pokemon/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "pokemon",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "DE"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/pokemon-die-tv-serie-xy-erkundungen-in-kalos-18-18030",
+        "url": "%s/serien/pokemon-die-tv-serie-xy-erkundungen-in-kalos-18-18030",
+        "name": "Pokémon - Die TV-Serie: XY - Erkundungen in Kalos / 18",
+        "description": "Die Serie Pokémon - Die TV-Serie: XY - Erkundungen in Kalos / 18 (TOGGO plus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei TVNOW anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/18030_04metalogo/1200x0/pokemon-die-tv-serie-xy-erkundungen-in-kalos-18.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "",
+        "headline": "",
+        "description": "Die Serie Pokémon - Die TV-Serie: XY - Erkundungen in Kalos / 18 (TOGGO plus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei TVNOW anschauen.",
+        "url": "%s/serien/pokemon-die-tv-serie-xy-erkundungen-in-kalos-18-18030",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/18030_04metalogo/1200x0/pokemon-die-tv-serie-xy-erkundungen-in-kalos-18.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/18030_04metalogo/1200x0/pokemon-die-tv-serie-xy-erkundungen-in-kalos-18.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/18030_04metalogo/1200x0/pokemon-die-tv-serie-xy-erkundungen-in-kalos-18.png",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pokémon - Die TV-Serie: XY - Erkundungen in Kalos / 18",
+            "item": "%s/serien/pokemon-die-tv-serie-xy-erkundungen-in-kalos-18-18030"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Pokémon - Die TV-Serie: XY - Erkundungen in Kalos / 18 im Online Stream ansehen | TVNOW",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

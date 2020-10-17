@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18922",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18922,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/jack-reacher-18922"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Jack Reacher",
+          "teaserId": "film_3335687",
+          "teaserName": "Jack Reacher | Jack Reacher",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Jack Reacher",
+        "id": 3335687,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3335687/300x0/jack-reacher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3335687/",
+            "filename": "jack-reacher"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3335687/600x0/jack-reacher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3335687/",
+            "filename": "jack-reacher"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3335687/1200x0/jack-reacher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3335687/",
+            "filename": "jack-reacher"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3335687/300x0/jack-reacher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3335687/",
+            "filename": "jack-reacher"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3335687/600x0/jack-reacher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3335687/",
+            "filename": "jack-reacher"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3335687/1200x0/jack-reacher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3335687/",
+            "filename": "jack-reacher"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "jack-reacher",
+        "subheadline": "Jack Reacher",
+        "text": "Staffel  | Do. 20.08.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/jack-reacher-18922",
+        "videoId": 3335687
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

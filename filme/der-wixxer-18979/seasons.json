@@ -1,0 +1,103 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18979",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18979,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/der-wixxer-18979"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Wixxer",
+          "teaserId": "film_3325031",
+          "teaserName": "Der Wixxer | Der WiXXer",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der WiXXer",
+        "id": 3325031,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325031/300x0/der-wixxer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325031/",
+            "filename": "der-wixxer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325031/600x0/der-wixxer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325031/",
+            "filename": "der-wixxer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325031/1200x0/der-wixxer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325031/",
+            "filename": "der-wixxer"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325031/300x0/der-wixxer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325031/",
+            "filename": "der-wixxer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325031/600x0/der-wixxer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325031/",
+            "filename": "der-wixxer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3325031/1200x0/der-wixxer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3325031/",
+            "filename": "der-wixxer"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-wixxer",
+        "subheadline": "Der WiXXer",
+        "text": "Staffel  | TVNOW",
+        "type": "film",
+        "url": "/filme/der-wixxer-18979",
+        "videoId": 3325031
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

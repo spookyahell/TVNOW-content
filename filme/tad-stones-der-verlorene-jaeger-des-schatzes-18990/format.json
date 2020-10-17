@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 18990,
+  "additionalMeta": {
+    "canonical": "/filme/tad-stones-der-verlorene-jaeger-des-schatzes-18990",
+    "url": "/filme/tad-stones-der-verlorene-jaeger-des-schatzes-18990"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Tad Stones - Der verlorene Jäger des Schatzes",
+      "url": "/filme/tad-stones-der-verlorene-jaeger-des-schatzes-18990"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18990,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Tad Stones - Der verlorene Jäger des Schatzes 📺 und viele weitere ▶️ Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Tad Stones - Der verlorene Jäger des Schatzes im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Tad Stones - Der verlorene Jäger des Schatzes 📺 und viele weitere ▶️ Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3318733,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3318733",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18990"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Abenteuer",
+    "cluster": [
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Tad Stones - Der verlorene Jäger des Schatzes",
+    "text": "Bauarbeiter Tad Stones sehnt sich nach einem richtigen Abenteuer. Am liebsten wäre er ein Archäologe, der wertvolle Kunstgegenstände vor windigen Grabräubern und Hehlern in Sicherheit bringt. Eines Tages wird Tads Traum wahr.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/tad-stones-der-verlorene-jaeger-des-schatzes-18990",
+        "@type": "Movie",
+        "description": "Bauarbeiter Tad Stones sehnt sich nach einem richtigen Abenteuer. Am liebsten wäre er ein Archäologe, der wertvolle Kunstgegenstände vor windigen Grabräubern und Hehlern in Sicherheit bringt. Eines Tages wird Tads Traum wahr.",
+        "duration": "PT1H27M48S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3318733/950x0/tad-stones-der-verlorene-jaeger-des-schatzes.jpg",
+        "name": "Tad Stones - Der verlorene Jäger des Schatzes",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/tad-stones-der-verlorene-jaeger-des-schatzes-18990",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-06-22T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=tad-stones-der-verlorene-jaeger-des-schatzes-18990",
+              "sameAs": "%s/premium?typ=format&formatname=tad-stones-der-verlorene-jaeger-des-schatzes-18990",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/tad-stones-der-verlorene-jaeger-des-schatzes-18990",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Bauarbeiter Tad Stones sehnt sich nach einem richtigen Abenteuer. Am liebsten wäre er ein Archäologe, der wertvolle Kunstgegenstände vor windigen Grabräubern und Hehlern in Sicherheit bringt. Eines Tages wird Tads Traum wahr.",
+          "duration": "PT1H27M48S",
+          "embedUrl": "%s/googlebot/player/filme/tad-stones-der-verlorene-jaeger-des-schatzes-18990",
+          "name": "Tad Stones - Der verlorene Jäger des Schatzes",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3318733/950x0/tad-stones-der-verlorene-jaeger-des-schatzes.jpg",
+          "uploadDate": "2020-06-22T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Tad Stones - Der verlorene Jäger des Schatzes im Online Stream | TVNOW",
+        "headline": "Tad Stones - Der verlorene Jäger des Schatzes im Online Stream | TVNOW",
+        "description": "Tad Stones - Der verlorene Jäger des Schatzes und viele weitere  ▶️Filme aus dem Genre Abenteuer findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/tad-stones-der-verlorene-jaeger-des-schatzes-18990",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3318733/950x0/tad-stones-der-verlorene-jaeger-des-schatzes.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3318733/950x0/tad-stones-der-verlorene-jaeger-des-schatzes.jpg",
+        "datePublished": "2020-06-22T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3318733/950x0/tad-stones-der-verlorene-jaeger-des-schatzes.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tad Stones - Der verlorene Jäger des Schatzes",
+            "item": "%s/filme/tad-stones-der-verlorene-jaeger-des-schatzes-18990"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Tad Stones - Der verlorene Jäger des Schatzes im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

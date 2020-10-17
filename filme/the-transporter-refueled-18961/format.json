@@ -1,0 +1,227 @@
+﻿{
+  "formatId": 18961,
+  "additionalMeta": {
+    "canonical": "/filme/the-transporter-refueled-18961",
+    "url": "/filme/the-transporter-refueled-18961"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "The Transporter Refueled",
+      "url": "/filme/the-transporter-refueled-18961"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18961,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ The Transporter Refueled 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "The Transporter Refueled im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ The Transporter Refueled 📺 und viele weitere ▶️ Filme aus dem Genre Action findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3327761,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3327761",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18961"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_action/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_action",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Action",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "The Transporter Refueled - Informationen zum Film",
+    "text": "Kurier-Fahrer Frank Martin wird von der geheimnisvollen Anna für einen Auftrag angeheuert. Frank ahnt nicht, dass dieser Job sein bisher gefährlichster wird! Denn Anna und ihre drei Freundinnen wollen Rache an der Mafia: Die Frauen wurden mit falschen Versprechen nach Frankreich gelockt und in die Prostitution gezwungen. Als Frank das Ausmaß der heiklen Mission erkennt, ziehen die Frauen eine Trumpfkarte, um ihn bei der Stange zu halten.",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/the-transporter-refueled-18961",
+        "@type": "Movie",
+        "description": "Kurier-Fahrer Frank Martin wird von der geheimnisvollen Anna für einen Auftrag angeheuert. Frank ahnt nicht, dass dieser Job sein bisher gefährlichster wird! Denn Anna und ihre drei Freundinnen wollen Rache an der Mafia: Die Frauen wurden mit falschen Versprechen nach Frankreich gelockt und in die Prostitution gezwungen. Als Frank das Ausmaß der heiklen Mission erkennt, ziehen die Frauen eine Trumpfkarte, um ihn bei der Stange zu halten.",
+        "duration": "PT1H32M24S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3327761/950x0/the-transporter-refueled.jpg",
+        "name": "The Transporter Refueled",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/the-transporter-refueled-18961",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-08-20T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=the-transporter-refueled-18961",
+              "sameAs": "%s/premium?typ=format&formatname=the-transporter-refueled-18961",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/the-transporter-refueled-18961",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Kurier-Fahrer Frank Martin wird von der geheimnisvollen Anna für einen Auftrag angeheuert. Frank ahnt nicht, dass dieser Job sein bisher gefährlichster wird! Denn Anna und ihre drei Freundinnen wollen Rache an der Mafia: Die Frauen wurden mit falschen Versprechen nach Frankreich gelockt und in die Prostitution gezwungen. Als Frank das Ausmaß der heiklen Mission erkennt, ziehen die Frauen eine Trumpfkarte, um ihn bei der Stange zu halten.",
+          "duration": "PT1H32M24S",
+          "embedUrl": "%s/googlebot/player/filme/the-transporter-refueled-18961",
+          "name": "The Transporter Refueled",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3327761/950x0/the-transporter-refueled.jpg",
+          "uploadDate": "2020-08-20T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "The Transporter Refueled im Online Stream | TVNOW",
+        "headline": "The Transporter Refueled im Online Stream | TVNOW",
+        "description": "The Transporter Refueled und viele weitere  ▶️Filme aus dem Genre Action findest du im Online Stream bei TVNOW. Ein Film mit ▶️Ed Skrein, Ray Stevenson, Loan Chabanol, Gabriella Wright, Tatiana Pajkovic, Wenxia Yu, Rasha Bukvic, Noémie Lenoir.",
+        "url": "%s/filme/the-transporter-refueled-18961",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3327761/950x0/the-transporter-refueled.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3327761/950x0/the-transporter-refueled.jpg",
+        "datePublished": "2020-08-20T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3327761/950x0/the-transporter-refueled.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The Transporter Refueled",
+            "item": "%s/filme/the-transporter-refueled-18961"
+          }
+        ]
+      }
+    }
+  },
+  "title": "The Transporter Refueled im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

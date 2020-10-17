@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 19076,
+  "additionalMeta": {
+    "canonical": "/filme/keinen-haben-wir-gerner-happy-birthday-wolfgang-bahro-19076",
+    "url": "/filme/keinen-haben-wir-gerner-happy-birthday-wolfgang-bahro-19076"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "TVNOW",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Keinen haben wir Gerner!  - Happy Birthday Wolfgang Bahro",
+      "url": "/filme/keinen-haben-wir-gerner-happy-birthday-wolfgang-bahro-19076"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19076,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶️ Keinen haben wir Gerner!  - Happy Birthday Wolfgang Bahro 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Keinen haben wir Gerner!  - Happy Birthday Wolfgang Bahro im Online Stream | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶️ Keinen haben wir Gerner!  - Happy Birthday Wolfgang Bahro 📺 und viele weitere ▶️ Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+      "property": "og:description"
+    },
+    {
+      "content": "TVNOW Mediathek",
+      "property": "og:site_name"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3403995,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/module/player/3403995",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19076"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tndokubio",
+      "video": "dvrsowf_ten_tndokubio",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/tvnow_doku_bio/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "tvnow_doku_bio",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Promis",
+      "Biographie"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Keinen haben wir Gerner!  - Happy Birthday Wolfgang Bahro - Informationen zum Film",
+    "text": "Er spielt das vermutlich gewiefteste und gleichzeitig beliebteste Schlitzohr im deutschen Fernsehen: Wolfgang Bahro. Seit 1993 verkörpert er in der RTL-Serie \"Gute Zeiten, schlechte Zeiten\" den intriganten Rechtsanwalt Jo Gerner. Am 18. September feiert Bahro seinen 60. Geburtstag. TVNOW lässt den Jubilar mit einer Dokumentation hochleben. Titel: \"Keinen haben wir Gerner!  - Happy Birthday Wolfgang Bahro\".",
+    "jsonLd": {
+      "movie": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@id": "%s/filme/keinen-haben-wir-gerner-happy-birthday-wolfgang-bahro-19076",
+        "@type": "Movie",
+        "description": "Er spielt das vermutlich gewiefteste und gleichzeitig beliebteste Schlitzohr im deutschen Fernsehen: Wolfgang Bahro. Seit 1993 verkörpert er in der RTL-Serie \"Gute Zeiten, schlechte Zeiten\" den intriganten Rechtsanwalt Jo Gerner. Am 18. September feiert Bahro seinen 60. Geburtstag. TVNOW lässt den Jubilar mit einer Dokumentation hochleben. Titel: \"Keinen haben wir Gerner!  - Happy Birthday Wolfgang Bahro\".",
+        "duration": "PT45M35S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3403995/950x0/keinen-haben-wir-gerner-happy-birthday-wolfgang-bahro.jpg",
+        "name": "Keinen haben wir Gerner!  - Happy Birthday Wolfgang Bahro",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/keinen-haben-wir-gerner-happy-birthday-wolfgang-bahro-19076",
+            "inLanguage": "de",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-09-18T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=keinen-haben-wir-gerner-happy-birthday-wolfgang-bahro-19076",
+              "sameAs": "%s/premium?typ=format&formatname=keinen-haben-wir-gerner-happy-birthday-wolfgang-bahro-19076",
+              "name": "TVNOW Premium"
+            }
+          }
+        },
+        "url": "%s/filme/keinen-haben-wir-gerner-happy-birthday-wolfgang-bahro-19076",
+        "video": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "description": "Er spielt das vermutlich gewiefteste und gleichzeitig beliebteste Schlitzohr im deutschen Fernsehen: Wolfgang Bahro. Seit 1993 verkörpert er in der RTL-Serie \"Gute Zeiten, schlechte Zeiten\" den intriganten Rechtsanwalt Jo Gerner. Am 18. September feiert Bahro seinen 60. Geburtstag. TVNOW lässt den Jubilar mit einer Dokumentation hochleben. Titel: \"Keinen haben wir Gerner!  - Happy Birthday Wolfgang Bahro\".",
+          "duration": "PT45M35S",
+          "embedUrl": "%s/googlebot/player/filme/keinen-haben-wir-gerner-happy-birthday-wolfgang-bahro-19076",
+          "name": "Keinen haben wir Gerner!  - Happy Birthday Wolfgang Bahro",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3403995/950x0/keinen-haben-wir-gerner-happy-birthday-wolfgang-bahro.jpg",
+          "uploadDate": "2020-09-18T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Keinen haben wir Gerner!  - Happy Birthday Wolfgang Bahro im Online Stream | TVNOW",
+        "headline": "Keinen haben wir Gerner!  - Happy Birthday Wolfgang Bahro im Online Stream | TVNOW",
+        "description": "Keinen haben wir Gerner!  - Happy Birthday Wolfgang Bahro und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei TVNOW.",
+        "url": "%s/filme/keinen-haben-wir-gerner-happy-birthday-wolfgang-bahro-19076",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3403995/950x0/keinen-haben-wir-gerner-happy-birthday-wolfgang-bahro.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3403995/950x0/keinen-haben-wir-gerner-happy-birthday-wolfgang-bahro.jpg",
+        "datePublished": "2020-09-18T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3403995/950x0/keinen-haben-wir-gerner-happy-birthday-wolfgang-bahro.jpg",
+          "width": "950",
+          "height": "534"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TVNOW",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://de-de.facebook.com/TVNOW.de/",
+            "https://twitter.com/tvnow",
+            "https://www.youtube.com/channel/UC58J5mgyNYw1IS947I73qMw",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/tvnow.de/"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "TVNOW",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Keinen haben wir Gerner!  - Happy Birthday Wolfgang Bahro",
+            "item": "%s/filme/keinen-haben-wir-gerner-happy-birthday-wolfgang-bahro-19076"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Keinen haben wir Gerner!  - Happy Birthday Wolfgang Bahro im Online Stream | TVNOW",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,109 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18790",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18790,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt ansehen",
+            "type": "play",
+            "url": "/filme/puenktchen-und-anton-18790"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Pünktchen und Anton",
+          "teaserId": "film_3265838",
+          "teaserName": "Pünktchen und Anton | Pünktchen und Anton",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 10 bis Teens",
+            "KIDS 3 bis 6 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": []
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Pünktchen und Anton",
+        "id": 3265838,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3265838/300x0/puenktchen-und-anton.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3265838/",
+            "filename": "puenktchen-und-anton"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3265838/600x0/puenktchen-und-anton.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3265838/",
+            "filename": "puenktchen-und-anton"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3265838/1200x0/puenktchen-und-anton.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3265838/",
+            "filename": "puenktchen-und-anton"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3265838/300x0/puenktchen-und-anton.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3265838/",
+            "filename": "puenktchen-und-anton"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3265838/600x0/puenktchen-und-anton.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3265838/",
+            "filename": "puenktchen-und-anton"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3265838/1200x0/puenktchen-und-anton.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3265838/",
+            "filename": "puenktchen-und-anton"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "puenktchen-und-anton",
+        "subheadline": "Pünktchen und Anton",
+        "text": "Staffel  | Di. 30.06.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/puenktchen-und-anton-18790",
+        "videoId": 3265838
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]
