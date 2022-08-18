@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19298,
+  "additionalMeta": {
+    "canonical": "/filme/wer-ist-kate-moss-19298",
+    "url": "/filme/wer-ist-kate-moss-19298"
+  },
+  "ads": {
+    "station": "living",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Wer ist Kate Moss?",
+      "url": "/filme/wer-ist-kate-moss-19298"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19298,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Wer ist Kate Moss? 📺 und viele weitere ▶ Filme aus dem Genre Lifestyle findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Wer ist Kate Moss? im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Wer ist Kate Moss? 📺 und viele weitere ▶ Filme aus dem Genre Lifestyle findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/wer-ist-kate-moss-19298"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3966204/1600x0/wer-ist-kate-moss.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3966204,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3966204",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19298"
+    },
+    {
+      "id": 19298,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19298",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/living_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "living_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Lifestyle",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Wer ist Kate Moss?",
+    "text": "Kate Moss, das nur 1,69 Meter große Topmodel. Sie ist eine wahre Ikone, eine Muse der größten Designer, eine kluge Geschäftsfrau und selbst Designerin für Marken wie Longchamp, Topshop und Fred. Kate Moss hatte eine der längsten, erfolgreichsten und vielleicht turbulentesten Modelkarrieren und obwohl sie nie Interviews gibt, kennt sie jeder - ohne sie wirklich zu kennen. Wie hat sie das alles geschafft? Vor allem aber, wer ist sie wirklich?",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/wer-ist-kate-moss-19298",
+        "description": "Kate Moss, das nur 1,69 Meter große Topmodel. Sie ist eine wahre Ikone, eine Muse der größten Designer, eine kluge Geschäftsfrau und selbst Designerin für Marken wie Longchamp, Topshop und Fred. Kate Moss hatte eine der längsten, erfolgreichsten und vielleicht turbulentesten Modelkarrieren und obwohl sie nie Interviews gibt, kennt sie jeder - ohne sie wirklich zu kennen. Wie hat sie das alles geschafft? Vor allem aber, wer ist sie wirklich?",
+        "duration": "PT51M",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3966204/1200x0/wer-ist-kate-moss.jpg",
+        "name": "Wer ist Kate Moss?",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/wer-ist-kate-moss-19298",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-02-02T21:10:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=wer-ist-kate-moss-19298",
+              "sameAs": "%s/premium?typ=format&formatname=wer-ist-kate-moss-19298",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/wer-ist-kate-moss-19298",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Kate Moss, das nur 1,69 Meter große Topmodel. Sie ist eine wahre Ikone, eine Muse der größten Designer, eine kluge Geschäftsfrau und selbst Designerin für Marken wie Longchamp, Topshop und Fred. Kate Moss hatte eine der längsten, erfolgreichsten und vielleicht turbulentesten Modelkarrieren und obwohl sie nie Interviews gibt, kennt sie jeder - ohne sie wirklich zu kennen. Wie hat sie das alles geschafft? Vor allem aber, wer ist sie wirklich?",
+          "duration": "PT51M",
+          "embedUrl": "%s/googlebot/player/filme/wer-ist-kate-moss-19298",
+          "name": "Wer ist Kate Moss?",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3966204/1200x0/wer-ist-kate-moss.jpg",
+          "uploadDate": "2022-02-02T21:10:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Wer ist Kate Moss? im Online Stream | RTL+",
+        "headline": "Wer ist Kate Moss? im Online Stream | RTL+",
+        "description": "Wer ist Kate Moss? und viele weitere  ▶️Filme aus dem Genre Lifestyle findest du im Online Stream bei RTL+. Ein Film mit ▶️Gerhart Hinze, Martin Lohmann, Achim Buch, Tetje Mierendorf, Volker Hanisch, Simona Pahl, Verena Wolfien, Susanne Sternberg, Christian Stark.",
+        "url": "%s/filme/wer-ist-kate-moss-19298",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3966204/1200x0/wer-ist-kate-moss.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3966204/1200x0/wer-ist-kate-moss.jpg",
+        "datePublished": "2022-02-02T21:10:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3966204/1200x0/wer-ist-kate-moss.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wer ist Kate Moss?",
+            "item": "%s/filme/wer-ist-kate-moss-19298"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Wer ist Kate Moss? im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

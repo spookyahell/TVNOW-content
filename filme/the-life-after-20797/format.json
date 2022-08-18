@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20797,
+  "additionalMeta": {
+    "canonical": "/filme/the-life-after-20797",
+    "url": "/filme/the-life-after-20797"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "The Life After",
+      "url": "/filme/the-life-after-20797"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20797,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ The Life After 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "The Life After im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ The Life After 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/the-life-after-20797"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4872818/1600x0/the-life-after.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4872818,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4872818",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20797"
+    },
+    {
+      "id": 20797,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20797",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_drama/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_drama",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": [
+      "Exclusive"
+    ]
+  },
+  "seo": {
+    "headline": "The Life After / The Fallout: Der Film im Stream",
+    "text": "<p>The Life After (Originaltitel: The Fallout) ist ein Film von Megan Park, der im M&auml;rz 2021 seine Premiere feierte. Es ist ein aufw&uuml;hlendes und mitrei&szlig;endes Drama, das von der ersten bis zur letzten Minute in seinen Bann zieht.</p> <p>Zum Inhalt: Die Sch&uuml;lerinnen und Sch&uuml;ler Vada, Mia und Quinton sind sechs Minuten lang einem wahren Horror ausgesetzt: Ein Amoklauf an ihrer Schule ersch&uuml;ttert ihr ganzes Leben und st&ouml;&szlig;t sie in eine tiefe Krise. Vor allem Quinton k&auml;mpft mit seiner Trauer, nachdem er bei der Schie&szlig;erei seinen Bruder verloren hat. Mia kann das Haus nicht mehr verlassen und findet keine Ruhe mehr. Und auch in Vadas Welt erscheint nichts mehr so, wie es war...</p>",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/the-life-after-20797",
+        "description": "Sechs Minuten Terror während eines Amoklaufs an ihrer Schule erschüttern das Leben der Schüler:innen Vada, Mia und Quinton. Sie alle sind stark traumatisiert und können kaum in ihren Alltag zurückkehren. Quinton hat bei der Schießerei seinen Bruder verloren. Mia kann weder das Haus verlassen, noch kann sie Schlaf finden und auch für Vada erscheint nichts mehr, wie es war...",
+        "duration": "PT1H32M22S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4872818/1200x0/the-life-after.jpg",
+        "name": "The Life After",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/the-life-after-20797",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-08-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=the-life-after-20797",
+              "sameAs": "%s/premium?typ=format&formatname=the-life-after-20797",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/the-life-after-20797",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Sechs Minuten Terror während eines Amoklaufs an ihrer Schule erschüttern das Leben der Schüler:innen Vada, Mia und Quinton. Sie alle sind stark traumatisiert und können kaum in ihren Alltag zurückkehren. Quinton hat bei der Schießerei seinen Bruder verloren. Mia kann weder das Haus verlassen, noch kann sie Schlaf finden und auch für Vada erscheint nichts mehr, wie es war...",
+          "duration": "PT1H32M22S",
+          "embedUrl": "%s/googlebot/player/filme/the-life-after-20797",
+          "name": "The Life After",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4872818/1200x0/the-life-after.jpg",
+          "uploadDate": "2022-08-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "The Life After im Online Stream | RTL+",
+        "headline": "The Life After im Online Stream | RTL+",
+        "description": "The Life After und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+. Ein Film mit ▶️Jenna Ortega, Maddie Ziegler, Niles Fitch, Will Ropp, Lumi Pollack, John Ortiz.",
+        "url": "%s/filme/the-life-after-20797",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4872818/1200x0/the-life-after.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4872818/1200x0/the-life-after.jpg",
+        "datePublished": "2022-08-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4872818/1200x0/the-life-after.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The Life After",
+            "item": "%s/filme/the-life-after-20797"
+          }
+        ]
+      }
+    }
+  },
+  "title": "The Life After im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 19629,
+  "additionalMeta": {
+    "canonical": "/filme/jung-laut-politisch-aktiv-generation-greta-19629",
+    "url": "/filme/jung-laut-politisch-aktiv-generation-greta-19629"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Jung, laut, politisch aktiv - Generation Greta",
+      "url": "/filme/jung-laut-politisch-aktiv-generation-greta-19629"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 19629,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Jung, laut, politisch aktiv - Generation Greta 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Jung, laut, politisch aktiv - Generation Greta im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Jung, laut, politisch aktiv - Generation Greta 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/jung-laut-politisch-aktiv-generation-greta-19629"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3968067/1600x0/jung-laut-politisch-aktiv-generation-greta.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3968067,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3968067",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19629"
+    },
+    {
+      "id": 19629,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19629",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Jung, laut, politisch aktiv - Generation Greta",
+    "text": "Die jungen Anhänger der Bewegung \"Fridays for Future\" sind laut, demonstrieren auf den Straßen für ihre Anliegen und stellen Forderungen an die Politik. Viele von ihnen waren zu Beginn der Bewegung 2018 das erste Mal auf einer Demo - lässt sich daran auch ein Trend ablesen? Werden Jugendliche politischer? Die Doku geht diesen Fragen auf den Grund, lässt dabei Aktivisten selbst zu Wort kommen und spricht auch mit jungen Mitgliedern der Parteien.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/jung-laut-politisch-aktiv-generation-greta-19629",
+        "description": "Die jungen Anhänger der Bewegung \"Fridays for Future\" sind laut, demonstrieren auf den Straßen für ihre Anliegen und stellen Forderungen an die Politik. Viele von ihnen waren zu Beginn der Bewegung 2018 das erste Mal auf einer Demo - lässt sich daran auch ein Trend ablesen? Werden Jugendliche politischer? Die Doku geht diesen Fragen auf den Grund, lässt dabei Aktivisten selbst zu Wort kommen und spricht auch mit jungen Mitgliedern der Parteien.",
+        "duration": "PT41M20S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3968067/1200x0/jung-laut-politisch-aktiv-generation-greta.jpg",
+        "name": "Jung, laut, politisch aktiv - Generation Greta",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/jung-laut-politisch-aktiv-generation-greta-19629",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2021-11-02T00:55:00.000Z"
+          }
+        },
+        "url": "%s/filme/jung-laut-politisch-aktiv-generation-greta-19629",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die jungen Anhänger der Bewegung \"Fridays for Future\" sind laut, demonstrieren auf den Straßen für ihre Anliegen und stellen Forderungen an die Politik. Viele von ihnen waren zu Beginn der Bewegung 2018 das erste Mal auf einer Demo - lässt sich daran auch ein Trend ablesen? Werden Jugendliche politischer? Die Doku geht diesen Fragen auf den Grund, lässt dabei Aktivisten selbst zu Wort kommen und spricht auch mit jungen Mitgliedern der Parteien.",
+          "duration": "PT41M20S",
+          "embedUrl": "%s/googlebot/player/filme/jung-laut-politisch-aktiv-generation-greta-19629",
+          "name": "Jung, laut, politisch aktiv - Generation Greta",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3968067/1200x0/jung-laut-politisch-aktiv-generation-greta.jpg",
+          "uploadDate": "2021-11-02T00:55:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Jung, laut, politisch aktiv - Generation Greta im Online Stream | RTL+",
+        "headline": "Jung, laut, politisch aktiv - Generation Greta im Online Stream | RTL+",
+        "description": "Jung, laut, politisch aktiv - Generation Greta und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/jung-laut-politisch-aktiv-generation-greta-19629",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3968067/1200x0/jung-laut-politisch-aktiv-generation-greta.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3968067/1200x0/jung-laut-politisch-aktiv-generation-greta.jpg",
+        "datePublished": "2021-11-02T00:55:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3968067/1200x0/jung-laut-politisch-aktiv-generation-greta.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Jung, laut, politisch aktiv - Generation Greta",
+            "item": "%s/filme/jung-laut-politisch-aktiv-generation-greta-19629"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Jung, laut, politisch aktiv - Generation Greta im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

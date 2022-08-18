@@ -1,1 +1,105 @@
-NONE
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17169",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17169,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/finding-vivian-maier-ein-leben-in-kisten-17169"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Finding Vivian Maier - Ein Leben in Kisten",
+          "teaserId": "film_3904205",
+          "teaserName": "Finding Vivian Maier - Ein Leben in Kisten | Finding Vivian Maier - Ein Leben in Kisten",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "Mi. 20.01.2021, 23:00 Uhr",
+          "teaserEpisodeName": "Finding Vivian Maier - Ein Leben in Kisten"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Finding Vivian Maier - Ein Leben in Kisten",
+        "id": 3904205,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3904205/300x0/finding-vivian-maier-ein-leben-in-kisten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3904205/",
+            "filename": "finding-vivian-maier-ein-leben-in-kisten"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3904205/600x0/finding-vivian-maier-ein-leben-in-kisten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3904205/",
+            "filename": "finding-vivian-maier-ein-leben-in-kisten"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3904205/1200x0/finding-vivian-maier-ein-leben-in-kisten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3904205/",
+            "filename": "finding-vivian-maier-ein-leben-in-kisten"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3904205/300x0/finding-vivian-maier-ein-leben-in-kisten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3904205/",
+            "filename": "finding-vivian-maier-ein-leben-in-kisten"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3904205/600x0/finding-vivian-maier-ein-leben-in-kisten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3904205/",
+            "filename": "finding-vivian-maier-ein-leben-in-kisten"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3904205/1200x0/finding-vivian-maier-ein-leben-in-kisten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3904205/",
+            "filename": "finding-vivian-maier-ein-leben-in-kisten"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "finding-vivian-maier-ein-leben-in-kisten",
+        "subheadline": "Finding Vivian Maier - Ein Leben in Kisten",
+        "text": "Staffel  | Mi. 20.01.2021, 23:00 Uhr",
+        "type": "film",
+        "url": "/filme/finding-vivian-maier-ein-leben-in-kisten-17169",
+        "videoId": 3904205
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

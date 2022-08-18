@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20090,
+  "additionalMeta": {
+    "canonical": "/filme/plattfuss-in-afrika-20090",
+    "url": "/filme/plattfuss-in-afrika-20090"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Plattfuß in Afrika",
+      "url": "/filme/plattfuss-in-afrika-20090"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20090,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Plattfuß in Afrika 📺 und viele weitere ▶ Filme aus dem Genre Action findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Plattfuß in Afrika im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Plattfuß in Afrika 📺 und viele weitere ▶ Filme aus dem Genre Action findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/plattfuss-in-afrika-20090"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4219743/1600x0/plattfuss-in-afrika.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4219743,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4219743",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20090"
+    },
+    {
+      "id": 20090,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20090",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_abenteuer/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_abenteuer",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Action",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Plattfuß in Afrika - Informationen zum Film",
+    "text": "Kommissar Rizzo weiß, dass Neapel ein Umschlagplatz international operierender Syndikate ist. Als er mit einem Unbekannten verabredet ist, wird der heimtückisch ermordet. Am Tatort findet der Kommissar einen Hinweis, der ihn nach Südafrika führt. Inkognito reist Rizzo nach Johannesburg, wo er mithilfe \"schlagkräftiger\" Argumente erfährt, dass der Ermordete ein Polizist war, der sich auf die Bekämpfung des Diamantenschmuggels spezialisiert hatte.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/plattfuss-in-afrika-20090",
+        "description": "Kommissar Rizzo weiß, dass Neapel ein Umschlagplatz international operierender Syndikate ist. Als er mit einem Unbekannten verabredet ist, wird der heimtückisch ermordet. Am Tatort findet der Kommissar einen Hinweis, der ihn nach Südafrika führt. Inkognito reist Rizzo nach Johannesburg, wo er mithilfe \"schlagkräftiger\" Argumente erfährt, dass der Ermordete ein Polizist war, der sich auf die Bekämpfung des Diamantenschmuggels spezialisiert hatte.",
+        "duration": "PT1H34M38S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4219743/1200x0/plattfuss-in-afrika.jpg",
+        "name": "Plattfuß in Afrika",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/plattfuss-in-afrika-20090",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=plattfuss-in-afrika-20090",
+              "sameAs": "%s/premium?typ=format&formatname=plattfuss-in-afrika-20090",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/plattfuss-in-afrika-20090",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Kommissar Rizzo weiß, dass Neapel ein Umschlagplatz international operierender Syndikate ist. Als er mit einem Unbekannten verabredet ist, wird der heimtückisch ermordet. Am Tatort findet der Kommissar einen Hinweis, der ihn nach Südafrika führt. Inkognito reist Rizzo nach Johannesburg, wo er mithilfe \"schlagkräftiger\" Argumente erfährt, dass der Ermordete ein Polizist war, der sich auf die Bekämpfung des Diamantenschmuggels spezialisiert hatte.",
+          "duration": "PT1H34M38S",
+          "embedUrl": "%s/googlebot/player/filme/plattfuss-in-afrika-20090",
+          "name": "Plattfuß in Afrika",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4219743/1200x0/plattfuss-in-afrika.jpg",
+          "uploadDate": "2022-07-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Plattfuß in Afrika im Online Stream | RTL+",
+        "headline": "Plattfuß in Afrika im Online Stream | RTL+",
+        "description": "Plattfuß in Afrika und viele weitere  ▶️Filme aus dem Genre Action findest du im Online Stream bei RTL+. Ein Film mit ▶️Enzo Cannavale, Dagmar Lassander, Werner Pochath, Bud Spencer, Joe Stewardson, Carel Trichardt, Enzo Maggio, Desmond Thompson, Al Thomas, Percy Hogan, Carlo Reali, Antonio Allocca, Giovanni Cianfriglia, Ottaviano Dell'Acqua, Sergio Smacchi, Claudio Ruffini.",
+        "url": "%s/filme/plattfuss-in-afrika-20090",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4219743/1200x0/plattfuss-in-afrika.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4219743/1200x0/plattfuss-in-afrika.jpg",
+        "datePublished": "2022-07-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4219743/1200x0/plattfuss-in-afrika.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Plattfuß in Afrika",
+            "item": "%s/filme/plattfuss-in-afrika-20090"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Plattfuß in Afrika im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

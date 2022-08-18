@@ -1,0 +1,240 @@
+﻿{
+  "formatId": 19067,
+  "additionalMeta": {
+    "canonical": "/filme/aufregung-im-hafen-von-chuggington-19067",
+    "url": "/filme/aufregung-im-hafen-von-chuggington-19067"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Aufregung im Hafen von Chuggington",
+      "url": "/filme/aufregung-im-hafen-von-chuggington-19067"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19067,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Aufregung im Hafen von Chuggington 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Aufregung im Hafen von Chuggington im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Aufregung im Hafen von Chuggington 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/aufregung-im-hafen-von-chuggington-19067"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3353429/1600x0/aufregung-im-hafen-von-chuggington.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3353429,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3353429",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19067"
+    },
+    {
+      "id": 19067,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19067",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 3 bis 6 Jahre",
+      "KIDS Jungs",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Aufregung im  Hafen von Chuggington",
+    "text": "Koko darf David heute bei der Expresslieferung helfen. Doch weil sie viel zu schnell unterwegs ist, geht ihre erste Auslieferung eines roten Containers schief. Und dann geht auch noch der Kran beim Beladen des Schiffes kaputt. ",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/aufregung-im-hafen-von-chuggington-19067",
+        "description": "Koko darf David heute bei der Expresslieferung helfen. Doch weil sie viel zu schnell unterwegs ist, geht ihre erste Auslieferung eines roten Containers schief. Und dann geht auch noch der Kran beim Beladen des Schiffes kaputt. ",
+        "duration": "PT23M34S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3353429/1200x0/aufregung-im-hafen-von-chuggington.jpg",
+        "name": "Aufregung im Hafen von Chuggington",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/aufregung-im-hafen-von-chuggington-19067",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-12-11T05:05:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=aufregung-im-hafen-von-chuggington-19067",
+              "sameAs": "%s/premium?typ=format&formatname=aufregung-im-hafen-von-chuggington-19067",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/aufregung-im-hafen-von-chuggington-19067",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Koko darf David heute bei der Expresslieferung helfen. Doch weil sie viel zu schnell unterwegs ist, geht ihre erste Auslieferung eines roten Containers schief. Und dann geht auch noch der Kran beim Beladen des Schiffes kaputt. ",
+          "duration": "PT23M34S",
+          "embedUrl": "%s/googlebot/player/filme/aufregung-im-hafen-von-chuggington-19067",
+          "name": "Aufregung im Hafen von Chuggington",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3353429/1200x0/aufregung-im-hafen-von-chuggington.jpg",
+          "uploadDate": "2020-12-11T05:05:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Aufregung im Hafen von Chuggington im Online Stream | RTL+",
+        "headline": "Aufregung im Hafen von Chuggington im Online Stream | RTL+",
+        "description": "Aufregung im Hafen von Chuggington und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/aufregung-im-hafen-von-chuggington-19067",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3353429/1200x0/aufregung-im-hafen-von-chuggington.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3353429/1200x0/aufregung-im-hafen-von-chuggington.jpg",
+        "datePublished": "2020-12-11T05:05:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3353429/1200x0/aufregung-im-hafen-von-chuggington.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Aufregung im Hafen von Chuggington",
+            "item": "%s/filme/aufregung-im-hafen-von-chuggington-19067"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Aufregung im Hafen von Chuggington im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

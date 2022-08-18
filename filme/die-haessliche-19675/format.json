@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19675,
+  "additionalMeta": {
+    "canonical": "/filme/die-haessliche-19675",
+    "url": "/filme/die-haessliche-19675"
+  },
+  "ads": {
+    "station": "passion",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die Hässliche",
+      "url": "/filme/die-haessliche-19675"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19675,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Die Hässliche 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Hässliche im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Die Hässliche 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/die-haessliche-19675"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4108386/1600x0/haessliche-die.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4108386,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4108386",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19675"
+    },
+    {
+      "id": 19675,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19675",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/passion_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "passion_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Hässliche, Die",
+    "text": "Gegensätze ziehen sich an, doch bei Kai und Miriam knallt es erst einmal heftig. Noch ganz in Gedanken bei seinen nächtlichen Frauenabenteuern, rauscht der fesche Medizinstudent Kai auf den Wagen der Steuerberaterin Miriam. Bei der Schadensregulierung funkt es dann zwischen den beiden. Aber was will schon ein armer Student und Schürzenjäger mit einem Mauerblümchen aus reichem Hause?",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/haessliche-die-19675",
+        "description": "Gegensätze ziehen sich an, doch bei Kai und Miriam knallt es erst einmal heftig. Noch ganz in Gedanken bei seinen nächtlichen Frauenabenteuern, rauscht der fesche Medizinstudent Kai auf den Wagen der Steuerberaterin Miriam. Bei der Schadensregulierung funkt es dann zwischen den beiden. Aber was will schon ein armer Student und Schürzenjäger mit einem Mauerblümchen aus reichem Hause?",
+        "duration": "PT1H32M35S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4108386/1200x0/die-haessliche.jpg",
+        "name": "Die Hässliche",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/haessliche-die-19675",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-05-29T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=die-haessliche-19675",
+              "sameAs": "%s/premium?typ=format&formatname=die-haessliche-19675",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/haessliche-die-19675",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Gegensätze ziehen sich an, doch bei Kai und Miriam knallt es erst einmal heftig. Noch ganz in Gedanken bei seinen nächtlichen Frauenabenteuern, rauscht der fesche Medizinstudent Kai auf den Wagen der Steuerberaterin Miriam. Bei der Schadensregulierung funkt es dann zwischen den beiden. Aber was will schon ein armer Student und Schürzenjäger mit einem Mauerblümchen aus reichem Hause?",
+          "duration": "PT1H32M35S",
+          "embedUrl": "%s/googlebot/player/filme/haessliche-die-19675",
+          "name": "Die Hässliche",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4108386/1200x0/die-haessliche.jpg",
+          "uploadDate": "2021-05-29T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Hässliche im Online Stream | RTL+",
+        "headline": "Die Hässliche im Online Stream | RTL+",
+        "description": "Die Hässliche und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei RTL+. Ein Film mit ▶️Sebastian Ströbel, Cornelia Saborowski, Dietrich Hollinderbäumer, Anja Schiller, David Trovo, Hildegard Kuhlenberg, Ellen Ten Damme.",
+        "url": "%s/filme/haessliche-die-19675",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4108386/1200x0/die-haessliche.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4108386/1200x0/die-haessliche.jpg",
+        "datePublished": "2021-05-29T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4108386/1200x0/die-haessliche.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Hässliche",
+            "item": "%s/filme/die-haessliche-19675"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Hässliche im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

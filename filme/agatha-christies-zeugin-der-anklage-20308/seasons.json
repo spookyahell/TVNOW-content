@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20308",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20308,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/zeugin-der-anklage-20308"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Agatha Christie's: Zeugin der Anklage",
+          "teaserId": "film_4390705",
+          "teaserName": "Agatha Christie's: Zeugin der Anklage | Zeugin der Anklage",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Zeugin der Anklage"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Zeugin der Anklage",
+        "id": 4390705,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390705/300x0/zeugin-der-anklage.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390705/",
+            "filename": "zeugin-der-anklage"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390705/600x0/zeugin-der-anklage.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390705/",
+            "filename": "zeugin-der-anklage"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390705/1200x0/zeugin-der-anklage.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390705/",
+            "filename": "zeugin-der-anklage"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390705/300x0/zeugin-der-anklage.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390705/",
+            "filename": "zeugin-der-anklage"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390705/600x0/zeugin-der-anklage.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390705/",
+            "filename": "zeugin-der-anklage"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390705/1200x0/zeugin-der-anklage.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390705/",
+            "filename": "zeugin-der-anklage"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "agatha-christies-zeugin-der-anklage",
+        "subheadline": "Zeugin der Anklage",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/zeugin-der-anklage-20308",
+        "videoId": 4390705
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

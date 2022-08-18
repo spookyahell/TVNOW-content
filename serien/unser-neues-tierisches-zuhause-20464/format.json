@@ -1,0 +1,205 @@
+﻿{
+  "formatId": 20464,
+  "additionalMeta": {
+    "canonical": "/serien/unser-neues-tierisches-zuhause-20464",
+    "url": "/serien/unser-neues-tierisches-zuhause-20464"
+  },
+  "ads": {
+    "station": "rtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Unser neues tierisches Zuhause",
+      "url": "/serien/unser-neues-tierisches-zuhause-20464"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 20464,
+  "meta": [
+    {
+      "content": "Die Serie Unser neues tierisches Zuhause (RTL) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Tiere im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Unser neues tierisches Zuhause im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Unser neues tierisches Zuhause (RTL) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Tiere im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/unser-neues-tierisches-zuhause-20464"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/20464_03artwork/1600x0/unser-neues-tierisches-zuhause.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/20464",
+      "type": "teaserrow"
+    },
+    {
+      "id": 20464,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20464",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rnneuestierzuhause",
+      "video": "dvrsowf_ten_rnneuestierzuhause",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_now/formate/neues_tier_zuhause/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_now",
+        "formate",
+        "neues_tier_zuhause",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Tiere",
+    "cluster": [
+      "Promis",
+      "Tiere"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Unser neues tierisches Zuhause - Informationen zur Serie",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/unser-neues-tierisches-zuhause-20464",
+        "url": "%s/serien/unser-neues-tierisches-zuhause-20464",
+        "name": "Unser neues tierisches Zuhause",
+        "description": "Die Serie Unser neues tierisches Zuhause (RTL) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Tiere im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/20464_04metalogo/1200x0/unser-neues-tierisches-zuhause.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Unser neues tierisches Zuhause - Informationen zur Serie",
+        "headline": "Unser neues tierisches Zuhause - Informationen zur Serie",
+        "description": "Die Serie Unser neues tierisches Zuhause (RTL) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Tiere im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/unser-neues-tierisches-zuhause-20464",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/20464_04metalogo/1200x0/unser-neues-tierisches-zuhause.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/20464_04metalogo/1200x0/unser-neues-tierisches-zuhause.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/20464_04metalogo/1200x0/unser-neues-tierisches-zuhause.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Unser neues tierisches Zuhause",
+            "item": "%s/serien/unser-neues-tierisches-zuhause-20464"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Unser neues tierisches Zuhause im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

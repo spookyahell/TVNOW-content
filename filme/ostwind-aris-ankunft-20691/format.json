@@ -1,0 +1,240 @@
+﻿{
+  "formatId": 20691,
+  "additionalMeta": {
+    "canonical": "/filme/ostwind-aris-ankunft-20691",
+    "url": "/filme/ostwind-aris-ankunft-20691"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Ostwind - Aris Ankunft",
+      "url": "/filme/ostwind-aris-ankunft-20691"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20691,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Ostwind - Aris Ankunft 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Ostwind - Aris Ankunft im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Ostwind - Aris Ankunft 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/ostwind-aris-ankunft-20691"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4820686/1600x0/ostwind-aris-ankunft.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4820686,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4820686",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20691"
+    },
+    {
+      "id": 20691,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20691",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/kids_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "kids_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Mädchen",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Ostwind: Aris Ankunft - Alle Informationen zum Film",
+    "text": "Gut Kaltenbach steckt erneut in finanziellen Schwierigkeiten und droht, in fremde Hände zu fallen. Die ehrgeizige Isabell scheint Mikas Großmutter helfen zu wollen, verfolgt insgeheim jedoch eigene Ziele. Eines Tages bringt Fanny die eigensinnige Ari nach Kaltenbach. Die scheint Mikas Gabe zu teilen und sofort eine besondere Verbindung zu Ostwind zu haben. Gemeinsam versuchen sie, das Gut zu retten.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/ostwind-aris-ankunft-20691",
+        "description": "Gut Kaltenbach steckt erneut in finanziellen Schwierigkeiten und droht, in fremde Hände zu fallen. Die ehrgeizige Isabell scheint Mikas Großmutter helfen zu wollen, verfolgt insgeheim jedoch eigene Ziele. Eines Tages bringt Fanny die eigensinnige Ari nach Kaltenbach. Die scheint Mikas Gabe zu teilen und sofort eine besondere Verbindung zu Ostwind zu haben. Gemeinsam versuchen sie, das Gut zu retten.",
+        "duration": "PT1H41M50S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4820686/1200x0/ostwind-aris-ankunft.jpg",
+        "name": "Ostwind - Aris Ankunft",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/ostwind-aris-ankunft-20691",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-05-28T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=ostwind-aris-ankunft-20691",
+              "sameAs": "%s/premium?typ=format&formatname=ostwind-aris-ankunft-20691",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/ostwind-aris-ankunft-20691",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Gut Kaltenbach steckt erneut in finanziellen Schwierigkeiten und droht, in fremde Hände zu fallen. Die ehrgeizige Isabell scheint Mikas Großmutter helfen zu wollen, verfolgt insgeheim jedoch eigene Ziele. Eines Tages bringt Fanny die eigensinnige Ari nach Kaltenbach. Die scheint Mikas Gabe zu teilen und sofort eine besondere Verbindung zu Ostwind zu haben. Gemeinsam versuchen sie, das Gut zu retten.",
+          "duration": "PT1H41M50S",
+          "embedUrl": "%s/googlebot/player/filme/ostwind-aris-ankunft-20691",
+          "name": "Ostwind - Aris Ankunft",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4820686/1200x0/ostwind-aris-ankunft.jpg",
+          "uploadDate": "2022-05-28T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Ostwind - Aris Ankunft im Online Stream | RTL+",
+        "headline": "Ostwind - Aris Ankunft im Online Stream | RTL+",
+        "description": "Ostwind - Aris Ankunft und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/ostwind-aris-ankunft-20691",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4820686/1200x0/ostwind-aris-ankunft.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4820686/1200x0/ostwind-aris-ankunft.jpg",
+        "datePublished": "2022-05-28T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4820686/1200x0/ostwind-aris-ankunft.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ostwind - Aris Ankunft",
+            "item": "%s/filme/ostwind-aris-ankunft-20691"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Ostwind - Aris Ankunft im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

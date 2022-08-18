@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19120",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19120,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/bruce-lee-be-water-19120"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Bruce Lee: Be Water",
+          "teaserId": "film_3491050",
+          "teaserName": "Bruce Lee: Be Water | Bruce Lee: Be Water",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "Mo. 21.06.2021, 22:25 Uhr",
+          "teaserEpisodeName": "Bruce Lee: Be Water"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Bruce Lee: Be Water",
+        "id": 3491050,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3491050/300x0/bruce-lee-be-water.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3491050/",
+            "filename": "bruce-lee-be-water"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3491050/600x0/bruce-lee-be-water.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3491050/",
+            "filename": "bruce-lee-be-water"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3491050/1200x0/bruce-lee-be-water.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3491050/",
+            "filename": "bruce-lee-be-water"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3491050/300x0/bruce-lee-be-water.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3491050/",
+            "filename": "bruce-lee-be-water"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3491050/600x0/bruce-lee-be-water.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3491050/",
+            "filename": "bruce-lee-be-water"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3491050/1200x0/bruce-lee-be-water.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3491050/",
+            "filename": "bruce-lee-be-water"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "bruce-lee-be-water",
+        "subheadline": "Bruce Lee: Be Water",
+        "text": "Staffel  | Mo. 21.06.2021, 22:25 Uhr",
+        "type": "film",
+        "url": "/filme/bruce-lee-be-water-19120",
+        "videoId": 3491050
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20644",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20644,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/nawalny-20644"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Nawalny",
+          "teaserId": "film_4832669",
+          "teaserName": "Nawalny | Nawalny",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Biographie"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Nawalny"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Nawalny",
+        "id": 4832669,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4832669/300x0/nawalny.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4832669/",
+            "filename": "nawalny"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4832669/600x0/nawalny.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4832669/",
+            "filename": "nawalny"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4832669/1200x0/nawalny.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4832669/",
+            "filename": "nawalny"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4832669/300x0/nawalny.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4832669/",
+            "filename": "nawalny"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4832669/600x0/nawalny.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4832669/",
+            "filename": "nawalny"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4832669/1200x0/nawalny.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4832669/",
+            "filename": "nawalny"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "nawalny",
+        "subheadline": "Nawalny",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/nawalny-20644",
+        "videoId": 4832669
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

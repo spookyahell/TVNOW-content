@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20500",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20500,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/ballermann-6-20500"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ballermann 6",
+          "teaserId": "film_4775766",
+          "teaserName": "Ballermann 6 | Ballermann 6",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Ballermann 6"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ballermann 6",
+        "id": 4775766,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775766/300x0/ballermann-6.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775766/",
+            "filename": "ballermann-6"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775766/600x0/ballermann-6.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775766/",
+            "filename": "ballermann-6"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775766/1200x0/ballermann-6.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775766/",
+            "filename": "ballermann-6"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775766/300x0/ballermann-6.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775766/",
+            "filename": "ballermann-6"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775766/600x0/ballermann-6.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775766/",
+            "filename": "ballermann-6"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775766/1200x0/ballermann-6.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775766/",
+            "filename": "ballermann-6"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ballermann-6",
+        "subheadline": "Ballermann 6",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/ballermann-6-20500",
+        "videoId": 4775766
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

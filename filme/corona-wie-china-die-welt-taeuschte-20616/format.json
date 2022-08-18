@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 20616,
+  "additionalMeta": {
+    "canonical": "/filme/corona-wie-china-die-welt-taeuschte-20616",
+    "url": "/filme/corona-wie-china-die-welt-taeuschte-20616"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Corona - Wie China die Welt täuschte",
+      "url": "/filme/corona-wie-china-die-welt-taeuschte-20616"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 20616,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Corona - Wie China die Welt täuschte 📺 und viele weitere ▶ Filme aus dem Genre  findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Corona - Wie China die Welt täuschte im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Corona - Wie China die Welt täuschte 📺 und viele weitere ▶ Filme aus dem Genre  findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/corona-wie-china-die-welt-taeuschte-20616"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4785892/1600x0/corona-wie-china-die-welt-taeuschte.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4785892,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4785892",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20616"
+    },
+    {
+      "id": 20616,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20616",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Corona - Wie China die Welt täuschte",
+    "text": "Nachdem die Weltgesundheitsorganisation über die ersten Infektionen mit einem neuen Coronavirusstamm in China informiert worden war, wurden zwei chinesische Journalisten nach Wuhan geschickt. Als die Übertragung von Mensch zu Mensch bestätigt wurde, verwandelte sich die 11-Millionen-Stadt über Nacht. Überall brach Panik aus. Diese Dokumentation stellt die Videos und Tagebücher dieser Journalisten, die später zensiert wurden, vor.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/corona-wie-china-die-welt-taeuschte-20616",
+        "description": "Nachdem die Weltgesundheitsorganisation über die ersten Infektionen mit einem neuen Coronavirusstamm in China informiert worden war, wurden zwei chinesische Journalisten nach Wuhan geschickt. Als die Übertragung von Mensch zu Mensch bestätigt wurde, verwandelte sich die 11-Millionen-Stadt über Nacht. Überall brach Panik aus. Diese Dokumentation stellt die Videos und Tagebücher dieser Journalisten, die später zensiert wurden, vor.",
+        "duration": "PT42M27S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4785892/1200x0/corona-wie-china-die-welt-taeuschte.jpg",
+        "name": "Corona - Wie China die Welt täuschte",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/corona-wie-china-die-welt-taeuschte-20616",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2022-04-18T22:10:00.000Z"
+          }
+        },
+        "url": "%s/filme/corona-wie-china-die-welt-taeuschte-20616",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Nachdem die Weltgesundheitsorganisation über die ersten Infektionen mit einem neuen Coronavirusstamm in China informiert worden war, wurden zwei chinesische Journalisten nach Wuhan geschickt. Als die Übertragung von Mensch zu Mensch bestätigt wurde, verwandelte sich die 11-Millionen-Stadt über Nacht. Überall brach Panik aus. Diese Dokumentation stellt die Videos und Tagebücher dieser Journalisten, die später zensiert wurden, vor.",
+          "duration": "PT42M27S",
+          "embedUrl": "%s/googlebot/player/filme/corona-wie-china-die-welt-taeuschte-20616",
+          "name": "Corona - Wie China die Welt täuschte",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4785892/1200x0/corona-wie-china-die-welt-taeuschte.jpg",
+          "uploadDate": "2022-04-18T22:10:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Corona - Wie China die Welt täuschte im Online Stream | RTL+",
+        "headline": "Corona - Wie China die Welt täuschte im Online Stream | RTL+",
+        "description": "Corona - Wie China die Welt täuschte und viele weitere  ▶️Filme aus dem Genre  findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/corona-wie-china-die-welt-taeuschte-20616",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4785892/1200x0/corona-wie-china-die-welt-taeuschte.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4785892/1200x0/corona-wie-china-die-welt-taeuschte.jpg",
+        "datePublished": "2022-04-18T22:10:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4785892/1200x0/corona-wie-china-die-welt-taeuschte.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Corona - Wie China die Welt täuschte",
+            "item": "%s/filme/corona-wie-china-die-welt-taeuschte-20616"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Corona - Wie China die Welt täuschte im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

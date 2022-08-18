@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/16963",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 16963,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/art-and-craft-16963"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Art and Craft",
+          "teaserId": "film_886440",
+          "teaserName": "Art and Craft | Art and Craft",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "Sa. 10.04.2021, 22:35 Uhr",
+          "teaserEpisodeName": "Art and Craft"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Art and Craft",
+        "id": 886440,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/886440/300x0/art-and-craft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/886440/",
+            "filename": "art-and-craft"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/886440/600x0/art-and-craft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/886440/",
+            "filename": "art-and-craft"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/886440/1200x0/art-and-craft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/886440/",
+            "filename": "art-and-craft"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/886440/300x0/art-and-craft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/886440/",
+            "filename": "art-and-craft"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/886440/600x0/art-and-craft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/886440/",
+            "filename": "art-and-craft"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/886440/1200x0/art-and-craft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/886440/",
+            "filename": "art-and-craft"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "art-and-craft",
+        "subheadline": "Art and Craft",
+        "text": "Staffel  | Sa. 10.04.2021, 22:35 Uhr",
+        "type": "film",
+        "url": "/filme/art-and-craft-16963",
+        "videoId": 886440
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

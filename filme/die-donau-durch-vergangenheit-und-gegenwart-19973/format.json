@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19973,
+  "additionalMeta": {
+    "canonical": "/filme/die-donau-durch-vergangenheit-und-gegenwart-19973",
+    "url": "/filme/die-donau-durch-vergangenheit-und-gegenwart-19973"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die Donau - Durch Vergangenheit und Gegenwart",
+      "url": "/filme/die-donau-durch-vergangenheit-und-gegenwart-19973"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19973,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Die Donau - Durch Vergangenheit und Gegenwart 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Donau - Durch Vergangenheit und Gegenwart im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Die Donau - Durch Vergangenheit und Gegenwart 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/die-donau-durch-vergangenheit-und-gegenwart-19973"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4165149/1600x0/die-donau-durch-vergangenheit-und-gegenwart.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4165149,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4165149",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19973"
+    },
+    {
+      "id": 19973,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19973",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Die Donau - Durch Vergangenheit und Gegenwart",
+    "text": "Obwohl die Donau in den letzten Jahrzehnten drastische Veränderungen in der Landnutzung und Übernutzung natürlicher Ressourcen erlebt hat, war sie stets Mutter und Heimat für Hunderte von Pflanzen- und Tierarten. Mit einem Kanu und zu Fuß erkundet der Filmemacher und Erzähler das Donaudelta Dabei reist er immer wieder zurück in seine Erinnerungen und schafft ein emotionales Porträt der versteckten Ecken der mächtigen Donau.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/die-donau-durch-vergangenheit-und-gegenwart-19973",
+        "description": "Obwohl die Donau in den letzten Jahrzehnten drastische Veränderungen in der Landnutzung und Übernutzung natürlicher Ressourcen erlebt hat, war sie stets Mutter und Heimat für Hunderte von Pflanzen- und Tierarten. Mit einem Kanu und zu Fuß erkundet der Filmemacher und Erzähler das Donaudelta Dabei reist er immer wieder zurück in seine Erinnerungen und schafft ein emotionales Porträt der versteckten Ecken der mächtigen Donau.",
+        "duration": "PT54M45S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4165149/1200x0/die-donau-durch-vergangenheit-und-gegenwart.jpg",
+        "name": "Die Donau - Durch Vergangenheit und Gegenwart",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/die-donau-durch-vergangenheit-und-gegenwart-19973",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-10-09T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=die-donau-durch-vergangenheit-und-gegenwart-19973",
+              "sameAs": "%s/premium?typ=format&formatname=die-donau-durch-vergangenheit-und-gegenwart-19973",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/die-donau-durch-vergangenheit-und-gegenwart-19973",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Obwohl die Donau in den letzten Jahrzehnten drastische Veränderungen in der Landnutzung und Übernutzung natürlicher Ressourcen erlebt hat, war sie stets Mutter und Heimat für Hunderte von Pflanzen- und Tierarten. Mit einem Kanu und zu Fuß erkundet der Filmemacher und Erzähler das Donaudelta Dabei reist er immer wieder zurück in seine Erinnerungen und schafft ein emotionales Porträt der versteckten Ecken der mächtigen Donau.",
+          "duration": "PT54M45S",
+          "embedUrl": "%s/googlebot/player/filme/die-donau-durch-vergangenheit-und-gegenwart-19973",
+          "name": "Die Donau - Durch Vergangenheit und Gegenwart",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4165149/1200x0/die-donau-durch-vergangenheit-und-gegenwart.jpg",
+          "uploadDate": "2021-10-09T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Donau - Durch Vergangenheit und Gegenwart im Online Stream | RTL+",
+        "headline": "Die Donau - Durch Vergangenheit und Gegenwart im Online Stream | RTL+",
+        "description": "Die Donau - Durch Vergangenheit und Gegenwart und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/die-donau-durch-vergangenheit-und-gegenwart-19973",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4165149/1200x0/die-donau-durch-vergangenheit-und-gegenwart.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4165149/1200x0/die-donau-durch-vergangenheit-und-gegenwart.jpg",
+        "datePublished": "2021-10-09T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4165149/1200x0/die-donau-durch-vergangenheit-und-gegenwart.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Donau - Durch Vergangenheit und Gegenwart",
+            "item": "%s/filme/die-donau-durch-vergangenheit-und-gegenwart-19973"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Donau - Durch Vergangenheit und Gegenwart im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

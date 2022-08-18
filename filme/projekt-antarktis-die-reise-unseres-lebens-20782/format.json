@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20782,
+  "additionalMeta": {
+    "canonical": "/filme/projekt-antarktis-die-reise-unseres-lebens-20782",
+    "url": "/filme/projekt-antarktis-die-reise-unseres-lebens-20782"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Projekt: Antarktis - Die Reise unseres Lebens",
+      "url": "/filme/projekt-antarktis-die-reise-unseres-lebens-20782"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20782,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Projekt: Antarktis - Die Reise unseres Lebens 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Projekt: Antarktis - Die Reise unseres Lebens im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Projekt: Antarktis - Die Reise unseres Lebens 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/projekt-antarktis-die-reise-unseres-lebens-20782"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4870953/1600x0/projekt-antarktis-die-reise-unseres-lebens.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4870953,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4870953",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20782"
+    },
+    {
+      "id": 20782,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20782",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Projekt: Antarktis - Die Reise unseres Lebens",
+    "text": "Michael Ginzburg, Tim Müller Zitzke und Dennis Vogt schlugen alle gutgemeinten Ratschläge in den Wind und unternahmen eine Reise in die Antarktis. All ihre Kräften wollen sie für ein Ziel bündeln, das vielleicht ganz unvernünftig ist: einen Dokumentarfilm in der Antarktis zu drehen, der in die Kinos kommen soll. Dabei hat eine der am schwersten zugänglichen Regionen der Welt ohnehin schon Hindernisse genug zu bieten.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/projekt-antarktis-die-reise-unseres-lebens-20782",
+        "description": "Michael Ginzburg, Tim Müller Zitzke und Dennis Vogt schlugen alle gutgemeinten Ratschläge in den Wind und unternahmen eine Reise in die Antarktis. All ihre Kräften wollen sie für ein Ziel bündeln, das vielleicht ganz unvernünftig ist: einen Dokumentarfilm in der Antarktis zu drehen, der in die Kinos kommen soll. Dabei hat eine der am schwersten zugänglichen Regionen der Welt ohnehin schon Hindernisse genug zu bieten.",
+        "duration": "PT1H37M13S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4870953/1200x0/projekt-antarktis-die-reise-unseres-lebens.jpg",
+        "name": "Projekt: Antarktis - Die Reise unseres Lebens",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/projekt-antarktis-die-reise-unseres-lebens-20782",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-31T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=projekt-antarktis-die-reise-unseres-lebens-20782",
+              "sameAs": "%s/premium?typ=format&formatname=projekt-antarktis-die-reise-unseres-lebens-20782",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/projekt-antarktis-die-reise-unseres-lebens-20782",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Michael Ginzburg, Tim Müller Zitzke und Dennis Vogt schlugen alle gutgemeinten Ratschläge in den Wind und unternahmen eine Reise in die Antarktis. All ihre Kräften wollen sie für ein Ziel bündeln, das vielleicht ganz unvernünftig ist: einen Dokumentarfilm in der Antarktis zu drehen, der in die Kinos kommen soll. Dabei hat eine der am schwersten zugänglichen Regionen der Welt ohnehin schon Hindernisse genug zu bieten.",
+          "duration": "PT1H37M13S",
+          "embedUrl": "%s/googlebot/player/filme/projekt-antarktis-die-reise-unseres-lebens-20782",
+          "name": "Projekt: Antarktis - Die Reise unseres Lebens",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4870953/1200x0/projekt-antarktis-die-reise-unseres-lebens.jpg",
+          "uploadDate": "2022-07-31T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Projekt: Antarktis - Die Reise unseres Lebens im Online Stream | RTL+",
+        "headline": "Projekt: Antarktis - Die Reise unseres Lebens im Online Stream | RTL+",
+        "description": "Projekt: Antarktis - Die Reise unseres Lebens und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/projekt-antarktis-die-reise-unseres-lebens-20782",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4870953/1200x0/projekt-antarktis-die-reise-unseres-lebens.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4870953/1200x0/projekt-antarktis-die-reise-unseres-lebens.jpg",
+        "datePublished": "2022-07-31T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4870953/1200x0/projekt-antarktis-die-reise-unseres-lebens.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Projekt: Antarktis - Die Reise unseres Lebens",
+            "item": "%s/filme/projekt-antarktis-die-reise-unseres-lebens-20782"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Projekt: Antarktis - Die Reise unseres Lebens im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,240 @@
+﻿{
+  "formatId": 19171,
+  "additionalMeta": {
+    "canonical": "/filme/jurassic-world-doppeltes-chaos-teil-1-19171",
+    "url": "/filme/jurassic-world-doppeltes-chaos-teil-1-19171"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Jurassic World -  Doppeltes Chaos - Teil 1",
+      "url": "/filme/jurassic-world-doppeltes-chaos-teil-1-19171"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19171,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Jurassic World -  Doppeltes Chaos - Teil 1 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Jurassic World -  Doppeltes Chaos - Teil 1 im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Jurassic World -  Doppeltes Chaos - Teil 1 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/jurassic-world-doppeltes-chaos-teil-1-19171"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3506051/1600x0/jurassic-world-doppeltes-chaos-1.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3506051,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3506051",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19171"
+    },
+    {
+      "id": 19171,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19171",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Jungs",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Jurassic World -  Doppeltes Chaos (1)",
+    "text": "Der Zwillingsbruder von Simon Masrani, der im Vorstand von Jurassic World sitzt, hat den Auftrag, aus Jurassic World mehr Geld herauszuholen. Um das zu erreichen, hat er nun Oopsi bauen lassen, einen Computer, der alles effizienter und kostengünstiger ablaufen lassen soll. Viele Angestellte sollen entlassen werden, selbst Simon Masrani. Dr. Wu hat mittlerweile eine neue Dinosaurier-Spezies gezüchtet, die nur noch aus den Eiern schlüpfen muss.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/jurassic-world-doppeltes-chaos-1-19171",
+        "description": "Der Zwillingsbruder von Simon Masrani, der im Vorstand von Jurassic World sitzt, hat den Auftrag, aus Jurassic World mehr Geld herauszuholen. Um das zu erreichen, hat er nun Oopsi bauen lassen, einen Computer, der alles effizienter und kostengünstiger ablaufen lassen soll. Viele Angestellte sollen entlassen werden, selbst Simon Masrani. Dr. Wu hat mittlerweile eine neue Dinosaurier-Spezies gezüchtet, die nur noch aus den Eiern schlüpfen muss.",
+        "duration": "PT21M5S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3506051/1200x0/jurassic-world-doppeltes-chaos-teil-1.jpg",
+        "name": "Jurassic World -  Doppeltes Chaos - Teil 1",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/jurassic-world-doppeltes-chaos-1-19171",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-10-17T03:35:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=jurassic-world-doppeltes-chaos-teil-1-19171",
+              "sameAs": "%s/premium?typ=format&formatname=jurassic-world-doppeltes-chaos-teil-1-19171",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/jurassic-world-doppeltes-chaos-1-19171",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Der Zwillingsbruder von Simon Masrani, der im Vorstand von Jurassic World sitzt, hat den Auftrag, aus Jurassic World mehr Geld herauszuholen. Um das zu erreichen, hat er nun Oopsi bauen lassen, einen Computer, der alles effizienter und kostengünstiger ablaufen lassen soll. Viele Angestellte sollen entlassen werden, selbst Simon Masrani. Dr. Wu hat mittlerweile eine neue Dinosaurier-Spezies gezüchtet, die nur noch aus den Eiern schlüpfen muss.",
+          "duration": "PT21M5S",
+          "embedUrl": "%s/googlebot/player/filme/jurassic-world-doppeltes-chaos-1-19171",
+          "name": "Jurassic World -  Doppeltes Chaos - Teil 1",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3506051/1200x0/jurassic-world-doppeltes-chaos-teil-1.jpg",
+          "uploadDate": "2021-10-17T03:35:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Jurassic World -  Doppeltes Chaos - Teil 1 im Online Stream | RTL+",
+        "headline": "Jurassic World -  Doppeltes Chaos - Teil 1 im Online Stream | RTL+",
+        "description": "Jurassic World -  Doppeltes Chaos - Teil 1 und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/jurassic-world-doppeltes-chaos-1-19171",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3506051/1200x0/jurassic-world-doppeltes-chaos-teil-1.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3506051/1200x0/jurassic-world-doppeltes-chaos-teil-1.jpg",
+        "datePublished": "2021-10-17T03:35:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3506051/1200x0/jurassic-world-doppeltes-chaos-teil-1.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Jurassic World -  Doppeltes Chaos - Teil 1",
+            "item": "%s/filme/jurassic-world-doppeltes-chaos-teil-1-19171"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Jurassic World -  Doppeltes Chaos - Teil 1 im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

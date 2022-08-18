@@ -1,1 +1,107 @@
-NONE
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17554",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17554,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/oezcan-cosar-live-17554/staffel-1/episode-1-oezcan-cosar-live-old-school-3308993"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Özcan Cosar live",
+          "teaserId": "show_episode_3308993",
+          "teaserName": "Özcan Cosar live | Staffel 1 | Folge 1 | Özcan Cosar live! Old School",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Sa. 02.10.2021, 03:10 Uhr",
+          "teaserEpisodeName": "Özcan Cosar live! Old School"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Özcan Cosar live! Old School",
+        "id": 3308993,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3308993/300x0/oezcan-cosar-live-old-school.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3308993/",
+            "filename": "oezcan-cosar-live-old-school"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3308993/600x0/oezcan-cosar-live-old-school.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3308993/",
+            "filename": "oezcan-cosar-live-old-school"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3308993/1200x0/oezcan-cosar-live-old-school.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3308993/",
+            "filename": "oezcan-cosar-live-old-school"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3308993/300x0/oezcan-cosar-live-old-school.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3308993/",
+            "filename": "oezcan-cosar-live-old-school"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3308993/600x0/oezcan-cosar-live-old-school.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3308993/",
+            "filename": "oezcan-cosar-live-old-school"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3308993/1200x0/oezcan-cosar-live-old-school.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3308993/",
+            "filename": "oezcan-cosar-live-old-school"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "oezcan-cosar-live",
+        "subheadline": "Özcan Cosar live! Old School",
+        "text": "Staffel 1, Folge 1 | Sa. 02.10.2021, 03:10 Uhr",
+        "type": "show",
+        "url": "/shows/oezcan-cosar-live-17554/staffel-1/episode-1-oezcan-cosar-live-old-school-3308993",
+        "videoId": 3308993
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

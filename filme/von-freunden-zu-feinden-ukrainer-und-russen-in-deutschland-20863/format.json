@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 20863,
+  "additionalMeta": {
+    "canonical": "/filme/von-freunden-zu-feinden-ukrainer-und-russen-in-deutschland-20863",
+    "url": "/filme/von-freunden-zu-feinden-ukrainer-und-russen-in-deutschland-20863"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Von Freunden zu Feinden - Ukrainer und Russen in Deutschland",
+      "url": "/filme/von-freunden-zu-feinden-ukrainer-und-russen-in-deutschland-20863"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 20863,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Von Freunden zu Feinden - Ukrainer und Russen in Deutschland 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Von Freunden zu Feinden - Ukrainer und Russen in Deutschland im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Von Freunden zu Feinden - Ukrainer und Russen in Deutschland 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/von-freunden-zu-feinden-ukrainer-und-russen-in-deutschland-20863"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4866136/1600x0/von-freunden-zu-feinden-ukrainer-und-russen-in-deutschland.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4866136,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4866136",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20863"
+    },
+    {
+      "id": 20863,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20863",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Von Freunden zu Feinden - Ukrainer und Russen in Deutschland",
+    "text": "Seit dem Einmarsch der russischen Armee in die Ukraine ist die Welt nicht mehr so wie sie einmal war. Auch in Deutschland sind die Folgen spürbar, nicht nur wirtschaftlich. Russische Staatsangehörige, die schon lange in Deutschland leben, sind plötzlich massiven Anfeindungen ausgesetzt. In der Doku geht es um Menschen, die vermeintlich zu Feinden geworden sind, und um geflüchtete Personen, die versuchen, Fuß zu fassen.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/von-freunden-zu-feinden-ukrainer-und-russen-in-deutschland-20863",
+        "description": "Seit dem Einmarsch der russischen Armee in die Ukraine ist die Welt nicht mehr so wie sie einmal war. Auch in Deutschland sind die Folgen spürbar, nicht nur wirtschaftlich. Russische Staatsangehörige, die schon lange in Deutschland leben, sind plötzlich massiven Anfeindungen ausgesetzt. In der Doku geht es um Menschen, die vermeintlich zu Feinden geworden sind, und um geflüchtete Personen, die versuchen, Fuß zu fassen.",
+        "duration": "PT41M26S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4866136/1200x0/von-freunden-zu-feinden-ukrainer-und-russen-in-deutschland.jpg",
+        "name": "Von Freunden zu Feinden - Ukrainer und Russen in Deutschland",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/von-freunden-zu-feinden-ukrainer-und-russen-in-deutschland-20863",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2022-07-11T21:05:00.000Z"
+          }
+        },
+        "url": "%s/filme/von-freunden-zu-feinden-ukrainer-und-russen-in-deutschland-20863",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Seit dem Einmarsch der russischen Armee in die Ukraine ist die Welt nicht mehr so wie sie einmal war. Auch in Deutschland sind die Folgen spürbar, nicht nur wirtschaftlich. Russische Staatsangehörige, die schon lange in Deutschland leben, sind plötzlich massiven Anfeindungen ausgesetzt. In der Doku geht es um Menschen, die vermeintlich zu Feinden geworden sind, und um geflüchtete Personen, die versuchen, Fuß zu fassen.",
+          "duration": "PT41M26S",
+          "embedUrl": "%s/googlebot/player/filme/von-freunden-zu-feinden-ukrainer-und-russen-in-deutschland-20863",
+          "name": "Von Freunden zu Feinden - Ukrainer und Russen in Deutschland",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4866136/1200x0/von-freunden-zu-feinden-ukrainer-und-russen-in-deutschland.jpg",
+          "uploadDate": "2022-07-11T21:05:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Von Freunden zu Feinden - Ukrainer und Russen in Deutschland im Online Stream | RTL+",
+        "headline": "Von Freunden zu Feinden - Ukrainer und Russen in Deutschland im Online Stream | RTL+",
+        "description": "Von Freunden zu Feinden - Ukrainer und Russen in Deutschland und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/von-freunden-zu-feinden-ukrainer-und-russen-in-deutschland-20863",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4866136/1200x0/von-freunden-zu-feinden-ukrainer-und-russen-in-deutschland.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4866136/1200x0/von-freunden-zu-feinden-ukrainer-und-russen-in-deutschland.jpg",
+        "datePublished": "2022-07-11T21:05:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4866136/1200x0/von-freunden-zu-feinden-ukrainer-und-russen-in-deutschland.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Von Freunden zu Feinden - Ukrainer und Russen in Deutschland",
+            "item": "%s/filme/von-freunden-zu-feinden-ukrainer-und-russen-in-deutschland-20863"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Von Freunden zu Feinden - Ukrainer und Russen in Deutschland im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

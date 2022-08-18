@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19235",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19235,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/mr-christmas-19235"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mr. Christmas",
+          "teaserId": "film_3660827",
+          "teaserName": "Mr. Christmas | Mr. Christmas",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "So. 05.12.2021, 20:15 Uhr",
+          "teaserEpisodeName": "Mr. Christmas"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mr. Christmas",
+        "id": 3660827,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3660827/300x0/mr-christmas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3660827/",
+            "filename": "mr-christmas"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3660827/600x0/mr-christmas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3660827/",
+            "filename": "mr-christmas"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3660827/1200x0/mr-christmas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3660827/",
+            "filename": "mr-christmas"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3660827/300x0/mr-christmas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3660827/",
+            "filename": "mr-christmas"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3660827/600x0/mr-christmas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3660827/",
+            "filename": "mr-christmas"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3660827/1200x0/mr-christmas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3660827/",
+            "filename": "mr-christmas"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mr-christmas",
+        "subheadline": "Mr. Christmas",
+        "text": "Staffel  | So. 05.12.2021, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/mr-christmas-19235",
+        "videoId": 3660827
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

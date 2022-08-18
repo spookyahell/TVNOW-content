@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20590",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20590,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/ich-bin-dann-mal-weg-20590"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ich bin dann mal weg",
+          "teaserId": "film_4834447",
+          "teaserName": "Ich bin dann mal weg | Ich bin dann mal weg",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Ich bin dann mal weg"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ich bin dann mal weg",
+        "id": 4834447,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4834447/300x0/ich-bin-dann-mal-weg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4834447/",
+            "filename": "ich-bin-dann-mal-weg"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4834447/600x0/ich-bin-dann-mal-weg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4834447/",
+            "filename": "ich-bin-dann-mal-weg"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4834447/1200x0/ich-bin-dann-mal-weg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4834447/",
+            "filename": "ich-bin-dann-mal-weg"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4834447/300x0/ich-bin-dann-mal-weg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4834447/",
+            "filename": "ich-bin-dann-mal-weg"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4834447/600x0/ich-bin-dann-mal-weg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4834447/",
+            "filename": "ich-bin-dann-mal-weg"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4834447/1200x0/ich-bin-dann-mal-weg.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4834447/",
+            "filename": "ich-bin-dann-mal-weg"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ich-bin-dann-mal-weg",
+        "subheadline": "Ich bin dann mal weg",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/ich-bin-dann-mal-weg-20590",
+        "videoId": 4834447
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

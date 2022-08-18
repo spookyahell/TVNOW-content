@@ -1,0 +1,222 @@
+﻿{
+  "formatId": 20038,
+  "additionalMeta": {
+    "canonical": "/serien/kid-lucky-20038",
+    "url": "/serien/kid-lucky-20038"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Kid Lucky",
+      "url": "/serien/kid-lucky-20038"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 20038,
+  "meta": [
+    {
+      "content": "Die Serie Kid Lucky (TOGGO plus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Kid Lucky im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Kid Lucky (TOGGO plus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/kid-lucky-20038"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/20038_03artwork/1600x0/kid-lucky.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/20038",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/20038",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/20038",
+      "type": "teaserrow"
+    },
+    {
+      "id": 20038,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20038",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tpnkidlucky",
+      "video": "dvrsowf_ten_tpnkidlucky",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/kid_lucky/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "kid_lucky",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Action und Abenteuer",
+      "KIDS Jungs",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Kid Lucky - Alle Informationen zur Serie",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/kid-lucky-20038",
+        "url": "%s/serien/kid-lucky-20038",
+        "name": "Kid Lucky",
+        "description": "Die Serie Kid Lucky (TOGGO plus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/20038_04metalogo/1200x0/kid-lucky.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Kid Lucky - Alle Informationen zur Serie",
+        "headline": "Kid Lucky - Alle Informationen zur Serie",
+        "description": "Die Serie Kid Lucky (TOGGO plus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/kid-lucky-20038",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/20038_04metalogo/1200x0/kid-lucky.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/20038_04metalogo/1200x0/kid-lucky.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/20038_04metalogo/1200x0/kid-lucky.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Kid Lucky",
+            "item": "%s/serien/kid-lucky-20038"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Kid Lucky im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

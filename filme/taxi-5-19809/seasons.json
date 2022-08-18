@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19809",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19809,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/taxi-5-19809"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Taxi 5",
+          "teaserId": "film_4131276",
+          "teaserName": "Taxi 5 | Taxi 5",
+          "teaserPayType": "free",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "Mi. 10.08.2022, 20:15 Uhr",
+          "teaserEpisodeName": "Taxi 5"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Taxi 5",
+        "id": 4131276,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4131276/300x0/taxi-5.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4131276/",
+            "filename": "taxi-5"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4131276/600x0/taxi-5.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4131276/",
+            "filename": "taxi-5"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4131276/1200x0/taxi-5.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4131276/",
+            "filename": "taxi-5"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4131276/300x0/taxi-5.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4131276/",
+            "filename": "taxi-5"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4131276/600x0/taxi-5.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4131276/",
+            "filename": "taxi-5"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4131276/1200x0/taxi-5.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4131276/",
+            "filename": "taxi-5"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "taxi-5",
+        "subheadline": "Taxi 5",
+        "text": "Staffel  | Mi. 10.08.2022, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/taxi-5-19809",
+        "videoId": 4131276
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

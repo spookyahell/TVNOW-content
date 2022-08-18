@@ -1,0 +1,240 @@
+﻿{
+  "formatId": 20712,
+  "additionalMeta": {
+    "canonical": "/filme/barbie-ihre-schwestern-im-pferdeglueck-20712",
+    "url": "/filme/barbie-ihre-schwestern-im-pferdeglueck-20712"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Barbie & ihre Schwestern im Pferdeglück",
+      "url": "/filme/barbie-ihre-schwestern-im-pferdeglueck-20712"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20712,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Barbie & ihre Schwestern im Pferdeglück 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Barbie & ihre Schwestern im Pferdeglück im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Barbie & ihre Schwestern im Pferdeglück 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/barbie-ihre-schwestern-im-pferdeglueck-20712"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4834029/1600x0/barbie-ihre-schwestern-im-pferdeglueck.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4834029,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4834029",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20712"
+    },
+    {
+      "id": 20712,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20712",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/kids_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "kids_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Mädchen",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Barbie & ihre Schwestern im Pferdeglück",
+    "text": "Inmitten der idyllischen Alpen möchten Barbie und ihre Schwestern den Sommer auf einem Reiterhof verbringen. Barbie will dort unbedingt ein weiteres Pferd kaufen, das sie danach mit nach Malibu nehmen will. Als Barbie im Wald ein verzaubertes Pferd entdeckt, nehmen die großen Ferien jedoch eine ganz andere Wendung und schon bald findet sie sich mit ihren Schwestern in einem wundervollen Abenteuer wieder ...",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/barbie-ihre-schwestern-im-pferdeglueck-20712",
+        "description": "Inmitten der idyllischen Alpen möchten Barbie und ihre Schwestern den Sommer auf einem Reiterhof verbringen. Barbie will dort unbedingt ein weiteres Pferd kaufen, das sie danach mit nach Malibu nehmen will. Als Barbie im Wald ein verzaubertes Pferd entdeckt, nehmen die großen Ferien jedoch eine ganz andere Wendung und schon bald findet sie sich mit ihren Schwestern in einem wundervollen Abenteuer wieder ...",
+        "duration": "PT1H11M2S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4834029/1200x0/barbie-ihre-schwestern-im-pferdeglueck.jpg",
+        "name": "Barbie & ihre Schwestern im Pferdeglück",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/barbie-ihre-schwestern-im-pferdeglueck-20712",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-06-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=barbie-ihre-schwestern-im-pferdeglueck-20712",
+              "sameAs": "%s/premium?typ=format&formatname=barbie-ihre-schwestern-im-pferdeglueck-20712",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/barbie-ihre-schwestern-im-pferdeglueck-20712",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Inmitten der idyllischen Alpen möchten Barbie und ihre Schwestern den Sommer auf einem Reiterhof verbringen. Barbie will dort unbedingt ein weiteres Pferd kaufen, das sie danach mit nach Malibu nehmen will. Als Barbie im Wald ein verzaubertes Pferd entdeckt, nehmen die großen Ferien jedoch eine ganz andere Wendung und schon bald findet sie sich mit ihren Schwestern in einem wundervollen Abenteuer wieder ...",
+          "duration": "PT1H11M2S",
+          "embedUrl": "%s/googlebot/player/filme/barbie-ihre-schwestern-im-pferdeglueck-20712",
+          "name": "Barbie & ihre Schwestern im Pferdeglück",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4834029/1200x0/barbie-ihre-schwestern-im-pferdeglueck.jpg",
+          "uploadDate": "2022-06-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Barbie & ihre Schwestern im Pferdeglück im Online Stream | RTL+",
+        "headline": "Barbie & ihre Schwestern im Pferdeglück im Online Stream | RTL+",
+        "description": "Barbie & ihre Schwestern im Pferdeglück und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/barbie-ihre-schwestern-im-pferdeglueck-20712",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4834029/1200x0/barbie-ihre-schwestern-im-pferdeglueck.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4834029/1200x0/barbie-ihre-schwestern-im-pferdeglueck.jpg",
+        "datePublished": "2022-06-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4834029/1200x0/barbie-ihre-schwestern-im-pferdeglueck.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Barbie & ihre Schwestern im Pferdeglück",
+            "item": "%s/filme/barbie-ihre-schwestern-im-pferdeglueck-20712"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Barbie & ihre Schwestern im Pferdeglück im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

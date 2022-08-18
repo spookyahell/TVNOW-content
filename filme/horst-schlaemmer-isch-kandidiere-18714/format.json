@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 18714,
+  "additionalMeta": {
+    "canonical": "/filme/horst-schlaemmer-isch-kandidiere-18714",
+    "url": "/filme/horst-schlaemmer-isch-kandidiere-18714"
+  },
+  "ads": {
+    "station": "nitro",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Horst Schlämmer - Isch kandidiere!",
+      "url": "/filme/horst-schlaemmer-isch-kandidiere-18714"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18714,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Horst Schlämmer - Isch kandidiere! 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Horst Schlämmer - Isch kandidiere! im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Horst Schlämmer - Isch kandidiere! 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/horst-schlaemmer-isch-kandidiere-18714"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4775483/1600x0/horst-schlaemmer-isch-kandidiere.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4775483,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4775483",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18714"
+    },
+    {
+      "id": 18714,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/18714",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rnnfilme",
+      "video": "dvrsowf_ten_rnnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_nitro_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_nitro_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Horst Schlämmer - Isch kandidiere!",
+    "text": "Bei RTL+ kannst Du den Film Horst Schlämmer - Isch kandidiere! und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/horst-schlaemmer-isch-kandidiere-18714",
+        "description": "Die \"Horst Schlämmer Partei - HSP\" bringt die arrivierten Parteien mächtig auf Trab. Kein Wunder, denn ein Vollblut-Journalist wie Schlämmer hat natürlich keine Scheu, alle wichtigen Politiker und Promis des Landes für sein Ziel einzuspannen: Beim \"knallhart nachjefrachten\" Polit-Interview mit dem leicht irritierten NRW-Ministerpräsidenten Jürgen Rüttgers erkundigt sich Schlämmer, wie man überhaupt eine Partei gründet.",
+        "duration": "PT1H30M8S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4775483/1200x0/horst-schlaemmer-isch-kandidiere.jpg",
+        "name": "Horst Schlämmer - Isch kandidiere!",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/horst-schlaemmer-isch-kandidiere-18714",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-05T23:40:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=horst-schlaemmer-isch-kandidiere-18714",
+              "sameAs": "%s/premium?typ=format&formatname=horst-schlaemmer-isch-kandidiere-18714",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/horst-schlaemmer-isch-kandidiere-18714",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die \"Horst Schlämmer Partei - HSP\" bringt die arrivierten Parteien mächtig auf Trab. Kein Wunder, denn ein Vollblut-Journalist wie Schlämmer hat natürlich keine Scheu, alle wichtigen Politiker und Promis des Landes für sein Ziel einzuspannen: Beim \"knallhart nachjefrachten\" Polit-Interview mit dem leicht irritierten NRW-Ministerpräsidenten Jürgen Rüttgers erkundigt sich Schlämmer, wie man überhaupt eine Partei gründet.",
+          "duration": "PT1H30M8S",
+          "embedUrl": "%s/googlebot/player/filme/horst-schlaemmer-isch-kandidiere-18714",
+          "name": "Horst Schlämmer - Isch kandidiere!",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4775483/1200x0/horst-schlaemmer-isch-kandidiere.jpg",
+          "uploadDate": "2022-04-05T23:40:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Horst Schlämmer - Isch kandidiere! im Online Stream | RTL+",
+        "headline": "Horst Schlämmer - Isch kandidiere! im Online Stream | RTL+",
+        "description": "Horst Schlämmer - Isch kandidiere! und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei RTL+. Ein Film mit ▶️Hape Kerkeling, Simon Gosejohann, Norbert Heisterkamp, Alexandra Kamp, Maren Kroymann.",
+        "url": "%s/filme/horst-schlaemmer-isch-kandidiere-18714",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4775483/1200x0/horst-schlaemmer-isch-kandidiere.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4775483/1200x0/horst-schlaemmer-isch-kandidiere.jpg",
+        "datePublished": "2022-04-05T23:40:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4775483/1200x0/horst-schlaemmer-isch-kandidiere.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Horst Schlämmer - Isch kandidiere!",
+            "item": "%s/filme/horst-schlaemmer-isch-kandidiere-18714"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Horst Schlämmer - Isch kandidiere! im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

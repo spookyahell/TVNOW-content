@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19120,
+  "additionalMeta": {
+    "canonical": "/filme/bruce-lee-be-water-19120",
+    "url": "/filme/bruce-lee-be-water-19120"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Bruce Lee: Be Water",
+      "url": "/filme/bruce-lee-be-water-19120"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19120,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Bruce Lee: Be Water 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Bruce Lee: Be Water im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Bruce Lee: Be Water 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/bruce-lee-be-water-19120"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3491050/1600x0/bruce-lee-be-water.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3491050,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3491050",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19120"
+    },
+    {
+      "id": 19120,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19120",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Bruce Lee: Be Water",
+    "text": "Der 1973 jäh verstorbene Kampfsportler Bruce Lee zählt zu den Ikonen des 20. Jahrhunderts. Eine Handvoll Spielfilme machen das Ausnahmetalent bis heute unsterblich. Doch der Sinoamerikaner steht zu seinen Lebzeiten kulturell oft zwischen den Stühlen - und muss nicht nur mit Gegnern auf der Leinwand, sondern auch gegen die Vorurteile der US-Gesellschaft kämpfen, die ihm Steine in den Weg legt.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/bruce-lee-be-water-19120",
+        "description": "Der 1973 jäh verstorbene Kampfsportler Bruce Lee zählt zu den Ikonen des 20. Jahrhunderts. Eine Handvoll Spielfilme machen das Ausnahmetalent bis heute unsterblich. Doch der Sinoamerikaner steht zu seinen Lebzeiten kulturell oft zwischen den Stühlen - und muss nicht nur mit Gegnern auf der Leinwand, sondern auch gegen die Vorurteile der US-Gesellschaft kämpfen, die ihm Steine in den Weg legt.",
+        "duration": "PT1H32M43S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3491050/1200x0/bruce-lee-be-water.jpg",
+        "name": "Bruce Lee: Be Water",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/bruce-lee-be-water-19120",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-06-21T22:25:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=bruce-lee-be-water-19120",
+              "sameAs": "%s/premium?typ=format&formatname=bruce-lee-be-water-19120",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/bruce-lee-be-water-19120",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Der 1973 jäh verstorbene Kampfsportler Bruce Lee zählt zu den Ikonen des 20. Jahrhunderts. Eine Handvoll Spielfilme machen das Ausnahmetalent bis heute unsterblich. Doch der Sinoamerikaner steht zu seinen Lebzeiten kulturell oft zwischen den Stühlen - und muss nicht nur mit Gegnern auf der Leinwand, sondern auch gegen die Vorurteile der US-Gesellschaft kämpfen, die ihm Steine in den Weg legt.",
+          "duration": "PT1H32M43S",
+          "embedUrl": "%s/googlebot/player/filme/bruce-lee-be-water-19120",
+          "name": "Bruce Lee: Be Water",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3491050/1200x0/bruce-lee-be-water.jpg",
+          "uploadDate": "2021-06-21T22:25:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Bruce Lee: Be Water im Online Stream | RTL+",
+        "headline": "Bruce Lee: Be Water im Online Stream | RTL+",
+        "description": "Bruce Lee: Be Water und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/bruce-lee-be-water-19120",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3491050/1200x0/bruce-lee-be-water.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3491050/1200x0/bruce-lee-be-water.jpg",
+        "datePublished": "2021-06-21T22:25:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3491050/1200x0/bruce-lee-be-water.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bruce Lee: Be Water",
+            "item": "%s/filme/bruce-lee-be-water-19120"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Bruce Lee: Be Water im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

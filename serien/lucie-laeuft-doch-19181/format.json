@@ -1,0 +1,218 @@
+﻿{
+  "formatId": 19181,
+  "additionalMeta": {
+    "canonical": "/serien/lucie-laeuft-doch-19181",
+    "url": "/serien/lucie-laeuft-doch-19181"
+  },
+  "ads": {
+    "station": "vox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Lucie. Läuft doch!",
+      "url": "/serien/lucie-laeuft-doch-19181"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 19181,
+  "meta": [
+    {
+      "content": "Die Serie Lucie. Läuft doch! (VOX) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Drama im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Lucie. Läuft doch! im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Lucie. Läuft doch! (VOX) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Drama im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/lucie-laeuft-doch-19181"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/19181_03artwork/1600x0/lucie-laeuft-doch.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/19181",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/19181",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/19181",
+      "type": "teaserrow"
+    },
+    {
+      "id": 19181,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19181",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_vnlucielauftdoch",
+      "video": "dvrsowf_ten_vnlucielauftdoch",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/vox_now/formate/lucie_lauft_doch/home",
+      "levels": [
+        "tv_now_de",
+        "vox_now",
+        "formate",
+        "lucie_lauft_doch",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": [
+      "Ganze Staffel"
+    ]
+  },
+  "seo": {
+    "headline": "Lucie. läuft doch! - Infos zur Serie ",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/lucie-laeuft-doch-19181",
+        "url": "%s/serien/lucie-laeuft-doch-19181",
+        "name": "Lucie. Läuft doch!",
+        "description": "Die Serie Lucie. Läuft doch! (VOX) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Drama im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/19181_04metalogo/1200x0/lucie-laeuft-doch.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Lucie. läuft doch! - Infos zur Serie ",
+        "headline": "Lucie. läuft doch! - Infos zur Serie ",
+        "description": "Die Serie Lucie. Läuft doch! (VOX) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Drama im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/lucie-laeuft-doch-19181",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/19181_04metalogo/1200x0/lucie-laeuft-doch.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/19181_04metalogo/1200x0/lucie-laeuft-doch.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/19181_04metalogo/1200x0/lucie-laeuft-doch.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lucie. Läuft doch!",
+            "item": "%s/serien/lucie-laeuft-doch-19181"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Lucie. Läuft doch! im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

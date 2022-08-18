@@ -1,0 +1,108 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20537",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20537,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/traumfrauen-20537"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Traumfrauen",
+          "teaserId": "film_4785798",
+          "teaserName": "Traumfrauen | Traumfrauen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [
+            "FILME Female",
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "Fr. 01.04.2022, 00:00 Uhr",
+          "teaserEpisodeName": "Traumfrauen"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Traumfrauen",
+        "id": 4785798,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785798/300x0/traumfrauen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785798/",
+            "filename": "traumfrauen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785798/600x0/traumfrauen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785798/",
+            "filename": "traumfrauen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785798/1200x0/traumfrauen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785798/",
+            "filename": "traumfrauen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785798/300x0/traumfrauen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785798/",
+            "filename": "traumfrauen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785798/600x0/traumfrauen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785798/",
+            "filename": "traumfrauen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785798/1200x0/traumfrauen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785798/",
+            "filename": "traumfrauen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "traumfrauen",
+        "subheadline": "Traumfrauen",
+        "text": "Staffel  | Fr. 01.04.2022, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/traumfrauen-20537",
+        "videoId": 4785798
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

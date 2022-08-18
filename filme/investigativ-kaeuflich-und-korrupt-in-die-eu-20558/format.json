@@ -1,0 +1,231 @@
+﻿{
+  "formatId": 20558,
+  "additionalMeta": {
+    "canonical": "/filme/investigativ-kaeuflich-und-korrupt-in-die-eu-20558",
+    "url": "/filme/investigativ-kaeuflich-und-korrupt-in-die-eu-20558"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Investigativ - Käuflich und korrupt in die EU?",
+      "url": "/filme/investigativ-kaeuflich-und-korrupt-in-die-eu-20558"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 20558,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Investigativ - Käuflich und korrupt in die EU? 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Investigativ - Käuflich und korrupt in die EU? im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Investigativ - Käuflich und korrupt in die EU? 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/investigativ-kaeuflich-und-korrupt-in-die-eu-20558"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4768921/1600x0/investigativ-kaeuflich-und-korrupt-in-die-eu.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4768921,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4768921",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20558"
+    },
+    {
+      "id": 20558,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20558",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Wissen"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Investigativ - Käuflich und korrupt in die EU?",
+    "text": "Die Reporter enthüllen, wie ein verurteilter Krimineller in Zypern für den richtigen Preis einen europäischen Pass erhalten könnte. Die Journalisten decken ein zweigleisiges System des Staatsbürgerschaftserwerbs durch Investitionen auf, bei dem \"problematische\" Antragsteller einfach mehr Geld bezahlen müssen. Die Ermittlungen führen bis in die höchsten Ränge des Staates. Mit den Beweisen konfrontiert, leugnen alle Beteiligten ein Fehlverhalten.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/investigativ-kaeuflich-und-korrupt-in-die-eu-20558",
+        "description": "Die Reporter enthüllen, wie ein verurteilter Krimineller in Zypern für den richtigen Preis einen europäischen Pass erhalten könnte. Die Journalisten decken ein zweigleisiges System des Staatsbürgerschaftserwerbs durch Investitionen auf, bei dem \"problematische\" Antragsteller einfach mehr Geld bezahlen müssen. Die Ermittlungen führen bis in die höchsten Ränge des Staates. Mit den Beweisen konfrontiert, leugnen alle Beteiligten ein Fehlverhalten.",
+        "duration": "PT42M42S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4768921/1200x0/investigativ-kaeuflich-und-korrupt-in-die-eu.jpg",
+        "name": "Investigativ - Käuflich und korrupt in die EU?",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/investigativ-kaeuflich-und-korrupt-in-die-eu-20558",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2022-03-28T20:15:00.000Z"
+          }
+        },
+        "url": "%s/filme/investigativ-kaeuflich-und-korrupt-in-die-eu-20558",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die Reporter enthüllen, wie ein verurteilter Krimineller in Zypern für den richtigen Preis einen europäischen Pass erhalten könnte. Die Journalisten decken ein zweigleisiges System des Staatsbürgerschaftserwerbs durch Investitionen auf, bei dem \"problematische\" Antragsteller einfach mehr Geld bezahlen müssen. Die Ermittlungen führen bis in die höchsten Ränge des Staates. Mit den Beweisen konfrontiert, leugnen alle Beteiligten ein Fehlverhalten.",
+          "duration": "PT42M42S",
+          "embedUrl": "%s/googlebot/player/filme/investigativ-kaeuflich-und-korrupt-in-die-eu-20558",
+          "name": "Investigativ - Käuflich und korrupt in die EU?",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4768921/1200x0/investigativ-kaeuflich-und-korrupt-in-die-eu.jpg",
+          "uploadDate": "2022-03-28T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Investigativ - Käuflich und korrupt in die EU? im Online Stream | RTL+",
+        "headline": "Investigativ - Käuflich und korrupt in die EU? im Online Stream | RTL+",
+        "description": "Investigativ - Käuflich und korrupt in die EU? und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/investigativ-kaeuflich-und-korrupt-in-die-eu-20558",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4768921/1200x0/investigativ-kaeuflich-und-korrupt-in-die-eu.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4768921/1200x0/investigativ-kaeuflich-und-korrupt-in-die-eu.jpg",
+        "datePublished": "2022-03-28T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4768921/1200x0/investigativ-kaeuflich-und-korrupt-in-die-eu.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Investigativ - Käuflich und korrupt in die EU?",
+            "item": "%s/filme/investigativ-kaeuflich-und-korrupt-in-die-eu-20558"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Investigativ - Käuflich und korrupt in die EU? im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

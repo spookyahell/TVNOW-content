@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20781",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20781,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/gunda-20781/weitere/episode-0-gunda-4858876"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Gunda",
+          "teaserId": "serie_episode_4858876",
+          "teaserName": "Gunda | Gunda",
+          "teaserPayType": "paid",
+          "teaserType": "serie_episode",
+          "teaserGenre": "",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "Fr. 08.07.2022, 00:00 Uhr",
+          "teaserEpisodeName": "Gunda"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Gunda",
+        "id": 4858876,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4858876/300x0/gunda.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4858876/",
+            "filename": "gunda"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4858876/600x0/gunda.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4858876/",
+            "filename": "gunda"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4858876/1200x0/gunda.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4858876/",
+            "filename": "gunda"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4858876/300x0/gunda.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4858876/",
+            "filename": "gunda"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4858876/600x0/gunda.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4858876/",
+            "filename": "gunda"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4858876/1200x0/gunda.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4858876/",
+            "filename": "gunda"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "gunda",
+        "subheadline": "Gunda",
+        "text": "Staffel  | Fr. 08.07.2022, 00:00 Uhr",
+        "type": "serie",
+        "url": "/serien/gunda-20781/weitere/episode-0-gunda-4858876",
+        "videoId": 4858876
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

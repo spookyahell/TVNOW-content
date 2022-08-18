@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20788",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20788,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/balduin-der-sonntagsfahrer-20788"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Balduin, der Sonntagsfahrer",
+          "teaserId": "film_4852506",
+          "teaserName": "Balduin, der Sonntagsfahrer | Balduin, der Sonntagsfahrer",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Balduin, der Sonntagsfahrer"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Balduin, der Sonntagsfahrer",
+        "id": 4852506,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852506/300x0/balduin-der-sonntagsfahrer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852506/",
+            "filename": "balduin-der-sonntagsfahrer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852506/600x0/balduin-der-sonntagsfahrer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852506/",
+            "filename": "balduin-der-sonntagsfahrer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852506/1200x0/balduin-der-sonntagsfahrer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852506/",
+            "filename": "balduin-der-sonntagsfahrer"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852506/300x0/balduin-der-sonntagsfahrer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852506/",
+            "filename": "balduin-der-sonntagsfahrer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852506/600x0/balduin-der-sonntagsfahrer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852506/",
+            "filename": "balduin-der-sonntagsfahrer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852506/1200x0/balduin-der-sonntagsfahrer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852506/",
+            "filename": "balduin-der-sonntagsfahrer"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "balduin-der-sonntagsfahrer",
+        "subheadline": "Balduin, der Sonntagsfahrer",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/balduin-der-sonntagsfahrer-20788",
+        "videoId": 4852506
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

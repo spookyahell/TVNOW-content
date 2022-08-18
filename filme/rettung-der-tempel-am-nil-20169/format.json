@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20169,
+  "additionalMeta": {
+    "canonical": "/filme/rettung-der-tempel-am-nil-20169",
+    "url": "/filme/rettung-der-tempel-am-nil-20169"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Rettung der Tempel am Nil",
+      "url": "/filme/rettung-der-tempel-am-nil-20169"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20169,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Rettung der Tempel am Nil 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Rettung der Tempel am Nil im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Rettung der Tempel am Nil 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/rettung-der-tempel-am-nil-20169"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4327617/1600x0/rettung-der-tempel-am-nil.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4327617,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4327617",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20169"
+    },
+    {
+      "id": 20169,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20169",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Rettung der Tempel am Nil",
+    "text": "Die Ankündigung eines Staudamms zum Bau des Nassersees in Südägypten löste 1954 Schockwellen aus, denn mehr als 20 antike Tempel, darunter das berüchtigte UNESCO-Weltkulturerbe Abu Simbel, drohten zu versinken. Um sie zu retten, setzen Ägypten und die UNESCO massive internationale Anstrengungen in Gang und starteten die komplexeste archäologische Rettungsmission aller Zeiten: ganze antike Stätten zu verlegen.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/rettung-der-tempel-am-nil-20169",
+        "description": "Die Ankündigung eines Staudamms zum Bau des Nassersees in Südägypten löste 1954 Schockwellen aus, denn mehr als 20 antike Tempel, darunter das berüchtigte UNESCO-Weltkulturerbe Abu Simbel, drohten zu versinken. Um sie zu retten, setzen Ägypten und die UNESCO massive internationale Anstrengungen in Gang und starteten die komplexeste archäologische Rettungsmission aller Zeiten: ganze antike Stätten zu verlegen.",
+        "duration": "PT43M50S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4327617/1200x0/rettung-der-tempel-am-nil.jpg",
+        "name": "Rettung der Tempel am Nil",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/rettung-der-tempel-am-nil-20169",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-12-17T06:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=rettung-der-tempel-am-nil-20169",
+              "sameAs": "%s/premium?typ=format&formatname=rettung-der-tempel-am-nil-20169",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/rettung-der-tempel-am-nil-20169",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die Ankündigung eines Staudamms zum Bau des Nassersees in Südägypten löste 1954 Schockwellen aus, denn mehr als 20 antike Tempel, darunter das berüchtigte UNESCO-Weltkulturerbe Abu Simbel, drohten zu versinken. Um sie zu retten, setzen Ägypten und die UNESCO massive internationale Anstrengungen in Gang und starteten die komplexeste archäologische Rettungsmission aller Zeiten: ganze antike Stätten zu verlegen.",
+          "duration": "PT43M50S",
+          "embedUrl": "%s/googlebot/player/filme/rettung-der-tempel-am-nil-20169",
+          "name": "Rettung der Tempel am Nil",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4327617/1200x0/rettung-der-tempel-am-nil.jpg",
+          "uploadDate": "2021-12-17T06:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Rettung der Tempel am Nil im Online Stream | RTL+",
+        "headline": "Rettung der Tempel am Nil im Online Stream | RTL+",
+        "description": "Rettung der Tempel am Nil und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/rettung-der-tempel-am-nil-20169",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4327617/1200x0/rettung-der-tempel-am-nil.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4327617/1200x0/rettung-der-tempel-am-nil.jpg",
+        "datePublished": "2021-12-17T06:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4327617/1200x0/rettung-der-tempel-am-nil.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rettung der Tempel am Nil",
+            "item": "%s/filme/rettung-der-tempel-am-nil-20169"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Rettung der Tempel am Nil im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,1 +1,107 @@
-NONE
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17710",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17710,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/imperien-der-vergangenheit-17710/staffel-1/episode-2-die-aegypter-4886227"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Imperien der Vergangenheit",
+          "teaserId": "serie_episode_4886227",
+          "teaserName": "Imperien der Vergangenheit | Staffel 1 | Folge 2 | Die Ägypter",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 2",
+          "teaserEpisodeAirtime": "Fr. 12.08.2022, 23:30 Uhr",
+          "teaserEpisodeName": "Die Ägypter"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Ägypter",
+        "id": 4886227,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4886227/300x0/die-aegypter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4886227/",
+            "filename": "die-aegypter"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4886227/600x0/die-aegypter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4886227/",
+            "filename": "die-aegypter"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4886227/1200x0/die-aegypter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4886227/",
+            "filename": "die-aegypter"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4886227/300x0/die-aegypter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4886227/",
+            "filename": "die-aegypter"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4886227/600x0/die-aegypter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4886227/",
+            "filename": "die-aegypter"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4886227/1200x0/die-aegypter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4886227/",
+            "filename": "die-aegypter"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "imperien-der-vergangenheit",
+        "subheadline": "Die Ägypter",
+        "text": "Staffel 1, Folge 2 | Fr. 12.08.2022, 23:30 Uhr",
+        "type": "serie",
+        "url": "/serien/imperien-der-vergangenheit-17710/staffel-1/episode-2-die-aegypter-4886227",
+        "videoId": 4886227
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

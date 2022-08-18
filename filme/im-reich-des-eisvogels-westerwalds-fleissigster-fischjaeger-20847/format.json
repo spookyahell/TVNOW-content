@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20847,
+  "additionalMeta": {
+    "canonical": "/filme/im-reich-des-eisvogels-westerwalds-fleissigster-fischjaeger-20847",
+    "url": "/filme/im-reich-des-eisvogels-westerwalds-fleissigster-fischjaeger-20847"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Im Reich des Eisvogels - Westerwalds fleißigster Fischjäger",
+      "url": "/filme/im-reich-des-eisvogels-westerwalds-fleissigster-fischjaeger-20847"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20847,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Im Reich des Eisvogels - Westerwalds fleißigster Fischjäger 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Im Reich des Eisvogels - Westerwalds fleißigster Fischjäger im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Im Reich des Eisvogels - Westerwalds fleißigster Fischjäger 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/im-reich-des-eisvogels-westerwalds-fleissigster-fischjaeger-20847"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4882479/1600x0/im-reich-des-eisvogels-westerwalds-fleissigster-fischjaeger.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4882479,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4882479",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20847"
+    },
+    {
+      "id": 20847,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20847",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnreicheisvogel",
+      "video": "dvrsowf_ten_tnreicheisvogel",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/reich_eisvogel/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "reich_eisvogel",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Im Reich des Eisvogels - Westerwalds fleißigster Fischjäger",
+    "text": "Im Herzen des rheinischen Schiefergebirges liegt der Westerwald. Mit unzähligen kleinen Flüssen und Bächen sind die bewaldeten Täler wertvolle Naturoasen und ein ideales Revier für einen seltenen Fischjäger, den Eisvogel. Im Westerwald findet der blau-gelbe Vogel noch alles, was er zum Leben braucht. Die Dokumentation begleitet den Eisvogel ein gesamtes Jahr lang.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/im-reich-des-eisvogels-westerwalds-fleissigster-fischjaeger-20847",
+        "description": "Im Herzen des rheinischen Schiefergebirges liegt der Westerwald. Mit unzähligen kleinen Flüssen und Bächen sind die bewaldeten Täler wertvolle Naturoasen und ein ideales Revier für einen seltenen Fischjäger, den Eisvogel. Im Westerwald findet der blau-gelbe Vogel noch alles, was er zum Leben braucht. Die Dokumentation begleitet den Eisvogel ein gesamtes Jahr lang.",
+        "duration": "PT43M28S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4882479/1200x0/im-reich-des-eisvogels-westerwalds-fleissigster-fischjaeger.jpg",
+        "name": "Im Reich des Eisvogels - Westerwalds fleißigster Fischjäger",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/im-reich-des-eisvogels-westerwalds-fleissigster-fischjaeger-20847",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-29T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=im-reich-des-eisvogels-westerwalds-fleissigster-fischjaeger-20847",
+              "sameAs": "%s/premium?typ=format&formatname=im-reich-des-eisvogels-westerwalds-fleissigster-fischjaeger-20847",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/im-reich-des-eisvogels-westerwalds-fleissigster-fischjaeger-20847",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Im Herzen des rheinischen Schiefergebirges liegt der Westerwald. Mit unzähligen kleinen Flüssen und Bächen sind die bewaldeten Täler wertvolle Naturoasen und ein ideales Revier für einen seltenen Fischjäger, den Eisvogel. Im Westerwald findet der blau-gelbe Vogel noch alles, was er zum Leben braucht. Die Dokumentation begleitet den Eisvogel ein gesamtes Jahr lang.",
+          "duration": "PT43M28S",
+          "embedUrl": "%s/googlebot/player/filme/im-reich-des-eisvogels-westerwalds-fleissigster-fischjaeger-20847",
+          "name": "Im Reich des Eisvogels - Westerwalds fleißigster Fischjäger",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4882479/1200x0/im-reich-des-eisvogels-westerwalds-fleissigster-fischjaeger.jpg",
+          "uploadDate": "2022-07-29T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Im Reich des Eisvogels - Westerwalds fleißigster Fischjäger im Online Stream | RTL+",
+        "headline": "Im Reich des Eisvogels - Westerwalds fleißigster Fischjäger im Online Stream | RTL+",
+        "description": "Im Reich des Eisvogels - Westerwalds fleißigster Fischjäger und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/im-reich-des-eisvogels-westerwalds-fleissigster-fischjaeger-20847",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4882479/1200x0/im-reich-des-eisvogels-westerwalds-fleissigster-fischjaeger.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4882479/1200x0/im-reich-des-eisvogels-westerwalds-fleissigster-fischjaeger.jpg",
+        "datePublished": "2022-07-29T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4882479/1200x0/im-reich-des-eisvogels-westerwalds-fleissigster-fischjaeger.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Im Reich des Eisvogels - Westerwalds fleißigster Fischjäger",
+            "item": "%s/filme/im-reich-des-eisvogels-westerwalds-fleissigster-fischjaeger-20847"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Im Reich des Eisvogels - Westerwalds fleißigster Fischjäger im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

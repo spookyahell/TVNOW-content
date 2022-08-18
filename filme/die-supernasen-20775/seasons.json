@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20775",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20775,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/die-supernasen-20775"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Supernasen",
+          "teaserId": "film_4852272",
+          "teaserName": "Die Supernasen | Die Supernasen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Die Supernasen"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Supernasen",
+        "id": 4852272,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852272/300x0/die-supernasen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852272/",
+            "filename": "die-supernasen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852272/600x0/die-supernasen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852272/",
+            "filename": "die-supernasen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852272/1200x0/die-supernasen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852272/",
+            "filename": "die-supernasen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852272/300x0/die-supernasen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852272/",
+            "filename": "die-supernasen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852272/600x0/die-supernasen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852272/",
+            "filename": "die-supernasen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852272/1200x0/die-supernasen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852272/",
+            "filename": "die-supernasen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-supernasen",
+        "subheadline": "Die Supernasen",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/die-supernasen-20775",
+        "videoId": 4852272
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

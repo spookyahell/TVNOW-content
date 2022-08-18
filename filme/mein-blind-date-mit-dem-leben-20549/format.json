@@ -1,0 +1,238 @@
+﻿{
+  "formatId": 20549,
+  "additionalMeta": {
+    "canonical": "/filme/mein-blind-date-mit-dem-leben-20549",
+    "url": "/filme/mein-blind-date-mit-dem-leben-20549"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Mein Blind Date mit dem Leben",
+      "url": "/filme/mein-blind-date-mit-dem-leben-20549"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20549,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Mein Blind Date mit dem Leben 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Mein Blind Date mit dem Leben im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Mein Blind Date mit dem Leben 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/mein-blind-date-mit-dem-leben-20549"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4785710/1600x0/mein-blind-date-mit-dem-leben.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4785710,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4785710",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20549"
+    },
+    {
+      "id": 20549,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20549",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [
+      "FILME Komödien",
+      "Biographie"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Mein Blind Date mit dem Leben",
+    "text": "Saliya Kahawatte hat schon sein Leben lang davon geträumt, in einem Luxushotel zu arbeiten. Dass er fast blind ist, stand seinem Traum bisher im Weg. Also verschweigt er diesen Umstand bei seiner Bewerbung und bekommt den Job. Sein Kollege Max, der bald errät, was mit Saliya los ist, hilft ihm, die alltäglichen Hürden zu nehmen. Als Saliya sich jedoch in Laura verliebt, scheint alles aus den Fugen zu geraten.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/mein-blind-date-mit-dem-leben-20549",
+        "description": "Saliya Kahawatte hat schon sein Leben lang davon geträumt, in einem Luxushotel zu arbeiten. Dass er fast blind ist, stand seinem Traum bisher im Weg. Also verschweigt er diesen Umstand bei seiner Bewerbung und bekommt den Job. Sein Kollege Max, der bald errät, was mit Saliya los ist, hilft ihm, die alltäglichen Hürden zu nehmen. Als Saliya sich jedoch in Laura verliebt, scheint alles aus den Fugen zu geraten.",
+        "duration": "PT1H46M5S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4785710/1200x0/mein-blind-date-mit-dem-leben.jpg",
+        "name": "Mein Blind Date mit dem Leben",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/mein-blind-date-mit-dem-leben-20549",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-15T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=mein-blind-date-mit-dem-leben-20549",
+              "sameAs": "%s/premium?typ=format&formatname=mein-blind-date-mit-dem-leben-20549",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/mein-blind-date-mit-dem-leben-20549",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Saliya Kahawatte hat schon sein Leben lang davon geträumt, in einem Luxushotel zu arbeiten. Dass er fast blind ist, stand seinem Traum bisher im Weg. Also verschweigt er diesen Umstand bei seiner Bewerbung und bekommt den Job. Sein Kollege Max, der bald errät, was mit Saliya los ist, hilft ihm, die alltäglichen Hürden zu nehmen. Als Saliya sich jedoch in Laura verliebt, scheint alles aus den Fugen zu geraten.",
+          "duration": "PT1H46M5S",
+          "embedUrl": "%s/googlebot/player/filme/mein-blind-date-mit-dem-leben-20549",
+          "name": "Mein Blind Date mit dem Leben",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4785710/1200x0/mein-blind-date-mit-dem-leben.jpg",
+          "uploadDate": "2022-04-15T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Mein Blind Date mit dem Leben im Online Stream | RTL+",
+        "headline": "Mein Blind Date mit dem Leben im Online Stream | RTL+",
+        "description": "Mein Blind Date mit dem Leben und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/mein-blind-date-mit-dem-leben-20549",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4785710/1200x0/mein-blind-date-mit-dem-leben.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4785710/1200x0/mein-blind-date-mit-dem-leben.jpg",
+        "datePublished": "2022-04-15T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4785710/1200x0/mein-blind-date-mit-dem-leben.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mein Blind Date mit dem Leben",
+            "item": "%s/filme/mein-blind-date-mit-dem-leben-20549"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Mein Blind Date mit dem Leben im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

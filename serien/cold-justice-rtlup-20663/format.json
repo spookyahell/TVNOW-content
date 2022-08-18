@@ -1,0 +1,218 @@
+﻿{
+  "formatId": 20663,
+  "additionalMeta": {
+    "canonical": "/serien/cold-justice-rtlup-20663",
+    "url": "/serien/cold-justice-rtlup-20663"
+  },
+  "ads": {
+    "station": "rtlplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Cold Justice - RTLup",
+      "url": "/serien/cold-justice-rtlup-20663"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 20663,
+  "meta": [
+    {
+      "content": "Die Serie Cold Justice - RTLup (RTLup) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 True Crime im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "video, videos, online sehen, internet tv, fernsehen, video on demand, RTL+, RTL, cold justice, true crime, mord",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Cold Justice - RTLup im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Cold Justice - RTLup (RTLup) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 True Crime im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/cold-justice-rtlup-20663"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/20663_03artwork/1600x0/cold-justice-rtlup.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/20663",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/20663",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/20663",
+      "type": "teaserrow"
+    },
+    {
+      "id": 20663,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20663",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rpncoldjustice",
+      "video": "dvrsowf_ten_rpncoldjustice",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_plus_now/formate/cold_justice/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_plus_now",
+        "formate",
+        "cold_justice",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "True Crime",
+    "cluster": [
+      "True Crime"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zur Serie: Cold Justice",
+    "text": "In der True Crime Serie \"Cold Justice\" decken die beiden ehemaligen Staatsanwältinnen Kelly Siegler und Yolanda McClary längst zu den Akten gelegte, ungelöste Mordfälle anhand modernster technischer Hilfsmittel auf.",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/cold-justice-rtlup-20663",
+        "url": "%s/serien/cold-justice-rtlup-20663",
+        "name": "Cold Justice - RTLup",
+        "description": "Die Serie Cold Justice - RTLup (RTLup) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 True Crime im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/20663_04metalogo/1200x0/cold-justice-rtlup.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Information zur Serie: Cold Justice",
+        "headline": "Information zur Serie: Cold Justice",
+        "description": "Die Serie Cold Justice - RTLup (RTLup) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 True Crime im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/cold-justice-rtlup-20663",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/20663_04metalogo/1200x0/cold-justice-rtlup.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/20663_04metalogo/1200x0/cold-justice-rtlup.png",
+        "keywords": "video, videos, online sehen, internet tv, fernsehen, video on demand, RTL+, RTL, cold justice, true crime, mord",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/20663_04metalogo/1200x0/cold-justice-rtlup.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cold Justice - RTLup",
+            "item": "%s/serien/cold-justice-rtlup-20663"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Cold Justice - RTLup im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20501,
+  "additionalMeta": {
+    "canonical": "/filme/17-again-back-to-high-school-20501",
+    "url": "/filme/17-again-back-to-high-school-20501"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "17 Again – Back to High School",
+      "url": "/filme/17-again-back-to-high-school-20501"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20501,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ 17 Again – Back to High School 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "17 Again – Back to High School im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ 17 Again – Back to High School 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/17-again-back-to-high-school-20501"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4783157/1600x0/17-again-back-to-high-school.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4783157,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4783157",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20501"
+    },
+    {
+      "id": 20501,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20501",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [
+      "FILME Komödien"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: 17 Again - Back to High School",
+    "text": "Mikes Ehe ist in die Brüche gegangen und seine Kinder halten ihn für einen Loser. Dabei hatte er vor 20 Jahren seine hoffnungsvolle Karriere als Basketballprofi aufgegeben, weil seine Freundin und spätere Ehefrau schwanger war. Nun erhält er auf mysteriöse Weise die Chance, alles besser zu machen. Denn er erwacht am Morgen plötzlich als 17-Jähriger und steht wieder vor der Entscheidung, die seinen Lebensweg bestimmt hat. ",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/17-again-back-to-high-school-20501",
+        "description": "Mikes Ehe ist in die Brüche gegangen und seine Kinder halten ihn für einen Loser. Dabei hatte er vor 20 Jahren seine hoffnungsvolle Karriere als Basketballprofi aufgegeben, weil seine Freundin und spätere Ehefrau schwanger war. Nun erhält er auf mysteriöse Weise die Chance, alles besser zu machen. Denn er erwacht am Morgen plötzlich als 17-Jähriger und steht wieder vor der Entscheidung, die seinen Lebensweg bestimmt hat. ",
+        "duration": "PT1H37M41S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4783157/1200x0/17-again-back-to-high-school.jpg",
+        "name": "17 Again – Back to High School",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/17-again-back-to-high-school-20501",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=17-again-back-to-high-school-20501",
+              "sameAs": "%s/premium?typ=format&formatname=17-again-back-to-high-school-20501",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/17-again-back-to-high-school-20501",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Mikes Ehe ist in die Brüche gegangen und seine Kinder halten ihn für einen Loser. Dabei hatte er vor 20 Jahren seine hoffnungsvolle Karriere als Basketballprofi aufgegeben, weil seine Freundin und spätere Ehefrau schwanger war. Nun erhält er auf mysteriöse Weise die Chance, alles besser zu machen. Denn er erwacht am Morgen plötzlich als 17-Jähriger und steht wieder vor der Entscheidung, die seinen Lebensweg bestimmt hat. ",
+          "duration": "PT1H37M41S",
+          "embedUrl": "%s/googlebot/player/filme/17-again-back-to-high-school-20501",
+          "name": "17 Again – Back to High School",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4783157/1200x0/17-again-back-to-high-school.jpg",
+          "uploadDate": "2022-04-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "17 Again – Back to High School im Online Stream | RTL+",
+        "headline": "17 Again – Back to High School im Online Stream | RTL+",
+        "description": "17 Again – Back to High School und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei RTL+. Ein Film mit ▶️Zac Efron, Matthew Perry.",
+        "url": "%s/filme/17-again-back-to-high-school-20501",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4783157/1200x0/17-again-back-to-high-school.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4783157/1200x0/17-again-back-to-high-school.jpg",
+        "datePublished": "2022-04-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4783157/1200x0/17-again-back-to-high-school.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "17 Again – Back to High School",
+            "item": "%s/filme/17-again-back-to-high-school-20501"
+          }
+        ]
+      }
+    }
+  },
+  "title": "17 Again – Back to High School im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

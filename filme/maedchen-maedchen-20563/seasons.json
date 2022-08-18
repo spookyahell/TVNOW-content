@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20563",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20563,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/maedchen-maedchen-20563"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mädchen Mädchen!",
+          "teaserId": "film_4799442",
+          "teaserName": "Mädchen Mädchen! | Mädchen, Mädchen!",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Mädchen, Mädchen!"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mädchen, Mädchen!",
+        "id": 4799442,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4799442/300x0/maedchen-maedchen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4799442/",
+            "filename": "maedchen-maedchen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4799442/600x0/maedchen-maedchen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4799442/",
+            "filename": "maedchen-maedchen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4799442/1200x0/maedchen-maedchen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4799442/",
+            "filename": "maedchen-maedchen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4799442/300x0/maedchen-maedchen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4799442/",
+            "filename": "maedchen-maedchen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4799442/600x0/maedchen-maedchen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4799442/",
+            "filename": "maedchen-maedchen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4799442/1200x0/maedchen-maedchen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4799442/",
+            "filename": "maedchen-maedchen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "maedchen-maedchen",
+        "subheadline": "Mädchen, Mädchen!",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/maedchen-maedchen-20563",
+        "videoId": 4799442
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

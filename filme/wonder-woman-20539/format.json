@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20539,
+  "additionalMeta": {
+    "canonical": "/filme/wonder-woman-20539",
+    "url": "/filme/wonder-woman-20539"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Wonder Woman",
+      "url": "/filme/wonder-woman-20539"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20539,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Wonder Woman 📺 und viele weitere ▶ Filme aus dem Genre Action findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Wonder Woman im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Wonder Woman 📺 und viele weitere ▶ Filme aus dem Genre Action findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/wonder-woman-20539"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4783210/1600x0/wonder-woman.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4783210,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4783210",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20539"
+    },
+    {
+      "id": 20539,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20539",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_action/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_action",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Action",
+    "cluster": [
+      "FILME Actionhits"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Wonder Woman",
+    "text": "Während des Ersten Weltkriegs verlässt die Amazonenprinzessin Diana ihre von der Außenwelt abgeschirmte Heimatinsel Themyscira, um den Gott Ares zu töten, der ihrer Ansicht nach den Krieg angezettelt hat. Sie kämpft als Wonder Woman an der Seite des Agenten Steve und entdeckt ihre übermenschlichen Kräfte und ihre wahre Bestimmung. Doch schon bald muss sie sich fragen: Wer ist Freund und wer ist Feind?",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/wonder-woman-20539",
+        "description": "Während des Ersten Weltkriegs verlässt die Amazonenprinzessin Diana ihre von der Außenwelt abgeschirmte Heimatinsel Themyscira, um den Gott Ares zu töten, der ihrer Ansicht nach den Krieg angezettelt hat. Sie kämpft als Wonder Woman an der Seite des Agenten Steve und entdeckt ihre übermenschlichen Kräfte und ihre wahre Bestimmung. Doch schon bald muss sie sich fragen: Wer ist Freund und wer ist Feind?",
+        "duration": "PT2H15M52S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4783210/1200x0/wonder-woman.jpg",
+        "name": "Wonder Woman",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/wonder-woman-20539",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=wonder-woman-20539",
+              "sameAs": "%s/premium?typ=format&formatname=wonder-woman-20539",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/wonder-woman-20539",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Während des Ersten Weltkriegs verlässt die Amazonenprinzessin Diana ihre von der Außenwelt abgeschirmte Heimatinsel Themyscira, um den Gott Ares zu töten, der ihrer Ansicht nach den Krieg angezettelt hat. Sie kämpft als Wonder Woman an der Seite des Agenten Steve und entdeckt ihre übermenschlichen Kräfte und ihre wahre Bestimmung. Doch schon bald muss sie sich fragen: Wer ist Freund und wer ist Feind?",
+          "duration": "PT2H15M52S",
+          "embedUrl": "%s/googlebot/player/filme/wonder-woman-20539",
+          "name": "Wonder Woman",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4783210/1200x0/wonder-woman.jpg",
+          "uploadDate": "2022-04-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Wonder Woman im Online Stream | RTL+",
+        "headline": "Wonder Woman im Online Stream | RTL+",
+        "description": "Wonder Woman und viele weitere  ▶️Filme aus dem Genre Action findest du im Online Stream bei RTL+. Ein Film mit ▶️Gal Gadot, Chris Pine, Robin Wright.",
+        "url": "%s/filme/wonder-woman-20539",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4783210/1200x0/wonder-woman.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4783210/1200x0/wonder-woman.jpg",
+        "datePublished": "2022-04-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4783210/1200x0/wonder-woman.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wonder Woman",
+            "item": "%s/filme/wonder-woman-20539"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Wonder Woman im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

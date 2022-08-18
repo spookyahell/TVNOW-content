@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20189,
+  "additionalMeta": {
+    "canonical": "/filme/schafe-rinder-und-canadas-20189",
+    "url": "/filme/schafe-rinder-und-canadas-20189"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Schafe, Rinder und Canadas - Die großen Tierwanderungen Spaniens",
+      "url": "/filme/schafe-rinder-und-canadas-20189"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20189,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Schafe, Rinder und Canadas - Die großen Tierwanderungen Spaniens 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Schafe, Rinder und Canadas - Die großen Tierwanderungen Spaniens im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Schafe, Rinder und Canadas - Die großen Tierwanderungen Spaniens 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/schafe-rinder-und-canadas-20189"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4323682/1600x0/schafe-rinder-und-canadas-die-grossen-tierwanderungen-spaniens.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4323682,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4323682",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20189"
+    },
+    {
+      "id": 20189,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20189",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnschaferindcanadas",
+      "video": "dvrsowf_ten_tnschaferindcanadas",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/schafe_rind_canadas/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "schafe_rind_canadas",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Schafe, Rinder und Canadas - Die großen Tierwanderungen Spaniens",
+    "text": "Die Transhumanz oder Wanderweidewirtschaft zählt zu den ältesten Traditionen Spaniens. Durch die Agrarpolitik über Jahrzehnte stillgelegt, werden die alten Wanderwege, die Canadas, heute wieder belebt. Ein Filmteam fängt auf lebendige Art und Weise ein, wie die grünen Lebensadern im Herzen Spaniens durch Hirten und große Viehherden wieder zu pulsieren beginnen. Auch zahlreiche Naturtouristen entdecken den rauen Charme des \"alten Spaniens\" neu.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/schafe-rinder-und-canadas-die-grossen-tierwanderungen-spaniens-20189",
+        "description": "Die Transhumanz oder Wanderweidewirtschaft zählt zu den ältesten Traditionen Spaniens. Durch die Agrarpolitik über Jahrzehnte stillgelegt, werden die alten Wanderwege, die Canadas, heute wieder belebt. Ein Filmteam fängt auf lebendige Art und Weise ein, wie die grünen Lebensadern im Herzen Spaniens durch Hirten und große Viehherden wieder zu pulsieren beginnen. Auch zahlreiche Naturtouristen entdecken den rauen Charme des \"alten Spaniens\" neu.",
+        "duration": "PT43M22S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4323682/1200x0/schafe-rinder-und-canadas.jpg",
+        "name": "Schafe, Rinder und Canadas - Die großen Tierwanderungen Spaniens",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/schafe-rinder-und-canadas-die-grossen-tierwanderungen-spaniens-20189",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-12-14T00:01:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=schafe-rinder-und-canadas-20189",
+              "sameAs": "%s/premium?typ=format&formatname=schafe-rinder-und-canadas-20189",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/schafe-rinder-und-canadas-die-grossen-tierwanderungen-spaniens-20189",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die Transhumanz oder Wanderweidewirtschaft zählt zu den ältesten Traditionen Spaniens. Durch die Agrarpolitik über Jahrzehnte stillgelegt, werden die alten Wanderwege, die Canadas, heute wieder belebt. Ein Filmteam fängt auf lebendige Art und Weise ein, wie die grünen Lebensadern im Herzen Spaniens durch Hirten und große Viehherden wieder zu pulsieren beginnen. Auch zahlreiche Naturtouristen entdecken den rauen Charme des \"alten Spaniens\" neu.",
+          "duration": "PT43M22S",
+          "embedUrl": "%s/googlebot/player/filme/schafe-rinder-und-canadas-die-grossen-tierwanderungen-spaniens-20189",
+          "name": "Schafe, Rinder und Canadas - Die großen Tierwanderungen Spaniens",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323682/1200x0/schafe-rinder-und-canadas.jpg",
+          "uploadDate": "2021-12-14T00:01:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Schafe, Rinder und Canadas - Die großen Tierwanderungen Spaniens im Online Stream | RTL+",
+        "headline": "Schafe, Rinder und Canadas - Die großen Tierwanderungen Spaniens im Online Stream | RTL+",
+        "description": "Schafe, Rinder und Canadas - Die großen Tierwanderungen Spaniens und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/schafe-rinder-und-canadas-die-grossen-tierwanderungen-spaniens-20189",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4323682/1200x0/schafe-rinder-und-canadas.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323682/1200x0/schafe-rinder-und-canadas.jpg",
+        "datePublished": "2021-12-14T00:01:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4323682/1200x0/schafe-rinder-und-canadas.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Schafe, Rinder und Canadas - Die großen Tierwanderungen Spaniens",
+            "item": "%s/filme/schafe-rinder-und-canadas-20189"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Schafe, Rinder und Canadas - Die großen Tierwanderungen Spaniens im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

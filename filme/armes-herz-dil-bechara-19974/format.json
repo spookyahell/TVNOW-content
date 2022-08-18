@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19974,
+  "additionalMeta": {
+    "canonical": "/filme/armes-herz-dil-bechara-19974",
+    "url": "/filme/armes-herz-dil-bechara-19974"
+  },
+  "ads": {
+    "station": "passion",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Armes Herz - Dil Bechara",
+      "url": "/filme/armes-herz-dil-bechara-19974"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19974,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Armes Herz - Dil Bechara 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Armes Herz - Dil Bechara im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Armes Herz - Dil Bechara 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/armes-herz-dil-bechara-19974"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4165455/1600x0/armes-herz-dil-bechara.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4165455,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4165455",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19974"
+    },
+    {
+      "id": 19974,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19974",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/passion_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "passion_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Armes Herz - Dil Bechara",
+    "text": "Bollywood is back! Mit \"Dil Bechara - Armes Herz\" holt RTL Passion die offizielle Bollywood-Verfilmung von \"Das Schicksal ist ein mieser Verräter\" auf die deutschen Fernsehbildschirme. Untermalt mit Musik von Oscar-Gewinner A.R. Rahman (\"Slumdog Millionär\"), erzählt das preisgekrönte Coming-of-Age-Drama die Geschichte zweier junger Krebspatienten, die sich ineinander verlieben.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/armes-herz-dil-bechara-19974",
+        "description": "Bollywood is back! Mit \"Dil Bechara - Armes Herz\" holt RTL Passion die offizielle Bollywood-Verfilmung von \"Das Schicksal ist ein mieser Verräter\" auf die deutschen Fernsehbildschirme. Untermalt mit Musik von Oscar-Gewinner A.R. Rahman (\"Slumdog Millionär\"), erzählt das preisgekrönte Coming-of-Age-Drama die Geschichte zweier junger Krebspatienten, die sich ineinander verlieben.",
+        "duration": "PT1H33M28S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4165455/1200x0/armes-herz-dil-bechara.jpg",
+        "name": "Armes Herz - Dil Bechara",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/armes-herz-dil-bechara-19974",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-03T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=armes-herz-dil-bechara-19974",
+              "sameAs": "%s/premium?typ=format&formatname=armes-herz-dil-bechara-19974",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/armes-herz-dil-bechara-19974",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Bollywood is back! Mit \"Dil Bechara - Armes Herz\" holt RTL Passion die offizielle Bollywood-Verfilmung von \"Das Schicksal ist ein mieser Verräter\" auf die deutschen Fernsehbildschirme. Untermalt mit Musik von Oscar-Gewinner A.R. Rahman (\"Slumdog Millionär\"), erzählt das preisgekrönte Coming-of-Age-Drama die Geschichte zweier junger Krebspatienten, die sich ineinander verlieben.",
+          "duration": "PT1H33M28S",
+          "embedUrl": "%s/googlebot/player/filme/armes-herz-dil-bechara-19974",
+          "name": "Armes Herz - Dil Bechara",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4165455/1200x0/armes-herz-dil-bechara.jpg",
+          "uploadDate": "2022-07-03T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Armes Herz - Dil Bechara im Online Stream | RTL+",
+        "headline": "Armes Herz - Dil Bechara im Online Stream | RTL+",
+        "description": "Armes Herz - Dil Bechara und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+. Ein Film mit ▶️Sahil Vaid, Sushant Singh Rajput, Sanjana Sanghi, Saswata Chatterjee, Sunit Tandon.",
+        "url": "%s/filme/armes-herz-dil-bechara-19974",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4165455/1200x0/armes-herz-dil-bechara.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4165455/1200x0/armes-herz-dil-bechara.jpg",
+        "datePublished": "2022-07-03T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4165455/1200x0/armes-herz-dil-bechara.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Armes Herz - Dil Bechara",
+            "item": "%s/filme/armes-herz-dil-bechara-19974"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Armes Herz - Dil Bechara im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

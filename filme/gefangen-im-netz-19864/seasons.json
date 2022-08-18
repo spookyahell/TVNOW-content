@@ -1,0 +1,110 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19864",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19864,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/gefangen-im-netz-19864"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Gefangen im Netz",
+          "teaserId": "film_4165093",
+          "teaserName": "Gefangen im Netz | Gefangen im Netz",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Wissen",
+            "True Crime"
+          ],
+          "classification": [
+            "Exclusive"
+          ],
+          "teaserEpisodeAirtime": "Fr. 01.10.2021, 00:00 Uhr",
+          "teaserEpisodeName": "Gefangen im Netz"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Gefangen im Netz",
+        "id": 4165093,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4165093/300x0/gefangen-im-netz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4165093/",
+            "filename": "gefangen-im-netz"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4165093/600x0/gefangen-im-netz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4165093/",
+            "filename": "gefangen-im-netz"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4165093/1200x0/gefangen-im-netz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4165093/",
+            "filename": "gefangen-im-netz"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4165093/300x0/gefangen-im-netz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4165093/",
+            "filename": "gefangen-im-netz"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4165093/600x0/gefangen-im-netz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4165093/",
+            "filename": "gefangen-im-netz"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4165093/1200x0/gefangen-im-netz.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4165093/",
+            "filename": "gefangen-im-netz"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "gefangen-im-netz",
+        "subheadline": "Gefangen im Netz",
+        "text": "Staffel  | Fr. 01.10.2021, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/gefangen-im-netz-19864",
+        "videoId": 4165093
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

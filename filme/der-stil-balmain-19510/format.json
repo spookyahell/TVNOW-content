@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 19510,
+  "additionalMeta": {
+    "canonical": "/filme/der-stil-balmain-19510",
+    "url": "/filme/der-stil-balmain-19510"
+  },
+  "ads": {
+    "station": "living",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Der Stil Balmain",
+      "url": "/filme/der-stil-balmain-19510"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19510,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Der Stil Balmain 📺 und viele weitere ▶ Filme aus dem Genre Lifestyle findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Der Stil Balmain im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Der Stil Balmain 📺 und viele weitere ▶ Filme aus dem Genre Lifestyle findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/der-stil-balmain-19510"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3960958/1600x0/der-stil-balmain.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3960958,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3960958",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19510"
+    },
+    {
+      "id": 19510,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19510",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/living_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "living_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Lifestyle",
+    "cluster": [
+      "Lifestyle"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Der Stil Balmain",
+    "text": "Seit Yves Saint Laurent im Alter von 21 Jahren die Spitze von Dior erklomm, erfreut sich die Modewelt an jungen Wunderkindern. Der neue Chefdesigner von Balmain, Olivier Rousteing, ist einer von ihnen. Paris hat einen neuen Helden. Doch er tritt kein leichtes Erbe an. Wie geht er mit dem Stress vor einer Modenschau um und baut Teamgeist auf? Ein Blick in die Talentschmiede des edlen Modehauses, das 1945 von Pierre Balmain geschaffen wurde.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/der-stil-balmain-19510",
+        "description": "Seit Yves Saint Laurent im Alter von 21 Jahren die Spitze von Dior erklomm, erfreut sich die Modewelt an jungen Wunderkindern. Der neue Chefdesigner von Balmain, Olivier Rousteing, ist einer von ihnen. Paris hat einen neuen Helden. Doch er tritt kein leichtes Erbe an. Wie geht er mit dem Stress vor einer Modenschau um und baut Teamgeist auf? Ein Blick in die Talentschmiede des edlen Modehauses, das 1945 von Pierre Balmain geschaffen wurde.",
+        "duration": "PT52M30S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3960958/1200x0/der-stil-balmain.jpg",
+        "name": "Der Stil Balmain",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/der-stil-balmain-19510",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-27T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=der-stil-balmain-19510",
+              "sameAs": "%s/premium?typ=format&formatname=der-stil-balmain-19510",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/der-stil-balmain-19510",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Seit Yves Saint Laurent im Alter von 21 Jahren die Spitze von Dior erklomm, erfreut sich die Modewelt an jungen Wunderkindern. Der neue Chefdesigner von Balmain, Olivier Rousteing, ist einer von ihnen. Paris hat einen neuen Helden. Doch er tritt kein leichtes Erbe an. Wie geht er mit dem Stress vor einer Modenschau um und baut Teamgeist auf? Ein Blick in die Talentschmiede des edlen Modehauses, das 1945 von Pierre Balmain geschaffen wurde.",
+          "duration": "PT52M30S",
+          "embedUrl": "%s/googlebot/player/filme/der-stil-balmain-19510",
+          "name": "Der Stil Balmain",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3960958/1200x0/der-stil-balmain.jpg",
+          "uploadDate": "2022-07-27T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Der Stil Balmain im Online Stream | RTL+",
+        "headline": "Der Stil Balmain im Online Stream | RTL+",
+        "description": "Der Stil Balmain und viele weitere  ▶️Filme aus dem Genre Lifestyle findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/der-stil-balmain-19510",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3960958/1200x0/der-stil-balmain.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3960958/1200x0/der-stil-balmain.jpg",
+        "datePublished": "2022-07-27T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3960958/1200x0/der-stil-balmain.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Der Stil Balmain",
+            "item": "%s/filme/der-stil-balmain-19510"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Der Stil Balmain im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

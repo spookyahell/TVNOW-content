@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19498",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19498,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/step-up-all-in-19498"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Step Up: All In",
+          "teaserId": "film_3941473",
+          "teaserName": "Step Up: All In | Step Up: All In",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [
+            "FILME Female"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "Mo. 15.11.2021, 00:00 Uhr",
+          "teaserEpisodeName": "Step Up: All In"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Step Up: All In",
+        "id": 3941473,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3941473/300x0/step-up-all-in.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3941473/",
+            "filename": "step-up-all-in"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3941473/600x0/step-up-all-in.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3941473/",
+            "filename": "step-up-all-in"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3941473/1200x0/step-up-all-in.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3941473/",
+            "filename": "step-up-all-in"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3941473/300x0/step-up-all-in.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3941473/",
+            "filename": "step-up-all-in"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3941473/600x0/step-up-all-in.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3941473/",
+            "filename": "step-up-all-in"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3941473/1200x0/step-up-all-in.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3941473/",
+            "filename": "step-up-all-in"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "step-up-all-in",
+        "subheadline": "Step Up: All In",
+        "text": "Staffel  | Mo. 15.11.2021, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/step-up-all-in-19498",
+        "videoId": 3941473
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

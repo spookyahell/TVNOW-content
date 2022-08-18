@@ -1,0 +1,231 @@
+﻿{
+  "formatId": 19511,
+  "additionalMeta": {
+    "canonical": "/filme/russlands-fight-clubs-die-harte-welt-der-strassenkaempfe-19511",
+    "url": "/filme/russlands-fight-clubs-die-harte-welt-der-strassenkaempfe-19511"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Russlands Fight Clubs - Die harte Welt der Straßenkämpfe",
+      "url": "/filme/russlands-fight-clubs-die-harte-welt-der-strassenkaempfe-19511"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 19511,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Russlands Fight Clubs - Die harte Welt der Straßenkämpfe 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Russlands Fight Clubs - Die harte Welt der Straßenkämpfe im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Russlands Fight Clubs - Die harte Welt der Straßenkämpfe 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/russlands-fight-clubs-die-harte-welt-der-strassenkaempfe-19511"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3941812/1600x0/russlands-fight-clubs-die-harte-welt-der-strassenkaempfe.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3941812,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3941812",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19511"
+    },
+    {
+      "id": 19511,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19511",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Wissen"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Russlands Fight Clubs - Die harte Welt der Straßenkämpfe",
+    "text": "Das Konzept Fight Club kennen viele aus dem gleichnamigen Hollywoodklassiker. In Russlands Arbeiterbezirken finden solche Straßenkämpfe regelmäßig statt. Bei der sogenannten \"Strelka\"-Meisterschaft gibt es keine Regeln. Dabei heißt es nur Mann gegen Mann - oder Frau gegen Frau. Doch wie sind Russlands Fight Clubs organisiert, und wer nimmt daran teil? Die Doku bietet einen einzigartigen Einblick in die raue, harte Welt der Straßenkämpfe.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/russlands-fight-clubs-die-harte-welt-der-strassenkaempfe-19511",
+        "description": "Das Konzept Fight Club kennen viele aus dem gleichnamigen Hollywoodklassiker. In Russlands Arbeiterbezirken finden solche Straßenkämpfe regelmäßig statt. Bei der sogenannten \"Strelka\"-Meisterschaft gibt es keine Regeln. Dabei heißt es nur Mann gegen Mann - oder Frau gegen Frau. Doch wie sind Russlands Fight Clubs organisiert, und wer nimmt daran teil? Die Doku bietet einen einzigartigen Einblick in die raue, harte Welt der Straßenkämpfe.",
+        "duration": "PT41M22S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3941812/1200x0/russlands-fight-clubs-die-harte-welt-der-strassenkaempfe.jpg",
+        "name": "Russlands Fight Clubs - Die harte Welt der Straßenkämpfe",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/russlands-fight-clubs-die-harte-welt-der-strassenkaempfe-19511",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2022-03-05T01:10:00.000Z"
+          }
+        },
+        "url": "%s/filme/russlands-fight-clubs-die-harte-welt-der-strassenkaempfe-19511",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Das Konzept Fight Club kennen viele aus dem gleichnamigen Hollywoodklassiker. In Russlands Arbeiterbezirken finden solche Straßenkämpfe regelmäßig statt. Bei der sogenannten \"Strelka\"-Meisterschaft gibt es keine Regeln. Dabei heißt es nur Mann gegen Mann - oder Frau gegen Frau. Doch wie sind Russlands Fight Clubs organisiert, und wer nimmt daran teil? Die Doku bietet einen einzigartigen Einblick in die raue, harte Welt der Straßenkämpfe.",
+          "duration": "PT41M22S",
+          "embedUrl": "%s/googlebot/player/filme/russlands-fight-clubs-die-harte-welt-der-strassenkaempfe-19511",
+          "name": "Russlands Fight Clubs - Die harte Welt der Straßenkämpfe",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3941812/1200x0/russlands-fight-clubs-die-harte-welt-der-strassenkaempfe.jpg",
+          "uploadDate": "2022-03-05T01:10:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Russlands Fight Clubs - Die harte Welt der Straßenkämpfe im Online Stream | RTL+",
+        "headline": "Russlands Fight Clubs - Die harte Welt der Straßenkämpfe im Online Stream | RTL+",
+        "description": "Russlands Fight Clubs - Die harte Welt der Straßenkämpfe und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/russlands-fight-clubs-die-harte-welt-der-strassenkaempfe-19511",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3941812/1200x0/russlands-fight-clubs-die-harte-welt-der-strassenkaempfe.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3941812/1200x0/russlands-fight-clubs-die-harte-welt-der-strassenkaempfe.jpg",
+        "datePublished": "2022-03-05T01:10:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3941812/1200x0/russlands-fight-clubs-die-harte-welt-der-strassenkaempfe.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Russlands Fight Clubs - Die harte Welt der Straßenkämpfe",
+            "item": "%s/filme/russlands-fight-clubs-die-harte-welt-der-strassenkaempfe-19511"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Russlands Fight Clubs - Die harte Welt der Straßenkämpfe im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

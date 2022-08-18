@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20508",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20508,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/crazy-rich-20508"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Crazy Rich",
+          "teaserId": "film_4775925",
+          "teaserName": "Crazy Rich | Crazy Rich",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [
+            "FILME Female"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "Fr. 01.04.2022, 00:00 Uhr",
+          "teaserEpisodeName": "Crazy Rich"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Crazy Rich",
+        "id": 4775925,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775925/300x0/crazy-rich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775925/",
+            "filename": "crazy-rich"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775925/600x0/crazy-rich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775925/",
+            "filename": "crazy-rich"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775925/1200x0/crazy-rich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775925/",
+            "filename": "crazy-rich"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775925/300x0/crazy-rich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775925/",
+            "filename": "crazy-rich"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775925/600x0/crazy-rich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775925/",
+            "filename": "crazy-rich"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775925/1200x0/crazy-rich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775925/",
+            "filename": "crazy-rich"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "crazy-rich",
+        "subheadline": "Crazy Rich",
+        "text": "Staffel  | Fr. 01.04.2022, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/crazy-rich-20508",
+        "videoId": 4775925
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

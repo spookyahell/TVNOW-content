@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20338,
+  "additionalMeta": {
+    "canonical": "/filme/raoul-moat-killer-auf-der-flucht-20338",
+    "url": "/filme/raoul-moat-killer-auf-der-flucht-20338"
+  },
+  "ads": {
+    "station": "crime",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Raoul Moat - Killer auf der Flucht",
+      "url": "/filme/raoul-moat-killer-auf-der-flucht-20338"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20338,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Raoul Moat - Killer auf der Flucht 📺 und viele weitere ▶ Filme aus dem Genre True Crime findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Raoul Moat - Killer auf der Flucht im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Raoul Moat - Killer auf der Flucht 📺 und viele weitere ▶ Filme aus dem Genre True Crime findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/raoul-moat-killer-auf-der-flucht-20338"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4371884/1600x0/raoul-moat-killer-auf-der-flucht.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4371884,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4371884",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20338"
+    },
+    {
+      "id": 20338,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20338",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/crime_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "crime_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "True Crime",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Raoul Moat - Killer auf der Flucht ",
+    "text": "Raoul Moats blutiger Rachefeldzug durch England erschütterte 2010 eine ganze Nation und wurde zu einer der größten Polizeifahndungen der letzten Jahre. Die RTL Crime-Doku \"Raoul Moat - Der Killer-Bodybuilder\" erzählt die siebentägige Jagd auf ihn noch einmal nach. Anhand von nie zuvor veröffentlichtem Material versucht das True Crime-Stück nachzuzeichnen, was einen augenscheinlich gewöhnlichen Mann in einen skrupellosen Killer verwandelt hat.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/raoul-moat-killer-auf-der-flucht-20338",
+        "description": "Raoul Moats blutiger Rachefeldzug durch England erschütterte 2010 eine ganze Nation und wurde zu einer der größten Polizeifahndungen der letzten Jahre. Die RTL Crime-Doku \"Raoul Moat - Der Killer-Bodybuilder\" erzählt die siebentägige Jagd auf ihn noch einmal nach. Anhand von nie zuvor veröffentlichtem Material versucht das True Crime-Stück nachzuzeichnen, was einen augenscheinlich gewöhnlichen Mann in einen skrupellosen Killer verwandelt hat.",
+        "duration": "PT46M38S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4371884/1200x0/raoul-moat-killer-auf-der-flucht.jpg",
+        "name": "Raoul Moat - Killer auf der Flucht",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/raoul-moat-killer-auf-der-flucht-20338",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-01-28T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=raoul-moat-killer-auf-der-flucht-20338",
+              "sameAs": "%s/premium?typ=format&formatname=raoul-moat-killer-auf-der-flucht-20338",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/raoul-moat-killer-auf-der-flucht-20338",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Raoul Moats blutiger Rachefeldzug durch England erschütterte 2010 eine ganze Nation und wurde zu einer der größten Polizeifahndungen der letzten Jahre. Die RTL Crime-Doku \"Raoul Moat - Der Killer-Bodybuilder\" erzählt die siebentägige Jagd auf ihn noch einmal nach. Anhand von nie zuvor veröffentlichtem Material versucht das True Crime-Stück nachzuzeichnen, was einen augenscheinlich gewöhnlichen Mann in einen skrupellosen Killer verwandelt hat.",
+          "duration": "PT46M38S",
+          "embedUrl": "%s/googlebot/player/filme/raoul-moat-killer-auf-der-flucht-20338",
+          "name": "Raoul Moat - Killer auf der Flucht",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4371884/1200x0/raoul-moat-killer-auf-der-flucht.jpg",
+          "uploadDate": "2022-01-28T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Raoul Moat - Killer auf der Flucht im Online Stream | RTL+",
+        "headline": "Raoul Moat - Killer auf der Flucht im Online Stream | RTL+",
+        "description": "Raoul Moat - Killer auf der Flucht und viele weitere  ▶️Filme aus dem Genre True Crime findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/raoul-moat-killer-auf-der-flucht-20338",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4371884/1200x0/raoul-moat-killer-auf-der-flucht.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4371884/1200x0/raoul-moat-killer-auf-der-flucht.jpg",
+        "datePublished": "2022-01-28T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4371884/1200x0/raoul-moat-killer-auf-der-flucht.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Raoul Moat - Killer auf der Flucht",
+            "item": "%s/filme/raoul-moat-killer-auf-der-flucht-20338"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Raoul Moat - Killer auf der Flucht im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

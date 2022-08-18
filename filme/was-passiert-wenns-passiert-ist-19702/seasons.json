@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19702",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19702,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/was-passiert-wenn-s-passiert-ist-19702"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Was passiert, wenn's passiert ist",
+          "teaserId": "film_4109100",
+          "teaserName": "Was passiert, wenn's passiert ist | Was passiert, wenn's passiert ist",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Was passiert, wenn's passiert ist"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Was passiert, wenn's passiert ist",
+        "id": 4109100,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4109100/300x0/was-passiert-wenn-s-passiert-ist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4109100/",
+            "filename": "was-passiert-wenn-s-passiert-ist"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4109100/600x0/was-passiert-wenn-s-passiert-ist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4109100/",
+            "filename": "was-passiert-wenn-s-passiert-ist"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4109100/1200x0/was-passiert-wenn-s-passiert-ist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4109100/",
+            "filename": "was-passiert-wenn-s-passiert-ist"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4109100/300x0/was-passiert-wenn-s-passiert-ist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4109100/",
+            "filename": "was-passiert-wenn-s-passiert-ist"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4109100/600x0/was-passiert-wenn-s-passiert-ist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4109100/",
+            "filename": "was-passiert-wenn-s-passiert-ist"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4109100/1200x0/was-passiert-wenn-s-passiert-ist.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4109100/",
+            "filename": "was-passiert-wenn-s-passiert-ist"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "was-passiert-wenns-passiert-ist",
+        "subheadline": "Was passiert, wenn's passiert ist",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/was-passiert-wenn-s-passiert-ist-19702",
+        "videoId": 4109100
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

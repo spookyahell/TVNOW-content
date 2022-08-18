@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19403,
+  "additionalMeta": {
+    "canonical": "/filme/das-walross-und-der-whistleblower-19403",
+    "url": "/filme/das-walross-und-der-whistleblower-19403"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Das Walross und der Whistleblower",
+      "url": "/filme/das-walross-und-der-whistleblower-19403"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19403,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Das Walross und der Whistleblower 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Das Walross und der Whistleblower im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Das Walross und der Whistleblower 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/das-walross-und-der-whistleblower-19403"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3906577/1600x0/das-walross-und-der-whistleblower.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3906577,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3906577",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19403"
+    },
+    {
+      "id": 19403,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19403",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Das Walross und der Whistleblower",
+    "text": "Für Phil Demers wird ein Lebenstraum wahr, als er im \"Marineland\" in Ontario, Kanada, seine Stelle als Tierpfleger und Trainer antritt. Seine besondere Beziehung zu dem Walrossjungtier \"Smooshi\" wird zur medialen Sensation. Doch 2012 verlässt der \"Walrossflüsterer\" Marineland - und seine geliebte Smooshi - um als Whistleblower auf die unzumutbaren Bedingungen im Tierpark aufmerksam zu machen. Ein jahrelanger Streit um das Wohl der Tiere entbrennt",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/das-walross-und-der-whistleblower-19403",
+        "description": "Für Phil Demers wird ein Lebenstraum wahr, als er im \"Marineland\" in Ontario, Kanada, seine Stelle als Tierpfleger und Trainer antritt. Seine besondere Beziehung zu dem Walrossjungtier \"Smooshi\" wird zur medialen Sensation. Doch 2012 verlässt der \"Walrossflüsterer\" Marineland - und seine geliebte Smooshi - um als Whistleblower auf die unzumutbaren Bedingungen im Tierpark aufmerksam zu machen. Ein jahrelanger Streit um das Wohl der Tiere entbrennt",
+        "duration": "PT1H25M31S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3906577/1200x0/das-walross-und-der-whistleblower.jpg",
+        "name": "Das Walross und der Whistleblower",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/das-walross-und-der-whistleblower-19403",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-03-22T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=das-walross-und-der-whistleblower-19403",
+              "sameAs": "%s/premium?typ=format&formatname=das-walross-und-der-whistleblower-19403",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/das-walross-und-der-whistleblower-19403",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Für Phil Demers wird ein Lebenstraum wahr, als er im \"Marineland\" in Ontario, Kanada, seine Stelle als Tierpfleger und Trainer antritt. Seine besondere Beziehung zu dem Walrossjungtier \"Smooshi\" wird zur medialen Sensation. Doch 2012 verlässt der \"Walrossflüsterer\" Marineland - und seine geliebte Smooshi - um als Whistleblower auf die unzumutbaren Bedingungen im Tierpark aufmerksam zu machen. Ein jahrelanger Streit um das Wohl der Tiere entbrennt",
+          "duration": "PT1H25M31S",
+          "embedUrl": "%s/googlebot/player/filme/das-walross-und-der-whistleblower-19403",
+          "name": "Das Walross und der Whistleblower",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3906577/1200x0/das-walross-und-der-whistleblower.jpg",
+          "uploadDate": "2021-03-22T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Das Walross und der Whistleblower im Online Stream | RTL+",
+        "headline": "Das Walross und der Whistleblower im Online Stream | RTL+",
+        "description": "Das Walross und der Whistleblower und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+. Ein Film mit ▶️Phil Demers, John Holer, Glen Owen, Joe Rogan, Fabian Mannig, Jimmy Kimmel, Jim Hammond, Andrew Burns, Ben White, Mike Garrett, Brendan Kelly, Ren Buchholz, Doug Draper, Donald Neil, Ted Salci, Michael Noonan, Peter Mansbridge, Dan Long, David Rosen, Murray Sinclair, Angela Bentivegna, Holly Lake, Christine Santos, Camille Labchuck, Caolyn Ioannoni, Naomi Rose, Elizabeth May.",
+        "url": "%s/filme/das-walross-und-der-whistleblower-19403",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3906577/1200x0/das-walross-und-der-whistleblower.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3906577/1200x0/das-walross-und-der-whistleblower.jpg",
+        "datePublished": "2021-03-22T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3906577/1200x0/das-walross-und-der-whistleblower.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Das Walross und der Whistleblower",
+            "item": "%s/filme/das-walross-und-der-whistleblower-19403"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Das Walross und der Whistleblower im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,214 @@
+﻿{
+  "formatId": 20668,
+  "additionalMeta": {
+    "canonical": "/serien/warum-wir-laenger-leben-20668",
+    "url": "/serien/warum-wir-laenger-leben-20668"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Warum wir länger leben",
+      "url": "/serien/warum-wir-laenger-leben-20668"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 20668,
+  "meta": [
+    {
+      "content": "Die Serie Warum wir länger leben (GEO Television) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺  im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Warum wir länger leben im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Warum wir länger leben (GEO Television) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺  im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/warum-wir-laenger-leben-20668"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/20668_03artwork/1600x0/warum-wir-laenger-leben.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/20668",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/20668",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/20668",
+      "type": "teaserrow"
+    },
+    {
+      "id": 20668,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20668",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/formate/home",
+      "levels": [
+        "tv_now_de",
+        "formate",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/warum-wir-laenger-leben-20668",
+        "url": "%s/serien/warum-wir-laenger-leben-20668",
+        "name": "Warum wir länger leben",
+        "description": "Die Serie Warum wir länger leben (GEO Television) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺  im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/20668_04metalogo/1200x0/warum-wir-laenger-leben.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "",
+        "headline": "",
+        "description": "Die Serie Warum wir länger leben (GEO Television) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺  im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/warum-wir-laenger-leben-20668",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/20668_04metalogo/1200x0/warum-wir-laenger-leben.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/20668_04metalogo/1200x0/warum-wir-laenger-leben.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/20668_04metalogo/1200x0/warum-wir-laenger-leben.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Warum wir länger leben",
+            "item": "%s/serien/warum-wir-laenger-leben-20668"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Warum wir länger leben im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

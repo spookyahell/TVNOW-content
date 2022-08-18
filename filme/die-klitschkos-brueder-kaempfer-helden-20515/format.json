@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20515,
+  "additionalMeta": {
+    "canonical": "/filme/die-klitschkos-brueder-kaempfer-helden-20515",
+    "url": "/filme/die-klitschkos-brueder-kaempfer-helden-20515"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die Klitschkos - Brüder, Kämpfer, Helden",
+      "url": "/filme/die-klitschkos-brueder-kaempfer-helden-20515"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20515,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Die Klitschkos - Brüder, Kämpfer, Helden 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Klitschkos - Brüder, Kämpfer, Helden im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Die Klitschkos - Brüder, Kämpfer, Helden 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/die-klitschkos-brueder-kaempfer-helden-20515"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4752843/1600x0/die-klitschkos-brueder-kaempfer-helden.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4752843,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4752843",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20515"
+    },
+    {
+      "id": 20515,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20515",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tndokubio",
+      "video": "dvrsowf_ten_tndokubio",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/tvnow_doku_bio/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "tvnow_doku_bio",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Promis"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Die Klitschkos - Brüder, Kämpfer, Helden",
+    "text": "Vitali und Wladimir Klitschko - als Box-Weltmeister wurden sie im Ring gefürchtet, jetzt kämpfen sie Seite an Seite an vorderster Front für den Frieden in der Ukraine. Neben dem Kampfsport und der Familie liegen ihnen seit jeher die Verbesserung der Lebensumstände und die Demokratiebewegung in ihrem Heimatland am Herzen.\nPeter Reichert und Sven Wenzel beleuchten den Werdegang der beiden Brüder.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/die-klitschkos-brueder-kaempfer-helden-20515",
+        "description": "Vitali und Wladimir Klitschko - als Box-Weltmeister wurden sie im Ring gefürchtet, jetzt kämpfen sie Seite an Seite an vorderster Front für den Frieden in der Ukraine. Neben dem Kampfsport und der Familie liegen ihnen seit jeher die Verbesserung der Lebensumstände und die Demokratiebewegung in ihrem Heimatland am Herzen.\nPeter Reichert und Sven Wenzel beleuchten den Werdegang der beiden Brüder.",
+        "duration": "PT32M",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4752843/1200x0/die-klitschkos-brueder-kaempfer-helden.jpg",
+        "name": "Die Klitschkos - Brüder, Kämpfer, Helden",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/die-klitschkos-brueder-kaempfer-helden-20515",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-03-22T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=die-klitschkos-brueder-kaempfer-helden-20515",
+              "sameAs": "%s/premium?typ=format&formatname=die-klitschkos-brueder-kaempfer-helden-20515",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/die-klitschkos-brueder-kaempfer-helden-20515",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Vitali und Wladimir Klitschko - als Box-Weltmeister wurden sie im Ring gefürchtet, jetzt kämpfen sie Seite an Seite an vorderster Front für den Frieden in der Ukraine. Neben dem Kampfsport und der Familie liegen ihnen seit jeher die Verbesserung der Lebensumstände und die Demokratiebewegung in ihrem Heimatland am Herzen.\nPeter Reichert und Sven Wenzel beleuchten den Werdegang der beiden Brüder.",
+          "duration": "PT32M",
+          "embedUrl": "%s/googlebot/player/filme/die-klitschkos-brueder-kaempfer-helden-20515",
+          "name": "Die Klitschkos - Brüder, Kämpfer, Helden",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4752843/1200x0/die-klitschkos-brueder-kaempfer-helden.jpg",
+          "uploadDate": "2022-03-22T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Klitschkos - Brüder, Kämpfer, Helden im Online Stream | RTL+",
+        "headline": "Die Klitschkos - Brüder, Kämpfer, Helden im Online Stream | RTL+",
+        "description": "Die Klitschkos - Brüder, Kämpfer, Helden und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/die-klitschkos-brueder-kaempfer-helden-20515",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4752843/1200x0/die-klitschkos-brueder-kaempfer-helden.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4752843/1200x0/die-klitschkos-brueder-kaempfer-helden.jpg",
+        "datePublished": "2022-03-22T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4752843/1200x0/die-klitschkos-brueder-kaempfer-helden.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Klitschkos - Brüder, Kämpfer, Helden",
+            "item": "%s/filme/die-klitschkos-brueder-kaempfer-helden-20515"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Klitschkos - Brüder, Kämpfer, Helden im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

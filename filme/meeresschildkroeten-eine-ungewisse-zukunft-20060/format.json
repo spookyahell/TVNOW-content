@@ -1,0 +1,238 @@
+﻿{
+  "formatId": 20060,
+  "additionalMeta": {
+    "canonical": "/filme/meeresschildkroeten-eine-ungewisse-zukunft-20060",
+    "url": "/filme/meeresschildkroeten-eine-ungewisse-zukunft-20060"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Meeresschildkröten - Eine ungewisse Zukunft",
+      "url": "/filme/meeresschildkroeten-eine-ungewisse-zukunft-20060"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20060,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Meeresschildkröten - Eine ungewisse Zukunft 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Meeresschildkröten - Eine ungewisse Zukunft im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Meeresschildkröten - Eine ungewisse Zukunft 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/meeresschildkroeten-eine-ungewisse-zukunft-20060"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4187487/1600x0/meeresschildkroeten-eine-ungewisse-zukunft.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4187487,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4187487",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20060"
+    },
+    {
+      "id": 20060,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20060",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Tiere",
+      "Natur"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Meeresschildkröten - Eine ungewisse Zukunft",
+    "text": "Ist die Zukunft der Meeresschildkröten in Gefahr? Meeresbiologen beobachten eine beunruhigende Entwicklung: an den berühmtesten Schildkrötenstränden in Costa Rica, Australien und Afrika schlüpfen fast nur noch Weibchen. Was passiert mit den Männchen? Forscherteams stoßen schon bald auf eine wichtige Fährte: unser Klima. Denn das Geschlecht der Schlüpflinge wird durch die Temperatur im Nest bestimmt.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/meeresschildkroeten-eine-ungewisse-zukunft-20060",
+        "description": "Ist die Zukunft der Meeresschildkröten in Gefahr? Meeresbiologen beobachten eine beunruhigende Entwicklung: an den berühmtesten Schildkrötenstränden in Costa Rica, Australien und Afrika schlüpfen fast nur noch Weibchen. Was passiert mit den Männchen? Forscherteams stoßen schon bald auf eine wichtige Fährte: unser Klima. Denn das Geschlecht der Schlüpflinge wird durch die Temperatur im Nest bestimmt.",
+        "duration": "PT49M58S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4187487/1200x0/meeresschildkroeten-eine-ungewisse-zukunft.jpg",
+        "name": "Meeresschildkröten - Eine ungewisse Zukunft",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/meeresschildkroeten-eine-ungewisse-zukunft-20060",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-11-16T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=meeresschildkroeten-eine-ungewisse-zukunft-20060",
+              "sameAs": "%s/premium?typ=format&formatname=meeresschildkroeten-eine-ungewisse-zukunft-20060",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/meeresschildkroeten-eine-ungewisse-zukunft-20060",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Ist die Zukunft der Meeresschildkröten in Gefahr? Meeresbiologen beobachten eine beunruhigende Entwicklung: an den berühmtesten Schildkrötenstränden in Costa Rica, Australien und Afrika schlüpfen fast nur noch Weibchen. Was passiert mit den Männchen? Forscherteams stoßen schon bald auf eine wichtige Fährte: unser Klima. Denn das Geschlecht der Schlüpflinge wird durch die Temperatur im Nest bestimmt.",
+          "duration": "PT49M58S",
+          "embedUrl": "%s/googlebot/player/filme/meeresschildkroeten-eine-ungewisse-zukunft-20060",
+          "name": "Meeresschildkröten - Eine ungewisse Zukunft",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4187487/1200x0/meeresschildkroeten-eine-ungewisse-zukunft.jpg",
+          "uploadDate": "2021-11-16T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Meeresschildkröten - Eine ungewisse Zukunft im Online Stream | RTL+",
+        "headline": "Meeresschildkröten - Eine ungewisse Zukunft im Online Stream | RTL+",
+        "description": "Meeresschildkröten - Eine ungewisse Zukunft und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/meeresschildkroeten-eine-ungewisse-zukunft-20060",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4187487/1200x0/meeresschildkroeten-eine-ungewisse-zukunft.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4187487/1200x0/meeresschildkroeten-eine-ungewisse-zukunft.jpg",
+        "datePublished": "2021-11-16T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4187487/1200x0/meeresschildkroeten-eine-ungewisse-zukunft.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Meeresschildkröten - Eine ungewisse Zukunft",
+            "item": "%s/filme/meeresschildkroeten-eine-ungewisse-zukunft-20060"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Meeresschildkröten - Eine ungewisse Zukunft im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

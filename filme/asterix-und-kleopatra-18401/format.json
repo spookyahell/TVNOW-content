@@ -1,0 +1,249 @@
+﻿{
+  "formatId": 18401,
+  "additionalMeta": {
+    "canonical": "/filme/asterix-und-kleopatra-18401",
+    "url": "/filme/asterix-und-kleopatra-18401"
+  },
+  "ads": {
+    "station": "superrtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Asterix und Kleopatra",
+      "url": "/filme/asterix-und-kleopatra-18401"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18401,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Asterix und Kleopatra 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Asterix und Kleopatra im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Asterix und Kleopatra 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/asterix-und-kleopatra-18401"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3025340/1600x0/asterix-und-kleopatra.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3025340,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3025340",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18401"
+    },
+    {
+      "id": 18401,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/18401",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    },
+    {
+      "id": 15155,
+      "label": "Weitere Asterix-Filme",
+      "moduleLayout": "dvd",
+      "moduleUrl": "/module/teaserrow/manual/15155",
+      "type": "teaserrow"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_srnfilme",
+      "video": "dvrsowf_ten_srnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/super_rtl_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "super_rtl_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 10 bis Teens",
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Action und Abenteuer",
+      "KIDS Jungs",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Asterix und Kleopatra",
+    "text": "Julius Cäsar und Kleopatra treten in einen Wettstreit: Gelingt es den Ägyptern, einen Palast binnen drei Monaten zu erbauen? Kleopatra beauftragt den Architekten Numerobis mit den Arbeiten. Doch ständig wird er Opfer von Sabotageaktionen. Kurzerhand bittet er seinen Freund Miraculix um Hilfe. Der Druide reist im Gespann mit Asterix und Obelix an. Das schmeckt den Römern gar nicht ...",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/asterix-und-kleopatra-18401",
+        "description": "Julius Cäsar und Kleopatra treten in einen Wettstreit: Gelingt es den Ägyptern, einen Palast binnen drei Monaten zu erbauen? Kleopatra beauftragt den Architekten Numerobis mit den Arbeiten. Doch ständig wird er Opfer von Sabotageaktionen. Kurzerhand bittet er seinen Freund Miraculix um Hilfe. Der Druide reist im Gespann mit Asterix und Obelix an. Das schmeckt den Römern gar nicht ...",
+        "duration": "PT1H7M25S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3025340/1200x0/asterix-und-kleopatra.jpg",
+        "name": "Asterix und Kleopatra",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/asterix-und-kleopatra-18401",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-03-06T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=asterix-und-kleopatra-18401",
+              "sameAs": "%s/premium?typ=format&formatname=asterix-und-kleopatra-18401",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/asterix-und-kleopatra-18401",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Julius Cäsar und Kleopatra treten in einen Wettstreit: Gelingt es den Ägyptern, einen Palast binnen drei Monaten zu erbauen? Kleopatra beauftragt den Architekten Numerobis mit den Arbeiten. Doch ständig wird er Opfer von Sabotageaktionen. Kurzerhand bittet er seinen Freund Miraculix um Hilfe. Der Druide reist im Gespann mit Asterix und Obelix an. Das schmeckt den Römern gar nicht ...",
+          "duration": "PT1H7M25S",
+          "embedUrl": "%s/googlebot/player/filme/asterix-und-kleopatra-18401",
+          "name": "Asterix und Kleopatra",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3025340/1200x0/asterix-und-kleopatra.jpg",
+          "uploadDate": "2020-03-06T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Asterix und Kleopatra im Online Stream | RTL+",
+        "headline": "Asterix und Kleopatra im Online Stream | RTL+",
+        "description": "Asterix und Kleopatra und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/asterix-und-kleopatra-18401",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3025340/1200x0/asterix-und-kleopatra.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3025340/1200x0/asterix-und-kleopatra.jpg",
+        "datePublished": "2020-03-06T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3025340/1200x0/asterix-und-kleopatra.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Asterix und Kleopatra",
+            "item": "%s/filme/asterix-und-kleopatra-18401"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Asterix und Kleopatra im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

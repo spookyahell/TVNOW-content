@@ -1,0 +1,204 @@
+﻿{
+  "formatId": 19134,
+  "additionalMeta": {
+    "canonical": "/shows/comeback-oder-weg-rtl-plus-19134",
+    "url": "/shows/comeback-oder-weg-rtl-plus-19134"
+  },
+  "ads": {
+    "station": "rtlplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "Comeback oder weg? - RTLup",
+      "url": "/shows/comeback-oder-weg-rtl-plus-19134"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 19134,
+  "meta": [
+    {
+      "content": "Die Show ▶ Comeback oder weg? - RTLup (RTLup) streamen & weitere Highlights aus dem Genre 📺 Show im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "video, videos, online sehen, internet tv, fernsehen, video on demand,  show, rtl, Comeback oder weg?, Show, Promi, Team, Lili mari, Verona Pooth, San Diego, Janine Kunze, Retro, Teenager, Erinnerungen, Dinge, Kids, Brauner Bär, Pong, Generation; Nostalgie",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Comeback oder weg? - RTLup im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ Comeback oder weg? - RTLup (RTLup) streamen & weitere Highlights aus dem Genre 📺 Show im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/shows/comeback-oder-weg-rtl-plus-19134"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/19134_03artwork/1600x0/comeback-oder-weg-rtl-plus.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/19134",
+      "type": "teaserrow"
+    },
+    {
+      "id": 19134,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19134",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rpncomebackoderweg",
+      "video": "dvrsowf_ten_rpncomebackoderweg",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_plus_now/formate/comeback_oder_weg/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_plus_now",
+        "formate",
+        "comeback_oder_weg",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Show",
+    "cluster": [
+      "Lifestyle"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Comeback oder weg? - Infos zur Show",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/shows/comeback-oder-weg-rtl-plus-19134",
+        "url": "%s/shows/comeback-oder-weg-rtl-plus-19134",
+        "name": "Comeback oder weg? - RTLup",
+        "description": "Die Show ▶ Comeback oder weg? - RTLup (RTLup) streamen & weitere Highlights aus dem Genre 📺 Show im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/19134_04metalogo/1200x0/comeback-oder-weg-rtl-plus.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Comeback oder weg? - Infos zur Show",
+        "headline": "Comeback oder weg? - Infos zur Show",
+        "description": "Die Show ▶ Comeback oder weg? - RTLup (RTLup) streamen & weitere Highlights aus dem Genre 📺 Show im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "url": "%s/shows/comeback-oder-weg-rtl-plus-19134",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/19134_04metalogo/1200x0/comeback-oder-weg-rtl-plus.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/19134_04metalogo/1200x0/comeback-oder-weg-rtl-plus.png",
+        "keywords": "video, videos, online sehen, internet tv, fernsehen, video on demand,  show, rtl, Comeback oder weg?, Show, Promi, Team, Lili mari, Verona Pooth, San Diego, Janine Kunze, Retro, Teenager, Erinnerungen, Dinge, Kids, Brauner Bär, Pong, Generation; Nostalgie",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/19134_04metalogo/1200x0/comeback-oder-weg-rtl-plus.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "%s/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Comeback oder weg? - RTLup",
+            "item": "%s/shows/comeback-oder-weg-rtl-plus-19134"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Comeback oder weg? - RTLup im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

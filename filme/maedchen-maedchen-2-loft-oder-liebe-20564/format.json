@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20564,
+  "additionalMeta": {
+    "canonical": "/filme/maedchen-maedchen-2-loft-oder-liebe-20564",
+    "url": "/filme/maedchen-maedchen-2-loft-oder-liebe-20564"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Mädchen Mädchen 2 - Loft oder Liebe",
+      "url": "/filme/maedchen-maedchen-2-loft-oder-liebe-20564"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20564,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Mädchen Mädchen 2 - Loft oder Liebe 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Mädchen Mädchen 2 - Loft oder Liebe im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Mädchen Mädchen 2 - Loft oder Liebe 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/maedchen-maedchen-2-loft-oder-liebe-20564"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4799332/1600x0/maedchen-maedchen-2-loft-oder-liebe.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4799332,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4799332",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20564"
+    },
+    {
+      "id": 20564,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20564",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [
+      "FILME Komödien"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Mädchen Mädchen 2 - Loft oder Liebe",
+    "text": "Die Studentinnen Inken, Lucy und Lena haben nicht viel Geld und suchen in München nach einer passenden Wohnung - was sich dementsprechend schwierig gestaltet. Auch die Liebe lässt immer noch auf sich warten. Schließlich kommen sie auf die zweifelhafte Idee, alle ihre Probleme auf einen Schlag zu lösen, indem sie sich reiche Männer mit großen Wohnungen angeln. Das ist jedoch leichter gesagt als getan.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/maedchen-maedchen-2-loft-oder-liebe-20564",
+        "description": "Die Studentinnen Inken, Lucy und Lena haben nicht viel Geld und suchen in München nach einer passenden Wohnung - was sich dementsprechend schwierig gestaltet. Auch die Liebe lässt immer noch auf sich warten. Schließlich kommen sie auf die zweifelhafte Idee, alle ihre Probleme auf einen Schlag zu lösen, indem sie sich reiche Männer mit großen Wohnungen angeln. Das ist jedoch leichter gesagt als getan.",
+        "duration": "PT1H24M34S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4799332/1200x0/maedchen-maedchen-2-loft-oder-liebe.jpg",
+        "name": "Mädchen Mädchen 2 - Loft oder Liebe",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/maedchen-maedchen-2-loft-oder-liebe-20564",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-05-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=maedchen-maedchen-2-loft-oder-liebe-20564",
+              "sameAs": "%s/premium?typ=format&formatname=maedchen-maedchen-2-loft-oder-liebe-20564",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/maedchen-maedchen-2-loft-oder-liebe-20564",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die Studentinnen Inken, Lucy und Lena haben nicht viel Geld und suchen in München nach einer passenden Wohnung - was sich dementsprechend schwierig gestaltet. Auch die Liebe lässt immer noch auf sich warten. Schließlich kommen sie auf die zweifelhafte Idee, alle ihre Probleme auf einen Schlag zu lösen, indem sie sich reiche Männer mit großen Wohnungen angeln. Das ist jedoch leichter gesagt als getan.",
+          "duration": "PT1H24M34S",
+          "embedUrl": "%s/googlebot/player/filme/maedchen-maedchen-2-loft-oder-liebe-20564",
+          "name": "Mädchen Mädchen 2 - Loft oder Liebe",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4799332/1200x0/maedchen-maedchen-2-loft-oder-liebe.jpg",
+          "uploadDate": "2022-05-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Mädchen Mädchen 2 - Loft oder Liebe im Online Stream | RTL+",
+        "headline": "Mädchen Mädchen 2 - Loft oder Liebe im Online Stream | RTL+",
+        "description": "Mädchen Mädchen 2 - Loft oder Liebe und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei RTL+. Ein Film mit ▶️Diana Amft, Karoline Herfurth, Jasmin Gerat, Max Riemelt, Sebastian Ströbel, Max von Thun, Florian David Fitz, Simon Verhoeven, Nadja Petri.",
+        "url": "%s/filme/maedchen-maedchen-2-loft-oder-liebe-20564",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4799332/1200x0/maedchen-maedchen-2-loft-oder-liebe.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4799332/1200x0/maedchen-maedchen-2-loft-oder-liebe.jpg",
+        "datePublished": "2022-05-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4799332/1200x0/maedchen-maedchen-2-loft-oder-liebe.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mädchen Mädchen 2 - Loft oder Liebe",
+            "item": "%s/filme/maedchen-maedchen-2-loft-oder-liebe-20564"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Mädchen Mädchen 2 - Loft oder Liebe im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,109 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19453",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19453,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/first-ladies-19453/staffel-1/episode-1-michelle-obama-3910275"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "First Ladies",
+          "teaserId": "serie_episode_3910275",
+          "teaserName": "First Ladies | Staffel 1 | Folge 1 | Michelle Obama",
+          "teaserPayType": "paid",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Biographie"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Michelle Obama"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Michelle Obama",
+        "id": 3910275,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3910275/300x0/michelle-obama.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3910275/",
+            "filename": "michelle-obama"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3910275/600x0/michelle-obama.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3910275/",
+            "filename": "michelle-obama"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3910275/1200x0/michelle-obama.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3910275/",
+            "filename": "michelle-obama"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3910275/300x0/michelle-obama.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3910275/",
+            "filename": "michelle-obama"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3910275/600x0/michelle-obama.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3910275/",
+            "filename": "michelle-obama"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3910275/1200x0/michelle-obama.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3910275/",
+            "filename": "michelle-obama"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "first-ladies",
+        "subheadline": "Michelle Obama",
+        "text": "Staffel 1, Folge 1 | RTL+",
+        "type": "serie",
+        "url": "/serien/first-ladies-19453/staffel-1/episode-1-michelle-obama-3910275",
+        "videoId": 3910275
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

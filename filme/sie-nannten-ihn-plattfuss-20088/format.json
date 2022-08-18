@@ -1,0 +1,238 @@
+﻿{
+  "formatId": 20088,
+  "additionalMeta": {
+    "canonical": "/filme/sie-nannten-ihn-plattfuss-20088",
+    "url": "/filme/sie-nannten-ihn-plattfuss-20088"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Sie nannten ihn Plattfuß",
+      "url": "/filme/sie-nannten-ihn-plattfuss-20088"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20088,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Sie nannten ihn Plattfuß 📺 und viele weitere ▶ Filme aus dem Genre Action findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Sie nannten ihn Plattfuß im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Sie nannten ihn Plattfuß 📺 und viele weitere ▶ Filme aus dem Genre Action findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/sie-nannten-ihn-plattfuss-20088"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4219753/1600x0/sie-nannten-ihn-plattfuss.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4219753,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4219753",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20088"
+    },
+    {
+      "id": 20088,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20088",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_abenteuer/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_abenteuer",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Action",
+    "cluster": [
+      "FILME Abenteuer",
+      "FILME Komödien"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Sie nannten ihn Plattfuß - Informationen zum Film",
+    "text": "Kommissar Rizzo versucht einen Rauschgiftring in Neapel auffliegen zu lassen. Während er von seinem korrupten Chef keine Hilfe erwarten kann, bekommt der Kommissar zu seinem Entsetzen Hilfe von der Camorra.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/sie-nannten-ihn-plattfuss-20088",
+        "description": "Kommissar Rizzo versucht einen Rauschgiftring in Neapel auffliegen zu lassen. Während er von seinem korrupten Chef keine Hilfe erwarten kann, bekommt der Kommissar zu seinem Entsetzen Hilfe von der Camorra.",
+        "duration": "PT1H40M9S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4219753/1200x0/sie-nannten-ihn-plattfuss.jpg",
+        "name": "Sie nannten ihn Plattfuß",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/sie-nannten-ihn-plattfuss-20088",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=sie-nannten-ihn-plattfuss-20088",
+              "sameAs": "%s/premium?typ=format&formatname=sie-nannten-ihn-plattfuss-20088",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/sie-nannten-ihn-plattfuss-20088",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Kommissar Rizzo versucht einen Rauschgiftring in Neapel auffliegen zu lassen. Während er von seinem korrupten Chef keine Hilfe erwarten kann, bekommt der Kommissar zu seinem Entsetzen Hilfe von der Camorra.",
+          "duration": "PT1H40M9S",
+          "embedUrl": "%s/googlebot/player/filme/sie-nannten-ihn-plattfuss-20088",
+          "name": "Sie nannten ihn Plattfuß",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4219753/1200x0/sie-nannten-ihn-plattfuss.jpg",
+          "uploadDate": "2022-07-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Sie nannten ihn Plattfuß im Online Stream | RTL+",
+        "headline": "Sie nannten ihn Plattfuß im Online Stream | RTL+",
+        "description": "Sie nannten ihn Plattfuß und viele weitere  ▶️Filme aus dem Genre Action findest du im Online Stream bei RTL+. Ein Film mit ▶️Bud Spencer, Adalberto Maria Merli, Raymond Pellegrin, Mario Pilar, Enzo Cannavale, Angelo Infanti, Salvatore Morra, Enzo Maggio, Dominic Barto, Dante Cleri, Osiride Pevarello, Nino Vingelli, Marcello Verziera, Vittorio Duse, Omero Capanna, Pietro Torrisi, Jho Jhenkins, Eros Buttaglieri, Juliette Mayniel, Claudio Ruffini, Lino Murolo, Aldo Rendine, Augusto Funari, Emilio Messina, Giacomo Rizzo, Franco Angrisano, Gennaro Cuomo.",
+        "url": "%s/filme/sie-nannten-ihn-plattfuss-20088",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4219753/1200x0/sie-nannten-ihn-plattfuss.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4219753/1200x0/sie-nannten-ihn-plattfuss.jpg",
+        "datePublished": "2022-07-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4219753/1200x0/sie-nannten-ihn-plattfuss.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sie nannten ihn Plattfuß",
+            "item": "%s/filme/sie-nannten-ihn-plattfuss-20088"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Sie nannten ihn Plattfuß im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

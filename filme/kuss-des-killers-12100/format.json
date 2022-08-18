@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 12100,
+  "additionalMeta": {
+    "canonical": "/filme/kuss-des-killers-12100",
+    "url": "/filme/kuss-des-killers-12100"
+  },
+  "ads": {
+    "station": "rtlplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Der Kuss des Killers",
+      "url": "/filme/kuss-des-killers-12100"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 12100,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Der Kuss des Killers 📺 und viele weitere ▶ Filme aus dem Genre Crime findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "video, videos, online sehen, internet tv, fernsehen, video on demand, RTL+, Kuss, Killer",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Der Kuss des Killers im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Der Kuss des Killers 📺 und viele weitere ▶ Filme aus dem Genre Crime findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/kuss-des-killers-12100"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4887700/1600x0/der-kuss-des-killers.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4887700,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4887700",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/12100"
+    },
+    {
+      "id": 12100,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/12100",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rpnfilme",
+      "video": "dvrsowf_ten_rpnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_plus_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_plus_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Crime",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Der Kuss des Killers",
+    "text": "Bei RTL+ kannst Du den Film Der Kuss des Killers und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/der-kuss-des-killers-12100",
+        "description": "Die Polizistin Vera wird als Undercover-Agentin auf Arthur angesetzt. Veras Chef hat ihr verschwiegen, dass Arthur ein Auftragskiller ist, der bereits einen V-Mann umgebracht hat. Trotzdem ahnt die junge Frau, dass Arthur sehr gefährlich ist. Gleichzeitig spürt sie, dass sie drauf und dran ist, sich in Arthur zu verlieben. Ihm geht es ähnlich: Er wittert die Gefahr, die von Vera ausgeht, doch auch er fühlt sich magisch zu ihr hingezogen.",
+        "duration": "PT1H33M38S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4887700/1200x0/kuss-des-killers.jpg",
+        "name": "Der Kuss des Killers",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/der-kuss-des-killers-12100",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-14T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=kuss-des-killers-12100",
+              "sameAs": "%s/premium?typ=format&formatname=kuss-des-killers-12100",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/der-kuss-des-killers-12100",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die Polizistin Vera wird als Undercover-Agentin auf Arthur angesetzt. Veras Chef hat ihr verschwiegen, dass Arthur ein Auftragskiller ist, der bereits einen V-Mann umgebracht hat. Trotzdem ahnt die junge Frau, dass Arthur sehr gefährlich ist. Gleichzeitig spürt sie, dass sie drauf und dran ist, sich in Arthur zu verlieben. Ihm geht es ähnlich: Er wittert die Gefahr, die von Vera ausgeht, doch auch er fühlt sich magisch zu ihr hingezogen.",
+          "duration": "PT1H33M38S",
+          "embedUrl": "%s/googlebot/player/filme/der-kuss-des-killers-12100",
+          "name": "Der Kuss des Killers",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4887700/1200x0/kuss-des-killers.jpg",
+          "uploadDate": "2022-07-14T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Der Kuss des Killers im Online Stream | RTL+",
+        "headline": "Der Kuss des Killers im Online Stream | RTL+",
+        "description": "Der Kuss des Killers und viele weitere  ▶️Filme aus dem Genre Crime findest du im Online Stream bei RTL+. Ein Film mit ▶️Sandra Speichert, Oliver Korittke, Henry Hübchen, Jenny Schily, Manfred Lehmann, Jim Boeven, Manfred Andrae, Michael Brandner, Andreas Patton.",
+        "url": "%s/filme/der-kuss-des-killers-12100",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4887700/1200x0/kuss-des-killers.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4887700/1200x0/kuss-des-killers.jpg",
+        "datePublished": "2022-07-14T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4887700/1200x0/kuss-des-killers.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Der Kuss des Killers",
+            "item": "%s/filme/kuss-des-killers-12100"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Der Kuss des Killers im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

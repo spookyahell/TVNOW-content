@@ -1,0 +1,239 @@
+﻿{
+  "formatId": 20703,
+  "additionalMeta": {
+    "canonical": "/filme/spieglein-spieglein-die-wirklich-wahre-geschichte-von-schneewittchen-20703",
+    "url": "/filme/spieglein-spieglein-die-wirklich-wahre-geschichte-von-schneewittchen-20703"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Spieglein Spieglein - Die wirklich wahre Geschichte von Schneewittchen",
+      "url": "/filme/spieglein-spieglein-die-wirklich-wahre-geschichte-von-schneewittchen-20703"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20703,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Spieglein Spieglein - Die wirklich wahre Geschichte von Schneewittchen 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Spieglein Spieglein - Die wirklich wahre Geschichte von Schneewittchen im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Spieglein Spieglein - Die wirklich wahre Geschichte von Schneewittchen 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/spieglein-spieglein-die-wirklich-wahre-geschichte-von-schneewittchen-20703"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4820308/1600x0/spieglein-spieglein-die-wirklich-wahre-geschichte-von-schneewittchen.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4820308,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4820308",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20703"
+    },
+    {
+      "id": 20703,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20703",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/kids_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "kids_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Spieglein Spieglein - Die wirklich wahre Geschichte von Schneewittchen",
+    "text": "Lange war Königin Clementianna die schönste Frau in ihrem Königreich, doch dann prophezeit ihr der magische Spiegel, dass ihre Stieftochter Schneewittchen sich anschickt, noch schöner zu werden. Außerdem will sie die Königin auf dem Thron ablösen, deshalb verbannt die Königin die Konkurrentin in den finsteren Wald. Dort trifft Schneewittchen auf die sieben Zwerge, die bereit sind, ihr zu helfen. Gemeinsam schmieden sie einen Plan.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/spieglein-spieglein-die-wirklich-wahre-geschichte-von-schneewittchen-20703",
+        "description": "Lange war Königin Clementianna die schönste Frau in ihrem Königreich, doch dann prophezeit ihr der magische Spiegel, dass ihre Stieftochter Schneewittchen sich anschickt, noch schöner zu werden. Außerdem will sie die Königin auf dem Thron ablösen, deshalb verbannt die Königin die Konkurrentin in den finsteren Wald. Dort trifft Schneewittchen auf die sieben Zwerge, die bereit sind, ihr zu helfen. Gemeinsam schmieden sie einen Plan.",
+        "duration": "PT1H41M45S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4820308/1200x0/spieglein-spieglein-die-wirklich-wahre-geschichte-von-schneewittchen.jpg",
+        "name": "Spieglein Spieglein - Die wirklich wahre Geschichte von Schneewittchen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/spieglein-spieglein-die-wirklich-wahre-geschichte-von-schneewittchen-20703",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-06-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=spieglein-spieglein-die-wirklich-wahre-geschichte-von-schneewittchen-20703",
+              "sameAs": "%s/premium?typ=format&formatname=spieglein-spieglein-die-wirklich-wahre-geschichte-von-schneewittchen-20703",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/spieglein-spieglein-die-wirklich-wahre-geschichte-von-schneewittchen-20703",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Lange war Königin Clementianna die schönste Frau in ihrem Königreich, doch dann prophezeit ihr der magische Spiegel, dass ihre Stieftochter Schneewittchen sich anschickt, noch schöner zu werden. Außerdem will sie die Königin auf dem Thron ablösen, deshalb verbannt die Königin die Konkurrentin in den finsteren Wald. Dort trifft Schneewittchen auf die sieben Zwerge, die bereit sind, ihr zu helfen. Gemeinsam schmieden sie einen Plan.",
+          "duration": "PT1H41M45S",
+          "embedUrl": "%s/googlebot/player/filme/spieglein-spieglein-die-wirklich-wahre-geschichte-von-schneewittchen-20703",
+          "name": "Spieglein Spieglein - Die wirklich wahre Geschichte von Schneewittchen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4820308/1200x0/spieglein-spieglein-die-wirklich-wahre-geschichte-von-schneewittchen.jpg",
+          "uploadDate": "2022-06-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Spieglein Spieglein - Die wirklich wahre Geschichte von Schneewittchen im Online Stream | RTL+",
+        "headline": "Spieglein Spieglein - Die wirklich wahre Geschichte von Schneewittchen im Online Stream | RTL+",
+        "description": "Spieglein Spieglein - Die wirklich wahre Geschichte von Schneewittchen und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/spieglein-spieglein-die-wirklich-wahre-geschichte-von-schneewittchen-20703",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4820308/1200x0/spieglein-spieglein-die-wirklich-wahre-geschichte-von-schneewittchen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4820308/1200x0/spieglein-spieglein-die-wirklich-wahre-geschichte-von-schneewittchen.jpg",
+        "datePublished": "2022-06-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4820308/1200x0/spieglein-spieglein-die-wirklich-wahre-geschichte-von-schneewittchen.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Spieglein Spieglein - Die wirklich wahre Geschichte von Schneewittchen",
+            "item": "%s/filme/spieglein-spieglein-die-wirklich-wahre-geschichte-von-schneewittchen-20703"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Spieglein Spieglein - Die wirklich wahre Geschichte von Schneewittchen im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

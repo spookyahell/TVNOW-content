@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 20229,
+  "additionalMeta": {
+    "canonical": "/filme/vom-klick-zur-klingel-paket-logistik-in-deutschland-20229",
+    "url": "/filme/vom-klick-zur-klingel-paket-logistik-in-deutschland-20229"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Vom Klick zur Klingel - Paket-Logistik in Deutschland",
+      "url": "/filme/vom-klick-zur-klingel-paket-logistik-in-deutschland-20229"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 20229,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Vom Klick zur Klingel - Paket-Logistik in Deutschland 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Vom Klick zur Klingel - Paket-Logistik in Deutschland im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Vom Klick zur Klingel - Paket-Logistik in Deutschland 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/vom-klick-zur-klingel-paket-logistik-in-deutschland-20229"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4267296/1600x0/vom-klick-zur-klingel-paket-logistik-in-deutschland.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4267296,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4267296",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20229"
+    },
+    {
+      "id": 20229,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20229",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Vom Klick zur Klingel - Paket-Logistik in Deutschland",
+    "text": "Ein Klick: Jetzt bestellen. Im Hintergrund wird eine ausgeklügelte Technik angestoßen. Wie funktioniert schnelle und moderne Logistik? Durch welche Wege garantieren Online-Händler den Versand am nächsten Tag? Und was für eine Rolle nehmen Roboter in diesem Prozess ein? Von gigantischen Lagern bis zum jungen Start-up: Die Dokumentation begleitet den Weg einer Bestellung von A bis Z und beleuchtet dabei intensiv die einzelnen Bereiche.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/vom-klick-zur-klingel-paket-logistik-in-deutschland-20229",
+        "description": "Ein Klick: Jetzt bestellen. Im Hintergrund wird eine ausgeklügelte Technik angestoßen. Wie funktioniert schnelle und moderne Logistik? Durch welche Wege garantieren Online-Händler den Versand am nächsten Tag? Und was für eine Rolle nehmen Roboter in diesem Prozess ein? Von gigantischen Lagern bis zum jungen Start-up: Die Dokumentation begleitet den Weg einer Bestellung von A bis Z und beleuchtet dabei intensiv die einzelnen Bereiche.",
+        "duration": "PT39M36S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4267296/1200x0/vom-klick-zur-klingel-paket-logistik-in-deutschland.jpg",
+        "name": "Vom Klick zur Klingel - Paket-Logistik in Deutschland",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/vom-klick-zur-klingel-paket-logistik-in-deutschland-20229",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2021-12-06T20:15:00.000Z"
+          }
+        },
+        "url": "%s/filme/vom-klick-zur-klingel-paket-logistik-in-deutschland-20229",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Ein Klick: Jetzt bestellen. Im Hintergrund wird eine ausgeklügelte Technik angestoßen. Wie funktioniert schnelle und moderne Logistik? Durch welche Wege garantieren Online-Händler den Versand am nächsten Tag? Und was für eine Rolle nehmen Roboter in diesem Prozess ein? Von gigantischen Lagern bis zum jungen Start-up: Die Dokumentation begleitet den Weg einer Bestellung von A bis Z und beleuchtet dabei intensiv die einzelnen Bereiche.",
+          "duration": "PT39M36S",
+          "embedUrl": "%s/googlebot/player/filme/vom-klick-zur-klingel-paket-logistik-in-deutschland-20229",
+          "name": "Vom Klick zur Klingel - Paket-Logistik in Deutschland",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4267296/1200x0/vom-klick-zur-klingel-paket-logistik-in-deutschland.jpg",
+          "uploadDate": "2021-12-06T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Vom Klick zur Klingel - Paket-Logistik in Deutschland im Online Stream | RTL+",
+        "headline": "Vom Klick zur Klingel - Paket-Logistik in Deutschland im Online Stream | RTL+",
+        "description": "Vom Klick zur Klingel - Paket-Logistik in Deutschland und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/vom-klick-zur-klingel-paket-logistik-in-deutschland-20229",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4267296/1200x0/vom-klick-zur-klingel-paket-logistik-in-deutschland.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4267296/1200x0/vom-klick-zur-klingel-paket-logistik-in-deutschland.jpg",
+        "datePublished": "2021-12-06T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4267296/1200x0/vom-klick-zur-klingel-paket-logistik-in-deutschland.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Vom Klick zur Klingel - Paket-Logistik in Deutschland",
+            "item": "%s/filme/vom-klick-zur-klingel-paket-logistik-in-deutschland-20229"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Vom Klick zur Klingel - Paket-Logistik in Deutschland im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

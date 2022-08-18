@@ -1,0 +1,239 @@
+﻿{
+  "formatId": 20818,
+  "additionalMeta": {
+    "canonical": "/filme/der-schatz-von-fidschi-20818",
+    "url": "/filme/der-schatz-von-fidschi-20818"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Der Schatz von Fidschi - Der Film",
+      "url": "/filme/der-schatz-von-fidschi-20818"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20818,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Der Schatz von Fidschi - Der Film 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Der Schatz von Fidschi - Der Film im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Der Schatz von Fidschi - Der Film 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/der-schatz-von-fidschi-20818"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4858657/1600x0/der-schatz-von-fidschi.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4858657,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4858657",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20818"
+    },
+    {
+      "id": 20818,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20818",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/kids_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "kids_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Der Schatz von Fidschi",
+    "text": "Bei der Premiere eines neuen Computerspiels auf Fidschi wird Marty, der kleine Bruder des Champions Tyler Braddon, auf rätselhafte Weise in das Spiel hineingezogen. Beim Versuch Marty zu retten, wird auch Tyler gemeinsam mit den Spielerinnen Kirra und Alison ins Fidschi des 19. Jahrhunderts gebeamt. Kapitän Blackheart ist dort auf der Suche nach einem unermesslich wertvollen Schatz, der vor Jahrhunderten auf Fidschi begraben wurde.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/der-schatz-von-fidschi-20818",
+        "description": "Bei der Premiere eines neuen Computerspiels auf Fidschi wird Marty, der kleine Bruder des Champions Tyler Braddon, auf rätselhafte Weise in das Spiel hineingezogen. Beim Versuch Marty zu retten, wird auch Tyler gemeinsam mit den Spielerinnen Kirra und Alison ins Fidschi des 19. Jahrhunderts gebeamt. Kapitän Blackheart ist dort auf der Suche nach einem unermesslich wertvollen Schatz, der vor Jahrhunderten auf Fidschi begraben wurde.",
+        "duration": "PT1H32M31S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4858657/1200x0/der-schatz-von-fidschi.jpg",
+        "name": "Der Schatz von Fidschi - Der Film",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/der-schatz-von-fidschi-20818",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-04T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=der-schatz-von-fidschi-20818",
+              "sameAs": "%s/premium?typ=format&formatname=der-schatz-von-fidschi-20818",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/der-schatz-von-fidschi-20818",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Bei der Premiere eines neuen Computerspiels auf Fidschi wird Marty, der kleine Bruder des Champions Tyler Braddon, auf rätselhafte Weise in das Spiel hineingezogen. Beim Versuch Marty zu retten, wird auch Tyler gemeinsam mit den Spielerinnen Kirra und Alison ins Fidschi des 19. Jahrhunderts gebeamt. Kapitän Blackheart ist dort auf der Suche nach einem unermesslich wertvollen Schatz, der vor Jahrhunderten auf Fidschi begraben wurde.",
+          "duration": "PT1H32M31S",
+          "embedUrl": "%s/googlebot/player/filme/der-schatz-von-fidschi-20818",
+          "name": "Der Schatz von Fidschi - Der Film",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4858657/1200x0/der-schatz-von-fidschi.jpg",
+          "uploadDate": "2022-07-04T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Der Schatz von Fidschi - Der Film im Online Stream | RTL+",
+        "headline": "Der Schatz von Fidschi - Der Film im Online Stream | RTL+",
+        "description": "Der Schatz von Fidschi - Der Film und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/der-schatz-von-fidschi-20818",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4858657/1200x0/der-schatz-von-fidschi.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4858657/1200x0/der-schatz-von-fidschi.jpg",
+        "datePublished": "2022-07-04T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4858657/1200x0/der-schatz-von-fidschi.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Der Schatz von Fidschi - Der Film",
+            "item": "%s/filme/der-schatz-von-fidschi-20818"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Der Schatz von Fidschi - Der Film im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

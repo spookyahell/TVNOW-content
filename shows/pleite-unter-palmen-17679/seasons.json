@@ -1,1 +1,109 @@
-NONE
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17679",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17679,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/pleite-unter-palmen-17679/staffel-1/episode-1-peru-mallorca-mexiko-3932938"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Pleite unter Palmen",
+          "teaserId": "show_episode_3932938",
+          "teaserName": "Pleite unter Palmen | Staffel 1 | Folge 1 | Peru, Mallorca, Mexiko",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Real Life",
+          "cluster": [
+            "Sozial"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Do. 17.03.2022, 22:16 Uhr",
+          "teaserEpisodeName": "Peru, Mallorca, Mexiko"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Peru, Mallorca, Mexiko",
+        "id": 3932938,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3932938/300x0/peru-mallorca-mexiko.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3932938/",
+            "filename": "peru-mallorca-mexiko"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3932938/600x0/peru-mallorca-mexiko.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3932938/",
+            "filename": "peru-mallorca-mexiko"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3932938/1200x0/peru-mallorca-mexiko.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3932938/",
+            "filename": "peru-mallorca-mexiko"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3932938/300x0/peru-mallorca-mexiko.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3932938/",
+            "filename": "peru-mallorca-mexiko"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3932938/600x0/peru-mallorca-mexiko.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3932938/",
+            "filename": "peru-mallorca-mexiko"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3932938/1200x0/peru-mallorca-mexiko.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3932938/",
+            "filename": "peru-mallorca-mexiko"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "pleite-unter-palmen",
+        "subheadline": "Peru, Mallorca, Mexiko",
+        "text": "Staffel 1, Folge 1 | Do. 17.03.2022, 22:16 Uhr",
+        "type": "show",
+        "url": "/shows/pleite-unter-palmen-17679/staffel-1/episode-1-peru-mallorca-mexiko-3932938",
+        "videoId": 3932938
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

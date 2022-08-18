@@ -1,0 +1,240 @@
+﻿{
+  "formatId": 20697,
+  "additionalMeta": {
+    "canonical": "/filme/novelmore-die-invincibus-20697",
+    "url": "/filme/novelmore-die-invincibus-20697"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Novelmore - Die Invincibus",
+      "url": "/filme/novelmore-die-invincibus-20697"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20697,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Novelmore - Die Invincibus 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Novelmore - Die Invincibus im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Novelmore - Die Invincibus 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/novelmore-die-invincibus-20697"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4813976/1600x0/novelmore-die-invincibus.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4813976,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4813976",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20697"
+    },
+    {
+      "id": 20697,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20697",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Action und Abenteuer",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Novelmore - Die Invicibus: Alle Informationen zum Film",
+    "text": "Königreich Novelmore wird von den kampflustigen \"Raider von Burnham\" bedroht! Sowohl Prinz Arwynn, als auch die als Ritter verkleidete Gwynn wollen ihr Königreich verteidigen. Dario soll sie dabei mit seiner magischen Rüstung, der Invincibus, unterstützen. Sie macht ihren Träger unbesiegbar! Mit ihrer Hilfe gelingt es Prinz Arwynn das Königreich zu verteidigen. Doch schon bald versuchen die Raider sich die wertvolle Rüstung zu schnappen!",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/novelmore-die-invincibus-20697",
+        "description": "Königreich Novelmore wird von den kampflustigen \"Raider von Burnham\" bedroht! Sowohl Prinz Arwynn, als auch die als Ritter verkleidete Gwynn wollen ihr Königreich verteidigen. Dario soll sie dabei mit seiner magischen Rüstung, der Invincibus, unterstützen. Sie macht ihren Träger unbesiegbar! Mit ihrer Hilfe gelingt es Prinz Arwynn das Königreich zu verteidigen. Doch schon bald versuchen die Raider sich die wertvolle Rüstung zu schnappen!",
+        "duration": "PT11M15S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4813976/1200x0/novelmore-die-invincibus.jpg",
+        "name": "Novelmore - Die Invincibus",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/novelmore-die-invincibus-20697",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-05-13T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=novelmore-die-invincibus-20697",
+              "sameAs": "%s/premium?typ=format&formatname=novelmore-die-invincibus-20697",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/novelmore-die-invincibus-20697",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Königreich Novelmore wird von den kampflustigen \"Raider von Burnham\" bedroht! Sowohl Prinz Arwynn, als auch die als Ritter verkleidete Gwynn wollen ihr Königreich verteidigen. Dario soll sie dabei mit seiner magischen Rüstung, der Invincibus, unterstützen. Sie macht ihren Träger unbesiegbar! Mit ihrer Hilfe gelingt es Prinz Arwynn das Königreich zu verteidigen. Doch schon bald versuchen die Raider sich die wertvolle Rüstung zu schnappen!",
+          "duration": "PT11M15S",
+          "embedUrl": "%s/googlebot/player/filme/novelmore-die-invincibus-20697",
+          "name": "Novelmore - Die Invincibus",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4813976/1200x0/novelmore-die-invincibus.jpg",
+          "uploadDate": "2022-05-13T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Novelmore - Die Invincibus im Online Stream | RTL+",
+        "headline": "Novelmore - Die Invincibus im Online Stream | RTL+",
+        "description": "Novelmore - Die Invincibus und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/novelmore-die-invincibus-20697",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4813976/1200x0/novelmore-die-invincibus.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4813976/1200x0/novelmore-die-invincibus.jpg",
+        "datePublished": "2022-05-13T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4813976/1200x0/novelmore-die-invincibus.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Novelmore - Die Invincibus",
+            "item": "%s/filme/novelmore-die-invincibus-20697"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Novelmore - Die Invincibus im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

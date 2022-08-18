@@ -1,0 +1,108 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20700",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20700,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/paddington-20700"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Paddington",
+          "teaserId": "film_4820309",
+          "teaserName": "Paddington | Paddington",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+ Kids",
+          "teaserEpisodeName": "Paddington"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Paddington",
+        "id": 4820309,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820309/300x0/paddington.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820309/",
+            "filename": "paddington"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820309/600x0/paddington.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820309/",
+            "filename": "paddington"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820309/1200x0/paddington.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820309/",
+            "filename": "paddington"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820309/300x0/paddington.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820309/",
+            "filename": "paddington"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820309/600x0/paddington.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820309/",
+            "filename": "paddington"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820309/1200x0/paddington.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820309/",
+            "filename": "paddington"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "paddington",
+        "subheadline": "Paddington",
+        "text": "Staffel  | RTL+ Kids",
+        "type": "film",
+        "url": "/filme/paddington-20700",
+        "videoId": 4820309
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

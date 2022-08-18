@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19626,
+  "additionalMeta": {
+    "canonical": "/filme/die-mode-der-90er-jahre-19626",
+    "url": "/filme/die-mode-der-90er-jahre-19626"
+  },
+  "ads": {
+    "station": "living",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die Mode der 90er Jahre",
+      "url": "/filme/die-mode-der-90er-jahre-19626"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19626,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Die Mode der 90er Jahre 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Mode der 90er Jahre im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Die Mode der 90er Jahre 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/die-mode-der-90er-jahre-19626"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3967799/1600x0/die-mode-der-90er-jahre.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3967799,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3967799",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19626"
+    },
+    {
+      "id": 19626,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19626",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/living_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "living_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Die Mode der 90er Jahre",
+    "text": "Die 90er sind wieder da! Es geht zurück in ein aufregendes, faszinierendes und verrücktes Jahrzehnt, das mit seiner Mode alles in Frage stellte. Nun feiert der Style der 90er auf den Laufstegen von Paris, Mailand und New York sein erfolgreiches Comeback. Von Grunge, schlechtem Geschmack, Bling, Streetwear, Sex bis hin zu Minimalismus - Loïc Prigent macht sich auf eine lustige Reise in die Vergangenheit.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/die-mode-der-90er-jahre-19626",
+        "description": "Die 90er sind wieder da! Es geht zurück in ein aufregendes, faszinierendes und verrücktes Jahrzehnt, das mit seiner Mode alles in Frage stellte. Nun feiert der Style der 90er auf den Laufstegen von Paris, Mailand und New York sein erfolgreiches Comeback. Von Grunge, schlechtem Geschmack, Bling, Streetwear, Sex bis hin zu Minimalismus - Loïc Prigent macht sich auf eine lustige Reise in die Vergangenheit.",
+        "duration": "PT52M17S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3967799/1200x0/die-mode-der-90er-jahre.jpg",
+        "name": "Die Mode der 90er Jahre",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/die-mode-der-90er-jahre-19626",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-13T22:25:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=die-mode-der-90er-jahre-19626",
+              "sameAs": "%s/premium?typ=format&formatname=die-mode-der-90er-jahre-19626",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/die-mode-der-90er-jahre-19626",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die 90er sind wieder da! Es geht zurück in ein aufregendes, faszinierendes und verrücktes Jahrzehnt, das mit seiner Mode alles in Frage stellte. Nun feiert der Style der 90er auf den Laufstegen von Paris, Mailand und New York sein erfolgreiches Comeback. Von Grunge, schlechtem Geschmack, Bling, Streetwear, Sex bis hin zu Minimalismus - Loïc Prigent macht sich auf eine lustige Reise in die Vergangenheit.",
+          "duration": "PT52M17S",
+          "embedUrl": "%s/googlebot/player/filme/die-mode-der-90er-jahre-19626",
+          "name": "Die Mode der 90er Jahre",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3967799/1200x0/die-mode-der-90er-jahre.jpg",
+          "uploadDate": "2022-07-13T22:25:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Mode der 90er Jahre im Online Stream | RTL+",
+        "headline": "Die Mode der 90er Jahre im Online Stream | RTL+",
+        "description": "Die Mode der 90er Jahre und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/die-mode-der-90er-jahre-19626",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3967799/1200x0/die-mode-der-90er-jahre.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3967799/1200x0/die-mode-der-90er-jahre.jpg",
+        "datePublished": "2022-07-13T22:25:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3967799/1200x0/die-mode-der-90er-jahre.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Mode der 90er Jahre",
+            "item": "%s/filme/die-mode-der-90er-jahre-19626"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Mode der 90er Jahre im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

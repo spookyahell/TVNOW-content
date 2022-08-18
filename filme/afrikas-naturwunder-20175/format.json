@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20175,
+  "additionalMeta": {
+    "canonical": "/filme/afrikas-naturwunder-20175",
+    "url": "/filme/afrikas-naturwunder-20175"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Afrikas Naturwunder - Ein Tag wie kein anderer",
+      "url": "/filme/afrikas-naturwunder-20175"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20175,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Afrikas Naturwunder - Ein Tag wie kein anderer 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Afrikas Naturwunder - Ein Tag wie kein anderer im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Afrikas Naturwunder - Ein Tag wie kein anderer 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/afrikas-naturwunder-20175"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4323483/1600x0/afrikas-naturwunder-ein-tag-wie-kein-anderer.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4323483,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4323483",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20175"
+    },
+    {
+      "id": 20175,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20175",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnafrikasnaturwunder",
+      "video": "dvrsowf_ten_tnafrikasnaturwunder",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/afrikas_naturwunder/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "afrikas_naturwunder",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Afrikas Naturwunder - Ein Tag wie kein anderer",
+    "text": "In Afrika bricht ein neuer Tag an - und die Tiere der Berge, der Wüsten und Savannen müssen nun ums Überleben kämpfen und ihren Nachwuchs versorgen: doch die Klippschleifer am Mount Kenia, die Elefanten in der Namib Wüste und die Löwen im Kruger Nationalpark haben einzigartige Strategien entwickelt, die ihren Fortbestand sichern. Doch eins steht fest: jeder Tag ist für sie ein wildes Abenteuer. ",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/afrikas-naturwunder-ein-tag-wie-kein-anderer-20175",
+        "description": "In Afrika bricht ein neuer Tag an - und die Tiere der Berge, der Wüsten und Savannen müssen nun ums Überleben kämpfen und ihren Nachwuchs versorgen: doch die Klippschleifer am Mount Kenia, die Elefanten in der Namib Wüste und die Löwen im Kruger Nationalpark haben einzigartige Strategien entwickelt, die ihren Fortbestand sichern. Doch eins steht fest: jeder Tag ist für sie ein wildes Abenteuer. ",
+        "duration": "PT49M57S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4323483/1200x0/afrikas-naturwunder.jpg",
+        "name": "Afrikas Naturwunder - Ein Tag wie kein anderer",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/afrikas-naturwunder-ein-tag-wie-kein-anderer-20175",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-12-14T00:01:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=afrikas-naturwunder-20175",
+              "sameAs": "%s/premium?typ=format&formatname=afrikas-naturwunder-20175",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/afrikas-naturwunder-ein-tag-wie-kein-anderer-20175",
+        "video": {
+          "@type": "VideoObject",
+          "description": "In Afrika bricht ein neuer Tag an - und die Tiere der Berge, der Wüsten und Savannen müssen nun ums Überleben kämpfen und ihren Nachwuchs versorgen: doch die Klippschleifer am Mount Kenia, die Elefanten in der Namib Wüste und die Löwen im Kruger Nationalpark haben einzigartige Strategien entwickelt, die ihren Fortbestand sichern. Doch eins steht fest: jeder Tag ist für sie ein wildes Abenteuer. ",
+          "duration": "PT49M57S",
+          "embedUrl": "%s/googlebot/player/filme/afrikas-naturwunder-ein-tag-wie-kein-anderer-20175",
+          "name": "Afrikas Naturwunder - Ein Tag wie kein anderer",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323483/1200x0/afrikas-naturwunder.jpg",
+          "uploadDate": "2021-12-14T00:01:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Afrikas Naturwunder - Ein Tag wie kein anderer im Online Stream | RTL+",
+        "headline": "Afrikas Naturwunder - Ein Tag wie kein anderer im Online Stream | RTL+",
+        "description": "Afrikas Naturwunder - Ein Tag wie kein anderer und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/afrikas-naturwunder-ein-tag-wie-kein-anderer-20175",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4323483/1200x0/afrikas-naturwunder.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323483/1200x0/afrikas-naturwunder.jpg",
+        "datePublished": "2021-12-14T00:01:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4323483/1200x0/afrikas-naturwunder.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Afrikas Naturwunder - Ein Tag wie kein anderer",
+            "item": "%s/filme/afrikas-naturwunder-20175"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Afrikas Naturwunder - Ein Tag wie kein anderer im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

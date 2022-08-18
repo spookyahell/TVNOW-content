@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19158,
+  "additionalMeta": {
+    "canonical": "/filme/das-geheimnis-des-koenigssees-19158",
+    "url": "/filme/das-geheimnis-des-koenigssees-19158"
+  },
+  "ads": {
+    "station": "passion",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Das Geheimnis des Königssees",
+      "url": "/filme/das-geheimnis-des-koenigssees-19158"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19158,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Das Geheimnis des Königssees 📺 und viele weitere ▶ Filme aus dem Genre Thriller findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Das Geheimnis des Königssees im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Das Geheimnis des Königssees 📺 und viele weitere ▶ Filme aus dem Genre Thriller findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/das-geheimnis-des-koenigssees-19158"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3555993/1600x0/das-geheimnis-des-koenigssees.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3555993,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3555993",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19158"
+    },
+    {
+      "id": 19158,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19158",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/passion_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "passion_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Thriller",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Das Geheimnis des Königssees",
+    "text": "Die junge Marla, Angestellte eines Münchner Reisebüros, soll eine Pauschalreise zum Königssee organisieren. Dabei trifft die attraktive Frau auf den Hotelier Max, zu dem sie sich hingezogen fühlt. Doch sie spürt dessen Trauer um eine Frau namens Nora, die er vor über zwanzig Jahren liebte, bis sie eines Tages spurlos verschwand. Zurück in München erhält Marla per Post ein altes Foto Noras, das sie schockiert.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/das-geheimnis-des-koenigssees-19158",
+        "description": "Die junge Marla, Angestellte eines Münchner Reisebüros, soll eine Pauschalreise zum Königssee organisieren. Dabei trifft die attraktive Frau auf den Hotelier Max, zu dem sie sich hingezogen fühlt. Doch sie spürt dessen Trauer um eine Frau namens Nora, die er vor über zwanzig Jahren liebte, bis sie eines Tages spurlos verschwand. Zurück in München erhält Marla per Post ein altes Foto Noras, das sie schockiert.",
+        "duration": "PT1H35M5S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3555993/1200x0/das-geheimnis-des-koenigssees.jpg",
+        "name": "Das Geheimnis des Königssees",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/das-geheimnis-des-koenigssees-19158",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-12T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=das-geheimnis-des-koenigssees-19158",
+              "sameAs": "%s/premium?typ=format&formatname=das-geheimnis-des-koenigssees-19158",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/das-geheimnis-des-koenigssees-19158",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die junge Marla, Angestellte eines Münchner Reisebüros, soll eine Pauschalreise zum Königssee organisieren. Dabei trifft die attraktive Frau auf den Hotelier Max, zu dem sie sich hingezogen fühlt. Doch sie spürt dessen Trauer um eine Frau namens Nora, die er vor über zwanzig Jahren liebte, bis sie eines Tages spurlos verschwand. Zurück in München erhält Marla per Post ein altes Foto Noras, das sie schockiert.",
+          "duration": "PT1H35M5S",
+          "embedUrl": "%s/googlebot/player/filme/das-geheimnis-des-koenigssees-19158",
+          "name": "Das Geheimnis des Königssees",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3555993/1200x0/das-geheimnis-des-koenigssees.jpg",
+          "uploadDate": "2022-04-12T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Das Geheimnis des Königssees im Online Stream | RTL+",
+        "headline": "Das Geheimnis des Königssees im Online Stream | RTL+",
+        "description": "Das Geheimnis des Königssees und viele weitere  ▶️Filme aus dem Genre Thriller findest du im Online Stream bei RTL+. Ein Film mit ▶️Yvonne Catterfeld, Hans Sigl, Krista Stadler, Werner Prinz, Christina Klein, David Zimmerschied, Barbara-Magdalena Ahren, Luise Deschauer, Christian Hoening, Christiane Blumhoff, Patricia Hirschbichler.",
+        "url": "%s/filme/das-geheimnis-des-koenigssees-19158",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3555993/1200x0/das-geheimnis-des-koenigssees.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3555993/1200x0/das-geheimnis-des-koenigssees.jpg",
+        "datePublished": "2022-04-12T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3555993/1200x0/das-geheimnis-des-koenigssees.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Das Geheimnis des Königssees",
+            "item": "%s/filme/das-geheimnis-des-koenigssees-19158"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Das Geheimnis des Königssees im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

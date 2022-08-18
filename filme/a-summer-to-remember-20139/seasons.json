@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20139",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20139,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/ein-sommer-fuer-immer-20139"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "A Summer to Remember",
+          "teaserId": "film_4261220",
+          "teaserName": "A Summer to Remember | Ein Sommer für immer",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [
+            "FILME Female"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "Mi. 01.12.2021, 00:00 Uhr",
+          "teaserEpisodeName": "Ein Sommer für immer"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ein Sommer für immer",
+        "id": 4261220,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4261220/300x0/ein-sommer-fuer-immer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4261220/",
+            "filename": "ein-sommer-fuer-immer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4261220/600x0/ein-sommer-fuer-immer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4261220/",
+            "filename": "ein-sommer-fuer-immer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4261220/1200x0/ein-sommer-fuer-immer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4261220/",
+            "filename": "ein-sommer-fuer-immer"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4261220/300x0/ein-sommer-fuer-immer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4261220/",
+            "filename": "ein-sommer-fuer-immer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4261220/600x0/ein-sommer-fuer-immer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4261220/",
+            "filename": "ein-sommer-fuer-immer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4261220/1200x0/ein-sommer-fuer-immer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4261220/",
+            "filename": "ein-sommer-fuer-immer"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "a-summer-to-remember",
+        "subheadline": "Ein Sommer für immer",
+        "text": "Staffel  | Mi. 01.12.2021, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/ein-sommer-fuer-immer-20139",
+        "videoId": 4261220
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

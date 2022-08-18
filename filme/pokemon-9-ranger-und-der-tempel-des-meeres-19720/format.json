@@ -1,0 +1,241 @@
+﻿{
+  "formatId": 19720,
+  "additionalMeta": {
+    "canonical": "/filme/pokemon-9-ranger-und-der-tempel-des-meeres-19720",
+    "url": "/filme/pokemon-9-ranger-und-der-tempel-des-meeres-19720"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Pokémon 9: Ranger und der Tempel des Meeres",
+      "url": "/filme/pokemon-9-ranger-und-der-tempel-des-meeres-19720"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19720,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Pokémon 9: Ranger und der Tempel des Meeres 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Pokémon 9: Ranger und der Tempel des Meeres im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Pokémon 9: Ranger und der Tempel des Meeres 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/pokemon-9-ranger-und-der-tempel-des-meeres-19720"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4110493/1600x0/pokemon-9-ranger-und-der-tempel-des-meeres.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4110493,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4110493",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19720"
+    },
+    {
+      "id": 19720,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19720",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Action und Abenteuer",
+      "KIDS Jungs",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Pokémon 9: Ranger und der Tempel des Meeres - Alle Informationen zum Film",
+    "text": "Eine alte Legende berichtet von einem Meerestempel, der von den Wassermenschen erbaut wurde. Darin soll die Meereskrone aufbewahrt werden. Niemand hat diese Krone bisher gesehen und nur wenige Menschen kennen die Geschichte über den Tempel, ausgenommen einige Wassermenschen. Das alles ändert sich, als ein Pokémon Ranger namens Jack ein Manaphy-Ei vor dem gierigen Piraten Phantom rettet!",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/pokemon-9-ranger-und-der-tempel-des-meeres-19720",
+        "description": "Eine alte Legende berichtet von einem Meerestempel, der von den Wassermenschen erbaut wurde. Darin soll die Meereskrone aufbewahrt werden. Niemand hat diese Krone bisher gesehen und nur wenige Menschen kennen die Geschichte über den Tempel, ausgenommen einige Wassermenschen. Das alles ändert sich, als ein Pokémon Ranger namens Jack ein Manaphy-Ei vor dem gierigen Piraten Phantom rettet!",
+        "duration": "PT1H40M58S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4110493/1200x0/pokemon-9-ranger-und-der-tempel-des-meeres.jpg",
+        "name": "Pokémon 9: Ranger und der Tempel des Meeres",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/pokemon-9-ranger-und-der-tempel-des-meeres-19720",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=pokemon-9-ranger-und-der-tempel-des-meeres-19720",
+              "sameAs": "%s/premium?typ=format&formatname=pokemon-9-ranger-und-der-tempel-des-meeres-19720",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/pokemon-9-ranger-und-der-tempel-des-meeres-19720",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Eine alte Legende berichtet von einem Meerestempel, der von den Wassermenschen erbaut wurde. Darin soll die Meereskrone aufbewahrt werden. Niemand hat diese Krone bisher gesehen und nur wenige Menschen kennen die Geschichte über den Tempel, ausgenommen einige Wassermenschen. Das alles ändert sich, als ein Pokémon Ranger namens Jack ein Manaphy-Ei vor dem gierigen Piraten Phantom rettet!",
+          "duration": "PT1H40M58S",
+          "embedUrl": "%s/googlebot/player/filme/pokemon-9-ranger-und-der-tempel-des-meeres-19720",
+          "name": "Pokémon 9: Ranger und der Tempel des Meeres",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4110493/1200x0/pokemon-9-ranger-und-der-tempel-des-meeres.jpg",
+          "uploadDate": "2022-07-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Pokémon 9: Ranger und der Tempel des Meeres im Online Stream | RTL+",
+        "headline": "Pokémon 9: Ranger und der Tempel des Meeres im Online Stream | RTL+",
+        "description": "Pokémon 9: Ranger und der Tempel des Meeres und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/pokemon-9-ranger-und-der-tempel-des-meeres-19720",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4110493/1200x0/pokemon-9-ranger-und-der-tempel-des-meeres.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4110493/1200x0/pokemon-9-ranger-und-der-tempel-des-meeres.jpg",
+        "datePublished": "2022-07-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4110493/1200x0/pokemon-9-ranger-und-der-tempel-des-meeres.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pokémon 9: Ranger und der Tempel des Meeres",
+            "item": "%s/filme/pokemon-9-ranger-und-der-tempel-des-meeres-19720"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Pokémon 9: Ranger und der Tempel des Meeres im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20062",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20062,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/grenzenlose-liebe-20062"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grenzenlose Liebe",
+          "teaserId": "film_4320209",
+          "teaserName": "Grenzenlose Liebe | Grenzenlose Liebe",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "Sa. 30.07.2022, 20:15 Uhr",
+          "teaserEpisodeName": "Grenzenlose Liebe"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Grenzenlose Liebe",
+        "id": 4320209,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4320209/300x0/grenzenlose-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4320209/",
+            "filename": "grenzenlose-liebe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4320209/600x0/grenzenlose-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4320209/",
+            "filename": "grenzenlose-liebe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4320209/1200x0/grenzenlose-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4320209/",
+            "filename": "grenzenlose-liebe"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4320209/300x0/grenzenlose-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4320209/",
+            "filename": "grenzenlose-liebe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4320209/600x0/grenzenlose-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4320209/",
+            "filename": "grenzenlose-liebe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4320209/1200x0/grenzenlose-liebe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4320209/",
+            "filename": "grenzenlose-liebe"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grenzenlose-liebe",
+        "subheadline": "Grenzenlose Liebe",
+        "text": "Staffel  | Sa. 30.07.2022, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/grenzenlose-liebe-20062",
+        "videoId": 4320209
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

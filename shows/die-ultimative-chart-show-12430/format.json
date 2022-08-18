@@ -1,0 +1,216 @@
+﻿{
+  "formatId": 12430,
+  "additionalMeta": {
+    "canonical": "/shows/die-ultimative-chart-show-12430",
+    "url": "/shows/die-ultimative-chart-show-12430"
+  },
+  "ads": {
+    "station": "rtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "Die ultimative Chart Show",
+      "url": "/shows/die-ultimative-chart-show-12430"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 12430,
+  "meta": [
+    {
+      "content": "Die Show ▶ Die ultimative Chart Show (RTL) streamen & weitere Highlights aus dem Genre 📺 Musik im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "Dieter Bohlen - Die Mega-Show, video, videos, online sehen, internet tv, fernsehen, video on demand, NOW, RTL+, Mediathek, VoD, Porgramm, stream, streaming, dieter bohlen, show, mega, dsds, supertalent, modern talking",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die ultimative Chart Show im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ Die ultimative Chart Show (RTL) streamen & weitere Highlights aus dem Genre 📺 Musik im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/shows/die-ultimative-chart-show-12430"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/12430_03artwork/1600x0/die-ultimative-chart-show.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/12430",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/12430",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/12430",
+      "type": "teaserrow"
+    },
+    {
+      "id": 12430,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/12430",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rndieterbmegashow",
+      "video": "dvrsowf_ten_rndieterbmegashow",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_now/formate/dieter_bohlen_mega_show/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_now",
+        "formate",
+        "dieter_bohlen_mega_show",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Musik",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Die ultimative Chart Show - Informationen zur Show",
+    "text": "Die ultimative Chart Show und viele weitere Shows kannst Du gemütlich online auf RTL+ im Stream anschauen. Also nichts wie los – hole das Knabberzeug raus und genieße Deine Serie ganz entspannt von unterwegs oder von zu Hause aus mit Freunden.",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/shows/die-ultimative-chart-show-12430",
+        "url": "%s/shows/die-ultimative-chart-show-12430",
+        "name": "Die ultimative Chart Show",
+        "description": "Die Show ▶ Die ultimative Chart Show (RTL) streamen & weitere Highlights aus dem Genre 📺 Musik im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/12430_04metalogo/1200x0/die-ultimative-chart-show.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die ultimative Chart Show - Informationen zur Show",
+        "headline": "Die ultimative Chart Show - Informationen zur Show",
+        "description": "Die Show ▶ Die ultimative Chart Show (RTL) streamen & weitere Highlights aus dem Genre 📺 Musik im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "url": "%s/shows/die-ultimative-chart-show-12430",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/12430_04metalogo/1200x0/die-ultimative-chart-show.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/12430_04metalogo/1200x0/die-ultimative-chart-show.png",
+        "keywords": "Dieter Bohlen - Die Mega-Show, video, videos, online sehen, internet tv, fernsehen, video on demand, NOW, RTL+, Mediathek, VoD, Porgramm, stream, streaming, dieter bohlen, show, mega, dsds, supertalent, modern talking",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/12430_04metalogo/1200x0/die-ultimative-chart-show.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "%s/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die ultimative Chart Show",
+            "item": "%s/shows/die-ultimative-chart-show-12430"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die ultimative Chart Show im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

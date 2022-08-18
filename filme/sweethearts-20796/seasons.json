@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20796",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20796,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/sweethearts-20796"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sweethearts",
+          "teaserId": "film_4865131",
+          "teaserName": "Sweethearts | Sweethearts",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Sweethearts"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Sweethearts",
+        "id": 4865131,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4865131/300x0/sweethearts.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4865131/",
+            "filename": "sweethearts"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4865131/600x0/sweethearts.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4865131/",
+            "filename": "sweethearts"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4865131/1200x0/sweethearts.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4865131/",
+            "filename": "sweethearts"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4865131/300x0/sweethearts.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4865131/",
+            "filename": "sweethearts"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4865131/600x0/sweethearts.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4865131/",
+            "filename": "sweethearts"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4865131/1200x0/sweethearts.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4865131/",
+            "filename": "sweethearts"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sweethearts",
+        "subheadline": "Sweethearts",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/sweethearts-20796",
+        "videoId": 4865131
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,111 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19803",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19803,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/weil-wir-champions-sind-19803"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Weil wir Champions sind",
+          "teaserId": "film_4775654",
+          "teaserName": "Weil wir Champions sind | Weil wir Champions sind",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [
+            "FILME Komödien"
+          ],
+          "classification": [
+            "Original"
+          ],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "RTL+ Original",
+          "teaserEpisodeName": "Weil wir Champions sind"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Weil wir Champions sind",
+        "id": 4775654,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775654/300x0/weil-wir-champions-sind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775654/",
+            "filename": "weil-wir-champions-sind"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775654/600x0/weil-wir-champions-sind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775654/",
+            "filename": "weil-wir-champions-sind"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775654/1200x0/weil-wir-champions-sind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775654/",
+            "filename": "weil-wir-champions-sind"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775654/300x0/weil-wir-champions-sind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775654/",
+            "filename": "weil-wir-champions-sind"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775654/600x0/weil-wir-champions-sind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775654/",
+            "filename": "weil-wir-champions-sind"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775654/1200x0/weil-wir-champions-sind.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775654/",
+            "filename": "weil-wir-champions-sind"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "weil-wir-champions-sind",
+        "subheadline": "Weil wir Champions sind",
+        "text": "Staffel 1, Folge 1 | RTL+ Original",
+        "type": "film",
+        "url": "/filme/weil-wir-champions-sind-19803",
+        "videoId": 4775654
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

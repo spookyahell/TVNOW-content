@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20091",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20091,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/plattfuss-am-nil-20091"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Plattfuß am Nil",
+          "teaserId": "film_4219744",
+          "teaserName": "Plattfuß am Nil | Plattfuß am Nil",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Plattfuß am Nil"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Plattfuß am Nil",
+        "id": 4219744,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4219744/300x0/plattfuss-am-nil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4219744/",
+            "filename": "plattfuss-am-nil"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4219744/600x0/plattfuss-am-nil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4219744/",
+            "filename": "plattfuss-am-nil"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4219744/1200x0/plattfuss-am-nil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4219744/",
+            "filename": "plattfuss-am-nil"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4219744/300x0/plattfuss-am-nil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4219744/",
+            "filename": "plattfuss-am-nil"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4219744/600x0/plattfuss-am-nil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4219744/",
+            "filename": "plattfuss-am-nil"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4219744/1200x0/plattfuss-am-nil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4219744/",
+            "filename": "plattfuss-am-nil"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "plattfuss-am-nil",
+        "subheadline": "Plattfuß am Nil",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/plattfuss-am-nil-20091",
+        "videoId": 4219744
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

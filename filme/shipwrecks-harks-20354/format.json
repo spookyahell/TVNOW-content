@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20354,
+  "additionalMeta": {
+    "canonical": "/filme/shipwrecks-harks-20354",
+    "url": "/filme/shipwrecks-harks-20354"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Shipwreck Sharks - Überlebenskünstler der Hochsee",
+      "url": "/filme/shipwrecks-harks-20354"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20354,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Shipwreck Sharks - Überlebenskünstler der Hochsee 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Shipwreck Sharks - Überlebenskünstler der Hochsee im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Shipwreck Sharks - Überlebenskünstler der Hochsee 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/shipwrecks-harks-20354"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4382396/1600x0/shipwreck-sharks-ueberlebenskuenstler-der-hochsee.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4382396,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4382396",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20354"
+    },
+    {
+      "id": 20354,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20354",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnshipwrecksharks",
+      "video": "dvrsowf_ten_tnshipwrecksharks",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/shipwreck_sharks/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "shipwreck_sharks",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Shipwreck Sharks - Überlebenskünstler der Hochsee",
+    "text": "Statistisch gesehen ist er der gefährlichste Hai der Ozeane. Lange gilt er als Seefahrerschreck und rücksichtsloser Killer. Heute sind Weißspitzenhochseehaie nur noch selten anzutreffen. Professor Yannis Papastamatiou will herausfinden, wie es um die verrufenen Haie steht und was sie in Wirklichkeit fressen. Ein Tauchgang mit einem der umstrittenen Fische sowie ein besendertes Tier bringen schließlich die Wahrheit an die Oberfläche.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/shipwreck-sharks-ueberlebenskuenstler-der-hochsee-20354",
+        "description": "Statistisch gesehen ist er der gefährlichste Hai der Ozeane. Lange gilt er als Seefahrerschreck und rücksichtsloser Killer. Heute sind Weißspitzenhochseehaie nur noch selten anzutreffen. Professor Yannis Papastamatiou will herausfinden, wie es um die verrufenen Haie steht und was sie in Wirklichkeit fressen. Ein Tauchgang mit einem der umstrittenen Fische sowie ein besendertes Tier bringen schließlich die Wahrheit an die Oberfläche.",
+        "duration": "PT48M8S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4382396/1200x0/shipwrecks-harks.jpg",
+        "name": "Shipwreck Sharks - Überlebenskünstler der Hochsee",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/shipwreck-sharks-ueberlebenskuenstler-der-hochsee-20354",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-01-27T06:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=shipwrecks-harks-20354",
+              "sameAs": "%s/premium?typ=format&formatname=shipwrecks-harks-20354",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/shipwreck-sharks-ueberlebenskuenstler-der-hochsee-20354",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Statistisch gesehen ist er der gefährlichste Hai der Ozeane. Lange gilt er als Seefahrerschreck und rücksichtsloser Killer. Heute sind Weißspitzenhochseehaie nur noch selten anzutreffen. Professor Yannis Papastamatiou will herausfinden, wie es um die verrufenen Haie steht und was sie in Wirklichkeit fressen. Ein Tauchgang mit einem der umstrittenen Fische sowie ein besendertes Tier bringen schließlich die Wahrheit an die Oberfläche.",
+          "duration": "PT48M8S",
+          "embedUrl": "%s/googlebot/player/filme/shipwreck-sharks-ueberlebenskuenstler-der-hochsee-20354",
+          "name": "Shipwreck Sharks - Überlebenskünstler der Hochsee",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4382396/1200x0/shipwrecks-harks.jpg",
+          "uploadDate": "2022-01-27T06:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Shipwreck Sharks - Überlebenskünstler der Hochsee im Online Stream | RTL+",
+        "headline": "Shipwreck Sharks - Überlebenskünstler der Hochsee im Online Stream | RTL+",
+        "description": "Shipwreck Sharks - Überlebenskünstler der Hochsee und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+. Ein Film mit ▶️Boris Jacoby.",
+        "url": "%s/filme/shipwreck-sharks-ueberlebenskuenstler-der-hochsee-20354",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4382396/1200x0/shipwrecks-harks.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4382396/1200x0/shipwrecks-harks.jpg",
+        "datePublished": "2022-01-27T06:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4382396/1200x0/shipwrecks-harks.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Shipwreck Sharks - Überlebenskünstler der Hochsee",
+            "item": "%s/filme/shipwrecks-harks-20354"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Shipwreck Sharks - Überlebenskünstler der Hochsee im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

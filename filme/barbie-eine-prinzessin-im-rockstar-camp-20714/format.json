@@ -1,0 +1,240 @@
+﻿{
+  "formatId": 20714,
+  "additionalMeta": {
+    "canonical": "/filme/barbie-eine-prinzessin-im-rockstar-camp-20714",
+    "url": "/filme/barbie-eine-prinzessin-im-rockstar-camp-20714"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Barbie - Eine Prinzessin im Rockstar Camp",
+      "url": "/filme/barbie-eine-prinzessin-im-rockstar-camp-20714"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20714,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Barbie - Eine Prinzessin im Rockstar Camp 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Barbie - Eine Prinzessin im Rockstar Camp im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Barbie - Eine Prinzessin im Rockstar Camp 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/barbie-eine-prinzessin-im-rockstar-camp-20714"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4834022/1600x0/barbie-eine-prinzessin-im-rockstar-camp.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4834022,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4834022",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20714"
+    },
+    {
+      "id": 20714,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20714",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/kids_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "kids_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Mädchen",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Barbie - Eine Prinzessin im Rockstar Camp",
+    "text": "Courtney ist eine moderne Prinzessin, deren Welt ganz schön durcheinandergerät, als sie mit dem berühmten Rockstar Erika verwechselt wird. Fälschlicherweise gerät Prinzessin Courtney ins Rockstar-Camp und Erika ins exklusive königliche Camp auf der anderen Seite des Sees. Während die Lehrer der rivalisierenden Camps diesen Fehler wiedergutzumachen versuchen, erfahren Courtney und Erika, was es heißt, in eine völlig neue Welt einzutauchen.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/barbie-eine-prinzessin-im-rockstar-camp-20714",
+        "description": "Courtney ist eine moderne Prinzessin, deren Welt ganz schön durcheinandergerät, als sie mit dem berühmten Rockstar Erika verwechselt wird. Fälschlicherweise gerät Prinzessin Courtney ins Rockstar-Camp und Erika ins exklusive königliche Camp auf der anderen Seite des Sees. Während die Lehrer der rivalisierenden Camps diesen Fehler wiedergutzumachen versuchen, erfahren Courtney und Erika, was es heißt, in eine völlig neue Welt einzutauchen.",
+        "duration": "PT1H19M18S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4834022/1200x0/barbie-eine-prinzessin-im-rockstar-camp.jpg",
+        "name": "Barbie - Eine Prinzessin im Rockstar Camp",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/barbie-eine-prinzessin-im-rockstar-camp-20714",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-06-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=barbie-eine-prinzessin-im-rockstar-camp-20714",
+              "sameAs": "%s/premium?typ=format&formatname=barbie-eine-prinzessin-im-rockstar-camp-20714",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/barbie-eine-prinzessin-im-rockstar-camp-20714",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Courtney ist eine moderne Prinzessin, deren Welt ganz schön durcheinandergerät, als sie mit dem berühmten Rockstar Erika verwechselt wird. Fälschlicherweise gerät Prinzessin Courtney ins Rockstar-Camp und Erika ins exklusive königliche Camp auf der anderen Seite des Sees. Während die Lehrer der rivalisierenden Camps diesen Fehler wiedergutzumachen versuchen, erfahren Courtney und Erika, was es heißt, in eine völlig neue Welt einzutauchen.",
+          "duration": "PT1H19M18S",
+          "embedUrl": "%s/googlebot/player/filme/barbie-eine-prinzessin-im-rockstar-camp-20714",
+          "name": "Barbie - Eine Prinzessin im Rockstar Camp",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4834022/1200x0/barbie-eine-prinzessin-im-rockstar-camp.jpg",
+          "uploadDate": "2022-06-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Barbie - Eine Prinzessin im Rockstar Camp im Online Stream | RTL+",
+        "headline": "Barbie - Eine Prinzessin im Rockstar Camp im Online Stream | RTL+",
+        "description": "Barbie - Eine Prinzessin im Rockstar Camp und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/barbie-eine-prinzessin-im-rockstar-camp-20714",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4834022/1200x0/barbie-eine-prinzessin-im-rockstar-camp.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4834022/1200x0/barbie-eine-prinzessin-im-rockstar-camp.jpg",
+        "datePublished": "2022-06-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4834022/1200x0/barbie-eine-prinzessin-im-rockstar-camp.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Barbie - Eine Prinzessin im Rockstar Camp",
+            "item": "%s/filme/barbie-eine-prinzessin-im-rockstar-camp-20714"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Barbie - Eine Prinzessin im Rockstar Camp im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

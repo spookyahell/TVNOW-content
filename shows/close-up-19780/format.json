@@ -1,0 +1,204 @@
+﻿{
+  "formatId": 19780,
+  "additionalMeta": {
+    "canonical": "/shows/close-up-19780",
+    "url": "/shows/close-up-19780"
+  },
+  "ads": {
+    "station": "rtl2",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "Close Up",
+      "url": "/shows/close-up-19780"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 19780,
+  "meta": [
+    {
+      "content": "Die Show ▶ Close Up (RTLZWEI) streamen & weitere Highlights aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Close Up im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ Close Up (RTLZWEI) streamen & weitere Highlights aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/shows/close-up-19780"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/19780_03artwork/1600x0/close-up.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/19780",
+      "type": "teaserrow"
+    },
+    {
+      "id": 19780,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19780",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_r2ncloseup",
+      "video": "dvrsowf_ten_r2ncloseup",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_2_now/formate/close_up/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_2_now",
+        "formate",
+        "close_up",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Promis"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Close Up",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/shows/close-up-19780",
+        "url": "%s/shows/close-up-19780",
+        "name": "Close Up",
+        "description": "Die Show ▶ Close Up (RTLZWEI) streamen & weitere Highlights aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/19780_04metalogo/1200x0/close-up.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Close Up",
+        "headline": "Close Up",
+        "description": "Die Show ▶ Close Up (RTLZWEI) streamen & weitere Highlights aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "url": "%s/shows/close-up-19780",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/19780_04metalogo/1200x0/close-up.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/19780_04metalogo/1200x0/close-up.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/19780_04metalogo/1200x0/close-up.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "%s/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Close Up",
+            "item": "%s/shows/close-up-19780"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Close Up im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

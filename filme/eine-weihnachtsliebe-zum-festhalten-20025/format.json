@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20025,
+  "additionalMeta": {
+    "canonical": "/filme/eine-weihnachtsliebe-zum-festhalten-20025",
+    "url": "/filme/eine-weihnachtsliebe-zum-festhalten-20025"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Eine Weihnachtsliebe zum Festhalten",
+      "url": "/filme/eine-weihnachtsliebe-zum-festhalten-20025"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20025,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Eine Weihnachtsliebe zum Festhalten 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Eine Weihnachtsliebe zum Festhalten im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Eine Weihnachtsliebe zum Festhalten 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/eine-weihnachtsliebe-zum-festhalten-20025"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4185244/1600x0/eine-weihnachtsliebe-zum-festhalten.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4185244,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4185244",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20025"
+    },
+    {
+      "id": 20025,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20025",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_romantik/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_romantik",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Eine Weihnachtsliebe zum Festhalten - Informationen zum Film",
+    "text": "Sophie, eine engagierte Sport-Fotografin kehrt zur Weihnachtszeit nach Hause zurück, da sie sich um ihre Großmutter kümmern möchte. Dort trifft sie auf ihren Nachbarn David, der seinen Neffen in Obhut hat. David bittet Sophie, ihm bei der Betreuung zu unterstützen...",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/eine-weihnachtsliebe-zum-festhalten-20025",
+        "description": "Sophie, eine engagierte Sport-Fotografin kehrt zur Weihnachtszeit nach Hause zurück, da sie sich um ihre Großmutter kümmern möchte. Dort trifft sie auf ihren Nachbarn David, der seinen Neffen in Obhut hat. David bittet Sophie, ihm bei der Betreuung zu unterstützen...",
+        "duration": "PT1H23M27S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4185244/1200x0/eine-weihnachtsliebe-zum-festhalten.jpg",
+        "name": "Eine Weihnachtsliebe zum Festhalten",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/eine-weihnachtsliebe-zum-festhalten-20025",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-11-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=eine-weihnachtsliebe-zum-festhalten-20025",
+              "sameAs": "%s/premium?typ=format&formatname=eine-weihnachtsliebe-zum-festhalten-20025",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/eine-weihnachtsliebe-zum-festhalten-20025",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Sophie, eine engagierte Sport-Fotografin kehrt zur Weihnachtszeit nach Hause zurück, da sie sich um ihre Großmutter kümmern möchte. Dort trifft sie auf ihren Nachbarn David, der seinen Neffen in Obhut hat. David bittet Sophie, ihm bei der Betreuung zu unterstützen...",
+          "duration": "PT1H23M27S",
+          "embedUrl": "%s/googlebot/player/filme/eine-weihnachtsliebe-zum-festhalten-20025",
+          "name": "Eine Weihnachtsliebe zum Festhalten",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4185244/1200x0/eine-weihnachtsliebe-zum-festhalten.jpg",
+          "uploadDate": "2021-11-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Eine Weihnachtsliebe zum Festhalten im Online Stream | RTL+",
+        "headline": "Eine Weihnachtsliebe zum Festhalten im Online Stream | RTL+",
+        "description": "Eine Weihnachtsliebe zum Festhalten und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei RTL+. Ein Film mit ▶️Merritt Patterson, Jon Cor, Toby Levins, Luke Roessler, Paula Shaw, Kwesi Ameyaw, Nicole Oliver, Terence Kelly, Anita Brown, Chelsea Gill, Briana Skye, Claude Knowlton, Richard Glen Lett.",
+        "url": "%s/filme/eine-weihnachtsliebe-zum-festhalten-20025",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4185244/1200x0/eine-weihnachtsliebe-zum-festhalten.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4185244/1200x0/eine-weihnachtsliebe-zum-festhalten.jpg",
+        "datePublished": "2021-11-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4185244/1200x0/eine-weihnachtsliebe-zum-festhalten.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Eine Weihnachtsliebe zum Festhalten",
+            "item": "%s/filme/eine-weihnachtsliebe-zum-festhalten-20025"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Eine Weihnachtsliebe zum Festhalten im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

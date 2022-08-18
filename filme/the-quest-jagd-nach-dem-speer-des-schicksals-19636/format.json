@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 19636,
+  "additionalMeta": {
+    "canonical": "/filme/the-quest-jagd-nach-dem-speer-des-schicksals-19636",
+    "url": "/filme/the-quest-jagd-nach-dem-speer-des-schicksals-19636"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "The Quest - Jagd nach dem Speer des Schicksals",
+      "url": "/filme/the-quest-jagd-nach-dem-speer-des-schicksals-19636"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19636,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ The Quest - Jagd nach dem Speer des Schicksals 📺 und viele weitere ▶ Filme aus dem Genre Abenteuer findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "The Quest - Jagd nach dem Speer des Schicksals im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ The Quest - Jagd nach dem Speer des Schicksals 📺 und viele weitere ▶ Filme aus dem Genre Abenteuer findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/the-quest-jagd-nach-dem-speer-des-schicksals-19636"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3968447/1600x0/the-quest-jagd-nach-dem-speer-des-schicksals.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3968447,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3968447",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19636"
+    },
+    {
+      "id": 19636,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19636",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_abenteuer/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_abenteuer",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Abenteuer",
+    "cluster": [
+      "FILME Abenteuer"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: The Quest - Jagd nach dem Speer des Schicksals",
+    "text": "Als Student Flynn Carsen einen Job in der Metropolitan Bücherei als Bibliothekar annimmt, ahnt er noch nicht, welches Abenteuer dort auf ihn wartet. In einem geheimen Trakt des Gebäudes lagern die größten Schätze der Menschheitsgeschichte. Darunter auch die heilige Lanze. Wer sie besitzt, wird der Überlieferung zufolge unbesiegbar. Als die Lanze gestohlen wird, macht sich Carsen auf die Jagd um den ganzen Erdball, um die die Welt zu retten.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/the-quest-jagd-nach-dem-speer-des-schicksals-19636",
+        "description": "Als Student Flynn Carsen einen Job in der Metropolitan Bücherei als Bibliothekar annimmt, ahnt er noch nicht, welches Abenteuer dort auf ihn wartet. In einem geheimen Trakt des Gebäudes lagern die größten Schätze der Menschheitsgeschichte. Darunter auch die heilige Lanze. Wer sie besitzt, wird der Überlieferung zufolge unbesiegbar. Als die Lanze gestohlen wird, macht sich Carsen auf die Jagd um den ganzen Erdball, um die die Welt zu retten.",
+        "duration": "PT1H30M10S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3968447/1200x0/the-quest-jagd-nach-dem-speer-des-schicksals.jpg",
+        "name": "The Quest - Jagd nach dem Speer des Schicksals",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/the-quest-jagd-nach-dem-speer-des-schicksals-19636",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-04-19T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=the-quest-jagd-nach-dem-speer-des-schicksals-19636",
+              "sameAs": "%s/premium?typ=format&formatname=the-quest-jagd-nach-dem-speer-des-schicksals-19636",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/the-quest-jagd-nach-dem-speer-des-schicksals-19636",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Als Student Flynn Carsen einen Job in der Metropolitan Bücherei als Bibliothekar annimmt, ahnt er noch nicht, welches Abenteuer dort auf ihn wartet. In einem geheimen Trakt des Gebäudes lagern die größten Schätze der Menschheitsgeschichte. Darunter auch die heilige Lanze. Wer sie besitzt, wird der Überlieferung zufolge unbesiegbar. Als die Lanze gestohlen wird, macht sich Carsen auf die Jagd um den ganzen Erdball, um die die Welt zu retten.",
+          "duration": "PT1H30M10S",
+          "embedUrl": "%s/googlebot/player/filme/the-quest-jagd-nach-dem-speer-des-schicksals-19636",
+          "name": "The Quest - Jagd nach dem Speer des Schicksals",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3968447/1200x0/the-quest-jagd-nach-dem-speer-des-schicksals.jpg",
+          "uploadDate": "2021-04-19T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "The Quest - Jagd nach dem Speer des Schicksals im Online Stream | RTL+",
+        "headline": "The Quest - Jagd nach dem Speer des Schicksals im Online Stream | RTL+",
+        "description": "The Quest - Jagd nach dem Speer des Schicksals und viele weitere  ▶️Filme aus dem Genre Abenteuer findest du im Online Stream bei RTL+. Ein Film mit ▶️Noah Wyle, Kyle MacLachlan, Sonya Walger, Jane Curtin, Kelly Hu, David Dayan Fisher, Lisa Brenner, Clyde Kusatsu, Mario Iván Martínez, Olympia Dukakis, Bob Newhart.",
+        "url": "%s/filme/the-quest-jagd-nach-dem-speer-des-schicksals-19636",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3968447/1200x0/the-quest-jagd-nach-dem-speer-des-schicksals.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3968447/1200x0/the-quest-jagd-nach-dem-speer-des-schicksals.jpg",
+        "datePublished": "2021-04-19T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3968447/1200x0/the-quest-jagd-nach-dem-speer-des-schicksals.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The Quest - Jagd nach dem Speer des Schicksals",
+            "item": "%s/filme/the-quest-jagd-nach-dem-speer-des-schicksals-19636"
+          }
+        ]
+      }
+    }
+  },
+  "title": "The Quest - Jagd nach dem Speer des Schicksals im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

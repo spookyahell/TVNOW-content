@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 19330,
+  "additionalMeta": {
+    "canonical": "/filme/digitale-drogendeals-tatort-internet-19330",
+    "url": "/filme/digitale-drogendeals-tatort-internet-19330"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Digitale Drogendeals - Tatort Internet",
+      "url": "/filme/digitale-drogendeals-tatort-internet-19330"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 19330,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Digitale Drogendeals - Tatort Internet 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Digitale Drogendeals - Tatort Internet im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Digitale Drogendeals - Tatort Internet 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/digitale-drogendeals-tatort-internet-19330"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3831814/1600x0/digitale-drogendeals-tatort-internet.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3831814,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3831814",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19330"
+    },
+    {
+      "id": 19330,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19330",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Digitale Drogendeals - Tatort Internet",
+    "text": "Kokain, Cannabis und Pillen, zugänglich für jedermann und mit wenigen Klicks bestellt: Um Drogen zu kaufen, muss heute niemand mehr ins Darknet. Zahlreiche Drogendealer nutzen das soziale Netzwerk Instagram als neue Plattform, um mit potenziellen Kunden ins Gespräch zu kommen und Geschäfte abzuwickeln - Grenzen gibt es kaum. Die Doku geht der Frage nach, wie solche Deals im Netz funktionieren und gibt Einblicke in die geheimen Codes der Dealer.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/digitale-drogendeals-tatort-internet-19330",
+        "description": "Kokain, Cannabis und Pillen, zugänglich für jedermann und mit wenigen Klicks bestellt: Um Drogen zu kaufen, muss heute niemand mehr ins Darknet. Zahlreiche Drogendealer nutzen das soziale Netzwerk Instagram als neue Plattform, um mit potenziellen Kunden ins Gespräch zu kommen und Geschäfte abzuwickeln - Grenzen gibt es kaum. Die Doku geht der Frage nach, wie solche Deals im Netz funktionieren und gibt Einblicke in die geheimen Codes der Dealer.",
+        "duration": "PT20M6S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3831814/1200x0/digitale-drogendeals-tatort-internet.jpg",
+        "name": "Digitale Drogendeals - Tatort Internet",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/digitale-drogendeals-tatort-internet-19330",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2021-09-09T05:35:00.000Z"
+          }
+        },
+        "url": "%s/filme/digitale-drogendeals-tatort-internet-19330",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Kokain, Cannabis und Pillen, zugänglich für jedermann und mit wenigen Klicks bestellt: Um Drogen zu kaufen, muss heute niemand mehr ins Darknet. Zahlreiche Drogendealer nutzen das soziale Netzwerk Instagram als neue Plattform, um mit potenziellen Kunden ins Gespräch zu kommen und Geschäfte abzuwickeln - Grenzen gibt es kaum. Die Doku geht der Frage nach, wie solche Deals im Netz funktionieren und gibt Einblicke in die geheimen Codes der Dealer.",
+          "duration": "PT20M6S",
+          "embedUrl": "%s/googlebot/player/filme/digitale-drogendeals-tatort-internet-19330",
+          "name": "Digitale Drogendeals - Tatort Internet",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3831814/1200x0/digitale-drogendeals-tatort-internet.jpg",
+          "uploadDate": "2021-09-09T05:35:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Digitale Drogendeals - Tatort Internet im Online Stream | RTL+",
+        "headline": "Digitale Drogendeals - Tatort Internet im Online Stream | RTL+",
+        "description": "Digitale Drogendeals - Tatort Internet und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/digitale-drogendeals-tatort-internet-19330",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3831814/1200x0/digitale-drogendeals-tatort-internet.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3831814/1200x0/digitale-drogendeals-tatort-internet.jpg",
+        "datePublished": "2021-09-09T05:35:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3831814/1200x0/digitale-drogendeals-tatort-internet.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Digitale Drogendeals - Tatort Internet",
+            "item": "%s/filme/digitale-drogendeals-tatort-internet-19330"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Digitale Drogendeals - Tatort Internet im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

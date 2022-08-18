@@ -1,0 +1,231 @@
+﻿{
+  "formatId": 20317,
+  "additionalMeta": {
+    "canonical": "/filme/news-reportage-ahrtal-so-geht-es-den-menschen-heute-20317",
+    "url": "/filme/news-reportage-ahrtal-so-geht-es-den-menschen-heute-20317"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "News Reportage: Ahrtal - So geht es den Menschen heute",
+      "url": "/filme/news-reportage-ahrtal-so-geht-es-den-menschen-heute-20317"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 20317,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ News Reportage: Ahrtal - So geht es den Menschen heute 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "News Reportage: Ahrtal - So geht es den Menschen heute im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ News Reportage: Ahrtal - So geht es den Menschen heute 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/news-reportage-ahrtal-so-geht-es-den-menschen-heute-20317"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4344511/1600x0/ahrtal-so-geht-es-den-menschen-heute.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4344511,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4344511",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20317"
+    },
+    {
+      "id": 20317,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20317",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Wissen"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Ahrtal - So geht es den Menschen heute",
+    "text": "Fünf Monate nach der Hochwasserkatastrophe blickt Reporterin Fabricia Karutz auf die aktuelle Situation im Ahrtal. Wie geht es den Betroffenen heute? Wie laufen die Aufbauarbeiten im Krisengebiet? Die News-Reportage beleuchtet die prekären Umstände, denen sich die Einwohner im Sommer stellen mussten und auch heute noch stellen. Auch Karutz erzählt als eine der Betroffenen aus erster Hand von ihren Erlebnissen im Ahrtal.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/ahrtal-so-geht-es-den-menschen-heute-20317",
+        "description": "Fünf Monate nach der Hochwasserkatastrophe blickt Reporterin Fabricia Karutz auf die aktuelle Situation im Ahrtal. Wie geht es den Betroffenen heute? Wie laufen die Aufbauarbeiten im Krisengebiet? Die News-Reportage beleuchtet die prekären Umstände, denen sich die Einwohner im Sommer stellen mussten und auch heute noch stellen. Auch Karutz erzählt als eine der Betroffenen aus erster Hand von ihren Erlebnissen im Ahrtal.",
+        "duration": "PT21M58S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4344511/1200x0/news-reportage-ahrtal-so-geht-es-den-menschen-heute.jpg",
+        "name": "News Reportage: Ahrtal - So geht es den Menschen heute",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/ahrtal-so-geht-es-den-menschen-heute-20317",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2021-12-23T17:30:00.000Z"
+          }
+        },
+        "url": "%s/filme/ahrtal-so-geht-es-den-menschen-heute-20317",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Fünf Monate nach der Hochwasserkatastrophe blickt Reporterin Fabricia Karutz auf die aktuelle Situation im Ahrtal. Wie geht es den Betroffenen heute? Wie laufen die Aufbauarbeiten im Krisengebiet? Die News-Reportage beleuchtet die prekären Umstände, denen sich die Einwohner im Sommer stellen mussten und auch heute noch stellen. Auch Karutz erzählt als eine der Betroffenen aus erster Hand von ihren Erlebnissen im Ahrtal.",
+          "duration": "PT21M58S",
+          "embedUrl": "%s/googlebot/player/filme/ahrtal-so-geht-es-den-menschen-heute-20317",
+          "name": "News Reportage: Ahrtal - So geht es den Menschen heute",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4344511/1200x0/news-reportage-ahrtal-so-geht-es-den-menschen-heute.jpg",
+          "uploadDate": "2021-12-23T17:30:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "News Reportage: Ahrtal - So geht es den Menschen heute im Online Stream | RTL+",
+        "headline": "News Reportage: Ahrtal - So geht es den Menschen heute im Online Stream | RTL+",
+        "description": "News Reportage: Ahrtal - So geht es den Menschen heute und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/ahrtal-so-geht-es-den-menschen-heute-20317",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4344511/1200x0/news-reportage-ahrtal-so-geht-es-den-menschen-heute.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4344511/1200x0/news-reportage-ahrtal-so-geht-es-den-menschen-heute.jpg",
+        "datePublished": "2021-12-23T17:30:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4344511/1200x0/news-reportage-ahrtal-so-geht-es-den-menschen-heute.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "News Reportage: Ahrtal - So geht es den Menschen heute",
+            "item": "%s/filme/news-reportage-ahrtal-so-geht-es-den-menschen-heute-20317"
+          }
+        ]
+      }
+    }
+  },
+  "title": "News Reportage: Ahrtal - So geht es den Menschen heute im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

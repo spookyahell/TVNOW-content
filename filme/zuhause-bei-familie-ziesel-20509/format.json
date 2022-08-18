@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20509,
+  "additionalMeta": {
+    "canonical": "/filme/zuhause-bei-familie-ziesel-20509",
+    "url": "/filme/zuhause-bei-familie-ziesel-20509"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Zuhause bei Familie Ziesel",
+      "url": "/filme/zuhause-bei-familie-ziesel-20509"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20509,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Zuhause bei Familie Ziesel 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Zuhause bei Familie Ziesel im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Zuhause bei Familie Ziesel 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/zuhause-bei-familie-ziesel-20509"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4768939/1600x0/zuhause-bei-familie-ziesel.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4768939,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4768939",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20509"
+    },
+    {
+      "id": 20509,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20509",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnzuhausefamziesel",
+      "video": "dvrsowf_ten_tnzuhausefamziesel",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/zuhause_fam_ziesel/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "zuhause_fam_ziesel",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Zuhause bei Familie Ziesel",
+    "text": "Dieses lehrreiche Märchen für Kinder bringt auf spielerische und unterhaltsame Weise das Leben des Europäischen Ziesels näher. Die einst häufig vorkommende Erdhörnchenart ist in den letzten Jahren aufgrund menschlicher Aktivitäten selten geworden. Die Geschichte bietet Kindern ein breites Spektrum an Emotionen, vor allem aber pädagogische Anregungen. Es basiert auf einer wahren Geschichte.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/zuhause-bei-familie-ziesel-20509",
+        "description": "Dieses lehrreiche Märchen für Kinder bringt auf spielerische und unterhaltsame Weise das Leben des Europäischen Ziesels näher. Die einst häufig vorkommende Erdhörnchenart ist in den letzten Jahren aufgrund menschlicher Aktivitäten selten geworden. Die Geschichte bietet Kindern ein breites Spektrum an Emotionen, vor allem aber pädagogische Anregungen. Es basiert auf einer wahren Geschichte.",
+        "duration": "PT28M2S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4768939/1200x0/zuhause-bei-familie-ziesel.jpg",
+        "name": "Zuhause bei Familie Ziesel",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/zuhause-bei-familie-ziesel-20509",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-01T06:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=zuhause-bei-familie-ziesel-20509",
+              "sameAs": "%s/premium?typ=format&formatname=zuhause-bei-familie-ziesel-20509",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/zuhause-bei-familie-ziesel-20509",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Dieses lehrreiche Märchen für Kinder bringt auf spielerische und unterhaltsame Weise das Leben des Europäischen Ziesels näher. Die einst häufig vorkommende Erdhörnchenart ist in den letzten Jahren aufgrund menschlicher Aktivitäten selten geworden. Die Geschichte bietet Kindern ein breites Spektrum an Emotionen, vor allem aber pädagogische Anregungen. Es basiert auf einer wahren Geschichte.",
+          "duration": "PT28M2S",
+          "embedUrl": "%s/googlebot/player/filme/zuhause-bei-familie-ziesel-20509",
+          "name": "Zuhause bei Familie Ziesel",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4768939/1200x0/zuhause-bei-familie-ziesel.jpg",
+          "uploadDate": "2022-04-01T06:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Zuhause bei Familie Ziesel im Online Stream | RTL+",
+        "headline": "Zuhause bei Familie Ziesel im Online Stream | RTL+",
+        "description": "Zuhause bei Familie Ziesel und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+. Ein Film mit ▶️Tim Kreuer.",
+        "url": "%s/filme/zuhause-bei-familie-ziesel-20509",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4768939/1200x0/zuhause-bei-familie-ziesel.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4768939/1200x0/zuhause-bei-familie-ziesel.jpg",
+        "datePublished": "2022-04-01T06:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4768939/1200x0/zuhause-bei-familie-ziesel.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Zuhause bei Familie Ziesel",
+            "item": "%s/filme/zuhause-bei-familie-ziesel-20509"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Zuhause bei Familie Ziesel im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

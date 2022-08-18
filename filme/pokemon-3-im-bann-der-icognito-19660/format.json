@@ -1,0 +1,241 @@
+﻿{
+  "formatId": 19660,
+  "additionalMeta": {
+    "canonical": "/filme/pokemon-3-im-bann-der-icognito-19660",
+    "url": "/filme/pokemon-3-im-bann-der-icognito-19660"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Pokémon 3: Im Bann der Icognito",
+      "url": "/filme/pokemon-3-im-bann-der-icognito-19660"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19660,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Pokémon 3: Im Bann der Icognito 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Pokémon 3: Im Bann der Icognito im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Pokémon 3: Im Bann der Icognito 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/pokemon-3-im-bann-der-icognito-19660"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4019932/1600x0/pokemon-3-im-bann-der-icognito.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4019932,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4019932",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19660"
+    },
+    {
+      "id": 19660,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19660",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Action und Abenteuer",
+      "KIDS Jungs",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Pokémon 3: Im Bann der Icognito - Alle Informationen zum Film",
+    "text": "Eine Katastrophe bricht über Greenfield herein, als der Ort unter einem riesigen Teppich aus Kristallen verschwindet. Ash, Pikachu und ihre Freunde wollen versuchen, die einst so schöne Stadt von diesem Fluch zu befreien. Bei ihrem Eintreffen entführt das legendäre Pokémon Entei auch noch Ashs Mutter in die Kristallwelt. Ash macht sich auf zu ihrer Rettung, ohne zu wissen, was ihn erwartet: ein junges Mädchen, dessen Traumwelt sich in eine albtraumhafte Realität verwandelt hat. ",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/pokemon-3-im-bann-der-icognito-19660",
+        "description": "Eine Katastrophe bricht über Greenfield herein, als der Ort unter einem riesigen Teppich aus Kristallen verschwindet. Ash, Pikachu und ihre Freunde wollen versuchen, die einst so schöne Stadt von diesem Fluch zu befreien. Bei ihrem Eintreffen entführt das legendäre Pokémon Entei auch noch Ashs Mutter in die Kristallwelt. Ash macht sich auf zu ihrer Rettung, ohne zu wissen, was ihn erwartet: ein junges Mädchen, dessen Traumwelt sich in eine albtraumhafte Realität verwandelt hat. ",
+        "duration": "PT1H10M22S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4019932/1200x0/pokemon-3-im-bann-der-icognito.jpg",
+        "name": "Pokémon 3: Im Bann der Icognito",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/pokemon-3-im-bann-der-icognito-19660",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=pokemon-3-im-bann-der-icognito-19660",
+              "sameAs": "%s/premium?typ=format&formatname=pokemon-3-im-bann-der-icognito-19660",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/pokemon-3-im-bann-der-icognito-19660",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Eine Katastrophe bricht über Greenfield herein, als der Ort unter einem riesigen Teppich aus Kristallen verschwindet. Ash, Pikachu und ihre Freunde wollen versuchen, die einst so schöne Stadt von diesem Fluch zu befreien. Bei ihrem Eintreffen entführt das legendäre Pokémon Entei auch noch Ashs Mutter in die Kristallwelt. Ash macht sich auf zu ihrer Rettung, ohne zu wissen, was ihn erwartet: ein junges Mädchen, dessen Traumwelt sich in eine albtraumhafte Realität verwandelt hat. ",
+          "duration": "PT1H10M22S",
+          "embedUrl": "%s/googlebot/player/filme/pokemon-3-im-bann-der-icognito-19660",
+          "name": "Pokémon 3: Im Bann der Icognito",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4019932/1200x0/pokemon-3-im-bann-der-icognito.jpg",
+          "uploadDate": "2022-07-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Pokémon 3: Im Bann der Icognito im Online Stream | RTL+",
+        "headline": "Pokémon 3: Im Bann der Icognito im Online Stream | RTL+",
+        "description": "Pokémon 3: Im Bann der Icognito und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/pokemon-3-im-bann-der-icognito-19660",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4019932/1200x0/pokemon-3-im-bann-der-icognito.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4019932/1200x0/pokemon-3-im-bann-der-icognito.jpg",
+        "datePublished": "2022-07-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4019932/1200x0/pokemon-3-im-bann-der-icognito.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pokémon 3: Im Bann der Icognito",
+            "item": "%s/filme/pokemon-3-im-bann-der-icognito-19660"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Pokémon 3: Im Bann der Icognito im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

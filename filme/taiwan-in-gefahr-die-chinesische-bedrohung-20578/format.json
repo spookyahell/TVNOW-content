@@ -1,0 +1,231 @@
+﻿{
+  "formatId": 20578,
+  "additionalMeta": {
+    "canonical": "/filme/taiwan-in-gefahr-die-chinesische-bedrohung-20578",
+    "url": "/filme/taiwan-in-gefahr-die-chinesische-bedrohung-20578"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Taiwan in Gefahr? Die Chinesische Bedrohung",
+      "url": "/filme/taiwan-in-gefahr-die-chinesische-bedrohung-20578"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 20578,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Taiwan in Gefahr? Die Chinesische Bedrohung 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Taiwan in Gefahr? Die Chinesische Bedrohung im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Taiwan in Gefahr? Die Chinesische Bedrohung 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/taiwan-in-gefahr-die-chinesische-bedrohung-20578"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4781680/1600x0/taiwan-in-gefahr-die-chinesische-bedrohung.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4781680,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4781680",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20578"
+    },
+    {
+      "id": 20578,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20578",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Wissen"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Taiwan in Gefahr? Die Chinesische Bedrohung",
+    "text": "Taiwan liegt im westlichen Pazifik nur wenige Kilometer von der Volksrepublik China entfernt. Seit Jahrzehnten fürchten die Taiwanesen einen chinesischen Angriff, da das kommunistische China den demokratischen Inselstaat nicht als eigenständig anerkennt. Die Dokumentation blickt auf den Konflikt der beiden Länder und fragt bei den Einwohner Taiwans nach. Haben die Menschen in Taiwan Angst vor einem baldigen Krieg?",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/taiwan-in-gefahr-die-chinesische-bedrohung-20578",
+        "description": "Taiwan liegt im westlichen Pazifik nur wenige Kilometer von der Volksrepublik China entfernt. Seit Jahrzehnten fürchten die Taiwanesen einen chinesischen Angriff, da das kommunistische China den demokratischen Inselstaat nicht als eigenständig anerkennt. Die Dokumentation blickt auf den Konflikt der beiden Länder und fragt bei den Einwohner Taiwans nach. Haben die Menschen in Taiwan Angst vor einem baldigen Krieg?",
+        "duration": "PT42M42S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4781680/1200x0/taiwan-in-gefahr-die-chinesische-bedrohung.jpg",
+        "name": "Taiwan in Gefahr? Die Chinesische Bedrohung",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/taiwan-in-gefahr-die-chinesische-bedrohung-20578",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2022-08-02T01:10:00.000Z"
+          }
+        },
+        "url": "%s/filme/taiwan-in-gefahr-die-chinesische-bedrohung-20578",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Taiwan liegt im westlichen Pazifik nur wenige Kilometer von der Volksrepublik China entfernt. Seit Jahrzehnten fürchten die Taiwanesen einen chinesischen Angriff, da das kommunistische China den demokratischen Inselstaat nicht als eigenständig anerkennt. Die Dokumentation blickt auf den Konflikt der beiden Länder und fragt bei den Einwohner Taiwans nach. Haben die Menschen in Taiwan Angst vor einem baldigen Krieg?",
+          "duration": "PT42M42S",
+          "embedUrl": "%s/googlebot/player/filme/taiwan-in-gefahr-die-chinesische-bedrohung-20578",
+          "name": "Taiwan in Gefahr? Die Chinesische Bedrohung",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4781680/1200x0/taiwan-in-gefahr-die-chinesische-bedrohung.jpg",
+          "uploadDate": "2022-08-02T01:10:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Taiwan in Gefahr? Die Chinesische Bedrohung im Online Stream | RTL+",
+        "headline": "Taiwan in Gefahr? Die Chinesische Bedrohung im Online Stream | RTL+",
+        "description": "Taiwan in Gefahr? Die Chinesische Bedrohung und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/taiwan-in-gefahr-die-chinesische-bedrohung-20578",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4781680/1200x0/taiwan-in-gefahr-die-chinesische-bedrohung.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4781680/1200x0/taiwan-in-gefahr-die-chinesische-bedrohung.jpg",
+        "datePublished": "2022-08-02T01:10:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4781680/1200x0/taiwan-in-gefahr-die-chinesische-bedrohung.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Taiwan in Gefahr? Die Chinesische Bedrohung",
+            "item": "%s/filme/taiwan-in-gefahr-die-chinesische-bedrohung-20578"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Taiwan in Gefahr? Die Chinesische Bedrohung im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

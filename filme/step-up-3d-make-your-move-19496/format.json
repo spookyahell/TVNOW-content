@@ -1,0 +1,244 @@
+﻿{
+  "formatId": 19496,
+  "additionalMeta": {
+    "canonical": "/filme/step-up-3d-make-your-move-19496",
+    "url": "/filme/step-up-3d-make-your-move-19496"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Step Up 3D - Make Your Move",
+      "url": "/filme/step-up-3d-make-your-move-19496"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19496,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Step Up 3D - Make Your Move 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Step Up 3D - Make Your Move im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Step Up 3D - Make Your Move 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/step-up-3d-make-your-move-19496"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3941470/1600x0/step-up-3-make-your-move.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3941470,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3941470",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19496"
+    },
+    {
+      "id": 19496,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19496",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    },
+    {
+      "id": 15389,
+      "label": "Hier wird weitergetanzt!",
+      "moduleLayout": "landscape_small",
+      "moduleUrl": "/module/teaserrow/manual/15389",
+      "type": "teaserrow"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [
+      "FILME Female"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Step Up 3D - Make Your Move - Informationen zum Film",
+    "text": "Streetdancer Luke lebt mit zahlreichen, jungen Tänzern verschiedenster Herkunft, die sich zu der Tanztruppe \"House of Pirates\" zusammengeschlossen haben, in einem heruntergekommenen New Yorker Lagerhaus. Sie stehen kurz vor dem World Jam-Wettbewerb, einem Tanzwettstreit, bei dem die besten Tanzcrews der Welt gegeneinander antreten. ",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/step-up-3-make-your-move-19496",
+        "description": "Streetdancer Luke lebt mit zahlreichen, jungen Tänzern verschiedenster Herkunft, die sich zu der Tanztruppe \"House of Pirates\" zusammengeschlossen haben, in einem heruntergekommenen New Yorker Lagerhaus. Sie stehen kurz vor dem World Jam-Wettbewerb, einem Tanzwettstreit, bei dem die besten Tanzcrews der Welt gegeneinander antreten. ",
+        "duration": "PT1H42M36S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3941470/1200x0/step-up-3d-make-your-move.jpg",
+        "name": "Step Up 3D - Make Your Move",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/step-up-3-make-your-move-19496",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-11-15T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=step-up-3d-make-your-move-19496",
+              "sameAs": "%s/premium?typ=format&formatname=step-up-3d-make-your-move-19496",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/step-up-3-make-your-move-19496",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Streetdancer Luke lebt mit zahlreichen, jungen Tänzern verschiedenster Herkunft, die sich zu der Tanztruppe \"House of Pirates\" zusammengeschlossen haben, in einem heruntergekommenen New Yorker Lagerhaus. Sie stehen kurz vor dem World Jam-Wettbewerb, einem Tanzwettstreit, bei dem die besten Tanzcrews der Welt gegeneinander antreten. ",
+          "duration": "PT1H42M36S",
+          "embedUrl": "%s/googlebot/player/filme/step-up-3-make-your-move-19496",
+          "name": "Step Up 3D - Make Your Move",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3941470/1200x0/step-up-3d-make-your-move.jpg",
+          "uploadDate": "2021-11-15T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Step Up 3D - Make Your Move im Online Stream | RTL+",
+        "headline": "Step Up 3D - Make Your Move im Online Stream | RTL+",
+        "description": "Step Up 3D - Make Your Move und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/step-up-3-make-your-move-19496",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3941470/1200x0/step-up-3d-make-your-move.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3941470/1200x0/step-up-3d-make-your-move.jpg",
+        "datePublished": "2021-11-15T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3941470/1200x0/step-up-3d-make-your-move.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Step Up 3D - Make Your Move",
+            "item": "%s/filme/step-up-3d-make-your-move-19496"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Step Up 3D - Make Your Move im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

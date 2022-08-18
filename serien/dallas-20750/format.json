@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 20750,
+  "additionalMeta": {
+    "canonical": "/serien/dallas-20750",
+    "url": "/serien/dallas-20750"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Dallas",
+      "url": "/serien/dallas-20750"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 20750,
+  "meta": [
+    {
+      "content": "Die Serie Dallas (TVNOW) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Drama im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Dallas im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Dallas (TVNOW) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Drama im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/dallas-20750"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/20750_03artwork/1600x0/dallas.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/20750",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/20750",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/20750",
+      "type": "teaserrow"
+    },
+    {
+      "id": 16520,
+      "label": "Serien sind wie guter Wein - je älter, desto besser",
+      "moduleLayout": "landscape_small",
+      "moduleUrl": "/module/teaserrow/manual/16520",
+      "type": "teaserrow"
+    },
+    {
+      "id": 16521,
+      "label": "Filmklassiker, die man immer schauen kann",
+      "moduleLayout": "dvd",
+      "moduleUrl": "/module/teaserrow/manual/16521",
+      "type": "teaserrow"
+    },
+    {
+      "id": 20750,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20750",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tndallas",
+      "video": "dvrsowf_ten_tndallas",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/dallas/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "dallas",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Dallas: Informationen zur Serie",
+    "text": "<p>Dallas ist ein echter Klassiker. Im Mittelpunkt des Serien-Blockbusters der 1980er-Jahre steht die Ewing-Familie, ein Clan texanischer &Ouml;lmillion&auml;re. Sie lebt auf der Southfork Ranch in der gleichnamigen Stadt <strong>Dallas</strong>. Der durchtriebene, aalglatte Serienb&ouml;sewicht John Ross \"J.R.\" Ewing Junior und sein aufrichtiger Bruder Robert \"Bobby\" Ewing leiten die Firma Ewing Oil. Dies geschieht unter dem kritischen Blick ihres Vaters John Ross \"Jock\" Ewing Senior und unter moralischen Vorhaltungen ihrer Mutter Eleanor \"Miss Ellie\" Ewing. Ehen und Leben aller Beteiligten sind von Dauerkrisen, Schicksalsschl&auml;gen, kriminellen Machenschaften und unheilvollen Verstrickungen mit Anverwandten und Konkurrenten der &Ouml;lbranche von Dallas gekennzeichnet.</p> <h2>Dallas: Besetzung (Cast)</h2> <table> <tbody> <tr> <th>Rolle</th> <th>Schauspieler</th> </tr> <tr> <td>John Ross \"J.R.\" Ewing. Jr.</td> <td>Larry Hagman (1978&ndash;1991)</td> </tr> <tr> <td>Robert \"Bobby\" James Ewing</td> <td>Patrick Duffy (1978&ndash;1985, 1986&ndash;1991)</td> </tr> <tr> <td>Sue Ellen Shepard Ewing Lockwood</td> <td>Linda Gray (1978&ndash;1989, 1991)</td> </tr> <tr> <td>Pamela \"Pam\" Jean Barnes Ewing</td> <td>Victoria Principal (1978&ndash;1987)</td> </tr> <tr> <td>John Ross \"Jock\" Ewing, Sr</td> <td>Jim Davis (1978&ndash;1981)</td> </tr> <tr> <td>Eleanor \"Miss Ellie\" Southworth Ewing Farlow</td> <td>Barbara Bel Geddes (1978&ndash;1984, 1985&ndash;1990); Donna Reed (1984&ndash;1985)</td> </tr> <tr> <td>Lucy Ann Ewing Cooper</td> <td>Charlene Tilton (1978&ndash;1985, 1988&ndash;1990)</td> </tr> <tr> <td>Raymond \"Ray\" Krebbs</td> <td>Steve Kanaly (1978&ndash;1989, 1991)</td> </tr> <tr> <td>Clifford \"Cliff\" Barnes</td> <td>Ken Kercheval (1978-1991)</td> </tr> <tr> <td>Donna McCullum Culver Krebbs Dowling</td> <td>Susan Howard (1979&ndash;1987)</td> </tr> </tbody> </table> <h2>Was ist das Besondere an Dallas?</h2> <p>Die Serie war in den USA und in Deutschland der Blockbuster der 1980er-Jahre schlechthin. J.R. Ewing gilt bis heute als <strong>filmisches Synonym f&uuml;r skrupellose, unmoralische Gesch&auml;ftspraktiken</strong>, die sich nicht selten an der Grenze der Illegalit&auml;t bewegen. Nachdem Jock Ewing, Patriarch und Oberhaupt der Familie, seinen ehemaligen Freund Digger Barnes als Gesch&auml;ftspartner fallen lie&szlig;, sind diese nicht nur Konkurrenten, sondern auch Erzfeinde. Zus&auml;tzlich befeuert wird das <strong>Familiendrama</strong> durch die Ehe zwischen Bobby und Barnes Tochter Pamela. Doch auch privat liegt bei den Ewings nicht alles im Reinen. Die h&auml;uslichen Probleme der Paare J.R. und Sue Ellen sowie Bobby und Pamela sind gepr&auml;gt von <strong>Ehebr&uuml;chen, Depressionen und Alkoholismus</strong>. So entsteht durch den Hochglanz der industriellen Gesch&auml;ftswelt und die komplexen Beziehungsgeflechte ein spannender Kontrast. In vielen Folgen spaltet sich die Handlung in mehrere Plots auf, die sich sp&auml;ter zu einem gemeinsamen dramatischen H&ouml;hepunkt verdichten.</p> <h2>Wie l&auml;sst sich die Serie historisch einordnen?</h2> <p>Der deutsche Serienstart im Juni 1981 fiel in das erste Jahr der <strong>Pr&auml;sidentschaft Ronald Reagans</strong> (Republikaner aus Kalifornien). Nach dem Vietnam-Krieg und Watergate-Skandal der 1970er-Jahre waren die USA durch den sowjetischen Einmarsch in Afghanistan und die Geiselnahme in der US-Botschaft in Teheran omnipr&auml;sent in den deutschen Nachrichten. Die Nachrichten stammten aber fast ausschlie&szlig;lich von der Ostk&uuml;ste (New York, Washington D.C.) und der weit entfernten Pazifikk&uuml;ste (Kalifornien). Dallas, als eine Serie die in Texas spielt, r&uuml;ckte den tiefen S&uuml;den der USA in das Blickfeld des deutschen Publikums. Damit entwickelte sich in der Reagan-&Auml;ra der 80er Jahre hierzulande ein <strong>umfassenderes USA-Bild</strong>.</p> <h2>Dallas: Zusammenfassende Informationen</h2> <h3>Erstausstrahlung</h3> <ul> <li>2. April 1978 (CBS)</li> </ul> <h3>Deutschsprachige Erstausstrahlung</h3> <ul> <li>30. Juni 1981</li> </ul> <h3>Regisseure</h3> <ul> <li>Verschiedene, unter anderem Leonard Katzmann, Michael Preece, Irving J. Moore, Larry Hagman, Patrick Duffy, Nick Havinga, Gunnar Hellstr&ouml;m, Dwight Adair, Corey Allen Gwen Arner, Cliff Fennemann, Linda Gray</li> </ul> <h3>Produktionsland</h3> <ul> <li>USA</li> </ul> <h3>Genre</h3> <ul> <li><a href=\"/specials/drama\">Drama</a></li> <li><a href=\"/specials/soap\">Soap</a></li> </ul> <h3>Originaltitel</h3> <ul> <li>Dallas</li> </ul> <h3>Originalsprache (OV)</h3> <ul> <li>Englisch</li> </ul> <h3>Staffelanzahl</h3> <ul> <li>14 (auf RTL+ verf&uuml;gbar: 6 Staffeln)</li> </ul> <h3>Episodenanzahl</h3> <ul> <li>357 (auf RTL+ verf&uuml;gbar: 131 Episoden)</li> </ul> <h3>L&auml;nge der Episoden</h3> <ul> <li>47 - 50 Minuten</li> </ul> <h3>Auszeichnungen</h3> <ul> <li>Insgesamt 47 Auszeichnungen und 82 Nominierungen, u. a. Primetime Emmy Awards, American Cinema Editors, Bambi, Golden Globes, Goldene Kamera (Deutschland), People's Choice Awards, Telegatto (Itlaien), TP de Oro (Spanien) und Young Artist Awards.</li> </ul> <h3>&Auml;hnliche Serienformate</h3> <ul> <li><a href=\"/serien/der-denver-clan-20435\">Der Denver-Clan</a></li> <li><a href=\"/serien/gzsz-1\">Gute Zeiten, schlechte Zeiten</a></li> <li><a href=\"/serien/beverly-hills-90210-18268\">Beverly Hills 90210</a></li> </ul> <p>Du fragst dich, wo man die alten Folgen von <strong>Dallas</strong> sehen kann? Dann bist du hier richtig. Schau jetzt den Serien-Hit im <strong>Online-Stream</strong> auf RTL+!</p>",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/dallas-20750",
+        "url": "%s/serien/dallas-20750",
+        "name": "Dallas",
+        "description": "Die Serie Dallas (TVNOW) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Drama im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/20750_04metalogo/1200x0/dallas.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Dallas: Informationen zur Serie",
+        "headline": "Dallas: Informationen zur Serie",
+        "description": "Die Serie Dallas (TVNOW) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Drama im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/dallas-20750",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/20750_04metalogo/1200x0/dallas.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/20750_04metalogo/1200x0/dallas.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/20750_04metalogo/1200x0/dallas.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dallas",
+            "item": "%s/serien/dallas-20750"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Dallas im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

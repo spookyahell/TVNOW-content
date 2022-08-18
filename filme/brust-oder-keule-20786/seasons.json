@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20786",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20786,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/brust-oder-keule-20786"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Brust oder Keule",
+          "teaserId": "film_4852510",
+          "teaserName": "Brust oder Keule | Brust oder Keule",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Brust oder Keule"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Brust oder Keule",
+        "id": 4852510,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852510/300x0/brust-oder-keule.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852510/",
+            "filename": "brust-oder-keule"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852510/600x0/brust-oder-keule.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852510/",
+            "filename": "brust-oder-keule"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852510/1200x0/brust-oder-keule.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852510/",
+            "filename": "brust-oder-keule"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852510/300x0/brust-oder-keule.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852510/",
+            "filename": "brust-oder-keule"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852510/600x0/brust-oder-keule.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852510/",
+            "filename": "brust-oder-keule"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852510/1200x0/brust-oder-keule.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852510/",
+            "filename": "brust-oder-keule"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "brust-oder-keule",
+        "subheadline": "Brust oder Keule",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/brust-oder-keule-20786",
+        "videoId": 4852510
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

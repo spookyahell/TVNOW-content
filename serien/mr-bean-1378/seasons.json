@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/1378",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 1378,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/mr-bean-1378/staffel-1/episode-14-mr-bean-beim-friseur-4788392"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mr. Bean ",
+          "teaserId": "serie_episode_4788392",
+          "teaserName": "Mr. Bean  | Staffel 1 | Folge 14 | Mr. Bean beim Friseur",
+          "teaserPayType": "paid",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 14",
+          "teaserEpisodeAirtime": "Di. 19.04.2022, 23:05 Uhr",
+          "teaserEpisodeName": "Mr. Bean beim Friseur"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mr. Bean beim Friseur",
+        "id": 4788392,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4788392/300x0/mr-bean-beim-friseur.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4788392/",
+            "filename": "mr-bean-beim-friseur"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4788392/600x0/mr-bean-beim-friseur.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4788392/",
+            "filename": "mr-bean-beim-friseur"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4788392/1200x0/mr-bean-beim-friseur.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4788392/",
+            "filename": "mr-bean-beim-friseur"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4788392/300x0/mr-bean-beim-friseur.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4788392/",
+            "filename": "mr-bean-beim-friseur"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4788392/600x0/mr-bean-beim-friseur.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4788392/",
+            "filename": "mr-bean-beim-friseur"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4788392/1200x0/mr-bean-beim-friseur.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4788392/",
+            "filename": "mr-bean-beim-friseur"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mr-bean",
+        "subheadline": "Mr. Bean beim Friseur",
+        "text": "Staffel 1, Folge 14 | Di. 19.04.2022, 23:05 Uhr",
+        "type": "serie",
+        "url": "/serien/mr-bean-1378/staffel-1/episode-14-mr-bean-beim-friseur-4788392",
+        "videoId": 4788392
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

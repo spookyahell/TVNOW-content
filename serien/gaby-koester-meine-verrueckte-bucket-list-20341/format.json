@@ -1,0 +1,216 @@
+﻿{
+  "formatId": 20341,
+  "additionalMeta": {
+    "canonical": "/serien/gaby-koester-meine-verrueckte-bucket-list-20341",
+    "url": "/serien/gaby-koester-meine-verrueckte-bucket-list-20341"
+  },
+  "ads": {
+    "station": "rtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Gaby Köster - Meine verrückte Bucket List",
+      "url": "/serien/gaby-koester-meine-verrueckte-bucket-list-20341"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 20341,
+  "meta": [
+    {
+      "content": "Die Serie Gaby Köster - Meine verrückte Bucket List (RTL) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Real Life im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Gaby Köster - Meine verrückte Bucket List im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Gaby Köster - Meine verrückte Bucket List (RTL) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Real Life im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/gaby-koester-meine-verrueckte-bucket-list-20341"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/20341_03artwork/1600x0/gaby-koester-meine-verrueckte-bucket-list.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/20341",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/20341",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/20341",
+      "type": "teaserrow"
+    },
+    {
+      "id": 20341,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20341",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rngabykoester",
+      "video": "dvrsowf_ten_rngabykoester",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_now/formate/gaby_koester/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_now",
+        "formate",
+        "gaby_koester",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Real Life",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Gaby Köster - Meine verrückte Bucket List - Informationen zur Show",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/gaby-koester-meine-verrueckte-bucket-list-20341",
+        "url": "%s/serien/gaby-koester-meine-verrueckte-bucket-list-20341",
+        "name": "Gaby Köster - Meine verrückte Bucket List",
+        "description": "Die Serie Gaby Köster - Meine verrückte Bucket List (RTL) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Real Life im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/20341_04metalogo/1200x0/gaby-koester-meine-verrueckte-bucket-list.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Gaby Köster - Meine verrückte Bucket List - Informationen zur Show",
+        "headline": "Gaby Köster - Meine verrückte Bucket List - Informationen zur Show",
+        "description": "Die Serie Gaby Köster - Meine verrückte Bucket List (RTL) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Real Life im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/gaby-koester-meine-verrueckte-bucket-list-20341",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/20341_04metalogo/1200x0/gaby-koester-meine-verrueckte-bucket-list.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/20341_04metalogo/1200x0/gaby-koester-meine-verrueckte-bucket-list.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/20341_04metalogo/1200x0/gaby-koester-meine-verrueckte-bucket-list.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Gaby Köster - Meine verrückte Bucket List",
+            "item": "%s/serien/gaby-koester-meine-verrueckte-bucket-list-20341"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Gaby Köster - Meine verrückte Bucket List im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

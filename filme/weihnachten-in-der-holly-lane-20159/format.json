@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20159,
+  "additionalMeta": {
+    "canonical": "/filme/weihnachten-in-der-holly-lane-20159",
+    "url": "/filme/weihnachten-in-der-holly-lane-20159"
+  },
+  "ads": {
+    "station": "superrtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Weihnachten in der Holly Lane",
+      "url": "/filme/weihnachten-in-der-holly-lane-20159"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20159,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Weihnachten in der Holly Lane 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Weihnachten in der Holly Lane im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Weihnachten in der Holly Lane 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/weihnachten-in-der-holly-lane-20159"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4194695/1600x0/weihnachten-in-der-holly-lane.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4194695,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4194695",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20159"
+    },
+    {
+      "id": 20159,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20159",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_srnfilme",
+      "video": "dvrsowf_ten_srnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/super_rtl_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "super_rtl_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Weihnachten in der Holly Lane - Alle Informationen zum Film",
+    "text": "Die Kindheitsfreundinnen Sarah, Riley und Cat kehren als Erwachsene in ihre Heimatstadt zurück und erinnern sich zurück an die glücklichen Weihnachtsfeste, die sie gemeinsam verbrachten. Nun wollen sie den Weihnachtszauber von früher wieder zum Leben erwecken.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/weihnachten-in-der-holly-lane-20159",
+        "description": "Die Kindheitsfreundinnen Sarah, Riley und Cat kehren als Erwachsene in ihre Heimatstadt zurück und erinnern sich zurück an die glücklichen Weihnachtsfeste, die sie gemeinsam verbrachten. Nun wollen sie den Weihnachtszauber von früher wieder zum Leben erwecken.",
+        "duration": "PT1H22M31S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4194695/1200x0/weihnachten-in-der-holly-lane.jpg",
+        "name": "Weihnachten in der Holly Lane",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/weihnachten-in-der-holly-lane-20159",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-11-22T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=weihnachten-in-der-holly-lane-20159",
+              "sameAs": "%s/premium?typ=format&formatname=weihnachten-in-der-holly-lane-20159",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/weihnachten-in-der-holly-lane-20159",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die Kindheitsfreundinnen Sarah, Riley und Cat kehren als Erwachsene in ihre Heimatstadt zurück und erinnern sich zurück an die glücklichen Weihnachtsfeste, die sie gemeinsam verbrachten. Nun wollen sie den Weihnachtszauber von früher wieder zum Leben erwecken.",
+          "duration": "PT1H22M31S",
+          "embedUrl": "%s/googlebot/player/filme/weihnachten-in-der-holly-lane-20159",
+          "name": "Weihnachten in der Holly Lane",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4194695/1200x0/weihnachten-in-der-holly-lane.jpg",
+          "uploadDate": "2021-11-22T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Weihnachten in der Holly Lane im Online Stream | RTL+",
+        "headline": "Weihnachten in der Holly Lane im Online Stream | RTL+",
+        "description": "Weihnachten in der Holly Lane und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei RTL+. Ein Film mit ▶️Sarah Lancaster, Karen Holness, Gina Holden, Giles Panton, Jaime Callica, Ava Telek, Tristan Shire, Serge Houde, Taylor Robinson, Sharon Crandall.",
+        "url": "%s/filme/weihnachten-in-der-holly-lane-20159",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4194695/1200x0/weihnachten-in-der-holly-lane.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4194695/1200x0/weihnachten-in-der-holly-lane.jpg",
+        "datePublished": "2021-11-22T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4194695/1200x0/weihnachten-in-der-holly-lane.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Weihnachten in der Holly Lane",
+            "item": "%s/filme/weihnachten-in-der-holly-lane-20159"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Weihnachten in der Holly Lane im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

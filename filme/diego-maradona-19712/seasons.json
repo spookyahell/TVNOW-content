@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19712",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19712,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/diego-maradona-19712"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Diego Maradona",
+          "teaserId": "film_4113818",
+          "teaserName": "Diego Maradona | Diego Maradona",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Biographie"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "Mo. 02.08.2021, 18:05 Uhr",
+          "teaserEpisodeName": "Diego Maradona"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Diego Maradona",
+        "id": 4113818,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4113818/300x0/diego-maradona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4113818/",
+            "filename": "diego-maradona"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4113818/600x0/diego-maradona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4113818/",
+            "filename": "diego-maradona"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4113818/1200x0/diego-maradona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4113818/",
+            "filename": "diego-maradona"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4113818/300x0/diego-maradona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4113818/",
+            "filename": "diego-maradona"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4113818/600x0/diego-maradona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4113818/",
+            "filename": "diego-maradona"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4113818/1200x0/diego-maradona.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4113818/",
+            "filename": "diego-maradona"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "diego-maradona",
+        "subheadline": "Diego Maradona",
+        "text": "Staffel  | Mo. 02.08.2021, 18:05 Uhr",
+        "type": "film",
+        "url": "/filme/diego-maradona-19712",
+        "videoId": 4113818
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

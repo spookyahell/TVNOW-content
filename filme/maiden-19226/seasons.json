@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19226",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19226,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/maiden-19226"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Maiden",
+          "teaserId": "film_3748197",
+          "teaserName": "Maiden | Maiden",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Biographie"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "Fr. 18.06.2021, 20:15 Uhr",
+          "teaserEpisodeName": "Maiden"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Maiden",
+        "id": 3748197,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3748197/300x0/maiden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3748197/",
+            "filename": "maiden"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3748197/600x0/maiden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3748197/",
+            "filename": "maiden"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3748197/1200x0/maiden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3748197/",
+            "filename": "maiden"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3748197/300x0/maiden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3748197/",
+            "filename": "maiden"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3748197/600x0/maiden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3748197/",
+            "filename": "maiden"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3748197/1200x0/maiden.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3748197/",
+            "filename": "maiden"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "maiden",
+        "subheadline": "Maiden",
+        "text": "Staffel  | Fr. 18.06.2021, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/maiden-19226",
+        "videoId": 3748197
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

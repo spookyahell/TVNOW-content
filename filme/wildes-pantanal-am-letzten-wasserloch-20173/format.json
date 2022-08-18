@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20173,
+  "additionalMeta": {
+    "canonical": "/filme/wildes-pantanal-am-letzten-wasserloch-20173",
+    "url": "/filme/wildes-pantanal-am-letzten-wasserloch-20173"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Wildes Pantanal - Am Letzten Wasserloch",
+      "url": "/filme/wildes-pantanal-am-letzten-wasserloch-20173"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20173,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Wildes Pantanal - Am Letzten Wasserloch 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Wildes Pantanal - Am Letzten Wasserloch im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Wildes Pantanal - Am Letzten Wasserloch 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/wildes-pantanal-am-letzten-wasserloch-20173"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4323481/1600x0/wildes-pantanal-am-letzten-wasserloch.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4323481,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4323481",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20173"
+    },
+    {
+      "id": 20173,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20173",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnpantanalwasserloch",
+      "video": "dvrsowf_ten_tnpantanalwasserloch",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/pantanal_wasserloch/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "pantanal_wasserloch",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Wildes Pantanal - Am Letzten Wasserloch",
+    "text": "Das Pantanal im Herzen Brasiliens zählt zu den größten Wildlife-Hotspots der Erde. In der Regenzeit gleicht das größte Sumpfgebiet weltweit einem Paradies: in und an den Seen tummeln sich Wasserscheine, Kaimane und Tapire und in den Bäumen brüten Hyazinth-Aras und Jabiru-Störche. In der Trockenzeit dagegen kommt es jährlich zum grausamen Showdown, wenn der Jaguar leichtes Spiel mit verzweifelten Wasserbewohnern in den ausgetrockneten Ebenen hat.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/wildes-pantanal-am-letzten-wasserloch-20173",
+        "description": "Das Pantanal im Herzen Brasiliens zählt zu den größten Wildlife-Hotspots der Erde. In der Regenzeit gleicht das größte Sumpfgebiet weltweit einem Paradies: in und an den Seen tummeln sich Wasserscheine, Kaimane und Tapire und in den Bäumen brüten Hyazinth-Aras und Jabiru-Störche. In der Trockenzeit dagegen kommt es jährlich zum grausamen Showdown, wenn der Jaguar leichtes Spiel mit verzweifelten Wasserbewohnern in den ausgetrockneten Ebenen hat.",
+        "duration": "PT43M28S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4323481/1200x0/wildes-pantanal-am-letzten-wasserloch.jpg",
+        "name": "Wildes Pantanal - Am Letzten Wasserloch",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/wildes-pantanal-am-letzten-wasserloch-20173",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-12-14T00:01:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=wildes-pantanal-am-letzten-wasserloch-20173",
+              "sameAs": "%s/premium?typ=format&formatname=wildes-pantanal-am-letzten-wasserloch-20173",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/wildes-pantanal-am-letzten-wasserloch-20173",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Das Pantanal im Herzen Brasiliens zählt zu den größten Wildlife-Hotspots der Erde. In der Regenzeit gleicht das größte Sumpfgebiet weltweit einem Paradies: in und an den Seen tummeln sich Wasserscheine, Kaimane und Tapire und in den Bäumen brüten Hyazinth-Aras und Jabiru-Störche. In der Trockenzeit dagegen kommt es jährlich zum grausamen Showdown, wenn der Jaguar leichtes Spiel mit verzweifelten Wasserbewohnern in den ausgetrockneten Ebenen hat.",
+          "duration": "PT43M28S",
+          "embedUrl": "%s/googlebot/player/filme/wildes-pantanal-am-letzten-wasserloch-20173",
+          "name": "Wildes Pantanal - Am Letzten Wasserloch",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323481/1200x0/wildes-pantanal-am-letzten-wasserloch.jpg",
+          "uploadDate": "2021-12-14T00:01:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Wildes Pantanal - Am Letzten Wasserloch im Online Stream | RTL+",
+        "headline": "Wildes Pantanal - Am Letzten Wasserloch im Online Stream | RTL+",
+        "description": "Wildes Pantanal - Am Letzten Wasserloch und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/wildes-pantanal-am-letzten-wasserloch-20173",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4323481/1200x0/wildes-pantanal-am-letzten-wasserloch.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323481/1200x0/wildes-pantanal-am-letzten-wasserloch.jpg",
+        "datePublished": "2021-12-14T00:01:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4323481/1200x0/wildes-pantanal-am-letzten-wasserloch.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wildes Pantanal - Am Letzten Wasserloch",
+            "item": "%s/filme/wildes-pantanal-am-letzten-wasserloch-20173"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Wildes Pantanal - Am Letzten Wasserloch im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

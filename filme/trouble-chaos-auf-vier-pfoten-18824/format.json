@@ -1,0 +1,240 @@
+﻿{
+  "formatId": 18824,
+  "additionalMeta": {
+    "canonical": "/filme/trouble-chaos-auf-vier-pfoten-18824",
+    "url": "/filme/trouble-chaos-auf-vier-pfoten-18824"
+  },
+  "ads": {
+    "station": "superrtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Trouble - Chaos auf vier Pfoten",
+      "url": "/filme/trouble-chaos-auf-vier-pfoten-18824"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 18824,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Trouble - Chaos auf vier Pfoten 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Trouble - Chaos auf vier Pfoten im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Trouble - Chaos auf vier Pfoten 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/trouble-chaos-auf-vier-pfoten-18824"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4128898/1600x0/trouble-chaos-auf-vier-pfoten.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4128898,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4128898",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/18824"
+    },
+    {
+      "id": 18824,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/18824",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_srnfilme",
+      "video": "dvrsowf_ten_srnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/super_rtl_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "super_rtl_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Action und Abenteuer",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Trouble - Chaos auf vier Pfoten - Informationen zum Film",
+    "text": "Hund Trouble lebt wie ein König! Er bekommt das beste Essen, schläft in einem riesigen Bett und wird verwöhnt, wo es nur geht. Doch plötzlich steht Troubles Leben auf dem Kopf. Als seine Besitzerin stirbt, wird ihr Hab und Gut - und damit auch Trouble - an ihre letzten Verwandten, ihren gierigen Neffen und und ihre fiese Nichte, übergeben. Die beiden haben es jedoch nur auf das Geld abgesehen und wollen Trouble so schnell wie möglich loswerden.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/trouble-chaos-auf-vier-pfoten-18824",
+        "description": "Hund Trouble lebt wie ein König! Er bekommt das beste Essen, schläft in einem riesigen Bett und wird verwöhnt, wo es nur geht. Doch plötzlich steht Troubles Leben auf dem Kopf. Als seine Besitzerin stirbt, wird ihr Hab und Gut - und damit auch Trouble - an ihre letzten Verwandten, ihren gierigen Neffen und und ihre fiese Nichte, übergeben. Die beiden haben es jedoch nur auf das Geld abgesehen und wollen Trouble so schnell wie möglich loswerden.",
+        "duration": "PT1H24M34S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4128898/1200x0/trouble-chaos-auf-vier-pfoten.jpg",
+        "name": "Trouble - Chaos auf vier Pfoten",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/trouble-chaos-auf-vier-pfoten-18824",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-29T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=trouble-chaos-auf-vier-pfoten-18824",
+              "sameAs": "%s/premium?typ=format&formatname=trouble-chaos-auf-vier-pfoten-18824",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/trouble-chaos-auf-vier-pfoten-18824",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Hund Trouble lebt wie ein König! Er bekommt das beste Essen, schläft in einem riesigen Bett und wird verwöhnt, wo es nur geht. Doch plötzlich steht Troubles Leben auf dem Kopf. Als seine Besitzerin stirbt, wird ihr Hab und Gut - und damit auch Trouble - an ihre letzten Verwandten, ihren gierigen Neffen und und ihre fiese Nichte, übergeben. Die beiden haben es jedoch nur auf das Geld abgesehen und wollen Trouble so schnell wie möglich loswerden.",
+          "duration": "PT1H24M34S",
+          "embedUrl": "%s/googlebot/player/filme/trouble-chaos-auf-vier-pfoten-18824",
+          "name": "Trouble - Chaos auf vier Pfoten",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4128898/1200x0/trouble-chaos-auf-vier-pfoten.jpg",
+          "uploadDate": "2022-07-29T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Trouble - Chaos auf vier Pfoten im Online Stream | RTL+",
+        "headline": "Trouble - Chaos auf vier Pfoten im Online Stream | RTL+",
+        "description": "Trouble - Chaos auf vier Pfoten und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/trouble-chaos-auf-vier-pfoten-18824",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4128898/1200x0/trouble-chaos-auf-vier-pfoten.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4128898/1200x0/trouble-chaos-auf-vier-pfoten.jpg",
+        "datePublished": "2022-07-29T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4128898/1200x0/trouble-chaos-auf-vier-pfoten.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Trouble - Chaos auf vier Pfoten",
+            "item": "%s/filme/trouble-chaos-auf-vier-pfoten-18824"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Trouble - Chaos auf vier Pfoten im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

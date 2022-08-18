@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20183,
+  "additionalMeta": {
+    "canonical": "/filme/gefiederte-nachbarn-20183",
+    "url": "/filme/gefiederte-nachbarn-20183"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Gefiederte Nachbarn - Unsere Gartenvögel",
+      "url": "/filme/gefiederte-nachbarn-20183"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20183,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Gefiederte Nachbarn - Unsere Gartenvögel 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Gefiederte Nachbarn - Unsere Gartenvögel im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Gefiederte Nachbarn - Unsere Gartenvögel 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/gefiederte-nachbarn-20183"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4323685/1600x0/gefiederte-nachbarn-unsere-gartenvoegel.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4323685,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4323685",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20183"
+    },
+    {
+      "id": 20183,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20183",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tngefiedertenachbarn",
+      "video": "dvrsowf_ten_tngefiedertenachbarn",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/gefiederte_nachbarn/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "gefiederte_nachbarn",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Tiere"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Gefiederte Nachbarn - Unsere Gartenvögel",
+    "text": "Geheime Dramen, raffinierte Überlebensstrategien und starke Persönlichkeiten zeigen sich unter den Vögeln in der täuschend idyllischen Kulisse eines Gartens in Klagenfurt. Durch die Jahreszeiten wetteifern Singvögel miteinander um Nahrungsquellen, immer auf der Hut vor ihren tödlichen Feinden: der lauernden Katze, dem Sperber, der von jenseits des Gartenzauns heruntersaust oder der Äskulapnatter, die unbeaufsichtigte Eier raubt.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/gefiederte-nachbarn-unsere-gartenvoegel-20183",
+        "description": "Geheime Dramen, raffinierte Überlebensstrategien und starke Persönlichkeiten zeigen sich unter den Vögeln in der täuschend idyllischen Kulisse eines Gartens in Klagenfurt. Durch die Jahreszeiten wetteifern Singvögel miteinander um Nahrungsquellen, immer auf der Hut vor ihren tödlichen Feinden: der lauernden Katze, dem Sperber, der von jenseits des Gartenzauns heruntersaust oder der Äskulapnatter, die unbeaufsichtigte Eier raubt.",
+        "duration": "PT49M50S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4323685/1200x0/gefiederte-nachbarn.jpg",
+        "name": "Gefiederte Nachbarn - Unsere Gartenvögel",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/gefiederte-nachbarn-unsere-gartenvoegel-20183",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-12-14T00:01:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=gefiederte-nachbarn-20183",
+              "sameAs": "%s/premium?typ=format&formatname=gefiederte-nachbarn-20183",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/gefiederte-nachbarn-unsere-gartenvoegel-20183",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Geheime Dramen, raffinierte Überlebensstrategien und starke Persönlichkeiten zeigen sich unter den Vögeln in der täuschend idyllischen Kulisse eines Gartens in Klagenfurt. Durch die Jahreszeiten wetteifern Singvögel miteinander um Nahrungsquellen, immer auf der Hut vor ihren tödlichen Feinden: der lauernden Katze, dem Sperber, der von jenseits des Gartenzauns heruntersaust oder der Äskulapnatter, die unbeaufsichtigte Eier raubt.",
+          "duration": "PT49M50S",
+          "embedUrl": "%s/googlebot/player/filme/gefiederte-nachbarn-unsere-gartenvoegel-20183",
+          "name": "Gefiederte Nachbarn - Unsere Gartenvögel",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323685/1200x0/gefiederte-nachbarn.jpg",
+          "uploadDate": "2021-12-14T00:01:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Gefiederte Nachbarn - Unsere Gartenvögel im Online Stream | RTL+",
+        "headline": "Gefiederte Nachbarn - Unsere Gartenvögel im Online Stream | RTL+",
+        "description": "Gefiederte Nachbarn - Unsere Gartenvögel und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/gefiederte-nachbarn-unsere-gartenvoegel-20183",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4323685/1200x0/gefiederte-nachbarn.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323685/1200x0/gefiederte-nachbarn.jpg",
+        "datePublished": "2021-12-14T00:01:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4323685/1200x0/gefiederte-nachbarn.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Gefiederte Nachbarn - Unsere Gartenvögel",
+            "item": "%s/filme/gefiederte-nachbarn-20183"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Gefiederte Nachbarn - Unsere Gartenvögel im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

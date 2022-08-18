@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19225",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19225,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/i-am-another-you-19225"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "I Am Another You",
+          "teaserId": "film_3676524",
+          "teaserName": "I Am Another You | I Am Another You",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Biographie"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "Mo. 25.10.2021, 21:45 Uhr",
+          "teaserEpisodeName": "I Am Another You"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "I Am Another You",
+        "id": 3676524,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3676524/300x0/i-am-another-you.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3676524/",
+            "filename": "i-am-another-you"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3676524/600x0/i-am-another-you.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3676524/",
+            "filename": "i-am-another-you"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3676524/1200x0/i-am-another-you.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3676524/",
+            "filename": "i-am-another-you"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3676524/300x0/i-am-another-you.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3676524/",
+            "filename": "i-am-another-you"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3676524/600x0/i-am-another-you.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3676524/",
+            "filename": "i-am-another-you"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3676524/1200x0/i-am-another-you.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3676524/",
+            "filename": "i-am-another-you"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "i-am-another-you",
+        "subheadline": "I Am Another You",
+        "text": "Staffel  | Mo. 25.10.2021, 21:45 Uhr",
+        "type": "film",
+        "url": "/filme/i-am-another-you-19225",
+        "videoId": 3676524
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,238 @@
+﻿{
+  "formatId": 20530,
+  "additionalMeta": {
+    "canonical": "/filme/magic-mike-xxl-20530",
+    "url": "/filme/magic-mike-xxl-20530"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Magic Mike XXL",
+      "url": "/filme/magic-mike-xxl-20530"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20530,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Magic Mike XXL 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Magic Mike XXL im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Magic Mike XXL 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/magic-mike-xxl-20530"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4781878/1600x0/magic-mike-xxl.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4781878,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4781878",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20530"
+    },
+    {
+      "id": 20530,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20530",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [
+      "FILME Female",
+      "FILME Komödien"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Magic Mike XXL",
+    "text": "Drei Jahre nachdem Mike sich auf dem Höhepunkt seiner Karriere aus dem Stripperleben verabschiedet hat, stehen die verbliebenen \"Kings of Tampa\" ebenfalls davor, das Handtuch zu werfen. Aber sie wollen es auf ihre Weise tun: mit einem letzten großen Auftritt auf der Stripper Convention in Myrtle Beach, gemeinsam mit Magic Mike. Der lässt sich nicht lange bitten und so brechen die Jungs zu einem Road Trip auf. ",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/magic-mike-xxl-20530",
+        "description": "Drei Jahre nachdem Mike sich auf dem Höhepunkt seiner Karriere aus dem Stripperleben verabschiedet hat, stehen die verbliebenen \"Kings of Tampa\" ebenfalls davor, das Handtuch zu werfen. Aber sie wollen es auf ihre Weise tun: mit einem letzten großen Auftritt auf der Stripper Convention in Myrtle Beach, gemeinsam mit Magic Mike. Der lässt sich nicht lange bitten und so brechen die Jungs zu einem Road Trip auf. ",
+        "duration": "PT1H50M44S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4781878/1200x0/magic-mike-xxl.jpg",
+        "name": "Magic Mike XXL",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/magic-mike-xxl-20530",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=magic-mike-xxl-20530",
+              "sameAs": "%s/premium?typ=format&formatname=magic-mike-xxl-20530",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/magic-mike-xxl-20530",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Drei Jahre nachdem Mike sich auf dem Höhepunkt seiner Karriere aus dem Stripperleben verabschiedet hat, stehen die verbliebenen \"Kings of Tampa\" ebenfalls davor, das Handtuch zu werfen. Aber sie wollen es auf ihre Weise tun: mit einem letzten großen Auftritt auf der Stripper Convention in Myrtle Beach, gemeinsam mit Magic Mike. Der lässt sich nicht lange bitten und so brechen die Jungs zu einem Road Trip auf. ",
+          "duration": "PT1H50M44S",
+          "embedUrl": "%s/googlebot/player/filme/magic-mike-xxl-20530",
+          "name": "Magic Mike XXL",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4781878/1200x0/magic-mike-xxl.jpg",
+          "uploadDate": "2022-04-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Magic Mike XXL im Online Stream | RTL+",
+        "headline": "Magic Mike XXL im Online Stream | RTL+",
+        "description": "Magic Mike XXL und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei RTL+. Ein Film mit ▶️Channing Tatum, Joe Manganiello, Matt Bomer.",
+        "url": "%s/filme/magic-mike-xxl-20530",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4781878/1200x0/magic-mike-xxl.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4781878/1200x0/magic-mike-xxl.jpg",
+        "datePublished": "2022-04-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4781878/1200x0/magic-mike-xxl.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Magic Mike XXL",
+            "item": "%s/filme/magic-mike-xxl-20530"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Magic Mike XXL im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

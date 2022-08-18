@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20553",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20553,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/stolz-vorurteil-20553"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Stolz & Vorurteil",
+          "teaserId": "film_4786000",
+          "teaserName": "Stolz & Vorurteil | Stolz & Vorurteil",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [
+            "FILME Female"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Stolz & Vorurteil"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Stolz & Vorurteil",
+        "id": 4786000,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4786000/300x0/stolz-vorurteil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4786000/",
+            "filename": "stolz-vorurteil"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4786000/600x0/stolz-vorurteil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4786000/",
+            "filename": "stolz-vorurteil"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4786000/1200x0/stolz-vorurteil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4786000/",
+            "filename": "stolz-vorurteil"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4786000/300x0/stolz-vorurteil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4786000/",
+            "filename": "stolz-vorurteil"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4786000/600x0/stolz-vorurteil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4786000/",
+            "filename": "stolz-vorurteil"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4786000/1200x0/stolz-vorurteil.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4786000/",
+            "filename": "stolz-vorurteil"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "stolz-und-vorurteil",
+        "subheadline": "Stolz & Vorurteil",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/stolz-vorurteil-20553",
+        "videoId": 4786000
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

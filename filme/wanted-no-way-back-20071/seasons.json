@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20071",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20071,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/wanted-no-way-back-20071"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wanted - No Way Back",
+          "teaserId": "film_4185415",
+          "teaserName": "Wanted - No Way Back | Wanted - No Way Back",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "Sa. 13.08.2022, 20:15 Uhr",
+          "teaserEpisodeName": "Wanted - No Way Back"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wanted - No Way Back",
+        "id": 4185415,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4185415/300x0/wanted-no-way-back.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4185415/",
+            "filename": "wanted-no-way-back"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4185415/600x0/wanted-no-way-back.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4185415/",
+            "filename": "wanted-no-way-back"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4185415/1200x0/wanted-no-way-back.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4185415/",
+            "filename": "wanted-no-way-back"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4185415/300x0/wanted-no-way-back.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4185415/",
+            "filename": "wanted-no-way-back"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4185415/600x0/wanted-no-way-back.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4185415/",
+            "filename": "wanted-no-way-back"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4185415/1200x0/wanted-no-way-back.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4185415/",
+            "filename": "wanted-no-way-back"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wanted-no-way-back",
+        "subheadline": "Wanted - No Way Back",
+        "text": "Staffel  | Sa. 13.08.2022, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/wanted-no-way-back-20071",
+        "videoId": 4185415
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

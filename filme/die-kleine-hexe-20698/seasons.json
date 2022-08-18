@@ -1,0 +1,108 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20698",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20698,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/die-kleine-hexe-20698"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die kleine Hexe",
+          "teaserId": "film_4820316",
+          "teaserName": "Die kleine Hexe | Die kleine Hexe",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+ Kids",
+          "teaserEpisodeName": "Die kleine Hexe"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die kleine Hexe",
+        "id": 4820316,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820316/300x0/die-kleine-hexe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820316/",
+            "filename": "die-kleine-hexe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820316/600x0/die-kleine-hexe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820316/",
+            "filename": "die-kleine-hexe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820316/1200x0/die-kleine-hexe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820316/",
+            "filename": "die-kleine-hexe"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820316/300x0/die-kleine-hexe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820316/",
+            "filename": "die-kleine-hexe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820316/600x0/die-kleine-hexe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820316/",
+            "filename": "die-kleine-hexe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820316/1200x0/die-kleine-hexe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820316/",
+            "filename": "die-kleine-hexe"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-kleine-hexe",
+        "subheadline": "Die kleine Hexe",
+        "text": "Staffel  | RTL+ Kids",
+        "type": "film",
+        "url": "/filme/die-kleine-hexe-20698",
+        "videoId": 4820316
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

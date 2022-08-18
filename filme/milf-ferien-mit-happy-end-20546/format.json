@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20546,
+  "additionalMeta": {
+    "canonical": "/filme/milf-ferien-mit-happy-end-20546",
+    "url": "/filme/milf-ferien-mit-happy-end-20546"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "MILF - Ferien mit Happy End",
+      "url": "/filme/milf-ferien-mit-happy-end-20546"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20546,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ MILF - Ferien mit Happy End 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "MILF - Ferien mit Happy End im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ MILF - Ferien mit Happy End 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/milf-ferien-mit-happy-end-20546"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4775801/1600x0/milf-ferien-mit-happy-end.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4775801,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4775801",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20546"
+    },
+    {
+      "id": 20546,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20546",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_klassiker/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_klassiker",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [
+      "FILME Komödien"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: MILF - Ferien mit Happy End",
+    "text": "Die Freundinnen Cécile, Sonia und Elise, die schon seit ihrer Kindheit befreundet sind, fahren an die Côte d'Azur, um ein Haus für den Verkauf vorzubereiten. Dort erwecken sie die Aufmerksamkeit der drei jungen Männer Paul, Julien und Markus, für die reifere Frauen viel attraktiver sind als Mädchen in ihrem eigenen Alter. Langsam werden sich die drei Frauen ihrer Machtposition bewusst und lassen sich auf ein Spiel ein.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/milf-ferien-mit-happy-end-20546",
+        "description": "Die Freundinnen Cécile, Sonia und Elise, die schon seit ihrer Kindheit befreundet sind, fahren an die Côte d'Azur, um ein Haus für den Verkauf vorzubereiten. Dort erwecken sie die Aufmerksamkeit der drei jungen Männer Paul, Julien und Markus, für die reifere Frauen viel attraktiver sind als Mädchen in ihrem eigenen Alter. Langsam werden sich die drei Frauen ihrer Machtposition bewusst und lassen sich auf ein Spiel ein.",
+        "duration": "PT1H37M10S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4775801/1200x0/milf-ferien-mit-happy-end.jpg",
+        "name": "MILF - Ferien mit Happy End",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/milf-ferien-mit-happy-end-20546",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=milf-ferien-mit-happy-end-20546",
+              "sameAs": "%s/premium?typ=format&formatname=milf-ferien-mit-happy-end-20546",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/milf-ferien-mit-happy-end-20546",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die Freundinnen Cécile, Sonia und Elise, die schon seit ihrer Kindheit befreundet sind, fahren an die Côte d'Azur, um ein Haus für den Verkauf vorzubereiten. Dort erwecken sie die Aufmerksamkeit der drei jungen Männer Paul, Julien und Markus, für die reifere Frauen viel attraktiver sind als Mädchen in ihrem eigenen Alter. Langsam werden sich die drei Frauen ihrer Machtposition bewusst und lassen sich auf ein Spiel ein.",
+          "duration": "PT1H37M10S",
+          "embedUrl": "%s/googlebot/player/filme/milf-ferien-mit-happy-end-20546",
+          "name": "MILF - Ferien mit Happy End",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4775801/1200x0/milf-ferien-mit-happy-end.jpg",
+          "uploadDate": "2022-04-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "MILF - Ferien mit Happy End im Online Stream | RTL+",
+        "headline": "MILF - Ferien mit Happy End im Online Stream | RTL+",
+        "description": "MILF - Ferien mit Happy End und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/milf-ferien-mit-happy-end-20546",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4775801/1200x0/milf-ferien-mit-happy-end.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4775801/1200x0/milf-ferien-mit-happy-end.jpg",
+        "datePublished": "2022-04-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4775801/1200x0/milf-ferien-mit-happy-end.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "MILF - Ferien mit Happy End",
+            "item": "%s/filme/milf-ferien-mit-happy-end-20546"
+          }
+        ]
+      }
+    }
+  },
+  "title": "MILF - Ferien mit Happy End im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

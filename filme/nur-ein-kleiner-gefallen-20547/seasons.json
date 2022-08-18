@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20547",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20547,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/nur-ein-kleiner-gefallen-20547"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Nur ein kleiner Gefallen",
+          "teaserId": "film_4775563",
+          "teaserName": "Nur ein kleiner Gefallen | Nur ein kleiner Gefallen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Nur ein kleiner Gefallen"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Nur ein kleiner Gefallen",
+        "id": 4775563,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775563/300x0/nur-ein-kleiner-gefallen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775563/",
+            "filename": "nur-ein-kleiner-gefallen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775563/600x0/nur-ein-kleiner-gefallen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775563/",
+            "filename": "nur-ein-kleiner-gefallen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775563/1200x0/nur-ein-kleiner-gefallen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775563/",
+            "filename": "nur-ein-kleiner-gefallen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775563/300x0/nur-ein-kleiner-gefallen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775563/",
+            "filename": "nur-ein-kleiner-gefallen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775563/600x0/nur-ein-kleiner-gefallen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775563/",
+            "filename": "nur-ein-kleiner-gefallen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775563/1200x0/nur-ein-kleiner-gefallen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775563/",
+            "filename": "nur-ein-kleiner-gefallen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "nur-ein-kleiner-gefallen",
+        "subheadline": "Nur ein kleiner Gefallen",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/nur-ein-kleiner-gefallen-20547",
+        "videoId": 4775563
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19675",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19675,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/haessliche-die-19675"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Hässliche",
+          "teaserId": "film_4108386",
+          "teaserName": "Die Hässliche | Hässliche, Die",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "Sa. 29.05.2021, 20:15 Uhr",
+          "teaserEpisodeName": "Hässliche, Die"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Hässliche, Die",
+        "id": 4108386,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4108386/300x0/haessliche-die.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4108386/",
+            "filename": "haessliche-die"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4108386/600x0/haessliche-die.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4108386/",
+            "filename": "haessliche-die"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4108386/1200x0/haessliche-die.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4108386/",
+            "filename": "haessliche-die"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4108386/300x0/haessliche-die.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4108386/",
+            "filename": "haessliche-die"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4108386/600x0/haessliche-die.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4108386/",
+            "filename": "haessliche-die"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4108386/1200x0/haessliche-die.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4108386/",
+            "filename": "haessliche-die"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-haessliche",
+        "subheadline": "Hässliche, Die",
+        "text": "Staffel  | Sa. 29.05.2021, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/haessliche-die-19675",
+        "videoId": 4108386
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

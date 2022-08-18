@@ -1,1 +1,108 @@
-NONE
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 2021, Monat 7"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/76",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 76,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/extra-rtl-76/2021-07/episode-1-extra-spezial-das-grosse-live-experiment-gefangen-im-meer-4129099"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Extra ",
+          "teaserId": "show_episode_4129099",
+          "teaserName": "Extra  | Staffel 3 | Folge 1 | Extra Spezial: Das große Live Experiment - Gefangen im Meer",
+          "teaserPayType": "free",
+          "teaserType": "show_episode",
+          "teaserGenre": "News & Magazine",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Mo. 05.07.2021, 20:15 Uhr",
+          "teaserEpisodeName": "Extra Spezial: Das große Live Experiment - Gefangen im Meer"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Extra Spezial: Das große Live Experiment - Gefangen im Meer",
+        "id": 4129099,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4129099/300x0/extra-spezial-das-grosse-live-experiment-gefangen-im-meer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4129099/",
+            "filename": "extra-spezial-das-grosse-live-experiment-gefangen-im-meer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4129099/600x0/extra-spezial-das-grosse-live-experiment-gefangen-im-meer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4129099/",
+            "filename": "extra-spezial-das-grosse-live-experiment-gefangen-im-meer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4129099/1200x0/extra-spezial-das-grosse-live-experiment-gefangen-im-meer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4129099/",
+            "filename": "extra-spezial-das-grosse-live-experiment-gefangen-im-meer"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4129099/300x0/extra-spezial-das-grosse-live-experiment-gefangen-im-meer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4129099/",
+            "filename": "extra-spezial-das-grosse-live-experiment-gefangen-im-meer"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4129099/600x0/extra-spezial-das-grosse-live-experiment-gefangen-im-meer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4129099/",
+            "filename": "extra-spezial-das-grosse-live-experiment-gefangen-im-meer"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4129099/1200x0/extra-spezial-das-grosse-live-experiment-gefangen-im-meer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4129099/",
+            "filename": "extra-spezial-das-grosse-live-experiment-gefangen-im-meer"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "extra-rtl",
+        "subheadline": "Extra Spezial: Das große Live Experiment - Gefangen im Meer",
+        "text": "Staffel 3, Folge 1 | Mo. 05.07.2021, 20:15 Uhr",
+        "type": "show",
+        "url": "/shows/extra-rtl-76/2021-07/episode-1-extra-spezial-das-grosse-live-experiment-gefangen-im-meer-4129099",
+        "videoId": 4129099
+      }
+    ],
+    "format_navigation": {
+      "month": 7,
+      "year": 2021
+    },
+    "navigationType": "annual"
+  }
+]

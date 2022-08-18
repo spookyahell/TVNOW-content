@@ -1,0 +1,202 @@
+﻿{
+  "formatId": 20568,
+  "additionalMeta": {
+    "canonical": "/serien/hilfe-die-camper-kommen-20568",
+    "url": "/serien/hilfe-die-camper-kommen-20568"
+  },
+  "ads": {
+    "station": "voxup",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Hilfe, die Camper kommen",
+      "url": "/serien/hilfe-die-camper-kommen-20568"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 20568,
+  "meta": [
+    {
+      "content": "Die Serie Hilfe, die Camper kommen (VOXup) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Real Life im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Hilfe, die Camper kommen im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Hilfe, die Camper kommen (VOXup) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Real Life im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/hilfe-die-camper-kommen-20568"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/20568_03artwork/1600x0/hilfe-die-camper-kommen.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/20568",
+      "type": "teaserrow"
+    },
+    {
+      "id": 20568,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20568",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_vunhilfecamperkommen",
+      "video": "dvrsowf_ten_vunhilfecamperkommen",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/vox_up_now/formate/hilfe_camper_kommen/home",
+      "levels": [
+        "tv_now_de",
+        "vox_up_now",
+        "formate",
+        "hilfe_camper_kommen",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Real Life",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Hilfe, die Camper kommen: Informationen zur Show",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/hilfe-die-camper-kommen-20568",
+        "url": "%s/serien/hilfe-die-camper-kommen-20568",
+        "name": "Hilfe, die Camper kommen",
+        "description": "Die Serie Hilfe, die Camper kommen (VOXup) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Real Life im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/20568_04metalogo/1200x0/hilfe-die-camper-kommen.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Hilfe, die Camper kommen: Informationen zur Show",
+        "headline": "Hilfe, die Camper kommen: Informationen zur Show",
+        "description": "Die Serie Hilfe, die Camper kommen (VOXup) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Real Life im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/hilfe-die-camper-kommen-20568",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/20568_04metalogo/1200x0/hilfe-die-camper-kommen.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/20568_04metalogo/1200x0/hilfe-die-camper-kommen.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/20568_04metalogo/1200x0/hilfe-die-camper-kommen.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hilfe, die Camper kommen",
+            "item": "%s/serien/hilfe-die-camper-kommen-20568"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Hilfe, die Camper kommen im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

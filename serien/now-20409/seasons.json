@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20409",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20409,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/now-20409/weitere/episode-0-now-4720506"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "NOW",
+          "teaserId": "serie_episode_4720506",
+          "teaserName": "NOW | NOW",
+          "teaserPayType": "paid",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Wissen"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "Fr. 25.03.2022, 06:00 Uhr",
+          "teaserEpisodeName": "NOW"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "NOW",
+        "id": 4720506,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4720506/300x0/now.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4720506/",
+            "filename": "now"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4720506/600x0/now.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4720506/",
+            "filename": "now"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4720506/1200x0/now.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4720506/",
+            "filename": "now"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4720506/300x0/now.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4720506/",
+            "filename": "now"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4720506/600x0/now.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4720506/",
+            "filename": "now"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4720506/1200x0/now.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4720506/",
+            "filename": "now"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "now",
+        "subheadline": "NOW",
+        "text": "Staffel  | Fr. 25.03.2022, 06:00 Uhr",
+        "type": "serie",
+        "url": "/serien/now-20409/weitere/episode-0-now-4720506",
+        "videoId": 4720506
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

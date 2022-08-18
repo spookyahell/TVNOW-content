@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20176,
+  "additionalMeta": {
+    "canonical": "/filme/cornwall-englands-paradiesische-kueste-20176",
+    "url": "/filme/cornwall-englands-paradiesische-kueste-20176"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Cornwall - Englands paradiesische Küste",
+      "url": "/filme/cornwall-englands-paradiesische-kueste-20176"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20176,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Cornwall - Englands paradiesische Küste 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Cornwall - Englands paradiesische Küste im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Cornwall - Englands paradiesische Küste 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/cornwall-englands-paradiesische-kueste-20176"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4323482/1600x0/cornwall-englands-paradiesische-kueste.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4323482,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4323482",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20176"
+    },
+    {
+      "id": 20176,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20176",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tncornwallkueste",
+      "video": "dvrsowf_ten_tncornwallkueste",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/cornwall_kueste/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "cornwall_kueste",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Cornwall - Englands paradiesische Küste",
+    "text": "Cornwall - die legendäre Küstenlandschaft am Westzipfel Großbritanniens - ist ein bemerkenswertes Naturparadies. Der hochdekorierte britische Naturfilmer Ian McCarthy hat in seiner jahrzehntelangen Karriere den gesamten Planeten bereist und die spektakulärsten Schauplätze der Naturgeschichte kennengelernt. Doch von allen Orten übt Cornwall auf ihn die größte Faszination aus. Mit diesem Film will er zeigen, warum.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/cornwall-englands-paradiesische-kueste-20176",
+        "description": "Cornwall - die legendäre Küstenlandschaft am Westzipfel Großbritanniens - ist ein bemerkenswertes Naturparadies. Der hochdekorierte britische Naturfilmer Ian McCarthy hat in seiner jahrzehntelangen Karriere den gesamten Planeten bereist und die spektakulärsten Schauplätze der Naturgeschichte kennengelernt. Doch von allen Orten übt Cornwall auf ihn die größte Faszination aus. Mit diesem Film will er zeigen, warum.",
+        "duration": "PT49M59S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4323482/1200x0/cornwall-englands-paradiesische-kueste.jpg",
+        "name": "Cornwall - Englands paradiesische Küste",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/cornwall-englands-paradiesische-kueste-20176",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-12-14T00:01:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=cornwall-englands-paradiesische-kueste-20176",
+              "sameAs": "%s/premium?typ=format&formatname=cornwall-englands-paradiesische-kueste-20176",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/cornwall-englands-paradiesische-kueste-20176",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Cornwall - die legendäre Küstenlandschaft am Westzipfel Großbritanniens - ist ein bemerkenswertes Naturparadies. Der hochdekorierte britische Naturfilmer Ian McCarthy hat in seiner jahrzehntelangen Karriere den gesamten Planeten bereist und die spektakulärsten Schauplätze der Naturgeschichte kennengelernt. Doch von allen Orten übt Cornwall auf ihn die größte Faszination aus. Mit diesem Film will er zeigen, warum.",
+          "duration": "PT49M59S",
+          "embedUrl": "%s/googlebot/player/filme/cornwall-englands-paradiesische-kueste-20176",
+          "name": "Cornwall - Englands paradiesische Küste",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323482/1200x0/cornwall-englands-paradiesische-kueste.jpg",
+          "uploadDate": "2021-12-14T00:01:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Cornwall - Englands paradiesische Küste im Online Stream | RTL+",
+        "headline": "Cornwall - Englands paradiesische Küste im Online Stream | RTL+",
+        "description": "Cornwall - Englands paradiesische Küste und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/cornwall-englands-paradiesische-kueste-20176",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4323482/1200x0/cornwall-englands-paradiesische-kueste.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323482/1200x0/cornwall-englands-paradiesische-kueste.jpg",
+        "datePublished": "2021-12-14T00:01:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4323482/1200x0/cornwall-englands-paradiesische-kueste.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cornwall - Englands paradiesische Küste",
+            "item": "%s/filme/cornwall-englands-paradiesische-kueste-20176"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Cornwall - Englands paradiesische Küste im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

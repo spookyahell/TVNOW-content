@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20523",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20523,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/der-nanny-20523"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Nanny",
+          "teaserId": "film_4785827",
+          "teaserName": "Der Nanny | Der Nanny",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "Fr. 01.04.2022, 00:00 Uhr",
+          "teaserEpisodeName": "Der Nanny"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Nanny",
+        "id": 4785827,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785827/300x0/der-nanny.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785827/",
+            "filename": "der-nanny"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785827/600x0/der-nanny.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785827/",
+            "filename": "der-nanny"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785827/1200x0/der-nanny.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785827/",
+            "filename": "der-nanny"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785827/300x0/der-nanny.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785827/",
+            "filename": "der-nanny"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785827/600x0/der-nanny.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785827/",
+            "filename": "der-nanny"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785827/1200x0/der-nanny.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785827/",
+            "filename": "der-nanny"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-nanny",
+        "subheadline": "Der Nanny",
+        "text": "Staffel  | Fr. 01.04.2022, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/der-nanny-20523",
+        "videoId": 4785827
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

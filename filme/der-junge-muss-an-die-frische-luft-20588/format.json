@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20588,
+  "additionalMeta": {
+    "canonical": "/filme/der-junge-muss-an-die-frische-luft-20588",
+    "url": "/filme/der-junge-muss-an-die-frische-luft-20588"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Der Junge muss an die frische Luft",
+      "url": "/filme/der-junge-muss-an-die-frische-luft-20588"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20588,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Der Junge muss an die frische Luft 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Der Junge muss an die frische Luft im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Der Junge muss an die frische Luft 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/der-junge-muss-an-die-frische-luft-20588"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4834472/1600x0/der-junge-muss-an-die-frische-luft.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4834472,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4834472",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20588"
+    },
+    {
+      "id": 20588,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20588",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [
+      "FILME Komödien"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Der Junge muss an die frische Luft",
+    "text": "Bei RTL+ (ehemals TVNOW) kannst Du den Film Der Junge muss an die frische Luft und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/der-junge-muss-an-die-frische-luft-20588",
+        "description": "",
+        "duration": "PT1H35M52S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4834472/1200x0/der-junge-muss-an-die-frische-luft.jpg",
+        "name": "Der Junge muss an die frische Luft",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/der-junge-muss-an-die-frische-luft-20588",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-06-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=der-junge-muss-an-die-frische-luft-20588",
+              "sameAs": "%s/premium?typ=format&formatname=der-junge-muss-an-die-frische-luft-20588",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/der-junge-muss-an-die-frische-luft-20588",
+        "video": {
+          "@type": "VideoObject",
+          "description": "",
+          "duration": "PT1H35M52S",
+          "embedUrl": "%s/googlebot/player/filme/der-junge-muss-an-die-frische-luft-20588",
+          "name": "Der Junge muss an die frische Luft",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4834472/1200x0/der-junge-muss-an-die-frische-luft.jpg",
+          "uploadDate": "2022-06-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Der Junge muss an die frische Luft im Online Stream | RTL+",
+        "headline": "Der Junge muss an die frische Luft im Online Stream | RTL+",
+        "description": "Der Junge muss an die frische Luft und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei RTL+. Ein Film mit ▶️Jan Lindner, Luise Heyer, Julius Weckauf.",
+        "url": "%s/filme/der-junge-muss-an-die-frische-luft-20588",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4834472/1200x0/der-junge-muss-an-die-frische-luft.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4834472/1200x0/der-junge-muss-an-die-frische-luft.jpg",
+        "datePublished": "2022-06-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4834472/1200x0/der-junge-muss-an-die-frische-luft.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Der Junge muss an die frische Luft",
+            "item": "%s/filme/der-junge-muss-an-die-frische-luft-20588"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Der Junge muss an die frische Luft im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,238 @@
+﻿{
+  "formatId": 17332,
+  "additionalMeta": {
+    "canonical": "/filme/der-16-mann-mandela-und-die-springboks-17332",
+    "url": "/filme/der-16-mann-mandela-und-die-springboks-17332"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Der 16. Mann - Mandela und die Springboks",
+      "url": "/filme/der-16-mann-mandela-und-die-springboks-17332"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17332,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Der 16. Mann - Mandela und die Springboks 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "Der 16. Mann - Mandela und die Springboks, RTL+, GEO, VOD, Stream, Video, Doku, Dokumentation, Mandela, Rugby, Sport",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Der 16. Mann - Mandela und die Springboks im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Der 16. Mann - Mandela und die Springboks 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/der-16-mann-mandela-und-die-springboks-17332"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/407588/1600x0/der-16-mann-mandela-und-die-springboks.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 407588,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/407588",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17332"
+    },
+    {
+      "id": 17332,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/17332",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_gndokus",
+      "video": "dvrsowf_ten_gndokus",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/geo_dokus/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "geo_dokus",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Biographie",
+      "History"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Der 16. Mann - Mandela und die Springboks",
+    "text": "1995 gewann Südafrika die Rugby-Weltmeisterschaft. Das Besondere an dem Titelgewinn war die Tatsache, dass die Mannschaft erstmals mit weißen und schwarzen Spielern antrat - ein Jahr nach dem Ende der Apartheid. Das einst verhasste weiße Rugby-Team brachte mit seinem sportlichen Erfolg ein neues Gefühl von Einigkeit in das gespaltene Land. Die Dokumentation zeigt die Erfolgsgeschichte des südafrikanischen die \"Springboks\" genannten Teams.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/der-16-mann-mandela-und-die-springboks-17332",
+        "description": "1995 gewann Südafrika die Rugby-Weltmeisterschaft. Das Besondere an dem Titelgewinn war die Tatsache, dass die Mannschaft erstmals mit weißen und schwarzen Spielern antrat - ein Jahr nach dem Ende der Apartheid. Das einst verhasste weiße Rugby-Team brachte mit seinem sportlichen Erfolg ein neues Gefühl von Einigkeit in das gespaltene Land. Die Dokumentation zeigt die Erfolgsgeschichte des südafrikanischen die \"Springboks\" genannten Teams.",
+        "duration": "PT51M14S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/407588/1200x0/der-16-mann-mandela-und-die-springboks.jpg",
+        "name": "Der 16. Mann - Mandela und die Springboks",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/der-16-mann-mandela-und-die-springboks-17332",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-02-01T02:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=der-16-mann-mandela-und-die-springboks-17332",
+              "sameAs": "%s/premium?typ=format&formatname=der-16-mann-mandela-und-die-springboks-17332",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/der-16-mann-mandela-und-die-springboks-17332",
+        "video": {
+          "@type": "VideoObject",
+          "description": "1995 gewann Südafrika die Rugby-Weltmeisterschaft. Das Besondere an dem Titelgewinn war die Tatsache, dass die Mannschaft erstmals mit weißen und schwarzen Spielern antrat - ein Jahr nach dem Ende der Apartheid. Das einst verhasste weiße Rugby-Team brachte mit seinem sportlichen Erfolg ein neues Gefühl von Einigkeit in das gespaltene Land. Die Dokumentation zeigt die Erfolgsgeschichte des südafrikanischen die \"Springboks\" genannten Teams.",
+          "duration": "PT51M14S",
+          "embedUrl": "%s/googlebot/player/filme/der-16-mann-mandela-und-die-springboks-17332",
+          "name": "Der 16. Mann - Mandela und die Springboks",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/407588/1200x0/der-16-mann-mandela-und-die-springboks.jpg",
+          "uploadDate": "2021-02-01T02:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Der 16. Mann - Mandela und die Springboks im Online Stream | RTL+",
+        "headline": "Der 16. Mann - Mandela und die Springboks im Online Stream | RTL+",
+        "description": "Der 16. Mann - Mandela und die Springboks und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/der-16-mann-mandela-und-die-springboks-17332",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/407588/1200x0/der-16-mann-mandela-und-die-springboks.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/407588/1200x0/der-16-mann-mandela-und-die-springboks.jpg",
+        "datePublished": "2021-02-01T02:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/407588/1200x0/der-16-mann-mandela-und-die-springboks.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Der 16. Mann - Mandela und die Springboks",
+            "item": "%s/filme/der-16-mann-mandela-und-die-springboks-17332"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Der 16. Mann - Mandela und die Springboks im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

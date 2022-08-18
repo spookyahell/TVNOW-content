@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20550",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20550,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/wunder-20550"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wunder",
+          "teaserId": "film_4785768",
+          "teaserName": "Wunder | Wunder",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [
+            "FILME Female"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Wunder"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wunder",
+        "id": 4785768,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785768/300x0/wunder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785768/",
+            "filename": "wunder"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785768/600x0/wunder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785768/",
+            "filename": "wunder"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785768/1200x0/wunder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785768/",
+            "filename": "wunder"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785768/300x0/wunder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785768/",
+            "filename": "wunder"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785768/600x0/wunder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785768/",
+            "filename": "wunder"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785768/1200x0/wunder.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785768/",
+            "filename": "wunder"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wunder",
+        "subheadline": "Wunder",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/wunder-20550",
+        "videoId": 4785768
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

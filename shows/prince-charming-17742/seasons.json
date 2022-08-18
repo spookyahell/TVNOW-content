@@ -3,211 +3,6 @@
     "ecommerce": {
       "rowCategory": "small_teaser",
       "rowId": "na",
-      "rowName": "Staffel 2"
-    },
-    "id": null,
-    "label": null,
-    "moduleLayout": "format_episode",
-    "moduleUrl": "/module/teaserrow/format/episode/17742",
-    "type": "teaserrow",
-    "items": [
-      {
-        "buttons": [
-          {
-            "display": true,
-            "formatId": 17742,
-            "text": null,
-            "type": "favorites"
-          },
-          {
-            "display": true,
-            "text": "Jetzt ansehen",
-            "type": "play",
-            "url": "/shows/prince-charming-17742/staffel-2/episode-0-die-ersten-30-minuten-vorab-3455716"
-          }
-        ],
-        "ecommerce": {
-          "teaserFormatName": "Prince Charming",
-          "teaserId": "show_episode_3455716",
-          "teaserName": "Prince Charming | Staffel 2 | Die ersten 30 Minuten vorab",
-          "teaserPayType": "free",
-          "teaserType": "show_episode",
-          "teaserGenre": "Reality",
-          "cluster": [
-            "Dating",
-            "Guilty Pleasure"
-          ],
-          "classification": [
-            "Original",
-            "Exklusiv",
-            "Pre-TV"
-          ],
-          "teaserSeason": "Staffel 2",
-          "teaserEpisodeAirtime": "SNEAK PEEK",
-          "teaserEpisodeName": "Die ersten 30 Minuten vorab"
-        },
-        "fsk": {
-          "isVisible": false,
-          "label": "ab 0",
-          "minAge": 0
-        },
-        "headline": "Die ersten 30 Minuten vorab",
-        "id": 3455716,
-        "images": [
-          {
-            "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3455716/300x0/die-ersten-30-minuten-vorab.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3455716/",
-            "filename": "die-ersten-30-minuten-vorab"
-          },
-          {
-            "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3455716/600x0/die-ersten-30-minuten-vorab.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3455716/",
-            "filename": "die-ersten-30-minuten-vorab"
-          },
-          {
-            "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3455716/1200x0/die-ersten-30-minuten-vorab.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3455716/",
-            "filename": "die-ersten-30-minuten-vorab"
-          }
-        ],
-        "imagesHover": [
-          {
-            "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3455716/300x0/die-ersten-30-minuten-vorab.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3455716/",
-            "filename": "die-ersten-30-minuten-vorab"
-          },
-          {
-            "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3455716/600x0/die-ersten-30-minuten-vorab.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3455716/",
-            "filename": "die-ersten-30-minuten-vorab"
-          },
-          {
-            "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3455716/1200x0/die-ersten-30-minuten-vorab.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3455716/",
-            "filename": "die-ersten-30-minuten-vorab"
-          }
-        ],
-        "isPremium": false,
-        "overlays": [
-          "premium"
-        ],
-        "seoUrl": "prince-charming",
-        "subheadline": "Die ersten 30 Minuten vorab",
-        "text": "Staffel 2 | SNEAK PEEK",
-        "type": "show",
-        "url": "/shows/prince-charming-17742/staffel-2/episode-0-die-ersten-30-minuten-vorab-3455716",
-        "videoId": 3455716
-      },
-      {
-        "buttons": [
-          {
-            "display": true,
-            "formatId": 17742,
-            "text": null,
-            "type": "favorites"
-          },
-          {
-            "display": true,
-            "text": "Jetzt ansehen",
-            "type": "play",
-            "url": "/shows/prince-charming-17742/staffel-2/episode-1-folge-1-2020-10-26-22-15-00-3461900"
-          }
-        ],
-        "ecommerce": {
-          "teaserFormatName": "Prince Charming",
-          "teaserId": "show_episode_3461900",
-          "teaserName": "Prince Charming | Staffel 2 | Folge 1 | Folge 1",
-          "teaserPayType": "paid",
-          "teaserType": "show_episode",
-          "teaserGenre": "Reality",
-          "cluster": [
-            "Dating",
-            "Guilty Pleasure"
-          ],
-          "classification": [
-            "Original",
-            "Exklusiv",
-            "Pre-TV"
-          ],
-          "teaserSeason": "Staffel 2",
-          "teaserEpisodeNumber": "Folge 1",
-          "teaserEpisodeAirtime": "ORIGINAL",
-          "teaserEpisodeName": "Folge 1"
-        },
-        "fsk": {
-          "isVisible": false,
-          "label": "ab 0",
-          "minAge": 0
-        },
-        "headline": "Folge 1",
-        "id": 3461900,
-        "images": [
-          {
-            "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461900/300x0/folge-1-2020-10-26-22-15-00.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3461900/",
-            "filename": "folge-1-2020-10-26-22-15-00"
-          },
-          {
-            "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461900/600x0/folge-1-2020-10-26-22-15-00.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3461900/",
-            "filename": "folge-1-2020-10-26-22-15-00"
-          },
-          {
-            "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461900/1200x0/folge-1-2020-10-26-22-15-00.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3461900/",
-            "filename": "folge-1-2020-10-26-22-15-00"
-          }
-        ],
-        "imagesHover": [
-          {
-            "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461900/300x0/folge-1-2020-10-26-22-15-00.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3461900/",
-            "filename": "folge-1-2020-10-26-22-15-00"
-          },
-          {
-            "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461900/600x0/folge-1-2020-10-26-22-15-00.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3461900/",
-            "filename": "folge-1-2020-10-26-22-15-00"
-          },
-          {
-            "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461900/1200x0/folge-1-2020-10-26-22-15-00.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3461900/",
-            "filename": "folge-1-2020-10-26-22-15-00"
-          }
-        ],
-        "isPremium": true,
-        "overlays": [
-          "premium"
-        ],
-        "seoUrl": "prince-charming",
-        "subheadline": "Folge 1",
-        "text": "Staffel 2, Folge 1 | ORIGINAL",
-        "type": "show",
-        "url": "/shows/prince-charming-17742/staffel-2/episode-1-folge-1-2020-10-26-22-15-00-3461900",
-        "videoId": 3461900
-      }
-    ],
-    "format_navigation": {
-      "season": 2
-    },
-    "navigationType": "season"
-  },
-  {
-    "ecommerce": {
-      "rowCategory": "small_teaser",
-      "rowId": "na",
       "rowName": "Staffel 1"
     },
     "id": null,
@@ -226,9 +21,9 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
-            "url": "/shows/prince-charming-17742/staffel-1/episode-1-folge-1-2090239"
+            "url": "/shows/prince-charming-17742/staffel-1/episode-1-folge-1-2021-06-22-00-00-00-2090239"
           }
         ],
         "ecommerce": {
@@ -244,8 +39,8 @@
           ],
           "classification": [
             "Original",
-            "Exklusiv",
-            "Pre-TV"
+            "Vor TV-Start",
+            "Exclusive"
           ],
           "teaserSeason": "Staffel 1",
           "teaserEpisodeNumber": "Folge 1",
@@ -262,41 +57,41 @@
         "images": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2090239/300x0/folge-1.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2090239/300x0/folge-1-2021-06-22-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2090239/",
-            "filename": "folge-1"
+            "filename": "folge-1-2021-06-22-00-00-00"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2090239/600x0/folge-1.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2090239/600x0/folge-1-2021-06-22-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2090239/",
-            "filename": "folge-1"
+            "filename": "folge-1-2021-06-22-00-00-00"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2090239/1200x0/folge-1.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2090239/1200x0/folge-1-2021-06-22-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2090239/",
-            "filename": "folge-1"
+            "filename": "folge-1-2021-06-22-00-00-00"
           }
         ],
         "imagesHover": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2090239/300x0/folge-1.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2090239/300x0/folge-1-2021-06-22-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2090239/",
-            "filename": "folge-1"
+            "filename": "folge-1-2021-06-22-00-00-00"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2090239/600x0/folge-1.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2090239/600x0/folge-1-2021-06-22-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2090239/",
-            "filename": "folge-1"
+            "filename": "folge-1-2021-06-22-00-00-00"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2090239/1200x0/folge-1.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2090239/1200x0/folge-1-2021-06-22-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2090239/",
-            "filename": "folge-1"
+            "filename": "folge-1-2021-06-22-00-00-00"
           }
         ],
         "isPremium": true,
@@ -307,7 +102,7 @@
         "subheadline": "Folge 1",
         "text": "Staffel 1, Folge 1 | ORIGINAL",
         "type": "show",
-        "url": "/shows/prince-charming-17742/staffel-1/episode-1-folge-1-2090239",
+        "url": "/shows/prince-charming-17742/staffel-1/episode-1-folge-1-2021-06-22-00-00-00-2090239",
         "videoId": 2090239
       },
       {
@@ -320,9 +115,9 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
-            "url": "/shows/prince-charming-17742/staffel-1/episode-2-folge-2-2174873"
+            "url": "/shows/prince-charming-17742/staffel-1/episode-2-folge-2-2019-10-30-00-01-00-2174873"
           }
         ],
         "ecommerce": {
@@ -338,8 +133,8 @@
           ],
           "classification": [
             "Original",
-            "Exklusiv",
-            "Pre-TV"
+            "Vor TV-Start",
+            "Exclusive"
           ],
           "teaserSeason": "Staffel 1",
           "teaserEpisodeNumber": "Folge 2",
@@ -356,41 +151,41 @@
         "images": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2174873/300x0/folge-2.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2174873/300x0/folge-2-2019-10-30-00-01-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2174873/",
-            "filename": "folge-2"
+            "filename": "folge-2-2019-10-30-00-01-00"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2174873/600x0/folge-2.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2174873/600x0/folge-2-2019-10-30-00-01-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2174873/",
-            "filename": "folge-2"
+            "filename": "folge-2-2019-10-30-00-01-00"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2174873/1200x0/folge-2.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2174873/1200x0/folge-2-2019-10-30-00-01-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2174873/",
-            "filename": "folge-2"
+            "filename": "folge-2-2019-10-30-00-01-00"
           }
         ],
         "imagesHover": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2174873/300x0/folge-2.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2174873/300x0/folge-2-2019-10-30-00-01-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2174873/",
-            "filename": "folge-2"
+            "filename": "folge-2-2019-10-30-00-01-00"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2174873/600x0/folge-2.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2174873/600x0/folge-2-2019-10-30-00-01-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2174873/",
-            "filename": "folge-2"
+            "filename": "folge-2-2019-10-30-00-01-00"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2174873/1200x0/folge-2.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2174873/1200x0/folge-2-2019-10-30-00-01-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2174873/",
-            "filename": "folge-2"
+            "filename": "folge-2-2019-10-30-00-01-00"
           }
         ],
         "isPremium": true,
@@ -401,7 +196,7 @@
         "subheadline": "Folge 2",
         "text": "Staffel 1, Folge 2 | ORIGINAL",
         "type": "show",
-        "url": "/shows/prince-charming-17742/staffel-1/episode-2-folge-2-2174873",
+        "url": "/shows/prince-charming-17742/staffel-1/episode-2-folge-2-2019-10-30-00-01-00-2174873",
         "videoId": 2174873
       },
       {
@@ -414,9 +209,9 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
-            "url": "/shows/prince-charming-17742/staffel-1/episode-3-folge-3-2264592"
+            "url": "/shows/prince-charming-17742/staffel-1/episode-3-folge-3-2019-10-30-00-02-00-2264592"
           }
         ],
         "ecommerce": {
@@ -432,8 +227,8 @@
           ],
           "classification": [
             "Original",
-            "Exklusiv",
-            "Pre-TV"
+            "Vor TV-Start",
+            "Exclusive"
           ],
           "teaserSeason": "Staffel 1",
           "teaserEpisodeNumber": "Folge 3",
@@ -450,41 +245,41 @@
         "images": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2264592/300x0/folge-3.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2264592/300x0/folge-3-2019-10-30-00-02-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2264592/",
-            "filename": "folge-3"
+            "filename": "folge-3-2019-10-30-00-02-00"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2264592/600x0/folge-3.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2264592/600x0/folge-3-2019-10-30-00-02-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2264592/",
-            "filename": "folge-3"
+            "filename": "folge-3-2019-10-30-00-02-00"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2264592/1200x0/folge-3.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2264592/1200x0/folge-3-2019-10-30-00-02-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2264592/",
-            "filename": "folge-3"
+            "filename": "folge-3-2019-10-30-00-02-00"
           }
         ],
         "imagesHover": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2264592/300x0/folge-3.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2264592/300x0/folge-3-2019-10-30-00-02-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2264592/",
-            "filename": "folge-3"
+            "filename": "folge-3-2019-10-30-00-02-00"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2264592/600x0/folge-3.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2264592/600x0/folge-3-2019-10-30-00-02-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2264592/",
-            "filename": "folge-3"
+            "filename": "folge-3-2019-10-30-00-02-00"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2264592/1200x0/folge-3.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2264592/1200x0/folge-3-2019-10-30-00-02-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2264592/",
-            "filename": "folge-3"
+            "filename": "folge-3-2019-10-30-00-02-00"
           }
         ],
         "isPremium": true,
@@ -495,7 +290,7 @@
         "subheadline": "Folge 3",
         "text": "Staffel 1, Folge 3 | ORIGINAL",
         "type": "show",
-        "url": "/shows/prince-charming-17742/staffel-1/episode-3-folge-3-2264592",
+        "url": "/shows/prince-charming-17742/staffel-1/episode-3-folge-3-2019-10-30-00-02-00-2264592",
         "videoId": 2264592
       },
       {
@@ -508,9 +303,9 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
-            "url": "/shows/prince-charming-17742/staffel-1/episode-4-folge-4-2369135"
+            "url": "/shows/prince-charming-17742/staffel-1/episode-4-folge-4-2019-10-30-00-03-00-2369135"
           }
         ],
         "ecommerce": {
@@ -526,8 +321,8 @@
           ],
           "classification": [
             "Original",
-            "Exklusiv",
-            "Pre-TV"
+            "Vor TV-Start",
+            "Exclusive"
           ],
           "teaserSeason": "Staffel 1",
           "teaserEpisodeNumber": "Folge 4",
@@ -544,41 +339,41 @@
         "images": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2369135/300x0/folge-4.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2369135/300x0/folge-4-2019-10-30-00-03-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2369135/",
-            "filename": "folge-4"
+            "filename": "folge-4-2019-10-30-00-03-00"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2369135/600x0/folge-4.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2369135/600x0/folge-4-2019-10-30-00-03-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2369135/",
-            "filename": "folge-4"
+            "filename": "folge-4-2019-10-30-00-03-00"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2369135/1200x0/folge-4.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2369135/1200x0/folge-4-2019-10-30-00-03-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2369135/",
-            "filename": "folge-4"
+            "filename": "folge-4-2019-10-30-00-03-00"
           }
         ],
         "imagesHover": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2369135/300x0/folge-4.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2369135/300x0/folge-4-2019-10-30-00-03-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2369135/",
-            "filename": "folge-4"
+            "filename": "folge-4-2019-10-30-00-03-00"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2369135/600x0/folge-4.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2369135/600x0/folge-4-2019-10-30-00-03-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2369135/",
-            "filename": "folge-4"
+            "filename": "folge-4-2019-10-30-00-03-00"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2369135/1200x0/folge-4.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2369135/1200x0/folge-4-2019-10-30-00-03-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2369135/",
-            "filename": "folge-4"
+            "filename": "folge-4-2019-10-30-00-03-00"
           }
         ],
         "isPremium": true,
@@ -589,7 +384,7 @@
         "subheadline": "Folge 4",
         "text": "Staffel 1, Folge 4 | ORIGINAL",
         "type": "show",
-        "url": "/shows/prince-charming-17742/staffel-1/episode-4-folge-4-2369135",
+        "url": "/shows/prince-charming-17742/staffel-1/episode-4-folge-4-2019-10-30-00-03-00-2369135",
         "videoId": 2369135
       },
       {
@@ -602,9 +397,9 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
-            "url": "/shows/prince-charming-17742/staffel-1/episode-5-folge-5-2450895"
+            "url": "/shows/prince-charming-17742/staffel-1/episode-5-folge-5-2021-06-22-00-00-00-2450895"
           }
         ],
         "ecommerce": {
@@ -620,8 +415,8 @@
           ],
           "classification": [
             "Original",
-            "Exklusiv",
-            "Pre-TV"
+            "Vor TV-Start",
+            "Exclusive"
           ],
           "teaserSeason": "Staffel 1",
           "teaserEpisodeNumber": "Folge 5",
@@ -638,41 +433,41 @@
         "images": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2450895/300x0/folge-5.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2450895/300x0/folge-5-2021-06-22-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2450895/",
-            "filename": "folge-5"
+            "filename": "folge-5-2021-06-22-00-00-00"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2450895/600x0/folge-5.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2450895/600x0/folge-5-2021-06-22-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2450895/",
-            "filename": "folge-5"
+            "filename": "folge-5-2021-06-22-00-00-00"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2450895/1200x0/folge-5.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2450895/1200x0/folge-5-2021-06-22-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2450895/",
-            "filename": "folge-5"
+            "filename": "folge-5-2021-06-22-00-00-00"
           }
         ],
         "imagesHover": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2450895/300x0/folge-5.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2450895/300x0/folge-5-2021-06-22-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2450895/",
-            "filename": "folge-5"
+            "filename": "folge-5-2021-06-22-00-00-00"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2450895/600x0/folge-5.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2450895/600x0/folge-5-2021-06-22-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2450895/",
-            "filename": "folge-5"
+            "filename": "folge-5-2021-06-22-00-00-00"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2450895/1200x0/folge-5.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2450895/1200x0/folge-5-2021-06-22-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2450895/",
-            "filename": "folge-5"
+            "filename": "folge-5-2021-06-22-00-00-00"
           }
         ],
         "isPremium": true,
@@ -683,7 +478,7 @@
         "subheadline": "Folge 5",
         "text": "Staffel 1, Folge 5 | ORIGINAL",
         "type": "show",
-        "url": "/shows/prince-charming-17742/staffel-1/episode-5-folge-5-2450895",
+        "url": "/shows/prince-charming-17742/staffel-1/episode-5-folge-5-2021-06-22-00-00-00-2450895",
         "videoId": 2450895
       },
       {
@@ -696,9 +491,9 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
-            "url": "/shows/prince-charming-17742/staffel-1/episode-6-folge-6-2520791"
+            "url": "/shows/prince-charming-17742/staffel-1/episode-6-folge-6-2021-06-22-00-00-00-2520791"
           }
         ],
         "ecommerce": {
@@ -714,8 +509,8 @@
           ],
           "classification": [
             "Original",
-            "Exklusiv",
-            "Pre-TV"
+            "Vor TV-Start",
+            "Exclusive"
           ],
           "teaserSeason": "Staffel 1",
           "teaserEpisodeNumber": "Folge 6",
@@ -732,41 +527,41 @@
         "images": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2520791/300x0/folge-6.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2520791/300x0/folge-6-2021-06-22-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2520791/",
-            "filename": "folge-6"
+            "filename": "folge-6-2021-06-22-00-00-00"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2520791/600x0/folge-6.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2520791/600x0/folge-6-2021-06-22-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2520791/",
-            "filename": "folge-6"
+            "filename": "folge-6-2021-06-22-00-00-00"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2520791/1200x0/folge-6.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2520791/1200x0/folge-6-2021-06-22-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2520791/",
-            "filename": "folge-6"
+            "filename": "folge-6-2021-06-22-00-00-00"
           }
         ],
         "imagesHover": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2520791/300x0/folge-6.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2520791/300x0/folge-6-2021-06-22-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2520791/",
-            "filename": "folge-6"
+            "filename": "folge-6-2021-06-22-00-00-00"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2520791/600x0/folge-6.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2520791/600x0/folge-6-2021-06-22-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2520791/",
-            "filename": "folge-6"
+            "filename": "folge-6-2021-06-22-00-00-00"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2520791/1200x0/folge-6.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2520791/1200x0/folge-6-2021-06-22-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2520791/",
-            "filename": "folge-6"
+            "filename": "folge-6-2021-06-22-00-00-00"
           }
         ],
         "isPremium": true,
@@ -777,7 +572,7 @@
         "subheadline": "Folge 6",
         "text": "Staffel 1, Folge 6 | ORIGINAL",
         "type": "show",
-        "url": "/shows/prince-charming-17742/staffel-1/episode-6-folge-6-2520791",
+        "url": "/shows/prince-charming-17742/staffel-1/episode-6-folge-6-2021-06-22-00-00-00-2520791",
         "videoId": 2520791
       },
       {
@@ -790,9 +585,9 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
-            "url": "/shows/prince-charming-17742/staffel-1/episode-7-folge-7-2586019"
+            "url": "/shows/prince-charming-17742/staffel-1/episode-7-folge-7-2019-10-30-00-06-00-2586019"
           }
         ],
         "ecommerce": {
@@ -808,8 +603,8 @@
           ],
           "classification": [
             "Original",
-            "Exklusiv",
-            "Pre-TV"
+            "Vor TV-Start",
+            "Exclusive"
           ],
           "teaserSeason": "Staffel 1",
           "teaserEpisodeNumber": "Folge 7",
@@ -826,41 +621,41 @@
         "images": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2586019/300x0/folge-7.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2586019/300x0/folge-7-2019-10-30-00-06-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2586019/",
-            "filename": "folge-7"
+            "filename": "folge-7-2019-10-30-00-06-00"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2586019/600x0/folge-7.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2586019/600x0/folge-7-2019-10-30-00-06-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2586019/",
-            "filename": "folge-7"
+            "filename": "folge-7-2019-10-30-00-06-00"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2586019/1200x0/folge-7.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2586019/1200x0/folge-7-2019-10-30-00-06-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2586019/",
-            "filename": "folge-7"
+            "filename": "folge-7-2019-10-30-00-06-00"
           }
         ],
         "imagesHover": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2586019/300x0/folge-7.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2586019/300x0/folge-7-2019-10-30-00-06-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2586019/",
-            "filename": "folge-7"
+            "filename": "folge-7-2019-10-30-00-06-00"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2586019/600x0/folge-7.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2586019/600x0/folge-7-2019-10-30-00-06-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2586019/",
-            "filename": "folge-7"
+            "filename": "folge-7-2019-10-30-00-06-00"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2586019/1200x0/folge-7.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2586019/1200x0/folge-7-2019-10-30-00-06-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2586019/",
-            "filename": "folge-7"
+            "filename": "folge-7-2019-10-30-00-06-00"
           }
         ],
         "isPremium": true,
@@ -871,7 +666,7 @@
         "subheadline": "Folge 7",
         "text": "Staffel 1, Folge 7 | ORIGINAL",
         "type": "show",
-        "url": "/shows/prince-charming-17742/staffel-1/episode-7-folge-7-2586019",
+        "url": "/shows/prince-charming-17742/staffel-1/episode-7-folge-7-2019-10-30-00-06-00-2586019",
         "videoId": 2586019
       },
       {
@@ -884,9 +679,9 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
-            "url": "/shows/prince-charming-17742/staffel-1/episode-8-folge-8-2646541"
+            "url": "/shows/prince-charming-17742/staffel-1/episode-8-folge-8-2019-10-30-00-07-00-2646541"
           }
         ],
         "ecommerce": {
@@ -902,8 +697,8 @@
           ],
           "classification": [
             "Original",
-            "Exklusiv",
-            "Pre-TV"
+            "Vor TV-Start",
+            "Exclusive"
           ],
           "teaserSeason": "Staffel 1",
           "teaserEpisodeNumber": "Folge 8",
@@ -920,41 +715,41 @@
         "images": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2646541/300x0/folge-8.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2646541/300x0/folge-8-2019-10-30-00-07-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2646541/",
-            "filename": "folge-8"
+            "filename": "folge-8-2019-10-30-00-07-00"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2646541/600x0/folge-8.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2646541/600x0/folge-8-2019-10-30-00-07-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2646541/",
-            "filename": "folge-8"
+            "filename": "folge-8-2019-10-30-00-07-00"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2646541/1200x0/folge-8.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2646541/1200x0/folge-8-2019-10-30-00-07-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2646541/",
-            "filename": "folge-8"
+            "filename": "folge-8-2019-10-30-00-07-00"
           }
         ],
         "imagesHover": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2646541/300x0/folge-8.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2646541/300x0/folge-8-2019-10-30-00-07-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2646541/",
-            "filename": "folge-8"
+            "filename": "folge-8-2019-10-30-00-07-00"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2646541/600x0/folge-8.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2646541/600x0/folge-8-2019-10-30-00-07-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2646541/",
-            "filename": "folge-8"
+            "filename": "folge-8-2019-10-30-00-07-00"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/2646541/1200x0/folge-8.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/2646541/1200x0/folge-8-2019-10-30-00-07-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/2646541/",
-            "filename": "folge-8"
+            "filename": "folge-8-2019-10-30-00-07-00"
           }
         ],
         "isPremium": true,
@@ -965,7 +760,7 @@
         "subheadline": "Folge 8",
         "text": "Staffel 1, Folge 8 | ORIGINAL",
         "type": "show",
-        "url": "/shows/prince-charming-17742/staffel-1/episode-8-folge-8-2646541",
+        "url": "/shows/prince-charming-17742/staffel-1/episode-8-folge-8-2019-10-30-00-07-00-2646541",
         "videoId": 2646541
       },
       {
@@ -978,7 +773,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/shows/prince-charming-17742/staffel-1/episode-9-das-wiedersehen-2646508"
           }
@@ -996,8 +791,8 @@
           ],
           "classification": [
             "Original",
-            "Exklusiv",
-            "Pre-TV"
+            "Vor TV-Start",
+            "Exclusive"
           ],
           "teaserSeason": "Staffel 1",
           "teaserEpisodeNumber": "Folge 9",
@@ -1090,7 +885,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/shows/prince-charming-17742/staffel-2/episode-0-die-ersten-30-minuten-vorab-3455716"
           }
@@ -1108,11 +903,11 @@
           ],
           "classification": [
             "Original",
-            "Exklusiv",
-            "Pre-TV"
+            "Vor TV-Start",
+            "Exclusive"
           ],
           "teaserSeason": "Staffel 2",
-          "teaserEpisodeAirtime": "SNEAK PEEK",
+          "teaserEpisodeAirtime": "ORIGINAL",
           "teaserEpisodeName": "Die ersten 30 Minuten vorab"
         },
         "fsk": {
@@ -1168,7 +963,7 @@
         ],
         "seoUrl": "prince-charming",
         "subheadline": "Die ersten 30 Minuten vorab",
-        "text": "Staffel 2 | SNEAK PEEK",
+        "text": "Staffel 2 | ORIGINAL",
         "type": "show",
         "url": "/shows/prince-charming-17742/staffel-2/episode-0-die-ersten-30-minuten-vorab-3455716",
         "videoId": 3455716
@@ -1183,9 +978,9 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
-            "url": "/shows/prince-charming-17742/staffel-2/episode-1-folge-1-2020-10-26-22-15-00-3461900"
+            "url": "/shows/prince-charming-17742/staffel-2/episode-1-folge-1-2020-10-12-00-00-00-3461900"
           }
         ],
         "ecommerce": {
@@ -1201,8 +996,8 @@
           ],
           "classification": [
             "Original",
-            "Exklusiv",
-            "Pre-TV"
+            "Vor TV-Start",
+            "Exclusive"
           ],
           "teaserSeason": "Staffel 2",
           "teaserEpisodeNumber": "Folge 1",
@@ -1219,41 +1014,41 @@
         "images": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461900/300x0/folge-1-2020-10-26-22-15-00.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461900/300x0/folge-1-2020-10-12-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/3461900/",
-            "filename": "folge-1-2020-10-26-22-15-00"
+            "filename": "folge-1-2020-10-12-00-00-00"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461900/600x0/folge-1-2020-10-26-22-15-00.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461900/600x0/folge-1-2020-10-12-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/3461900/",
-            "filename": "folge-1-2020-10-26-22-15-00"
+            "filename": "folge-1-2020-10-12-00-00-00"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461900/1200x0/folge-1-2020-10-26-22-15-00.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461900/1200x0/folge-1-2020-10-12-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/3461900/",
-            "filename": "folge-1-2020-10-26-22-15-00"
+            "filename": "folge-1-2020-10-12-00-00-00"
           }
         ],
         "imagesHover": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461900/300x0/folge-1-2020-10-26-22-15-00.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461900/300x0/folge-1-2020-10-12-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/3461900/",
-            "filename": "folge-1-2020-10-26-22-15-00"
+            "filename": "folge-1-2020-10-12-00-00-00"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461900/600x0/folge-1-2020-10-26-22-15-00.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461900/600x0/folge-1-2020-10-12-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/3461900/",
-            "filename": "folge-1-2020-10-26-22-15-00"
+            "filename": "folge-1-2020-10-12-00-00-00"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461900/1200x0/folge-1-2020-10-26-22-15-00.jpg",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3461900/1200x0/folge-1-2020-10-12-00-00-00.jpg",
             "path": "https://ais-cf.tvnow.de/tvnow/movie/3461900/",
-            "filename": "folge-1-2020-10-26-22-15-00"
+            "filename": "folge-1-2020-10-12-00-00-00"
           }
         ],
         "isPremium": true,
@@ -1264,12 +1059,1909 @@
         "subheadline": "Folge 1",
         "text": "Staffel 2, Folge 1 | ORIGINAL",
         "type": "show",
-        "url": "/shows/prince-charming-17742/staffel-2/episode-1-folge-1-2020-10-26-22-15-00-3461900",
+        "url": "/shows/prince-charming-17742/staffel-2/episode-1-folge-1-2020-10-12-00-00-00-3461900",
         "videoId": 3461900
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-2/episode-2-folge-2-2020-10-19-00-00-00-3486582"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_3486582",
+          "teaserName": "Prince Charming | Staffel 2 | Folge 2 | Folge 2",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 2",
+          "teaserEpisodeNumber": "Folge 2",
+          "teaserEpisodeAirtime": "ORIGINAL",
+          "teaserEpisodeName": "Folge 2"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 2",
+        "id": 3486582,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3486582/300x0/folge-2-2020-10-19-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3486582/",
+            "filename": "folge-2-2020-10-19-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3486582/600x0/folge-2-2020-10-19-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3486582/",
+            "filename": "folge-2-2020-10-19-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3486582/1200x0/folge-2-2020-10-19-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3486582/",
+            "filename": "folge-2-2020-10-19-00-00-00"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3486582/300x0/folge-2-2020-10-19-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3486582/",
+            "filename": "folge-2-2020-10-19-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3486582/600x0/folge-2-2020-10-19-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3486582/",
+            "filename": "folge-2-2020-10-19-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3486582/1200x0/folge-2-2020-10-19-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3486582/",
+            "filename": "folge-2-2020-10-19-00-00-00"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Folge 2",
+        "text": "Staffel 2, Folge 2 | ORIGINAL",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-2/episode-2-folge-2-2020-10-19-00-00-00-3486582",
+        "videoId": 3486582
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-2/episode-3-folge-02-003-3527410"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_3527410",
+          "teaserName": "Prince Charming | Staffel 2 | Folge 3 | Folge 02_003",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 2",
+          "teaserEpisodeNumber": "Folge 3",
+          "teaserEpisodeAirtime": "ORIGINAL",
+          "teaserEpisodeName": "Folge 02_003"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 02_003",
+        "id": 3527410,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3527410/300x0/folge-02-003.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3527410/",
+            "filename": "folge-02-003"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3527410/600x0/folge-02-003.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3527410/",
+            "filename": "folge-02-003"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3527410/1200x0/folge-02-003.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3527410/",
+            "filename": "folge-02-003"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3527410/300x0/folge-02-003.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3527410/",
+            "filename": "folge-02-003"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3527410/600x0/folge-02-003.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3527410/",
+            "filename": "folge-02-003"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3527410/1200x0/folge-02-003.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3527410/",
+            "filename": "folge-02-003"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Folge 02_003",
+        "text": "Staffel 2, Folge 3 | ORIGINAL",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-2/episode-3-folge-02-003-3527410",
+        "videoId": 3527410
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-2/episode-4-folge-4-2020-11-02-00-00-00-3574679"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_3574679",
+          "teaserName": "Prince Charming | Staffel 2 | Folge 4 | Folge 4",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 2",
+          "teaserEpisodeNumber": "Folge 4",
+          "teaserEpisodeAirtime": "ORIGINAL",
+          "teaserEpisodeName": "Folge 4"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 4",
+        "id": 3574679,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3574679/300x0/folge-4-2020-11-02-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3574679/",
+            "filename": "folge-4-2020-11-02-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3574679/600x0/folge-4-2020-11-02-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3574679/",
+            "filename": "folge-4-2020-11-02-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3574679/1200x0/folge-4-2020-11-02-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3574679/",
+            "filename": "folge-4-2020-11-02-00-00-00"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3574679/300x0/folge-4-2020-11-02-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3574679/",
+            "filename": "folge-4-2020-11-02-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3574679/600x0/folge-4-2020-11-02-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3574679/",
+            "filename": "folge-4-2020-11-02-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3574679/1200x0/folge-4-2020-11-02-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3574679/",
+            "filename": "folge-4-2020-11-02-00-00-00"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Folge 4",
+        "text": "Staffel 2, Folge 4 | ORIGINAL",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-2/episode-4-folge-4-2020-11-02-00-00-00-3574679",
+        "videoId": 3574679
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-2/episode-5-folge-5-2020-11-09-00-00-00-3600157"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_3600157",
+          "teaserName": "Prince Charming | Staffel 2 | Folge 5 | Folge 5",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 2",
+          "teaserEpisodeNumber": "Folge 5",
+          "teaserEpisodeAirtime": "ORIGINAL",
+          "teaserEpisodeName": "Folge 5"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 5",
+        "id": 3600157,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3600157/300x0/folge-5-2020-11-09-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3600157/",
+            "filename": "folge-5-2020-11-09-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3600157/600x0/folge-5-2020-11-09-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3600157/",
+            "filename": "folge-5-2020-11-09-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3600157/1200x0/folge-5-2020-11-09-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3600157/",
+            "filename": "folge-5-2020-11-09-00-00-00"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3600157/300x0/folge-5-2020-11-09-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3600157/",
+            "filename": "folge-5-2020-11-09-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3600157/600x0/folge-5-2020-11-09-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3600157/",
+            "filename": "folge-5-2020-11-09-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3600157/1200x0/folge-5-2020-11-09-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3600157/",
+            "filename": "folge-5-2020-11-09-00-00-00"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Folge 5",
+        "text": "Staffel 2, Folge 5 | ORIGINAL",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-2/episode-5-folge-5-2020-11-09-00-00-00-3600157",
+        "videoId": 3600157
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-2/episode-6-folge-6-2020-11-16-00-00-00-3661190"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_3661190",
+          "teaserName": "Prince Charming | Staffel 2 | Folge 6 | Folge 6",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 2",
+          "teaserEpisodeNumber": "Folge 6",
+          "teaserEpisodeAirtime": "ORIGINAL",
+          "teaserEpisodeName": "Folge 6"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 6",
+        "id": 3661190,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3661190/300x0/folge-6-2020-11-16-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3661190/",
+            "filename": "folge-6-2020-11-16-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3661190/600x0/folge-6-2020-11-16-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3661190/",
+            "filename": "folge-6-2020-11-16-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3661190/1200x0/folge-6-2020-11-16-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3661190/",
+            "filename": "folge-6-2020-11-16-00-00-00"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3661190/300x0/folge-6-2020-11-16-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3661190/",
+            "filename": "folge-6-2020-11-16-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3661190/600x0/folge-6-2020-11-16-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3661190/",
+            "filename": "folge-6-2020-11-16-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3661190/1200x0/folge-6-2020-11-16-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3661190/",
+            "filename": "folge-6-2020-11-16-00-00-00"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Folge 6",
+        "text": "Staffel 2, Folge 6 | ORIGINAL",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-2/episode-6-folge-6-2020-11-16-00-00-00-3661190",
+        "videoId": 3661190
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-2/episode-7-folge-7-2020-11-23-00-00-00-3688359"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_3688359",
+          "teaserName": "Prince Charming | Staffel 2 | Folge 7 | Folge 7",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 2",
+          "teaserEpisodeNumber": "Folge 7",
+          "teaserEpisodeAirtime": "ORIGINAL",
+          "teaserEpisodeName": "Folge 7"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 7",
+        "id": 3688359,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3688359/300x0/folge-7-2020-11-23-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3688359/",
+            "filename": "folge-7-2020-11-23-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3688359/600x0/folge-7-2020-11-23-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3688359/",
+            "filename": "folge-7-2020-11-23-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3688359/1200x0/folge-7-2020-11-23-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3688359/",
+            "filename": "folge-7-2020-11-23-00-00-00"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3688359/300x0/folge-7-2020-11-23-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3688359/",
+            "filename": "folge-7-2020-11-23-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3688359/600x0/folge-7-2020-11-23-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3688359/",
+            "filename": "folge-7-2020-11-23-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3688359/1200x0/folge-7-2020-11-23-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3688359/",
+            "filename": "folge-7-2020-11-23-00-00-00"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Folge 7",
+        "text": "Staffel 2, Folge 7 | ORIGINAL",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-2/episode-7-folge-7-2020-11-23-00-00-00-3688359",
+        "videoId": 3688359
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-2/episode-8-folge-8-2020-11-30-00-00-00-3711763"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_3711763",
+          "teaserName": "Prince Charming | Staffel 2 | Folge 8 | Folge 8",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 2",
+          "teaserEpisodeNumber": "Folge 8",
+          "teaserEpisodeAirtime": "ORIGINAL",
+          "teaserEpisodeName": "Folge 8"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 8",
+        "id": 3711763,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3711763/300x0/folge-8-2020-11-30-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3711763/",
+            "filename": "folge-8-2020-11-30-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3711763/600x0/folge-8-2020-11-30-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3711763/",
+            "filename": "folge-8-2020-11-30-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3711763/1200x0/folge-8-2020-11-30-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3711763/",
+            "filename": "folge-8-2020-11-30-00-00-00"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3711763/300x0/folge-8-2020-11-30-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3711763/",
+            "filename": "folge-8-2020-11-30-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3711763/600x0/folge-8-2020-11-30-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3711763/",
+            "filename": "folge-8-2020-11-30-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3711763/1200x0/folge-8-2020-11-30-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3711763/",
+            "filename": "folge-8-2020-11-30-00-00-00"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Folge 8",
+        "text": "Staffel 2, Folge 8 | ORIGINAL",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-2/episode-8-folge-8-2020-11-30-00-00-00-3711763",
+        "videoId": 3711763
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-2/episode-9-folge-9-2020-12-07-00-00-00-3785339"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_3785339",
+          "teaserName": "Prince Charming | Staffel 2 | Folge 9 | Folge 9",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 2",
+          "teaserEpisodeNumber": "Folge 9",
+          "teaserEpisodeAirtime": "ORIGINAL",
+          "teaserEpisodeName": "Folge 9"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 9",
+        "id": 3785339,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3785339/300x0/folge-9-2020-12-07-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3785339/",
+            "filename": "folge-9-2020-12-07-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3785339/600x0/folge-9-2020-12-07-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3785339/",
+            "filename": "folge-9-2020-12-07-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3785339/1200x0/folge-9-2020-12-07-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3785339/",
+            "filename": "folge-9-2020-12-07-00-00-00"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3785339/300x0/folge-9-2020-12-07-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3785339/",
+            "filename": "folge-9-2020-12-07-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3785339/600x0/folge-9-2020-12-07-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3785339/",
+            "filename": "folge-9-2020-12-07-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3785339/1200x0/folge-9-2020-12-07-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3785339/",
+            "filename": "folge-9-2020-12-07-00-00-00"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Folge 9",
+        "text": "Staffel 2, Folge 9 | ORIGINAL",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-2/episode-9-folge-9-2020-12-07-00-00-00-3785339",
+        "videoId": 3785339
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-2/episode-10-folge-10-2020-12-14-00-00-00-3851853"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_3851853",
+          "teaserName": "Prince Charming | Staffel 2 | Folge 10 | Folge 10",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 2",
+          "teaserEpisodeNumber": "Folge 10",
+          "teaserEpisodeAirtime": "ORIGINAL",
+          "teaserEpisodeName": "Folge 10"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 10",
+        "id": 3851853,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3851853/300x0/folge-10-2020-12-14-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3851853/",
+            "filename": "folge-10-2020-12-14-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3851853/600x0/folge-10-2020-12-14-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3851853/",
+            "filename": "folge-10-2020-12-14-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3851853/1200x0/folge-10-2020-12-14-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3851853/",
+            "filename": "folge-10-2020-12-14-00-00-00"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3851853/300x0/folge-10-2020-12-14-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3851853/",
+            "filename": "folge-10-2020-12-14-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3851853/600x0/folge-10-2020-12-14-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3851853/",
+            "filename": "folge-10-2020-12-14-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3851853/1200x0/folge-10-2020-12-14-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3851853/",
+            "filename": "folge-10-2020-12-14-00-00-00"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Folge 10",
+        "text": "Staffel 2, Folge 10 | ORIGINAL",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-2/episode-10-folge-10-2020-12-14-00-00-00-3851853",
+        "videoId": 3851853
       }
     ],
     "format_navigation": {
       "season": 2
+    },
+    "navigationType": "season"
+  },
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 3"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17742",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-3/episode-0-die-ersten-20-minuten-vorab-4141037"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_4141037",
+          "teaserName": "Prince Charming | Staffel 3 | Die ersten 20 Minuten vorab",
+          "teaserPayType": "free",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeAirtime": "SNEAK PEEK",
+          "teaserEpisodeName": "Die ersten 20 Minuten vorab"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die ersten 20 Minuten vorab",
+        "id": 4141037,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4141037/300x0/die-ersten-20-minuten-vorab.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4141037/",
+            "filename": "die-ersten-20-minuten-vorab"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4141037/600x0/die-ersten-20-minuten-vorab.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4141037/",
+            "filename": "die-ersten-20-minuten-vorab"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4141037/1200x0/die-ersten-20-minuten-vorab.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4141037/",
+            "filename": "die-ersten-20-minuten-vorab"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4141037/300x0/die-ersten-20-minuten-vorab.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4141037/",
+            "filename": "die-ersten-20-minuten-vorab"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4141037/600x0/die-ersten-20-minuten-vorab.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4141037/",
+            "filename": "die-ersten-20-minuten-vorab"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4141037/1200x0/die-ersten-20-minuten-vorab.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4141037/",
+            "filename": "die-ersten-20-minuten-vorab"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Die ersten 20 Minuten vorab",
+        "text": "Staffel 3 | SNEAK PEEK",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-3/episode-0-die-ersten-20-minuten-vorab-4141037",
+        "videoId": 4141037
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-3/episode-1-folge-1-2021-08-17-00-00-00-4143135"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_4143135",
+          "teaserName": "Prince Charming | Staffel 3 | Folge 1 | Folge 1",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "ORIGINAL",
+          "teaserEpisodeName": "Folge 1"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 1",
+        "id": 4143135,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4143135/300x0/folge-1-2021-08-17-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4143135/",
+            "filename": "folge-1-2021-08-17-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4143135/600x0/folge-1-2021-08-17-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4143135/",
+            "filename": "folge-1-2021-08-17-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4143135/1200x0/folge-1-2021-08-17-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4143135/",
+            "filename": "folge-1-2021-08-17-00-00-00"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4143135/300x0/folge-1-2021-08-17-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4143135/",
+            "filename": "folge-1-2021-08-17-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4143135/600x0/folge-1-2021-08-17-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4143135/",
+            "filename": "folge-1-2021-08-17-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4143135/1200x0/folge-1-2021-08-17-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4143135/",
+            "filename": "folge-1-2021-08-17-00-00-00"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Folge 1",
+        "text": "Staffel 3, Folge 1 | ORIGINAL",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-3/episode-1-folge-1-2021-08-17-00-00-00-4143135",
+        "videoId": 4143135
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-3/episode-2-folge-2-2021-08-24-00-00-00-4143974"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_4143974",
+          "teaserName": "Prince Charming | Staffel 3 | Folge 2 | Folge 2",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 2",
+          "teaserEpisodeAirtime": "ORIGINAL",
+          "teaserEpisodeName": "Folge 2"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 2",
+        "id": 4143974,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4143974/300x0/folge-2-2021-08-24-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4143974/",
+            "filename": "folge-2-2021-08-24-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4143974/600x0/folge-2-2021-08-24-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4143974/",
+            "filename": "folge-2-2021-08-24-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4143974/1200x0/folge-2-2021-08-24-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4143974/",
+            "filename": "folge-2-2021-08-24-00-00-00"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4143974/300x0/folge-2-2021-08-24-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4143974/",
+            "filename": "folge-2-2021-08-24-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4143974/600x0/folge-2-2021-08-24-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4143974/",
+            "filename": "folge-2-2021-08-24-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4143974/1200x0/folge-2-2021-08-24-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4143974/",
+            "filename": "folge-2-2021-08-24-00-00-00"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Folge 2",
+        "text": "Staffel 3, Folge 2 | ORIGINAL",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-3/episode-2-folge-2-2021-08-24-00-00-00-4143974",
+        "videoId": 4143974
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-3/episode-3-folge-3-2021-08-31-00-00-00-4148401"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_4148401",
+          "teaserName": "Prince Charming | Staffel 3 | Folge 3 | Folge 3",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 3",
+          "teaserEpisodeAirtime": "ORIGINAL",
+          "teaserEpisodeName": "Folge 3"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 3",
+        "id": 4148401,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4148401/300x0/folge-3-2021-08-31-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4148401/",
+            "filename": "folge-3-2021-08-31-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4148401/600x0/folge-3-2021-08-31-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4148401/",
+            "filename": "folge-3-2021-08-31-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4148401/1200x0/folge-3-2021-08-31-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4148401/",
+            "filename": "folge-3-2021-08-31-00-00-00"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4148401/300x0/folge-3-2021-08-31-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4148401/",
+            "filename": "folge-3-2021-08-31-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4148401/600x0/folge-3-2021-08-31-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4148401/",
+            "filename": "folge-3-2021-08-31-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4148401/1200x0/folge-3-2021-08-31-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4148401/",
+            "filename": "folge-3-2021-08-31-00-00-00"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Folge 3",
+        "text": "Staffel 3, Folge 3 | ORIGINAL",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-3/episode-3-folge-3-2021-08-31-00-00-00-4148401",
+        "videoId": 4148401
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-3/episode-4-folge-4-2021-08-10-00-00-00-4156145"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_4156145",
+          "teaserName": "Prince Charming | Staffel 3 | Folge 4 | Folge 4",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 4",
+          "teaserEpisodeAirtime": "ORIGINAL",
+          "teaserEpisodeName": "Folge 4"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 4",
+        "id": 4156145,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4156145/300x0/folge-4-2021-08-10-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4156145/",
+            "filename": "folge-4-2021-08-10-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4156145/600x0/folge-4-2021-08-10-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4156145/",
+            "filename": "folge-4-2021-08-10-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4156145/1200x0/folge-4-2021-08-10-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4156145/",
+            "filename": "folge-4-2021-08-10-00-00-00"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4156145/300x0/folge-4-2021-08-10-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4156145/",
+            "filename": "folge-4-2021-08-10-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4156145/600x0/folge-4-2021-08-10-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4156145/",
+            "filename": "folge-4-2021-08-10-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4156145/1200x0/folge-4-2021-08-10-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4156145/",
+            "filename": "folge-4-2021-08-10-00-00-00"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Folge 4",
+        "text": "Staffel 3, Folge 4 | ORIGINAL",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-3/episode-4-folge-4-2021-08-10-00-00-00-4156145",
+        "videoId": 4156145
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-3/episode-5-folge-5-2021-09-14-00-00-00-4163293"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_4163293",
+          "teaserName": "Prince Charming | Staffel 3 | Folge 5 | Folge 5",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 5",
+          "teaserEpisodeAirtime": "ORIGINAL",
+          "teaserEpisodeName": "Folge 5"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 5",
+        "id": 4163293,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4163293/300x0/folge-5-2021-09-14-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4163293/",
+            "filename": "folge-5-2021-09-14-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4163293/600x0/folge-5-2021-09-14-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4163293/",
+            "filename": "folge-5-2021-09-14-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4163293/1200x0/folge-5-2021-09-14-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4163293/",
+            "filename": "folge-5-2021-09-14-00-00-00"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4163293/300x0/folge-5-2021-09-14-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4163293/",
+            "filename": "folge-5-2021-09-14-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4163293/600x0/folge-5-2021-09-14-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4163293/",
+            "filename": "folge-5-2021-09-14-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4163293/1200x0/folge-5-2021-09-14-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4163293/",
+            "filename": "folge-5-2021-09-14-00-00-00"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Folge 5",
+        "text": "Staffel 3, Folge 5 | ORIGINAL",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-3/episode-5-folge-5-2021-09-14-00-00-00-4163293",
+        "videoId": 4163293
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-3/episode-6-folge-6-2021-09-21-00-00-00-4164040"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_4164040",
+          "teaserName": "Prince Charming | Staffel 3 | Folge 6 | Folge 6",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 6",
+          "teaserEpisodeAirtime": "ORIGINAL",
+          "teaserEpisodeName": "Folge 6"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 6",
+        "id": 4164040,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4164040/300x0/folge-6-2021-09-21-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4164040/",
+            "filename": "folge-6-2021-09-21-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4164040/600x0/folge-6-2021-09-21-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4164040/",
+            "filename": "folge-6-2021-09-21-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4164040/1200x0/folge-6-2021-09-21-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4164040/",
+            "filename": "folge-6-2021-09-21-00-00-00"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4164040/300x0/folge-6-2021-09-21-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4164040/",
+            "filename": "folge-6-2021-09-21-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4164040/600x0/folge-6-2021-09-21-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4164040/",
+            "filename": "folge-6-2021-09-21-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4164040/1200x0/folge-6-2021-09-21-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4164040/",
+            "filename": "folge-6-2021-09-21-00-00-00"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Folge 6",
+        "text": "Staffel 3, Folge 6 | ORIGINAL",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-3/episode-6-folge-6-2021-09-21-00-00-00-4164040",
+        "videoId": 4164040
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-3/episode-7-folge-7-2021-09-28-00-00-00-4165047"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_4165047",
+          "teaserName": "Prince Charming | Staffel 3 | Folge 7 | Folge 7",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 7",
+          "teaserEpisodeAirtime": "ORIGINAL",
+          "teaserEpisodeName": "Folge 7"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 7",
+        "id": 4165047,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4165047/300x0/folge-7-2021-09-28-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4165047/",
+            "filename": "folge-7-2021-09-28-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4165047/600x0/folge-7-2021-09-28-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4165047/",
+            "filename": "folge-7-2021-09-28-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4165047/1200x0/folge-7-2021-09-28-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4165047/",
+            "filename": "folge-7-2021-09-28-00-00-00"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4165047/300x0/folge-7-2021-09-28-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4165047/",
+            "filename": "folge-7-2021-09-28-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4165047/600x0/folge-7-2021-09-28-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4165047/",
+            "filename": "folge-7-2021-09-28-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4165047/1200x0/folge-7-2021-09-28-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4165047/",
+            "filename": "folge-7-2021-09-28-00-00-00"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Folge 7",
+        "text": "Staffel 3, Folge 7 | ORIGINAL",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-3/episode-7-folge-7-2021-09-28-00-00-00-4165047",
+        "videoId": 4165047
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-3/episode-8-folge-8-2021-10-05-00-00-00-4165395"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_4165395",
+          "teaserName": "Prince Charming | Staffel 3 | Folge 8 | Folge 8",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 8",
+          "teaserEpisodeAirtime": "ORIGINAL",
+          "teaserEpisodeName": "Folge 8"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 8",
+        "id": 4165395,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4165395/300x0/folge-8-2021-10-05-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4165395/",
+            "filename": "folge-8-2021-10-05-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4165395/600x0/folge-8-2021-10-05-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4165395/",
+            "filename": "folge-8-2021-10-05-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4165395/1200x0/folge-8-2021-10-05-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4165395/",
+            "filename": "folge-8-2021-10-05-00-00-00"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4165395/300x0/folge-8-2021-10-05-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4165395/",
+            "filename": "folge-8-2021-10-05-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4165395/600x0/folge-8-2021-10-05-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4165395/",
+            "filename": "folge-8-2021-10-05-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4165395/1200x0/folge-8-2021-10-05-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4165395/",
+            "filename": "folge-8-2021-10-05-00-00-00"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Folge 8",
+        "text": "Staffel 3, Folge 8 | ORIGINAL",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-3/episode-8-folge-8-2021-10-05-00-00-00-4165395",
+        "videoId": 4165395
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-3/episode-9-folge-9-2021-10-12-00-00-00-4168376"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_4168376",
+          "teaserName": "Prince Charming | Staffel 3 | Folge 9 | Folge 9",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 9",
+          "teaserEpisodeAirtime": "ORIGINAL",
+          "teaserEpisodeName": "Folge 9"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 9",
+        "id": 4168376,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4168376/300x0/folge-9-2021-10-12-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4168376/",
+            "filename": "folge-9-2021-10-12-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4168376/600x0/folge-9-2021-10-12-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4168376/",
+            "filename": "folge-9-2021-10-12-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4168376/1200x0/folge-9-2021-10-12-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4168376/",
+            "filename": "folge-9-2021-10-12-00-00-00"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4168376/300x0/folge-9-2021-10-12-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4168376/",
+            "filename": "folge-9-2021-10-12-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4168376/600x0/folge-9-2021-10-12-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4168376/",
+            "filename": "folge-9-2021-10-12-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4168376/1200x0/folge-9-2021-10-12-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4168376/",
+            "filename": "folge-9-2021-10-12-00-00-00"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Folge 9",
+        "text": "Staffel 3, Folge 9 | ORIGINAL",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-3/episode-9-folge-9-2021-10-12-00-00-00-4168376",
+        "videoId": 4168376
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17742,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/prince-charming-17742/staffel-3/episode-10-folge-10-2021-10-19-00-00-00-4170692"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prince Charming",
+          "teaserId": "show_episode_4170692",
+          "teaserName": "Prince Charming | Staffel 3 | Folge 10 | Folge 10",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reality",
+          "cluster": [
+            "Dating",
+            "Guilty Pleasure"
+          ],
+          "classification": [
+            "Original",
+            "Vor TV-Start",
+            "Exclusive"
+          ],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 10",
+          "teaserEpisodeAirtime": "ORIGINAL",
+          "teaserEpisodeName": "Folge 10"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 10",
+        "id": 4170692,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4170692/300x0/folge-10-2021-10-19-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4170692/",
+            "filename": "folge-10-2021-10-19-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4170692/600x0/folge-10-2021-10-19-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4170692/",
+            "filename": "folge-10-2021-10-19-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4170692/1200x0/folge-10-2021-10-19-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4170692/",
+            "filename": "folge-10-2021-10-19-00-00-00"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4170692/300x0/folge-10-2021-10-19-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4170692/",
+            "filename": "folge-10-2021-10-19-00-00-00"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4170692/600x0/folge-10-2021-10-19-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4170692/",
+            "filename": "folge-10-2021-10-19-00-00-00"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4170692/1200x0/folge-10-2021-10-19-00-00-00.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4170692/",
+            "filename": "folge-10-2021-10-19-00-00-00"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prince-charming",
+        "subheadline": "Folge 10",
+        "text": "Staffel 3, Folge 10 | ORIGINAL",
+        "type": "show",
+        "url": "/shows/prince-charming-17742/staffel-3/episode-10-folge-10-2021-10-19-00-00-00-4170692",
+        "videoId": 4170692
+      }
+    ],
+    "format_navigation": {
+      "season": 3
     },
     "navigationType": "season"
   }

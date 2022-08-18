@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20785",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20785,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/die-grosse-sause-20785"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die große Sause",
+          "teaserId": "film_4852505",
+          "teaserName": "Die große Sause | Die große Sause",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Die große Sause"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die große Sause",
+        "id": 4852505,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852505/300x0/die-grosse-sause.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852505/",
+            "filename": "die-grosse-sause"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852505/600x0/die-grosse-sause.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852505/",
+            "filename": "die-grosse-sause"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852505/1200x0/die-grosse-sause.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852505/",
+            "filename": "die-grosse-sause"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852505/300x0/die-grosse-sause.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852505/",
+            "filename": "die-grosse-sause"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852505/600x0/die-grosse-sause.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852505/",
+            "filename": "die-grosse-sause"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852505/1200x0/die-grosse-sause.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852505/",
+            "filename": "die-grosse-sause"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-grosse-sause",
+        "subheadline": "Die große Sause",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/die-grosse-sause-20785",
+        "videoId": 4852505
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

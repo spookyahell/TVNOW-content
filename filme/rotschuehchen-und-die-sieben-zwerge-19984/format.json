@@ -1,0 +1,242 @@
+﻿{
+  "formatId": 19984,
+  "additionalMeta": {
+    "canonical": "/filme/rotschuehchen-und-die-sieben-zwerge-19984",
+    "url": "/filme/rotschuehchen-und-die-sieben-zwerge-19984"
+  },
+  "ads": {
+    "station": "superrtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Rotschühchen und die sieben Zwerge",
+      "url": "/filme/rotschuehchen-und-die-sieben-zwerge-19984"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19984,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Rotschühchen und die sieben Zwerge 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Rotschühchen und die sieben Zwerge im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Rotschühchen und die sieben Zwerge 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/rotschuehchen-und-die-sieben-zwerge-19984"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4169376/1600x0/rotschuehchen-und-die-sieben-zwerge.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4169376,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4169376",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19984"
+    },
+    {
+      "id": 19984,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19984",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_srnfilme",
+      "video": "dvrsowf_ten_srnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/super_rtl_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "super_rtl_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Action und Abenteuer",
+      "KIDS Jungs",
+      "KIDS Mädchen",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Rotschühchen und die sieben Zwerge - Alle Informationen zum Film",
+    "text": "Schneewittchens Vater ist plötzlich wie vom Erdboden verschluckt! Als sie sich auf die Suche nach ihm machen will, nimmt sie versehentlich die roten Zauberschuhe ihrer bösen Stiefmutter Regina mit. Diese verwandeln ihre Trägerin in eine wunderschöne Prinzessin. Auf ihrem Weg begegnet sie außerdem sieben grünen Zwergen, die mit einem Fluch belegt wurden.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/rotschuehchen-und-die-sieben-zwerge-19984",
+        "description": "Schneewittchens Vater ist plötzlich wie vom Erdboden verschluckt! Als sie sich auf die Suche nach ihm machen will, nimmt sie versehentlich die roten Zauberschuhe ihrer bösen Stiefmutter Regina mit. Diese verwandeln ihre Trägerin in eine wunderschöne Prinzessin. Auf ihrem Weg begegnet sie außerdem sieben grünen Zwergen, die mit einem Fluch belegt wurden.",
+        "duration": "PT1H28M33S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4169376/1200x0/rotschuehchen-und-die-sieben-zwerge.jpg",
+        "name": "Rotschühchen und die sieben Zwerge",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/rotschuehchen-und-die-sieben-zwerge-19984",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-10-15T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=rotschuehchen-und-die-sieben-zwerge-19984",
+              "sameAs": "%s/premium?typ=format&formatname=rotschuehchen-und-die-sieben-zwerge-19984",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/rotschuehchen-und-die-sieben-zwerge-19984",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Schneewittchens Vater ist plötzlich wie vom Erdboden verschluckt! Als sie sich auf die Suche nach ihm machen will, nimmt sie versehentlich die roten Zauberschuhe ihrer bösen Stiefmutter Regina mit. Diese verwandeln ihre Trägerin in eine wunderschöne Prinzessin. Auf ihrem Weg begegnet sie außerdem sieben grünen Zwergen, die mit einem Fluch belegt wurden.",
+          "duration": "PT1H28M33S",
+          "embedUrl": "%s/googlebot/player/filme/rotschuehchen-und-die-sieben-zwerge-19984",
+          "name": "Rotschühchen und die sieben Zwerge",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4169376/1200x0/rotschuehchen-und-die-sieben-zwerge.jpg",
+          "uploadDate": "2021-10-15T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Rotschühchen und die sieben Zwerge im Online Stream | RTL+",
+        "headline": "Rotschühchen und die sieben Zwerge im Online Stream | RTL+",
+        "description": "Rotschühchen und die sieben Zwerge und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/rotschuehchen-und-die-sieben-zwerge-19984",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4169376/1200x0/rotschuehchen-und-die-sieben-zwerge.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4169376/1200x0/rotschuehchen-und-die-sieben-zwerge.jpg",
+        "datePublished": "2021-10-15T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4169376/1200x0/rotschuehchen-und-die-sieben-zwerge.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rotschühchen und die sieben Zwerge",
+            "item": "%s/filme/rotschuehchen-und-die-sieben-zwerge-19984"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Rotschühchen und die sieben Zwerge im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

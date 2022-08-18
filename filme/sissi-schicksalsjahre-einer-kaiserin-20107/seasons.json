@@ -1,0 +1,109 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20107",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20107,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/sissi-schicksalsjahre-einer-kaiserin-20107"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sissi - Schicksalsjahre einer Kaiserin",
+          "teaserId": "film_4317910",
+          "teaserName": "Sissi - Schicksalsjahre einer Kaiserin | Sissi - Schicksalsjahre einer Kaiserin",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [
+            "FILME Female",
+            "History Fiction",
+            "History"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Sissi - Schicksalsjahre einer Kaiserin"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Sissi - Schicksalsjahre einer Kaiserin",
+        "id": 4317910,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4317910/300x0/sissi-schicksalsjahre-einer-kaiserin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4317910/",
+            "filename": "sissi-schicksalsjahre-einer-kaiserin"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4317910/600x0/sissi-schicksalsjahre-einer-kaiserin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4317910/",
+            "filename": "sissi-schicksalsjahre-einer-kaiserin"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4317910/1200x0/sissi-schicksalsjahre-einer-kaiserin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4317910/",
+            "filename": "sissi-schicksalsjahre-einer-kaiserin"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4317910/300x0/sissi-schicksalsjahre-einer-kaiserin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4317910/",
+            "filename": "sissi-schicksalsjahre-einer-kaiserin"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4317910/600x0/sissi-schicksalsjahre-einer-kaiserin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4317910/",
+            "filename": "sissi-schicksalsjahre-einer-kaiserin"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4317910/1200x0/sissi-schicksalsjahre-einer-kaiserin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4317910/",
+            "filename": "sissi-schicksalsjahre-einer-kaiserin"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sissi-schicksalsjahre-einer-kaiserin",
+        "subheadline": "Sissi - Schicksalsjahre einer Kaiserin",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/sissi-schicksalsjahre-einer-kaiserin-20107",
+        "videoId": 4317910
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

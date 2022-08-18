@@ -1,0 +1,202 @@
+﻿{
+  "formatId": 20930,
+  "additionalMeta": {
+    "canonical": "/shows/40-jahre-supernasen-mit-mike-krueger-thomas-gottschalk-20930",
+    "url": "/shows/40-jahre-supernasen-mit-mike-krueger-thomas-gottschalk-20930"
+  },
+  "ads": {
+    "station": "rtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "40 Jahre Supernasen - Mit Mike Krüger & Thomas Gottschalk",
+      "url": "/shows/40-jahre-supernasen-mit-mike-krueger-thomas-gottschalk-20930"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 20930,
+  "meta": [
+    {
+      "content": "Die Show ▶ 40 Jahre Supernasen - Mit Mike Krüger & Thomas Gottschalk (RTL) streamen & weitere Highlights aus dem Genre 📺 Comedy im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "40 Jahre Supernasen - Mit Mike Krüger & Thomas Gottschalk im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ 40 Jahre Supernasen - Mit Mike Krüger & Thomas Gottschalk (RTL) streamen & weitere Highlights aus dem Genre 📺 Comedy im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/shows/40-jahre-supernasen-mit-mike-krueger-thomas-gottschalk-20930"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/20930_03artwork/1600x0/40-jahre-supernasen-mit-mike-krueger-thomas-gottschalk.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/20930",
+      "type": "teaserrow"
+    },
+    {
+      "id": 20930,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20930",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rn40jahresupernasen",
+      "video": "dvrsowf_ten_rn40jahresupernasen",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_now/formate/40_jahre_supernasen/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_now",
+        "formate",
+        "40_jahre_supernasen",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/shows/40-jahre-supernasen-mit-mike-krueger-thomas-gottschalk-20930",
+        "url": "%s/shows/40-jahre-supernasen-mit-mike-krueger-thomas-gottschalk-20930",
+        "name": "40 Jahre Supernasen - Mit Mike Krüger & Thomas Gottschalk",
+        "description": "Die Show ▶ 40 Jahre Supernasen - Mit Mike Krüger & Thomas Gottschalk (RTL) streamen & weitere Highlights aus dem Genre 📺 Comedy im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/20930_04metalogo/1200x0/40-jahre-supernasen-mit-mike-krueger-thomas-gottschalk.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "",
+        "headline": "",
+        "description": "Die Show ▶ 40 Jahre Supernasen - Mit Mike Krüger & Thomas Gottschalk (RTL) streamen & weitere Highlights aus dem Genre 📺 Comedy im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "url": "%s/shows/40-jahre-supernasen-mit-mike-krueger-thomas-gottschalk-20930",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/20930_04metalogo/1200x0/40-jahre-supernasen-mit-mike-krueger-thomas-gottschalk.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/20930_04metalogo/1200x0/40-jahre-supernasen-mit-mike-krueger-thomas-gottschalk.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/20930_04metalogo/1200x0/40-jahre-supernasen-mit-mike-krueger-thomas-gottschalk.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "%s/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "40 Jahre Supernasen - Mit Mike Krüger & Thomas Gottschalk",
+            "item": "%s/shows/40-jahre-supernasen-mit-mike-krueger-thomas-gottschalk-20930"
+          }
+        ]
+      }
+    }
+  },
+  "title": "40 Jahre Supernasen - Mit Mike Krüger & Thomas Gottschalk im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20172",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20172,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/wildes-eden-russland-20172"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wildes Eden: Russland",
+          "teaserId": "film_4323489",
+          "teaserName": "Wildes Eden: Russland | Wildes Eden: Russland",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "GEO WILD",
+          "teaserEpisodeName": "Wildes Eden: Russland"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wildes Eden: Russland",
+        "id": 4323489,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323489/300x0/wildes-eden-russland.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323489/",
+            "filename": "wildes-eden-russland"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323489/600x0/wildes-eden-russland.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323489/",
+            "filename": "wildes-eden-russland"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323489/1200x0/wildes-eden-russland.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323489/",
+            "filename": "wildes-eden-russland"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323489/300x0/wildes-eden-russland.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323489/",
+            "filename": "wildes-eden-russland"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323489/600x0/wildes-eden-russland.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323489/",
+            "filename": "wildes-eden-russland"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323489/1200x0/wildes-eden-russland.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323489/",
+            "filename": "wildes-eden-russland"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wildes-eden-russland",
+        "subheadline": "Wildes Eden: Russland",
+        "text": "Staffel  | GEO WILD",
+        "type": "film",
+        "url": "/filme/wildes-eden-russland-20172",
+        "videoId": 4323489
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

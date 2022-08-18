@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19375,
+  "additionalMeta": {
+    "canonical": "/filme/fahr-zur-hoelle-schwester-19375",
+    "url": "/filme/fahr-zur-hoelle-schwester-19375"
+  },
+  "ads": {
+    "station": "passion",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Fahr zur Hölle, Schwester!",
+      "url": "/filme/fahr-zur-hoelle-schwester-19375"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19375,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Fahr zur Hölle, Schwester! 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Fahr zur Hölle, Schwester! im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Fahr zur Hölle, Schwester! 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/fahr-zur-hoelle-schwester-19375"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3901702/1600x0/fahr-zur-hoelle-schwester.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3901702,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3901702",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19375"
+    },
+    {
+      "id": 19375,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19375",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/passion_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "passion_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Fahr zur Hölle, Schwester!",
+    "text": "Die Schwestern Claire und Rita Krug sind seit frühester Kindheit erbarmungslose Rivalinnen um die Gunst ihrer Mutter. Claire, durch einen tragischen Unfall schon früh an den Rollstuhl gefesselt, flieht - kaum erwachsen - vor der bedrückenden Atmosphäre im Elternhaus in ein neues Leben als Architektin in Israel. Den Kontakt zur Familie bricht sie radikal ab.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/fahr-zur-hoelle-schwester-19375",
+        "description": "Die Schwestern Claire und Rita Krug sind seit frühester Kindheit erbarmungslose Rivalinnen um die Gunst ihrer Mutter. Claire, durch einen tragischen Unfall schon früh an den Rollstuhl gefesselt, flieht - kaum erwachsen - vor der bedrückenden Atmosphäre im Elternhaus in ein neues Leben als Architektin in Israel. Den Kontakt zur Familie bricht sie radikal ab.",
+        "duration": "PT1H29M42S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3901702/1200x0/fahr-zur-hoelle-schwester.jpg",
+        "name": "Fahr zur Hölle, Schwester!",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/fahr-zur-hoelle-schwester-19375",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-01-09T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=fahr-zur-hoelle-schwester-19375",
+              "sameAs": "%s/premium?typ=format&formatname=fahr-zur-hoelle-schwester-19375",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/fahr-zur-hoelle-schwester-19375",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die Schwestern Claire und Rita Krug sind seit frühester Kindheit erbarmungslose Rivalinnen um die Gunst ihrer Mutter. Claire, durch einen tragischen Unfall schon früh an den Rollstuhl gefesselt, flieht - kaum erwachsen - vor der bedrückenden Atmosphäre im Elternhaus in ein neues Leben als Architektin in Israel. Den Kontakt zur Familie bricht sie radikal ab.",
+          "duration": "PT1H29M42S",
+          "embedUrl": "%s/googlebot/player/filme/fahr-zur-hoelle-schwester-19375",
+          "name": "Fahr zur Hölle, Schwester!",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3901702/1200x0/fahr-zur-hoelle-schwester.jpg",
+          "uploadDate": "2021-01-09T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Fahr zur Hölle, Schwester! im Online Stream | RTL+",
+        "headline": "Fahr zur Hölle, Schwester! im Online Stream | RTL+",
+        "description": "Fahr zur Hölle, Schwester! und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+. Ein Film mit ▶️Iris Berben, Hannelore Elsner, Anton Rattinger, Swetlana Schönfeld, Eva Hassmann, Wolfgang Joop, Claudia Geisler, Catherine Flemming, Sarah Baur, Viola Lucia Berendt.",
+        "url": "%s/filme/fahr-zur-hoelle-schwester-19375",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3901702/1200x0/fahr-zur-hoelle-schwester.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3901702/1200x0/fahr-zur-hoelle-schwester.jpg",
+        "datePublished": "2021-01-09T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3901702/1200x0/fahr-zur-hoelle-schwester.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Fahr zur Hölle, Schwester!",
+            "item": "%s/filme/fahr-zur-hoelle-schwester-19375"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Fahr zur Hölle, Schwester! im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

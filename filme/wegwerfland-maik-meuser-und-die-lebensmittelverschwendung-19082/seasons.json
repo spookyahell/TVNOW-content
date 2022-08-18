@@ -21,7 +21,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/filme/wegwerfland-maik-meuser-und-die-lebensmittel-verschwendung-19082"
           }
@@ -30,13 +30,15 @@
           "teaserFormatName": "Wegwerfland - Maik Meuser und die Lebensmittel-Verschwendung",
           "teaserId": "film_3380725",
           "teaserName": "Wegwerfland - Maik Meuser und die Lebensmittel-Verschwendung | Wegwerfland - Maik Meuser und die Lebensmittel-Verschwendung",
-          "teaserPayType": "free",
+          "teaserPayType": "paid",
           "teaserType": "film",
           "teaserGenre": "Dokumentation",
           "cluster": [
             "Wissen"
           ],
-          "classification": []
+          "classification": [],
+          "teaserEpisodeAirtime": "Fr. 11.09.2020, 00:00 Uhr",
+          "teaserEpisodeName": "Wegwerfland - Maik Meuser und die Lebensmittel-Verschwendung"
         },
         "fsk": {
           "isVisible": false,
@@ -85,7 +87,7 @@
             "filename": "wegwerfland-maik-meuser-und-die-lebensmittel-verschwendung"
           }
         ],
-        "isPremium": false,
+        "isPremium": true,
         "overlays": [
           "premium"
         ],

@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20511",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20511,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/der-geilste-tag-20511"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der geilste Tag",
+          "teaserId": "film_4785467",
+          "teaserName": "Der geilste Tag | Der geilste Tag",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Der geilste Tag"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der geilste Tag",
+        "id": 4785467,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785467/300x0/der-geilste-tag.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785467/",
+            "filename": "der-geilste-tag"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785467/600x0/der-geilste-tag.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785467/",
+            "filename": "der-geilste-tag"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785467/1200x0/der-geilste-tag.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785467/",
+            "filename": "der-geilste-tag"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785467/300x0/der-geilste-tag.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785467/",
+            "filename": "der-geilste-tag"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785467/600x0/der-geilste-tag.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785467/",
+            "filename": "der-geilste-tag"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785467/1200x0/der-geilste-tag.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785467/",
+            "filename": "der-geilste-tag"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-geilste-tag",
+        "subheadline": "Der geilste Tag",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/der-geilste-tag-20511",
+        "videoId": 4785467
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

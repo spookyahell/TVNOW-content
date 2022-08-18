@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20149",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20149,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/hope-ranch-20149"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Hope Ranch",
+          "teaserId": "film_4261203",
+          "teaserName": "Hope Ranch | Hope Ranch",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [
+            "FILME Female"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "Mi. 01.12.2021, 00:00 Uhr",
+          "teaserEpisodeName": "Hope Ranch"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Hope Ranch",
+        "id": 4261203,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4261203/300x0/hope-ranch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4261203/",
+            "filename": "hope-ranch"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4261203/600x0/hope-ranch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4261203/",
+            "filename": "hope-ranch"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4261203/1200x0/hope-ranch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4261203/",
+            "filename": "hope-ranch"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4261203/300x0/hope-ranch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4261203/",
+            "filename": "hope-ranch"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4261203/600x0/hope-ranch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4261203/",
+            "filename": "hope-ranch"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4261203/1200x0/hope-ranch.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4261203/",
+            "filename": "hope-ranch"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "hope-ranch",
+        "subheadline": "Hope Ranch",
+        "text": "Staffel  | Mi. 01.12.2021, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/hope-ranch-20149",
+        "videoId": 4261203
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

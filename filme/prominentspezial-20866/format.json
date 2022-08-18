@@ -1,0 +1,233 @@
+﻿{
+  "formatId": 20866,
+  "additionalMeta": {
+    "canonical": "/filme/prominentspezial-20866",
+    "url": "/filme/prominentspezial-20866"
+  },
+  "ads": {
+    "station": "vox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Prominent! Spezial - Guido Maria Kretschmer ",
+      "url": "/filme/prominentspezial-20866"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20866,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Prominent! Spezial - Guido Maria Kretschmer  📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Prominent! Spezial - Guido Maria Kretschmer  im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Prominent! Spezial - Guido Maria Kretschmer  📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/prominentspezial-20866"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4866859/1600x0/prominent-spezial-guido-maria-kretschmer.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4866859,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4866859",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20866"
+    },
+    {
+      "id": 20866,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20866",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_vnsendungen",
+      "video": "dvrsowf_ten_vnsendungen",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/formate/home",
+      "levels": [
+        "tv_now_de",
+        "formate",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Prominent! Spezial - Guido Maria Kretschmer - Informationen zur Serien ",
+    "text": "Er ist Mode-Macher, TV-Star, Autor. Doch wie ist \"Shopping Queen\"-Experte Guido Maria Kretschmer privat, woher kommt er, welche Menschen haben ihn geprägt und welche Pläne hat er für die Zukunft? \"Prominent!\" hat den 57-Jährigen ein Jahr lang hautnah begleitet und gewährt exklusive Einblicke in sein Atelier zu Hause in Hamburg. Gemeinsam mit seiner Schwester Gudrun kehrt Guido in seine Heimat im Münsterland zurück.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/prominent-spezial-guido-maria-kretschmer-20866",
+        "description": "Er ist Mode-Macher, TV-Star, Autor. Doch wie ist \"Shopping Queen\"-Experte Guido Maria Kretschmer privat, woher kommt er, welche Menschen haben ihn geprägt und welche Pläne hat er für die Zukunft? \"Prominent!\" hat den 57-Jährigen ein Jahr lang hautnah begleitet und gewährt exklusive Einblicke in sein Atelier zu Hause in Hamburg. Gemeinsam mit seiner Schwester Gudrun kehrt Guido in seine Heimat im Münsterland zurück.",
+        "duration": "PT59M29S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4866859/1200x0/prominentspezial.jpg",
+        "name": "Prominent! Spezial - Guido Maria Kretschmer ",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/prominent-spezial-guido-maria-kretschmer-20866",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-17T23:30:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=prominentspezial-20866",
+              "sameAs": "%s/premium?typ=format&formatname=prominentspezial-20866",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/prominent-spezial-guido-maria-kretschmer-20866",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Er ist Mode-Macher, TV-Star, Autor. Doch wie ist \"Shopping Queen\"-Experte Guido Maria Kretschmer privat, woher kommt er, welche Menschen haben ihn geprägt und welche Pläne hat er für die Zukunft? \"Prominent!\" hat den 57-Jährigen ein Jahr lang hautnah begleitet und gewährt exklusive Einblicke in sein Atelier zu Hause in Hamburg. Gemeinsam mit seiner Schwester Gudrun kehrt Guido in seine Heimat im Münsterland zurück.",
+          "duration": "PT59M29S",
+          "embedUrl": "%s/googlebot/player/filme/prominent-spezial-guido-maria-kretschmer-20866",
+          "name": "Prominent! Spezial - Guido Maria Kretschmer ",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4866859/1200x0/prominentspezial.jpg",
+          "uploadDate": "2022-07-17T23:30:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Prominent! Spezial - Guido Maria Kretschmer  im Online Stream | RTL+",
+        "headline": "Prominent! Spezial - Guido Maria Kretschmer  im Online Stream | RTL+",
+        "description": "Prominent! Spezial - Guido Maria Kretschmer  und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/prominent-spezial-guido-maria-kretschmer-20866",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4866859/1200x0/prominentspezial.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4866859/1200x0/prominentspezial.jpg",
+        "datePublished": "2022-07-17T23:30:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4866859/1200x0/prominentspezial.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Prominent! Spezial - Guido Maria Kretschmer ",
+            "item": "%s/filme/prominentspezial-20866"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Prominent! Spezial - Guido Maria Kretschmer  im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

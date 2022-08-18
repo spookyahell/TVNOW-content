@@ -1,0 +1,218 @@
+﻿{
+  "formatId": 20136,
+  "additionalMeta": {
+    "canonical": "/serien/verkauft-und-zugelassen-die-autohaendler-20136",
+    "url": "/serien/verkauft-und-zugelassen-die-autohaendler-20136"
+  },
+  "ads": {
+    "station": "nitro",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Verkauft & Zugelassen - Die Autohändler",
+      "url": "/serien/verkauft-und-zugelassen-die-autohaendler-20136"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 20136,
+  "meta": [
+    {
+      "content": "Die Serie Verkauft & Zugelassen - Die Autohändler (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Real Life im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Verkauft & Zugelassen - Die Autohändler im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Verkauft & Zugelassen - Die Autohändler (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Real Life im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/verkauft-und-zugelassen-die-autohaendler-20136"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/20136_03artwork/1600x0/verkauft-und-zugelassen-die-autohaendler.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/20136",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/20136",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/20136",
+      "type": "teaserrow"
+    },
+    {
+      "id": 20136,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20136",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rnnverkauftzugelassen",
+      "video": "dvrsowf_ten_rnnverkauftzugelassen",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_nitro_now/formate/verkauft_zugelassen/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_nitro_now",
+        "formate",
+        "verkauft_zugelassen",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Real Life",
+    "cluster": [
+      "Auto"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Verkauft & Zugelassen - Die Autohändler - Informationen zur Serie",
+    "text": "Deine Lieblings-Serie ist Verkauft & Zugelassen - Die Autohändler? Kein Problem, auf RTL+ kannst Du sie Dir im Stream anschauen! Egal ob auf Reisen oder von zu Hause aus – mit unserer Vielzahl von Shows vergeht die Zeit wie im Flug! Einfach auswählen, zurücklehnen und Deine Lieblings-Show online auf RTL+ genießen.",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/verkauft-und-zugelassen-die-autohaendler-20136",
+        "url": "%s/serien/verkauft-und-zugelassen-die-autohaendler-20136",
+        "name": "Verkauft & Zugelassen - Die Autohändler",
+        "description": "Die Serie Verkauft & Zugelassen - Die Autohändler (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Real Life im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/20136_04metalogo/1200x0/verkauft-und-zugelassen-die-autohaendler.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Verkauft & Zugelassen - Die Autohändler - Informationen zur Serie",
+        "headline": "Verkauft & Zugelassen - Die Autohändler - Informationen zur Serie",
+        "description": "Die Serie Verkauft & Zugelassen - Die Autohändler (NITRO) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Real Life im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/verkauft-und-zugelassen-die-autohaendler-20136",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/20136_04metalogo/1200x0/verkauft-und-zugelassen-die-autohaendler.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/20136_04metalogo/1200x0/verkauft-und-zugelassen-die-autohaendler.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/20136_04metalogo/1200x0/verkauft-und-zugelassen-die-autohaendler.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Verkauft & Zugelassen - Die Autohändler",
+            "item": "%s/serien/verkauft-und-zugelassen-die-autohaendler-20136"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Verkauft & Zugelassen - Die Autohändler im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

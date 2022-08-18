@@ -1,0 +1,231 @@
+﻿{
+  "formatId": 20291,
+  "additionalMeta": {
+    "canonical": "/filme/von-katze-bis-kaiman-der-supermarkt-der-tiere-20291",
+    "url": "/filme/von-katze-bis-kaiman-der-supermarkt-der-tiere-20291"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Von Katze bis Kaiman - Der Supermarkt der Tiere",
+      "url": "/filme/von-katze-bis-kaiman-der-supermarkt-der-tiere-20291"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 20291,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Von Katze bis Kaiman - Der Supermarkt der Tiere 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Von Katze bis Kaiman - Der Supermarkt der Tiere im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Von Katze bis Kaiman - Der Supermarkt der Tiere 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/von-katze-bis-kaiman-der-supermarkt-der-tiere-20291"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4344485/1600x0/von-katze-bis-kaiman-der-supermarkt-der-tiere.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4344485,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4344485",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20291"
+    },
+    {
+      "id": 20291,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20291",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Wissen"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Von Katze bis Kaiman - Der Supermarkt der Tiere",
+    "text": "15 Millionen Hauskatzen, 10 Millionen Hunde - dazu unzählige Nager, Fische, Vögel und Exoten: Die Nachfrage nach Heimtieren ist enorm. Dabei werden Milliarden Euro umgesetzt. Neben seriösen Zoofachgeschäften und Züchtern boomt aber auch der Schwarzmarkt. Die Dokumentation zeigt, wie durch die Liebe zum Haustier ein milliardenschwerer Markt entstanden ist - und wie skrupellose Tierhändler auf Kosten der Tiere Geld verdienen.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/von-katze-bis-kaiman-der-supermarkt-der-tiere-20291",
+        "description": "15 Millionen Hauskatzen, 10 Millionen Hunde - dazu unzählige Nager, Fische, Vögel und Exoten: Die Nachfrage nach Heimtieren ist enorm. Dabei werden Milliarden Euro umgesetzt. Neben seriösen Zoofachgeschäften und Züchtern boomt aber auch der Schwarzmarkt. Die Dokumentation zeigt, wie durch die Liebe zum Haustier ein milliardenschwerer Markt entstanden ist - und wie skrupellose Tierhändler auf Kosten der Tiere Geld verdienen.",
+        "duration": "PT40M42S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4344485/1200x0/von-katze-bis-kaiman-der-supermarkt-der-tiere.jpg",
+        "name": "Von Katze bis Kaiman - Der Supermarkt der Tiere",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/von-katze-bis-kaiman-der-supermarkt-der-tiere-20291",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2021-12-26T10:10:00.000Z"
+          }
+        },
+        "url": "%s/filme/von-katze-bis-kaiman-der-supermarkt-der-tiere-20291",
+        "video": {
+          "@type": "VideoObject",
+          "description": "15 Millionen Hauskatzen, 10 Millionen Hunde - dazu unzählige Nager, Fische, Vögel und Exoten: Die Nachfrage nach Heimtieren ist enorm. Dabei werden Milliarden Euro umgesetzt. Neben seriösen Zoofachgeschäften und Züchtern boomt aber auch der Schwarzmarkt. Die Dokumentation zeigt, wie durch die Liebe zum Haustier ein milliardenschwerer Markt entstanden ist - und wie skrupellose Tierhändler auf Kosten der Tiere Geld verdienen.",
+          "duration": "PT40M42S",
+          "embedUrl": "%s/googlebot/player/filme/von-katze-bis-kaiman-der-supermarkt-der-tiere-20291",
+          "name": "Von Katze bis Kaiman - Der Supermarkt der Tiere",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4344485/1200x0/von-katze-bis-kaiman-der-supermarkt-der-tiere.jpg",
+          "uploadDate": "2021-12-26T10:10:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Von Katze bis Kaiman - Der Supermarkt der Tiere im Online Stream | RTL+",
+        "headline": "Von Katze bis Kaiman - Der Supermarkt der Tiere im Online Stream | RTL+",
+        "description": "Von Katze bis Kaiman - Der Supermarkt der Tiere und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/von-katze-bis-kaiman-der-supermarkt-der-tiere-20291",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4344485/1200x0/von-katze-bis-kaiman-der-supermarkt-der-tiere.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4344485/1200x0/von-katze-bis-kaiman-der-supermarkt-der-tiere.jpg",
+        "datePublished": "2021-12-26T10:10:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4344485/1200x0/von-katze-bis-kaiman-der-supermarkt-der-tiere.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Von Katze bis Kaiman - Der Supermarkt der Tiere",
+            "item": "%s/filme/von-katze-bis-kaiman-der-supermarkt-der-tiere-20291"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Von Katze bis Kaiman - Der Supermarkt der Tiere im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

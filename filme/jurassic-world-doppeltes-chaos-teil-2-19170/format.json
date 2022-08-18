@@ -1,0 +1,240 @@
+﻿{
+  "formatId": 19170,
+  "additionalMeta": {
+    "canonical": "/filme/jurassic-world-doppeltes-chaos-teil-2-19170",
+    "url": "/filme/jurassic-world-doppeltes-chaos-teil-2-19170"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Jurassic World -  Doppeltes Chaos - Teil 2",
+      "url": "/filme/jurassic-world-doppeltes-chaos-teil-2-19170"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19170,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Jurassic World -  Doppeltes Chaos - Teil 2 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Jurassic World -  Doppeltes Chaos - Teil 2 im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Jurassic World -  Doppeltes Chaos - Teil 2 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/jurassic-world-doppeltes-chaos-teil-2-19170"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3506046/1600x0/jurassic-world-doppeltes-chaos-2.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3506046,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3506046",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19170"
+    },
+    {
+      "id": 19170,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19170",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Jungs",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Jurassic World -  Doppeltes Chaos (2)",
+    "text": "Alle machen sich nun auf den Weg, die gestohlenen Dinosaurier-Eier zu suchen. Die Dinosaurier sind bereits geschlüpft und erweisen sich als besonders aggressiv. Als Claire, Sedrick, Simon und Dr. Wu Robbie und die Dinos gefunden haben, greifen diese die Vier sofort an. Simon fällt ein, dass Dr. Wu von einem hochentwickelten Geruchssinn der neuen Spezies erzählt hat und besprüht sie mit seinem Lufterfrischergas.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/jurassic-world-doppeltes-chaos-2-19170",
+        "description": "Alle machen sich nun auf den Weg, die gestohlenen Dinosaurier-Eier zu suchen. Die Dinosaurier sind bereits geschlüpft und erweisen sich als besonders aggressiv. Als Claire, Sedrick, Simon und Dr. Wu Robbie und die Dinos gefunden haben, greifen diese die Vier sofort an. Simon fällt ein, dass Dr. Wu von einem hochentwickelten Geruchssinn der neuen Spezies erzählt hat und besprüht sie mit seinem Lufterfrischergas.",
+        "duration": "PT21M6S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3506046/1200x0/jurassic-world-doppeltes-chaos-teil-2.jpg",
+        "name": "Jurassic World -  Doppeltes Chaos - Teil 2",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/jurassic-world-doppeltes-chaos-2-19170",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-10-18T03:35:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=jurassic-world-doppeltes-chaos-teil-2-19170",
+              "sameAs": "%s/premium?typ=format&formatname=jurassic-world-doppeltes-chaos-teil-2-19170",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/jurassic-world-doppeltes-chaos-2-19170",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Alle machen sich nun auf den Weg, die gestohlenen Dinosaurier-Eier zu suchen. Die Dinosaurier sind bereits geschlüpft und erweisen sich als besonders aggressiv. Als Claire, Sedrick, Simon und Dr. Wu Robbie und die Dinos gefunden haben, greifen diese die Vier sofort an. Simon fällt ein, dass Dr. Wu von einem hochentwickelten Geruchssinn der neuen Spezies erzählt hat und besprüht sie mit seinem Lufterfrischergas.",
+          "duration": "PT21M6S",
+          "embedUrl": "%s/googlebot/player/filme/jurassic-world-doppeltes-chaos-2-19170",
+          "name": "Jurassic World -  Doppeltes Chaos - Teil 2",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3506046/1200x0/jurassic-world-doppeltes-chaos-teil-2.jpg",
+          "uploadDate": "2021-10-18T03:35:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Jurassic World -  Doppeltes Chaos - Teil 2 im Online Stream | RTL+",
+        "headline": "Jurassic World -  Doppeltes Chaos - Teil 2 im Online Stream | RTL+",
+        "description": "Jurassic World -  Doppeltes Chaos - Teil 2 und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/jurassic-world-doppeltes-chaos-2-19170",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3506046/1200x0/jurassic-world-doppeltes-chaos-teil-2.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3506046/1200x0/jurassic-world-doppeltes-chaos-teil-2.jpg",
+        "datePublished": "2021-10-18T03:35:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3506046/1200x0/jurassic-world-doppeltes-chaos-teil-2.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Jurassic World -  Doppeltes Chaos - Teil 2",
+            "item": "%s/filme/jurassic-world-doppeltes-chaos-teil-2-19170"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Jurassic World -  Doppeltes Chaos - Teil 2 im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

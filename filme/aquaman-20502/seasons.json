@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20502",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20502,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/aquaman-20502"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Aquaman",
+          "teaserId": "film_4777890",
+          "teaserName": "Aquaman | Aquaman",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "Fr. 01.04.2022, 00:00 Uhr",
+          "teaserEpisodeName": "Aquaman"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Aquaman",
+        "id": 4777890,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4777890/300x0/aquaman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4777890/",
+            "filename": "aquaman"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4777890/600x0/aquaman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4777890/",
+            "filename": "aquaman"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4777890/1200x0/aquaman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4777890/",
+            "filename": "aquaman"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4777890/300x0/aquaman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4777890/",
+            "filename": "aquaman"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4777890/600x0/aquaman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4777890/",
+            "filename": "aquaman"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4777890/1200x0/aquaman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4777890/",
+            "filename": "aquaman"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "aquaman",
+        "subheadline": "Aquaman",
+        "text": "Staffel  | Fr. 01.04.2022, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/aquaman-20502",
+        "videoId": 4777890
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

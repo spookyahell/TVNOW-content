@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20182,
+  "additionalMeta": {
+    "canonical": "/filme/blaue-welten-20182",
+    "url": "/filme/blaue-welten-20182"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Blaue Welten",
+      "url": "/filme/blaue-welten-20182"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20182,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Blaue Welten 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Blaue Welten im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Blaue Welten 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/blaue-welten-20182"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4323488/1600x0/blaue-welten.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4323488,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4323488",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20182"
+    },
+    {
+      "id": 20182,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20182",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnblauewelten",
+      "video": "dvrsowf_ten_tnblauewelten",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/blaue_welten/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "blaue_welten",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Tiere"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Blaue Welten",
+    "text": "Wie schlafen Wale im offenen Meer? Und können sich Fische mitten im Ozean verstecken? Um Fragen wie diesen auf den Grund zu gehen, begibt sich eine Filmcrew mit Hightech-Unterwasserkameras mitten auf den Atlantik. In zehn Metern Tiefe begegnen sie Barrakudas, Blauhaien und giftigen Portugiesischen Galeeren. Durchreisende, Stammgäste und Schiffswrackbewohner machen vor, wie ein Leben weit ab von Küsten und Inseln gelingt.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/blaue-welten-20182",
+        "description": "Wie schlafen Wale im offenen Meer? Und können sich Fische mitten im Ozean verstecken? Um Fragen wie diesen auf den Grund zu gehen, begibt sich eine Filmcrew mit Hightech-Unterwasserkameras mitten auf den Atlantik. In zehn Metern Tiefe begegnen sie Barrakudas, Blauhaien und giftigen Portugiesischen Galeeren. Durchreisende, Stammgäste und Schiffswrackbewohner machen vor, wie ein Leben weit ab von Küsten und Inseln gelingt.",
+        "duration": "PT48M5S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4323488/1200x0/blaue-welten.jpg",
+        "name": "Blaue Welten",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/blaue-welten-20182",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-12-14T00:01:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=blaue-welten-20182",
+              "sameAs": "%s/premium?typ=format&formatname=blaue-welten-20182",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/blaue-welten-20182",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Wie schlafen Wale im offenen Meer? Und können sich Fische mitten im Ozean verstecken? Um Fragen wie diesen auf den Grund zu gehen, begibt sich eine Filmcrew mit Hightech-Unterwasserkameras mitten auf den Atlantik. In zehn Metern Tiefe begegnen sie Barrakudas, Blauhaien und giftigen Portugiesischen Galeeren. Durchreisende, Stammgäste und Schiffswrackbewohner machen vor, wie ein Leben weit ab von Küsten und Inseln gelingt.",
+          "duration": "PT48M5S",
+          "embedUrl": "%s/googlebot/player/filme/blaue-welten-20182",
+          "name": "Blaue Welten",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323488/1200x0/blaue-welten.jpg",
+          "uploadDate": "2021-12-14T00:01:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Blaue Welten im Online Stream | RTL+",
+        "headline": "Blaue Welten im Online Stream | RTL+",
+        "description": "Blaue Welten und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+. Ein Film mit ▶️Stefan Naas.",
+        "url": "%s/filme/blaue-welten-20182",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4323488/1200x0/blaue-welten.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323488/1200x0/blaue-welten.jpg",
+        "datePublished": "2021-12-14T00:01:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4323488/1200x0/blaue-welten.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Blaue Welten",
+            "item": "%s/filme/blaue-welten-20182"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Blaue Welten im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

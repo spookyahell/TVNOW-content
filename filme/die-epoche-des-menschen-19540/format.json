@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19540,
+  "additionalMeta": {
+    "canonical": "/filme/die-epoche-des-menschen-19540",
+    "url": "/filme/die-epoche-des-menschen-19540"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die Epoche des Menschen",
+      "url": "/filme/die-epoche-des-menschen-19540"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19540,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Die Epoche des Menschen 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Epoche des Menschen im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Die Epoche des Menschen 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/die-epoche-des-menschen-19540"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3965278/1600x0/epoche-des-menschen-die.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3965278,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3965278",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19540"
+    },
+    {
+      "id": 19540,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19540",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Epoche des Menschen, Die",
+    "text": "Raubbau und Umweltverschmutzung - die Eingriffe des Menschen in natürliche Ökosysteme haben weltweit dramatische geologische, biologische und atmosphärische Folgen. Mittlerweile sind drei Viertel der Erdoberfläche dem Gestaltungsdrang der Menschheit unterworfen, die sich nun selbst in eine Naturgewalt verwandelt hat. Doch lässt sich dieser apokalyptisch anmutende Prozess überhaupt noch aufhalten? ",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/epoche-des-menschen-die-19540",
+        "description": "Raubbau und Umweltverschmutzung - die Eingriffe des Menschen in natürliche Ökosysteme haben weltweit dramatische geologische, biologische und atmosphärische Folgen. Mittlerweile sind drei Viertel der Erdoberfläche dem Gestaltungsdrang der Menschheit unterworfen, die sich nun selbst in eine Naturgewalt verwandelt hat. Doch lässt sich dieser apokalyptisch anmutende Prozess überhaupt noch aufhalten? ",
+        "duration": "PT1H23M13S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3965278/1200x0/die-epoche-des-menschen.jpg",
+        "name": "Die Epoche des Menschen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/epoche-des-menschen-die-19540",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-06-07T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=die-epoche-des-menschen-19540",
+              "sameAs": "%s/premium?typ=format&formatname=die-epoche-des-menschen-19540",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/epoche-des-menschen-die-19540",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Raubbau und Umweltverschmutzung - die Eingriffe des Menschen in natürliche Ökosysteme haben weltweit dramatische geologische, biologische und atmosphärische Folgen. Mittlerweile sind drei Viertel der Erdoberfläche dem Gestaltungsdrang der Menschheit unterworfen, die sich nun selbst in eine Naturgewalt verwandelt hat. Doch lässt sich dieser apokalyptisch anmutende Prozess überhaupt noch aufhalten? ",
+          "duration": "PT1H23M13S",
+          "embedUrl": "%s/googlebot/player/filme/epoche-des-menschen-die-19540",
+          "name": "Die Epoche des Menschen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3965278/1200x0/die-epoche-des-menschen.jpg",
+          "uploadDate": "2021-06-07T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Epoche des Menschen im Online Stream | RTL+",
+        "headline": "Die Epoche des Menschen im Online Stream | RTL+",
+        "description": "Die Epoche des Menschen und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/epoche-des-menschen-die-19540",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3965278/1200x0/die-epoche-des-menschen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3965278/1200x0/die-epoche-des-menschen.jpg",
+        "datePublished": "2021-06-07T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3965278/1200x0/die-epoche-des-menschen.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Epoche des Menschen",
+            "item": "%s/filme/die-epoche-des-menschen-19540"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Epoche des Menschen im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

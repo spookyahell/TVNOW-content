@@ -1,0 +1,202 @@
+﻿{
+  "formatId": 10678,
+  "additionalMeta": {
+    "canonical": "/serien/from-dusk-till-dawn-die-serie-10678",
+    "url": "/serien/from-dusk-till-dawn-die-serie-10678"
+  },
+  "ads": {
+    "station": "crime",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "From Dusk Till Dawn - Die Serie",
+      "url": "/serien/from-dusk-till-dawn-die-serie-10678"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 10678,
+  "meta": [
+    {
+      "content": "Die Serie From Dusk Till Dawn - Die Serie (RTL Crime) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Action im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "From Dusk Till Dawn, Vampire, Serie, RTL+, Horror, Splatter",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "From Dusk Till Dawn - Die Serie im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie From Dusk Till Dawn - Die Serie (RTL Crime) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Action im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/from-dusk-till-dawn-die-serie-10678"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/10678_03artwork/1600x0/from-dusk-till-dawn-die-serie.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/10678",
+      "type": "teaserrow"
+    },
+    {
+      "id": 10678,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/10678",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_cnrtlcrime",
+      "video": "dvrsowf_ten_cnrtlcrime",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/crime_now/formate/crime_format/home",
+      "levels": [
+        "tv_now_de",
+        "crime_now",
+        "formate",
+        "crime_format",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Action",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zur Serie: From Dusk Till Dawn - Die Serie",
+    "text": "From Dusk Till Dawn - Die Serie und viele weitere Serien kannst Du gemütlich online auf RTL+ im Stream anschauen. Also nichts wie los – hole das Knabberzeug raus und genieße Deine Serie ganz entspannt von unterwegs oder von zu Hause aus mit Freunden.",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/from-dusk-till-dawn-die-serie-10678",
+        "url": "%s/serien/from-dusk-till-dawn-die-serie-10678",
+        "name": "From Dusk Till Dawn - Die Serie",
+        "description": "Die Serie From Dusk Till Dawn - Die Serie (RTL Crime) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Action im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/10678_04metalogo/1200x0/from-dusk-till-dawn-die-serie.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Information zur Serie: From Dusk Till Dawn - Die Serie",
+        "headline": "Information zur Serie: From Dusk Till Dawn - Die Serie",
+        "description": "Die Serie From Dusk Till Dawn - Die Serie (RTL Crime) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Action im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/from-dusk-till-dawn-die-serie-10678",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/10678_04metalogo/1200x0/from-dusk-till-dawn-die-serie.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/10678_04metalogo/1200x0/from-dusk-till-dawn-die-serie.png",
+        "keywords": "From Dusk Till Dawn, Vampire, Serie, RTL+, Horror, Splatter",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/10678_04metalogo/1200x0/from-dusk-till-dawn-die-serie.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "From Dusk Till Dawn - Die Serie",
+            "item": "%s/serien/from-dusk-till-dawn-die-serie-10678"
+          }
+        ]
+      }
+    }
+  },
+  "title": "From Dusk Till Dawn - Die Serie im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20504",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20504,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/contagion-20504"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Contagion",
+          "teaserId": "film_4777755",
+          "teaserName": "Contagion | Contagion",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "Fr. 01.04.2022, 00:00 Uhr",
+          "teaserEpisodeName": "Contagion"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Contagion",
+        "id": 4777755,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4777755/300x0/contagion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4777755/",
+            "filename": "contagion"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4777755/600x0/contagion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4777755/",
+            "filename": "contagion"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4777755/1200x0/contagion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4777755/",
+            "filename": "contagion"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4777755/300x0/contagion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4777755/",
+            "filename": "contagion"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4777755/600x0/contagion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4777755/",
+            "filename": "contagion"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4777755/1200x0/contagion.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4777755/",
+            "filename": "contagion"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "contagion",
+        "subheadline": "Contagion",
+        "text": "Staffel  | Fr. 01.04.2022, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/contagion-20504",
+        "videoId": 4777755
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

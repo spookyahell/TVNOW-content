@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20724",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20724,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/tagebuch-einer-biene-20724"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Tagebuch einer Biene",
+          "teaserId": "film_4834249",
+          "teaserName": "Tagebuch einer Biene | Tagebuch einer Biene",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "GEO Wild",
+          "teaserEpisodeName": "Tagebuch einer Biene"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Tagebuch einer Biene",
+        "id": 4834249,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4834249/300x0/tagebuch-einer-biene.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4834249/",
+            "filename": "tagebuch-einer-biene"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4834249/600x0/tagebuch-einer-biene.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4834249/",
+            "filename": "tagebuch-einer-biene"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4834249/1200x0/tagebuch-einer-biene.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4834249/",
+            "filename": "tagebuch-einer-biene"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4834249/300x0/tagebuch-einer-biene.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4834249/",
+            "filename": "tagebuch-einer-biene"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4834249/600x0/tagebuch-einer-biene.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4834249/",
+            "filename": "tagebuch-einer-biene"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4834249/1200x0/tagebuch-einer-biene.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4834249/",
+            "filename": "tagebuch-einer-biene"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "tagebuch-einer-biene",
+        "subheadline": "Tagebuch einer Biene",
+        "text": "Staffel  | GEO Wild",
+        "type": "film",
+        "url": "/filme/tagebuch-einer-biene-20724",
+        "videoId": 4834249
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

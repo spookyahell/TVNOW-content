@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20508,
+  "additionalMeta": {
+    "canonical": "/filme/crazy-rich-20508",
+    "url": "/filme/crazy-rich-20508"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Crazy Rich",
+      "url": "/filme/crazy-rich-20508"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20508,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Crazy Rich 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Crazy Rich im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Crazy Rich 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/crazy-rich-20508"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4775925/1600x0/crazy-rich.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4775925,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4775925",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20508"
+    },
+    {
+      "id": 20508,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20508",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [
+      "FILME Female"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Crazy Rich",
+    "text": "Rachel begleitet ihren Freund Nick zur Hochzeit seines besten Freundes in Singapur. Dort soll Rachel Nicks Familie kennenlernen. Nick hat jedoch versäumt, ein paar wichtige Details über sein Leben zu erzählen: Er gehört nicht nur zu einer der reichsten Familien des Landes, er ist auch einer der begehrtesten Junggesellen. Das macht Rachel zur Zielscheibe. Bald wird klar, dass das Einzige, was noch verrückter ist als die Liebe, die Familie ist.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/crazy-rich-20508",
+        "description": "Rachel begleitet ihren Freund Nick zur Hochzeit seines besten Freundes in Singapur. Dort soll Rachel Nicks Familie kennenlernen. Nick hat jedoch versäumt, ein paar wichtige Details über sein Leben zu erzählen: Er gehört nicht nur zu einer der reichsten Familien des Landes, er ist auch einer der begehrtesten Junggesellen. Das macht Rachel zur Zielscheibe. Bald wird klar, dass das Einzige, was noch verrückter ist als die Liebe, die Familie ist.",
+        "duration": "PT1H56M4S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4775925/1200x0/crazy-rich.jpg",
+        "name": "Crazy Rich",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/crazy-rich-20508",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=crazy-rich-20508",
+              "sameAs": "%s/premium?typ=format&formatname=crazy-rich-20508",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/crazy-rich-20508",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Rachel begleitet ihren Freund Nick zur Hochzeit seines besten Freundes in Singapur. Dort soll Rachel Nicks Familie kennenlernen. Nick hat jedoch versäumt, ein paar wichtige Details über sein Leben zu erzählen: Er gehört nicht nur zu einer der reichsten Familien des Landes, er ist auch einer der begehrtesten Junggesellen. Das macht Rachel zur Zielscheibe. Bald wird klar, dass das Einzige, was noch verrückter ist als die Liebe, die Familie ist.",
+          "duration": "PT1H56M4S",
+          "embedUrl": "%s/googlebot/player/filme/crazy-rich-20508",
+          "name": "Crazy Rich",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4775925/1200x0/crazy-rich.jpg",
+          "uploadDate": "2022-04-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Crazy Rich im Online Stream | RTL+",
+        "headline": "Crazy Rich im Online Stream | RTL+",
+        "description": "Crazy Rich und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei RTL+. Ein Film mit ▶️Constance Wu, Henry Golding, Michelle Yeoh.",
+        "url": "%s/filme/crazy-rich-20508",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4775925/1200x0/crazy-rich.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4775925/1200x0/crazy-rich.jpg",
+        "datePublished": "2022-04-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4775925/1200x0/crazy-rich.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Crazy Rich",
+            "item": "%s/filme/crazy-rich-20508"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Crazy Rich im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

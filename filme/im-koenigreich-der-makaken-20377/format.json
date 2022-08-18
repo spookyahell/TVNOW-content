@@ -1,0 +1,233 @@
+﻿{
+  "formatId": 20377,
+  "additionalMeta": {
+    "canonical": "/filme/im-koenigreich-der-makaken-20377",
+    "url": "/filme/im-koenigreich-der-makaken-20377"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Im Königreich der Makaken",
+      "url": "/filme/im-koenigreich-der-makaken-20377"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20377,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Im Königreich der Makaken 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Im Königreich der Makaken im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Im Königreich der Makaken 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/im-koenigreich-der-makaken-20377"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4442915/1600x0/im-koenigreich-der-makaken.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4442915,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4442915",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20377"
+    },
+    {
+      "id": 20377,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20377",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/formate/home",
+      "levels": [
+        "tv_now_de",
+        "formate",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Im Königreich der Makaken",
+    "text": "Gedreht über 2 Jahre, begleitet der Dokumentarfilm 60 Stumpfschwanzmakaken, die auf einem abgelegenen Berggipfel im Süden Thailands Zuflucht gefunden haben. Bello, das strenge, kampferprobte Oberhaupt einer der drei Familiengruppen, führt seinen Clan durch die harte Trockenzeit und Kontakt mit Mensch und Raubtier. Doch wie lange kann er seine Familie noch vor aggressiven jüngeren Rivalen schützen?",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/im-koenigreich-der-makaken-20377",
+        "description": "Gedreht über 2 Jahre, begleitet der Dokumentarfilm 60 Stumpfschwanzmakaken, die auf einem abgelegenen Berggipfel im Süden Thailands Zuflucht gefunden haben. Bello, das strenge, kampferprobte Oberhaupt einer der drei Familiengruppen, führt seinen Clan durch die harte Trockenzeit und Kontakt mit Mensch und Raubtier. Doch wie lange kann er seine Familie noch vor aggressiven jüngeren Rivalen schützen?",
+        "duration": "PT46M3S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4442915/1200x0/im-koenigreich-der-makaken.jpg",
+        "name": "Im Königreich der Makaken",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/im-koenigreich-der-makaken-20377",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-02-01T06:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=im-koenigreich-der-makaken-20377",
+              "sameAs": "%s/premium?typ=format&formatname=im-koenigreich-der-makaken-20377",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/im-koenigreich-der-makaken-20377",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Gedreht über 2 Jahre, begleitet der Dokumentarfilm 60 Stumpfschwanzmakaken, die auf einem abgelegenen Berggipfel im Süden Thailands Zuflucht gefunden haben. Bello, das strenge, kampferprobte Oberhaupt einer der drei Familiengruppen, führt seinen Clan durch die harte Trockenzeit und Kontakt mit Mensch und Raubtier. Doch wie lange kann er seine Familie noch vor aggressiven jüngeren Rivalen schützen?",
+          "duration": "PT46M3S",
+          "embedUrl": "%s/googlebot/player/filme/im-koenigreich-der-makaken-20377",
+          "name": "Im Königreich der Makaken",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4442915/1200x0/im-koenigreich-der-makaken.jpg",
+          "uploadDate": "2022-02-01T06:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Im Königreich der Makaken im Online Stream | RTL+",
+        "headline": "Im Königreich der Makaken im Online Stream | RTL+",
+        "description": "Im Königreich der Makaken und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/im-koenigreich-der-makaken-20377",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4442915/1200x0/im-koenigreich-der-makaken.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4442915/1200x0/im-koenigreich-der-makaken.jpg",
+        "datePublished": "2022-02-01T06:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4442915/1200x0/im-koenigreich-der-makaken.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Im Königreich der Makaken",
+            "item": "%s/filme/im-koenigreich-der-makaken-20377"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Im Königreich der Makaken im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

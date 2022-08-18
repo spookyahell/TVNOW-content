@@ -21,7 +21,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/filme/der-verlorene-respekt-ordnungshueter-in-gefahr-17819"
           }
@@ -30,11 +30,13 @@
           "teaserFormatName": "Der verlorene Respekt - Ordnungshüter in Gefahr",
           "teaserId": "film_1655556",
           "teaserName": "Der verlorene Respekt - Ordnungshüter in Gefahr | Der verlorene Respekt - Ordnungshüter in Gefahr",
-          "teaserPayType": "free",
+          "teaserPayType": "paid",
           "teaserType": "film",
           "teaserGenre": "Dokumentation",
           "cluster": [],
-          "classification": []
+          "classification": [],
+          "teaserEpisodeAirtime": "Di. 09.06.2020, 01:05 Uhr",
+          "teaserEpisodeName": "Der verlorene Respekt - Ordnungshüter in Gefahr"
         },
         "fsk": {
           "isVisible": false,
@@ -83,7 +85,7 @@
             "filename": "der-verlorene-respekt-ordnungshueter-in-gefahr"
           }
         ],
-        "isPremium": false,
+        "isPremium": true,
         "overlays": [
           "premium"
         ],

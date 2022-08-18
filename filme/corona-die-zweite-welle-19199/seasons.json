@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19199",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19199,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/corona-die-2-welle-19199"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Corona - Die zweite Welle",
+          "teaserId": "film_3568109",
+          "teaserName": "Corona - Die zweite Welle | Corona - Die 2. Welle",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Wissen"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "Do. 29.10.2020, 00:00 Uhr",
+          "teaserEpisodeName": "Corona - Die 2. Welle"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Corona - Die 2. Welle",
+        "id": 3568109,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3568109/300x0/corona-die-2-welle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3568109/",
+            "filename": "corona-die-2-welle"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3568109/600x0/corona-die-2-welle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3568109/",
+            "filename": "corona-die-2-welle"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3568109/1200x0/corona-die-2-welle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3568109/",
+            "filename": "corona-die-2-welle"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3568109/300x0/corona-die-2-welle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3568109/",
+            "filename": "corona-die-2-welle"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3568109/600x0/corona-die-2-welle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3568109/",
+            "filename": "corona-die-2-welle"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3568109/1200x0/corona-die-2-welle.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3568109/",
+            "filename": "corona-die-2-welle"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "corona-die-zweite-welle",
+        "subheadline": "Corona - Die 2. Welle",
+        "text": "Staffel  | Do. 29.10.2020, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/corona-die-2-welle-19199",
+        "videoId": 3568109
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

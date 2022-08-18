@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20303,
+  "additionalMeta": {
+    "canonical": "/filme/lenalove-20303",
+    "url": "/filme/lenalove-20303"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "LenaLove",
+      "url": "/filme/lenalove-20303"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20303,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ LenaLove 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "LenaLove im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ LenaLove 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/lenalove-20303"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4390716/1600x0/lenalove.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4390716,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4390716",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20303"
+    },
+    {
+      "id": 20303,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20303",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [
+      "FILME Female"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "LenaLove - Informationen zum Film",
+    "text": "In einer durchschnittlichen Vorstadt verschwindet die Schülerin Lena plötzlich, nachdem sie über eine Social-Networking-Plattform mit dem mysteriösen Noah Kontakt hatte und von ihrer ehemals besten Freundin Nicole schikaniert wurde. Einige Leute in der Stadt beginnen nervös zu werden, als die Fassade der vorstädtischen Perfektion bröckelt und der Schleier gelüftet wird, um eine monströse Intrige zu enthüllen.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/lenalove-20303",
+        "description": "In einer durchschnittlichen Vorstadt verschwindet die Schülerin Lena plötzlich, nachdem sie über eine Social-Networking-Plattform mit dem mysteriösen Noah Kontakt hatte und von ihrer ehemals besten Freundin Nicole schikaniert wurde. Einige Leute in der Stadt beginnen nervös zu werden, als die Fassade der vorstädtischen Perfektion bröckelt und der Schleier gelüftet wird, um eine monströse Intrige zu enthüllen.",
+        "duration": "PT1H29M52S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4390716/1200x0/lenalove.jpg",
+        "name": "LenaLove",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/lenalove-20303",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-02-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=lenalove-20303",
+              "sameAs": "%s/premium?typ=format&formatname=lenalove-20303",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/lenalove-20303",
+        "video": {
+          "@type": "VideoObject",
+          "description": "In einer durchschnittlichen Vorstadt verschwindet die Schülerin Lena plötzlich, nachdem sie über eine Social-Networking-Plattform mit dem mysteriösen Noah Kontakt hatte und von ihrer ehemals besten Freundin Nicole schikaniert wurde. Einige Leute in der Stadt beginnen nervös zu werden, als die Fassade der vorstädtischen Perfektion bröckelt und der Schleier gelüftet wird, um eine monströse Intrige zu enthüllen.",
+          "duration": "PT1H29M52S",
+          "embedUrl": "%s/googlebot/player/filme/lenalove-20303",
+          "name": "LenaLove",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4390716/1200x0/lenalove.jpg",
+          "uploadDate": "2022-02-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "LenaLove im Online Stream | RTL+",
+        "headline": "LenaLove im Online Stream | RTL+",
+        "description": "LenaLove und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/lenalove-20303",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4390716/1200x0/lenalove.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4390716/1200x0/lenalove.jpg",
+        "datePublished": "2022-02-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4390716/1200x0/lenalove.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "LenaLove",
+            "item": "%s/filme/lenalove-20303"
+          }
+        ]
+      }
+    }
+  },
+  "title": "LenaLove im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

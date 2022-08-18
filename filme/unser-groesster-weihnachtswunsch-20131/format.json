@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20131,
+  "additionalMeta": {
+    "canonical": "/filme/unser-groesster-weihnachtswunsch-20131",
+    "url": "/filme/unser-groesster-weihnachtswunsch-20131"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Unser größter Weihnachtswunsch",
+      "url": "/filme/unser-groesster-weihnachtswunsch-20131"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20131,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Unser größter Weihnachtswunsch 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Unser größter Weihnachtswunsch im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Unser größter Weihnachtswunsch 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/unser-groesster-weihnachtswunsch-20131"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4190102/1600x0/unser-groesster-weihnachtswunsch.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4190102,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4190102",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20131"
+    },
+    {
+      "id": 20131,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20131",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_romantik/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_romantik",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Unser größter Weihnachtswunsch - Informationen zum Film",
+    "text": "Nach der Trennung von Tracie und Rick verbringen die Töchter Harper und Ava ihre Ferien abwechselnd Mal bei Mam und Dad. Harper und Ava haben daher einen besonderen Weihnachtswunsch: Sie wollen die Feiertage auf dem Bauernhof von Tracie's Familie verbringen - alle gemeinsam. Das vorübergehende Wiedersehen wird für die Eltern nicht leicht - doch trägt dieses Treffen dazu bei, die verlorene Romanze zwischen den beiden wieder neu zu entfachen?",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/unser-groesster-weihnachtswunsch-20131",
+        "description": "Nach der Trennung von Tracie und Rick verbringen die Töchter Harper und Ava ihre Ferien abwechselnd Mal bei Mam und Dad. Harper und Ava haben daher einen besonderen Weihnachtswunsch: Sie wollen die Feiertage auf dem Bauernhof von Tracie's Familie verbringen - alle gemeinsam. Das vorübergehende Wiedersehen wird für die Eltern nicht leicht - doch trägt dieses Treffen dazu bei, die verlorene Romanze zwischen den beiden wieder neu zu entfachen?",
+        "duration": "PT1H24M39S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4190102/1200x0/unser-groesster-weihnachtswunsch.jpg",
+        "name": "Unser größter Weihnachtswunsch",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/unser-groesster-weihnachtswunsch-20131",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-11-16T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=unser-groesster-weihnachtswunsch-20131",
+              "sameAs": "%s/premium?typ=format&formatname=unser-groesster-weihnachtswunsch-20131",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/unser-groesster-weihnachtswunsch-20131",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Nach der Trennung von Tracie und Rick verbringen die Töchter Harper und Ava ihre Ferien abwechselnd Mal bei Mam und Dad. Harper und Ava haben daher einen besonderen Weihnachtswunsch: Sie wollen die Feiertage auf dem Bauernhof von Tracie's Familie verbringen - alle gemeinsam. Das vorübergehende Wiedersehen wird für die Eltern nicht leicht - doch trägt dieses Treffen dazu bei, die verlorene Romanze zwischen den beiden wieder neu zu entfachen?",
+          "duration": "PT1H24M39S",
+          "embedUrl": "%s/googlebot/player/filme/unser-groesster-weihnachtswunsch-20131",
+          "name": "Unser größter Weihnachtswunsch",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4190102/1200x0/unser-groesster-weihnachtswunsch.jpg",
+          "uploadDate": "2021-11-16T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Unser größter Weihnachtswunsch im Online Stream | RTL+",
+        "headline": "Unser größter Weihnachtswunsch im Online Stream | RTL+",
+        "description": "Unser größter Weihnachtswunsch und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei RTL+. Ein Film mit ▶️Schuyler Fisk, David Clayton Rogers, Glenn Morshower, Kenda Benward, Jimmy Wayne, Vanessa Evigan, Irlene Mandrell, Juliana Hansen, Mark Collie, Abby James Witherspoon, Skylar Olivia Flanagan, Dee Wallace.",
+        "url": "%s/filme/unser-groesster-weihnachtswunsch-20131",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4190102/1200x0/unser-groesster-weihnachtswunsch.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4190102/1200x0/unser-groesster-weihnachtswunsch.jpg",
+        "datePublished": "2021-11-16T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4190102/1200x0/unser-groesster-weihnachtswunsch.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Unser größter Weihnachtswunsch",
+            "item": "%s/filme/unser-groesster-weihnachtswunsch-20131"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Unser größter Weihnachtswunsch im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

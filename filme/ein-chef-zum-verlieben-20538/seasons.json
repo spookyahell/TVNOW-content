@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20538",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20538,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/ein-chef-zum-verlieben-20538"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ein Chef zum Verlieben",
+          "teaserId": "film_4775617",
+          "teaserName": "Ein Chef zum Verlieben | Ein Chef zum Verlieben",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [
+            "FILME Female"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Ein Chef zum Verlieben"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ein Chef zum Verlieben",
+        "id": 4775617,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775617/300x0/ein-chef-zum-verlieben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775617/",
+            "filename": "ein-chef-zum-verlieben"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775617/600x0/ein-chef-zum-verlieben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775617/",
+            "filename": "ein-chef-zum-verlieben"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775617/1200x0/ein-chef-zum-verlieben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775617/",
+            "filename": "ein-chef-zum-verlieben"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775617/300x0/ein-chef-zum-verlieben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775617/",
+            "filename": "ein-chef-zum-verlieben"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775617/600x0/ein-chef-zum-verlieben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775617/",
+            "filename": "ein-chef-zum-verlieben"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775617/1200x0/ein-chef-zum-verlieben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775617/",
+            "filename": "ein-chef-zum-verlieben"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ein-chef-zum-verlieben",
+        "subheadline": "Ein Chef zum Verlieben",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/ein-chef-zum-verlieben-20538",
+        "videoId": 4775617
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

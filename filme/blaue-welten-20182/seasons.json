@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20182",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20182,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/blaue-welten-20182"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Blaue Welten",
+          "teaserId": "film_4323488",
+          "teaserName": "Blaue Welten | Blaue Welten",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Tiere"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "GEO WILD",
+          "teaserEpisodeName": "Blaue Welten"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Blaue Welten",
+        "id": 4323488,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323488/300x0/blaue-welten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323488/",
+            "filename": "blaue-welten"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323488/600x0/blaue-welten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323488/",
+            "filename": "blaue-welten"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323488/1200x0/blaue-welten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323488/",
+            "filename": "blaue-welten"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323488/300x0/blaue-welten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323488/",
+            "filename": "blaue-welten"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323488/600x0/blaue-welten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323488/",
+            "filename": "blaue-welten"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323488/1200x0/blaue-welten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323488/",
+            "filename": "blaue-welten"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "blaue-welten",
+        "subheadline": "Blaue Welten",
+        "text": "Staffel  | GEO WILD",
+        "type": "film",
+        "url": "/filme/blaue-welten-20182",
+        "videoId": 4323488
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

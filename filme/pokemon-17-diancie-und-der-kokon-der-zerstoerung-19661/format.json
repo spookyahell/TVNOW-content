@@ -1,0 +1,241 @@
+﻿{
+  "formatId": 19661,
+  "additionalMeta": {
+    "canonical": "/filme/pokemon-17-diancie-und-der-kokon-der-zerstoerung-19661",
+    "url": "/filme/pokemon-17-diancie-und-der-kokon-der-zerstoerung-19661"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Pokémon 17: Diancie und der Kokon der Zerstörung",
+      "url": "/filme/pokemon-17-diancie-und-der-kokon-der-zerstoerung-19661"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19661,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Pokémon 17: Diancie und der Kokon der Zerstörung 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Pokémon 17: Diancie und der Kokon der Zerstörung im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Pokémon 17: Diancie und der Kokon der Zerstörung 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/pokemon-17-diancie-und-der-kokon-der-zerstoerung-19661"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4019950/1600x0/pokemon-17-diancie-und-der-kokon-der-zerstoerung.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4019950,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4019950",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19661"
+    },
+    {
+      "id": 19661,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19661",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Action und Abenteuer",
+      "KIDS Jungs",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Pokémon 17: Diancie und der Kokon der Zerstörung - Alle Informationen zum Film",
+    "text": "Das Mysteriöse Pokémon Diancie herrscht über das Diamantenreich, in dem sehr viele Rocara leben. Das Leben des Herz-Diamanten, der das Land mit seiner Energie versorgt, neigt sich dem Ende zu, und Diancie ist noch nicht stark genug, einen neuen zu erschaffen. Diancie macht sich auf die Suche nach dem Legendären Pokémon Xerneas, um es um Hilfe zu bitten. ",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/pokemon-17-diancie-und-der-kokon-der-zerstoerung-19661",
+        "description": "Das Mysteriöse Pokémon Diancie herrscht über das Diamantenreich, in dem sehr viele Rocara leben. Das Leben des Herz-Diamanten, der das Land mit seiner Energie versorgt, neigt sich dem Ende zu, und Diancie ist noch nicht stark genug, einen neuen zu erschaffen. Diancie macht sich auf die Suche nach dem Legendären Pokémon Xerneas, um es um Hilfe zu bitten. ",
+        "duration": "PT1H12M35S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4019950/1200x0/pokemon-17-diancie-und-der-kokon-der-zerstoerung.jpg",
+        "name": "Pokémon 17: Diancie und der Kokon der Zerstörung",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/pokemon-17-diancie-und-der-kokon-der-zerstoerung-19661",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-08-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=pokemon-17-diancie-und-der-kokon-der-zerstoerung-19661",
+              "sameAs": "%s/premium?typ=format&formatname=pokemon-17-diancie-und-der-kokon-der-zerstoerung-19661",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/pokemon-17-diancie-und-der-kokon-der-zerstoerung-19661",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Das Mysteriöse Pokémon Diancie herrscht über das Diamantenreich, in dem sehr viele Rocara leben. Das Leben des Herz-Diamanten, der das Land mit seiner Energie versorgt, neigt sich dem Ende zu, und Diancie ist noch nicht stark genug, einen neuen zu erschaffen. Diancie macht sich auf die Suche nach dem Legendären Pokémon Xerneas, um es um Hilfe zu bitten. ",
+          "duration": "PT1H12M35S",
+          "embedUrl": "%s/googlebot/player/filme/pokemon-17-diancie-und-der-kokon-der-zerstoerung-19661",
+          "name": "Pokémon 17: Diancie und der Kokon der Zerstörung",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4019950/1200x0/pokemon-17-diancie-und-der-kokon-der-zerstoerung.jpg",
+          "uploadDate": "2022-08-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Pokémon 17: Diancie und der Kokon der Zerstörung im Online Stream | RTL+",
+        "headline": "Pokémon 17: Diancie und der Kokon der Zerstörung im Online Stream | RTL+",
+        "description": "Pokémon 17: Diancie und der Kokon der Zerstörung und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/pokemon-17-diancie-und-der-kokon-der-zerstoerung-19661",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4019950/1200x0/pokemon-17-diancie-und-der-kokon-der-zerstoerung.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4019950/1200x0/pokemon-17-diancie-und-der-kokon-der-zerstoerung.jpg",
+        "datePublished": "2022-08-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4019950/1200x0/pokemon-17-diancie-und-der-kokon-der-zerstoerung.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pokémon 17: Diancie und der Kokon der Zerstörung",
+            "item": "%s/filme/pokemon-17-diancie-und-der-kokon-der-zerstoerung-19661"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Pokémon 17: Diancie und der Kokon der Zerstörung im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

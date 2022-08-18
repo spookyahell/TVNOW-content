@@ -1,0 +1,292 @@
+﻿{
+  "formatId": 19818,
+  "additionalMeta": {
+    "canonical": "/shows/uefa-europa-league-19818",
+    "url": "/shows/uefa-europa-league-19818"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "UEFA Europa League",
+      "url": "/shows/uefa-europa-league-19818"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 19818,
+  "meta": [
+    {
+      "content": "Streame die UEFA Europa League LIVE & exklusiv! ⚽ Verpasse keinen Spieltag ► von der Gruppenphase bis zum Finale!",
+      "name": "description"
+    },
+    {
+      "content": "Fußball;Europapokal;Eintracht Frankfurt;Union Berlin;Bayer Leverkusen;SGE;Fussball;PSV Eindhoven;Galatasaray;Fenerbahce;Olympique Marseille;Glasgow Rangers;BVB;Real Sociedad;Borussia Dortmund;RB Leipzig;Red Bull",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "UEFA Europa League 2020/21 - Live Spiele | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Streame die UEFA Europa League LIVE & exklusiv! ⚽ Verpasse keinen Spieltag ► von der Gruppenphase bis zum Finale!",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/shows/uefa-europa-league-19818"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/19818_03artwork/1600x0/uefa-europa-league.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/19818",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/19818",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/19818",
+      "type": "teaserrow"
+    },
+    {
+      "id": 79188972,
+      "label": null,
+      "moduleLayout": "image",
+      "type": "image",
+      "payload": {
+        "name": "Season Pass Header UEL",
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/cms/dfd3e290c4dbadc280b985ea8fb78d57/1920x0/image.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/cms/dfd3e290c4dbadc280b985ea8fb78d57/",
+            "filename": "image",
+            "size": "large"
+          },
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/cms/dfd3e290c4dbadc280b985ea8fb78d57/1920x0/image.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/cms/dfd3e290c4dbadc280b985ea8fb78d57/",
+            "filename": "image",
+            "size": "middle"
+          },
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/cms/6689d1f02c160e80eb15bc75e2641644/1920x0/image.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/cms/6689d1f02c160e80eb15bc75e2641644/",
+            "filename": "image",
+            "size": "small"
+          }
+        ],
+        "fullWidth": true,
+        "linkTarget": "_blank",
+        "url": "https://www.tvnow.de/specials/europa-league-season-pass-buchen"
+      }
+    },
+    {
+      "id": 16574,
+      "label": "Playlists, Alben und Songs auf RTL+ Musik",
+      "moduleLayout": "landscape_small",
+      "moduleUrl": "/module/teaserrow/manual/16574",
+      "type": "teaserrow"
+    },
+    {
+      "id": 79318966,
+      "label": null,
+      "moduleLayout": "text",
+      "moduleUrl": "/module/text/79318966",
+      "type": "text"
+    },
+    {
+      "id": 16411,
+      "label": "Rückblick | Die Wahnsinns-Saison der Eintracht",
+      "moduleLayout": "landscape_small",
+      "moduleUrl": "/module/teaserrow/manual/16411",
+      "type": "teaserrow"
+    },
+    {
+      "id": 15699,
+      "label": "Spannende Dokus aus der Welt des Fussballs",
+      "moduleLayout": "dvd",
+      "moduleUrl": "/module/teaserrow/manual/15699",
+      "type": "teaserrow"
+    },
+    {
+      "id": 79188973,
+      "label": null,
+      "moduleLayout": "text",
+      "moduleUrl": "/module/text/79188973",
+      "type": "text"
+    },
+    {
+      "id": 19818,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19818",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnuefaeuropaleague",
+      "video": "dvrsowf_ten_tnuefaeuropaleague",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/uefa_europa_league/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "uefa_europa_league",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Sport",
+    "cluster": [],
+    "classification": [
+      "Exclusive"
+    ]
+  },
+  "seo": {
+    "headline": "UEFA Europa League 2021/22 - Live und exklusiv",
+    "text": "<p><strong>UEFA Europa League 2021/22 - Live und exklusiv</strong></p> <p>Spitzenfu&szlig;ball live und exklusiv! Schauen sie jetzt einer der wichtigsten Fu&szlig;ballwettbewerbe der europ&auml;ischen B&uuml;hne auf <strong>RTL+.</strong> Bei uns sehen Sie alle deutschen Teilnehmer im Einzelstream oder als Konferenz und zus&auml;tzlich die anderen acht Highlight-Spiele. Mit Teilnehmer wie Olympique Lyon, PSV Eindhoven, Leicester City und Roter Stern Belgrad ist von der Gruppenphase bis zum Finale spannender Fu&szlig;ball auf Top-Niveau garantiert. Die Top-Spiele der deutschen Teams <strong>Bayer Leverkusen</strong>&nbsp;und&nbsp;<strong>Eintracht Frankfurt</strong>&nbsp;finden Sie hier jederzeit im Stream.</p> <p><strong>EUROPA LEAGUE &ndash; DIE TEAMS DER GRUPPENPHASE MIT BAYER LEVERKUSEN UND EINTRACHT FRANKFURT</strong></p> <table> <tbody> <tr> <td> <p><strong>Gruppe</strong></p> </td> <td> <p><strong>Teams</strong></p> </td> </tr> <tr> <td> <p>A</p> </td> <td> <p>Olympique Lyon, Glasgow Rangers, Sparta Prag, Br&ouml;ndby IF</p> </td> </tr> <tr> <td> <p>B</p> </td> <td> <p>AS Monaco, PSV Eindhoven, Real Sociedad, Sturm Graz</p> </td> </tr> <tr> <td> <p>C</p> </td> <td> <p>SSC Neapel, Leicester City, Spartak Moskau, Legia Warschau</p> </td> </tr> <tr> <td> <p>D</p> </td> <td> <p>Olympiakos Pir&auml;us,&nbsp;<strong>Eintracht Frankfurt</strong>, Fenerbahce Istanbul, Royal Antwerp</p> </td> </tr> <tr> <td> <p>E</p> </td> <td> <p>Lazio Rom, Lokomotive Moskau, Olympique Marseille, Galatasaray Istanbul</p> </td> </tr> <tr> <td> <p>F</p> </td> <td> <p>Sporting Braga, Roter Stern Moskau, Ludogorez Rasgrad, FC Midtjylland</p> </td> </tr> <tr> <td> <p>G</p> </td> <td> <p><strong>Bayer Leverkusen</strong>, Celtic Glasgow, Real Betis Sevilla, Ferencvaros Budapest</p> </td> </tr> <tr> <td> <p>H</p> </td> <td> <p>Dinamo Zagreb, KRC Genk, West Ham United, Rapid Wien</p> </td> </tr> </tbody> </table> <p><strong>TERMINE, UHRZEITEN UND HIGHLIGHTS: DIE SPIELTAGE DER UEFA EUROPA LEAGUE LIVE AUF RTL+</strong></p> <table> <tbody> <tr> <td> <p><strong>Datum</strong></p> </td> <td> <p><strong>Spieltag</strong></p> </td> <td> <p><strong>Sender</strong></p> </td> <td> <p><strong>Highlights</strong></p> </td> </tr> <tr> <td> <p>Donnerstag, 16.09.21</p> </td> <td> <p>1. Spieltag Gruppenphase</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td> <p>Bayer Leverkusen - Ferencvaros Budapest (18:45 Uhr) / Eintracht Frankfurt - Fenerbahce Istanbul (21:00 Uhr)</p> </td> </tr> <tr> <td> <p>Donnerstag,&nbsp;30.09.21</p> </td> <td> <p>2. Spieltag Gruppenphase</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td> <p>Royal Antwerp - Eintracht Frankfurt (18:45 Uhr) / Celtic Glasgow - Bayer Leverkusen (21:00 Uhr)</p> </td> </tr> <tr> <td> <p>Donnerstag, 21.10.21</p> </td> <td> <p>3. Spieltag Gruppenphase</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td> <p>Bayer Leverkusen - Real Betis Sevilla (18:45 Uhr) / Eintracht Frankfurt - Olympiakos Pir&auml;us (21:00 Uhr)</p> </td> </tr> <tr> <td> <p>Donnerstag, 04.11.21</p> </td> <td> <p>4. Spieltag Gruppenphase</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td> <p>Olympiakos Pir&auml;us - Eintracht Frankfurt (18:45 Uhr) / Bayer Leverkusen - Real Betis Sevilla (21:00 Uhr)</p> </td> </tr> <tr> <td> <p>Donnerstag, 25.11.21</p> </td> <td> <p>5. Spieltag Gruppenphase</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td> <p>Eintracht Frankfurt - Royal Antwerp (21:00 Uhr) / Bayer Leverkusen - Celtic Glasgow (21:00 Uhr)</p> </td> </tr> <tr> <td> <p>Donnerstag, 09.12.21</p> </td> <td> <p>6. Spieltag Gruppenphase</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td> <p>Fenerbahce Istanbul - Eintracht Frankfurt (18:45 Uhr) / Ferencvaros Budapest - Bayer Leverkusen (21:00 Uhr)</p> </td> </tr> <tr> <td> <p>Donnerstag, 17./24.02.22</p> </td> <td> <p>Zwischenrunde, letzten 32</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td> <p>Borussia Dortmund &ndash; Glasgow Rangers (18:45) /</p> <p>RB Leipzig &ndash; Real Sociedad (21:00 Uhr)</p> </td> </tr> <tr> <td> <p>Donnerstag,&nbsp;10./17.03.22</p> </td> <td> <p>Achtelfinale</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td> <p>Auslosung am 25.02.2022</p> </td> </tr> <tr> <td> <p>Donnerstag, 7./14.04.22</p> </td> <td> <p>Viertelfinale</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td>&nbsp;</td> </tr> <tr> <td> <p>Donnerstag, 28.04./05.05.22</p> </td> <td> <p>Halbfinale</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td>&nbsp;</td> </tr> <tr> <td> <p>Mittwoch, 18.05.22</p> </td> <td> <p>Finale</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td>&nbsp;</td> </tr> </tbody> </table> <p><strong>TV-TEAM, MODERATOREN UND LIVE-PROGRAMM</strong><br /> <br /> Die Kommentatoren Marco Hagemann und Steffen Freund begleiten die Spiele im Free-TV und werden live vor Ort sein. Zus&auml;tzlich werden Sie unterst&uuml;tzt von der Sportmoderatorin Laura Papendick und Fu&szlig;ball-Weltmeister Karl-Heinz Riedle, die Interviews mit Spielern und Trainern direkt vom Spielfeldrand einen zus&auml;tzlichen Einblick in das Geschehen im Stadion.</p> <p>Dem Zuschauer wird neben den acht Highlight-Spielen im Livestream, eine Konferenz, sowie die <strong>Spieltagsshow &bdquo;Matchday&ldquo;</strong> exklusiv auf RTL+ gezeigt, welche von 17:30 Uhr bis 0:00 Uhr die sch&ouml;nsten Tore und wichtigsten Highlights der Partien aufbereitet. Diese Show wird durch Experten, wie Sportmoderatorin Anna Kraft, Robby Hunke und Arnd Zeigler sowie Fu&szlig;ball-Weltmeister Lukas Podolski.</p> <p><strong>UEFA EUROPA LEAGUE: MODUS, SPIELTAGE, RUNDEN</strong></p> <p>Gruppenphase: Alle Infos zu Hin- und R&uuml;ckspielen</p> <p>Die Spiele der UEFA Europa-League finden in der Saison 2021/22 an ausgew&auml;hlten Terminen immer&nbsp;<strong>donnerstags um 18:45 bzw. 21:00 Uhr</strong>&nbsp;statt. Der Termin f&uuml;r das Endspiel ist auf den 18. Mai 2022 festgesetzt.<br /> <br /> Das Turnier startet mit der Gruppenphase, f&uuml;r die sich insgesamt&nbsp;<strong>32 Mannschaften</strong>&nbsp;qualifiziert haben, darunter die deutschen Teams Bayer Leverkusen und Eintracht Frankfurt. Der&nbsp;<strong>erste Spieltag</strong>&nbsp;ist der 16. September, der letzte und 6. Spieltag der 9. Dezember. Alle Teams einer Gruppe treffen in einem Hin- und einem R&uuml;ckspiel aufeinander. Die Gruppenersten qualifizieren sich direkt f&uuml;r das Achtelfinale.</p> <p>Zweite Chance Conference League</p> <p>Die acht Gruppendritten der Vorrunde der UEFA Europa League sind zwar aus dem Wettbewerb ausgeschieden, bekommen aber auf internationaler Ebene eine zweite Chance. Sie qualifizieren sich automatisch f&uuml;r die Play-offs des Schwesterwettbewerbs, die UEFA Europa Conference League und haben die Chance dort an der K.O.-Runde dieses Turniers teilzunehmen.</p> <p>Europa League K.O.-Runde: Von den Play-offs bis zum Finale</p> <p>Die acht Gruppenzweiten treffen nach der Gruppenphase auf die acht Gruppendritten aus dem h&ouml;her angesiedelten europ&auml;ischen Turnier UEFA Champions League und k&ouml;nnen sich &uuml;ber zugeloste Partien in einer Zwischenrunde, genannt Play-offs f&uuml;r die Runde der letzten 16 qualifizieren. In den sogenannten Play-Offs sto&szlig;en nun zwei weitere deutsche Mannschaften, mit Borussia <strong>Dortmund und RB Leipzig</strong> dazu, welche f&uuml;r weitere spannende Top-Spiele live auf <strong>RTL+</strong> sorgen. <br /> <br /> Bis zum Finale wird die Europa League in einem K.O.-Modus ausgespielt, wobei jede K.O.-Runde jeweils ein Hin- und R&uuml;ckspiel stattfindet.</p>",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/shows/uefa-europa-league-19818",
+        "url": "%s/shows/uefa-europa-league-19818",
+        "name": "UEFA Europa League",
+        "description": "Streame die UEFA Europa League LIVE & exklusiv! ⚽ Verpasse keinen Spieltag ► von der Gruppenphase bis zum Finale!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/19818_04metalogo/1200x0/uefa-europa-league.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "UEFA Europa League 2021/22 - Live und exklusiv",
+        "headline": "UEFA Europa League 2021/22 - Live und exklusiv",
+        "description": "Streame die UEFA Europa League LIVE & exklusiv! ⚽ Verpasse keinen Spieltag ► von der Gruppenphase bis zum Finale!",
+        "url": "%s/shows/uefa-europa-league-19818",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/19818_04metalogo/1200x0/uefa-europa-league.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/19818_04metalogo/1200x0/uefa-europa-league.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/19818_04metalogo/1200x0/uefa-europa-league.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "%s/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "UEFA Europa League",
+            "item": "%s/shows/uefa-europa-league-19818"
+          }
+        ]
+      }
+    }
+  },
+  "title": "UEFA Europa League 2020/21 - Live Spiele | TVNOW",
+  "type": "format",
+  "social": {
+    "facebook": "https://www.facebook.com/rtlsport.de",
+    "instagram": "https://www.instagram.com/rtl.sport/",
+    "youtube": "https://www.youtube.com/channel/UC8WYi3XQXsf-6FNvqoEvxag"
+  },
+  "audiences": [
+    "adults"
+  ]
+}

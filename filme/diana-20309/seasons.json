@@ -1,0 +1,109 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20309",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20309,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/diana-20309"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Diana",
+          "teaserId": "film_4390721",
+          "teaserName": "Diana | Diana",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [
+            "FILME Female",
+            "Biographie",
+            "History"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Diana"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Diana",
+        "id": 4390721,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390721/300x0/diana.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390721/",
+            "filename": "diana"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390721/600x0/diana.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390721/",
+            "filename": "diana"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390721/1200x0/diana.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390721/",
+            "filename": "diana"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390721/300x0/diana.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390721/",
+            "filename": "diana"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390721/600x0/diana.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390721/",
+            "filename": "diana"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390721/1200x0/diana.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390721/",
+            "filename": "diana"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "diana",
+        "subheadline": "Diana",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/diana-20309",
+        "videoId": 4390721
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

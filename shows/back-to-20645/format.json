@@ -1,0 +1,216 @@
+﻿{
+  "formatId": 20645,
+  "additionalMeta": {
+    "canonical": "/shows/back-to-20645",
+    "url": "/shows/back-to-20645"
+  },
+  "ads": {
+    "station": "rtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "Back to",
+      "url": "/shows/back-to-20645"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 20645,
+  "meta": [
+    {
+      "content": "Die Show ▶ Back to (RTL) streamen & weitere Highlights aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Back to im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ Back to (RTL) streamen & weitere Highlights aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/shows/back-to-20645"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/20645_03artwork/1600x0/back-to.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/20645",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/20645",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/20645",
+      "type": "teaserrow"
+    },
+    {
+      "id": 20645,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20645",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rnbackto",
+      "video": "dvrsowf_ten_rnbackto",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_now/formate/back_to/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_now",
+        "formate",
+        "back_to",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/shows/back-to-20645",
+        "url": "%s/shows/back-to-20645",
+        "name": "Back to",
+        "description": "Die Show ▶ Back to (RTL) streamen & weitere Highlights aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/20645_04metalogo/1200x0/back-to.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "",
+        "headline": "",
+        "description": "Die Show ▶ Back to (RTL) streamen & weitere Highlights aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "url": "%s/shows/back-to-20645",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/20645_04metalogo/1200x0/back-to.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/20645_04metalogo/1200x0/back-to.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/20645_04metalogo/1200x0/back-to.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "%s/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Back to",
+            "item": "%s/shows/back-to-20645"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Back to im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

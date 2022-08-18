@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 19853,
+  "additionalMeta": {
+    "canonical": "/filme/nein-doch-oh-die-louis-de-funes-story-19853",
+    "url": "/filme/nein-doch-oh-die-louis-de-funes-story-19853"
+  },
+  "ads": {
+    "station": "nitro",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Nein! Doch! Oh! - Die Louis-de-Funès-Story",
+      "url": "/filme/nein-doch-oh-die-louis-de-funes-story-19853"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 19853,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Nein! Doch! Oh! - Die Louis-de-Funès-Story 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Nein! Doch! Oh! - Die Louis-de-Funès-Story im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Nein! Doch! Oh! - Die Louis-de-Funès-Story 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/nein-doch-oh-die-louis-de-funes-story-19853"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4141059/1600x0/nein-doch-oh-die-louis-de-funes-story.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4141059,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4141059",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19853"
+    },
+    {
+      "id": 19853,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19853",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rnnfilme",
+      "video": "dvrsowf_ten_rnnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_nitro_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_nitro_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zur Dokumentation: Nein! Doch! Oh! - Die Louis-de-Funès-Story",
+    "text": "Bei RTL+ kannst Du den Film Nein! Doch! Oh! - Die Louis-de-Funès-Story und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/nein-doch-oh-die-louis-de-funes-story-19853",
+        "description": "Viele verblüfft Louis de Funès mit seinen unterschiedlichsten Rollen. Er verkörpert sie so gut, dass sie uns vertraut und real vorkommen. Aber wer war Louis de Funès wirklich? Durch exklusive Archiv-Aufnahmen, bisher unveröffentlichte Aufnahmen des Künstlers und seiner Familie und durch handgeschriebene Manuskripte erschließt sich Frankreichs Lieblingskomiker Stück für Stück. Erzählerin ist Isabelle Nanty. ",
+        "duration": "PT49M34S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4141059/1200x0/nein-doch-oh-die-louis-de-funes-story.jpg",
+        "name": "Nein! Doch! Oh! - Die Louis-de-Funès-Story",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/nein-doch-oh-die-louis-de-funes-story-19853",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2022-07-19T21:55:00.000Z"
+          }
+        },
+        "url": "%s/filme/nein-doch-oh-die-louis-de-funes-story-19853",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Viele verblüfft Louis de Funès mit seinen unterschiedlichsten Rollen. Er verkörpert sie so gut, dass sie uns vertraut und real vorkommen. Aber wer war Louis de Funès wirklich? Durch exklusive Archiv-Aufnahmen, bisher unveröffentlichte Aufnahmen des Künstlers und seiner Familie und durch handgeschriebene Manuskripte erschließt sich Frankreichs Lieblingskomiker Stück für Stück. Erzählerin ist Isabelle Nanty. ",
+          "duration": "PT49M34S",
+          "embedUrl": "%s/googlebot/player/filme/nein-doch-oh-die-louis-de-funes-story-19853",
+          "name": "Nein! Doch! Oh! - Die Louis-de-Funès-Story",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4141059/1200x0/nein-doch-oh-die-louis-de-funes-story.jpg",
+          "uploadDate": "2022-07-19T21:55:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Nein! Doch! Oh! - Die Louis-de-Funès-Story im Online Stream | RTL+",
+        "headline": "Nein! Doch! Oh! - Die Louis-de-Funès-Story im Online Stream | RTL+",
+        "description": "Nein! Doch! Oh! - Die Louis-de-Funès-Story und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/nein-doch-oh-die-louis-de-funes-story-19853",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4141059/1200x0/nein-doch-oh-die-louis-de-funes-story.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4141059/1200x0/nein-doch-oh-die-louis-de-funes-story.jpg",
+        "datePublished": "2022-07-19T21:55:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4141059/1200x0/nein-doch-oh-die-louis-de-funes-story.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Nein! Doch! Oh! - Die Louis-de-Funès-Story",
+            "item": "%s/filme/nein-doch-oh-die-louis-de-funes-story-19853"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Nein! Doch! Oh! - Die Louis-de-Funès-Story im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

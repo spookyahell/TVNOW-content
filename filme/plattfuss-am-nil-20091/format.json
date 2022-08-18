@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20091,
+  "additionalMeta": {
+    "canonical": "/filme/plattfuss-am-nil-20091",
+    "url": "/filme/plattfuss-am-nil-20091"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Plattfuß am Nil",
+      "url": "/filme/plattfuss-am-nil-20091"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20091,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Plattfuß am Nil 📺 und viele weitere ▶ Filme aus dem Genre Action findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Plattfuß am Nil im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Plattfuß am Nil 📺 und viele weitere ▶ Filme aus dem Genre Action findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/plattfuss-am-nil-20091"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4219744/1600x0/plattfuss-am-nil.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4219744,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4219744",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20091"
+    },
+    {
+      "id": 20091,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20091",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_abenteuer/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_abenteuer",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Action",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Plattfuß am Nil - Informationen zum Film",
+    "text": "Der leidenschaftliche Käfer-Sammler Professor Verullo wird von unbekannten Gangstern nach Ägypten verschleppt. Seine Theorie, dass dort, wo eine besondere Käferart anzutreffen ist, auch regelmäßig reichhaltige Ölvorkommen zu finden sind, hat die Unterwelt aufhorchen lassen. Kommissar Rizzo, genannt \"Plattfuß\", findet heraus, dass \"der Schwede\", ein international gesuchter Schurke, hinter dem Verschwinden des sonderbaren Wissenschaftlers steckt.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/plattfuss-am-nil-20091",
+        "description": "Der leidenschaftliche Käfer-Sammler Professor Verullo wird von unbekannten Gangstern nach Ägypten verschleppt. Seine Theorie, dass dort, wo eine besondere Käferart anzutreffen ist, auch regelmäßig reichhaltige Ölvorkommen zu finden sind, hat die Unterwelt aufhorchen lassen. Kommissar Rizzo, genannt \"Plattfuß\", findet heraus, dass \"der Schwede\", ein international gesuchter Schurke, hinter dem Verschwinden des sonderbaren Wissenschaftlers steckt.",
+        "duration": "PT1H43M28S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4219744/1200x0/plattfuss-am-nil.jpg",
+        "name": "Plattfuß am Nil",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/plattfuss-am-nil-20091",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=plattfuss-am-nil-20091",
+              "sameAs": "%s/premium?typ=format&formatname=plattfuss-am-nil-20091",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/plattfuss-am-nil-20091",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Der leidenschaftliche Käfer-Sammler Professor Verullo wird von unbekannten Gangstern nach Ägypten verschleppt. Seine Theorie, dass dort, wo eine besondere Käferart anzutreffen ist, auch regelmäßig reichhaltige Ölvorkommen zu finden sind, hat die Unterwelt aufhorchen lassen. Kommissar Rizzo, genannt \"Plattfuß\", findet heraus, dass \"der Schwede\", ein international gesuchter Schurke, hinter dem Verschwinden des sonderbaren Wissenschaftlers steckt.",
+          "duration": "PT1H43M28S",
+          "embedUrl": "%s/googlebot/player/filme/plattfuss-am-nil-20091",
+          "name": "Plattfuß am Nil",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4219744/1200x0/plattfuss-am-nil.jpg",
+          "uploadDate": "2022-07-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Plattfuß am Nil im Online Stream | RTL+",
+        "headline": "Plattfuß am Nil im Online Stream | RTL+",
+        "description": "Plattfuß am Nil und viele weitere  ▶️Filme aus dem Genre Action findest du im Online Stream bei RTL+. Ein Film mit ▶️Bud Spencer, Enzo Cannavale, Baldwyn Dakile, Angelo Infanti, Cinzia Monreale, Karl-Otto Alberty, Adel Adham, Robert Loggia, Leopoldo Trieste, Giancarlo Bastianoni, Paola Figlia, Vincenzo Maggio, Mimmo Poli, Benito Pacifico, Mahmoud Kabil, Venantino Venantini, Riccardo Pizzuti, Ester Carloni.",
+        "url": "%s/filme/plattfuss-am-nil-20091",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4219744/1200x0/plattfuss-am-nil.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4219744/1200x0/plattfuss-am-nil.jpg",
+        "datePublished": "2022-07-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4219744/1200x0/plattfuss-am-nil.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Plattfuß am Nil",
+            "item": "%s/filme/plattfuss-am-nil-20091"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Plattfuß am Nil im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

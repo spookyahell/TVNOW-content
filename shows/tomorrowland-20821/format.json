@@ -1,0 +1,230 @@
+﻿{
+  "formatId": 20821,
+  "additionalMeta": {
+    "canonical": "/shows/tomorrowland-20821",
+    "url": "/shows/tomorrowland-20821"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "Tomorrowland",
+      "url": "/shows/tomorrowland-20821"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 20821,
+  "meta": [
+    {
+      "content": "Die Show ▶ Tomorrowland (TVNOW) streamen & weitere Highlights aus dem Genre 📺 Musik im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Tomorrowland im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ Tomorrowland (TVNOW) streamen & weitere Highlights aus dem Genre 📺 Musik im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/shows/tomorrowland-20821"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/20821_03artwork/1600x0/tomorrowland.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/20821",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/20821",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/20821",
+      "type": "teaserrow"
+    },
+    {
+      "id": 16558,
+      "label": "Alle Mixes auf RTL+ Musik",
+      "moduleLayout": "landscape_small",
+      "moduleUrl": "/module/teaserrow/manual/16558",
+      "type": "teaserrow"
+    },
+    {
+      "id": 16601,
+      "label": "Passende Playlists und kostenlose Radios",
+      "moduleLayout": "landscape_small",
+      "moduleUrl": "/module/teaserrow/manual/16601",
+      "type": "teaserrow"
+    },
+    {
+      "id": 20821,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20821",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tntomorrowland",
+      "video": "dvrsowf_ten_tntomorrowland",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/tomorrowland/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "tomorrowland",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Musik",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Tomorrowland 2022: Infos zum Event",
+    "text": "<p>Sommer, Sonne, Festival-Feeling! Das Tomorrowland Festival fand 2022 endlich wieder live statt. Zum gro&szlig;en Line-up des Open-Air-Festivals geh&ouml;rten in diesem Jahr 700 DJs. Unter dem Motto &bdquo;The Reflection of Love&rdquo; drehten sich beim Tomorrowland 2022 zum 16. Mal die Turntables. Auf der Mainstage gaben sich Star-DJs wie Paul Kalkbrenner, Charlotte de Witte, Afrojack und Ti&euml;sto die Ehre. Weitere angesagte Acts wie Hardwell, Boris Brejcha und Major Lazer heizten die Stimmung der Elektro-Fans ordentlich auf. Schau dir die Highlights des Festivals jetzt hier im Tomorrowland 2022 Stream auf RTL+ an!</p> <h2>Highlights vom Tomorrowland 2022 im Stream</h2> <p>&nbsp;</p> <p>Das Tomorrowland Festival fand 2022 an drei aufeinanderfolgenden Wochenenden im Juli (15.-17. / 22.-24. / 29.-31.) statt. Fans von House, Techno, EDM, Trance, Drum n Bass und Hardstyle lie&szlig;en sich vom Klang der Rhythmen treiben und genossen den m&auml;rchenhaften Flair des Open-Air-Events. Das Tomorrowland begeistert seit 2005 j&auml;hrlich unz&auml;hlige Fans elektronischer Tanzmusik und findet in der belgischen Stadt Boom im Naherholungsgebiet De Schorre statt.</p> <p>Du m&ouml;chtest dir die Tomorrowland 2022 Videos nicht entgehen lassen und zu Hause richtig abfeiern? Dann schau dir ausgew&auml;hlte Highlights und die angesagtesten DJs im Online-Stream hier auf RTL+ an.</p>",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/shows/tomorrowland-20821",
+        "url": "%s/shows/tomorrowland-20821",
+        "name": "Tomorrowland",
+        "description": "Die Show ▶ Tomorrowland (TVNOW) streamen & weitere Highlights aus dem Genre 📺 Musik im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/20821_04metalogo/1200x0/tomorrowland.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Tomorrowland 2022: Infos zum Event",
+        "headline": "Tomorrowland 2022: Infos zum Event",
+        "description": "Die Show ▶ Tomorrowland (TVNOW) streamen & weitere Highlights aus dem Genre 📺 Musik im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "url": "%s/shows/tomorrowland-20821",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/20821_04metalogo/1200x0/tomorrowland.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/20821_04metalogo/1200x0/tomorrowland.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/20821_04metalogo/1200x0/tomorrowland.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "%s/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tomorrowland",
+            "item": "%s/shows/tomorrowland-20821"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Tomorrowland im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

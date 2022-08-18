@@ -1,0 +1,292 @@
+﻿{
+  "formatId": 19819,
+  "additionalMeta": {
+    "canonical": "/shows/uefa-europa-conference-league-19819",
+    "url": "/shows/uefa-europa-conference-league-19819"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "UEFA Europa Conference League",
+      "url": "/shows/uefa-europa-conference-league-19819"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 19819,
+  "meta": [
+    {
+      "content": "Streame die UEFA Europa Conference League LIVE & exklusiv! ⚽ Verpasse keinen Spieltag ► von der Gruppenphase bis zum Finale!",
+      "name": "description"
+    },
+    {
+      "content": "UEFA;Fußball;Europapokal;Eintracht Frankfurt;Union Berlin;Bayer Leverkusen;SGE;Fussball;Europa League;1. FC Köln;FC Köln;effzeh;1.FC Köln",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "UEFA Europa Conference League 2020/21 - Live Spiele | TVNOW",
+      "property": "og:title"
+    },
+    {
+      "content": "Streame die UEFA Europa Conference League LIVE & exklusiv! ⚽ Verpasse keinen Spieltag ► von der Gruppenphase bis zum Finale!",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/shows/uefa-europa-conference-league-19819"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/19819_03artwork/1600x0/uefa-europa-conference-league.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/19819",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/19819",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/19819",
+      "type": "teaserrow"
+    },
+    {
+      "id": 16575,
+      "label": "Playlists, Alben und Songs auf RTL+ Musik",
+      "moduleLayout": "landscape_small",
+      "moduleUrl": "/module/teaserrow/manual/16575",
+      "type": "teaserrow"
+    },
+    {
+      "id": 79188946,
+      "label": null,
+      "moduleLayout": "image",
+      "type": "image",
+      "payload": {
+        "name": "Season Pass Header UECL",
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/cms/dfd3e290c4dbadc280b985ea8fb78d57/1920x0/image.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/cms/dfd3e290c4dbadc280b985ea8fb78d57/",
+            "filename": "image",
+            "size": "large"
+          },
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/cms/dfd3e290c4dbadc280b985ea8fb78d57/1920x0/image.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/cms/dfd3e290c4dbadc280b985ea8fb78d57/",
+            "filename": "image",
+            "size": "middle"
+          },
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/cms/6689d1f02c160e80eb15bc75e2641644/1920x0/image.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/cms/6689d1f02c160e80eb15bc75e2641644/",
+            "filename": "image",
+            "size": "small"
+          }
+        ],
+        "fullWidth": true,
+        "linkTarget": "_blank",
+        "url": "https://www.tvnow.de/specials/europa-league-season-pass-buchen"
+      }
+    },
+    {
+      "id": 79318973,
+      "label": null,
+      "moduleLayout": "text",
+      "moduleUrl": "/module/text/79318973",
+      "type": "text"
+    },
+    {
+      "id": 16413,
+      "label": "Rückblick | Die Wahnsinns-Saison der Eintracht",
+      "moduleLayout": "landscape_small",
+      "moduleUrl": "/module/teaserrow/manual/16413",
+      "type": "teaserrow"
+    },
+    {
+      "id": 15715,
+      "label": "Spannende Dokus aus der Welt des Fussballs",
+      "moduleLayout": "dvd",
+      "moduleUrl": "/module/teaserrow/manual/15715",
+      "type": "teaserrow"
+    },
+    {
+      "id": 79188955,
+      "label": null,
+      "moduleLayout": "text",
+      "moduleUrl": "/module/text/79188955",
+      "type": "text"
+    },
+    {
+      "id": 19819,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19819",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnuefaeuropaconflea",
+      "video": "dvrsowf_ten_tnuefaeuropaconflea",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/uefa_europa_conf_lea/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "uefa_europa_conf_lea",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Sport",
+    "cluster": [],
+    "classification": [
+      "Exclusive"
+    ]
+  },
+  "seo": {
+    "headline": "UEFA Europa Conference League 2021/22 - Live und exklusiv",
+    "text": "<p><strong>UEFA Europa Conference League 2021/22 - Live und exklusiv</strong></p> <p>Spitzenfu&szlig;ball live und exklusiv! Seit dem 2021/2022 existiert im internationalen Fu&szlig;ball neben der Champions League und Europa League auch die Europa Conference League. Der <strong>brandneue eingef&uuml;hrte Fu&szlig;ballwettbewerb </strong>von der UEFA l&auml;uft exklusiv und live auf RTL+. Die acht Highlight-Spiele von der Europa League und der Europa Conference League inklusive aller Spiele der deutschen Teilnehmer werden im Einzelstream und als Konferenz auf RTL, NITRO und RTL+ gezeigt. Zus&auml;tzlich finden Sie alle Spiele des <strong>1. FC Union Berlin</strong> jederzeit im Stream auf RTL+.Durch die hochkar&auml;tigen Teilnehmer der Conference League, wie beispielsweise <strong>Tottenham Hotspur, Feyenoord Rotterdam, der FC Basel und AS Rom, </strong>ist Fu&szlig;ball auf Top-Niveau von der Gruppenphase bis zum Finale garantiert.&nbsp;</p> <p><strong>EUROPA CONFERENCE LEAGUE &ndash; DIE TEAMS DER GRUPPENPHASE</strong></p> <table> <tbody> <tr> <td> <p><strong>Gruppe</strong></p> </td> <td> <p><strong>Teams</strong></p> </td> </tr> <tr> <td> <p>A</p> </td> <td> <p>Alashkert Erewan, Linzer ASK, Maccabi Tel Aviv, HJK Helsinki</p> </td> </tr> <tr> <td> <p>B</p> </td> <td> <p>Flora Tallinn, KAA Gent, Anorthosis Famagusta, Partizan Belgrad</p> </td> </tr> <tr> <td> <p>C</p> </td> <td> <p>AS Rom, ZSKA Sofia, FK Bod&ouml;/Glimt, Sorja Luhansk</p> </td> </tr> <tr> <td> <p>D</p> </td> <td> <p>FK Jablonec, CFR Cluj, Randers FC, AZ Alkmaar</p> </td> </tr> <tr> <td> <p>E</p> </td> <td> <p>Maccabi Haifa, Feyenoord Rotterdam, Slavia Prag,&nbsp;<strong>Union Berlin</strong></p> </td> </tr> <tr> <td> <p>F</p> </td> <td> <p>Slovan Bratislava, FC Kopenhagen, Lincoln Red Imps, PAOK Saloniki</p> </td> </tr> <tr> <td> <p>G</p> </td> <td> <p>Stade Rennes, Tottenham Hotspur, Vitesse Arnhem, NS Mura</p> </td> </tr> <tr> <td> <p>H</p> </td> <td> <p>Qairat Almaty, Omonia Nikosia, Qarabag Agdam, FC Basel</p> </td> </tr> </tbody> </table> <p><strong>TERMINE, ANSTOSSZEITEN, HIGHLIGHTS &amp; CO.: DIE SPIELTAGE DER UEFA EUROPA CONFERENCE LEAGUE LIVE AUF RTL</strong></p> <table> <tbody> <tr> <td> <p><strong>Datum</strong></p> </td> <td> <p><strong>Spieltag</strong></p> </td> <td> <p><strong>Sender</strong></p> </td> <td> <p><strong>Highlights</strong></p> </td> </tr> <tr> <td> <p>Donnerstag, 16.09.21</p> </td> <td> <p>1. Spieltag Gruppenphase</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td> <p>Slavia Prag - Union Berlin (18:45 Uhr)</p> </td> </tr> <tr> <td> <p>Donnerstag,&nbsp;30.09.21</p> </td> <td> <p>2. Spieltag Gruppenphase</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td> <p>Union Berlin - Maccabi Haifa (21:00 Uhr)</p> </td> </tr> <tr> <td> <p>Donnerstag, 21.10.21</p> </td> <td> <p>3. Spieltag Gruppenphase</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td> <p>Feyenoord Rotterdam - Union Berlin (18:45 Uhr)</p> </td> </tr> <tr> <td> <p>Donnerstag, 04.11.21</p> </td> <td> <p>4. Spieltag Gruppenphase</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td> <p>Union Berlin - Feyenoord Rotterdam (21:00 Uhr)</p> </td> </tr> <tr> <td> <p>Donnerstag, 25.11.21</p> </td> <td> <p>5. Spieltag Gruppenphase</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td> <p>Maccabi Haifa - Union Berlin (18:45 Uhr)</p> </td> </tr> <tr> <td> <p>Donnerstag, 09.12.21</p> </td> <td> <p>6. Spieltag Gruppenphase</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td> <p>Union Berlin - Slavia Prag (21:00 Uhr)</p> </td> </tr> <tr> <td> <p>Donnerstag, 17./24.02.22</p> </td> <td> <p>Zwischenrunde, letzten 32</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td> <p>Leicester City &ndash; Randers FC (21:00 Uhr)</p> <p>PSV Eindhoven &ndash; M. Tel-Aviv (18:45 Uhr)</p> </td> </tr> <tr> <td> <p>Donnerstag,&nbsp;10./17.03.22</p> </td> <td> <p>Achtelfinale</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td> <p>Auslosung am 25.02.2022</p> </td> </tr> <tr> <td> <p>Donnerstag, 7./14.04.22</p> </td> <td> <p>Viertelfinale</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td>&nbsp;</td> </tr> <tr> <td> <p>Donnerstag, 28.04./05.05.22</p> </td> <td> <p>Halbfinale</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td>&nbsp;</td> </tr> <tr> <td> <p>Mittwoch, 18.05.22</p> </td> <td> <p>Finale</p> </td> <td> <p>RTL / NITRO, RTL+</p> </td> <td>&nbsp;</td> </tr> </tbody> </table> <p><strong>UEFA </strong><strong>EUROPA CONFERENCE LEAGUE: MODERATOREN, KOMMENTATOREN &amp; LIVE-PROGRAMM</strong></p> <p>Die Kommentatoren Marco Hagemann und Steffen Freund begleiten die Spiele im Free-TV und werden live vor Ort sein. Zus&auml;tzlich werden Sie unterst&uuml;tzt von der Sportmoderatorin Laura Papendick und Fu&szlig;ball-Weltmeister Karl-Heinz Riedle, die Interviews mit Spielern und Trainern direkt vom Spielfeldrand einen zus&auml;tzlichen Einblick in das Geschehen im Stadion.</p> <p>Dem Zuschauer wird neben den acht Highlight-Spielen im Livestream, eine Konferenz, sowie die <strong>Spieltagsshow &bdquo;Matchday&ldquo;</strong> exklusiv auf RTL+ gezeigt, welche von 17:30 Uhr bis 0:00 Uhr die sch&ouml;nsten Tore und wichtigsten Highlights der Partien aufbereitet. Diese Show wird durch Experten, wie Sportmoderatorin Anna Kraft, Robby Hunke und Arnd Zeigler sowie Fu&szlig;ball-Weltmeister Lukas Podolski.</p> <p><strong>UEFA EUROPA CONFERENCE LEAGUE: MODUS, SPIELTAGE, RUNDEN</strong></p> <p>Von der Gruppenphase bis zum Finale</p> <p>Die Spiele der UEFA Europa Conference League finden in der Saison 2021/2022 an ausgew&auml;hlten Terminen immer donnerstags um 18:45 und 21:00 Uhr statt. Das Finale wird am 25. Mai 2022 in der albanischen Hauptstadt Tirana ausgetragen.</p> <p>Die Europa Conference League startet nach der Qualifikation und den Playoffs mit der Gruppenphase, bei der insgesamt 32 Mannschaften in 8 Gruppen jeweils zwei Mal gegeneinander antreten. Mit dem <strong>1. FC Union Berlin </strong>startet die einzige deutsche Mannschaft in den Wettbewerb. Der erste Spieltag der Conference League ist f&uuml;r den 16. September 2021 angesetzt, der sechste und letzte f&uuml;r den 9. Dezember 2021. Die Gruppenersten qualifizieren sich direkt f&uuml;r das Achtelfinale. Die Zweitplatzierten jeder Gruppe treffen auf die Drittplatzierten der Gruppenphase der Europa League und spielen in einer Zwischenrunde acht weitere Teilnehmer aus, die dann in das Achtelfinale einziehen. Die Play-offs k&ouml;nnen Sie live auf <strong>RTL+</strong> mitverfolgen.<br /> <br /> In Hin- und R&uuml;ckspielen qualifizieren sich im K.o.-System stets die Sieger f&uuml;r die n&auml;chste Runde, bis schlie&szlig;lich nur noch zwei Mannschaften &uuml;brig sind und im gro&szlig;en Finale um den Titel spielen. Neben dem obligatorischen Preisgeld erh&auml;lt der Sieger des Wettbewerbs auch einen Startplatz f&uuml;r die Europa League in der kommenden Saison.</p>",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/shows/uefa-europa-conference-league-19819",
+        "url": "%s/shows/uefa-europa-conference-league-19819",
+        "name": "UEFA Europa Conference League",
+        "description": "Streame die UEFA Europa Conference League LIVE & exklusiv! ⚽ Verpasse keinen Spieltag ► von der Gruppenphase bis zum Finale!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/19819_04metalogo/1200x0/uefa-europa-conference-league.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "UEFA Europa Conference League 2021/22 - Live und exklusiv",
+        "headline": "UEFA Europa Conference League 2021/22 - Live und exklusiv",
+        "description": "Streame die UEFA Europa Conference League LIVE & exklusiv! ⚽ Verpasse keinen Spieltag ► von der Gruppenphase bis zum Finale!",
+        "url": "%s/shows/uefa-europa-conference-league-19819",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/19819_04metalogo/1200x0/uefa-europa-conference-league.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/19819_04metalogo/1200x0/uefa-europa-conference-league.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/19819_04metalogo/1200x0/uefa-europa-conference-league.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "%s/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "UEFA Europa Conference League",
+            "item": "%s/shows/uefa-europa-conference-league-19819"
+          }
+        ]
+      }
+    }
+  },
+  "title": "UEFA Europa Conference League 2020/21 - Live Spiele | TVNOW",
+  "type": "format",
+  "social": {
+    "facebook": "https://www.facebook.com/rtlsport.de",
+    "instagram": "https://www.instagram.com/rtl.sport/",
+    "youtube": "https://www.youtube.com/channel/UC8WYi3XQXsf-6FNvqoEvxag"
+  },
+  "audiences": [
+    "adults"
+  ]
+}

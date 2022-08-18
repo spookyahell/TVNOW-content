@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20053,
+  "additionalMeta": {
+    "canonical": "/filme/super-nani-hilfe-meine-oma-ist-ein-model-20053",
+    "url": "/filme/super-nani-hilfe-meine-oma-ist-ein-model-20053"
+  },
+  "ads": {
+    "station": "passion",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Super Nani - Hilfe, meine Oma ist ein Model!",
+      "url": "/filme/super-nani-hilfe-meine-oma-ist-ein-model-20053"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20053,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Super Nani - Hilfe, meine Oma ist ein Model! 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Super Nani - Hilfe, meine Oma ist ein Model! im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Super Nani - Hilfe, meine Oma ist ein Model! 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/super-nani-hilfe-meine-oma-ist-ein-model-20053"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4320261/1600x0/super-nani-hilfe-meine-oma-ist-ein-model.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4320261,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4320261",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20053"
+    },
+    {
+      "id": 20053,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20053",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/passion_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "passion_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Super Nani - Hilfe, meine Oma ist ein Model! ",
+    "text": "Die Superoma hat immer für ihre Familie alles gegeben. Einen Dank gab es nie.\nDoch dann macht Enkel Mann aus Omi ein Supermodel!",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/super-nani-hilfe-meine-oma-ist-ein-model-20053",
+        "description": "Die Superoma hat immer für ihre Familie alles gegeben. Einen Dank gab es nie.\nDoch dann macht Enkel Mann aus Omi ein Supermodel!",
+        "duration": "PT1H44M3S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4320261/1200x0/super-nani-hilfe-meine-oma-ist-ein-model.jpg",
+        "name": "Super Nani - Hilfe, meine Oma ist ein Model!",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/super-nani-hilfe-meine-oma-ist-ein-model-20053",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-08-14T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=super-nani-hilfe-meine-oma-ist-ein-model-20053",
+              "sameAs": "%s/premium?typ=format&formatname=super-nani-hilfe-meine-oma-ist-ein-model-20053",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/super-nani-hilfe-meine-oma-ist-ein-model-20053",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die Superoma hat immer für ihre Familie alles gegeben. Einen Dank gab es nie.\nDoch dann macht Enkel Mann aus Omi ein Supermodel!",
+          "duration": "PT1H44M3S",
+          "embedUrl": "%s/googlebot/player/filme/super-nani-hilfe-meine-oma-ist-ein-model-20053",
+          "name": "Super Nani - Hilfe, meine Oma ist ein Model!",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4320261/1200x0/super-nani-hilfe-meine-oma-ist-ein-model.jpg",
+          "uploadDate": "2022-08-14T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Super Nani - Hilfe, meine Oma ist ein Model! im Online Stream | RTL+",
+        "headline": "Super Nani - Hilfe, meine Oma ist ein Model! im Online Stream | RTL+",
+        "description": "Super Nani - Hilfe, meine Oma ist ein Model! und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+. Ein Film mit ▶️Randhir Kapoor, Shweta Kumar, Rajesh Kumar, Anupan Kher, Shreya Narayan.",
+        "url": "%s/filme/super-nani-hilfe-meine-oma-ist-ein-model-20053",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4320261/1200x0/super-nani-hilfe-meine-oma-ist-ein-model.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4320261/1200x0/super-nani-hilfe-meine-oma-ist-ein-model.jpg",
+        "datePublished": "2022-08-14T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4320261/1200x0/super-nani-hilfe-meine-oma-ist-ein-model.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Super Nani - Hilfe, meine Oma ist ein Model!",
+            "item": "%s/filme/super-nani-hilfe-meine-oma-ist-ein-model-20053"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Super Nani - Hilfe, meine Oma ist ein Model! im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

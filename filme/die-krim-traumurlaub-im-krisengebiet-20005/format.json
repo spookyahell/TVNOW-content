@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 20005,
+  "additionalMeta": {
+    "canonical": "/filme/die-krim-traumurlaub-im-krisengebiet-20005",
+    "url": "/filme/die-krim-traumurlaub-im-krisengebiet-20005"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die Krim - Traumurlaub im Krisengebiet?",
+      "url": "/filme/die-krim-traumurlaub-im-krisengebiet-20005"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 20005,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Die Krim - Traumurlaub im Krisengebiet? 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Krim - Traumurlaub im Krisengebiet? im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Die Krim - Traumurlaub im Krisengebiet? 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/die-krim-traumurlaub-im-krisengebiet-20005"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4170733/1600x0/die-krim-traumurlaub-im-krisengebiet.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4170733,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4170733",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20005"
+    },
+    {
+      "id": 20005,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20005",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Die Krim - Traumurlaub im Krisengebiet?",
+    "text": "Die Krim - Russlands Sommer-Hotspot Nummer 1. 2020 kamen sechs Millionen Touristen - Tendenz: steigend. Fast alle sind Russen, denn internationale Flüge dürfen aufgrund der Sanktionen nicht auf der Krim landen. Traumurlaub im Krisengebiet - wie relaxt es sich auf der umstrittenen Halbinsel? \n",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/die-krim-traumurlaub-im-krisengebiet-20005",
+        "description": "Die Krim - Russlands Sommer-Hotspot Nummer 1. 2020 kamen sechs Millionen Touristen - Tendenz: steigend. Fast alle sind Russen, denn internationale Flüge dürfen aufgrund der Sanktionen nicht auf der Krim landen. Traumurlaub im Krisengebiet - wie relaxt es sich auf der umstrittenen Halbinsel? \n",
+        "duration": "PT41M15S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4170733/1200x0/die-krim-traumurlaub-im-krisengebiet.jpg",
+        "name": "Die Krim - Traumurlaub im Krisengebiet?",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/die-krim-traumurlaub-im-krisengebiet-20005",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2021-10-18T21:05:00.000Z"
+          }
+        },
+        "url": "%s/filme/die-krim-traumurlaub-im-krisengebiet-20005",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die Krim - Russlands Sommer-Hotspot Nummer 1. 2020 kamen sechs Millionen Touristen - Tendenz: steigend. Fast alle sind Russen, denn internationale Flüge dürfen aufgrund der Sanktionen nicht auf der Krim landen. Traumurlaub im Krisengebiet - wie relaxt es sich auf der umstrittenen Halbinsel? \n",
+          "duration": "PT41M15S",
+          "embedUrl": "%s/googlebot/player/filme/die-krim-traumurlaub-im-krisengebiet-20005",
+          "name": "Die Krim - Traumurlaub im Krisengebiet?",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4170733/1200x0/die-krim-traumurlaub-im-krisengebiet.jpg",
+          "uploadDate": "2021-10-18T21:05:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Krim - Traumurlaub im Krisengebiet? im Online Stream | RTL+",
+        "headline": "Die Krim - Traumurlaub im Krisengebiet? im Online Stream | RTL+",
+        "description": "Die Krim - Traumurlaub im Krisengebiet? und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/die-krim-traumurlaub-im-krisengebiet-20005",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4170733/1200x0/die-krim-traumurlaub-im-krisengebiet.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4170733/1200x0/die-krim-traumurlaub-im-krisengebiet.jpg",
+        "datePublished": "2021-10-18T21:05:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4170733/1200x0/die-krim-traumurlaub-im-krisengebiet.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Krim - Traumurlaub im Krisengebiet?",
+            "item": "%s/filme/die-krim-traumurlaub-im-krisengebiet-20005"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Krim - Traumurlaub im Krisengebiet? im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

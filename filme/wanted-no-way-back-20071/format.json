@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20071,
+  "additionalMeta": {
+    "canonical": "/filme/wanted-no-way-back-20071",
+    "url": "/filme/wanted-no-way-back-20071"
+  },
+  "ads": {
+    "station": "passion",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Wanted - No Way Back",
+      "url": "/filme/wanted-no-way-back-20071"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20071,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Wanted - No Way Back 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Wanted - No Way Back im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Wanted - No Way Back 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/wanted-no-way-back-20071"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4185415/1600x0/wanted-no-way-back.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4185415,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4185415",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20071"
+    },
+    {
+      "id": 20071,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20071",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/passion_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "passion_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Wanted - No Way Back ",
+    "text": "Radhe hat eine dunkle Vergangenheit und verdient sein Geld als kaltblütiger Killer. Doch als er Fitnesstrainerin Jhanvi das erste Mal sieht, verliebt er sich unsterblich. Auch der lüsterne Ermittler Talpede hat ein Auge auf Jhanvi geworfen und droht ihr, um sie zur Heirat zu zwingen. Grund genug für Radhe, dazwischenzugehen. Die Gangsteraction aus Bollywood war 2009 einer der erfolgreichsten Filme Asiens und hat eine Reihe Preise eingeheimst. ",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/wanted-no-way-back-20071",
+        "description": "Radhe hat eine dunkle Vergangenheit und verdient sein Geld als kaltblütiger Killer. Doch als er Fitnesstrainerin Jhanvi das erste Mal sieht, verliebt er sich unsterblich. Auch der lüsterne Ermittler Talpede hat ein Auge auf Jhanvi geworfen und droht ihr, um sie zur Heirat zu zwingen. Grund genug für Radhe, dazwischenzugehen. Die Gangsteraction aus Bollywood war 2009 einer der erfolgreichsten Filme Asiens und hat eine Reihe Preise eingeheimst. ",
+        "duration": "PT2H27M3S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4185415/1200x0/wanted-no-way-back.jpg",
+        "name": "Wanted - No Way Back",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/wanted-no-way-back-20071",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-08-13T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=wanted-no-way-back-20071",
+              "sameAs": "%s/premium?typ=format&formatname=wanted-no-way-back-20071",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/wanted-no-way-back-20071",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Radhe hat eine dunkle Vergangenheit und verdient sein Geld als kaltblütiger Killer. Doch als er Fitnesstrainerin Jhanvi das erste Mal sieht, verliebt er sich unsterblich. Auch der lüsterne Ermittler Talpede hat ein Auge auf Jhanvi geworfen und droht ihr, um sie zur Heirat zu zwingen. Grund genug für Radhe, dazwischenzugehen. Die Gangsteraction aus Bollywood war 2009 einer der erfolgreichsten Filme Asiens und hat eine Reihe Preise eingeheimst. ",
+          "duration": "PT2H27M3S",
+          "embedUrl": "%s/googlebot/player/filme/wanted-no-way-back-20071",
+          "name": "Wanted - No Way Back",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4185415/1200x0/wanted-no-way-back.jpg",
+          "uploadDate": "2022-08-13T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Wanted - No Way Back im Online Stream | RTL+",
+        "headline": "Wanted - No Way Back im Online Stream | RTL+",
+        "description": "Wanted - No Way Back und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+. Ein Film mit ▶️Salman Khan, Ayesha Takia, Mahek Chahal, Inder Kumar, Manoj Pahwa, Mahesh Manjirekar.",
+        "url": "%s/filme/wanted-no-way-back-20071",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4185415/1200x0/wanted-no-way-back.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4185415/1200x0/wanted-no-way-back.jpg",
+        "datePublished": "2022-08-13T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4185415/1200x0/wanted-no-way-back.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wanted - No Way Back",
+            "item": "%s/filme/wanted-no-way-back-20071"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Wanted - No Way Back im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

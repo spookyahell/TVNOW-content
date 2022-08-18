@@ -1,0 +1,108 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20551",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20551,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/der-prinz-ich-20551"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Prinz & ich",
+          "teaserId": "film_4785828",
+          "teaserName": "Der Prinz & ich | Der Prinz & ich",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [
+            "FILME Female",
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Der Prinz & ich"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Prinz & ich",
+        "id": 4785828,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785828/300x0/der-prinz-ich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785828/",
+            "filename": "der-prinz-ich"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785828/600x0/der-prinz-ich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785828/",
+            "filename": "der-prinz-ich"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785828/1200x0/der-prinz-ich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785828/",
+            "filename": "der-prinz-ich"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785828/300x0/der-prinz-ich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785828/",
+            "filename": "der-prinz-ich"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785828/600x0/der-prinz-ich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785828/",
+            "filename": "der-prinz-ich"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785828/1200x0/der-prinz-ich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785828/",
+            "filename": "der-prinz-ich"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-prinz-und-ich",
+        "subheadline": "Der Prinz & ich",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/der-prinz-ich-20551",
+        "videoId": 4785828
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

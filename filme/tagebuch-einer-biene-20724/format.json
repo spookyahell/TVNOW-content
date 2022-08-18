@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20724,
+  "additionalMeta": {
+    "canonical": "/filme/tagebuch-einer-biene-20724",
+    "url": "/filme/tagebuch-einer-biene-20724"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Tagebuch einer Biene",
+      "url": "/filme/tagebuch-einer-biene-20724"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20724,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Tagebuch einer Biene 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Tagebuch einer Biene im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Tagebuch einer Biene 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/tagebuch-einer-biene-20724"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4834249/1600x0/tagebuch-einer-biene.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4834249,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4834249",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20724"
+    },
+    {
+      "id": 20724,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20724",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tntagebuchbiene",
+      "video": "dvrsowf_ten_tntagebuchbiene",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/tagebuch_biene/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "tagebuch_biene",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Tagebuch einer Biene",
+    "text": "Neueste Forschungen zeigen, dass Bienenvölker nicht so homogen sind, wie man glaubt, sondern voller \"Individuen\" mit unterschiedlichen Aufgaben, Fähigkeiten und Vorlieben. Es gibt mutige, feige und faule Bienen. Jede einzelne muss sich den Herausforderungen ihres Lebens stellen: Blumen finden, Hornissen bekämpfen und den richtigen Platz für den Nestbau finden. Das Leben einer Biene dauert nur sechs Wochen, aber für sie ist es ein ganzes Leben.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/tagebuch-einer-biene-20724",
+        "description": "Neueste Forschungen zeigen, dass Bienenvölker nicht so homogen sind, wie man glaubt, sondern voller \"Individuen\" mit unterschiedlichen Aufgaben, Fähigkeiten und Vorlieben. Es gibt mutige, feige und faule Bienen. Jede einzelne muss sich den Herausforderungen ihres Lebens stellen: Blumen finden, Hornissen bekämpfen und den richtigen Platz für den Nestbau finden. Das Leben einer Biene dauert nur sechs Wochen, aber für sie ist es ein ganzes Leben.",
+        "duration": "PT1H28M38S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4834249/1200x0/tagebuch-einer-biene.jpg",
+        "name": "Tagebuch einer Biene",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/tagebuch-einer-biene-20724",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-06-01T06:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=tagebuch-einer-biene-20724",
+              "sameAs": "%s/premium?typ=format&formatname=tagebuch-einer-biene-20724",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/tagebuch-einer-biene-20724",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Neueste Forschungen zeigen, dass Bienenvölker nicht so homogen sind, wie man glaubt, sondern voller \"Individuen\" mit unterschiedlichen Aufgaben, Fähigkeiten und Vorlieben. Es gibt mutige, feige und faule Bienen. Jede einzelne muss sich den Herausforderungen ihres Lebens stellen: Blumen finden, Hornissen bekämpfen und den richtigen Platz für den Nestbau finden. Das Leben einer Biene dauert nur sechs Wochen, aber für sie ist es ein ganzes Leben.",
+          "duration": "PT1H28M38S",
+          "embedUrl": "%s/googlebot/player/filme/tagebuch-einer-biene-20724",
+          "name": "Tagebuch einer Biene",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4834249/1200x0/tagebuch-einer-biene.jpg",
+          "uploadDate": "2022-06-01T06:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Tagebuch einer Biene im Online Stream | RTL+",
+        "headline": "Tagebuch einer Biene im Online Stream | RTL+",
+        "description": "Tagebuch einer Biene und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/tagebuch-einer-biene-20724",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4834249/1200x0/tagebuch-einer-biene.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4834249/1200x0/tagebuch-einer-biene.jpg",
+        "datePublished": "2022-06-01T06:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4834249/1200x0/tagebuch-einer-biene.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tagebuch einer Biene",
+            "item": "%s/filme/tagebuch-einer-biene-20724"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Tagebuch einer Biene im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

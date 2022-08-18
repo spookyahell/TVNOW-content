@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20535,
+  "additionalMeta": {
+    "canonical": "/filme/sex-and-the-city-2-20535",
+    "url": "/filme/sex-and-the-city-2-20535"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Sex and the City 2",
+      "url": "/filme/sex-and-the-city-2-20535"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20535,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Sex and the City 2 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Sex and the City 2 im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Sex and the City 2 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/sex-and-the-city-2-20535"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4785289/1600x0/sex-and-the-city-2.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4785289,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4785289",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20535"
+    },
+    {
+      "id": 20535,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20535",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [
+      "FILME Female"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Sex and the City 2",
+    "text": "Das Leben der vier New Yorker Freundinnen ist turbulent wie immer: Carrie Bradshaw muss Probleme in ihrer noch jungen Ehe bewältigen. Samantha kämpft mit den Auswirkungen ihrer Menopause. Charlotte ist eifersüchtig auf ihre junge, attraktive Nanny, und Miranda hat jede Menge Stress im Job. Wie gut, dass sich den gefrusteten Frauen die spontane Gelegenheit bietet, einen Kurzurlaub in Abu Dhabi zu machen.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/sex-and-the-city-2-20535",
+        "description": "Das Leben der vier New Yorker Freundinnen ist turbulent wie immer: Carrie Bradshaw muss Probleme in ihrer noch jungen Ehe bewältigen. Samantha kämpft mit den Auswirkungen ihrer Menopause. Charlotte ist eifersüchtig auf ihre junge, attraktive Nanny, und Miranda hat jede Menge Stress im Job. Wie gut, dass sich den gefrusteten Frauen die spontane Gelegenheit bietet, einen Kurzurlaub in Abu Dhabi zu machen.",
+        "duration": "PT2H20M12S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4785289/1200x0/sex-and-the-city-2.jpg",
+        "name": "Sex and the City 2",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/sex-and-the-city-2-20535",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=sex-and-the-city-2-20535",
+              "sameAs": "%s/premium?typ=format&formatname=sex-and-the-city-2-20535",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/sex-and-the-city-2-20535",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Das Leben der vier New Yorker Freundinnen ist turbulent wie immer: Carrie Bradshaw muss Probleme in ihrer noch jungen Ehe bewältigen. Samantha kämpft mit den Auswirkungen ihrer Menopause. Charlotte ist eifersüchtig auf ihre junge, attraktive Nanny, und Miranda hat jede Menge Stress im Job. Wie gut, dass sich den gefrusteten Frauen die spontane Gelegenheit bietet, einen Kurzurlaub in Abu Dhabi zu machen.",
+          "duration": "PT2H20M12S",
+          "embedUrl": "%s/googlebot/player/filme/sex-and-the-city-2-20535",
+          "name": "Sex and the City 2",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4785289/1200x0/sex-and-the-city-2.jpg",
+          "uploadDate": "2022-04-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Sex and the City 2 im Online Stream | RTL+",
+        "headline": "Sex and the City 2 im Online Stream | RTL+",
+        "description": "Sex and the City 2 und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/sex-and-the-city-2-20535",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4785289/1200x0/sex-and-the-city-2.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4785289/1200x0/sex-and-the-city-2.jpg",
+        "datePublished": "2022-04-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4785289/1200x0/sex-and-the-city-2.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sex and the City 2",
+            "item": "%s/filme/sex-and-the-city-2-20535"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Sex and the City 2 im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

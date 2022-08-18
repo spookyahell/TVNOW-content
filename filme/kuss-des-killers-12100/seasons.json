@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12100",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12100,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/der-kuss-des-killers-12100"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der Kuss des Killers",
+          "teaserId": "film_4887700",
+          "teaserName": "Der Kuss des Killers | Der Kuss des Killers",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "Do. 14.07.2022, 00:00 Uhr",
+          "teaserEpisodeName": "Der Kuss des Killers"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Kuss des Killers",
+        "id": 4887700,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4887700/300x0/der-kuss-des-killers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4887700/",
+            "filename": "der-kuss-des-killers"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4887700/600x0/der-kuss-des-killers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4887700/",
+            "filename": "der-kuss-des-killers"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4887700/1200x0/der-kuss-des-killers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4887700/",
+            "filename": "der-kuss-des-killers"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4887700/300x0/der-kuss-des-killers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4887700/",
+            "filename": "der-kuss-des-killers"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4887700/600x0/der-kuss-des-killers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4887700/",
+            "filename": "der-kuss-des-killers"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4887700/1200x0/der-kuss-des-killers.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4887700/",
+            "filename": "der-kuss-des-killers"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "kuss-des-killers",
+        "subheadline": "Der Kuss des Killers",
+        "text": "Staffel  | Do. 14.07.2022, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/der-kuss-des-killers-12100",
+        "videoId": 4887700
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

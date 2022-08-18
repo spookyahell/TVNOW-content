@@ -1,0 +1,217 @@
+﻿{
+  "formatId": 19372,
+  "additionalMeta": {
+    "canonical": "/serien/jetzt-oder-nie-wir-packens-an-19372",
+    "url": "/serien/jetzt-oder-nie-wir-packens-an-19372"
+  },
+  "ads": {
+    "station": "vox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Jetzt oder nie - Wir packen's an",
+      "url": "/serien/jetzt-oder-nie-wir-packens-an-19372"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 19372,
+  "meta": [
+    {
+      "content": "Die Serie Jetzt oder nie - Wir packen's an (VOX) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Jetzt oder nie - Wir packen's an im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Jetzt oder nie - Wir packen's an (VOX) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/jetzt-oder-nie-wir-packens-an-19372"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/19372_03artwork/1600x0/jetzt-oder-nie-wir-packens-an.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/19372",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/19372",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/19372",
+      "type": "teaserrow"
+    },
+    {
+      "id": 19372,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19372",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_vnsendungen",
+      "video": "dvrsowf_ten_vnsendungen",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/formate/home",
+      "levels": [
+        "tv_now_de",
+        "formate",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Helptainment",
+      "Lifestyle"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Jetzt oder nie - wir packen's an: Mehr Informationen zur Show!",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/jetzt-oder-nie-wir-packens-an-19372",
+        "url": "%s/serien/jetzt-oder-nie-wir-packens-an-19372",
+        "name": "Jetzt oder nie - Wir packen's an",
+        "description": "Die Serie Jetzt oder nie - Wir packen's an (VOX) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/19372_04metalogo/1200x0/jetzt-oder-nie-wir-packens-an.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Jetzt oder nie - wir packen's an: Mehr Informationen zur Show!",
+        "headline": "Jetzt oder nie - wir packen's an: Mehr Informationen zur Show!",
+        "description": "Die Serie Jetzt oder nie - Wir packen's an (VOX) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/jetzt-oder-nie-wir-packens-an-19372",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/19372_04metalogo/1200x0/jetzt-oder-nie-wir-packens-an.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/19372_04metalogo/1200x0/jetzt-oder-nie-wir-packens-an.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/19372_04metalogo/1200x0/jetzt-oder-nie-wir-packens-an.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Jetzt oder nie - Wir packen's an",
+            "item": "%s/serien/jetzt-oder-nie-wir-packens-an-19372"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Jetzt oder nie - Wir packen's an im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

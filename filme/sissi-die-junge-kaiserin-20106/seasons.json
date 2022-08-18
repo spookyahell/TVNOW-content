@@ -1,0 +1,109 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20106",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20106,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/sissi-die-junge-kaiserin-20106"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Sissi - Die junge Kaiserin",
+          "teaserId": "film_4317903",
+          "teaserName": "Sissi - Die junge Kaiserin | Sissi - Die junge Kaiserin",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [
+            "FILME Female",
+            "History Fiction",
+            "History"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Sissi - Die junge Kaiserin"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Sissi - Die junge Kaiserin",
+        "id": 4317903,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4317903/300x0/sissi-die-junge-kaiserin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4317903/",
+            "filename": "sissi-die-junge-kaiserin"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4317903/600x0/sissi-die-junge-kaiserin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4317903/",
+            "filename": "sissi-die-junge-kaiserin"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4317903/1200x0/sissi-die-junge-kaiserin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4317903/",
+            "filename": "sissi-die-junge-kaiserin"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4317903/300x0/sissi-die-junge-kaiserin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4317903/",
+            "filename": "sissi-die-junge-kaiserin"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4317903/600x0/sissi-die-junge-kaiserin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4317903/",
+            "filename": "sissi-die-junge-kaiserin"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4317903/1200x0/sissi-die-junge-kaiserin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4317903/",
+            "filename": "sissi-die-junge-kaiserin"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sissi-die-junge-kaiserin",
+        "subheadline": "Sissi - Die junge Kaiserin",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/sissi-die-junge-kaiserin-20106",
+        "videoId": 4317903
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

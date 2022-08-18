@@ -1,0 +1,238 @@
+﻿{
+  "formatId": 20438,
+  "additionalMeta": {
+    "canonical": "/filme/ungezaehmte-natur-tiere-unter-sich-20438",
+    "url": "/filme/ungezaehmte-natur-tiere-unter-sich-20438"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Ungezähmte Natur - Tiere unter sich",
+      "url": "/filme/ungezaehmte-natur-tiere-unter-sich-20438"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20438,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Ungezähmte Natur - Tiere unter sich 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Ungezähmte Natur - Tiere unter sich im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Ungezähmte Natur - Tiere unter sich 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/ungezaehmte-natur-tiere-unter-sich-20438"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4719848/1600x0/ungezaehmte-natur-tiere-unter-sich.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4719848,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4719848",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20438"
+    },
+    {
+      "id": 20438,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20438",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnungezaehmtenatur",
+      "video": "dvrsowf_ten_tnungezaehmtenatur",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/ungezaehmte_natur/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "ungezaehmte_natur",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Tiere",
+      "Natur"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Ungezähmte Natur - Tiere unter sich",
+    "text": "In dieser Dokumentation dreht sich alles um das Sozialverhalten wilder Tiere. Der Film gibt Einblicke in eine Kolonie europäischer Seevögel, er verrät die Geheimnisse wilder Jaguare im Amazonas und beleuchtet das Leben eines loyalen Zwergadler-Vogelpaars. Daneben zeigt er die Beziehung einer Grizzlybären-Mutter mit einem Männchen in Alaska - und andere faszinierende Beispiele aus dem Tierreich.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/ungezaehmte-natur-tiere-unter-sich-20438",
+        "description": "In dieser Dokumentation dreht sich alles um das Sozialverhalten wilder Tiere. Der Film gibt Einblicke in eine Kolonie europäischer Seevögel, er verrät die Geheimnisse wilder Jaguare im Amazonas und beleuchtet das Leben eines loyalen Zwergadler-Vogelpaars. Daneben zeigt er die Beziehung einer Grizzlybären-Mutter mit einem Männchen in Alaska - und andere faszinierende Beispiele aus dem Tierreich.",
+        "duration": "PT52M46S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4719848/1200x0/ungezaehmte-natur-tiere-unter-sich.jpg",
+        "name": "Ungezähmte Natur - Tiere unter sich",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/ungezaehmte-natur-tiere-unter-sich-20438",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-03-01T06:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=ungezaehmte-natur-tiere-unter-sich-20438",
+              "sameAs": "%s/premium?typ=format&formatname=ungezaehmte-natur-tiere-unter-sich-20438",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/ungezaehmte-natur-tiere-unter-sich-20438",
+        "video": {
+          "@type": "VideoObject",
+          "description": "In dieser Dokumentation dreht sich alles um das Sozialverhalten wilder Tiere. Der Film gibt Einblicke in eine Kolonie europäischer Seevögel, er verrät die Geheimnisse wilder Jaguare im Amazonas und beleuchtet das Leben eines loyalen Zwergadler-Vogelpaars. Daneben zeigt er die Beziehung einer Grizzlybären-Mutter mit einem Männchen in Alaska - und andere faszinierende Beispiele aus dem Tierreich.",
+          "duration": "PT52M46S",
+          "embedUrl": "%s/googlebot/player/filme/ungezaehmte-natur-tiere-unter-sich-20438",
+          "name": "Ungezähmte Natur - Tiere unter sich",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4719848/1200x0/ungezaehmte-natur-tiere-unter-sich.jpg",
+          "uploadDate": "2022-03-01T06:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Ungezähmte Natur - Tiere unter sich im Online Stream | RTL+",
+        "headline": "Ungezähmte Natur - Tiere unter sich im Online Stream | RTL+",
+        "description": "Ungezähmte Natur - Tiere unter sich und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/ungezaehmte-natur-tiere-unter-sich-20438",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4719848/1200x0/ungezaehmte-natur-tiere-unter-sich.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4719848/1200x0/ungezaehmte-natur-tiere-unter-sich.jpg",
+        "datePublished": "2022-03-01T06:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4719848/1200x0/ungezaehmte-natur-tiere-unter-sich.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ungezähmte Natur - Tiere unter sich",
+            "item": "%s/filme/ungezaehmte-natur-tiere-unter-sich-20438"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Ungezähmte Natur - Tiere unter sich im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

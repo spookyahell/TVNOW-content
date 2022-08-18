@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20775,
+  "additionalMeta": {
+    "canonical": "/filme/die-supernasen-20775",
+    "url": "/filme/die-supernasen-20775"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die Supernasen",
+      "url": "/filme/die-supernasen-20775"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20775,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Die Supernasen 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Supernasen im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Die Supernasen 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/die-supernasen-20775"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4852272/1600x0/die-supernasen.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4852272,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4852272",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20775"
+    },
+    {
+      "id": 20775,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20775",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [
+      "FILME Komödien"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Die Supernasen",
+    "text": "Als der Musiker Mike von seiner Freundin verlassen wird, trifft er auf den Maskenbildner Tommy, der gerade seinen Job verloren hat. Da die beiden jungen Männer eine neue Einnahmequelle brauchen, entscheidet sich das dynamische Duo dafür, als Privatdetektive zu arbeiten. Ihr erster Fall betrifft einen reichen Mann, der wissen will, ob seine Frau ihn betrügt. Sie soll während ihres Kuraufenthaltes beschattet werden.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/die-supernasen-20775",
+        "description": "Als der Musiker Mike von seiner Freundin verlassen wird, trifft er auf den Maskenbildner Tommy, der gerade seinen Job verloren hat. Da die beiden jungen Männer eine neue Einnahmequelle brauchen, entscheidet sich das dynamische Duo dafür, als Privatdetektive zu arbeiten. Ihr erster Fall betrifft einen reichen Mann, der wissen will, ob seine Frau ihn betrügt. Sie soll während ihres Kuraufenthaltes beschattet werden.",
+        "duration": "PT1H23M12S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4852272/1200x0/die-supernasen.jpg",
+        "name": "Die Supernasen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/die-supernasen-20775",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=die-supernasen-20775",
+              "sameAs": "%s/premium?typ=format&formatname=die-supernasen-20775",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/die-supernasen-20775",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Als der Musiker Mike von seiner Freundin verlassen wird, trifft er auf den Maskenbildner Tommy, der gerade seinen Job verloren hat. Da die beiden jungen Männer eine neue Einnahmequelle brauchen, entscheidet sich das dynamische Duo dafür, als Privatdetektive zu arbeiten. Ihr erster Fall betrifft einen reichen Mann, der wissen will, ob seine Frau ihn betrügt. Sie soll während ihres Kuraufenthaltes beschattet werden.",
+          "duration": "PT1H23M12S",
+          "embedUrl": "%s/googlebot/player/filme/die-supernasen-20775",
+          "name": "Die Supernasen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4852272/1200x0/die-supernasen.jpg",
+          "uploadDate": "2022-07-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Supernasen im Online Stream | RTL+",
+        "headline": "Die Supernasen im Online Stream | RTL+",
+        "description": "Die Supernasen und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei RTL+. Ein Film mit ▶️Thomas Gottschalk, Mike Krüger, Wolfgang Fiereck, Gert Haucke, Liane Hielscher, Andrea L´Arronge, Susann Winter, Thea Gottschalk, Jochen Busse.",
+        "url": "%s/filme/die-supernasen-20775",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4852272/1200x0/die-supernasen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4852272/1200x0/die-supernasen.jpg",
+        "datePublished": "2022-07-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4852272/1200x0/die-supernasen.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Supernasen",
+            "item": "%s/filme/die-supernasen-20775"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Supernasen im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,210 @@
+﻿{
+  "formatId": 20333,
+  "additionalMeta": {
+    "canonical": "/serien/blaze-und-die-monster-maschinen-20333",
+    "url": "/serien/blaze-und-die-monster-maschinen-20333"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Blaze und die Monster-Maschinen",
+      "url": "/serien/blaze-und-die-monster-maschinen-20333"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 20333,
+  "meta": [
+    {
+      "content": "Die Serie Blaze und die Monster-Maschinen (TOGGO plus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Blaze und die Monster-Maschinen im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Blaze und die Monster-Maschinen (TOGGO plus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/blaze-und-die-monster-maschinen-20333"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/20333_03artwork/1600x0/blaze-und-die-monster-maschinen.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/20333",
+      "type": "teaserrow"
+    },
+    {
+      "id": 20333,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20333",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tpnblazemonster",
+      "video": "dvrsowf_ten_tpnblazemonster",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/blaze_monster/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "blaze_monster",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 3 bis 6 Jahre",
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Action und Abenteuer",
+      "KIDS Jungs",
+      "KIDS Lustig und schräg",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/blaze-und-die-monster-maschinen-20333",
+        "url": "%s/serien/blaze-und-die-monster-maschinen-20333",
+        "name": "Blaze und die Monster-Maschinen",
+        "description": "Die Serie Blaze und die Monster-Maschinen (TOGGO plus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/20333_04metalogo/1200x0/blaze-und-die-monster-maschinen.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "",
+        "headline": "",
+        "description": "Die Serie Blaze und die Monster-Maschinen (TOGGO plus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/blaze-und-die-monster-maschinen-20333",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/20333_04metalogo/1200x0/blaze-und-die-monster-maschinen.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/20333_04metalogo/1200x0/blaze-und-die-monster-maschinen.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/20333_04metalogo/1200x0/blaze-und-die-monster-maschinen.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Blaze und die Monster-Maschinen",
+            "item": "%s/serien/blaze-und-die-monster-maschinen-20333"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Blaze und die Monster-Maschinen im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

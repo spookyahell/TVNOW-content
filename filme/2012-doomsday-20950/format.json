@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 20950,
+  "additionalMeta": {
+    "canonical": "/filme/2012-doomsday-20950",
+    "url": "/filme/2012-doomsday-20950"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "2012 Doomsday",
+      "url": "/filme/2012-doomsday-20950"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 20950,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ 2012 Doomsday 📺 und viele weitere ▶ Filme aus dem Genre Science Fiction findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "2012 Doomsday im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ 2012 Doomsday 📺 und viele weitere ▶ Filme aus dem Genre Science Fiction findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/2012-doomsday-20950"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4946755/1600x0/2012-doomsday.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4946755,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4946755",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20950"
+    },
+    {
+      "id": 20950,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20950",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_science_fiction/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_science_fiction",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Science Fiction",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: 2012 Doomsday",
+    "text": "Gemäß einem jahrhundertealten Maya-Kalender ist der prophezeite Tag des Weltuntergangs, der Apokalypse, am 21. Dezember 2012. NASA-Wissenschaftler haben zwischenzeitlich festgestellt, dass eine verhängnisvolle polare Verschiebung laut Berechnungen, im Begriff ist, die Erde an diesem Tag ins Verderben zu stürzen. Aus diesem Grund werden vier Fremde auf eine Reise zu einem alten Tempel im Herzen von Mexiko geschickt, um der Vorhersehung auf den Grund zu gehen. Ist es möglich, dass hier der Schlüssel für die Rettung der Menschheit zu finden ist? Wenn nicht, könnte der Tag des Jüngsten Gerichts gekommen sein...   ",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/2012-doomsday-20950",
+        "description": "Gemäß einem jahrhundertealten Maya-Kalender ist der prophezeite Tag des Weltuntergangs, der Apokalypse, am 21. Dezember 2012. NASA-Wissenschaftler haben zwischenzeitlich festgestellt, dass eine verhängnisvolle polare Verschiebung laut Berechnungen, im Begriff ist, die Erde an diesem Tag ins Verderben zu stürzen. Aus diesem Grund werden vier Fremde auf eine Reise zu einem alten Tempel im Herzen von Mexiko geschickt, um der Vorhersehung auf den Grund zu gehen. Ist es möglich, dass hier der Schlüssel für die Rettung der Menschheit zu finden ist? Wenn nicht, könnte der Tag des Jüngsten Gerichts gekommen sein...   ",
+        "duration": "PT1H21M50S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4946755/1200x0/2012-doomsday.jpg",
+        "name": "2012 Doomsday",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/2012-doomsday-20950",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2012-11-05T00:00:00.000Z"
+          }
+        },
+        "url": "%s/filme/2012-doomsday-20950",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Gemäß einem jahrhundertealten Maya-Kalender ist der prophezeite Tag des Weltuntergangs, der Apokalypse, am 21. Dezember 2012. NASA-Wissenschaftler haben zwischenzeitlich festgestellt, dass eine verhängnisvolle polare Verschiebung laut Berechnungen, im Begriff ist, die Erde an diesem Tag ins Verderben zu stürzen. Aus diesem Grund werden vier Fremde auf eine Reise zu einem alten Tempel im Herzen von Mexiko geschickt, um der Vorhersehung auf den Grund zu gehen. Ist es möglich, dass hier der Schlüssel für die Rettung der Menschheit zu finden ist? Wenn nicht, könnte der Tag des Jüngsten Gerichts gekommen sein...   ",
+          "duration": "PT1H21M50S",
+          "embedUrl": "%s/googlebot/player/filme/2012-doomsday-20950",
+          "name": "2012 Doomsday",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4946755/1200x0/2012-doomsday.jpg",
+          "uploadDate": "2012-11-05T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "2012 Doomsday im Online Stream | RTL+",
+        "headline": "2012 Doomsday im Online Stream | RTL+",
+        "description": "2012 Doomsday und viele weitere  ▶️Filme aus dem Genre Science Fiction findest du im Online Stream bei RTL+. Ein Film mit ▶️Cliff De Young, Dale Midkiff, Ami Dolenz.",
+        "url": "%s/filme/2012-doomsday-20950",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4946755/1200x0/2012-doomsday.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4946755/1200x0/2012-doomsday.jpg",
+        "datePublished": "2012-11-05T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4946755/1200x0/2012-doomsday.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2012 Doomsday",
+            "item": "%s/filme/2012-doomsday-20950"
+          }
+        ]
+      }
+    }
+  },
+  "title": "2012 Doomsday im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

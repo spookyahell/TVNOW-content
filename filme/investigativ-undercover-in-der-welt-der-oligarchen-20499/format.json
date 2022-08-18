@@ -1,0 +1,231 @@
+﻿{
+  "formatId": 20499,
+  "additionalMeta": {
+    "canonical": "/filme/investigativ-undercover-in-der-welt-der-oligarchen-20499",
+    "url": "/filme/investigativ-undercover-in-der-welt-der-oligarchen-20499"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Investigativ - Undercover in der Welt der Oligarchen",
+      "url": "/filme/investigativ-undercover-in-der-welt-der-oligarchen-20499"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 20499,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Investigativ - Undercover in der Welt der Oligarchen 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Investigativ - Undercover in der Welt der Oligarchen im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Investigativ - Undercover in der Welt der Oligarchen 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/investigativ-undercover-in-der-welt-der-oligarchen-20499"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4749555/1600x0/investigativ-undercover-in-der-welt-der-oligarchen.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4749555,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4749555",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20499"
+    },
+    {
+      "id": 20499,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20499",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Wissen"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Investigativ - Undercover in der Welt der Oligarchen",
+    "text": "Eine Investigativrecherche deckt ein geheimes Komplott osteuropäischer Oligarchen auf, die mithilfe eines Netzwerks aus Offshore-Unternehmen Millionen von Dollar erbeuten wollen. Die Dokumentation blickt auf die genaue Vorgehensweise, welche die Täter nutzten, um das Geld an den globalen Finanzregulatoren vorbei zu schleusen. Zudem werden die einzelnen Mitglieder des Komplotts genauer beleuchtet.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/investigativ-undercover-in-der-welt-der-oligarchen-20499",
+        "description": "Eine Investigativrecherche deckt ein geheimes Komplott osteuropäischer Oligarchen auf, die mithilfe eines Netzwerks aus Offshore-Unternehmen Millionen von Dollar erbeuten wollen. Die Dokumentation blickt auf die genaue Vorgehensweise, welche die Täter nutzten, um das Geld an den globalen Finanzregulatoren vorbei zu schleusen. Zudem werden die einzelnen Mitglieder des Komplotts genauer beleuchtet.",
+        "duration": "PT42M41S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4749555/1200x0/investigativ-undercover-in-der-welt-der-oligarchen.jpg",
+        "name": "Investigativ - Undercover in der Welt der Oligarchen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/investigativ-undercover-in-der-welt-der-oligarchen-20499",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2022-03-21T20:15:00.000Z"
+          }
+        },
+        "url": "%s/filme/investigativ-undercover-in-der-welt-der-oligarchen-20499",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Eine Investigativrecherche deckt ein geheimes Komplott osteuropäischer Oligarchen auf, die mithilfe eines Netzwerks aus Offshore-Unternehmen Millionen von Dollar erbeuten wollen. Die Dokumentation blickt auf die genaue Vorgehensweise, welche die Täter nutzten, um das Geld an den globalen Finanzregulatoren vorbei zu schleusen. Zudem werden die einzelnen Mitglieder des Komplotts genauer beleuchtet.",
+          "duration": "PT42M41S",
+          "embedUrl": "%s/googlebot/player/filme/investigativ-undercover-in-der-welt-der-oligarchen-20499",
+          "name": "Investigativ - Undercover in der Welt der Oligarchen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4749555/1200x0/investigativ-undercover-in-der-welt-der-oligarchen.jpg",
+          "uploadDate": "2022-03-21T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Investigativ - Undercover in der Welt der Oligarchen im Online Stream | RTL+",
+        "headline": "Investigativ - Undercover in der Welt der Oligarchen im Online Stream | RTL+",
+        "description": "Investigativ - Undercover in der Welt der Oligarchen und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/investigativ-undercover-in-der-welt-der-oligarchen-20499",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4749555/1200x0/investigativ-undercover-in-der-welt-der-oligarchen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4749555/1200x0/investigativ-undercover-in-der-welt-der-oligarchen.jpg",
+        "datePublished": "2022-03-21T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4749555/1200x0/investigativ-undercover-in-der-welt-der-oligarchen.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Investigativ - Undercover in der Welt der Oligarchen",
+            "item": "%s/filme/investigativ-undercover-in-der-welt-der-oligarchen-20499"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Investigativ - Undercover in der Welt der Oligarchen im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

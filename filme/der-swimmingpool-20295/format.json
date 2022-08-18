@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20295,
+  "additionalMeta": {
+    "canonical": "/filme/der-swimmingpool-20295",
+    "url": "/filme/der-swimmingpool-20295"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Der Swimmingpool",
+      "url": "/filme/der-swimmingpool-20295"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20295,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Der Swimmingpool 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Der Swimmingpool im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Der Swimmingpool 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/der-swimmingpool-20295"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4343649/1600x0/der-swimmingpool.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4343649,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4343649",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20295"
+    },
+    {
+      "id": 20295,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20295",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_klassiker/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_klassiker",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Der Swimmingpool - Informationen zum Film",
+    "text": "Marianne und Jean-Paul verbringen einen Liebesurlaub in einem luxuriösen Ferienhaus in der Nähe von St. Tropez. Als Marianne hört, dass ihr ehemaliger Geliebter, Jean-Pauls Freund Harry, mit seiner 18-jährigen Tochter Pénélope ebenfalls Urlaub in der Gegend macht, lädt sie die beiden auf das Anwesen ein. Die Wiedersehensfreude wird bereits nach wenigen Tagen von Misstrauen und Eifersucht überschattet. ",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/der-swimmingpool-20295",
+        "description": "Marianne und Jean-Paul verbringen einen Liebesurlaub in einem luxuriösen Ferienhaus in der Nähe von St. Tropez. Als Marianne hört, dass ihr ehemaliger Geliebter, Jean-Pauls Freund Harry, mit seiner 18-jährigen Tochter Pénélope ebenfalls Urlaub in der Gegend macht, lädt sie die beiden auf das Anwesen ein. Die Wiedersehensfreude wird bereits nach wenigen Tagen von Misstrauen und Eifersucht überschattet. ",
+        "duration": "PT1H58M12S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4343649/1200x0/der-swimmingpool.jpg",
+        "name": "Der Swimmingpool",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/der-swimmingpool-20295",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-12-23T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=der-swimmingpool-20295",
+              "sameAs": "%s/premium?typ=format&formatname=der-swimmingpool-20295",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/der-swimmingpool-20295",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Marianne und Jean-Paul verbringen einen Liebesurlaub in einem luxuriösen Ferienhaus in der Nähe von St. Tropez. Als Marianne hört, dass ihr ehemaliger Geliebter, Jean-Pauls Freund Harry, mit seiner 18-jährigen Tochter Pénélope ebenfalls Urlaub in der Gegend macht, lädt sie die beiden auf das Anwesen ein. Die Wiedersehensfreude wird bereits nach wenigen Tagen von Misstrauen und Eifersucht überschattet. ",
+          "duration": "PT1H58M12S",
+          "embedUrl": "%s/googlebot/player/filme/der-swimmingpool-20295",
+          "name": "Der Swimmingpool",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4343649/1200x0/der-swimmingpool.jpg",
+          "uploadDate": "2021-12-23T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Der Swimmingpool im Online Stream | RTL+",
+        "headline": "Der Swimmingpool im Online Stream | RTL+",
+        "description": "Der Swimmingpool und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+. Ein Film mit ▶️Madly Bamy, Jane Birkin, Paul Crauet, Alain Delon, Steve Eckhardt, Maurice Ronet, Romy Schneider.",
+        "url": "%s/filme/der-swimmingpool-20295",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4343649/1200x0/der-swimmingpool.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4343649/1200x0/der-swimmingpool.jpg",
+        "datePublished": "2021-12-23T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4343649/1200x0/der-swimmingpool.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Der Swimmingpool",
+            "item": "%s/filme/der-swimmingpool-20295"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Der Swimmingpool im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

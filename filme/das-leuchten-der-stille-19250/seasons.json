@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19250",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19250,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/das-leuchten-der-stille-19250"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Leuchten der Stille",
+          "teaserId": "film_3718272",
+          "teaserName": "Das Leuchten der Stille | Das Leuchten der Stille",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [
+            "FILME Female"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Das Leuchten der Stille"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das Leuchten der Stille",
+        "id": 3718272,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3718272/300x0/das-leuchten-der-stille.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3718272/",
+            "filename": "das-leuchten-der-stille"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3718272/600x0/das-leuchten-der-stille.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3718272/",
+            "filename": "das-leuchten-der-stille"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3718272/1200x0/das-leuchten-der-stille.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3718272/",
+            "filename": "das-leuchten-der-stille"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3718272/300x0/das-leuchten-der-stille.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3718272/",
+            "filename": "das-leuchten-der-stille"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3718272/600x0/das-leuchten-der-stille.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3718272/",
+            "filename": "das-leuchten-der-stille"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3718272/1200x0/das-leuchten-der-stille.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3718272/",
+            "filename": "das-leuchten-der-stille"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-leuchten-der-stille",
+        "subheadline": "Das Leuchten der Stille",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/das-leuchten-der-stille-19250",
+        "videoId": 3718272
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

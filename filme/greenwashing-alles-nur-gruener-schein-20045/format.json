@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 20045,
+  "additionalMeta": {
+    "canonical": "/filme/greenwashing-alles-nur-gruener-schein-20045",
+    "url": "/filme/greenwashing-alles-nur-gruener-schein-20045"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Greenwashing - Alles nur grüner Schein?",
+      "url": "/filme/greenwashing-alles-nur-gruener-schein-20045"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 20045,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Greenwashing - Alles nur grüner Schein? 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Greenwashing - Alles nur grüner Schein? im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Greenwashing - Alles nur grüner Schein? 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/greenwashing-alles-nur-gruener-schein-20045"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4177722/1600x0/greenwashing-alles-nur-gruener-schein.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4177722,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4177722",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20045"
+    },
+    {
+      "id": 20045,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20045",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Greenwashing - Alles nur grüner Schein?",
+    "text": "Vegan, 100% Altplastik, ohne Geschmacksverstärker - mit nachhaltigen Deklarationen soll der Absatz gefördert und gleichzeitig ein besonderer Wert vermittelt werden. Denn Unternehmen stehen unter großem Druck, den nachhaltigen Konsumententrend zu bedienen. Greenwashing versus echter Wertewandel: Wie stellen sich Unternehmen nachhaltig auf? Wie ändert man sein Image? Und warum ist es so schwer, ganzheitlich nachhaltig zu sein?",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/greenwashing-alles-nur-gruener-schein-20045",
+        "description": "Vegan, 100% Altplastik, ohne Geschmacksverstärker - mit nachhaltigen Deklarationen soll der Absatz gefördert und gleichzeitig ein besonderer Wert vermittelt werden. Denn Unternehmen stehen unter großem Druck, den nachhaltigen Konsumententrend zu bedienen. Greenwashing versus echter Wertewandel: Wie stellen sich Unternehmen nachhaltig auf? Wie ändert man sein Image? Und warum ist es so schwer, ganzheitlich nachhaltig zu sein?",
+        "duration": "PT41M10S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4177722/1200x0/greenwashing-alles-nur-gruener-schein.jpg",
+        "name": "Greenwashing - Alles nur grüner Schein?",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/greenwashing-alles-nur-gruener-schein-20045",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2021-11-01T22:10:00.000Z"
+          }
+        },
+        "url": "%s/filme/greenwashing-alles-nur-gruener-schein-20045",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Vegan, 100% Altplastik, ohne Geschmacksverstärker - mit nachhaltigen Deklarationen soll der Absatz gefördert und gleichzeitig ein besonderer Wert vermittelt werden. Denn Unternehmen stehen unter großem Druck, den nachhaltigen Konsumententrend zu bedienen. Greenwashing versus echter Wertewandel: Wie stellen sich Unternehmen nachhaltig auf? Wie ändert man sein Image? Und warum ist es so schwer, ganzheitlich nachhaltig zu sein?",
+          "duration": "PT41M10S",
+          "embedUrl": "%s/googlebot/player/filme/greenwashing-alles-nur-gruener-schein-20045",
+          "name": "Greenwashing - Alles nur grüner Schein?",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4177722/1200x0/greenwashing-alles-nur-gruener-schein.jpg",
+          "uploadDate": "2021-11-01T22:10:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Greenwashing - Alles nur grüner Schein? im Online Stream | RTL+",
+        "headline": "Greenwashing - Alles nur grüner Schein? im Online Stream | RTL+",
+        "description": "Greenwashing - Alles nur grüner Schein? und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/greenwashing-alles-nur-gruener-schein-20045",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4177722/1200x0/greenwashing-alles-nur-gruener-schein.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4177722/1200x0/greenwashing-alles-nur-gruener-schein.jpg",
+        "datePublished": "2021-11-01T22:10:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4177722/1200x0/greenwashing-alles-nur-gruener-schein.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Greenwashing - Alles nur grüner Schein?",
+            "item": "%s/filme/greenwashing-alles-nur-gruener-schein-20045"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Greenwashing - Alles nur grüner Schein? im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

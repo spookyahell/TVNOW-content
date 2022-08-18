@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20077,
+  "additionalMeta": {
+    "canonical": "/filme/wer-traeumt-nicht-vom-grossen-geld-20077",
+    "url": "/filme/wer-traeumt-nicht-vom-grossen-geld-20077"
+  },
+  "ads": {
+    "station": "passion",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Wer träumt nicht vom großen Geld?",
+      "url": "/filme/wer-traeumt-nicht-vom-grossen-geld-20077"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20077,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Wer träumt nicht vom großen Geld? 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Wer träumt nicht vom großen Geld? im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Wer träumt nicht vom großen Geld? 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/wer-traeumt-nicht-vom-grossen-geld-20077"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4185418/1600x0/wer-traeumt-nicht-vom-grossen-geld.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4185418,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4185418",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20077"
+    },
+    {
+      "id": 20077,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20077",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/passion_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "passion_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Wer träumt nicht vom großen Geld?",
+    "text": "Die junge Shivani ist unsterblich in ihren Nachbarn Arjun verliebt. Doch ihr streng religiöser Vater hat etwas gegen die Beziehung zu dem Christen und hat sie einem anderen Mann versprochen. Um die Hochzeit zu verhindern, schmiedet Arjun mit seinem Freund Kishen einen waghalsigen Plan. Damit sorgen sie nicht nur für Entsetzen bei Shivanis Vater. Plötzlich tauchen auch alte Bekannte von Kishen auf, die noch eine Rechnung mit ihm offen haben.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/wer-traeumt-nicht-vom-grossen-geld-20077",
+        "description": "Die junge Shivani ist unsterblich in ihren Nachbarn Arjun verliebt. Doch ihr streng religiöser Vater hat etwas gegen die Beziehung zu dem Christen und hat sie einem anderen Mann versprochen. Um die Hochzeit zu verhindern, schmiedet Arjun mit seinem Freund Kishen einen waghalsigen Plan. Damit sorgen sie nicht nur für Entsetzen bei Shivanis Vater. Plötzlich tauchen auch alte Bekannte von Kishen auf, die noch eine Rechnung mit ihm offen haben.",
+        "duration": "PT1H58M18S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4185418/1200x0/wer-traeumt-nicht-vom-grossen-geld.jpg",
+        "name": "Wer träumt nicht vom großen Geld?",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/wer-traeumt-nicht-vom-grossen-geld-20077",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-08-07T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=wer-traeumt-nicht-vom-grossen-geld-20077",
+              "sameAs": "%s/premium?typ=format&formatname=wer-traeumt-nicht-vom-grossen-geld-20077",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/wer-traeumt-nicht-vom-grossen-geld-20077",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die junge Shivani ist unsterblich in ihren Nachbarn Arjun verliebt. Doch ihr streng religiöser Vater hat etwas gegen die Beziehung zu dem Christen und hat sie einem anderen Mann versprochen. Um die Hochzeit zu verhindern, schmiedet Arjun mit seinem Freund Kishen einen waghalsigen Plan. Damit sorgen sie nicht nur für Entsetzen bei Shivanis Vater. Plötzlich tauchen auch alte Bekannte von Kishen auf, die noch eine Rechnung mit ihm offen haben.",
+          "duration": "PT1H58M18S",
+          "embedUrl": "%s/googlebot/player/filme/wer-traeumt-nicht-vom-grossen-geld-20077",
+          "name": "Wer träumt nicht vom großen Geld?",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4185418/1200x0/wer-traeumt-nicht-vom-grossen-geld.jpg",
+          "uploadDate": "2022-08-07T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Wer träumt nicht vom großen Geld? im Online Stream | RTL+",
+        "headline": "Wer träumt nicht vom großen Geld? im Online Stream | RTL+",
+        "description": "Wer träumt nicht vom großen Geld? und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+. Ein Film mit ▶️Celina Jaitley, Koena Mitra, Riteish Deshmukh, Riya Sen, Sunil Shetty, Jackie Shroff, Shreyas Talpade.",
+        "url": "%s/filme/wer-traeumt-nicht-vom-grossen-geld-20077",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4185418/1200x0/wer-traeumt-nicht-vom-grossen-geld.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4185418/1200x0/wer-traeumt-nicht-vom-grossen-geld.jpg",
+        "datePublished": "2022-08-07T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4185418/1200x0/wer-traeumt-nicht-vom-grossen-geld.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wer träumt nicht vom großen Geld?",
+            "item": "%s/filme/wer-traeumt-nicht-vom-grossen-geld-20077"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Wer träumt nicht vom großen Geld? im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

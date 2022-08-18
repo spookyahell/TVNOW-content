@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20304",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20304,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/walking-on-sunshine-20304"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Walking on Sunshine",
+          "teaserId": "film_4390707",
+          "teaserName": "Walking on Sunshine | Walking on Sunshine",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Walking on Sunshine"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Walking on Sunshine",
+        "id": 4390707,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390707/300x0/walking-on-sunshine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390707/",
+            "filename": "walking-on-sunshine"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390707/600x0/walking-on-sunshine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390707/",
+            "filename": "walking-on-sunshine"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390707/1200x0/walking-on-sunshine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390707/",
+            "filename": "walking-on-sunshine"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390707/300x0/walking-on-sunshine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390707/",
+            "filename": "walking-on-sunshine"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390707/600x0/walking-on-sunshine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390707/",
+            "filename": "walking-on-sunshine"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390707/1200x0/walking-on-sunshine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390707/",
+            "filename": "walking-on-sunshine"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "walking-on-sunshine",
+        "subheadline": "Walking on Sunshine",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/walking-on-sunshine-20304",
+        "videoId": 4390707
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

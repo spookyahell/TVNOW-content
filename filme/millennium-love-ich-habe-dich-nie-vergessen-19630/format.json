@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19630,
+  "additionalMeta": {
+    "canonical": "/filme/millennium-love-ich-habe-dich-nie-vergessen-19630",
+    "url": "/filme/millennium-love-ich-habe-dich-nie-vergessen-19630"
+  },
+  "ads": {
+    "station": "passion",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Millennium Love - Ich habe dich nie vergessen",
+      "url": "/filme/millennium-love-ich-habe-dich-nie-vergessen-19630"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19630,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Millennium Love - Ich habe dich nie vergessen 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Millennium Love - Ich habe dich nie vergessen im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Millennium Love - Ich habe dich nie vergessen 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/millennium-love-ich-habe-dich-nie-vergessen-19630"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3991008/1600x0/millennium-love-ich-habe-dich-nie-vergessen.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3991008,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3991008",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19630"
+    },
+    {
+      "id": 19630,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19630",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/passion_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "passion_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Millennium Love - Ich habe dich nie vergessen",
+    "text": "\"Millennium Love - Ich habe dich nie vergessen\" ist eine wunderbar romantische Komödie. Floriane Daniel und Roman Knizka spielen zwei Liebende, die sich vor zehn Jahren aus den Augen verloren haben. In der Silvesternacht zum neuen Jahrtausend finden sie wieder zueinander...",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/millennium-love-ich-habe-dich-nie-vergessen-19630",
+        "description": "\"Millennium Love - Ich habe dich nie vergessen\" ist eine wunderbar romantische Komödie. Floriane Daniel und Roman Knizka spielen zwei Liebende, die sich vor zehn Jahren aus den Augen verloren haben. In der Silvesternacht zum neuen Jahrtausend finden sie wieder zueinander...",
+        "duration": "PT1H30M33S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3991008/1200x0/millennium-love-ich-habe-dich-nie-vergessen.jpg",
+        "name": "Millennium Love - Ich habe dich nie vergessen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/millennium-love-ich-habe-dich-nie-vergessen-19630",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-05-01T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=millennium-love-ich-habe-dich-nie-vergessen-19630",
+              "sameAs": "%s/premium?typ=format&formatname=millennium-love-ich-habe-dich-nie-vergessen-19630",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/millennium-love-ich-habe-dich-nie-vergessen-19630",
+        "video": {
+          "@type": "VideoObject",
+          "description": "\"Millennium Love - Ich habe dich nie vergessen\" ist eine wunderbar romantische Komödie. Floriane Daniel und Roman Knizka spielen zwei Liebende, die sich vor zehn Jahren aus den Augen verloren haben. In der Silvesternacht zum neuen Jahrtausend finden sie wieder zueinander...",
+          "duration": "PT1H30M33S",
+          "embedUrl": "%s/googlebot/player/filme/millennium-love-ich-habe-dich-nie-vergessen-19630",
+          "name": "Millennium Love - Ich habe dich nie vergessen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3991008/1200x0/millennium-love-ich-habe-dich-nie-vergessen.jpg",
+          "uploadDate": "2021-05-01T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Millennium Love - Ich habe dich nie vergessen im Online Stream | RTL+",
+        "headline": "Millennium Love - Ich habe dich nie vergessen im Online Stream | RTL+",
+        "description": "Millennium Love - Ich habe dich nie vergessen und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei RTL+. Ein Film mit ▶️Floriane Daniel, Brit Gülland, Roman Kniszka, Frank Stieren, Oliver Stokowski.",
+        "url": "%s/filme/millennium-love-ich-habe-dich-nie-vergessen-19630",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3991008/1200x0/millennium-love-ich-habe-dich-nie-vergessen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3991008/1200x0/millennium-love-ich-habe-dich-nie-vergessen.jpg",
+        "datePublished": "2021-05-01T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3991008/1200x0/millennium-love-ich-habe-dich-nie-vergessen.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Millennium Love - Ich habe dich nie vergessen",
+            "item": "%s/filme/millennium-love-ich-habe-dich-nie-vergessen-19630"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Millennium Love - Ich habe dich nie vergessen im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

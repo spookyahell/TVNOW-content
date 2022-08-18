@@ -1,0 +1,231 @@
+﻿{
+  "formatId": 20498,
+  "additionalMeta": {
+    "canonical": "/filme/zerbrechliche-demokratie-kampf-der-autokraten-20498",
+    "url": "/filme/zerbrechliche-demokratie-kampf-der-autokraten-20498"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Zerbrechliche Demokratie - Kampf der Autokraten",
+      "url": "/filme/zerbrechliche-demokratie-kampf-der-autokraten-20498"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 20498,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Zerbrechliche Demokratie - Kampf der Autokraten 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Zerbrechliche Demokratie - Kampf der Autokraten im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Zerbrechliche Demokratie - Kampf der Autokraten 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/zerbrechliche-demokratie-kampf-der-autokraten-20498"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4749552/1600x0/zerbrechliche-demokratie-kampf-der-autokraten.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4749552,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4749552",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20498"
+    },
+    {
+      "id": 20498,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20498",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Wissen"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Zerbrechliche Demokratie - Kampf der Autokraten",
+    "text": "Um die eigene Macht zu erhalten und die eigenen Interessen zu wahren, destabilisieren weltweit autokratische Mächte die demokratischen Institutionen im eigenen Land. Gleichzeitig versuchen sie die Illusion von Demokratie aufrechtzuerhalten. Die Dokumentation blickt auf einige dieser Staaten und lässt ihre Einwohner zu Wort kommen. Neben aufschlussreichen Erkenntnissen, legen auch Befürworter der autokratischen Systeme ihre Sichtweise dar.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/zerbrechliche-demokratie-kampf-der-autokraten-20498",
+        "description": "Um die eigene Macht zu erhalten und die eigenen Interessen zu wahren, destabilisieren weltweit autokratische Mächte die demokratischen Institutionen im eigenen Land. Gleichzeitig versuchen sie die Illusion von Demokratie aufrechtzuerhalten. Die Dokumentation blickt auf einige dieser Staaten und lässt ihre Einwohner zu Wort kommen. Neben aufschlussreichen Erkenntnissen, legen auch Befürworter der autokratischen Systeme ihre Sichtweise dar.",
+        "duration": "PT21M38S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4749552/1200x0/zerbrechliche-demokratie-kampf-der-autokraten.jpg",
+        "name": "Zerbrechliche Demokratie - Kampf der Autokraten",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/zerbrechliche-demokratie-kampf-der-autokraten-20498",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2022-03-20T21:10:00.000Z"
+          }
+        },
+        "url": "%s/filme/zerbrechliche-demokratie-kampf-der-autokraten-20498",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Um die eigene Macht zu erhalten und die eigenen Interessen zu wahren, destabilisieren weltweit autokratische Mächte die demokratischen Institutionen im eigenen Land. Gleichzeitig versuchen sie die Illusion von Demokratie aufrechtzuerhalten. Die Dokumentation blickt auf einige dieser Staaten und lässt ihre Einwohner zu Wort kommen. Neben aufschlussreichen Erkenntnissen, legen auch Befürworter der autokratischen Systeme ihre Sichtweise dar.",
+          "duration": "PT21M38S",
+          "embedUrl": "%s/googlebot/player/filme/zerbrechliche-demokratie-kampf-der-autokraten-20498",
+          "name": "Zerbrechliche Demokratie - Kampf der Autokraten",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4749552/1200x0/zerbrechliche-demokratie-kampf-der-autokraten.jpg",
+          "uploadDate": "2022-03-20T21:10:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Zerbrechliche Demokratie - Kampf der Autokraten im Online Stream | RTL+",
+        "headline": "Zerbrechliche Demokratie - Kampf der Autokraten im Online Stream | RTL+",
+        "description": "Zerbrechliche Demokratie - Kampf der Autokraten und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/zerbrechliche-demokratie-kampf-der-autokraten-20498",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4749552/1200x0/zerbrechliche-demokratie-kampf-der-autokraten.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4749552/1200x0/zerbrechliche-demokratie-kampf-der-autokraten.jpg",
+        "datePublished": "2022-03-20T21:10:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4749552/1200x0/zerbrechliche-demokratie-kampf-der-autokraten.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Zerbrechliche Demokratie - Kampf der Autokraten",
+            "item": "%s/filme/zerbrechliche-demokratie-kampf-der-autokraten-20498"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Zerbrechliche Demokratie - Kampf der Autokraten im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -21,7 +21,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/filme/meine-flucht-aus-der-ddr-18171"
           }
@@ -30,15 +30,15 @@
           "teaserFormatName": "Meine Flucht aus der DDR",
           "teaserId": "film_2198101",
           "teaserName": "Meine Flucht aus der DDR | Meine Flucht aus der DDR",
-          "teaserPayType": "free",
+          "teaserPayType": "paid",
           "teaserType": "film",
           "teaserGenre": "Dokumentation",
           "cluster": [
             "History"
           ],
-          "classification": [
-            "Exklusiv"
-          ]
+          "classification": [],
+          "teaserEpisodeAirtime": "EXKLUSIV",
+          "teaserEpisodeName": "Meine Flucht aus der DDR"
         },
         "fsk": {
           "isVisible": false,
@@ -87,7 +87,7 @@
             "filename": "meine-flucht-aus-der-ddr"
           }
         ],
-        "isPremium": false,
+        "isPremium": true,
         "overlays": [
           "premium"
         ],

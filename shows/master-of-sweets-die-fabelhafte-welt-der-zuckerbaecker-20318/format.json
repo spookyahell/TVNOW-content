@@ -1,0 +1,218 @@
+﻿{
+  "formatId": 20318,
+  "additionalMeta": {
+    "canonical": "/shows/master-of-sweets-die-fabelhafte-welt-der-zuckerbaecker-20318",
+    "url": "/shows/master-of-sweets-die-fabelhafte-welt-der-zuckerbaecker-20318"
+  },
+  "ads": {
+    "station": "rtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "Master of Sweets - Die fabelhafte Welt der Zuckerbäcker",
+      "url": "/shows/master-of-sweets-die-fabelhafte-welt-der-zuckerbaecker-20318"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 20318,
+  "meta": [
+    {
+      "content": "Die Show ▶ Master of Sweets - Die fabelhafte Welt der Zuckerbäcker (RTL) streamen & weitere Highlights aus dem Genre 📺 Kochen im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Master of Sweets - Die fabelhafte Welt der Zuckerbäcker im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ Master of Sweets - Die fabelhafte Welt der Zuckerbäcker (RTL) streamen & weitere Highlights aus dem Genre 📺 Kochen im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/shows/master-of-sweets-die-fabelhafte-welt-der-zuckerbaecker-20318"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/20318_03artwork/1600x0/master-of-sweets-die-fabelhafte-welt-der-zuckerbaecker.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/20318",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/20318",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/20318",
+      "type": "teaserrow"
+    },
+    {
+      "id": 20318,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20318",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rnmasterofsweets",
+      "video": "dvrsowf_ten_rnmasterofsweets",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_now/formate/master_of_sweets/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_now",
+        "formate",
+        "master_of_sweets",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kochen",
+    "cluster": [],
+    "classification": [
+      "Vor TV-Start"
+    ]
+  },
+  "seo": {
+    "headline": "Master of Sweets - Die fabelhafte Welt der Zuckerbäcker - Informationen zur Show",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/shows/master-of-sweets-die-fabelhafte-welt-der-zuckerbaecker-20318",
+        "url": "%s/shows/master-of-sweets-die-fabelhafte-welt-der-zuckerbaecker-20318",
+        "name": "Master of Sweets - Die fabelhafte Welt der Zuckerbäcker",
+        "description": "Die Show ▶ Master of Sweets - Die fabelhafte Welt der Zuckerbäcker (RTL) streamen & weitere Highlights aus dem Genre 📺 Kochen im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/20318_04metalogo/1200x0/master-of-sweets-die-fabelhafte-welt-der-zuckerbaecker.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Master of Sweets - Die fabelhafte Welt der Zuckerbäcker - Informationen zur Show",
+        "headline": "Master of Sweets - Die fabelhafte Welt der Zuckerbäcker - Informationen zur Show",
+        "description": "Die Show ▶ Master of Sweets - Die fabelhafte Welt der Zuckerbäcker (RTL) streamen & weitere Highlights aus dem Genre 📺 Kochen im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "url": "%s/shows/master-of-sweets-die-fabelhafte-welt-der-zuckerbaecker-20318",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/20318_04metalogo/1200x0/master-of-sweets-die-fabelhafte-welt-der-zuckerbaecker.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/20318_04metalogo/1200x0/master-of-sweets-die-fabelhafte-welt-der-zuckerbaecker.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/20318_04metalogo/1200x0/master-of-sweets-die-fabelhafte-welt-der-zuckerbaecker.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "%s/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Master of Sweets - Die fabelhafte Welt der Zuckerbäcker",
+            "item": "%s/shows/master-of-sweets-die-fabelhafte-welt-der-zuckerbaecker-20318"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Master of Sweets - Die fabelhafte Welt der Zuckerbäcker im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

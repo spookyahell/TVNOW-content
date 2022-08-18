@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20148,
+  "additionalMeta": {
+    "canonical": "/filme/take-care-20148",
+    "url": "/filme/take-care-20148"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Take Care",
+      "url": "/filme/take-care-20148"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20148,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Take Care 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Take Care im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Take Care 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/take-care-20148"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4261163/1600x0/take-care.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4261163,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4261163",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20148"
+    },
+    {
+      "id": 20148,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20148",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [
+      "FILME Female"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Take Care - Informationen zum Film",
+    "text": "Die New Yorkerin Frannie wurde von einem Auto angefahren und ist nun für längere Zeit auf fremde Hilfe angewiesen. Leider muss sie jedoch feststellen, dass ihre Freunde nicht gewillt sind, sie zu unterstützen. Also wendet sich Frannie an ihren Exfreund Devon. Den hatte Frannie während ihrer Beziehung selbst lange gepflegt. Nun verlangt sie, dass er sich revanchiert. Das sieht Devons derzeitige Freundin Jodi jedoch gar nicht gern.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/take-care-20148",
+        "description": "Die New Yorkerin Frannie wurde von einem Auto angefahren und ist nun für längere Zeit auf fremde Hilfe angewiesen. Leider muss sie jedoch feststellen, dass ihre Freunde nicht gewillt sind, sie zu unterstützen. Also wendet sich Frannie an ihren Exfreund Devon. Den hatte Frannie während ihrer Beziehung selbst lange gepflegt. Nun verlangt sie, dass er sich revanchiert. Das sieht Devons derzeitige Freundin Jodi jedoch gar nicht gern.",
+        "duration": "PT1H29M28S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4261163/1200x0/take-care.jpg",
+        "name": "Take Care",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/take-care-20148",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-12-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=take-care-20148",
+              "sameAs": "%s/premium?typ=format&formatname=take-care-20148",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/take-care-20148",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die New Yorkerin Frannie wurde von einem Auto angefahren und ist nun für längere Zeit auf fremde Hilfe angewiesen. Leider muss sie jedoch feststellen, dass ihre Freunde nicht gewillt sind, sie zu unterstützen. Also wendet sich Frannie an ihren Exfreund Devon. Den hatte Frannie während ihrer Beziehung selbst lange gepflegt. Nun verlangt sie, dass er sich revanchiert. Das sieht Devons derzeitige Freundin Jodi jedoch gar nicht gern.",
+          "duration": "PT1H29M28S",
+          "embedUrl": "%s/googlebot/player/filme/take-care-20148",
+          "name": "Take Care",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4261163/1200x0/take-care.jpg",
+          "uploadDate": "2021-12-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Take Care im Online Stream | RTL+",
+        "headline": "Take Care im Online Stream | RTL+",
+        "description": "Take Care und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/take-care-20148",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4261163/1200x0/take-care.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4261163/1200x0/take-care.jpg",
+        "datePublished": "2021-12-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4261163/1200x0/take-care.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Take Care",
+            "item": "%s/filme/take-care-20148"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Take Care im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,110 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 14"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20058",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20058,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/voxforwomen-das-event-20058/staffel-14/episode-1-voxforwomen-das-event-4178342"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "#VOXforWomen - Das Event",
+          "teaserId": "show_episode_4178342",
+          "teaserName": "#VOXforWomen - Das Event | Staffel 14 | Folge 1 | #VOXforWomen - Das Event",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Reportage",
+          "cluster": [
+            "Sozial",
+            "Lifestyle"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 14",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Mo. 01.11.2021, 20:15 Uhr",
+          "teaserEpisodeName": "#VOXforWomen - Das Event"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "#VOXforWomen - Das Event",
+        "id": 4178342,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4178342/300x0/voxforwomen-das-event.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4178342/",
+            "filename": "voxforwomen-das-event"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4178342/600x0/voxforwomen-das-event.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4178342/",
+            "filename": "voxforwomen-das-event"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4178342/1200x0/voxforwomen-das-event.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4178342/",
+            "filename": "voxforwomen-das-event"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4178342/300x0/voxforwomen-das-event.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4178342/",
+            "filename": "voxforwomen-das-event"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4178342/600x0/voxforwomen-das-event.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4178342/",
+            "filename": "voxforwomen-das-event"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4178342/1200x0/voxforwomen-das-event.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4178342/",
+            "filename": "voxforwomen-das-event"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "voxforwomen-das-event",
+        "subheadline": "#VOXforWomen - Das Event",
+        "text": "Staffel 14, Folge 1 | Mo. 01.11.2021, 20:15 Uhr",
+        "type": "show",
+        "url": "/shows/voxforwomen-das-event-20058/staffel-14/episode-1-voxforwomen-das-event-4178342",
+        "videoId": 4178342
+      }
+    ],
+    "format_navigation": {
+      "season": 14
+    },
+    "navigationType": "season"
+  }
+]

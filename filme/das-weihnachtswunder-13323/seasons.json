@@ -21,7 +21,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/filme/das-weihnachtswunder-13323"
           }
@@ -33,8 +33,13 @@
           "teaserPayType": "free",
           "teaserType": "film",
           "teaserGenre": "Kinder",
-          "cluster": [],
-          "classification": []
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "WATCHBOX",
+          "teaserEpisodeName": "Das Weihnachtswunder"
         },
         "fsk": {
           "isVisible": false,

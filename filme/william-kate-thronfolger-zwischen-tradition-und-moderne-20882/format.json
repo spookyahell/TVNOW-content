@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20882,
+  "additionalMeta": {
+    "canonical": "/filme/william-kate-thronfolger-zwischen-tradition-und-moderne-20882",
+    "url": "/filme/william-kate-thronfolger-zwischen-tradition-und-moderne-20882"
+  },
+  "ads": {
+    "station": "superrtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "William & Kate: Thronfolger zwischen Tradition und Moderne",
+      "url": "/filme/william-kate-thronfolger-zwischen-tradition-und-moderne-20882"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20882,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ William & Kate: Thronfolger zwischen Tradition und Moderne 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "William & Kate: Thronfolger zwischen Tradition und Moderne im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ William & Kate: Thronfolger zwischen Tradition und Moderne 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/william-kate-thronfolger-zwischen-tradition-und-moderne-20882"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4878398/1600x0/william-kate-thronfolger-zwischen-tradition-und-moderne.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4878398,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4878398",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20882"
+    },
+    {
+      "id": 20882,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20882",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_srnfilme",
+      "video": "dvrsowf_ten_srnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/super_rtl_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "super_rtl_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Wissen"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: William & Kate: Thronfolger zwischen Tradition und Moderne",
+    "text": "Eine Dokumentation über die Beziehung zwischen Prinz William und Kate Middleton. Welche Vorbereitungen muss ein Prinz treffen, um sich auf die spätere Rolle als König vorzubereiten?",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/william-kate-thronfolger-zwischen-tradition-und-moderne-20882",
+        "description": "Eine Dokumentation über die Beziehung zwischen Prinz William und Kate Middleton. Welche Vorbereitungen muss ein Prinz treffen, um sich auf die spätere Rolle als König vorzubereiten?",
+        "duration": "PT45M26S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4878398/1200x0/william-kate-thronfolger-zwischen-tradition-und-moderne.jpg",
+        "name": "William & Kate: Thronfolger zwischen Tradition und Moderne",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/william-kate-thronfolger-zwischen-tradition-und-moderne-20882",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-26T21:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=william-kate-thronfolger-zwischen-tradition-und-moderne-20882",
+              "sameAs": "%s/premium?typ=format&formatname=william-kate-thronfolger-zwischen-tradition-und-moderne-20882",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/william-kate-thronfolger-zwischen-tradition-und-moderne-20882",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Eine Dokumentation über die Beziehung zwischen Prinz William und Kate Middleton. Welche Vorbereitungen muss ein Prinz treffen, um sich auf die spätere Rolle als König vorzubereiten?",
+          "duration": "PT45M26S",
+          "embedUrl": "%s/googlebot/player/filme/william-kate-thronfolger-zwischen-tradition-und-moderne-20882",
+          "name": "William & Kate: Thronfolger zwischen Tradition und Moderne",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4878398/1200x0/william-kate-thronfolger-zwischen-tradition-und-moderne.jpg",
+          "uploadDate": "2022-07-26T21:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "William & Kate: Thronfolger zwischen Tradition und Moderne im Online Stream | RTL+",
+        "headline": "William & Kate: Thronfolger zwischen Tradition und Moderne im Online Stream | RTL+",
+        "description": "William & Kate: Thronfolger zwischen Tradition und Moderne und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/william-kate-thronfolger-zwischen-tradition-und-moderne-20882",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4878398/1200x0/william-kate-thronfolger-zwischen-tradition-und-moderne.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4878398/1200x0/william-kate-thronfolger-zwischen-tradition-und-moderne.jpg",
+        "datePublished": "2022-07-26T21:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4878398/1200x0/william-kate-thronfolger-zwischen-tradition-und-moderne.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "William & Kate: Thronfolger zwischen Tradition und Moderne",
+            "item": "%s/filme/william-kate-thronfolger-zwischen-tradition-und-moderne-20882"
+          }
+        ]
+      }
+    }
+  },
+  "title": "William & Kate: Thronfolger zwischen Tradition und Moderne im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20179",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20179,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/wildes-eden-indien-20179"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wildes Eden: Indien",
+          "teaserId": "film_4323504",
+          "teaserName": "Wildes Eden: Indien | Wildes Eden: Indien",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "GEO WILD",
+          "teaserEpisodeName": "Wildes Eden: Indien"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wildes Eden: Indien",
+        "id": 4323504,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323504/300x0/wildes-eden-indien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323504/",
+            "filename": "wildes-eden-indien"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323504/600x0/wildes-eden-indien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323504/",
+            "filename": "wildes-eden-indien"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323504/1200x0/wildes-eden-indien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323504/",
+            "filename": "wildes-eden-indien"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323504/300x0/wildes-eden-indien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323504/",
+            "filename": "wildes-eden-indien"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323504/600x0/wildes-eden-indien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323504/",
+            "filename": "wildes-eden-indien"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323504/1200x0/wildes-eden-indien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323504/",
+            "filename": "wildes-eden-indien"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wildes-eden-indien",
+        "subheadline": "Wildes Eden: Indien",
+        "text": "Staffel  | GEO WILD",
+        "type": "film",
+        "url": "/filme/wildes-eden-indien-20179",
+        "videoId": 4323504
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

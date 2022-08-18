@@ -1,0 +1,109 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20694",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20694,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/ostwind-2-20694"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ostwind 2",
+          "teaserId": "film_4820315",
+          "teaserName": "Ostwind 2 | Ostwind 2",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+ Kids",
+          "teaserEpisodeName": "Ostwind 2"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ostwind 2",
+        "id": 4820315,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820315/300x0/ostwind-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820315/",
+            "filename": "ostwind-2"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820315/600x0/ostwind-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820315/",
+            "filename": "ostwind-2"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820315/1200x0/ostwind-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820315/",
+            "filename": "ostwind-2"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820315/300x0/ostwind-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820315/",
+            "filename": "ostwind-2"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820315/600x0/ostwind-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820315/",
+            "filename": "ostwind-2"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820315/1200x0/ostwind-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820315/",
+            "filename": "ostwind-2"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ostwind-2",
+        "subheadline": "Ostwind 2",
+        "text": "Staffel  | RTL+ Kids",
+        "type": "film",
+        "url": "/filme/ostwind-2-20694",
+        "videoId": 4820315
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

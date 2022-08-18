@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20298,
+  "additionalMeta": {
+    "canonical": "/filme/born-to-dance-zwei-herzen-ein-beat-20298",
+    "url": "/filme/born-to-dance-zwei-herzen-ein-beat-20298"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Born to Dance - Zwei Herzen. Ein Beat.",
+      "url": "/filme/born-to-dance-zwei-herzen-ein-beat-20298"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20298,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Born to Dance - Zwei Herzen. Ein Beat. 📺 und viele weitere ▶ Filme aus dem Genre Musik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Born to Dance - Zwei Herzen. Ein Beat. im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Born to Dance - Zwei Herzen. Ein Beat. 📺 und viele weitere ▶ Filme aus dem Genre Musik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/born-to-dance-zwei-herzen-ein-beat-20298"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4390699/1600x0/born-to-dance-zwei-herzen-ein-beat.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4390699,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4390699",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20298"
+    },
+    {
+      "id": 20298,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20298",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Musik",
+    "cluster": [
+      "FILME Female"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Born to Dance - Zwei Herzen. Ein Beat. - Informationen zum Film",
+    "text": "Donny ist ein begnadeter Tänzer. Nach seiner Haft will er in New York im Club seines besten Freundes und Adoptivbruders Nick sein Leben wieder in den Griff bekommen. Bei einer Tanzbattle lernt er die attraktive Aya kennen. Die beiden vereint nicht nur die Begeisterung fürs Tanzen, sondern sie verlieben sich auch Hals über Kopf ineinander. Doch ihre Beziehung steht unter keinem guten Stern, denn Aya ist die Schwester von Nicks Erzfeind Kaz.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/born-to-dance-zwei-herzen-ein-beat-20298",
+        "description": "Donny ist ein begnadeter Tänzer. Nach seiner Haft will er in New York im Club seines besten Freundes und Adoptivbruders Nick sein Leben wieder in den Griff bekommen. Bei einer Tanzbattle lernt er die attraktive Aya kennen. Die beiden vereint nicht nur die Begeisterung fürs Tanzen, sondern sie verlieben sich auch Hals über Kopf ineinander. Doch ihre Beziehung steht unter keinem guten Stern, denn Aya ist die Schwester von Nicks Erzfeind Kaz.",
+        "duration": "PT1H45M37S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4390699/1200x0/born-to-dance-zwei-herzen-ein-beat.jpg",
+        "name": "Born to Dance - Zwei Herzen. Ein Beat.",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/born-to-dance-zwei-herzen-ein-beat-20298",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-02-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=born-to-dance-zwei-herzen-ein-beat-20298",
+              "sameAs": "%s/premium?typ=format&formatname=born-to-dance-zwei-herzen-ein-beat-20298",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/born-to-dance-zwei-herzen-ein-beat-20298",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Donny ist ein begnadeter Tänzer. Nach seiner Haft will er in New York im Club seines besten Freundes und Adoptivbruders Nick sein Leben wieder in den Griff bekommen. Bei einer Tanzbattle lernt er die attraktive Aya kennen. Die beiden vereint nicht nur die Begeisterung fürs Tanzen, sondern sie verlieben sich auch Hals über Kopf ineinander. Doch ihre Beziehung steht unter keinem guten Stern, denn Aya ist die Schwester von Nicks Erzfeind Kaz.",
+          "duration": "PT1H45M37S",
+          "embedUrl": "%s/googlebot/player/filme/born-to-dance-zwei-herzen-ein-beat-20298",
+          "name": "Born to Dance - Zwei Herzen. Ein Beat.",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4390699/1200x0/born-to-dance-zwei-herzen-ein-beat.jpg",
+          "uploadDate": "2022-02-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Born to Dance - Zwei Herzen. Ein Beat. im Online Stream | RTL+",
+        "headline": "Born to Dance - Zwei Herzen. Ein Beat. im Online Stream | RTL+",
+        "description": "Born to Dance - Zwei Herzen. Ein Beat. und viele weitere  ▶️Filme aus dem Genre Musik findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/born-to-dance-zwei-herzen-ein-beat-20298",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4390699/1200x0/born-to-dance-zwei-herzen-ein-beat.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4390699/1200x0/born-to-dance-zwei-herzen-ein-beat.jpg",
+        "datePublished": "2022-02-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4390699/1200x0/born-to-dance-zwei-herzen-ein-beat.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Born to Dance - Zwei Herzen. Ein Beat.",
+            "item": "%s/filme/born-to-dance-zwei-herzen-ein-beat-20298"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Born to Dance - Zwei Herzen. Ein Beat. im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

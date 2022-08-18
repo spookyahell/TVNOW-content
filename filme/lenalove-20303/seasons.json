@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20303",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20303,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/lenalove-20303"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "LenaLove",
+          "teaserId": "film_4390716",
+          "teaserName": "LenaLove | LenaLove",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [
+            "FILME Female"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "LenaLove"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "LenaLove",
+        "id": 4390716,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390716/300x0/lenalove.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390716/",
+            "filename": "lenalove"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390716/600x0/lenalove.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390716/",
+            "filename": "lenalove"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390716/1200x0/lenalove.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390716/",
+            "filename": "lenalove"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390716/300x0/lenalove.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390716/",
+            "filename": "lenalove"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390716/600x0/lenalove.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390716/",
+            "filename": "lenalove"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4390716/1200x0/lenalove.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4390716/",
+            "filename": "lenalove"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "lenalove",
+        "subheadline": "LenaLove",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/lenalove-20303",
+        "videoId": 4390716
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

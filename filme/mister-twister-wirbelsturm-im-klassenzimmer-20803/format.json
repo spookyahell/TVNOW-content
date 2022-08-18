@@ -1,0 +1,239 @@
+﻿{
+  "formatId": 20803,
+  "additionalMeta": {
+    "canonical": "/filme/mister-twister-wirbelsturm-im-klassenzimmer-20803",
+    "url": "/filme/mister-twister-wirbelsturm-im-klassenzimmer-20803"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Mister Twister - Wirbelsturm im Klassenzimmer",
+      "url": "/filme/mister-twister-wirbelsturm-im-klassenzimmer-20803"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20803,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Mister Twister - Wirbelsturm im Klassenzimmer 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Mister Twister - Wirbelsturm im Klassenzimmer im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Mister Twister - Wirbelsturm im Klassenzimmer 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/mister-twister-wirbelsturm-im-klassenzimmer-20803"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4853281/1600x0/mister-twister-wirbelsturm-im-klassenzimmer.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4853281,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4853281",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20803"
+    },
+    {
+      "id": 20803,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20803",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/kids_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "kids_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Mister Twister - Wirbelsturm im Klassenzimmer",
+    "text": "Tobias geht nicht gern zur Schule, denn weder seine Lehrerin noch die Direktorin erkennen, was in ihm steckt. Als ein 19-jähriger Praktikant namens Herr Kees zur Probe die schwierige Klasse 6b übernimmt, ändert sich plötzlich alles. Der ungewöhnliche \"Mister Twister\", wie ihn die begeisterten Schüler bald nennen, hat Methoden und Ideen, die so ungewöhnlich für einen Lehrer sind, dass die Kinder plötzlich ungeahnten Spaß an der Schule haben.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/mister-twister-wirbelsturm-im-klassenzimmer-20803",
+        "description": "Tobias geht nicht gern zur Schule, denn weder seine Lehrerin noch die Direktorin erkennen, was in ihm steckt. Als ein 19-jähriger Praktikant namens Herr Kees zur Probe die schwierige Klasse 6b übernimmt, ändert sich plötzlich alles. Der ungewöhnliche \"Mister Twister\", wie ihn die begeisterten Schüler bald nennen, hat Methoden und Ideen, die so ungewöhnlich für einen Lehrer sind, dass die Kinder plötzlich ungeahnten Spaß an der Schule haben.",
+        "duration": "PT1H16M30S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4853281/1200x0/mister-twister-wirbelsturm-im-klassenzimmer.jpg",
+        "name": "Mister Twister - Wirbelsturm im Klassenzimmer",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/mister-twister-wirbelsturm-im-klassenzimmer-20803",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-06-30T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=mister-twister-wirbelsturm-im-klassenzimmer-20803",
+              "sameAs": "%s/premium?typ=format&formatname=mister-twister-wirbelsturm-im-klassenzimmer-20803",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/mister-twister-wirbelsturm-im-klassenzimmer-20803",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Tobias geht nicht gern zur Schule, denn weder seine Lehrerin noch die Direktorin erkennen, was in ihm steckt. Als ein 19-jähriger Praktikant namens Herr Kees zur Probe die schwierige Klasse 6b übernimmt, ändert sich plötzlich alles. Der ungewöhnliche \"Mister Twister\", wie ihn die begeisterten Schüler bald nennen, hat Methoden und Ideen, die so ungewöhnlich für einen Lehrer sind, dass die Kinder plötzlich ungeahnten Spaß an der Schule haben.",
+          "duration": "PT1H16M30S",
+          "embedUrl": "%s/googlebot/player/filme/mister-twister-wirbelsturm-im-klassenzimmer-20803",
+          "name": "Mister Twister - Wirbelsturm im Klassenzimmer",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4853281/1200x0/mister-twister-wirbelsturm-im-klassenzimmer.jpg",
+          "uploadDate": "2022-06-30T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Mister Twister - Wirbelsturm im Klassenzimmer im Online Stream | RTL+",
+        "headline": "Mister Twister - Wirbelsturm im Klassenzimmer im Online Stream | RTL+",
+        "description": "Mister Twister - Wirbelsturm im Klassenzimmer und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/mister-twister-wirbelsturm-im-klassenzimmer-20803",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4853281/1200x0/mister-twister-wirbelsturm-im-klassenzimmer.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4853281/1200x0/mister-twister-wirbelsturm-im-klassenzimmer.jpg",
+        "datePublished": "2022-06-30T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4853281/1200x0/mister-twister-wirbelsturm-im-klassenzimmer.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mister Twister - Wirbelsturm im Klassenzimmer",
+            "item": "%s/filme/mister-twister-wirbelsturm-im-klassenzimmer-20803"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Mister Twister - Wirbelsturm im Klassenzimmer im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

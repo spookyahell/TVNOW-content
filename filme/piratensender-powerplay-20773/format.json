@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20773,
+  "additionalMeta": {
+    "canonical": "/filme/piratensender-powerplay-20773",
+    "url": "/filme/piratensender-powerplay-20773"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Piratensender Powerplay",
+      "url": "/filme/piratensender-powerplay-20773"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20773,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Piratensender Powerplay 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Piratensender Powerplay im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Piratensender Powerplay 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/piratensender-powerplay-20773"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4852254/1600x0/piratensender-powerplay.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4852254,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4852254",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20773"
+    },
+    {
+      "id": 20773,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20773",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [
+      "FILME Komödien"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Piratensender Powerplay",
+    "text": "Tommy und Mike treiben mit ihrem Piratensender Powerplay den öffentlich-rechtliche Rundfunk zur Weißglut, weil die zwei Amateure mehr Fans und Zuhörer haben. Das bleibt nicht lange folgenlos, denn der Radioverantwortliche macht mit Hilfe der Polizei Jagd auf den Störsender. Die beiden Schlitzohren wollen sich nicht einschüchtern lassen und sind dank eines fahrbaren Untersatzes den Behörden immer einen Schritt voraus.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/piratensender-powerplay-20773",
+        "description": "Tommy und Mike treiben mit ihrem Piratensender Powerplay den öffentlich-rechtliche Rundfunk zur Weißglut, weil die zwei Amateure mehr Fans und Zuhörer haben. Das bleibt nicht lange folgenlos, denn der Radioverantwortliche macht mit Hilfe der Polizei Jagd auf den Störsender. Die beiden Schlitzohren wollen sich nicht einschüchtern lassen und sind dank eines fahrbaren Untersatzes den Behörden immer einen Schritt voraus.",
+        "duration": "PT1H23M29S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4852254/1200x0/piratensender-powerplay.jpg",
+        "name": "Piratensender Powerplay",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/piratensender-powerplay-20773",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=piratensender-powerplay-20773",
+              "sameAs": "%s/premium?typ=format&formatname=piratensender-powerplay-20773",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/piratensender-powerplay-20773",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Tommy und Mike treiben mit ihrem Piratensender Powerplay den öffentlich-rechtliche Rundfunk zur Weißglut, weil die zwei Amateure mehr Fans und Zuhörer haben. Das bleibt nicht lange folgenlos, denn der Radioverantwortliche macht mit Hilfe der Polizei Jagd auf den Störsender. Die beiden Schlitzohren wollen sich nicht einschüchtern lassen und sind dank eines fahrbaren Untersatzes den Behörden immer einen Schritt voraus.",
+          "duration": "PT1H23M29S",
+          "embedUrl": "%s/googlebot/player/filme/piratensender-powerplay-20773",
+          "name": "Piratensender Powerplay",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4852254/1200x0/piratensender-powerplay.jpg",
+          "uploadDate": "2022-07-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Piratensender Powerplay im Online Stream | RTL+",
+        "headline": "Piratensender Powerplay im Online Stream | RTL+",
+        "description": "Piratensender Powerplay und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei RTL+. Ein Film mit ▶️Thomas Gottschalk, Mike Krüger, Evelyn Hamann, Rainer Basedow, Willy Harlander, Gunther Philipp, Denise Biellmann, Katja Flint.",
+        "url": "%s/filme/piratensender-powerplay-20773",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4852254/1200x0/piratensender-powerplay.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4852254/1200x0/piratensender-powerplay.jpg",
+        "datePublished": "2022-07-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4852254/1200x0/piratensender-powerplay.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Piratensender Powerplay",
+            "item": "%s/filme/piratensender-powerplay-20773"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Piratensender Powerplay im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

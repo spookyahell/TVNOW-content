@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20635,
+  "additionalMeta": {
+    "canonical": "/filme/wettlauf-um-die-atombombe-hitler-und-die-alliierten-20635",
+    "url": "/filme/wettlauf-um-die-atombombe-hitler-und-die-alliierten-20635"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Wettlauf um die Atombombe - Hitler und die Alliierten",
+      "url": "/filme/wettlauf-um-die-atombombe-hitler-und-die-alliierten-20635"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20635,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Wettlauf um die Atombombe - Hitler und die Alliierten 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Wettlauf um die Atombombe - Hitler und die Alliierten im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Wettlauf um die Atombombe - Hitler und die Alliierten 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/wettlauf-um-die-atombombe-hitler-und-die-alliierten-20635"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4829356/1600x0/wettlauf-um-die-atombombe-hitler-und-die-alliierten.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4829356,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4829356",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20635"
+    },
+    {
+      "id": 20635,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20635",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "History"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Wettlauf um die Atombombe - Hitler und die Alliierten",
+    "text": "Gelangte das Uran der Nazis in den letzten Monaten des Zweiten Weltkriegs nach Japan? Waren die Achsenmächte der Entwicklung einer Bombe näher, als wir glauben? In diesem packenden Dokumentarfilm entfaltet sich ein Drama, während Experten ein neues Licht auf die Nöte, Herausforderungen und Geheimnisse einer vom Krieg zerrissenen, prä-nuklearen Welt werfen.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/wettlauf-um-die-atombombe-hitler-und-die-alliierten-20635",
+        "description": "Gelangte das Uran der Nazis in den letzten Monaten des Zweiten Weltkriegs nach Japan? Waren die Achsenmächte der Entwicklung einer Bombe näher, als wir glauben? In diesem packenden Dokumentarfilm entfaltet sich ein Drama, während Experten ein neues Licht auf die Nöte, Herausforderungen und Geheimnisse einer vom Krieg zerrissenen, prä-nuklearen Welt werfen.",
+        "duration": "PT59M11S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4829356/1200x0/wettlauf-um-die-atombombe-hitler-und-die-alliierten.jpg",
+        "name": "Wettlauf um die Atombombe - Hitler und die Alliierten",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/wettlauf-um-die-atombombe-hitler-und-die-alliierten-20635",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-05-27T06:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=wettlauf-um-die-atombombe-hitler-und-die-alliierten-20635",
+              "sameAs": "%s/premium?typ=format&formatname=wettlauf-um-die-atombombe-hitler-und-die-alliierten-20635",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/wettlauf-um-die-atombombe-hitler-und-die-alliierten-20635",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Gelangte das Uran der Nazis in den letzten Monaten des Zweiten Weltkriegs nach Japan? Waren die Achsenmächte der Entwicklung einer Bombe näher, als wir glauben? In diesem packenden Dokumentarfilm entfaltet sich ein Drama, während Experten ein neues Licht auf die Nöte, Herausforderungen und Geheimnisse einer vom Krieg zerrissenen, prä-nuklearen Welt werfen.",
+          "duration": "PT59M11S",
+          "embedUrl": "%s/googlebot/player/filme/wettlauf-um-die-atombombe-hitler-und-die-alliierten-20635",
+          "name": "Wettlauf um die Atombombe - Hitler und die Alliierten",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4829356/1200x0/wettlauf-um-die-atombombe-hitler-und-die-alliierten.jpg",
+          "uploadDate": "2022-05-27T06:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Wettlauf um die Atombombe - Hitler und die Alliierten im Online Stream | RTL+",
+        "headline": "Wettlauf um die Atombombe - Hitler und die Alliierten im Online Stream | RTL+",
+        "description": "Wettlauf um die Atombombe - Hitler und die Alliierten und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/wettlauf-um-die-atombombe-hitler-und-die-alliierten-20635",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4829356/1200x0/wettlauf-um-die-atombombe-hitler-und-die-alliierten.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4829356/1200x0/wettlauf-um-die-atombombe-hitler-und-die-alliierten.jpg",
+        "datePublished": "2022-05-27T06:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4829356/1200x0/wettlauf-um-die-atombombe-hitler-und-die-alliierten.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wettlauf um die Atombombe - Hitler und die Alliierten",
+            "item": "%s/filme/wettlauf-um-die-atombombe-hitler-und-die-alliierten-20635"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Wettlauf um die Atombombe - Hitler und die Alliierten im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

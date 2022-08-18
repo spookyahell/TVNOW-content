@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19676",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19676,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/cartel-land-19676"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Cartel Land",
+          "teaserId": "film_4110856",
+          "teaserName": "Cartel Land | Cartel Land",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "True Crime",
+          "cluster": [
+            "True Crime"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "Mo. 19.07.2021, 20:15 Uhr",
+          "teaserEpisodeName": "Cartel Land"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Cartel Land",
+        "id": 4110856,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4110856/300x0/cartel-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4110856/",
+            "filename": "cartel-land"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4110856/600x0/cartel-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4110856/",
+            "filename": "cartel-land"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4110856/1200x0/cartel-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4110856/",
+            "filename": "cartel-land"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4110856/300x0/cartel-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4110856/",
+            "filename": "cartel-land"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4110856/600x0/cartel-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4110856/",
+            "filename": "cartel-land"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4110856/1200x0/cartel-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4110856/",
+            "filename": "cartel-land"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "cartel-land",
+        "subheadline": "Cartel Land",
+        "text": "Staffel  | Mo. 19.07.2021, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/cartel-land-19676",
+        "videoId": 4110856
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

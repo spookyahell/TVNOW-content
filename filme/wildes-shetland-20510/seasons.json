@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20510",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20510,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/wildes-shetland-20510"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wildes Shetland",
+          "teaserId": "film_4775614",
+          "teaserName": "Wildes Shetland | Wildes Shetland",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "GEO WILD",
+          "teaserEpisodeName": "Wildes Shetland"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wildes Shetland",
+        "id": 4775614,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775614/300x0/wildes-shetland.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775614/",
+            "filename": "wildes-shetland"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775614/600x0/wildes-shetland.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775614/",
+            "filename": "wildes-shetland"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775614/1200x0/wildes-shetland.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775614/",
+            "filename": "wildes-shetland"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775614/300x0/wildes-shetland.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775614/",
+            "filename": "wildes-shetland"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775614/600x0/wildes-shetland.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775614/",
+            "filename": "wildes-shetland"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4775614/1200x0/wildes-shetland.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4775614/",
+            "filename": "wildes-shetland"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wildes-shetland",
+        "subheadline": "Wildes Shetland",
+        "text": "Staffel  | GEO WILD",
+        "type": "film",
+        "url": "/filme/wildes-shetland-20510",
+        "videoId": 4775614
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

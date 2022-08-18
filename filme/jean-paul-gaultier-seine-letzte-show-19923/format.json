@@ -1,0 +1,238 @@
+﻿{
+  "formatId": 19923,
+  "additionalMeta": {
+    "canonical": "/filme/jean-paul-gaultier-seine-letzte-show-19923",
+    "url": "/filme/jean-paul-gaultier-seine-letzte-show-19923"
+  },
+  "ads": {
+    "station": "living",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Jean Paul Gaultier: Seine letzte Show",
+      "url": "/filme/jean-paul-gaultier-seine-letzte-show-19923"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19923,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Jean Paul Gaultier: Seine letzte Show 📺 und viele weitere ▶ Filme aus dem Genre Lifestyle findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Jean Paul Gaultier: Seine letzte Show im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Jean Paul Gaultier: Seine letzte Show 📺 und viele weitere ▶ Filme aus dem Genre Lifestyle findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/jean-paul-gaultier-seine-letzte-show-19923"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4162202/1600x0/jean-paul-gaultier-seine-letzte-show.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4162202,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4162202",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19923"
+    },
+    {
+      "id": 19923,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19923",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/living_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "living_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Lifestyle",
+    "cluster": [
+      "Lifestyle",
+      "Biographie"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Jean Paul Gaultier: Seine letzte Show",
+    "text": "Anlässlich seines 50. Jubiläums als Designer veranstaltete Jean Paul Gaultier im Januar 2020 seine letzte, grandiose Show. Die Retrospektive auf seine Karriere ist der Beweis dafür, dass die Kreativität des legendären Bad Boy der französischen Mode noch immer ungebrochen ist. Die Show blickt zurück auf 50 Jahre Haute Couture und Designklassiker, die die Modewelt geprägt haben.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/jean-paul-gaultier-seine-letzte-show-19923",
+        "description": "Anlässlich seines 50. Jubiläums als Designer veranstaltete Jean Paul Gaultier im Januar 2020 seine letzte, grandiose Show. Die Retrospektive auf seine Karriere ist der Beweis dafür, dass die Kreativität des legendären Bad Boy der französischen Mode noch immer ungebrochen ist. Die Show blickt zurück auf 50 Jahre Haute Couture und Designklassiker, die die Modewelt geprägt haben.",
+        "duration": "PT52M10S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4162202/1200x0/jean-paul-gaultier-seine-letzte-show.jpg",
+        "name": "Jean Paul Gaultier: Seine letzte Show",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/jean-paul-gaultier-seine-letzte-show-19923",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-09-29T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=jean-paul-gaultier-seine-letzte-show-19923",
+              "sameAs": "%s/premium?typ=format&formatname=jean-paul-gaultier-seine-letzte-show-19923",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/jean-paul-gaultier-seine-letzte-show-19923",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Anlässlich seines 50. Jubiläums als Designer veranstaltete Jean Paul Gaultier im Januar 2020 seine letzte, grandiose Show. Die Retrospektive auf seine Karriere ist der Beweis dafür, dass die Kreativität des legendären Bad Boy der französischen Mode noch immer ungebrochen ist. Die Show blickt zurück auf 50 Jahre Haute Couture und Designklassiker, die die Modewelt geprägt haben.",
+          "duration": "PT52M10S",
+          "embedUrl": "%s/googlebot/player/filme/jean-paul-gaultier-seine-letzte-show-19923",
+          "name": "Jean Paul Gaultier: Seine letzte Show",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4162202/1200x0/jean-paul-gaultier-seine-letzte-show.jpg",
+          "uploadDate": "2021-09-29T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Jean Paul Gaultier: Seine letzte Show im Online Stream | RTL+",
+        "headline": "Jean Paul Gaultier: Seine letzte Show im Online Stream | RTL+",
+        "description": "Jean Paul Gaultier: Seine letzte Show und viele weitere  ▶️Filme aus dem Genre Lifestyle findest du im Online Stream bei RTL+. Ein Film mit ▶️Lars Schmidtke, Boris Jacoby, Michael Borgard, Heiko Obermöller, Fabienne Hesse, Caro Scrimali, Daniel Werner, Michaela Kametz, Christina Puciata, Jochen Langner, Maya Bothe, Anna Röser, Janina Sachau, Markus Bachmann.",
+        "url": "%s/filme/jean-paul-gaultier-seine-letzte-show-19923",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4162202/1200x0/jean-paul-gaultier-seine-letzte-show.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4162202/1200x0/jean-paul-gaultier-seine-letzte-show.jpg",
+        "datePublished": "2021-09-29T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4162202/1200x0/jean-paul-gaultier-seine-letzte-show.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Jean Paul Gaultier: Seine letzte Show",
+            "item": "%s/filme/jean-paul-gaultier-seine-letzte-show-19923"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Jean Paul Gaultier: Seine letzte Show im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

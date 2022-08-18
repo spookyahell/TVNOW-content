@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20785,
+  "additionalMeta": {
+    "canonical": "/filme/die-grosse-sause-20785",
+    "url": "/filme/die-grosse-sause-20785"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die große Sause",
+      "url": "/filme/die-grosse-sause-20785"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20785,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Die große Sause 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die große Sause im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Die große Sause 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/die-grosse-sause-20785"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4852505/1600x0/die-grosse-sause.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4852505,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4852505",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20785"
+    },
+    {
+      "id": 20785,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20785",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [
+      "FILME Komödien"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Die große Sause",
+    "text": "1942, Paris: Ein britischer Flieger wird abgeschossen. Die Insassen, drei britische Soldaten, landen nun notgedrungen mithilfe von Fallschirmen auf französischem Boden. Dort befinden sie sich allerdings in größter Gefahr - denn seit Frankreich von Nazideutschland besetzt worden ist, herrscht hier absoluter Ausnahmezustand. Als sie auf die aufständischen Franzosen Bouvet und LeFort stoßen, schöpfen sie neue Hoffnung.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/die-grosse-sause-20785",
+        "description": "1942, Paris: Ein britischer Flieger wird abgeschossen. Die Insassen, drei britische Soldaten, landen nun notgedrungen mithilfe von Fallschirmen auf französischem Boden. Dort befinden sie sich allerdings in größter Gefahr - denn seit Frankreich von Nazideutschland besetzt worden ist, herrscht hier absoluter Ausnahmezustand. Als sie auf die aufständischen Franzosen Bouvet und LeFort stoßen, schöpfen sie neue Hoffnung.",
+        "duration": "PT1H58M52S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4852505/1200x0/die-grosse-sause.jpg",
+        "name": "Die große Sause",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/die-grosse-sause-20785",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=die-grosse-sause-20785",
+              "sameAs": "%s/premium?typ=format&formatname=die-grosse-sause-20785",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/die-grosse-sause-20785",
+        "video": {
+          "@type": "VideoObject",
+          "description": "1942, Paris: Ein britischer Flieger wird abgeschossen. Die Insassen, drei britische Soldaten, landen nun notgedrungen mithilfe von Fallschirmen auf französischem Boden. Dort befinden sie sich allerdings in größter Gefahr - denn seit Frankreich von Nazideutschland besetzt worden ist, herrscht hier absoluter Ausnahmezustand. Als sie auf die aufständischen Franzosen Bouvet und LeFort stoßen, schöpfen sie neue Hoffnung.",
+          "duration": "PT1H58M52S",
+          "embedUrl": "%s/googlebot/player/filme/die-grosse-sause-20785",
+          "name": "Die große Sause",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4852505/1200x0/die-grosse-sause.jpg",
+          "uploadDate": "2022-07-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die große Sause im Online Stream | RTL+",
+        "headline": "Die große Sause im Online Stream | RTL+",
+        "description": "Die große Sause und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei RTL+. Ein Film mit ▶️Louis De Funès, Bourvil, Claudio Brook, Andréa Parisy, Benno Sterzenbach, Terry-Thomas, Marie Dubois, Sieghardt Rupp.",
+        "url": "%s/filme/die-grosse-sause-20785",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4852505/1200x0/die-grosse-sause.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4852505/1200x0/die-grosse-sause.jpg",
+        "datePublished": "2022-07-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4852505/1200x0/die-grosse-sause.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die große Sause",
+            "item": "%s/filme/die-grosse-sause-20785"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die große Sause im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

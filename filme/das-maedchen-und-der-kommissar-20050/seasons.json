@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20050",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20050,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/das-maedchen-und-der-kommissar-20050"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Mädchen und der Kommissar",
+          "teaserId": "film_4261190",
+          "teaserName": "Das Mädchen und der Kommissar | Das Mädchen und der Kommissar",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [
+            "FILME Abenteuer"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Das Mädchen und der Kommissar"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das Mädchen und der Kommissar",
+        "id": 4261190,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4261190/300x0/das-maedchen-und-der-kommissar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4261190/",
+            "filename": "das-maedchen-und-der-kommissar"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4261190/600x0/das-maedchen-und-der-kommissar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4261190/",
+            "filename": "das-maedchen-und-der-kommissar"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4261190/1200x0/das-maedchen-und-der-kommissar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4261190/",
+            "filename": "das-maedchen-und-der-kommissar"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4261190/300x0/das-maedchen-und-der-kommissar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4261190/",
+            "filename": "das-maedchen-und-der-kommissar"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4261190/600x0/das-maedchen-und-der-kommissar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4261190/",
+            "filename": "das-maedchen-und-der-kommissar"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4261190/1200x0/das-maedchen-und-der-kommissar.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4261190/",
+            "filename": "das-maedchen-und-der-kommissar"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "das-maedchen-und-der-kommissar",
+        "subheadline": "Das Mädchen und der Kommissar",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/das-maedchen-und-der-kommissar-20050",
+        "videoId": 4261190
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

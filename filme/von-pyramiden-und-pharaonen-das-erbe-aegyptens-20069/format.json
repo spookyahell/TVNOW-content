@@ -1,0 +1,231 @@
+﻿{
+  "formatId": 20069,
+  "additionalMeta": {
+    "canonical": "/filme/von-pyramiden-und-pharaonen-das-erbe-aegyptens-20069",
+    "url": "/filme/von-pyramiden-und-pharaonen-das-erbe-aegyptens-20069"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Von Pyramiden und Pharaonen - Das Erbe Ägyptens",
+      "url": "/filme/von-pyramiden-und-pharaonen-das-erbe-aegyptens-20069"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 20069,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Von Pyramiden und Pharaonen - Das Erbe Ägyptens 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Von Pyramiden und Pharaonen - Das Erbe Ägyptens im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Von Pyramiden und Pharaonen - Das Erbe Ägyptens 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/von-pyramiden-und-pharaonen-das-erbe-aegyptens-20069"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4185146/1600x0/von-pyramiden-und-pharaonen-das-erbe-aegyptens.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4185146,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4185146",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20069"
+    },
+    {
+      "id": 20069,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20069",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "History"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Von Pyramiden und Pharaonen - Das Erbe Ägyptens",
+    "text": "Willkommen im größten Museum der Welt! Das Große Ägyptische Museum beherbergt das faszinierende Erbe des Landes. Mehr als 100.000 antike Artefakte werden hier ausgestellt. Zwanzig Jahre dauerte es, bis das Mega-Projekt fertiggestellt war. Das Budget: eine Milliarde Euro.  In dieser Dokumentation geben Ägyptologen, Architekten, Minister und der Direktor des Museums Einblicke hinter die Kulissen. ",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/von-pyramiden-und-pharaonen-das-erbe-aegyptens-20069",
+        "description": "Willkommen im größten Museum der Welt! Das Große Ägyptische Museum beherbergt das faszinierende Erbe des Landes. Mehr als 100.000 antike Artefakte werden hier ausgestellt. Zwanzig Jahre dauerte es, bis das Mega-Projekt fertiggestellt war. Das Budget: eine Milliarde Euro.  In dieser Dokumentation geben Ägyptologen, Architekten, Minister und der Direktor des Museums Einblicke hinter die Kulissen. ",
+        "duration": "PT18M46S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4185146/1200x0/von-pyramiden-und-pharaonen-das-erbe-aegyptens.jpg",
+        "name": "Von Pyramiden und Pharaonen - Das Erbe Ägyptens",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/von-pyramiden-und-pharaonen-das-erbe-aegyptens-20069",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2021-11-12T20:15:00.000Z"
+          }
+        },
+        "url": "%s/filme/von-pyramiden-und-pharaonen-das-erbe-aegyptens-20069",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Willkommen im größten Museum der Welt! Das Große Ägyptische Museum beherbergt das faszinierende Erbe des Landes. Mehr als 100.000 antike Artefakte werden hier ausgestellt. Zwanzig Jahre dauerte es, bis das Mega-Projekt fertiggestellt war. Das Budget: eine Milliarde Euro.  In dieser Dokumentation geben Ägyptologen, Architekten, Minister und der Direktor des Museums Einblicke hinter die Kulissen. ",
+          "duration": "PT18M46S",
+          "embedUrl": "%s/googlebot/player/filme/von-pyramiden-und-pharaonen-das-erbe-aegyptens-20069",
+          "name": "Von Pyramiden und Pharaonen - Das Erbe Ägyptens",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4185146/1200x0/von-pyramiden-und-pharaonen-das-erbe-aegyptens.jpg",
+          "uploadDate": "2021-11-12T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Von Pyramiden und Pharaonen - Das Erbe Ägyptens im Online Stream | RTL+",
+        "headline": "Von Pyramiden und Pharaonen - Das Erbe Ägyptens im Online Stream | RTL+",
+        "description": "Von Pyramiden und Pharaonen - Das Erbe Ägyptens und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/von-pyramiden-und-pharaonen-das-erbe-aegyptens-20069",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4185146/1200x0/von-pyramiden-und-pharaonen-das-erbe-aegyptens.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4185146/1200x0/von-pyramiden-und-pharaonen-das-erbe-aegyptens.jpg",
+        "datePublished": "2021-11-12T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4185146/1200x0/von-pyramiden-und-pharaonen-das-erbe-aegyptens.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Von Pyramiden und Pharaonen - Das Erbe Ägyptens",
+            "item": "%s/filme/von-pyramiden-und-pharaonen-das-erbe-aegyptens-20069"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Von Pyramiden und Pharaonen - Das Erbe Ägyptens im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

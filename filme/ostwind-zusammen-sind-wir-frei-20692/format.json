@@ -1,0 +1,240 @@
+﻿{
+  "formatId": 20692,
+  "additionalMeta": {
+    "canonical": "/filme/ostwind-zusammen-sind-wir-frei-20692",
+    "url": "/filme/ostwind-zusammen-sind-wir-frei-20692"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Ostwind - Zusammen sind wir frei",
+      "url": "/filme/ostwind-zusammen-sind-wir-frei-20692"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20692,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Ostwind - Zusammen sind wir frei 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Ostwind - Zusammen sind wir frei im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Ostwind - Zusammen sind wir frei 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/ostwind-zusammen-sind-wir-frei-20692"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4820314/1600x0/ostwind-zusammen-sind-wir-frei.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4820314,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4820314",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20692"
+    },
+    {
+      "id": 20692,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20692",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/kids_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "kids_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Mädchen",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Ostwind - Zusammen sind wir frei: Informationen zum Film",
+    "text": "Mika hat den Aufstieg in die nächste Klasse nicht geschafft und muss die Sommerferien auf dem Pferdegestüt ihrer verbitterten Großmutter verbringen. Dort entdeckt sie im Stall den wilden Hengst Ostwind. Zwischen dem Pferd und dem Mädchen besteht sofort eine besondere Verbindung, und Mika entdeckt auch ihre Gabe: Sie kann mit dem Tier sprechen. Doch Ostwind soll geschlachtet werden. Mika will mit ihm an einem Turnier teilnehmen, um ihn zu retten.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/ostwind-zusammen-sind-wir-frei-20692",
+        "description": "Mika hat den Aufstieg in die nächste Klasse nicht geschafft und muss die Sommerferien auf dem Pferdegestüt ihrer verbitterten Großmutter verbringen. Dort entdeckt sie im Stall den wilden Hengst Ostwind. Zwischen dem Pferd und dem Mädchen besteht sofort eine besondere Verbindung, und Mika entdeckt auch ihre Gabe: Sie kann mit dem Tier sprechen. Doch Ostwind soll geschlachtet werden. Mika will mit ihm an einem Turnier teilnehmen, um ihn zu retten.",
+        "duration": "PT1H41M12S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4820314/1200x0/ostwind-zusammen-sind-wir-frei.jpg",
+        "name": "Ostwind - Zusammen sind wir frei",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/ostwind-zusammen-sind-wir-frei-20692",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-05-28T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=ostwind-zusammen-sind-wir-frei-20692",
+              "sameAs": "%s/premium?typ=format&formatname=ostwind-zusammen-sind-wir-frei-20692",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/ostwind-zusammen-sind-wir-frei-20692",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Mika hat den Aufstieg in die nächste Klasse nicht geschafft und muss die Sommerferien auf dem Pferdegestüt ihrer verbitterten Großmutter verbringen. Dort entdeckt sie im Stall den wilden Hengst Ostwind. Zwischen dem Pferd und dem Mädchen besteht sofort eine besondere Verbindung, und Mika entdeckt auch ihre Gabe: Sie kann mit dem Tier sprechen. Doch Ostwind soll geschlachtet werden. Mika will mit ihm an einem Turnier teilnehmen, um ihn zu retten.",
+          "duration": "PT1H41M12S",
+          "embedUrl": "%s/googlebot/player/filme/ostwind-zusammen-sind-wir-frei-20692",
+          "name": "Ostwind - Zusammen sind wir frei",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4820314/1200x0/ostwind-zusammen-sind-wir-frei.jpg",
+          "uploadDate": "2022-05-28T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Ostwind - Zusammen sind wir frei im Online Stream | RTL+",
+        "headline": "Ostwind - Zusammen sind wir frei im Online Stream | RTL+",
+        "description": "Ostwind - Zusammen sind wir frei und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/ostwind-zusammen-sind-wir-frei-20692",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4820314/1200x0/ostwind-zusammen-sind-wir-frei.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4820314/1200x0/ostwind-zusammen-sind-wir-frei.jpg",
+        "datePublished": "2022-05-28T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4820314/1200x0/ostwind-zusammen-sind-wir-frei.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ostwind - Zusammen sind wir frei",
+            "item": "%s/filme/ostwind-zusammen-sind-wir-frei-20692"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Ostwind - Zusammen sind wir frei im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 1"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20678",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20678,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/rtl-turmspringen-20678/staffel-1/episode-1-folge-1-4804034"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "RTL Turmspringen",
+          "teaserId": "show_episode_4804034",
+          "teaserName": "RTL Turmspringen | Staffel 1 | Folge 1 | Folge 1",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Show",
+          "cluster": [],
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Fr. 03.06.2022, 20:15 Uhr",
+          "teaserEpisodeName": "Folge 1"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Folge 1",
+        "id": 4804034,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4804034/300x0/folge-1.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4804034/",
+            "filename": "folge-1"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4804034/600x0/folge-1.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4804034/",
+            "filename": "folge-1"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4804034/1200x0/folge-1.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4804034/",
+            "filename": "folge-1"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4804034/300x0/folge-1.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4804034/",
+            "filename": "folge-1"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4804034/600x0/folge-1.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4804034/",
+            "filename": "folge-1"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4804034/1200x0/folge-1.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4804034/",
+            "filename": "folge-1"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "rtl-turmspringen",
+        "subheadline": "Folge 1",
+        "text": "Staffel 1, Folge 1 | Fr. 03.06.2022, 20:15 Uhr",
+        "type": "show",
+        "url": "/shows/rtl-turmspringen-20678/staffel-1/episode-1-folge-1-4804034",
+        "videoId": 4804034
+      }
+    ],
+    "format_navigation": {
+      "season": 1
+    },
+    "navigationType": "season"
+  }
+]

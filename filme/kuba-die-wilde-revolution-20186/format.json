@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20186,
+  "additionalMeta": {
+    "canonical": "/filme/kuba-die-wilde-revolution-20186",
+    "url": "/filme/kuba-die-wilde-revolution-20186"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Kuba - Die wilde Revolution",
+      "url": "/filme/kuba-die-wilde-revolution-20186"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20186,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Kuba - Die wilde Revolution 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Kuba - Die wilde Revolution im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Kuba - Die wilde Revolution 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/kuba-die-wilde-revolution-20186"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4323757/1600x0/kuba-die-wilde-revolution.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4323757,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4323757",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20186"
+    },
+    {
+      "id": 20186,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20186",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnkubarevolution",
+      "video": "dvrsowf_ten_tnkubarevolution",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/kuba_revolution/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "kuba_revolution",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Kuba - Die wilde Revolution",
+    "text": "Unter den vielen Karibik-Inseln zeichnet sich Kuba durch eine vielfältige Wildtier-Population aus. Grund dafür: die Revolution, die in vielen Regionen einer modernen Landwirtschaft entgegengestand. So reiten Geier faul auf den Aufwinden um Havannas legendäres Habana Libre Hotel und eine Boa constrictor jagt in stockfinsterer Dunkelheit Fledermäuse. Kuba ein grünes Juwel, das vor Leben pulsiert und bereit ist, wiederentdeckt zu werden.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/kuba-die-wilde-revolution-20186",
+        "description": "Unter den vielen Karibik-Inseln zeichnet sich Kuba durch eine vielfältige Wildtier-Population aus. Grund dafür: die Revolution, die in vielen Regionen einer modernen Landwirtschaft entgegengestand. So reiten Geier faul auf den Aufwinden um Havannas legendäres Habana Libre Hotel und eine Boa constrictor jagt in stockfinsterer Dunkelheit Fledermäuse. Kuba ein grünes Juwel, das vor Leben pulsiert und bereit ist, wiederentdeckt zu werden.",
+        "duration": "PT52M38S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4323757/1200x0/kuba-die-wilde-revolution.jpg",
+        "name": "Kuba - Die wilde Revolution",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/kuba-die-wilde-revolution-20186",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-12-14T00:01:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=kuba-die-wilde-revolution-20186",
+              "sameAs": "%s/premium?typ=format&formatname=kuba-die-wilde-revolution-20186",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/kuba-die-wilde-revolution-20186",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Unter den vielen Karibik-Inseln zeichnet sich Kuba durch eine vielfältige Wildtier-Population aus. Grund dafür: die Revolution, die in vielen Regionen einer modernen Landwirtschaft entgegengestand. So reiten Geier faul auf den Aufwinden um Havannas legendäres Habana Libre Hotel und eine Boa constrictor jagt in stockfinsterer Dunkelheit Fledermäuse. Kuba ein grünes Juwel, das vor Leben pulsiert und bereit ist, wiederentdeckt zu werden.",
+          "duration": "PT52M38S",
+          "embedUrl": "%s/googlebot/player/filme/kuba-die-wilde-revolution-20186",
+          "name": "Kuba - Die wilde Revolution",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323757/1200x0/kuba-die-wilde-revolution.jpg",
+          "uploadDate": "2021-12-14T00:01:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Kuba - Die wilde Revolution im Online Stream | RTL+",
+        "headline": "Kuba - Die wilde Revolution im Online Stream | RTL+",
+        "description": "Kuba - Die wilde Revolution und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/kuba-die-wilde-revolution-20186",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4323757/1200x0/kuba-die-wilde-revolution.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323757/1200x0/kuba-die-wilde-revolution.jpg",
+        "datePublished": "2021-12-14T00:01:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4323757/1200x0/kuba-die-wilde-revolution.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Kuba - Die wilde Revolution",
+            "item": "%s/filme/kuba-die-wilde-revolution-20186"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Kuba - Die wilde Revolution im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

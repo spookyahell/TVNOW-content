@@ -3,7 +3,7 @@
     "ecommerce": {
       "rowCategory": "small_teaser",
       "rowId": "na",
-      "rowName": "Staffel 0"
+      "rowName": "Staffel 1"
     },
     "id": null,
     "label": null,
@@ -21,20 +21,24 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
-            "url": "/shows/bierparadies-deutschland-11823/weitere/episode-0-bierparadies-deutschland-298216"
+            "url": "/shows/bierparadies-deutschland-11823/staffel-1/episode-1-bierparadies-deutschland-298216"
           }
         ],
         "ecommerce": {
           "teaserFormatName": "Bierparadies Deutschland",
           "teaserId": "show_episode_298216",
-          "teaserName": "Bierparadies Deutschland | Bierparadies Deutschland",
+          "teaserName": "Bierparadies Deutschland | Staffel 1 | Folge 1 | Bierparadies Deutschland",
           "teaserPayType": "paid",
           "teaserType": "show_episode",
           "teaserGenre": "Reportage",
           "cluster": [],
-          "classification": []
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Mi. 09.06.2021, 22:15 Uhr",
+          "teaserEpisodeName": "Bierparadies Deutschland"
         },
         "fsk": {
           "isVisible": false,
@@ -89,14 +93,14 @@
         ],
         "seoUrl": "bierparadies-deutschland",
         "subheadline": "Bierparadies Deutschland",
-        "text": "Staffel  | Sa. 04.07.2020, 23:15 Uhr",
+        "text": "Staffel 1, Folge 1 | Mi. 09.06.2021, 22:15 Uhr",
         "type": "show",
-        "url": "/shows/bierparadies-deutschland-11823/weitere/episode-0-bierparadies-deutschland-298216",
+        "url": "/shows/bierparadies-deutschland-11823/staffel-1/episode-1-bierparadies-deutschland-298216",
         "videoId": 298216
       }
     ],
     "format_navigation": {
-      "season": 0
+      "season": 1
     },
     "navigationType": "season"
   }

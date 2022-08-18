@@ -1,0 +1,240 @@
+﻿{
+  "formatId": 20641,
+  "additionalMeta": {
+    "canonical": "/filme/elizabeth-ii-eine-windsor-der-superlative-20641",
+    "url": "/filme/elizabeth-ii-eine-windsor-der-superlative-20641"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Elizabeth II. - Eine Windsor der Superlative",
+      "url": "/filme/elizabeth-ii-eine-windsor-der-superlative-20641"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20641,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Elizabeth II. - Eine Windsor der Superlative 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Elizabeth II. - Eine Windsor der Superlative im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Elizabeth II. - Eine Windsor der Superlative 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/elizabeth-ii-eine-windsor-der-superlative-20641"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4835132/1600x0/elizabeth-ii-eine-windsor-der-superlative.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4835132,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4835132",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20641"
+    },
+    {
+      "id": 20641,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20641",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tndokubio",
+      "video": "dvrsowf_ten_tndokubio",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/tvnow_doku_bio/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "tvnow_doku_bio",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Promis",
+      "Biographie"
+    ],
+    "classification": [
+      "Exclusive"
+    ]
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Elizabeth II. - Eine Windsor der Superlative",
+    "text": "Seit über 60 Jahren regiert Königin Elisabeth II. als Monarchin. Nachdem sie nach dem frühen Tod ihres Vaters den Thron bestiegen hatte, musste sie mit ansehen, wie sich die Welt drastisch veränderte, und sich sowohl öffentlich als auch privat einer Reihe großer Herausforderungen stellen. Ihr unerschütterliches Engagement für die Pflicht, die über allem steht, hat ihren lebenslangen Dienst am Thron bestimmt. ",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/elizabeth-ii-eine-windsor-der-superlative-20641",
+        "description": "Seit über 60 Jahren regiert Königin Elisabeth II. als Monarchin. Nachdem sie nach dem frühen Tod ihres Vaters den Thron bestiegen hatte, musste sie mit ansehen, wie sich die Welt drastisch veränderte, und sich sowohl öffentlich als auch privat einer Reihe großer Herausforderungen stellen. Ihr unerschütterliches Engagement für die Pflicht, die über allem steht, hat ihren lebenslangen Dienst am Thron bestimmt. ",
+        "duration": "PT58M6S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4835132/1200x0/elizabeth-ii-eine-windsor-der-superlative.jpg",
+        "name": "Elizabeth II. - Eine Windsor der Superlative",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/elizabeth-ii-eine-windsor-der-superlative-20641",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-06-02T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=elizabeth-ii-eine-windsor-der-superlative-20641",
+              "sameAs": "%s/premium?typ=format&formatname=elizabeth-ii-eine-windsor-der-superlative-20641",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/elizabeth-ii-eine-windsor-der-superlative-20641",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Seit über 60 Jahren regiert Königin Elisabeth II. als Monarchin. Nachdem sie nach dem frühen Tod ihres Vaters den Thron bestiegen hatte, musste sie mit ansehen, wie sich die Welt drastisch veränderte, und sich sowohl öffentlich als auch privat einer Reihe großer Herausforderungen stellen. Ihr unerschütterliches Engagement für die Pflicht, die über allem steht, hat ihren lebenslangen Dienst am Thron bestimmt. ",
+          "duration": "PT58M6S",
+          "embedUrl": "%s/googlebot/player/filme/elizabeth-ii-eine-windsor-der-superlative-20641",
+          "name": "Elizabeth II. - Eine Windsor der Superlative",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4835132/1200x0/elizabeth-ii-eine-windsor-der-superlative.jpg",
+          "uploadDate": "2022-06-02T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Elizabeth II. - Eine Windsor der Superlative im Online Stream | RTL+",
+        "headline": "Elizabeth II. - Eine Windsor der Superlative im Online Stream | RTL+",
+        "description": "Elizabeth II. - Eine Windsor der Superlative und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/elizabeth-ii-eine-windsor-der-superlative-20641",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4835132/1200x0/elizabeth-ii-eine-windsor-der-superlative.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4835132/1200x0/elizabeth-ii-eine-windsor-der-superlative.jpg",
+        "datePublished": "2022-06-02T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4835132/1200x0/elizabeth-ii-eine-windsor-der-superlative.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Elizabeth II. - Eine Windsor der Superlative",
+            "item": "%s/filme/elizabeth-ii-eine-windsor-der-superlative-20641"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Elizabeth II. - Eine Windsor der Superlative im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

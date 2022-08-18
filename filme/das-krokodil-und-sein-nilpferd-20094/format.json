@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20094,
+  "additionalMeta": {
+    "canonical": "/filme/das-krokodil-und-sein-nilpferd-20094",
+    "url": "/filme/das-krokodil-und-sein-nilpferd-20094"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Das Krokodil und sein Nilpferd",
+      "url": "/filme/das-krokodil-und-sein-nilpferd-20094"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20094,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Das Krokodil und sein Nilpferd 📺 und viele weitere ▶ Filme aus dem Genre Action findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Das Krokodil und sein Nilpferd im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Das Krokodil und sein Nilpferd 📺 und viele weitere ▶ Filme aus dem Genre Action findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/das-krokodil-und-sein-nilpferd-20094"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4282545/1600x0/das-krokodil-und-sein-nilpferd.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4282545,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4282545",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20094"
+    },
+    {
+      "id": 20094,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20094",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_abenteuer/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_abenteuer",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Action",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Das Krokodil und sein Nilpferd - Informationen zum Film",
+    "text": "Tom kutschiert mit einem alten Bus Touristen durch die afrikanische Savanne und lässt sie mit Platzpatronen auf Wildtiere schießen. Damit ist der Naturschützer Slim überhaupt nicht einverstanden. Die beiden Streithähne raufen sich zusammen, als der Spekulant Ormond, ein ehemaliger Boxer, die Eingeborenen von ihrem Land zu vertreiben versucht, um dort ein Safariparadies für wohlhabende Urlaubsgäste zu bauen.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/das-krokodil-und-sein-nilpferd-20094",
+        "description": "Tom kutschiert mit einem alten Bus Touristen durch die afrikanische Savanne und lässt sie mit Platzpatronen auf Wildtiere schießen. Damit ist der Naturschützer Slim überhaupt nicht einverstanden. Die beiden Streithähne raufen sich zusammen, als der Spekulant Ormond, ein ehemaliger Boxer, die Eingeborenen von ihrem Land zu vertreiben versucht, um dort ein Safariparadies für wohlhabende Urlaubsgäste zu bauen.",
+        "duration": "PT1H35M37S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4282545/1200x0/das-krokodil-und-sein-nilpferd.jpg",
+        "name": "Das Krokodil und sein Nilpferd",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/das-krokodil-und-sein-nilpferd-20094",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=das-krokodil-und-sein-nilpferd-20094",
+              "sameAs": "%s/premium?typ=format&formatname=das-krokodil-und-sein-nilpferd-20094",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/das-krokodil-und-sein-nilpferd-20094",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Tom kutschiert mit einem alten Bus Touristen durch die afrikanische Savanne und lässt sie mit Platzpatronen auf Wildtiere schießen. Damit ist der Naturschützer Slim überhaupt nicht einverstanden. Die beiden Streithähne raufen sich zusammen, als der Spekulant Ormond, ein ehemaliger Boxer, die Eingeborenen von ihrem Land zu vertreiben versucht, um dort ein Safariparadies für wohlhabende Urlaubsgäste zu bauen.",
+          "duration": "PT1H35M37S",
+          "embedUrl": "%s/googlebot/player/filme/das-krokodil-und-sein-nilpferd-20094",
+          "name": "Das Krokodil und sein Nilpferd",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4282545/1200x0/das-krokodil-und-sein-nilpferd.jpg",
+          "uploadDate": "2022-07-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Das Krokodil und sein Nilpferd im Online Stream | RTL+",
+        "headline": "Das Krokodil und sein Nilpferd im Online Stream | RTL+",
+        "description": "Das Krokodil und sein Nilpferd und viele weitere  ▶️Filme aus dem Genre Action findest du im Online Stream bei RTL+. Ein Film mit ▶️Terence Hill, Joe Bugner, May Dlamini, Dawn Jürgens, Bud Spencer.",
+        "url": "%s/filme/das-krokodil-und-sein-nilpferd-20094",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4282545/1200x0/das-krokodil-und-sein-nilpferd.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4282545/1200x0/das-krokodil-und-sein-nilpferd.jpg",
+        "datePublished": "2022-07-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4282545/1200x0/das-krokodil-und-sein-nilpferd.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Das Krokodil und sein Nilpferd",
+            "item": "%s/filme/das-krokodil-und-sein-nilpferd-20094"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Das Krokodil und sein Nilpferd im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

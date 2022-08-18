@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19494",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19494,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/step-up-19494"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Step Up",
+          "teaserId": "film_3941483",
+          "teaserName": "Step Up | Step Up",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [
+            "FILME Female"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "Mo. 15.11.2021, 00:00 Uhr",
+          "teaserEpisodeName": "Step Up"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Step Up",
+        "id": 3941483,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3941483/300x0/step-up.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3941483/",
+            "filename": "step-up"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3941483/600x0/step-up.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3941483/",
+            "filename": "step-up"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3941483/1200x0/step-up.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3941483/",
+            "filename": "step-up"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3941483/300x0/step-up.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3941483/",
+            "filename": "step-up"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3941483/600x0/step-up.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3941483/",
+            "filename": "step-up"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3941483/1200x0/step-up.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3941483/",
+            "filename": "step-up"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "step-up",
+        "subheadline": "Step Up",
+        "text": "Staffel  | Mo. 15.11.2021, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/step-up-19494",
+        "videoId": 3941483
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

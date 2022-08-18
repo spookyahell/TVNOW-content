@@ -1,0 +1,241 @@
+﻿{
+  "formatId": 19612,
+  "additionalMeta": {
+    "canonical": "/filme/pokemon-11-giratina-und-der-himmelsritter-19612",
+    "url": "/filme/pokemon-11-giratina-und-der-himmelsritter-19612"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Pokémon 11: Giratina und der Himmelsritter",
+      "url": "/filme/pokemon-11-giratina-und-der-himmelsritter-19612"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19612,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Pokémon 11: Giratina und der Himmelsritter 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Pokémon 11: Giratina und der Himmelsritter im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Pokémon 11: Giratina und der Himmelsritter 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/pokemon-11-giratina-und-der-himmelsritter-19612"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3965822/1600x0/pokemon-11-giratina-und-der-himmelsritter.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3965822,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3965822",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19612"
+    },
+    {
+      "id": 19612,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19612",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Action und Abenteuer",
+      "KIDS Jungs",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Pokémon 11: Giratina und der Himmelsritter - Alle Informationen zum Film",
+    "text": "Giratina ist das einzige Pokémon, das in der Gegenwelt lebt, einem unbekannten Nachbarbereich unserer Welt. Voller Wut über Palkias und Dialgas Störung von Raum und Zeit zerrt es Dialga in die Gegenwelt, um mit ihm zu kämpfen.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/pokemon-11-giratina-und-der-himmelsritter-19612",
+        "description": "Giratina ist das einzige Pokémon, das in der Gegenwelt lebt, einem unbekannten Nachbarbereich unserer Welt. Voller Wut über Palkias und Dialgas Störung von Raum und Zeit zerrt es Dialga in die Gegenwelt, um mit ihm zu kämpfen.",
+        "duration": "PT1H32M8S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3965822/1200x0/pokemon-11-giratina-und-der-himmelsritter.jpg",
+        "name": "Pokémon 11: Giratina und der Himmelsritter",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/pokemon-11-giratina-und-der-himmelsritter-19612",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=pokemon-11-giratina-und-der-himmelsritter-19612",
+              "sameAs": "%s/premium?typ=format&formatname=pokemon-11-giratina-und-der-himmelsritter-19612",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/pokemon-11-giratina-und-der-himmelsritter-19612",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Giratina ist das einzige Pokémon, das in der Gegenwelt lebt, einem unbekannten Nachbarbereich unserer Welt. Voller Wut über Palkias und Dialgas Störung von Raum und Zeit zerrt es Dialga in die Gegenwelt, um mit ihm zu kämpfen.",
+          "duration": "PT1H32M8S",
+          "embedUrl": "%s/googlebot/player/filme/pokemon-11-giratina-und-der-himmelsritter-19612",
+          "name": "Pokémon 11: Giratina und der Himmelsritter",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3965822/1200x0/pokemon-11-giratina-und-der-himmelsritter.jpg",
+          "uploadDate": "2022-07-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Pokémon 11: Giratina und der Himmelsritter im Online Stream | RTL+",
+        "headline": "Pokémon 11: Giratina und der Himmelsritter im Online Stream | RTL+",
+        "description": "Pokémon 11: Giratina und der Himmelsritter und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/pokemon-11-giratina-und-der-himmelsritter-19612",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3965822/1200x0/pokemon-11-giratina-und-der-himmelsritter.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3965822/1200x0/pokemon-11-giratina-und-der-himmelsritter.jpg",
+        "datePublished": "2022-07-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3965822/1200x0/pokemon-11-giratina-und-der-himmelsritter.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pokémon 11: Giratina und der Himmelsritter",
+            "item": "%s/filme/pokemon-11-giratina-und-der-himmelsritter-19612"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Pokémon 11: Giratina und der Himmelsritter im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

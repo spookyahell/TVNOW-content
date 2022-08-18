@@ -1,0 +1,238 @@
+﻿{
+  "formatId": 19633,
+  "additionalMeta": {
+    "canonical": "/filme/william-prinz-der-herzen-koenig-der-zukunft-19633",
+    "url": "/filme/william-prinz-der-herzen-koenig-der-zukunft-19633"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "William: Prinz der Herzen, König der Zukunft",
+      "url": "/filme/william-prinz-der-herzen-koenig-der-zukunft-19633"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19633,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ William: Prinz der Herzen, König der Zukunft 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "William: Prinz der Herzen, König der Zukunft im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ William: Prinz der Herzen, König der Zukunft 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/william-prinz-der-herzen-koenig-der-zukunft-19633"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3968402/1600x0/william-prinz-der-herzen-koenig-der-zukunft.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3968402,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3968402",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19633"
+    },
+    {
+      "id": 19633,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19633",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tndokubio",
+      "video": "dvrsowf_ten_tndokubio",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/tvnow_doku_bio/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "tvnow_doku_bio",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Promis",
+      "Biographie"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "William: Prinz der Herzen, König der Zukunft - Informationen zum Film",
+    "text": "Ein Prinz, der seine Mutter früh verlor, doch immer an die Liebe glaubt: Was macht William aus? Wie sehr beschützt den zukünftigen Thronfolger bis heute die Liebe seiner Mutter, Prinzessin Diana, und wie vereinbart er Familie und Pflicht? In der Dokumentation begleitet die königliche Korrespondentin der Sunday Times, Roya Nikkhah, William und Kate exklusiv auf ihrer Irland-Tour und analysiert den Weg des Prinzen in Richtung Krone. ",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/william-prinz-der-herzen-koenig-der-zukunft-19633",
+        "description": "Ein Prinz, der seine Mutter früh verlor, doch immer an die Liebe glaubt: Was macht William aus? Wie sehr beschützt den zukünftigen Thronfolger bis heute die Liebe seiner Mutter, Prinzessin Diana, und wie vereinbart er Familie und Pflicht? In der Dokumentation begleitet die königliche Korrespondentin der Sunday Times, Roya Nikkhah, William und Kate exklusiv auf ihrer Irland-Tour und analysiert den Weg des Prinzen in Richtung Krone. ",
+        "duration": "PT47M50S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3968402/1200x0/william-prinz-der-herzen-koenig-der-zukunft.jpg",
+        "name": "William: Prinz der Herzen, König der Zukunft",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/william-prinz-der-herzen-koenig-der-zukunft-19633",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-04-17T14:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=william-prinz-der-herzen-koenig-der-zukunft-19633",
+              "sameAs": "%s/premium?typ=format&formatname=william-prinz-der-herzen-koenig-der-zukunft-19633",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/william-prinz-der-herzen-koenig-der-zukunft-19633",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Ein Prinz, der seine Mutter früh verlor, doch immer an die Liebe glaubt: Was macht William aus? Wie sehr beschützt den zukünftigen Thronfolger bis heute die Liebe seiner Mutter, Prinzessin Diana, und wie vereinbart er Familie und Pflicht? In der Dokumentation begleitet die königliche Korrespondentin der Sunday Times, Roya Nikkhah, William und Kate exklusiv auf ihrer Irland-Tour und analysiert den Weg des Prinzen in Richtung Krone. ",
+          "duration": "PT47M50S",
+          "embedUrl": "%s/googlebot/player/filme/william-prinz-der-herzen-koenig-der-zukunft-19633",
+          "name": "William: Prinz der Herzen, König der Zukunft",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3968402/1200x0/william-prinz-der-herzen-koenig-der-zukunft.jpg",
+          "uploadDate": "2021-04-17T14:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "William: Prinz der Herzen, König der Zukunft im Online Stream | RTL+",
+        "headline": "William: Prinz der Herzen, König der Zukunft im Online Stream | RTL+",
+        "description": "William: Prinz der Herzen, König der Zukunft und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+. Ein Film mit ▶️Joey Cordevin, Gerhart Hinze, Volker Hanisch, Johannes Semm, Jonas Minthe, Tetje Mierendorf, Simona Pahl, Freya Trampert, Dagmar Dreke, Julia Casper, Merete Brettschneider.",
+        "url": "%s/filme/william-prinz-der-herzen-koenig-der-zukunft-19633",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3968402/1200x0/william-prinz-der-herzen-koenig-der-zukunft.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3968402/1200x0/william-prinz-der-herzen-koenig-der-zukunft.jpg",
+        "datePublished": "2021-04-17T14:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3968402/1200x0/william-prinz-der-herzen-koenig-der-zukunft.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "William: Prinz der Herzen, König der Zukunft",
+            "item": "%s/filme/william-prinz-der-herzen-koenig-der-zukunft-19633"
+          }
+        ]
+      }
+    }
+  },
+  "title": "William: Prinz der Herzen, König der Zukunft im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20542,
+  "additionalMeta": {
+    "canonical": "/filme/traumschiff-surprise-periode-1-20542",
+    "url": "/filme/traumschiff-surprise-periode-1-20542"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "(T)Raumschiff Surprise - Periode 1",
+      "url": "/filme/traumschiff-surprise-periode-1-20542"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20542,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ (T)Raumschiff Surprise - Periode 1 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "(T)Raumschiff Surprise - Periode 1 im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ (T)Raumschiff Surprise - Periode 1 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/traumschiff-surprise-periode-1-20542"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4785825/1600x0/t-raumschiff-surprise-periode-1.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4785825,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4785825",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20542"
+    },
+    {
+      "id": 20542,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20542",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [
+      "FILME Komödien"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: (T)Raumschiff Surprise - Periode 1",
+    "text": "Im Jahre 2304 steht eine Katastrophe bevor: Die Marsianer planen, die Erde zu unterwerfen. Einzige Hoffnung für die schöne Königin Metapha und die Erdbevölkerung ist die Besatzung des Raumschiffs \"Surprise\". Nur sie können die Erde noch retten. Aber Käpt'n Kork, Mr. Spuck und Ingenieur Schrotty haben Wichtigeres im Sinn, sie üben gerade für ihren Auftritt bei der \"Miss-Waikiki-Wahl\", die sie unbedingt gewinnen wollen.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/t-raumschiff-surprise-periode-1-20542",
+        "description": "Im Jahre 2304 steht eine Katastrophe bevor: Die Marsianer planen, die Erde zu unterwerfen. Einzige Hoffnung für die schöne Königin Metapha und die Erdbevölkerung ist die Besatzung des Raumschiffs \"Surprise\". Nur sie können die Erde noch retten. Aber Käpt'n Kork, Mr. Spuck und Ingenieur Schrotty haben Wichtigeres im Sinn, sie üben gerade für ihren Auftritt bei der \"Miss-Waikiki-Wahl\", die sie unbedingt gewinnen wollen.",
+        "duration": "PT1H23M40S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4785825/1200x0/traumschiff-surprise-periode-1.jpg",
+        "name": "(T)Raumschiff Surprise - Periode 1",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/t-raumschiff-surprise-periode-1-20542",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=traumschiff-surprise-periode-1-20542",
+              "sameAs": "%s/premium?typ=format&formatname=traumschiff-surprise-periode-1-20542",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/t-raumschiff-surprise-periode-1-20542",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Im Jahre 2304 steht eine Katastrophe bevor: Die Marsianer planen, die Erde zu unterwerfen. Einzige Hoffnung für die schöne Königin Metapha und die Erdbevölkerung ist die Besatzung des Raumschiffs \"Surprise\". Nur sie können die Erde noch retten. Aber Käpt'n Kork, Mr. Spuck und Ingenieur Schrotty haben Wichtigeres im Sinn, sie üben gerade für ihren Auftritt bei der \"Miss-Waikiki-Wahl\", die sie unbedingt gewinnen wollen.",
+          "duration": "PT1H23M40S",
+          "embedUrl": "%s/googlebot/player/filme/t-raumschiff-surprise-periode-1-20542",
+          "name": "(T)Raumschiff Surprise - Periode 1",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4785825/1200x0/traumschiff-surprise-periode-1.jpg",
+          "uploadDate": "2022-04-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "(T)Raumschiff Surprise - Periode 1 im Online Stream | RTL+",
+        "headline": "(T)Raumschiff Surprise - Periode 1 im Online Stream | RTL+",
+        "description": "(T)Raumschiff Surprise - Periode 1 und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei RTL+. Ein Film mit ▶️Michael Bully Herbig, Christian Tramitz, Rick Kavanian, Til Schweiger.",
+        "url": "%s/filme/t-raumschiff-surprise-periode-1-20542",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4785825/1200x0/traumschiff-surprise-periode-1.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4785825/1200x0/traumschiff-surprise-periode-1.jpg",
+        "datePublished": "2022-04-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4785825/1200x0/traumschiff-surprise-periode-1.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "(T)Raumschiff Surprise - Periode 1",
+            "item": "%s/filme/traumschiff-surprise-periode-1-20542"
+          }
+        ]
+      }
+    }
+  },
+  "title": "(T)Raumschiff Surprise - Periode 1 im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

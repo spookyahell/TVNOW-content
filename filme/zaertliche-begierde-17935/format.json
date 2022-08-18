@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 17935,
+  "additionalMeta": {
+    "canonical": "/filme/zaertliche-begierde-17935",
+    "url": "/filme/zaertliche-begierde-17935"
+  },
+  "ads": {
+    "station": "passion",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Zärtliche Begierde",
+      "url": "/filme/zaertliche-begierde-17935"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 17935,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Zärtliche Begierde 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "Zärtliche Begierde, video, videos, online sehen, internet tv, fernsehen, video on demand, RTL+, RTL+",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Zärtliche Begierde im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Zärtliche Begierde 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/zaertliche-begierde-17935"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4165179/1600x0/zaertliche-begierde.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4165179,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4165179",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/17935"
+    },
+    {
+      "id": 17935,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/17935",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_pnrtlpassion",
+      "video": "dvrsowf_ten_pnrtlpassion",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/passion_now/formate/passion_format/home",
+      "levels": [
+        "tv_now_de",
+        "passion_now",
+        "formate",
+        "passion_format",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Zärtliche Begierde",
+    "text": "Die erfolgreiche Modedesignerin Christine hat es satt, die Macho-Attitüden ihres Mannes Martin hinzunehmen. Der spielt zu Hause den Pascha - und betrügt sie nach Strich und Faden. Nach einem handfesten Ehekrach ist es Christine endgültig leid: Sie zieht zu der Nachbarin Anna. Martin wird vollkommen panisch, als er erfährt, dass Anna lesbisch ist. Zusammen mit seinem Freund Heiner heckt er einen Plan aus, um seine Frau zu \"retten\"...",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/zaertliche-begierde-17935",
+        "description": "Die erfolgreiche Modedesignerin Christine hat es satt, die Macho-Attitüden ihres Mannes Martin hinzunehmen. Der spielt zu Hause den Pascha - und betrügt sie nach Strich und Faden. Nach einem handfesten Ehekrach ist es Christine endgültig leid: Sie zieht zu der Nachbarin Anna. Martin wird vollkommen panisch, als er erfährt, dass Anna lesbisch ist. Zusammen mit seinem Freund Heiner heckt er einen Plan aus, um seine Frau zu \"retten\"...",
+        "duration": "PT1H31M17S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4165179/1200x0/zaertliche-begierde.jpg",
+        "name": "Zärtliche Begierde",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/zaertliche-begierde-17935",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-09-04T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=zaertliche-begierde-17935",
+              "sameAs": "%s/premium?typ=format&formatname=zaertliche-begierde-17935",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/zaertliche-begierde-17935",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die erfolgreiche Modedesignerin Christine hat es satt, die Macho-Attitüden ihres Mannes Martin hinzunehmen. Der spielt zu Hause den Pascha - und betrügt sie nach Strich und Faden. Nach einem handfesten Ehekrach ist es Christine endgültig leid: Sie zieht zu der Nachbarin Anna. Martin wird vollkommen panisch, als er erfährt, dass Anna lesbisch ist. Zusammen mit seinem Freund Heiner heckt er einen Plan aus, um seine Frau zu \"retten\"...",
+          "duration": "PT1H31M17S",
+          "embedUrl": "%s/googlebot/player/filme/zaertliche-begierde-17935",
+          "name": "Zärtliche Begierde",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4165179/1200x0/zaertliche-begierde.jpg",
+          "uploadDate": "2021-09-04T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Zärtliche Begierde im Online Stream | RTL+",
+        "headline": "Zärtliche Begierde im Online Stream | RTL+",
+        "description": "Zärtliche Begierde und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+. Ein Film mit ▶️Gesche Tebbenhoff, Tina Ruland, Christoph M. Ohrt, Ingolf Lück, Lennard Barth, Johanna Christine Gehlen, Denise Virieux, Jasmin Rana Schöler.",
+        "url": "%s/filme/zaertliche-begierde-17935",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4165179/1200x0/zaertliche-begierde.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4165179/1200x0/zaertliche-begierde.jpg",
+        "datePublished": "2021-09-04T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4165179/1200x0/zaertliche-begierde.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Zärtliche Begierde",
+            "item": "%s/filme/zaertliche-begierde-17935"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Zärtliche Begierde im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

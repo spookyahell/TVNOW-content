@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20178,
+  "additionalMeta": {
+    "canonical": "/filme/tasmanien-eine-insel-steht-kopf-20178",
+    "url": "/filme/tasmanien-eine-insel-steht-kopf-20178"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Tasmanien - Eine Insel steht Kopf",
+      "url": "/filme/tasmanien-eine-insel-steht-kopf-20178"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20178,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Tasmanien - Eine Insel steht Kopf 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Tasmanien - Eine Insel steht Kopf im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Tasmanien - Eine Insel steht Kopf 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/tasmanien-eine-insel-steht-kopf-20178"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4323499/1600x0/tasmanien-eine-insel-steht-kopf.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4323499,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4323499",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20178"
+    },
+    {
+      "id": 20178,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20178",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tntasmanieninsel",
+      "video": "dvrsowf_ten_tntasmanieninsel",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/tasmanien_insel/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "tasmanien_insel",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Tasmanien - Eine Insel steht Kopf",
+    "text": "Wer denkt, Australiens Tierwelt sei ein wenig \"schräg\", sollte sich in Tasmanien umsehen, denn die Liste der bizarren Tiere Tasmaniens ist lang: Außer schwarzen Beutelteufeln und weißen Wallabys leben auch die weltweit kleinsten Pinguine und hüpfenden Ameisen auf der Insel. Tasmanien, das ist mehr als Australien, die Insel ist eine Welt für sich!",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/tasmanien-eine-insel-steht-kopf-20178",
+        "description": "Wer denkt, Australiens Tierwelt sei ein wenig \"schräg\", sollte sich in Tasmanien umsehen, denn die Liste der bizarren Tiere Tasmaniens ist lang: Außer schwarzen Beutelteufeln und weißen Wallabys leben auch die weltweit kleinsten Pinguine und hüpfenden Ameisen auf der Insel. Tasmanien, das ist mehr als Australien, die Insel ist eine Welt für sich!",
+        "duration": "PT50M",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4323499/1200x0/tasmanien-eine-insel-steht-kopf.jpg",
+        "name": "Tasmanien - Eine Insel steht Kopf",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/tasmanien-eine-insel-steht-kopf-20178",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-12-14T00:01:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=tasmanien-eine-insel-steht-kopf-20178",
+              "sameAs": "%s/premium?typ=format&formatname=tasmanien-eine-insel-steht-kopf-20178",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/tasmanien-eine-insel-steht-kopf-20178",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Wer denkt, Australiens Tierwelt sei ein wenig \"schräg\", sollte sich in Tasmanien umsehen, denn die Liste der bizarren Tiere Tasmaniens ist lang: Außer schwarzen Beutelteufeln und weißen Wallabys leben auch die weltweit kleinsten Pinguine und hüpfenden Ameisen auf der Insel. Tasmanien, das ist mehr als Australien, die Insel ist eine Welt für sich!",
+          "duration": "PT50M",
+          "embedUrl": "%s/googlebot/player/filme/tasmanien-eine-insel-steht-kopf-20178",
+          "name": "Tasmanien - Eine Insel steht Kopf",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323499/1200x0/tasmanien-eine-insel-steht-kopf.jpg",
+          "uploadDate": "2021-12-14T00:01:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Tasmanien - Eine Insel steht Kopf im Online Stream | RTL+",
+        "headline": "Tasmanien - Eine Insel steht Kopf im Online Stream | RTL+",
+        "description": "Tasmanien - Eine Insel steht Kopf und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/tasmanien-eine-insel-steht-kopf-20178",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4323499/1200x0/tasmanien-eine-insel-steht-kopf.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323499/1200x0/tasmanien-eine-insel-steht-kopf.jpg",
+        "datePublished": "2021-12-14T00:01:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4323499/1200x0/tasmanien-eine-insel-steht-kopf.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tasmanien - Eine Insel steht Kopf",
+            "item": "%s/filme/tasmanien-eine-insel-steht-kopf-20178"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Tasmanien - Eine Insel steht Kopf im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

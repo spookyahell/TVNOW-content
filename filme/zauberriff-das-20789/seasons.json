@@ -1,0 +1,109 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20789",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20789,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/das-zauberriff-20789"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Das Zauberriff",
+          "teaserId": "film_4850532",
+          "teaserName": "Das Zauberriff | Das Zauberriff",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 3 bis 6 Jahre",
+            "KIDS 6 bis 10 Jahre",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+ Kids",
+          "teaserEpisodeName": "Das Zauberriff"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das Zauberriff",
+        "id": 4850532,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4850532/300x0/das-zauberriff.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4850532/",
+            "filename": "das-zauberriff"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4850532/600x0/das-zauberriff.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4850532/",
+            "filename": "das-zauberriff"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4850532/1200x0/das-zauberriff.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4850532/",
+            "filename": "das-zauberriff"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4850532/300x0/das-zauberriff.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4850532/",
+            "filename": "das-zauberriff"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4850532/600x0/das-zauberriff.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4850532/",
+            "filename": "das-zauberriff"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4850532/1200x0/das-zauberriff.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4850532/",
+            "filename": "das-zauberriff"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "zauberriff-das",
+        "subheadline": "Das Zauberriff",
+        "text": "Staffel  | RTL+ Kids",
+        "type": "film",
+        "url": "/filme/das-zauberriff-20789",
+        "videoId": 4850532
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

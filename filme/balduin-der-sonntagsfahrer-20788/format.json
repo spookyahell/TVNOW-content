@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20788,
+  "additionalMeta": {
+    "canonical": "/filme/balduin-der-sonntagsfahrer-20788",
+    "url": "/filme/balduin-der-sonntagsfahrer-20788"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Balduin, der Sonntagsfahrer",
+      "url": "/filme/balduin-der-sonntagsfahrer-20788"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20788,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Balduin, der Sonntagsfahrer 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Balduin, der Sonntagsfahrer im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Balduin, der Sonntagsfahrer 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/balduin-der-sonntagsfahrer-20788"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4852506/1600x0/balduin-der-sonntagsfahrer.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4852506,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4852506",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20788"
+    },
+    {
+      "id": 20788,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20788",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [
+      "FILME Komödien"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Balduin, der Sonntagsfahrer",
+    "text": "Der Großindustrielle Henri Roubier jagt in seinem Wagen über die Gebirgsautobahn von San Remo nach Nizza. Zwei Anhalter, die er zunächst wohlwollend aufgenommen hat, bringen in so in Rage, dass er mit dem Wagen über eine Felsklippe stürzt und das Gefährt in der Krone einer Pinie hängen bleibt. Ihre Befreiungsversuche scheitern, so dass sie halbnackt im Auto hocken und auf die Rettungskräfte warten.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/balduin-der-sonntagsfahrer-20788",
+        "description": "Der Großindustrielle Henri Roubier jagt in seinem Wagen über die Gebirgsautobahn von San Remo nach Nizza. Zwei Anhalter, die er zunächst wohlwollend aufgenommen hat, bringen in so in Rage, dass er mit dem Wagen über eine Felsklippe stürzt und das Gefährt in der Krone einer Pinie hängen bleibt. Ihre Befreiungsversuche scheitern, so dass sie halbnackt im Auto hocken und auf die Rettungskräfte warten.",
+        "duration": "PT1H23M44S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4852506/1200x0/balduin-der-sonntagsfahrer.jpg",
+        "name": "Balduin, der Sonntagsfahrer",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/balduin-der-sonntagsfahrer-20788",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=balduin-der-sonntagsfahrer-20788",
+              "sameAs": "%s/premium?typ=format&formatname=balduin-der-sonntagsfahrer-20788",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/balduin-der-sonntagsfahrer-20788",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Der Großindustrielle Henri Roubier jagt in seinem Wagen über die Gebirgsautobahn von San Remo nach Nizza. Zwei Anhalter, die er zunächst wohlwollend aufgenommen hat, bringen in so in Rage, dass er mit dem Wagen über eine Felsklippe stürzt und das Gefährt in der Krone einer Pinie hängen bleibt. Ihre Befreiungsversuche scheitern, so dass sie halbnackt im Auto hocken und auf die Rettungskräfte warten.",
+          "duration": "PT1H23M44S",
+          "embedUrl": "%s/googlebot/player/filme/balduin-der-sonntagsfahrer-20788",
+          "name": "Balduin, der Sonntagsfahrer",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4852506/1200x0/balduin-der-sonntagsfahrer.jpg",
+          "uploadDate": "2022-07-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Balduin, der Sonntagsfahrer im Online Stream | RTL+",
+        "headline": "Balduin, der Sonntagsfahrer im Online Stream | RTL+",
+        "description": "Balduin, der Sonntagsfahrer und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei RTL+. Ein Film mit ▶️Louis De Funès, Geraldine Chaplin, Alice Sapritsch, Olivier De Funès, Pierre Richard, Hans Meyer, Paul Préboist.",
+        "url": "%s/filme/balduin-der-sonntagsfahrer-20788",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4852506/1200x0/balduin-der-sonntagsfahrer.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4852506/1200x0/balduin-der-sonntagsfahrer.jpg",
+        "datePublished": "2022-07-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4852506/1200x0/balduin-der-sonntagsfahrer.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Balduin, der Sonntagsfahrer",
+            "item": "%s/filme/balduin-der-sonntagsfahrer-20788"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Balduin, der Sonntagsfahrer im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20133,
+  "additionalMeta": {
+    "canonical": "/filme/der-weihnachtsfluch-nichts-als-die-wahrheit-20133",
+    "url": "/filme/der-weihnachtsfluch-nichts-als-die-wahrheit-20133"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Der Weihnachtsfluch - Nichts als die Wahrheit",
+      "url": "/filme/der-weihnachtsfluch-nichts-als-die-wahrheit-20133"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20133,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Der Weihnachtsfluch - Nichts als die Wahrheit 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Der Weihnachtsfluch - Nichts als die Wahrheit im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Der Weihnachtsfluch - Nichts als die Wahrheit 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/der-weihnachtsfluch-nichts-als-die-wahrheit-20133"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4190124/1600x0/der-weihnachtsfluch-nichts-als-die-wahrheit.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4190124,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4190124",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20133"
+    },
+    {
+      "id": 20133,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20133",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_romantik/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_romantik",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Der Weihnachtsfluch - Nichts als die Wahrheit - Informationen zum Film",
+    "text": "Jillian hat ein wunderbares Leben. Sie ist eine erfolgreiche politische Beraterin und ihr Freund George kandidiert als Bürgermeister. Über die Feiertage wird sie endlich Georges Eltern kennenlernen. Als es auf dem Weg dorthin zu einer ungewöhnlichen Begegnung mit dem Weihnachtsmann kommt, kann Jillian plötzlich nichts als die Wahrheit sagen. Und das bringt sie in eine Situation, in der sie sich entscheiden muss, was sie wirklich will. ",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/der-weihnachtsfluch-nichts-als-die-wahrheit-20133",
+        "description": "Jillian hat ein wunderbares Leben. Sie ist eine erfolgreiche politische Beraterin und ihr Freund George kandidiert als Bürgermeister. Über die Feiertage wird sie endlich Georges Eltern kennenlernen. Als es auf dem Weg dorthin zu einer ungewöhnlichen Begegnung mit dem Weihnachtsmann kommt, kann Jillian plötzlich nichts als die Wahrheit sagen. Und das bringt sie in eine Situation, in der sie sich entscheiden muss, was sie wirklich will. ",
+        "duration": "PT1H20M10S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4190124/1200x0/der-weihnachtsfluch-nichts-als-die-wahrheit.jpg",
+        "name": "Der Weihnachtsfluch - Nichts als die Wahrheit",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/der-weihnachtsfluch-nichts-als-die-wahrheit-20133",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-11-16T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=der-weihnachtsfluch-nichts-als-die-wahrheit-20133",
+              "sameAs": "%s/premium?typ=format&formatname=der-weihnachtsfluch-nichts-als-die-wahrheit-20133",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/der-weihnachtsfluch-nichts-als-die-wahrheit-20133",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Jillian hat ein wunderbares Leben. Sie ist eine erfolgreiche politische Beraterin und ihr Freund George kandidiert als Bürgermeister. Über die Feiertage wird sie endlich Georges Eltern kennenlernen. Als es auf dem Weg dorthin zu einer ungewöhnlichen Begegnung mit dem Weihnachtsmann kommt, kann Jillian plötzlich nichts als die Wahrheit sagen. Und das bringt sie in eine Situation, in der sie sich entscheiden muss, was sie wirklich will. ",
+          "duration": "PT1H20M10S",
+          "embedUrl": "%s/googlebot/player/filme/der-weihnachtsfluch-nichts-als-die-wahrheit-20133",
+          "name": "Der Weihnachtsfluch - Nichts als die Wahrheit",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4190124/1200x0/der-weihnachtsfluch-nichts-als-die-wahrheit.jpg",
+          "uploadDate": "2021-11-16T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Der Weihnachtsfluch - Nichts als die Wahrheit im Online Stream | RTL+",
+        "headline": "Der Weihnachtsfluch - Nichts als die Wahrheit im Online Stream | RTL+",
+        "description": "Der Weihnachtsfluch - Nichts als die Wahrheit und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei RTL+. Ein Film mit ▶️Kali Hawk, Damon Dayoub, Ali Ghandour, Michela Cannon, Dan Lett, Carolyn Scott, Anna Ferguson, Sydney Van Delft, Paul Dick, Matthew Stefiuk, Claire Rankin, Monica Osborne, Xavier Sotelo, Adaya Ariana, John Koensgen, Mya Labelle.",
+        "url": "%s/filme/der-weihnachtsfluch-nichts-als-die-wahrheit-20133",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4190124/1200x0/der-weihnachtsfluch-nichts-als-die-wahrheit.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4190124/1200x0/der-weihnachtsfluch-nichts-als-die-wahrheit.jpg",
+        "datePublished": "2021-11-16T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4190124/1200x0/der-weihnachtsfluch-nichts-als-die-wahrheit.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Der Weihnachtsfluch - Nichts als die Wahrheit",
+            "item": "%s/filme/der-weihnachtsfluch-nichts-als-die-wahrheit-20133"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Der Weihnachtsfluch - Nichts als die Wahrheit im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

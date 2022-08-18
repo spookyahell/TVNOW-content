@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/7891",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 7891,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/santa-baby-7891"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Santa Baby",
+          "teaserId": "film_386782",
+          "teaserName": "Santa Baby | Santa Baby",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "Sa. 05.12.2020, 20:15 Uhr",
+          "teaserEpisodeName": "Santa Baby"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Santa Baby",
+        "id": 386782,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386782/300x0/santa-baby.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386782/",
+            "filename": "santa-baby"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386782/600x0/santa-baby.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386782/",
+            "filename": "santa-baby"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386782/1200x0/santa-baby.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386782/",
+            "filename": "santa-baby"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386782/300x0/santa-baby.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386782/",
+            "filename": "santa-baby"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386782/600x0/santa-baby.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386782/",
+            "filename": "santa-baby"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/386782/1200x0/santa-baby.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/386782/",
+            "filename": "santa-baby"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "santa-baby-superrtl",
+        "subheadline": "Santa Baby",
+        "text": "Staffel  | Sa. 05.12.2020, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/santa-baby-7891",
+        "videoId": 386782
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

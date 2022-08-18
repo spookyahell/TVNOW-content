@@ -1,0 +1,207 @@
+﻿{
+  "formatId": 20012,
+  "additionalMeta": {
+    "canonical": "/serien/tvnow-wird-rtlplus-20012",
+    "url": "/serien/tvnow-wird-rtlplus-20012"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "TVNOW wird RTL+",
+      "url": "/serien/tvnow-wird-rtlplus-20012"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 20012,
+  "meta": [
+    {
+      "content": "Die Serie TVNOW wird RTL+ (TVNOW) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺  im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "TVNOW wird RTL+ im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie TVNOW wird RTL+ (TVNOW) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺  im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/tvnow-wird-rtlplus-20012"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/20012_03artwork/1600x0/tvnow-wird-rtlplus.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/20012",
+      "type": "teaserrow"
+    },
+    {
+      "id": 15944,
+      "label": "Noch mehr Vielfalt auf RTL+",
+      "moduleLayout": "landscape_small",
+      "moduleUrl": "/module/teaserrow/manual/15944",
+      "type": "teaserrow"
+    },
+    {
+      "id": 20012,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20012",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/formate/home",
+      "levels": [
+        "tv_now_de",
+        "formate",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "TVNOW wird zu RTL+ - Alle Informationen zum Namenswechsel",
+    "text": "<p>Am 04. November geht es los: TVNOW wird zu RTL+. Das geschieht, um das umfangreichste Angebot auf TV-Inhalten und Streaming-Inhalten m&ouml;glich zu machen.</p> <p><strong>Was hei&szlig;t das f&uuml;r mich?&nbsp;</strong></p> <p>Sehr viele positive Dinge: viele neue <strong>RTL+- Originals</strong> aus dem Show-, Real Life und Comedy-Segment sowie <strong>hochwertige Produktionen</strong> warten auf dich! Au&szlig;erdem arbeiten wir an tollen Dokumentationen und Fiction-Formaten f&uuml;r dich. Dar&uuml;ber hinaus umfasst RTL+ ein umfangreiches Spielfilmpaket, exklusive Serien-Highlights, Livesport und einen konstant wachsenden Family-&amp; Kids-Bereich.</p> <p>Ge&auml;ndert werden die Paket-Namen: Die bisherigen Pakete FREE, PREMIUM und Premium Duo werden umbenannt in<strong> RTL+ Free, Premium und Premium Duo</strong>.</p> <p>Das Beste dabei? <strong>Am Preis &auml;ndert sich nichts</strong>. Du musst nichts tun, kannst dich bequem zur&uuml;cklehnen und weiterhin das tolle Programm genie&szlig;en.&nbsp;</p>",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/tvnow-wird-rtlplus-20012",
+        "url": "%s/serien/tvnow-wird-rtlplus-20012",
+        "name": "TVNOW wird RTL+",
+        "description": "Die Serie TVNOW wird RTL+ (TVNOW) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺  im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/20012_04metalogo/1200x0/tvnow-wird-rtlplus.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "TVNOW wird zu RTL+ - Alle Informationen zum Namenswechsel",
+        "headline": "TVNOW wird zu RTL+ - Alle Informationen zum Namenswechsel",
+        "description": "Die Serie TVNOW wird RTL+ (TVNOW) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺  im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/tvnow-wird-rtlplus-20012",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/20012_04metalogo/1200x0/tvnow-wird-rtlplus.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/20012_04metalogo/1200x0/tvnow-wird-rtlplus.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/20012_04metalogo/1200x0/tvnow-wird-rtlplus.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "TVNOW wird RTL+",
+            "item": "%s/serien/tvnow-wird-rtlplus-20012"
+          }
+        ]
+      }
+    }
+  },
+  "title": "TVNOW wird RTL+ im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

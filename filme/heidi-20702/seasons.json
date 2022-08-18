@@ -1,0 +1,108 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20702",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20702,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/heidi-20702"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Heidi",
+          "teaserId": "film_4820319",
+          "teaserName": "Heidi | Heidi",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+ Kids",
+          "teaserEpisodeName": "Heidi"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Heidi",
+        "id": 4820319,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820319/300x0/heidi.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820319/",
+            "filename": "heidi"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820319/600x0/heidi.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820319/",
+            "filename": "heidi"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820319/1200x0/heidi.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820319/",
+            "filename": "heidi"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820319/300x0/heidi.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820319/",
+            "filename": "heidi"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820319/600x0/heidi.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820319/",
+            "filename": "heidi"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820319/1200x0/heidi.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820319/",
+            "filename": "heidi"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "heidi",
+        "subheadline": "Heidi",
+        "text": "Staffel  | RTL+ Kids",
+        "type": "film",
+        "url": "/filme/heidi-20702",
+        "videoId": 4820319
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

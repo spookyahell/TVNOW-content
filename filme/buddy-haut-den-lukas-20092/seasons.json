@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20092",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20092,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/buddy-haut-den-lukas-20092"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Buddy haut den Lukas",
+          "teaserId": "film_4282528",
+          "teaserName": "Buddy haut den Lukas | Buddy haut den Lukas",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Buddy haut den Lukas"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Buddy haut den Lukas",
+        "id": 4282528,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4282528/300x0/buddy-haut-den-lukas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4282528/",
+            "filename": "buddy-haut-den-lukas"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4282528/600x0/buddy-haut-den-lukas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4282528/",
+            "filename": "buddy-haut-den-lukas"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4282528/1200x0/buddy-haut-den-lukas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4282528/",
+            "filename": "buddy-haut-den-lukas"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4282528/300x0/buddy-haut-den-lukas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4282528/",
+            "filename": "buddy-haut-den-lukas"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4282528/600x0/buddy-haut-den-lukas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4282528/",
+            "filename": "buddy-haut-den-lukas"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4282528/1200x0/buddy-haut-den-lukas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4282528/",
+            "filename": "buddy-haut-den-lukas"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "buddy-haut-den-lukas",
+        "subheadline": "Buddy haut den Lukas",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/buddy-haut-den-lukas-20092",
+        "videoId": 4282528
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

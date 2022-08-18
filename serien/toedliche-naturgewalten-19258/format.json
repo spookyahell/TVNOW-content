@@ -1,0 +1,202 @@
+﻿{
+  "formatId": 19258,
+  "additionalMeta": {
+    "canonical": "/serien/toedliche-naturgewalten-19258",
+    "url": "/serien/toedliche-naturgewalten-19258"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Tödliche Naturgewalten",
+      "url": "/serien/toedliche-naturgewalten-19258"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 19258,
+  "meta": [
+    {
+      "content": "Die Serie Tödliche Naturgewalten (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Tödliche Naturgewalten im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Tödliche Naturgewalten (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/toedliche-naturgewalten-19258"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/19258_03artwork/1600x0/toedliche-naturgewalten.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/19258",
+      "type": "teaserrow"
+    },
+    {
+      "id": 19258,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19258",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nntoedlichenaturge",
+      "video": "dvrsowf_ten_nntoedlichenaturge",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/toedliche_naturgew/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "toedliche_naturgew",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Tödliche Naturgewalten - Informationen zur Sendung",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/toedliche-naturgewalten-19258",
+        "url": "%s/serien/toedliche-naturgewalten-19258",
+        "name": "Tödliche Naturgewalten",
+        "description": "Die Serie Tödliche Naturgewalten (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/19258_04metalogo/1200x0/toedliche-naturgewalten.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Tödliche Naturgewalten - Informationen zur Sendung",
+        "headline": "Tödliche Naturgewalten - Informationen zur Sendung",
+        "description": "Die Serie Tödliche Naturgewalten (n-tv) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/toedliche-naturgewalten-19258",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/19258_04metalogo/1200x0/toedliche-naturgewalten.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/19258_04metalogo/1200x0/toedliche-naturgewalten.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/19258_04metalogo/1200x0/toedliche-naturgewalten.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tödliche Naturgewalten",
+            "item": "%s/serien/toedliche-naturgewalten-19258"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Tödliche Naturgewalten im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,216 @@
+﻿{
+  "formatId": 19230,
+  "additionalMeta": {
+    "canonical": "/serien/wilkes-welt-ohne-plan-zum-traumhaus-19230",
+    "url": "/serien/wilkes-welt-ohne-plan-zum-traumhaus-19230"
+  },
+  "ads": {
+    "station": "vox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Wilkes Welt - Ohne Plan zum Traumhaus",
+      "url": "/serien/wilkes-welt-ohne-plan-zum-traumhaus-19230"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 19230,
+  "meta": [
+    {
+      "content": "Die Serie Wilkes Welt - Ohne Plan zum Traumhaus (VOX) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Real Life im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Wilkes Welt - Ohne Plan zum Traumhaus im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Wilkes Welt - Ohne Plan zum Traumhaus (VOX) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Real Life im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/wilkes-welt-ohne-plan-zum-traumhaus-19230"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/19230_03artwork/1600x0/wilkes-welt-ohne-plan-zum-traumhaus.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/19230",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/19230",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/19230",
+      "type": "teaserrow"
+    },
+    {
+      "id": 19230,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19230",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_vnwilkesweltohne",
+      "video": "dvrsowf_ten_vnwilkesweltohne",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/vox_now/formate/wilkes_welt_ohne/home",
+      "levels": [
+        "tv_now_de",
+        "vox_now",
+        "formate",
+        "wilkes_welt_ohne",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Real Life",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Wilkes Welt - Ohne Plan zum Traumhaus: Informationen zur Serie",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/wilkes-welt-ohne-plan-zum-traumhaus-19230",
+        "url": "%s/serien/wilkes-welt-ohne-plan-zum-traumhaus-19230",
+        "name": "Wilkes Welt - Ohne Plan zum Traumhaus",
+        "description": "Die Serie Wilkes Welt - Ohne Plan zum Traumhaus (VOX) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Real Life im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/19230_04metalogo/1200x0/wilkes-welt-ohne-plan-zum-traumhaus.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Wilkes Welt - Ohne Plan zum Traumhaus: Informationen zur Serie",
+        "headline": "Wilkes Welt - Ohne Plan zum Traumhaus: Informationen zur Serie",
+        "description": "Die Serie Wilkes Welt - Ohne Plan zum Traumhaus (VOX) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Real Life im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/wilkes-welt-ohne-plan-zum-traumhaus-19230",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/19230_04metalogo/1200x0/wilkes-welt-ohne-plan-zum-traumhaus.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/19230_04metalogo/1200x0/wilkes-welt-ohne-plan-zum-traumhaus.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/19230_04metalogo/1200x0/wilkes-welt-ohne-plan-zum-traumhaus.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wilkes Welt - Ohne Plan zum Traumhaus",
+            "item": "%s/serien/wilkes-welt-ohne-plan-zum-traumhaus-19230"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Wilkes Welt - Ohne Plan zum Traumhaus im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

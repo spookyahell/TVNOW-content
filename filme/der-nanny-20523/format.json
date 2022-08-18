@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20523,
+  "additionalMeta": {
+    "canonical": "/filme/der-nanny-20523",
+    "url": "/filme/der-nanny-20523"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Der Nanny",
+      "url": "/filme/der-nanny-20523"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20523,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Der Nanny 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Der Nanny im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Der Nanny 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/der-nanny-20523"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4785827/1600x0/der-nanny.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4785827,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4785827",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20523"
+    },
+    {
+      "id": 20523,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20523",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [
+      "FILME Komödien"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Der Nanny",
+    "text": "Der Bauunternehmer Clemens hat kaum Zeit für seine Kinder. Die haben es sich jedoch zur Aufgabe gemacht, ein Kindermädchen nach dem anderen zu vergraulen. Als Clemens für ein neues Bauprojekt ein ganzes Viertel räumen lässt, schleicht sich Rolf, einer der verärgerten Bewohner, als Nanny in Clemens' Familie ein, um Clemens zu sabotieren. Durch seine trotzige Beharrlichkeit gelingt es Rolf im Laufe der Zeit, das Vertrauen der Kinder zu gewinnen.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/der-nanny-20523",
+        "description": "Der Bauunternehmer Clemens hat kaum Zeit für seine Kinder. Die haben es sich jedoch zur Aufgabe gemacht, ein Kindermädchen nach dem anderen zu vergraulen. Als Clemens für ein neues Bauprojekt ein ganzes Viertel räumen lässt, schleicht sich Rolf, einer der verärgerten Bewohner, als Nanny in Clemens' Familie ein, um Clemens zu sabotieren. Durch seine trotzige Beharrlichkeit gelingt es Rolf im Laufe der Zeit, das Vertrauen der Kinder zu gewinnen.",
+        "duration": "PT1H45M46S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4785827/1200x0/der-nanny.jpg",
+        "name": "Der Nanny",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/der-nanny-20523",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=der-nanny-20523",
+              "sameAs": "%s/premium?typ=format&formatname=der-nanny-20523",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/der-nanny-20523",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Der Bauunternehmer Clemens hat kaum Zeit für seine Kinder. Die haben es sich jedoch zur Aufgabe gemacht, ein Kindermädchen nach dem anderen zu vergraulen. Als Clemens für ein neues Bauprojekt ein ganzes Viertel räumen lässt, schleicht sich Rolf, einer der verärgerten Bewohner, als Nanny in Clemens' Familie ein, um Clemens zu sabotieren. Durch seine trotzige Beharrlichkeit gelingt es Rolf im Laufe der Zeit, das Vertrauen der Kinder zu gewinnen.",
+          "duration": "PT1H45M46S",
+          "embedUrl": "%s/googlebot/player/filme/der-nanny-20523",
+          "name": "Der Nanny",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4785827/1200x0/der-nanny.jpg",
+          "uploadDate": "2022-04-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Der Nanny im Online Stream | RTL+",
+        "headline": "Der Nanny im Online Stream | RTL+",
+        "description": "Der Nanny und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei RTL+. Ein Film mit ▶️Matthias Schweighöfer, Milan Peschel.",
+        "url": "%s/filme/der-nanny-20523",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4785827/1200x0/der-nanny.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4785827/1200x0/der-nanny.jpg",
+        "datePublished": "2022-04-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4785827/1200x0/der-nanny.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Der Nanny",
+            "item": "%s/filme/der-nanny-20523"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Der Nanny im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

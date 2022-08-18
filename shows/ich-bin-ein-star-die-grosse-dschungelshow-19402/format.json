@@ -1,0 +1,205 @@
+﻿{
+  "formatId": 19402,
+  "additionalMeta": {
+    "canonical": "/shows/ich-bin-ein-star-die-grosse-dschungelshow-19402",
+    "url": "/shows/ich-bin-ein-star-die-grosse-dschungelshow-19402"
+  },
+  "ads": {
+    "station": "rtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "Ich bin ein Star - Die große Dschungelshow",
+      "url": "/shows/ich-bin-ein-star-die-grosse-dschungelshow-19402"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 19402,
+  "meta": [
+    {
+      "content": "Die Show ▶ Ich bin ein Star - Die große Dschungelshow (RTL) streamen & weitere Highlights aus dem Genre 📺 Reality im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Ich bin ein Star - Die große Dschungelshow im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ Ich bin ein Star - Die große Dschungelshow (RTL) streamen & weitere Highlights aus dem Genre 📺 Reality im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/shows/ich-bin-ein-star-die-grosse-dschungelshow-19402"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/19402_03artwork/1600x0/ich-bin-ein-star-die-grosse-dschungelshow.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/19402",
+      "type": "teaserrow"
+    },
+    {
+      "id": 19402,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19402",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rnibes",
+      "video": "dvrsowf_ten_rnibes",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_now/formate/ich_bin_ein_star/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_now",
+        "formate",
+        "ich_bin_ein_star",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Reality",
+    "cluster": [
+      "Promis",
+      "Guilty Pleasure"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Ich bin ein Star – Die große Dschungelshow",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/shows/ich-bin-ein-star-die-grosse-dschungelshow-19402",
+        "url": "%s/shows/ich-bin-ein-star-die-grosse-dschungelshow-19402",
+        "name": "Ich bin ein Star - Die große Dschungelshow",
+        "description": "Die Show ▶ Ich bin ein Star - Die große Dschungelshow (RTL) streamen & weitere Highlights aus dem Genre 📺 Reality im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/19402_04metalogo/1200x0/ich-bin-ein-star-die-grosse-dschungelshow.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Ich bin ein Star – Die große Dschungelshow",
+        "headline": "Ich bin ein Star – Die große Dschungelshow",
+        "description": "Die Show ▶ Ich bin ein Star - Die große Dschungelshow (RTL) streamen & weitere Highlights aus dem Genre 📺 Reality im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "url": "%s/shows/ich-bin-ein-star-die-grosse-dschungelshow-19402",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/19402_04metalogo/1200x0/ich-bin-ein-star-die-grosse-dschungelshow.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/19402_04metalogo/1200x0/ich-bin-ein-star-die-grosse-dschungelshow.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/19402_04metalogo/1200x0/ich-bin-ein-star-die-grosse-dschungelshow.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "%s/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ich bin ein Star - Die große Dschungelshow",
+            "item": "%s/shows/ich-bin-ein-star-die-grosse-dschungelshow-19402"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Ich bin ein Star - Die große Dschungelshow im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

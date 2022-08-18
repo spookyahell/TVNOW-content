@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20151",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20151,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/ein-leben-unter-affen-20151"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Ein Leben unter Affen",
+          "teaserId": "film_4190764",
+          "teaserName": "Ein Leben unter Affen | Ein Leben unter Affen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Tiere"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "GEO WILD",
+          "teaserEpisodeName": "Ein Leben unter Affen"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Ein Leben unter Affen",
+        "id": 4190764,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4190764/300x0/ein-leben-unter-affen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4190764/",
+            "filename": "ein-leben-unter-affen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4190764/600x0/ein-leben-unter-affen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4190764/",
+            "filename": "ein-leben-unter-affen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4190764/1200x0/ein-leben-unter-affen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4190764/",
+            "filename": "ein-leben-unter-affen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4190764/300x0/ein-leben-unter-affen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4190764/",
+            "filename": "ein-leben-unter-affen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4190764/600x0/ein-leben-unter-affen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4190764/",
+            "filename": "ein-leben-unter-affen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4190764/1200x0/ein-leben-unter-affen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4190764/",
+            "filename": "ein-leben-unter-affen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "ein-leben-unter-affen",
+        "subheadline": "Ein Leben unter Affen",
+        "text": "Staffel  | GEO WILD",
+        "type": "film",
+        "url": "/filme/ein-leben-unter-affen-20151",
+        "videoId": 4190764
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

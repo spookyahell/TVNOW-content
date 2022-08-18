@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20180,
+  "additionalMeta": {
+    "canonical": "/filme/wildes-pantanal-jaguarland-20180",
+    "url": "/filme/wildes-pantanal-jaguarland-20180"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Wildes Pantanal - Jaguarland",
+      "url": "/filme/wildes-pantanal-jaguarland-20180"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20180,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Wildes Pantanal - Jaguarland 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Wildes Pantanal - Jaguarland im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Wildes Pantanal - Jaguarland 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/wildes-pantanal-jaguarland-20180"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4323478/1600x0/wildes-pantanal-jaguarland.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4323478,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4323478",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20180"
+    },
+    {
+      "id": 20180,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20180",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnpantanaljaguarland",
+      "video": "dvrsowf_ten_tnpantanaljaguarland",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/pantanal_jaguarland/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "pantanal_jaguarland",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Wildes Pantanal - Jaguarland",
+    "text": "Er ist der unbestrittene \"König des Pantanals\": der Jaguar. Nirgends ist er zahlreicher und in seiner Erscheinung größer vertreten als hier im Jaguarland. Denn die hohe Dichte an ihrer Lieblingsbeute - Wasserschweine und Kaimane - macht das größte Sumpfgebiet der Erde zu ihrem ganz persönlichen Schlaraffenland. Wären da nur nicht die menschlichen Bewohner der Ebenen, die ihre Kuhherden vor den gefleckten Jägern schützen wollen.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/wildes-pantanal-jaguarland-20180",
+        "description": "Er ist der unbestrittene \"König des Pantanals\": der Jaguar. Nirgends ist er zahlreicher und in seiner Erscheinung größer vertreten als hier im Jaguarland. Denn die hohe Dichte an ihrer Lieblingsbeute - Wasserschweine und Kaimane - macht das größte Sumpfgebiet der Erde zu ihrem ganz persönlichen Schlaraffenland. Wären da nur nicht die menschlichen Bewohner der Ebenen, die ihre Kuhherden vor den gefleckten Jägern schützen wollen.",
+        "duration": "PT43M54S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4323478/1200x0/wildes-pantanal-jaguarland.jpg",
+        "name": "Wildes Pantanal - Jaguarland",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/wildes-pantanal-jaguarland-20180",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-12-14T00:01:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=wildes-pantanal-jaguarland-20180",
+              "sameAs": "%s/premium?typ=format&formatname=wildes-pantanal-jaguarland-20180",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/wildes-pantanal-jaguarland-20180",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Er ist der unbestrittene \"König des Pantanals\": der Jaguar. Nirgends ist er zahlreicher und in seiner Erscheinung größer vertreten als hier im Jaguarland. Denn die hohe Dichte an ihrer Lieblingsbeute - Wasserschweine und Kaimane - macht das größte Sumpfgebiet der Erde zu ihrem ganz persönlichen Schlaraffenland. Wären da nur nicht die menschlichen Bewohner der Ebenen, die ihre Kuhherden vor den gefleckten Jägern schützen wollen.",
+          "duration": "PT43M54S",
+          "embedUrl": "%s/googlebot/player/filme/wildes-pantanal-jaguarland-20180",
+          "name": "Wildes Pantanal - Jaguarland",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323478/1200x0/wildes-pantanal-jaguarland.jpg",
+          "uploadDate": "2021-12-14T00:01:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Wildes Pantanal - Jaguarland im Online Stream | RTL+",
+        "headline": "Wildes Pantanal - Jaguarland im Online Stream | RTL+",
+        "description": "Wildes Pantanal - Jaguarland und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/wildes-pantanal-jaguarland-20180",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4323478/1200x0/wildes-pantanal-jaguarland.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323478/1200x0/wildes-pantanal-jaguarland.jpg",
+        "datePublished": "2021-12-14T00:01:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4323478/1200x0/wildes-pantanal-jaguarland.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wildes Pantanal - Jaguarland",
+            "item": "%s/filme/wildes-pantanal-jaguarland-20180"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Wildes Pantanal - Jaguarland im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

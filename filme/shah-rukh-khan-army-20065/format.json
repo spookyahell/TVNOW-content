@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20065,
+  "additionalMeta": {
+    "canonical": "/filme/shah-rukh-khan-army-20065",
+    "url": "/filme/shah-rukh-khan-army-20065"
+  },
+  "ads": {
+    "station": "passion",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Shah Rukh Khan: Army",
+      "url": "/filme/shah-rukh-khan-army-20065"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20065,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Shah Rukh Khan: Army 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Shah Rukh Khan: Army im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Shah Rukh Khan: Army 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/shah-rukh-khan-army-20065"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4179392/1600x0/shah-rukh-khan-army.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4179392,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4179392",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20065"
+    },
+    {
+      "id": 20065,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20065",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/passion_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "passion_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Shah Rukh Khan: Army",
+    "text": "Spannungsgeladene Action, mitreißende Dramen, packende Tanzszenen und ganz große Gefühle: Mit \"Army - Im Auftrag der Liebe\" holt RTL Passion einen echten Klassiker auf die Bildschirme, der Bollywood-Herzen höher schlagen lässt. Mit dabei: Bollywood-Ikone Shah Rukh Khan als Army-Offizier, dessen Tod seine Frau zu einem beispiellosen Rachefeldzug treibt.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/shah-rukh-khan-army-20065",
+        "description": "Spannungsgeladene Action, mitreißende Dramen, packende Tanzszenen und ganz große Gefühle: Mit \"Army - Im Auftrag der Liebe\" holt RTL Passion einen echten Klassiker auf die Bildschirme, der Bollywood-Herzen höher schlagen lässt. Mit dabei: Bollywood-Ikone Shah Rukh Khan als Army-Offizier, dessen Tod seine Frau zu einem beispiellosen Rachefeldzug treibt.",
+        "duration": "PT1H49M33S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4179392/1200x0/shah-rukh-khan-army.jpg",
+        "name": "Shah Rukh Khan: Army",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/shah-rukh-khan-army-20065",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-08-06T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=shah-rukh-khan-army-20065",
+              "sameAs": "%s/premium?typ=format&formatname=shah-rukh-khan-army-20065",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/shah-rukh-khan-army-20065",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Spannungsgeladene Action, mitreißende Dramen, packende Tanzszenen und ganz große Gefühle: Mit \"Army - Im Auftrag der Liebe\" holt RTL Passion einen echten Klassiker auf die Bildschirme, der Bollywood-Herzen höher schlagen lässt. Mit dabei: Bollywood-Ikone Shah Rukh Khan als Army-Offizier, dessen Tod seine Frau zu einem beispiellosen Rachefeldzug treibt.",
+          "duration": "PT1H49M33S",
+          "embedUrl": "%s/googlebot/player/filme/shah-rukh-khan-army-20065",
+          "name": "Shah Rukh Khan: Army",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4179392/1200x0/shah-rukh-khan-army.jpg",
+          "uploadDate": "2022-08-06T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Shah Rukh Khan: Army im Online Stream | RTL+",
+        "headline": "Shah Rukh Khan: Army im Online Stream | RTL+",
+        "description": "Shah Rukh Khan: Army und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+. Ein Film mit ▶️Shah Rukh Khan, Sridevi, Mohnish Behl, Sudesh Berry, Neelam Mehra, Tinu Anand.",
+        "url": "%s/filme/shah-rukh-khan-army-20065",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4179392/1200x0/shah-rukh-khan-army.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4179392/1200x0/shah-rukh-khan-army.jpg",
+        "datePublished": "2022-08-06T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4179392/1200x0/shah-rukh-khan-army.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Shah Rukh Khan: Army",
+            "item": "%s/filme/shah-rukh-khan-army-20065"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Shah Rukh Khan: Army im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

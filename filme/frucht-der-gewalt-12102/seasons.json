@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/12102",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 12102,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/frucht-der-gewalt-12102"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Frucht der Gewalt",
+          "teaserId": "film_4887705",
+          "teaserName": "Frucht der Gewalt | Frucht der Gewalt",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Crime",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "Do. 14.07.2022, 00:00 Uhr",
+          "teaserEpisodeName": "Frucht der Gewalt"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Frucht der Gewalt",
+        "id": 4887705,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4887705/300x0/frucht-der-gewalt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4887705/",
+            "filename": "frucht-der-gewalt"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4887705/600x0/frucht-der-gewalt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4887705/",
+            "filename": "frucht-der-gewalt"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4887705/1200x0/frucht-der-gewalt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4887705/",
+            "filename": "frucht-der-gewalt"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4887705/300x0/frucht-der-gewalt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4887705/",
+            "filename": "frucht-der-gewalt"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4887705/600x0/frucht-der-gewalt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4887705/",
+            "filename": "frucht-der-gewalt"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4887705/1200x0/frucht-der-gewalt.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4887705/",
+            "filename": "frucht-der-gewalt"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "frucht-der-gewalt",
+        "subheadline": "Frucht der Gewalt",
+        "text": "Staffel  | Do. 14.07.2022, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/frucht-der-gewalt-12102",
+        "videoId": 4887705
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

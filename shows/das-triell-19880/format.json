@@ -1,0 +1,202 @@
+﻿{
+  "formatId": 19880,
+  "additionalMeta": {
+    "canonical": "/shows/das-triell-19880",
+    "url": "/shows/das-triell-19880"
+  },
+  "ads": {
+    "station": "rtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "Das Triell",
+      "url": "/shows/das-triell-19880"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 19880,
+  "meta": [
+    {
+      "content": "Die Show ▶ Das Triell (RTL) streamen & weitere Highlights aus dem Genre 📺 News & Magazine im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Das Triell im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ Das Triell (RTL) streamen & weitere Highlights aus dem Genre 📺 News & Magazine im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/shows/das-triell-19880"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/19880_03artwork/1600x0/das-triell.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/19880",
+      "type": "teaserrow"
+    },
+    {
+      "id": 19880,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19880",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rndastvduell",
+      "video": "dvrsowf_ten_rndastvduell",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_now/formate/das_tv_duell/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_now",
+        "formate",
+        "das_tv_duell",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "News & Magazine",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Das Triell - Informationen zur Serie",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/shows/das-triell-19880",
+        "url": "%s/shows/das-triell-19880",
+        "name": "Das Triell",
+        "description": "Die Show ▶ Das Triell (RTL) streamen & weitere Highlights aus dem Genre 📺 News & Magazine im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/19880_04metalogo/1200x0/das-triell.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Das Triell - Informationen zur Serie",
+        "headline": "Das Triell - Informationen zur Serie",
+        "description": "Die Show ▶ Das Triell (RTL) streamen & weitere Highlights aus dem Genre 📺 News & Magazine im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "url": "%s/shows/das-triell-19880",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/19880_04metalogo/1200x0/das-triell.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/19880_04metalogo/1200x0/das-triell.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/19880_04metalogo/1200x0/das-triell.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "%s/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Das Triell",
+            "item": "%s/shows/das-triell-19880"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Das Triell im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,108 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20833",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20833,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/25-km-h-20833"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "25 km/h",
+          "teaserId": "film_4892364",
+          "teaserName": "25 km/h | 25 km/h",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [
+            "FILME Abenteuer",
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "Mo. 01.08.2022, 00:00 Uhr",
+          "teaserEpisodeName": "25 km/h"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "25 km/h",
+        "id": 4892364,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4892364/300x0/25-km-h.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4892364/",
+            "filename": "25-km-h"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4892364/600x0/25-km-h.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4892364/",
+            "filename": "25-km-h"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4892364/1200x0/25-km-h.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4892364/",
+            "filename": "25-km-h"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4892364/300x0/25-km-h.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4892364/",
+            "filename": "25-km-h"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4892364/600x0/25-km-h.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4892364/",
+            "filename": "25-km-h"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4892364/1200x0/25-km-h.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4892364/",
+            "filename": "25-km-h"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "25kmh",
+        "subheadline": "25 km/h",
+        "text": "Staffel  | Mo. 01.08.2022, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/25-km-h-20833",
+        "videoId": 4892364
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

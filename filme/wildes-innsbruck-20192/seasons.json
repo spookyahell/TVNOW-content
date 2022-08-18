@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20192",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20192,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/wildes-innsbruck-20192"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wildes Innsbruck",
+          "teaserId": "film_4323674",
+          "teaserName": "Wildes Innsbruck | Wildes Innsbruck",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "GEO WILD",
+          "teaserEpisodeName": "Wildes Innsbruck"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wildes Innsbruck",
+        "id": 4323674,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323674/300x0/wildes-innsbruck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323674/",
+            "filename": "wildes-innsbruck"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323674/600x0/wildes-innsbruck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323674/",
+            "filename": "wildes-innsbruck"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323674/1200x0/wildes-innsbruck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323674/",
+            "filename": "wildes-innsbruck"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323674/300x0/wildes-innsbruck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323674/",
+            "filename": "wildes-innsbruck"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323674/600x0/wildes-innsbruck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323674/",
+            "filename": "wildes-innsbruck"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323674/1200x0/wildes-innsbruck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323674/",
+            "filename": "wildes-innsbruck"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wildes-innsbruck",
+        "subheadline": "Wildes Innsbruck",
+        "text": "Staffel  | GEO WILD",
+        "type": "film",
+        "url": "/filme/wildes-innsbruck-20192",
+        "videoId": 4323674
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20538,
+  "additionalMeta": {
+    "canonical": "/filme/ein-chef-zum-verlieben-20538",
+    "url": "/filme/ein-chef-zum-verlieben-20538"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Ein Chef zum Verlieben",
+      "url": "/filme/ein-chef-zum-verlieben-20538"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20538,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Ein Chef zum Verlieben 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Ein Chef zum Verlieben im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Ein Chef zum Verlieben 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/ein-chef-zum-verlieben-20538"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4775617/1600x0/ein-chef-zum-verlieben.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4775617,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4775617",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20538"
+    },
+    {
+      "id": 20538,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20538",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [
+      "FILME Female"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Ein Chef zum Verlieben",
+    "text": "Was wäre Millionär George Wade bloß ohne seine neue Chefanwältin Lucy Kelson? Lucy ist eigentlich eine Menschen- und Umweltrechtlerin, aber Georges lukrativem Angebot kann sie nicht widerstehen. Bald ist Lucy unentbehrlich geworden, außerdem verstehen sich die beiden blind. Doch ihr kommen moralische Zweifel und sie kündigt. Als sie merkt, dass ihre Nachfolgerin George nicht nur in beruflicher Hinsicht nahekommt, wird sie eifersüchtig.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/ein-chef-zum-verlieben-20538",
+        "description": "Was wäre Millionär George Wade bloß ohne seine neue Chefanwältin Lucy Kelson? Lucy ist eigentlich eine Menschen- und Umweltrechtlerin, aber Georges lukrativem Angebot kann sie nicht widerstehen. Bald ist Lucy unentbehrlich geworden, außerdem verstehen sich die beiden blind. Doch ihr kommen moralische Zweifel und sie kündigt. Als sie merkt, dass ihre Nachfolgerin George nicht nur in beruflicher Hinsicht nahekommt, wird sie eifersüchtig.",
+        "duration": "PT1H36M58S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4775617/1200x0/ein-chef-zum-verlieben.jpg",
+        "name": "Ein Chef zum Verlieben",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/ein-chef-zum-verlieben-20538",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=ein-chef-zum-verlieben-20538",
+              "sameAs": "%s/premium?typ=format&formatname=ein-chef-zum-verlieben-20538",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/ein-chef-zum-verlieben-20538",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Was wäre Millionär George Wade bloß ohne seine neue Chefanwältin Lucy Kelson? Lucy ist eigentlich eine Menschen- und Umweltrechtlerin, aber Georges lukrativem Angebot kann sie nicht widerstehen. Bald ist Lucy unentbehrlich geworden, außerdem verstehen sich die beiden blind. Doch ihr kommen moralische Zweifel und sie kündigt. Als sie merkt, dass ihre Nachfolgerin George nicht nur in beruflicher Hinsicht nahekommt, wird sie eifersüchtig.",
+          "duration": "PT1H36M58S",
+          "embedUrl": "%s/googlebot/player/filme/ein-chef-zum-verlieben-20538",
+          "name": "Ein Chef zum Verlieben",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4775617/1200x0/ein-chef-zum-verlieben.jpg",
+          "uploadDate": "2022-04-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Ein Chef zum Verlieben im Online Stream | RTL+",
+        "headline": "Ein Chef zum Verlieben im Online Stream | RTL+",
+        "description": "Ein Chef zum Verlieben und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei RTL+. Ein Film mit ▶️Sandra Bullock, Hugh Grant, Alicia Witt, Dana Ivey, Robert Klein, Heather Burns.",
+        "url": "%s/filme/ein-chef-zum-verlieben-20538",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4775617/1200x0/ein-chef-zum-verlieben.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4775617/1200x0/ein-chef-zum-verlieben.jpg",
+        "datePublished": "2022-04-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4775617/1200x0/ein-chef-zum-verlieben.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ein Chef zum Verlieben",
+            "item": "%s/filme/ein-chef-zum-verlieben-20538"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Ein Chef zum Verlieben im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,108 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20536",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20536,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/sms-fuer-dich-20536"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "SMS für dich",
+          "teaserId": "film_4785826",
+          "teaserName": "SMS für dich | SMS für Dich",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [
+            "FILME Female",
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "Fr. 01.04.2022, 00:00 Uhr",
+          "teaserEpisodeName": "SMS für Dich"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "SMS für Dich",
+        "id": 4785826,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785826/300x0/sms-fuer-dich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785826/",
+            "filename": "sms-fuer-dich"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785826/600x0/sms-fuer-dich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785826/",
+            "filename": "sms-fuer-dich"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785826/1200x0/sms-fuer-dich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785826/",
+            "filename": "sms-fuer-dich"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785826/300x0/sms-fuer-dich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785826/",
+            "filename": "sms-fuer-dich"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785826/600x0/sms-fuer-dich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785826/",
+            "filename": "sms-fuer-dich"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785826/1200x0/sms-fuer-dich.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785826/",
+            "filename": "sms-fuer-dich"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "sms-fuer-dich",
+        "subheadline": "SMS für Dich",
+        "text": "Staffel  | Fr. 01.04.2022, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/sms-fuer-dich-20536",
+        "videoId": 4785826
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

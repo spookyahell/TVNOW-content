@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20299,
+  "additionalMeta": {
+    "canonical": "/filme/dancing-in-the-streets-body-language-20299",
+    "url": "/filme/dancing-in-the-streets-body-language-20299"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Dancing in the Streets - Body Language",
+      "url": "/filme/dancing-in-the-streets-body-language-20299"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20299,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Dancing in the Streets - Body Language 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Dancing in the Streets - Body Language im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Dancing in the Streets - Body Language 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/dancing-in-the-streets-body-language-20299"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4390715/1600x0/dancing-in-the-streets-body-language.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4390715,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4390715",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20299"
+    },
+    {
+      "id": 20299,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20299",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [
+      "FILME Female"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Body Language - Informationen zum Film",
+    "text": "Fünf junge Tänzer aus Europa fliegen nach Amerika, um am Broadway an einem Tanzwettbewerb teilzunehmen. Doch sie haben weder Geld noch eine gemeinsame Choreographie für den Wettbewerb. Brian, Samuel, Nina, Tara und Ray müssen zunächst zu einem Team werden und dann gemeinsam alle Schwierigkeiten überwinden, um sich ihren großen Traum doch noch zu erfüllen. Sie proben im Park und einer Lagerhalle und versuchen, an Geld zu kommen.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/dancing-in-the-streets-body-language-20299",
+        "description": "Fünf junge Tänzer aus Europa fliegen nach Amerika, um am Broadway an einem Tanzwettbewerb teilzunehmen. Doch sie haben weder Geld noch eine gemeinsame Choreographie für den Wettbewerb. Brian, Samuel, Nina, Tara und Ray müssen zunächst zu einem Team werden und dann gemeinsam alle Schwierigkeiten überwinden, um sich ihren großen Traum doch noch zu erfüllen. Sie proben im Park und einer Lagerhalle und versuchen, an Geld zu kommen.",
+        "duration": "PT1H37M33S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4390715/1200x0/dancing-in-the-streets-body-language.jpg",
+        "name": "Dancing in the Streets - Body Language",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/dancing-in-the-streets-body-language-20299",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-02-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=dancing-in-the-streets-body-language-20299",
+              "sameAs": "%s/premium?typ=format&formatname=dancing-in-the-streets-body-language-20299",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/dancing-in-the-streets-body-language-20299",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Fünf junge Tänzer aus Europa fliegen nach Amerika, um am Broadway an einem Tanzwettbewerb teilzunehmen. Doch sie haben weder Geld noch eine gemeinsame Choreographie für den Wettbewerb. Brian, Samuel, Nina, Tara und Ray müssen zunächst zu einem Team werden und dann gemeinsam alle Schwierigkeiten überwinden, um sich ihren großen Traum doch noch zu erfüllen. Sie proben im Park und einer Lagerhalle und versuchen, an Geld zu kommen.",
+          "duration": "PT1H37M33S",
+          "embedUrl": "%s/googlebot/player/filme/dancing-in-the-streets-body-language-20299",
+          "name": "Dancing in the Streets - Body Language",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4390715/1200x0/dancing-in-the-streets-body-language.jpg",
+          "uploadDate": "2022-02-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Dancing in the Streets - Body Language im Online Stream | RTL+",
+        "headline": "Dancing in the Streets - Body Language im Online Stream | RTL+",
+        "description": "Dancing in the Streets - Body Language und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/dancing-in-the-streets-body-language-20299",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4390715/1200x0/dancing-in-the-streets-body-language.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4390715/1200x0/dancing-in-the-streets-body-language.jpg",
+        "datePublished": "2022-02-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4390715/1200x0/dancing-in-the-streets-body-language.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dancing in the Streets - Body Language",
+            "item": "%s/filme/dancing-in-the-streets-body-language-20299"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Dancing in the Streets - Body Language im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,202 @@
+﻿{
+  "formatId": 19879,
+  "additionalMeta": {
+    "canonical": "/shows/rtl-sagt-danke-19879",
+    "url": "/shows/rtl-sagt-danke-19879"
+  },
+  "ads": {
+    "station": "rtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "RTL sagt Danke",
+      "url": "/shows/rtl-sagt-danke-19879"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 19879,
+  "meta": [
+    {
+      "content": "Die Show ▶ RTL sagt Danke (RTL) streamen & weitere Highlights aus dem Genre 📺 Comedy im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "RTL sagt Danke im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ RTL sagt Danke (RTL) streamen & weitere Highlights aus dem Genre 📺 Comedy im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/shows/rtl-sagt-danke-19879"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/19879_03artwork/1600x0/rtl-sagt-danke.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/19879",
+      "type": "teaserrow"
+    },
+    {
+      "id": 19879,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19879",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rnrtlsagtdanke",
+      "video": "dvrsowf_ten_rnrtlsagtdanke",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_now/formate/rtl_sagt_danke/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_now",
+        "formate",
+        "rtl_sagt_danke",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "RTL sagt Danke - Informationen zur Show",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/shows/rtl-sagt-danke-19879",
+        "url": "%s/shows/rtl-sagt-danke-19879",
+        "name": "RTL sagt Danke",
+        "description": "Die Show ▶ RTL sagt Danke (RTL) streamen & weitere Highlights aus dem Genre 📺 Comedy im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/19879_04metalogo/1200x0/rtl-sagt-danke.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "RTL sagt Danke - Informationen zur Show",
+        "headline": "RTL sagt Danke - Informationen zur Show",
+        "description": "Die Show ▶ RTL sagt Danke (RTL) streamen & weitere Highlights aus dem Genre 📺 Comedy im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "url": "%s/shows/rtl-sagt-danke-19879",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/19879_04metalogo/1200x0/rtl-sagt-danke.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/19879_04metalogo/1200x0/rtl-sagt-danke.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/19879_04metalogo/1200x0/rtl-sagt-danke.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "%s/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "RTL sagt Danke",
+            "item": "%s/shows/rtl-sagt-danke-19879"
+          }
+        ]
+      }
+    }
+  },
+  "title": "RTL sagt Danke im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

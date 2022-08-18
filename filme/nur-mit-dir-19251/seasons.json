@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19251",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19251,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/nur-mit-dir-19251"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Nur mit Dir",
+          "teaserId": "film_3699990",
+          "teaserName": "Nur mit Dir | Nur mit dir",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [
+            "FILME Female"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Nur mit dir"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Nur mit dir",
+        "id": 3699990,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3699990/300x0/nur-mit-dir.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3699990/",
+            "filename": "nur-mit-dir"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3699990/600x0/nur-mit-dir.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3699990/",
+            "filename": "nur-mit-dir"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3699990/1200x0/nur-mit-dir.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3699990/",
+            "filename": "nur-mit-dir"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3699990/300x0/nur-mit-dir.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3699990/",
+            "filename": "nur-mit-dir"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3699990/600x0/nur-mit-dir.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3699990/",
+            "filename": "nur-mit-dir"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3699990/1200x0/nur-mit-dir.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3699990/",
+            "filename": "nur-mit-dir"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "nur-mit-dir",
+        "subheadline": "Nur mit dir",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/nur-mit-dir-19251",
+        "videoId": 3699990
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

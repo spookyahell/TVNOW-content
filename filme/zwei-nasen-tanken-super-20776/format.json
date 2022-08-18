@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20776,
+  "additionalMeta": {
+    "canonical": "/filme/zwei-nasen-tanken-super-20776",
+    "url": "/filme/zwei-nasen-tanken-super-20776"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Zwei Nasen tanken Super",
+      "url": "/filme/zwei-nasen-tanken-super-20776"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20776,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Zwei Nasen tanken Super 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Zwei Nasen tanken Super im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Zwei Nasen tanken Super 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/zwei-nasen-tanken-super-20776"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4852252/1600x0/zwei-nasen-tanken-super.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4852252,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4852252",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20776"
+    },
+    {
+      "id": 20776,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20776",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [
+      "FILME Komödien"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Zwei Nasen tanken Super",
+    "text": "Tommy und Mike gewinnen auf einer Automesse zwei neuartige Motorräder, mit denen sie für eine Hamburger-Kette auf Werbefahrt gehen müssen, wenn sie diese Fahrzeuge behalten möchten. Gemeinsam mit den schönen Anhalterinnen Birgit und Farah treten die beiden Freunde die Tour Richtung Österreich an, ohne zu wissen, dass sie von fiesen Ganoven verfolgt werden. Die Diebe haben wertvolle Diamanten in den Trikes der beiden versteckt.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/zwei-nasen-tanken-super-20776",
+        "description": "Tommy und Mike gewinnen auf einer Automesse zwei neuartige Motorräder, mit denen sie für eine Hamburger-Kette auf Werbefahrt gehen müssen, wenn sie diese Fahrzeuge behalten möchten. Gemeinsam mit den schönen Anhalterinnen Birgit und Farah treten die beiden Freunde die Tour Richtung Österreich an, ohne zu wissen, dass sie von fiesen Ganoven verfolgt werden. Die Diebe haben wertvolle Diamanten in den Trikes der beiden versteckt.",
+        "duration": "PT1H31M58S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4852252/1200x0/zwei-nasen-tanken-super.jpg",
+        "name": "Zwei Nasen tanken Super",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/zwei-nasen-tanken-super-20776",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=zwei-nasen-tanken-super-20776",
+              "sameAs": "%s/premium?typ=format&formatname=zwei-nasen-tanken-super-20776",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/zwei-nasen-tanken-super-20776",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Tommy und Mike gewinnen auf einer Automesse zwei neuartige Motorräder, mit denen sie für eine Hamburger-Kette auf Werbefahrt gehen müssen, wenn sie diese Fahrzeuge behalten möchten. Gemeinsam mit den schönen Anhalterinnen Birgit und Farah treten die beiden Freunde die Tour Richtung Österreich an, ohne zu wissen, dass sie von fiesen Ganoven verfolgt werden. Die Diebe haben wertvolle Diamanten in den Trikes der beiden versteckt.",
+          "duration": "PT1H31M58S",
+          "embedUrl": "%s/googlebot/player/filme/zwei-nasen-tanken-super-20776",
+          "name": "Zwei Nasen tanken Super",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4852252/1200x0/zwei-nasen-tanken-super.jpg",
+          "uploadDate": "2022-07-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Zwei Nasen tanken Super im Online Stream | RTL+",
+        "headline": "Zwei Nasen tanken Super im Online Stream | RTL+",
+        "description": "Zwei Nasen tanken Super und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei RTL+. Ein Film mit ▶️Thomas Gottschalk, Mike Krüger, Jürgen von der Lippe, Simone Brahmann, Sonja Tuchmann, Andras Fricsay Kali Son, Achim Gunske, Karl Spiehs, Thea Gottschalk, Jochen Busse, Hans Werner Olm, Anthony Powell.",
+        "url": "%s/filme/zwei-nasen-tanken-super-20776",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4852252/1200x0/zwei-nasen-tanken-super.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4852252/1200x0/zwei-nasen-tanken-super.jpg",
+        "datePublished": "2022-07-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4852252/1200x0/zwei-nasen-tanken-super.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Zwei Nasen tanken Super",
+            "item": "%s/filme/zwei-nasen-tanken-super-20776"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Zwei Nasen tanken Super im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20733,
+  "additionalMeta": {
+    "canonical": "/filme/affen-unsere-engsten-verwandten-20733",
+    "url": "/filme/affen-unsere-engsten-verwandten-20733"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Affen - unsere engsten Verwandten",
+      "url": "/filme/affen-unsere-engsten-verwandten-20733"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20733,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Affen - unsere engsten Verwandten 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Affen - unsere engsten Verwandten im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Affen - unsere engsten Verwandten 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/affen-unsere-engsten-verwandten-20733"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4856732/1600x0/affen-unsere-engsten-verwandten.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4856732,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4856732",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20733"
+    },
+    {
+      "id": 20733,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20733",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnaffenengverwandte",
+      "video": "dvrsowf_ten_tnaffenengverwandte",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/affen_eng_verwandte/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "affen_eng_verwandte",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Affen - Unsere engsten Verwandten",
+    "text": "Wir alle wissen, wie sehr wir uns vom Rest der Primaten unterscheiden. Oder vielleicht auch nicht? Die unterhaltsame Doku unternimmt eine Reise um die Welt, um die Gemeinsamkeiten von Affen, Menschenaffen und Menschen zu finden. Genau wie wir arbeiten unsere wilden Vettern hart und genießen es zu faulenzen. Sie streiten auch und lieben sich. Sie lehren, lernen und teilen ihr Wissen. Sie mühen sich ab, wissen aber auch, wie man das Leben genießt.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/affen-unsere-engsten-verwandten-20733",
+        "description": "Wir alle wissen, wie sehr wir uns vom Rest der Primaten unterscheiden. Oder vielleicht auch nicht? Die unterhaltsame Doku unternimmt eine Reise um die Welt, um die Gemeinsamkeiten von Affen, Menschenaffen und Menschen zu finden. Genau wie wir arbeiten unsere wilden Vettern hart und genießen es zu faulenzen. Sie streiten auch und lieben sich. Sie lehren, lernen und teilen ihr Wissen. Sie mühen sich ab, wissen aber auch, wie man das Leben genießt.",
+        "duration": "PT51M32S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4856732/1200x0/affen-unsere-engsten-verwandten.jpg",
+        "name": "Affen - unsere engsten Verwandten",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/affen-unsere-engsten-verwandten-20733",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-06-22T06:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=affen-unsere-engsten-verwandten-20733",
+              "sameAs": "%s/premium?typ=format&formatname=affen-unsere-engsten-verwandten-20733",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/affen-unsere-engsten-verwandten-20733",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Wir alle wissen, wie sehr wir uns vom Rest der Primaten unterscheiden. Oder vielleicht auch nicht? Die unterhaltsame Doku unternimmt eine Reise um die Welt, um die Gemeinsamkeiten von Affen, Menschenaffen und Menschen zu finden. Genau wie wir arbeiten unsere wilden Vettern hart und genießen es zu faulenzen. Sie streiten auch und lieben sich. Sie lehren, lernen und teilen ihr Wissen. Sie mühen sich ab, wissen aber auch, wie man das Leben genießt.",
+          "duration": "PT51M32S",
+          "embedUrl": "%s/googlebot/player/filme/affen-unsere-engsten-verwandten-20733",
+          "name": "Affen - unsere engsten Verwandten",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4856732/1200x0/affen-unsere-engsten-verwandten.jpg",
+          "uploadDate": "2022-06-22T06:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Affen - unsere engsten Verwandten im Online Stream | RTL+",
+        "headline": "Affen - unsere engsten Verwandten im Online Stream | RTL+",
+        "description": "Affen - unsere engsten Verwandten und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/affen-unsere-engsten-verwandten-20733",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4856732/1200x0/affen-unsere-engsten-verwandten.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4856732/1200x0/affen-unsere-engsten-verwandten.jpg",
+        "datePublished": "2022-06-22T06:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4856732/1200x0/affen-unsere-engsten-verwandten.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Affen - unsere engsten Verwandten",
+            "item": "%s/filme/affen-unsere-engsten-verwandten-20733"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Affen - unsere engsten Verwandten im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

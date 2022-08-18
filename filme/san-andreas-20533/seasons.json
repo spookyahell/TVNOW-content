@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20533",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20533,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/san-andreas-20533"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "San Andreas",
+          "teaserId": "film_4784104",
+          "teaserName": "San Andreas | San Andreas",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [
+            "FILME Actionhits"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "Fr. 01.04.2022, 00:00 Uhr",
+          "teaserEpisodeName": "San Andreas"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "San Andreas",
+        "id": 4784104,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4784104/300x0/san-andreas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4784104/",
+            "filename": "san-andreas"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4784104/600x0/san-andreas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4784104/",
+            "filename": "san-andreas"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4784104/1200x0/san-andreas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4784104/",
+            "filename": "san-andreas"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4784104/300x0/san-andreas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4784104/",
+            "filename": "san-andreas"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4784104/600x0/san-andreas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4784104/",
+            "filename": "san-andreas"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4784104/1200x0/san-andreas.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4784104/",
+            "filename": "san-andreas"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "san-andreas",
+        "subheadline": "San Andreas",
+        "text": "Staffel  | Fr. 01.04.2022, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/san-andreas-20533",
+        "videoId": 4784104
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

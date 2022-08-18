@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20731,
+  "additionalMeta": {
+    "canonical": "/filme/die-koenigin-des-nordens-20731",
+    "url": "/filme/die-koenigin-des-nordens-20731"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die Königin des Nordens",
+      "url": "/filme/die-koenigin-des-nordens-20731"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20731,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Die Königin des Nordens 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Königin des Nordens im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Die Königin des Nordens 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/die-koenigin-des-nordens-20731"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4838909/1600x0/die-koenigin-des-nordens.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4838909,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4838909",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20731"
+    },
+    {
+      "id": 20731,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20731",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnkoeniginnordens",
+      "video": "dvrsowf_ten_tnkoeniginnordens",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/koenigin_nordens/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "koenigin_nordens",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Die Königin des Nordens",
+    "text": "Im Norden hält der Winter früh Einzug. Die ersten Schneefälle bringen die rauen Bedingungen einer gefrorenen Hölle, in der nur wenige Tiere überleben können. Der Eurasische Luchs trotzt den Schneestürmen und den Minustemperaturen. Von seiner Anpassungsfähigkeit, seinen Überlebens- und Jagdtechniken bis hin zu seinen Erziehungsfähigkeiten: Vom Winter bis zum Sommer werden wir Zeuge, was es wirklich braucht, um im Norden zu überleben.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/die-koenigin-des-nordens-20731",
+        "description": "Im Norden hält der Winter früh Einzug. Die ersten Schneefälle bringen die rauen Bedingungen einer gefrorenen Hölle, in der nur wenige Tiere überleben können. Der Eurasische Luchs trotzt den Schneestürmen und den Minustemperaturen. Von seiner Anpassungsfähigkeit, seinen Überlebens- und Jagdtechniken bis hin zu seinen Erziehungsfähigkeiten: Vom Winter bis zum Sommer werden wir Zeuge, was es wirklich braucht, um im Norden zu überleben.",
+        "duration": "PT41M26S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4838909/1200x0/die-koenigin-des-nordens.jpg",
+        "name": "Die Königin des Nordens",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/die-koenigin-des-nordens-20731",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-06-08T06:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=die-koenigin-des-nordens-20731",
+              "sameAs": "%s/premium?typ=format&formatname=die-koenigin-des-nordens-20731",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/die-koenigin-des-nordens-20731",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Im Norden hält der Winter früh Einzug. Die ersten Schneefälle bringen die rauen Bedingungen einer gefrorenen Hölle, in der nur wenige Tiere überleben können. Der Eurasische Luchs trotzt den Schneestürmen und den Minustemperaturen. Von seiner Anpassungsfähigkeit, seinen Überlebens- und Jagdtechniken bis hin zu seinen Erziehungsfähigkeiten: Vom Winter bis zum Sommer werden wir Zeuge, was es wirklich braucht, um im Norden zu überleben.",
+          "duration": "PT41M26S",
+          "embedUrl": "%s/googlebot/player/filme/die-koenigin-des-nordens-20731",
+          "name": "Die Königin des Nordens",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4838909/1200x0/die-koenigin-des-nordens.jpg",
+          "uploadDate": "2022-06-08T06:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Königin des Nordens im Online Stream | RTL+",
+        "headline": "Die Königin des Nordens im Online Stream | RTL+",
+        "description": "Die Königin des Nordens und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+. Ein Film mit ▶️Manja Doering.",
+        "url": "%s/filme/die-koenigin-des-nordens-20731",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4838909/1200x0/die-koenigin-des-nordens.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4838909/1200x0/die-koenigin-des-nordens.jpg",
+        "datePublished": "2022-06-08T06:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4838909/1200x0/die-koenigin-des-nordens.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Königin des Nordens",
+            "item": "%s/filme/die-koenigin-des-nordens-20731"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Königin des Nordens im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

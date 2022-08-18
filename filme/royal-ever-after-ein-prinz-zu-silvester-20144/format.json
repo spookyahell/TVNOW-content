@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20144,
+  "additionalMeta": {
+    "canonical": "/filme/royal-ever-after-ein-prinz-zu-silvester-20144",
+    "url": "/filme/royal-ever-after-ein-prinz-zu-silvester-20144"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Royal Ever After: Ein Prinz zu Silvester",
+      "url": "/filme/royal-ever-after-ein-prinz-zu-silvester-20144"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20144,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Royal Ever After: Ein Prinz zu Silvester 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Royal Ever After: Ein Prinz zu Silvester im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Royal Ever After: Ein Prinz zu Silvester 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/royal-ever-after-ein-prinz-zu-silvester-20144"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4379598/1600x0/ein-prinz-zu-silvester.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4379598,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4379598",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20144"
+    },
+    {
+      "id": 20144,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20144",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [
+      "FILME Female"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Royal Ever After: Ein Prinz zu Silvester",
+    "text": "Die angehende Modedesignerin Caitlyn fühlt sich geehrt, als Lady Isabelle sie bittet, ein Kleid für den Silvesterball des Königshauses zu entwerfen. Isabelle erwartet, dass Prinz Jeffrey ihr an diesem Abend einen Antrag machen wird. Caitlyn hofft, dass der Auftrag ihrer Karriere Auftrieb gibt. Als Caitlyn und Jeffrey sich näher kennenlernen, entwickeln sie Gefühle für einander, doch Jeffreys königliche Verpflichtungen stehen ihrer Liebe im Weg.  ",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/ein-prinz-zu-silvester-20144",
+        "description": "Die angehende Modedesignerin Caitlyn fühlt sich geehrt, als Lady Isabelle sie bittet, ein Kleid für den Silvesterball des Königshauses zu entwerfen. Isabelle erwartet, dass Prinz Jeffrey ihr an diesem Abend einen Antrag machen wird. Caitlyn hofft, dass der Auftrag ihrer Karriere Auftrieb gibt. Als Caitlyn und Jeffrey sich näher kennenlernen, entwickeln sie Gefühle für einander, doch Jeffreys königliche Verpflichtungen stehen ihrer Liebe im Weg.  ",
+        "duration": "PT1H22M46S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4379598/1200x0/royal-ever-after-ein-prinz-zu-silvester.jpg",
+        "name": "Royal Ever After: Ein Prinz zu Silvester",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/ein-prinz-zu-silvester-20144",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-12-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=royal-ever-after-ein-prinz-zu-silvester-20144",
+              "sameAs": "%s/premium?typ=format&formatname=royal-ever-after-ein-prinz-zu-silvester-20144",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/ein-prinz-zu-silvester-20144",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die angehende Modedesignerin Caitlyn fühlt sich geehrt, als Lady Isabelle sie bittet, ein Kleid für den Silvesterball des Königshauses zu entwerfen. Isabelle erwartet, dass Prinz Jeffrey ihr an diesem Abend einen Antrag machen wird. Caitlyn hofft, dass der Auftrag ihrer Karriere Auftrieb gibt. Als Caitlyn und Jeffrey sich näher kennenlernen, entwickeln sie Gefühle für einander, doch Jeffreys königliche Verpflichtungen stehen ihrer Liebe im Weg.  ",
+          "duration": "PT1H22M46S",
+          "embedUrl": "%s/googlebot/player/filme/ein-prinz-zu-silvester-20144",
+          "name": "Royal Ever After: Ein Prinz zu Silvester",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4379598/1200x0/royal-ever-after-ein-prinz-zu-silvester.jpg",
+          "uploadDate": "2021-12-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Royal Ever After: Ein Prinz zu Silvester im Online Stream | RTL+",
+        "headline": "Royal Ever After: Ein Prinz zu Silvester im Online Stream | RTL+",
+        "description": "Royal Ever After: Ein Prinz zu Silvester und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/ein-prinz-zu-silvester-20144",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4379598/1200x0/royal-ever-after-ein-prinz-zu-silvester.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4379598/1200x0/royal-ever-after-ein-prinz-zu-silvester.jpg",
+        "datePublished": "2021-12-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4379598/1200x0/royal-ever-after-ein-prinz-zu-silvester.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Royal Ever After: Ein Prinz zu Silvester",
+            "item": "%s/filme/royal-ever-after-ein-prinz-zu-silvester-20144"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Royal Ever After: Ein Prinz zu Silvester im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -3,6 +3,116 @@
     "ecommerce": {
       "rowCategory": "small_teaser",
       "rowId": "na",
+      "rowName": "Staffel 2021, Monat 4"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18334",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18334,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/shows/salonfaehig-wer-macht-schoener-18334/2021-04/episode-19-beautypoint-potsdam-3960849"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Salonfähig - Wer macht schöner?",
+          "teaserId": "show_episode_3960849",
+          "teaserName": "Salonfähig - Wer macht schöner? | Staffel 2 | Folge 19 | Beautypoint, Potsdam",
+          "teaserPayType": "paid",
+          "teaserType": "show_episode",
+          "teaserGenre": "Show",
+          "cluster": [
+            "Lifestyle"
+          ],
+          "classification": [
+            "Vor TV-Start"
+          ],
+          "teaserSeason": "Staffel 2",
+          "teaserEpisodeNumber": "Folge 19",
+          "teaserEpisodeAirtime": "Do. 01.04.2021, 16:00 Uhr",
+          "teaserEpisodeName": "Beautypoint, Potsdam"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Beautypoint, Potsdam",
+        "id": 3960849,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3960849/300x0/beautypoint-potsdam.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3960849/",
+            "filename": "beautypoint-potsdam"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3960849/600x0/beautypoint-potsdam.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3960849/",
+            "filename": "beautypoint-potsdam"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3960849/1200x0/beautypoint-potsdam.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3960849/",
+            "filename": "beautypoint-potsdam"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3960849/300x0/beautypoint-potsdam.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3960849/",
+            "filename": "beautypoint-potsdam"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3960849/600x0/beautypoint-potsdam.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3960849/",
+            "filename": "beautypoint-potsdam"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3960849/1200x0/beautypoint-potsdam.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3960849/",
+            "filename": "beautypoint-potsdam"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "salonfaehig-wer-macht-schoener",
+        "subheadline": "Beautypoint, Potsdam",
+        "text": "Staffel 2, Folge 19 | Do. 01.04.2021, 16:00 Uhr",
+        "type": "show",
+        "url": "/shows/salonfaehig-wer-macht-schoener-18334/2021-04/episode-19-beautypoint-potsdam-3960849",
+        "videoId": 3960849
+      }
+    ],
+    "format_navigation": {
+      "month": 4,
+      "year": 2021
+    },
+    "navigationType": "annual"
+  },
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
       "rowName": "Staffel 2020, Monat 2"
     },
     "id": null,
@@ -21,7 +131,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/shows/salonfaehig-wer-macht-schoener-18334/2020-02/episode-20-gruppe-dortmund-tag-5-la-perla-beauty-2965919"
           }
@@ -36,7 +146,9 @@
           "cluster": [
             "Lifestyle"
           ],
-          "classification": [],
+          "classification": [
+            "Vor TV-Start"
+          ],
           "teaserSeason": "Staffel 1",
           "teaserEpisodeNumber": "Folge 20",
           "teaserEpisodeAirtime": "Fr. 14.02.2020, 16:00 Uhr",
@@ -110,7 +222,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/shows/salonfaehig-wer-macht-schoener-18334/2020-02/episode-19-gruppe-dortmund-tag-4-ncd-esthetic-2962969"
           }
@@ -125,7 +237,9 @@
           "cluster": [
             "Lifestyle"
           ],
-          "classification": [],
+          "classification": [
+            "Vor TV-Start"
+          ],
           "teaserSeason": "Staffel 1",
           "teaserEpisodeNumber": "Folge 19",
           "teaserEpisodeAirtime": "Do. 13.02.2020, 16:00 Uhr",
@@ -199,7 +313,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/shows/salonfaehig-wer-macht-schoener-18334/2020-02/episode-18-gruppe-dortmund-tag-3-eleganza-hairstyle-2963314"
           }
@@ -214,7 +328,9 @@
           "cluster": [
             "Lifestyle"
           ],
-          "classification": [],
+          "classification": [
+            "Vor TV-Start"
+          ],
           "teaserSeason": "Staffel 1",
           "teaserEpisodeNumber": "Folge 18",
           "teaserEpisodeAirtime": "Mi. 12.02.2020, 16:00 Uhr",
@@ -288,7 +404,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/shows/salonfaehig-wer-macht-schoener-18334/2020-02/episode-17-gruppe-dortmund-tag-2-truemetics-2960606"
           }
@@ -303,7 +419,9 @@
           "cluster": [
             "Lifestyle"
           ],
-          "classification": [],
+          "classification": [
+            "Vor TV-Start"
+          ],
           "teaserSeason": "Staffel 1",
           "teaserEpisodeNumber": "Folge 17",
           "teaserEpisodeAirtime": "Di. 11.02.2020, 16:00 Uhr",
@@ -377,7 +495,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/shows/salonfaehig-wer-macht-schoener-18334/2020-02/episode-16-gruppe-dortmund-tag-1-cutfactory-by-bibi-2959675"
           }
@@ -392,7 +510,9 @@
           "cluster": [
             "Lifestyle"
           ],
-          "classification": [],
+          "classification": [
+            "Vor TV-Start"
+          ],
           "teaserSeason": "Staffel 1",
           "teaserEpisodeNumber": "Folge 16",
           "teaserEpisodeAirtime": "Mo. 10.02.2020, 16:00 Uhr",
@@ -466,7 +586,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/shows/salonfaehig-wer-macht-schoener-18334/2020-02/episode-15-gruppe-muenchen-tag-5-tommy-toro-beauty-institut-2956692"
           }
@@ -481,7 +601,9 @@
           "cluster": [
             "Lifestyle"
           ],
-          "classification": [],
+          "classification": [
+            "Vor TV-Start"
+          ],
           "teaserSeason": "Staffel 1",
           "teaserEpisodeNumber": "Folge 15",
           "teaserEpisodeAirtime": "Fr. 07.02.2020, 16:00 Uhr",
@@ -555,7 +677,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/shows/salonfaehig-wer-macht-schoener-18334/2020-02/episode-14-gruppe-muenchen-tag-4-feucht-froehlich-2956055"
           }
@@ -570,7 +692,9 @@
           "cluster": [
             "Lifestyle"
           ],
-          "classification": [],
+          "classification": [
+            "Vor TV-Start"
+          ],
           "teaserSeason": "Staffel 1",
           "teaserEpisodeNumber": "Folge 14",
           "teaserEpisodeAirtime": "Do. 06.02.2020, 16:00 Uhr",
@@ -644,7 +768,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/shows/salonfaehig-wer-macht-schoener-18334/2020-02/episode-13-gruppe-muenchen-tag-3-gandi-s-haartist-2954247"
           }
@@ -652,15 +776,17 @@
         "ecommerce": {
           "teaserFormatName": "Salonfähig - Wer macht schöner?",
           "teaserId": "show_episode_2954247",
-          "teaserName": "Salonfähig - Wer macht schöner? | Staffel 2 | Folge 13 | Gruppe München: Tag 3 / Gandi's HaARTist",
+          "teaserName": "Salonfähig - Wer macht schöner? | Staffel 1 | Folge 13 | Gruppe München: Tag 3 / Gandi's HaARTist",
           "teaserPayType": "paid",
           "teaserType": "show_episode",
           "teaserGenre": "Show",
           "cluster": [
             "Lifestyle"
           ],
-          "classification": [],
-          "teaserSeason": "Staffel 2",
+          "classification": [
+            "Vor TV-Start"
+          ],
+          "teaserSeason": "Staffel 1",
           "teaserEpisodeNumber": "Folge 13",
           "teaserEpisodeAirtime": "Mi. 05.02.2020, 16:00 Uhr",
           "teaserEpisodeName": "Gruppe München: Tag 3 / Gandi's HaARTist"
@@ -718,7 +844,7 @@
         ],
         "seoUrl": "salonfaehig-wer-macht-schoener",
         "subheadline": "Gruppe München: Tag 3 / Gandi's HaARTist",
-        "text": "Staffel 2, Folge 13 | Mi. 05.02.2020, 16:00 Uhr",
+        "text": "Staffel 1, Folge 13 | Mi. 05.02.2020, 16:00 Uhr",
         "type": "show",
         "url": "/shows/salonfaehig-wer-macht-schoener-18334/2020-02/episode-13-gruppe-muenchen-tag-3-gandi-s-haartist-2954247",
         "videoId": 2954247
@@ -733,7 +859,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/shows/salonfaehig-wer-macht-schoener-18334/2020-02/episode-12-gruppe-muenchen-tag-2-beauty-carousel-2954170"
           }
@@ -748,7 +874,9 @@
           "cluster": [
             "Lifestyle"
           ],
-          "classification": [],
+          "classification": [
+            "Vor TV-Start"
+          ],
           "teaserSeason": "Staffel 1",
           "teaserEpisodeNumber": "Folge 12",
           "teaserEpisodeAirtime": "Di. 04.02.2020, 16:00 Uhr",
@@ -822,7 +950,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/shows/salonfaehig-wer-macht-schoener-18334/2020-02/episode-11-gruppe-muenchen-tag-1-medical-aesthetic-2953940"
           }
@@ -837,7 +965,9 @@
           "cluster": [
             "Lifestyle"
           ],
-          "classification": [],
+          "classification": [
+            "Vor TV-Start"
+          ],
           "teaserSeason": "Staffel 1",
           "teaserEpisodeNumber": "Folge 11",
           "teaserEpisodeAirtime": "Mo. 03.02.2020, 16:00 Uhr",

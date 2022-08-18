@@ -21,7 +21,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/filme/heinsberg-eine-gemeinde-unter-verschluss-18504"
           }
@@ -30,11 +30,13 @@
           "teaserFormatName": "Heinsberg - eine Gemeinde unter Verschluss",
           "teaserId": "film_3056305",
           "teaserName": "Heinsberg - eine Gemeinde unter Verschluss | Heinsberg - eine Gemeinde unter Verschluss",
-          "teaserPayType": "free",
+          "teaserPayType": "paid",
           "teaserType": "film",
           "teaserGenre": "Dokumentation",
           "cluster": [],
-          "classification": []
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL.DE DOKU",
+          "teaserEpisodeName": "Heinsberg - eine Gemeinde unter Verschluss"
         },
         "fsk": {
           "isVisible": false,
@@ -83,7 +85,7 @@
             "filename": "heinsberg-eine-gemeinde-unter-verschluss"
           }
         ],
-        "isPremium": false,
+        "isPremium": true,
         "overlays": [
           "premium"
         ],

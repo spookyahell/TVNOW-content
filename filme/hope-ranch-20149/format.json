@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20149,
+  "additionalMeta": {
+    "canonical": "/filme/hope-ranch-20149",
+    "url": "/filme/hope-ranch-20149"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Hope Ranch",
+      "url": "/filme/hope-ranch-20149"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20149,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Hope Ranch 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Hope Ranch im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Hope Ranch 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/hope-ranch-20149"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4261203/1600x0/hope-ranch.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4261203,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4261203",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20149"
+    },
+    {
+      "id": 20149,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20149",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [
+      "FILME Female"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Hope Ranch - Informationen zum Film",
+    "text": "Grace führt ein glückliches Leben auf der Farm ihrer Familie. Der Tod ihres Vaters bringt der Familie jedoch nicht nur Trauer, sondern auch finanzielle Probleme. Grace und ihrer Mutter Rebecca droht der Verlust ihres Zuhauses. Doch sie schmieden einen Plan, mit der Hilfe von Freunden und ihrem geliebten Pferd Faith genug Geld aufzutreiben, um die Ranch zu retten, während sie lernen müssen, nie die Hoffnung zu verlieren.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/hope-ranch-20149",
+        "description": "Grace führt ein glückliches Leben auf der Farm ihrer Familie. Der Tod ihres Vaters bringt der Familie jedoch nicht nur Trauer, sondern auch finanzielle Probleme. Grace und ihrer Mutter Rebecca droht der Verlust ihres Zuhauses. Doch sie schmieden einen Plan, mit der Hilfe von Freunden und ihrem geliebten Pferd Faith genug Geld aufzutreiben, um die Ranch zu retten, während sie lernen müssen, nie die Hoffnung zu verlieren.",
+        "duration": "PT1H17M58S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4261203/1200x0/hope-ranch.jpg",
+        "name": "Hope Ranch",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/hope-ranch-20149",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-12-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=hope-ranch-20149",
+              "sameAs": "%s/premium?typ=format&formatname=hope-ranch-20149",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/hope-ranch-20149",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Grace führt ein glückliches Leben auf der Farm ihrer Familie. Der Tod ihres Vaters bringt der Familie jedoch nicht nur Trauer, sondern auch finanzielle Probleme. Grace und ihrer Mutter Rebecca droht der Verlust ihres Zuhauses. Doch sie schmieden einen Plan, mit der Hilfe von Freunden und ihrem geliebten Pferd Faith genug Geld aufzutreiben, um die Ranch zu retten, während sie lernen müssen, nie die Hoffnung zu verlieren.",
+          "duration": "PT1H17M58S",
+          "embedUrl": "%s/googlebot/player/filme/hope-ranch-20149",
+          "name": "Hope Ranch",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4261203/1200x0/hope-ranch.jpg",
+          "uploadDate": "2021-12-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Hope Ranch im Online Stream | RTL+",
+        "headline": "Hope Ranch im Online Stream | RTL+",
+        "description": "Hope Ranch und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/hope-ranch-20149",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4261203/1200x0/hope-ranch.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4261203/1200x0/hope-ranch.jpg",
+        "datePublished": "2021-12-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4261203/1200x0/hope-ranch.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hope Ranch",
+            "item": "%s/filme/hope-ranch-20149"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Hope Ranch im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

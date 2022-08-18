@@ -3,7 +3,7 @@
     "ecommerce": {
       "rowCategory": "small_teaser",
       "rowId": "na",
-      "rowName": "Staffel 0"
+      "rowName": "Staffel 1"
     },
     "id": null,
     "label": null,
@@ -21,7 +21,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/filme/bradley-john-murdoch-der-outback-killer-17747"
           }
@@ -36,7 +36,11 @@
           "cluster": [
             "True Crime"
           ],
-          "classification": []
+          "classification": [],
+          "teaserSeason": "Staffel 1",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Fr. 20.09.2019, 20:15 Uhr",
+          "teaserEpisodeName": "Bradley John Murdoch: Der Outback-Killer"
         },
         "fsk": {
           "isVisible": false,
@@ -91,14 +95,14 @@
         ],
         "seoUrl": "bradley-john-murdoch-der-outback-killer",
         "subheadline": "Bradley John Murdoch: Der Outback-Killer",
-        "text": "Staffel  | Fr. 20.09.2019, 20:15 Uhr",
+        "text": "Staffel 1, Folge 1 | Fr. 20.09.2019, 20:15 Uhr",
         "type": "film",
         "url": "/filme/bradley-john-murdoch-der-outback-killer-17747",
         "videoId": 1640686
       }
     ],
     "format_navigation": {
-      "season": 0
+      "season": 1
     },
     "navigationType": "season"
   }

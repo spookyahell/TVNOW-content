@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20193",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20193,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/wildes-norwegen-20193"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wildes Norwegen",
+          "teaserId": "film_4323501",
+          "teaserName": "Wildes Norwegen | Wildes Norwegen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "GEO WILD",
+          "teaserEpisodeName": "Wildes Norwegen"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wildes Norwegen",
+        "id": 4323501,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323501/300x0/wildes-norwegen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323501/",
+            "filename": "wildes-norwegen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323501/600x0/wildes-norwegen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323501/",
+            "filename": "wildes-norwegen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323501/1200x0/wildes-norwegen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323501/",
+            "filename": "wildes-norwegen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323501/300x0/wildes-norwegen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323501/",
+            "filename": "wildes-norwegen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323501/600x0/wildes-norwegen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323501/",
+            "filename": "wildes-norwegen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323501/1200x0/wildes-norwegen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323501/",
+            "filename": "wildes-norwegen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wildes-norwegen",
+        "subheadline": "Wildes Norwegen",
+        "text": "Staffel  | GEO WILD",
+        "type": "film",
+        "url": "/filme/wildes-norwegen-20193",
+        "videoId": 4323501
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

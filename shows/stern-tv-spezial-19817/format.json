@@ -1,0 +1,202 @@
+﻿{
+  "formatId": 19817,
+  "additionalMeta": {
+    "canonical": "/shows/stern-tv-spezial-19817",
+    "url": "/shows/stern-tv-spezial-19817"
+  },
+  "ads": {
+    "station": "rtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "stern TV Spezial",
+      "url": "/shows/stern-tv-spezial-19817"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 19817,
+  "meta": [
+    {
+      "content": "Die Show ▶ stern TV Spezial (RTL) streamen & weitere Highlights aus dem Genre 📺 News & Magazine im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "stern TV Spezial im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ stern TV Spezial (RTL) streamen & weitere Highlights aus dem Genre 📺 News & Magazine im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/shows/stern-tv-spezial-19817"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/19817_03artwork/1600x0/stern-tv-spezial.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/19817",
+      "type": "teaserrow"
+    },
+    {
+      "id": 19817,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19817",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rnsterntv",
+      "video": "dvrsowf_ten_rnsterntv",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_now/formate/stern_tv/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_now",
+        "formate",
+        "stern_tv",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "News & Magazine",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/shows/stern-tv-spezial-19817",
+        "url": "%s/shows/stern-tv-spezial-19817",
+        "name": "stern TV Spezial",
+        "description": "Die Show ▶ stern TV Spezial (RTL) streamen & weitere Highlights aus dem Genre 📺 News & Magazine im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/19817_04metalogo/1200x0/stern-tv-spezial.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "",
+        "headline": "",
+        "description": "Die Show ▶ stern TV Spezial (RTL) streamen & weitere Highlights aus dem Genre 📺 News & Magazine im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "url": "%s/shows/stern-tv-spezial-19817",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/19817_04metalogo/1200x0/stern-tv-spezial.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/19817_04metalogo/1200x0/stern-tv-spezial.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/19817_04metalogo/1200x0/stern-tv-spezial.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "%s/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "stern TV Spezial",
+            "item": "%s/shows/stern-tv-spezial-19817"
+          }
+        ]
+      }
+    }
+  },
+  "title": "stern TV Spezial im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

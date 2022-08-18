@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19669,
+  "additionalMeta": {
+    "canonical": "/filme/der-mann-den-sie-nicht-lieben-durfte-19669",
+    "url": "/filme/der-mann-den-sie-nicht-lieben-durfte-19669"
+  },
+  "ads": {
+    "station": "passion",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Der Mann, den sie nicht lieben durfte",
+      "url": "/filme/der-mann-den-sie-nicht-lieben-durfte-19669"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19669,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Der Mann, den sie nicht lieben durfte 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Der Mann, den sie nicht lieben durfte im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Der Mann, den sie nicht lieben durfte 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/der-mann-den-sie-nicht-lieben-durfte-19669"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4079798/1600x0/mann-den-sie-nicht-lieben-durfte-der.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4079798,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4079798",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19669"
+    },
+    {
+      "id": 19669,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19669",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/passion_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "passion_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Mann, den sie nicht lieben durfte, Der",
+    "text": "Ein Flugzeugabsturz zerstört das Leben der Designerin Irena. Ihr Mann Julian kommt bei dem Unglück ums Leben. Nach einer Zeit der Trauer entschließt sich Irena zu einem Neuanfang. Sie lernt den professionellen Spieler Dennis kennen, einen angeblichen Freund ihres verstorbenen Mannes. Als Irena sich in Dennis verliebt, ahnt sie noch nicht, welches Geheimnis ihn umgibt und welch tragische Verbindung zu ihrem verstorbenen Mann besteht...",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/mann-den-sie-nicht-lieben-durfte-der-19669",
+        "description": "Ein Flugzeugabsturz zerstört das Leben der Designerin Irena. Ihr Mann Julian kommt bei dem Unglück ums Leben. Nach einer Zeit der Trauer entschließt sich Irena zu einem Neuanfang. Sie lernt den professionellen Spieler Dennis kennen, einen angeblichen Freund ihres verstorbenen Mannes. Als Irena sich in Dennis verliebt, ahnt sie noch nicht, welches Geheimnis ihn umgibt und welch tragische Verbindung zu ihrem verstorbenen Mann besteht...",
+        "duration": "PT1H30M9S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4079798/1200x0/der-mann-den-sie-nicht-lieben-durfte.jpg",
+        "name": "Der Mann, den sie nicht lieben durfte",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/mann-den-sie-nicht-lieben-durfte-der-19669",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-05-22T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=der-mann-den-sie-nicht-lieben-durfte-19669",
+              "sameAs": "%s/premium?typ=format&formatname=der-mann-den-sie-nicht-lieben-durfte-19669",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/mann-den-sie-nicht-lieben-durfte-der-19669",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Ein Flugzeugabsturz zerstört das Leben der Designerin Irena. Ihr Mann Julian kommt bei dem Unglück ums Leben. Nach einer Zeit der Trauer entschließt sich Irena zu einem Neuanfang. Sie lernt den professionellen Spieler Dennis kennen, einen angeblichen Freund ihres verstorbenen Mannes. Als Irena sich in Dennis verliebt, ahnt sie noch nicht, welches Geheimnis ihn umgibt und welch tragische Verbindung zu ihrem verstorbenen Mann besteht...",
+          "duration": "PT1H30M9S",
+          "embedUrl": "%s/googlebot/player/filme/mann-den-sie-nicht-lieben-durfte-der-19669",
+          "name": "Der Mann, den sie nicht lieben durfte",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4079798/1200x0/der-mann-den-sie-nicht-lieben-durfte.jpg",
+          "uploadDate": "2021-05-22T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Der Mann, den sie nicht lieben durfte im Online Stream | RTL+",
+        "headline": "Der Mann, den sie nicht lieben durfte im Online Stream | RTL+",
+        "description": "Der Mann, den sie nicht lieben durfte und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+. Ein Film mit ▶️Rolf Becker, Dirk Bach, Muriel Baumeister, Steven Brandt, Barbara Focke, Oliver Mommsen, Christoph M. Orth, Julia Schmidt, Anneke Kim Sarnau.",
+        "url": "%s/filme/mann-den-sie-nicht-lieben-durfte-der-19669",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4079798/1200x0/der-mann-den-sie-nicht-lieben-durfte.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4079798/1200x0/der-mann-den-sie-nicht-lieben-durfte.jpg",
+        "datePublished": "2021-05-22T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4079798/1200x0/der-mann-den-sie-nicht-lieben-durfte.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Der Mann, den sie nicht lieben durfte",
+            "item": "%s/filme/der-mann-den-sie-nicht-lieben-durfte-19669"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Der Mann, den sie nicht lieben durfte im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

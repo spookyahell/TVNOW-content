@@ -1,0 +1,241 @@
+﻿{
+  "formatId": 19617,
+  "additionalMeta": {
+    "canonical": "/filme/pokemon-14-schwarz-victini-und-reshiram-19617",
+    "url": "/filme/pokemon-14-schwarz-victini-und-reshiram-19617"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Pokémon 14: Schwarz - Victini und Reshiram",
+      "url": "/filme/pokemon-14-schwarz-victini-und-reshiram-19617"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19617,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Pokémon 14: Schwarz - Victini und Reshiram 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Pokémon 14: Schwarz - Victini und Reshiram im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Pokémon 14: Schwarz - Victini und Reshiram 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/pokemon-14-schwarz-victini-und-reshiram-19617"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3966074/1600x0/pokemon-14-schwarz-victini-und-reshiram.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3966074,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3966074",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19617"
+    },
+    {
+      "id": 19617,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19617",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Action und Abenteuer",
+      "KIDS Jungs",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Pokémon 14: Schwarz - Victini und Reshiram - Alle Informationen zum Film",
+    "text": "Diesmal befinden sich unsere Helden in der Region New York. Es werden 34 neue Pokémon vorgestellt. Das wichtigste Ziel von Ash ist es \"die Wirklichkeit zu finden, die in uns allen steckt\"...",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/pokemon-14-schwarz-victini-und-reshiram-19617",
+        "description": "Diesmal befinden sich unsere Helden in der Region New York. Es werden 34 neue Pokémon vorgestellt. Das wichtigste Ziel von Ash ist es \"die Wirklichkeit zu finden, die in uns allen steckt\"...",
+        "duration": "PT1H31M51S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3966074/1200x0/pokemon-14-schwarz-victini-und-reshiram.jpg",
+        "name": "Pokémon 14: Schwarz - Victini und Reshiram",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/pokemon-14-schwarz-victini-und-reshiram-19617",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-08-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=pokemon-14-schwarz-victini-und-reshiram-19617",
+              "sameAs": "%s/premium?typ=format&formatname=pokemon-14-schwarz-victini-und-reshiram-19617",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/pokemon-14-schwarz-victini-und-reshiram-19617",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Diesmal befinden sich unsere Helden in der Region New York. Es werden 34 neue Pokémon vorgestellt. Das wichtigste Ziel von Ash ist es \"die Wirklichkeit zu finden, die in uns allen steckt\"...",
+          "duration": "PT1H31M51S",
+          "embedUrl": "%s/googlebot/player/filme/pokemon-14-schwarz-victini-und-reshiram-19617",
+          "name": "Pokémon 14: Schwarz - Victini und Reshiram",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3966074/1200x0/pokemon-14-schwarz-victini-und-reshiram.jpg",
+          "uploadDate": "2022-08-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Pokémon 14: Schwarz - Victini und Reshiram im Online Stream | RTL+",
+        "headline": "Pokémon 14: Schwarz - Victini und Reshiram im Online Stream | RTL+",
+        "description": "Pokémon 14: Schwarz - Victini und Reshiram und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/pokemon-14-schwarz-victini-und-reshiram-19617",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3966074/1200x0/pokemon-14-schwarz-victini-und-reshiram.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3966074/1200x0/pokemon-14-schwarz-victini-und-reshiram.jpg",
+        "datePublished": "2022-08-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3966074/1200x0/pokemon-14-schwarz-victini-und-reshiram.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pokémon 14: Schwarz - Victini und Reshiram",
+            "item": "%s/filme/pokemon-14-schwarz-victini-und-reshiram-19617"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Pokémon 14: Schwarz - Victini und Reshiram im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19421,
+  "additionalMeta": {
+    "canonical": "/filme/s-o-s-barracuda-die-traenen-der-kleopatra-19421",
+    "url": "/filme/s-o-s-barracuda-die-traenen-der-kleopatra-19421"
+  },
+  "ads": {
+    "station": "passion",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "S.O.S. Barracuda - Die Tränen der Kleopatra",
+      "url": "/filme/s-o-s-barracuda-die-traenen-der-kleopatra-19421"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19421,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ S.O.S. Barracuda - Die Tränen der Kleopatra 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "S.O.S. Barracuda - Die Tränen der Kleopatra im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ S.O.S. Barracuda - Die Tränen der Kleopatra 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/s-o-s-barracuda-die-traenen-der-kleopatra-19421"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3919185/1600x0/s-o-s-barracuda-die-traenen-der-kleopatra.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3919185,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3919185",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19421"
+    },
+    {
+      "id": 19421,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19421",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/passion_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "passion_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: S.O.S. Barracuda - Die Tränen der Kleopatra",
+    "text": "Zwei Amateurtaucher werden ermordet aufgefunden. Im Haus der Toten entdeckt man eine rätselhafte antike Münze. Mit Hilfe der reichen Mallorquinerin Zita Mendez, die eine der größten Kunstsammlungen der Welt besitzt, findet das Barracuda-Team heraus, dass die Münze ein Teil des \"Schatzes der Kleopatra\" ist. Dieser ist vor 2000 Jahren im östlichen Mittelmeer versunken.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/s-o-s-barracuda-die-traenen-der-kleopatra-19421",
+        "description": "Zwei Amateurtaucher werden ermordet aufgefunden. Im Haus der Toten entdeckt man eine rätselhafte antike Münze. Mit Hilfe der reichen Mallorquinerin Zita Mendez, die eine der größten Kunstsammlungen der Welt besitzt, findet das Barracuda-Team heraus, dass die Münze ein Teil des \"Schatzes der Kleopatra\" ist. Dieser ist vor 2000 Jahren im östlichen Mittelmeer versunken.",
+        "duration": "PT1H32M23S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3919185/1200x0/s-o-s-barracuda-die-traenen-der-kleopatra.jpg",
+        "name": "S.O.S. Barracuda - Die Tränen der Kleopatra",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/s-o-s-barracuda-die-traenen-der-kleopatra-19421",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-02-20T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=s-o-s-barracuda-die-traenen-der-kleopatra-19421",
+              "sameAs": "%s/premium?typ=format&formatname=s-o-s-barracuda-die-traenen-der-kleopatra-19421",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/s-o-s-barracuda-die-traenen-der-kleopatra-19421",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Zwei Amateurtaucher werden ermordet aufgefunden. Im Haus der Toten entdeckt man eine rätselhafte antike Münze. Mit Hilfe der reichen Mallorquinerin Zita Mendez, die eine der größten Kunstsammlungen der Welt besitzt, findet das Barracuda-Team heraus, dass die Münze ein Teil des \"Schatzes der Kleopatra\" ist. Dieser ist vor 2000 Jahren im östlichen Mittelmeer versunken.",
+          "duration": "PT1H32M23S",
+          "embedUrl": "%s/googlebot/player/filme/s-o-s-barracuda-die-traenen-der-kleopatra-19421",
+          "name": "S.O.S. Barracuda - Die Tränen der Kleopatra",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3919185/1200x0/s-o-s-barracuda-die-traenen-der-kleopatra.jpg",
+          "uploadDate": "2021-02-20T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "S.O.S. Barracuda - Die Tränen der Kleopatra im Online Stream | RTL+",
+        "headline": "S.O.S. Barracuda - Die Tränen der Kleopatra im Online Stream | RTL+",
+        "description": "S.O.S. Barracuda - Die Tränen der Kleopatra und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+. Ein Film mit ▶️Nick Wilder, Oliver Bootz, Sandra Keller, Nadja Abd el Farrag, Alexander Radszun, Pedro Gavajda, Dirk Martens, Despina Pajanou, Hendrik Duryn.",
+        "url": "%s/filme/s-o-s-barracuda-die-traenen-der-kleopatra-19421",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3919185/1200x0/s-o-s-barracuda-die-traenen-der-kleopatra.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3919185/1200x0/s-o-s-barracuda-die-traenen-der-kleopatra.jpg",
+        "datePublished": "2021-02-20T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3919185/1200x0/s-o-s-barracuda-die-traenen-der-kleopatra.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "S.O.S. Barracuda - Die Tränen der Kleopatra",
+            "item": "%s/filme/s-o-s-barracuda-die-traenen-der-kleopatra-19421"
+          }
+        ]
+      }
+    }
+  },
+  "title": "S.O.S. Barracuda - Die Tränen der Kleopatra im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

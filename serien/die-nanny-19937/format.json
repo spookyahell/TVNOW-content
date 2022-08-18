@@ -1,0 +1,202 @@
+﻿{
+  "formatId": 19937,
+  "additionalMeta": {
+    "canonical": "/serien/die-nanny-19937",
+    "url": "/serien/die-nanny-19937"
+  },
+  "ads": {
+    "station": "rtlplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Die Nanny",
+      "url": "/serien/die-nanny-19937"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 19937,
+  "meta": [
+    {
+      "content": "Die Serie Die Nanny (RTLup) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Comedy im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Nanny im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Die Nanny (RTLup) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Comedy im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/die-nanny-19937"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/19937_03artwork/1600x0/die-nanny.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/19937",
+      "type": "teaserrow"
+    },
+    {
+      "id": 19937,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19937",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rpndienanny",
+      "video": "dvrsowf_ten_rpndienanny",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_plus_now/formate/die_nanny/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_plus_now",
+        "formate",
+        "die_nanny",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Die Nanny: Informationen zur Show",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/die-nanny-19937",
+        "url": "%s/serien/die-nanny-19937",
+        "name": "Die Nanny",
+        "description": "Die Serie Die Nanny (RTLup) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Comedy im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/19937_04metalogo/1200x0/die-nanny.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Nanny: Informationen zur Show",
+        "headline": "Die Nanny: Informationen zur Show",
+        "description": "Die Serie Die Nanny (RTLup) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Comedy im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/die-nanny-19937",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/19937_04metalogo/1200x0/die-nanny.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/19937_04metalogo/1200x0/die-nanny.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/19937_04metalogo/1200x0/die-nanny.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Nanny",
+            "item": "%s/serien/die-nanny-19937"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Nanny im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

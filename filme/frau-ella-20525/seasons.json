@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20525",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20525,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/frau-ella-20525"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Frau Ella",
+          "teaserId": "film_4785797",
+          "teaserName": "Frau Ella | Frau Ella",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "Fr. 01.04.2022, 00:00 Uhr",
+          "teaserEpisodeName": "Frau Ella"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Frau Ella",
+        "id": 4785797,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785797/300x0/frau-ella.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785797/",
+            "filename": "frau-ella"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785797/600x0/frau-ella.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785797/",
+            "filename": "frau-ella"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785797/1200x0/frau-ella.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785797/",
+            "filename": "frau-ella"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785797/300x0/frau-ella.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785797/",
+            "filename": "frau-ella"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785797/600x0/frau-ella.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785797/",
+            "filename": "frau-ella"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785797/1200x0/frau-ella.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785797/",
+            "filename": "frau-ella"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "frau-ella",
+        "subheadline": "Frau Ella",
+        "text": "Staffel  | Fr. 01.04.2022, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/frau-ella-20525",
+        "videoId": 4785797
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,219 @@
+﻿{
+  "formatId": 20437,
+  "additionalMeta": {
+    "canonical": "/serien/vier-jahreszeiten-ein-wald-im-wandel-20437",
+    "url": "/serien/vier-jahreszeiten-ein-wald-im-wandel-20437"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Vier Jahreszeiten - Ein Wald im Wandel",
+      "url": "/serien/vier-jahreszeiten-ein-wald-im-wandel-20437"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 20437,
+  "meta": [
+    {
+      "content": "Die Serie Vier Jahreszeiten - Ein Wald im Wandel (TVNOW) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Vier Jahreszeiten - Ein Wald im Wandel im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Vier Jahreszeiten - Ein Wald im Wandel (TVNOW) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/vier-jahreszeiten-ein-wald-im-wandel-20437"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/20437_03artwork/1600x0/vier-jahreszeiten-ein-wald-im-wandel.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/20437",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/20437",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/20437",
+      "type": "teaserrow"
+    },
+    {
+      "id": 20437,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20437",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnwaldimwandel",
+      "video": "dvrsowf_ten_tnwaldimwandel",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/wald_im_wandel/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "wald_im_wandel",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Tiere",
+      "Natur"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Vier Jahreszeiten - Ein Wald im Wandel",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/vier-jahreszeiten-ein-wald-im-wandel-20437",
+        "url": "%s/serien/vier-jahreszeiten-ein-wald-im-wandel-20437",
+        "name": "Vier Jahreszeiten - Ein Wald im Wandel",
+        "description": "Die Serie Vier Jahreszeiten - Ein Wald im Wandel (TVNOW) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/20437_04metalogo/1200x0/vier-jahreszeiten-ein-wald-im-wandel.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Vier Jahreszeiten - Ein Wald im Wandel",
+        "headline": "Vier Jahreszeiten - Ein Wald im Wandel",
+        "description": "Die Serie Vier Jahreszeiten - Ein Wald im Wandel (TVNOW) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Dokumentation im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/vier-jahreszeiten-ein-wald-im-wandel-20437",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/20437_04metalogo/1200x0/vier-jahreszeiten-ein-wald-im-wandel.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/20437_04metalogo/1200x0/vier-jahreszeiten-ein-wald-im-wandel.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/20437_04metalogo/1200x0/vier-jahreszeiten-ein-wald-im-wandel.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Vier Jahreszeiten - Ein Wald im Wandel",
+            "item": "%s/serien/vier-jahreszeiten-ein-wald-im-wandel-20437"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Vier Jahreszeiten - Ein Wald im Wandel im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

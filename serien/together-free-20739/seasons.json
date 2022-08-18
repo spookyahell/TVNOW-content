@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20739",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20739,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/together-free-20739/weitere/episode-0-together-free-4839346"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Together Free",
+          "teaserId": "serie_episode_4839346",
+          "teaserName": "Together Free | Together Free",
+          "teaserPayType": "paid",
+          "teaserType": "serie_episode",
+          "teaserGenre": "",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "So. 12.06.2022, 20:15 Uhr",
+          "teaserEpisodeName": "Together Free"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Together Free",
+        "id": 4839346,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4839346/300x0/together-free.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4839346/",
+            "filename": "together-free"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4839346/600x0/together-free.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4839346/",
+            "filename": "together-free"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4839346/1200x0/together-free.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4839346/",
+            "filename": "together-free"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4839346/300x0/together-free.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4839346/",
+            "filename": "together-free"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4839346/600x0/together-free.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4839346/",
+            "filename": "together-free"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4839346/1200x0/together-free.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4839346/",
+            "filename": "together-free"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "together-free",
+        "subheadline": "Together Free",
+        "text": "Staffel  | So. 12.06.2022, 20:15 Uhr",
+        "type": "serie",
+        "url": "/serien/together-free-20739/weitere/episode-0-together-free-4839346",
+        "videoId": 4839346
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

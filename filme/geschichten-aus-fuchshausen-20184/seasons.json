@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20184",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20184,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/geschichten-aus-fuchshausen-20184"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Geschichten aus Fuchshausen",
+          "teaserId": "film_4323497",
+          "teaserName": "Geschichten aus Fuchshausen | Geschichten aus Fuchshausen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "GEO WILD",
+          "teaserEpisodeName": "Geschichten aus Fuchshausen"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Geschichten aus Fuchshausen",
+        "id": 4323497,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323497/300x0/geschichten-aus-fuchshausen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323497/",
+            "filename": "geschichten-aus-fuchshausen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323497/600x0/geschichten-aus-fuchshausen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323497/",
+            "filename": "geschichten-aus-fuchshausen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323497/1200x0/geschichten-aus-fuchshausen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323497/",
+            "filename": "geschichten-aus-fuchshausen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323497/300x0/geschichten-aus-fuchshausen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323497/",
+            "filename": "geschichten-aus-fuchshausen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323497/600x0/geschichten-aus-fuchshausen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323497/",
+            "filename": "geschichten-aus-fuchshausen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323497/1200x0/geschichten-aus-fuchshausen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323497/",
+            "filename": "geschichten-aus-fuchshausen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "geschichten-aus-fuchshausen",
+        "subheadline": "Geschichten aus Fuchshausen",
+        "text": "Staffel  | GEO WILD",
+        "type": "film",
+        "url": "/filme/geschichten-aus-fuchshausen-20184",
+        "videoId": 4323497
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

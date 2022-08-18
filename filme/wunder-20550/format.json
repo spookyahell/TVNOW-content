@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20550,
+  "additionalMeta": {
+    "canonical": "/filme/wunder-20550",
+    "url": "/filme/wunder-20550"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Wunder",
+      "url": "/filme/wunder-20550"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20550,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Wunder 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Wunder im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Wunder 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/wunder-20550"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4785768/1600x0/wunder.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4785768,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4785768",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20550"
+    },
+    {
+      "id": 20550,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20550",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [
+      "FILME Female"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Wunder",
+    "text": "Der zehnjährige August Pullman wurde mit einer seltenen Gesichtsdeformation geboren und musste sich schon vielen OPs unterziehen. Bisher wurde er zu Hause von seiner Mutter unterrichtet, soll jedoch ab Beginn der Middle School eine Privatschule besuchen. Nachdem August zunächst von den anderen Schülern gemieden wird, freundet er sich mit Jack an. Doch auch weiterhin hat August sowohl in der Schule als auch zu Hause mit Problemen zu kämpfen.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/wunder-20550",
+        "description": "Der zehnjährige August Pullman wurde mit einer seltenen Gesichtsdeformation geboren und musste sich schon vielen OPs unterziehen. Bisher wurde er zu Hause von seiner Mutter unterrichtet, soll jedoch ab Beginn der Middle School eine Privatschule besuchen. Nachdem August zunächst von den anderen Schülern gemieden wird, freundet er sich mit Jack an. Doch auch weiterhin hat August sowohl in der Schule als auch zu Hause mit Problemen zu kämpfen.",
+        "duration": "PT1H49M",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4785768/1200x0/wunder.jpg",
+        "name": "Wunder",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/wunder-20550",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-15T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=wunder-20550",
+              "sameAs": "%s/premium?typ=format&formatname=wunder-20550",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/wunder-20550",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Der zehnjährige August Pullman wurde mit einer seltenen Gesichtsdeformation geboren und musste sich schon vielen OPs unterziehen. Bisher wurde er zu Hause von seiner Mutter unterrichtet, soll jedoch ab Beginn der Middle School eine Privatschule besuchen. Nachdem August zunächst von den anderen Schülern gemieden wird, freundet er sich mit Jack an. Doch auch weiterhin hat August sowohl in der Schule als auch zu Hause mit Problemen zu kämpfen.",
+          "duration": "PT1H49M",
+          "embedUrl": "%s/googlebot/player/filme/wunder-20550",
+          "name": "Wunder",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4785768/1200x0/wunder.jpg",
+          "uploadDate": "2022-04-15T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Wunder im Online Stream | RTL+",
+        "headline": "Wunder im Online Stream | RTL+",
+        "description": "Wunder und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/wunder-20550",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4785768/1200x0/wunder.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4785768/1200x0/wunder.jpg",
+        "datePublished": "2022-04-15T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4785768/1200x0/wunder.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wunder",
+            "item": "%s/filme/wunder-20550"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Wunder im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

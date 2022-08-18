@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 19559,
+  "additionalMeta": {
+    "canonical": "/filme/die-bademeister-auf-zu-neuen-ufern-19559",
+    "url": "/filme/die-bademeister-auf-zu-neuen-ufern-19559"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Die Bademeister – Auf zu neuen Ufern",
+      "url": "/filme/die-bademeister-auf-zu-neuen-ufern-19559"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19559,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Die Bademeister – Auf zu neuen Ufern 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Die Bademeister – Auf zu neuen Ufern im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Die Bademeister – Auf zu neuen Ufern 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/die-bademeister-auf-zu-neuen-ufern-19559"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3954709/1600x0/die-bademeister-auf-zu-neuen-ufern.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3954709,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3954709",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19559"
+    },
+    {
+      "id": 19559,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19559",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [
+      "FILME Komödien"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Die Bademeister - Auf zu neuen Ufern - Informationen zum Film",
+    "text": "Keine Gnade: Die beiden Wanne-Eickler Proll-Bademeister Paul und Böller blasen zum Angriff! Diesmal treiben sie ihr Unwesen in der Nobelklinik Jüngersbrunn, wo man sie fälschlicherweise für zwei Top-Ärzte des Gesundheitsamtes hält. Könnte es eine schönere Spielwiese für die beiden  erklärten Fans williger Schwestern in knapper Krankenhaustracht geben?",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/die-bademeister-auf-zu-neuen-ufern-19559",
+        "description": "Keine Gnade: Die beiden Wanne-Eickler Proll-Bademeister Paul und Böller blasen zum Angriff! Diesmal treiben sie ihr Unwesen in der Nobelklinik Jüngersbrunn, wo man sie fälschlicherweise für zwei Top-Ärzte des Gesundheitsamtes hält. Könnte es eine schönere Spielwiese für die beiden  erklärten Fans williger Schwestern in knapper Krankenhaustracht geben?",
+        "duration": "PT1H30M44S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3954709/1200x0/die-bademeister-auf-zu-neuen-ufern.jpg",
+        "name": "Die Bademeister – Auf zu neuen Ufern",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/die-bademeister-auf-zu-neuen-ufern-19559",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-03-18T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=die-bademeister-auf-zu-neuen-ufern-19559",
+              "sameAs": "%s/premium?typ=format&formatname=die-bademeister-auf-zu-neuen-ufern-19559",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/die-bademeister-auf-zu-neuen-ufern-19559",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Keine Gnade: Die beiden Wanne-Eickler Proll-Bademeister Paul und Böller blasen zum Angriff! Diesmal treiben sie ihr Unwesen in der Nobelklinik Jüngersbrunn, wo man sie fälschlicherweise für zwei Top-Ärzte des Gesundheitsamtes hält. Könnte es eine schönere Spielwiese für die beiden  erklärten Fans williger Schwestern in knapper Krankenhaustracht geben?",
+          "duration": "PT1H30M44S",
+          "embedUrl": "%s/googlebot/player/filme/die-bademeister-auf-zu-neuen-ufern-19559",
+          "name": "Die Bademeister – Auf zu neuen Ufern",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3954709/1200x0/die-bademeister-auf-zu-neuen-ufern.jpg",
+          "uploadDate": "2021-03-18T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Die Bademeister – Auf zu neuen Ufern im Online Stream | RTL+",
+        "headline": "Die Bademeister – Auf zu neuen Ufern im Online Stream | RTL+",
+        "description": "Die Bademeister – Auf zu neuen Ufern und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei RTL+. Ein Film mit ▶️Stefan Lehnen, Jan Neumann, Feo Schenk, Adele Neuhauser, Hans Dieter Brückner, Wolfram A. Günther, Anette Hellwig, Wolf-Dietrich Berg, Alexander Liegel, Martin Pölcher.",
+        "url": "%s/filme/die-bademeister-auf-zu-neuen-ufern-19559",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3954709/1200x0/die-bademeister-auf-zu-neuen-ufern.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3954709/1200x0/die-bademeister-auf-zu-neuen-ufern.jpg",
+        "datePublished": "2021-03-18T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3954709/1200x0/die-bademeister-auf-zu-neuen-ufern.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Die Bademeister – Auf zu neuen Ufern",
+            "item": "%s/filme/die-bademeister-auf-zu-neuen-ufern-19559"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Die Bademeister – Auf zu neuen Ufern im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

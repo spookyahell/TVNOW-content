@@ -1,0 +1,108 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20780",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20780,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/die-wilden-huehner-20780"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Wilden Hühner",
+          "teaserId": "film_4850531",
+          "teaserName": "Die Wilden Hühner | Die Wilden Hühner",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+ Kids",
+          "teaserEpisodeName": "Die Wilden Hühner"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Wilden Hühner",
+        "id": 4850531,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4850531/300x0/die-wilden-huehner.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4850531/",
+            "filename": "die-wilden-huehner"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4850531/600x0/die-wilden-huehner.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4850531/",
+            "filename": "die-wilden-huehner"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4850531/1200x0/die-wilden-huehner.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4850531/",
+            "filename": "die-wilden-huehner"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4850531/300x0/die-wilden-huehner.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4850531/",
+            "filename": "die-wilden-huehner"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4850531/600x0/die-wilden-huehner.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4850531/",
+            "filename": "die-wilden-huehner"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4850531/1200x0/die-wilden-huehner.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4850531/",
+            "filename": "die-wilden-huehner"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-wilden-huehner",
+        "subheadline": "Die Wilden Hühner",
+        "text": "Staffel  | RTL+ Kids",
+        "type": "film",
+        "url": "/filme/die-wilden-huehner-20780",
+        "videoId": 4850531
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

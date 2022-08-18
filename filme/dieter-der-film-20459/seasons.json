@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20459",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20459,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/dieter-der-film-20459"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Dieter - Der Film",
+          "teaserId": "film_4723823",
+          "teaserName": "Dieter - Der Film | Dieter - Der Film",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "Mi. 09.03.2022, 21:55 Uhr",
+          "teaserEpisodeName": "Dieter - Der Film"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Dieter - Der Film",
+        "id": 4723823,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4723823/300x0/dieter-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4723823/",
+            "filename": "dieter-der-film"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4723823/600x0/dieter-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4723823/",
+            "filename": "dieter-der-film"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4723823/1200x0/dieter-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4723823/",
+            "filename": "dieter-der-film"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4723823/300x0/dieter-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4723823/",
+            "filename": "dieter-der-film"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4723823/600x0/dieter-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4723823/",
+            "filename": "dieter-der-film"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4723823/1200x0/dieter-der-film.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4723823/",
+            "filename": "dieter-der-film"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "dieter-der-film",
+        "subheadline": "Dieter - Der Film",
+        "text": "Staffel  | Mi. 09.03.2022, 21:55 Uhr",
+        "type": "film",
+        "url": "/filme/dieter-der-film-20459",
+        "videoId": 4723823
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

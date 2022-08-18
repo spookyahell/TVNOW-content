@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19799",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19799,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/glueck-19799"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Glück - Von Ferdinand von Schirach",
+          "teaserId": "film_4133118",
+          "teaserName": "Glück - Von Ferdinand von Schirach | Glück",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "So. 01.08.2021, 00:00 Uhr",
+          "teaserEpisodeName": "Glück"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Glück",
+        "id": 4133118,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4133118/300x0/glueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4133118/",
+            "filename": "glueck"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4133118/600x0/glueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4133118/",
+            "filename": "glueck"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4133118/1200x0/glueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4133118/",
+            "filename": "glueck"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4133118/300x0/glueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4133118/",
+            "filename": "glueck"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4133118/600x0/glueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4133118/",
+            "filename": "glueck"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4133118/1200x0/glueck.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4133118/",
+            "filename": "glueck"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "glueck-von-ferdinand-von-schirach",
+        "subheadline": "Glück",
+        "text": "Staffel  | So. 01.08.2021, 00:00 Uhr",
+        "type": "film",
+        "url": "/filme/glueck-19799",
+        "videoId": 4133118
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

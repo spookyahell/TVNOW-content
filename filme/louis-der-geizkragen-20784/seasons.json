@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20784",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20784,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/louis-der-geizkragen-20784"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Louis, der Geizkragen",
+          "teaserId": "film_4852501",
+          "teaserName": "Louis, der Geizkragen | Louis, der Geizkragen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Louis, der Geizkragen"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Louis, der Geizkragen",
+        "id": 4852501,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852501/300x0/louis-der-geizkragen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852501/",
+            "filename": "louis-der-geizkragen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852501/600x0/louis-der-geizkragen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852501/",
+            "filename": "louis-der-geizkragen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852501/1200x0/louis-der-geizkragen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852501/",
+            "filename": "louis-der-geizkragen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852501/300x0/louis-der-geizkragen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852501/",
+            "filename": "louis-der-geizkragen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852501/600x0/louis-der-geizkragen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852501/",
+            "filename": "louis-der-geizkragen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852501/1200x0/louis-der-geizkragen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852501/",
+            "filename": "louis-der-geizkragen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "louis-der-geizkragen",
+        "subheadline": "Louis, der Geizkragen",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/louis-der-geizkragen-20784",
+        "videoId": 4852501
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

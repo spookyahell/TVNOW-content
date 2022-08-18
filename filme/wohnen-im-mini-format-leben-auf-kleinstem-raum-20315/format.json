@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 20315,
+  "additionalMeta": {
+    "canonical": "/filme/wohnen-im-mini-format-leben-auf-kleinstem-raum-20315",
+    "url": "/filme/wohnen-im-mini-format-leben-auf-kleinstem-raum-20315"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Wohnen im Mini-Format - Leben auf kleinstem Raum",
+      "url": "/filme/wohnen-im-mini-format-leben-auf-kleinstem-raum-20315"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 20315,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Wohnen im Mini-Format - Leben auf kleinstem Raum 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Wohnen im Mini-Format - Leben auf kleinstem Raum im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Wohnen im Mini-Format - Leben auf kleinstem Raum 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/wohnen-im-mini-format-leben-auf-kleinstem-raum-20315"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4350707/1600x0/wohnen-im-mini-format-leben-auf-kleinstem-raum.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4350707,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4350707",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20315"
+    },
+    {
+      "id": 20315,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20315",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Wohnen im Mini-Format - Leben auf kleinstem Raum",
+    "text": "Die eigenen vier Wände - für viele ein großer Traum. Wie sehen die Häuser der Zukunft aus? Die Dokumentation zeigt Beispiele für neue Wohntrends:  Vom selbst gebauten Mini-Haus auf Rädern über urbane Wohnhütten und professionell gebauten Tiny Houses bis hin zu schwimmenden Mini-Hausbooten. Oder kommen in naher Zukunft alle Häuser aus dem 3D-Drucker?",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/wohnen-im-mini-format-leben-auf-kleinstem-raum-20315",
+        "description": "Die eigenen vier Wände - für viele ein großer Traum. Wie sehen die Häuser der Zukunft aus? Die Dokumentation zeigt Beispiele für neue Wohntrends:  Vom selbst gebauten Mini-Haus auf Rädern über urbane Wohnhütten und professionell gebauten Tiny Houses bis hin zu schwimmenden Mini-Hausbooten. Oder kommen in naher Zukunft alle Häuser aus dem 3D-Drucker?",
+        "duration": "PT41M30S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4350707/1200x0/wohnen-im-mini-format-leben-auf-kleinstem-raum.jpg",
+        "name": "Wohnen im Mini-Format - Leben auf kleinstem Raum",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/wohnen-im-mini-format-leben-auf-kleinstem-raum-20315",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2021-12-28T19:05:00.000Z"
+          }
+        },
+        "url": "%s/filme/wohnen-im-mini-format-leben-auf-kleinstem-raum-20315",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die eigenen vier Wände - für viele ein großer Traum. Wie sehen die Häuser der Zukunft aus? Die Dokumentation zeigt Beispiele für neue Wohntrends:  Vom selbst gebauten Mini-Haus auf Rädern über urbane Wohnhütten und professionell gebauten Tiny Houses bis hin zu schwimmenden Mini-Hausbooten. Oder kommen in naher Zukunft alle Häuser aus dem 3D-Drucker?",
+          "duration": "PT41M30S",
+          "embedUrl": "%s/googlebot/player/filme/wohnen-im-mini-format-leben-auf-kleinstem-raum-20315",
+          "name": "Wohnen im Mini-Format - Leben auf kleinstem Raum",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4350707/1200x0/wohnen-im-mini-format-leben-auf-kleinstem-raum.jpg",
+          "uploadDate": "2021-12-28T19:05:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Wohnen im Mini-Format - Leben auf kleinstem Raum im Online Stream | RTL+",
+        "headline": "Wohnen im Mini-Format - Leben auf kleinstem Raum im Online Stream | RTL+",
+        "description": "Wohnen im Mini-Format - Leben auf kleinstem Raum und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/wohnen-im-mini-format-leben-auf-kleinstem-raum-20315",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4350707/1200x0/wohnen-im-mini-format-leben-auf-kleinstem-raum.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4350707/1200x0/wohnen-im-mini-format-leben-auf-kleinstem-raum.jpg",
+        "datePublished": "2021-12-28T19:05:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4350707/1200x0/wohnen-im-mini-format-leben-auf-kleinstem-raum.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wohnen im Mini-Format - Leben auf kleinstem Raum",
+            "item": "%s/filme/wohnen-im-mini-format-leben-auf-kleinstem-raum-20315"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Wohnen im Mini-Format - Leben auf kleinstem Raum im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

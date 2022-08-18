@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20587",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20587,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/100-dinge-20587"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "100 Dinge",
+          "teaserId": "film_4802069",
+          "teaserName": "100 Dinge | 100 Dinge",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "100 Dinge"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "100 Dinge",
+        "id": 4802069,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4802069/300x0/100-dinge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4802069/",
+            "filename": "100-dinge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4802069/600x0/100-dinge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4802069/",
+            "filename": "100-dinge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4802069/1200x0/100-dinge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4802069/",
+            "filename": "100-dinge"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4802069/300x0/100-dinge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4802069/",
+            "filename": "100-dinge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4802069/600x0/100-dinge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4802069/",
+            "filename": "100-dinge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4802069/1200x0/100-dinge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4802069/",
+            "filename": "100-dinge"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "100-dinge",
+        "subheadline": "100 Dinge",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/100-dinge-20587",
+        "videoId": 4802069
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 7891,
+  "additionalMeta": {
+    "canonical": "/filme/santa-baby-superrtl-7891",
+    "url": "/filme/santa-baby-superrtl-7891"
+  },
+  "ads": {
+    "station": "superrtl",
+    "taggingPack": "filme",
+    "taggingSubSite": "filme"
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Santa Baby",
+      "url": "/filme/santa-baby-superrtl-7891"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 7891,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Santa Baby 📺 und viele weitere ▶ Filme aus dem Genre  findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "Santa Baby, video, videos, online sehen, internet tv, fernsehen, alle folgen, rtl , super rtl, super, video on demand, mediathek, serien, stream, streaming, santa, weihnachten, christmas, weihnachtsfilm",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Santa Baby im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Santa Baby 📺 und viele weitere ▶ Filme aus dem Genre  findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/santa-baby-superrtl-7891"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/386782/1600x0/santa-baby.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 386782,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/386782",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/7891"
+    },
+    {
+      "id": 7891,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/7891",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_srnfilme",
+      "video": "dvrsowf_ten_srnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/super_rtl_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "super_rtl_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zum Film: Santa Baby",
+    "text": "Bei RTL+ kannst Du den Film Santa Baby und viele weitere Filme online anschauen. Ob Action, Drama, Komödie oder Krimi – stöbere einfach durch unsere Auswahl, lehne Dich zurück und genieße einen entspannten Movie-Abend mit unseren Streams!",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/santa-baby-7891",
+        "description": "Für Mary Class läuft das Berufsleben zur Zeit hervorragend, sie hat sich zu einer erfolgreichen Geschäftsfrau entwickelt. Doch Mary hütet ein Geheimnis: Sie ist in Wirklichkeit die Tochter des Weihnachtsmannes. Als ihr Vater kurz vor dem Fest erkrankt, muss Mary zum Nordpol reisen und dort die Geschäfte übernehmen. Trotz ihrer Erfahrung läuft das allerdings nicht ganz so reibungslos, wie sie es sich gewünscht hat...",
+        "duration": "PT1H25M47S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/386782/1200x0/santa-baby-superrtl.jpg",
+        "name": "Santa Baby",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/santa-baby-7891",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-12-05T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=santa-baby-superrtl-7891",
+              "sameAs": "%s/premium?typ=format&formatname=santa-baby-superrtl-7891",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/santa-baby-7891",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Für Mary Class läuft das Berufsleben zur Zeit hervorragend, sie hat sich zu einer erfolgreichen Geschäftsfrau entwickelt. Doch Mary hütet ein Geheimnis: Sie ist in Wirklichkeit die Tochter des Weihnachtsmannes. Als ihr Vater kurz vor dem Fest erkrankt, muss Mary zum Nordpol reisen und dort die Geschäfte übernehmen. Trotz ihrer Erfahrung läuft das allerdings nicht ganz so reibungslos, wie sie es sich gewünscht hat...",
+          "duration": "PT1H25M47S",
+          "embedUrl": "%s/googlebot/player/filme/santa-baby-7891",
+          "name": "Santa Baby",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/386782/1200x0/santa-baby-superrtl.jpg",
+          "uploadDate": "2020-12-05T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Santa Baby im Online Stream | RTL+",
+        "headline": "Santa Baby im Online Stream | RTL+",
+        "description": "Santa Baby und viele weitere  ▶️Filme aus dem Genre  findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/santa-baby-7891",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/386782/1200x0/santa-baby-superrtl.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/386782/1200x0/santa-baby-superrtl.jpg",
+        "datePublished": "2020-12-05T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/386782/1200x0/santa-baby-superrtl.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Santa Baby",
+            "item": "%s/filme/santa-baby-superrtl-7891"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Santa Baby im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

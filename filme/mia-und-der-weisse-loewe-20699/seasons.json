@@ -1,0 +1,109 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20699",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20699,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/mia-und-der-weisse-loewe-20699"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Mia und der Weiße Löwe",
+          "teaserId": "film_4820310",
+          "teaserName": "Mia und der Weiße Löwe | Mia und der Weiße Löwe",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 3 bis 6 Jahre",
+            "KIDS 6 bis 10 Jahre",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+ Kids",
+          "teaserEpisodeName": "Mia und der Weiße Löwe"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mia und der Weiße Löwe",
+        "id": 4820310,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820310/300x0/mia-und-der-weisse-loewe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820310/",
+            "filename": "mia-und-der-weisse-loewe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820310/600x0/mia-und-der-weisse-loewe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820310/",
+            "filename": "mia-und-der-weisse-loewe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820310/1200x0/mia-und-der-weisse-loewe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820310/",
+            "filename": "mia-und-der-weisse-loewe"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820310/300x0/mia-und-der-weisse-loewe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820310/",
+            "filename": "mia-und-der-weisse-loewe"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820310/600x0/mia-und-der-weisse-loewe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820310/",
+            "filename": "mia-und-der-weisse-loewe"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4820310/1200x0/mia-und-der-weisse-loewe.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4820310/",
+            "filename": "mia-und-der-weisse-loewe"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "mia-und-der-weisse-loewe",
+        "subheadline": "Mia und der Weiße Löwe",
+        "text": "Staffel  | RTL+ Kids",
+        "type": "film",
+        "url": "/filme/mia-und-der-weisse-loewe-20699",
+        "videoId": 4820310
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

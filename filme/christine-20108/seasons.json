@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20108",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20108,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/christine-20108"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Christine",
+          "teaserId": "film_4317919",
+          "teaserName": "Christine | Christine",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [
+            "FILME Female"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Christine"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Christine",
+        "id": 4317919,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4317919/300x0/christine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4317919/",
+            "filename": "christine"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4317919/600x0/christine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4317919/",
+            "filename": "christine"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4317919/1200x0/christine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4317919/",
+            "filename": "christine"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4317919/300x0/christine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4317919/",
+            "filename": "christine"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4317919/600x0/christine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4317919/",
+            "filename": "christine"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4317919/1200x0/christine.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4317919/",
+            "filename": "christine"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "christine",
+        "subheadline": "Christine",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/christine-20108",
+        "videoId": 4317919
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

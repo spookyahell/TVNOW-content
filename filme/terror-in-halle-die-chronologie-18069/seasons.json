@@ -3,7 +3,7 @@
     "ecommerce": {
       "rowCategory": "small_teaser",
       "rowId": "na",
-      "rowName": "Staffel 1"
+      "rowName": "Staffel 0"
     },
     "id": null,
     "label": null,
@@ -21,7 +21,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/filme/terror-in-halle-die-chronologie-18069"
           }
@@ -30,18 +30,16 @@
           "teaserFormatName": "Terror in Halle - Die Chronologie",
           "teaserId": "film_1932931",
           "teaserName": "Terror in Halle - Die Chronologie | Terror in Halle - Die Chronologie",
-          "teaserPayType": "paid",
+          "teaserPayType": "free",
           "teaserType": "film",
           "teaserGenre": "Crime",
           "cluster": [
             "True Crime"
           ],
           "classification": [
-            "Exklusiv"
+            "Exclusive"
           ],
-          "teaserSeason": "Staffel 1",
-          "teaserEpisodeNumber": "Folge 1",
-          "teaserEpisodeAirtime": "EXLUSIV",
+          "teaserEpisodeAirtime": "Exklusiv",
           "teaserEpisodeName": "Terror in Halle - Die Chronologie"
         },
         "fsk": {
@@ -91,20 +89,20 @@
             "filename": "terror-in-halle-die-chronologie"
           }
         ],
-        "isPremium": true,
+        "isPremium": false,
         "overlays": [
           "premium"
         ],
         "seoUrl": "terror-in-halle-die-chronologie",
         "subheadline": "Terror in Halle - Die Chronologie",
-        "text": "Staffel 1, Folge 1 | EXLUSIV",
+        "text": "Staffel  | Exklusiv",
         "type": "film",
         "url": "/filme/terror-in-halle-die-chronologie-18069",
         "videoId": 1932931
       }
     ],
     "format_navigation": {
-      "season": 1
+      "season": 0
     },
     "navigationType": "season"
   }

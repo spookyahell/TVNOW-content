@@ -1,0 +1,111 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/18136",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18136,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/der-kleine-vampir-18136"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Der kleine Vampir",
+          "teaserId": "film_4174685",
+          "teaserName": "Der kleine Vampir | Der kleine Vampir",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Action und Abenteuer",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "Fr. 29.10.2021, 20:15 Uhr",
+          "teaserEpisodeName": "Der kleine Vampir"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der kleine Vampir",
+        "id": 4174685,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4174685/300x0/der-kleine-vampir.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4174685/",
+            "filename": "der-kleine-vampir"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4174685/600x0/der-kleine-vampir.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4174685/",
+            "filename": "der-kleine-vampir"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4174685/1200x0/der-kleine-vampir.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4174685/",
+            "filename": "der-kleine-vampir"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4174685/300x0/der-kleine-vampir.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4174685/",
+            "filename": "der-kleine-vampir"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4174685/600x0/der-kleine-vampir.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4174685/",
+            "filename": "der-kleine-vampir"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4174685/1200x0/der-kleine-vampir.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4174685/",
+            "filename": "der-kleine-vampir"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "der-kleine-vampir",
+        "subheadline": "Der kleine Vampir",
+        "text": "Staffel  | Fr. 29.10.2021, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/der-kleine-vampir-18136",
+        "videoId": 4174685
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

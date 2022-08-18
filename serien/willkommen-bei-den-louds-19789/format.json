@@ -1,0 +1,208 @@
+﻿{
+  "formatId": 19789,
+  "additionalMeta": {
+    "canonical": "/serien/willkommen-bei-den-louds-19789",
+    "url": "/serien/willkommen-bei-den-louds-19789"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Willkommen bei den Louds",
+      "url": "/serien/willkommen-bei-den-louds-19789"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 19789,
+  "meta": [
+    {
+      "content": "Die Serie Willkommen bei den Louds (TOGGO plus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Willkommen bei den Louds im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Willkommen bei den Louds (TOGGO plus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/willkommen-bei-den-louds-19789"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/19789_03artwork/1600x0/willkommen-bei-den-louds.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/19789",
+      "type": "teaserrow"
+    },
+    {
+      "id": 19789,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19789",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tpnwillkommenlouds",
+      "video": "dvrsowf_ten_tpnwillkommenlouds",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/willkommen_louds/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "willkommen_louds",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Jungs",
+      "KIDS Lustig und schräg",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Willkommen bei den Louds - Informationen zur Serie",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/willkommen-bei-den-louds-19789",
+        "url": "%s/serien/willkommen-bei-den-louds-19789",
+        "name": "Willkommen bei den Louds",
+        "description": "Die Serie Willkommen bei den Louds (TOGGO plus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/19789_04metalogo/1200x0/willkommen-bei-den-louds.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Willkommen bei den Louds - Informationen zur Serie",
+        "headline": "Willkommen bei den Louds - Informationen zur Serie",
+        "description": "Die Serie Willkommen bei den Louds (TOGGO plus) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Kinder im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/willkommen-bei-den-louds-19789",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/19789_04metalogo/1200x0/willkommen-bei-den-louds.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/19789_04metalogo/1200x0/willkommen-bei-den-louds.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/19789_04metalogo/1200x0/willkommen-bei-den-louds.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Willkommen bei den Louds",
+            "item": "%s/serien/willkommen-bei-den-louds-19789"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Willkommen bei den Louds im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

@@ -1,0 +1,218 @@
+﻿{
+  "formatId": 20134,
+  "additionalMeta": {
+    "canonical": "/serien/carter-20134",
+    "url": "/serien/carter-20134"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Carter",
+      "url": "/serien/carter-20134"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 20134,
+  "meta": [
+    {
+      "content": "Die Serie Carter (TVNOW) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Crime im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Carter im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Carter (TVNOW) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Crime im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/carter-20134"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/20134_03artwork/1600x0/carter.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/20134",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/20134",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/20134",
+      "type": "teaserrow"
+    },
+    {
+      "id": 20134,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20134",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tncarter",
+      "video": "dvrsowf_ten_tncarter",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/carter/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "carter",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Crime",
+    "cluster": [],
+    "classification": [
+      "Ganze Staffel"
+    ]
+  },
+  "seo": {
+    "headline": "Carter - Informationen zur Serie",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/carter-20134",
+        "url": "%s/serien/carter-20134",
+        "name": "Carter",
+        "description": "Die Serie Carter (TVNOW) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Crime im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/20134_04metalogo/1200x0/carter.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Carter - Informationen zur Serie",
+        "headline": "Carter - Informationen zur Serie",
+        "description": "Die Serie Carter (TVNOW) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Crime im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/carter-20134",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/20134_04metalogo/1200x0/carter.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/20134_04metalogo/1200x0/carter.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/20134_04metalogo/1200x0/carter.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Carter",
+            "item": "%s/serien/carter-20134"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Carter im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

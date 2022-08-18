@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 20004,
+  "additionalMeta": {
+    "canonical": "/filme/moskau-russlands-megacity-20004",
+    "url": "/filme/moskau-russlands-megacity-20004"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Moskau - Russlands Megacity",
+      "url": "/filme/moskau-russlands-megacity-20004"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 20004,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Moskau - Russlands Megacity 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Moskau - Russlands Megacity im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Moskau - Russlands Megacity 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/moskau-russlands-megacity-20004"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4857677/1600x0/moskau-russlands-megacity.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4857677,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4857677",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20004"
+    },
+    {
+      "id": 20004,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20004",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Moskau - Russlands Megacity",
+    "text": "Moskau - 13 Millionen Menschen im Stadtgebiet und fast 20 Millionen Einwohner im Großraum machen die russische Hauptstadt zur größten Stadt Europas. Und nicht nur die Größe beeindruckt. Moskau hat sich zu einer hochmodernen Metropole entwickelt, in der ständig neue Trends, Stadtviertel und Innovationen entstehen. Die Doku begleitet Gründer, Geschäftsleute und Einwohner und zeigt die Megacity zwischen Hightech und sowjetischem Erbe.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/moskau-russlands-megacity-20004",
+        "description": "Moskau - 13 Millionen Menschen im Stadtgebiet und fast 20 Millionen Einwohner im Großraum machen die russische Hauptstadt zur größten Stadt Europas. Und nicht nur die Größe beeindruckt. Moskau hat sich zu einer hochmodernen Metropole entwickelt, in der ständig neue Trends, Stadtviertel und Innovationen entstehen. Die Doku begleitet Gründer, Geschäftsleute und Einwohner und zeigt die Megacity zwischen Hightech und sowjetischem Erbe.",
+        "duration": "PT41M47S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4857677/1200x0/moskau-russlands-megacity.jpg",
+        "name": "Moskau - Russlands Megacity",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/moskau-russlands-megacity-20004",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2022-01-17T20:15:00.000Z"
+          }
+        },
+        "url": "%s/filme/moskau-russlands-megacity-20004",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Moskau - 13 Millionen Menschen im Stadtgebiet und fast 20 Millionen Einwohner im Großraum machen die russische Hauptstadt zur größten Stadt Europas. Und nicht nur die Größe beeindruckt. Moskau hat sich zu einer hochmodernen Metropole entwickelt, in der ständig neue Trends, Stadtviertel und Innovationen entstehen. Die Doku begleitet Gründer, Geschäftsleute und Einwohner und zeigt die Megacity zwischen Hightech und sowjetischem Erbe.",
+          "duration": "PT41M47S",
+          "embedUrl": "%s/googlebot/player/filme/moskau-russlands-megacity-20004",
+          "name": "Moskau - Russlands Megacity",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4857677/1200x0/moskau-russlands-megacity.jpg",
+          "uploadDate": "2022-01-17T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Moskau - Russlands Megacity im Online Stream | RTL+",
+        "headline": "Moskau - Russlands Megacity im Online Stream | RTL+",
+        "description": "Moskau - Russlands Megacity und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/moskau-russlands-megacity-20004",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4857677/1200x0/moskau-russlands-megacity.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4857677/1200x0/moskau-russlands-megacity.jpg",
+        "datePublished": "2022-01-17T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4857677/1200x0/moskau-russlands-megacity.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Moskau - Russlands Megacity",
+            "item": "%s/filme/moskau-russlands-megacity-20004"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Moskau - Russlands Megacity im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

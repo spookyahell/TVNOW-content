@@ -1,0 +1,108 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20530",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20530,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/magic-mike-xxl-20530"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Magic Mike XXL",
+          "teaserId": "film_4781878",
+          "teaserName": "Magic Mike XXL | Magic Mike XXL",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [
+            "FILME Female",
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Magic Mike XXL"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Magic Mike XXL",
+        "id": 4781878,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4781878/300x0/magic-mike-xxl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4781878/",
+            "filename": "magic-mike-xxl"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4781878/600x0/magic-mike-xxl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4781878/",
+            "filename": "magic-mike-xxl"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4781878/1200x0/magic-mike-xxl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4781878/",
+            "filename": "magic-mike-xxl"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4781878/300x0/magic-mike-xxl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4781878/",
+            "filename": "magic-mike-xxl"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4781878/600x0/magic-mike-xxl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4781878/",
+            "filename": "magic-mike-xxl"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4781878/1200x0/magic-mike-xxl.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4781878/",
+            "filename": "magic-mike-xxl"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "magic-mike-xxl",
+        "subheadline": "Magic Mike XXL",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/magic-mike-xxl-20530",
+        "videoId": 4781878
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

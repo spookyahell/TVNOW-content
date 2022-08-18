@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19527",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19527,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/we-love-to-dance-19527"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "We Love to Dance",
+          "teaserId": "film_3952891",
+          "teaserName": "We Love to Dance | We Love to Dance",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [
+            "FILME Female"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "We Love to Dance"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "We Love to Dance",
+        "id": 3952891,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3952891/300x0/we-love-to-dance.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3952891/",
+            "filename": "we-love-to-dance"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3952891/600x0/we-love-to-dance.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3952891/",
+            "filename": "we-love-to-dance"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3952891/1200x0/we-love-to-dance.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3952891/",
+            "filename": "we-love-to-dance"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3952891/300x0/we-love-to-dance.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3952891/",
+            "filename": "we-love-to-dance"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3952891/600x0/we-love-to-dance.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3952891/",
+            "filename": "we-love-to-dance"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3952891/1200x0/we-love-to-dance.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3952891/",
+            "filename": "we-love-to-dance"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "we-love-to-dance",
+        "subheadline": "We Love to Dance",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/we-love-to-dance-19527",
+        "videoId": 3952891
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

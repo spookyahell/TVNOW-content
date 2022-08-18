@@ -21,7 +21,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/filme/kinder-in-der-corona-krise-18619"
           }
@@ -30,13 +30,15 @@
           "teaserFormatName": "Kinder in der Corona-Krise",
           "teaserId": "film_3152046",
           "teaserName": "Kinder in der Corona-Krise | Kinder in der Corona Krise",
-          "teaserPayType": "free",
+          "teaserPayType": "paid",
           "teaserType": "film",
           "teaserGenre": "Dokumentation",
           "cluster": [
             "Wissen"
           ],
-          "classification": []
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL.DE DOKU",
+          "teaserEpisodeName": "Kinder in der Corona Krise"
         },
         "fsk": {
           "isVisible": false,
@@ -85,7 +87,7 @@
             "filename": "kinder-in-der-corona-krise"
           }
         ],
-        "isPremium": false,
+        "isPremium": true,
         "overlays": [
           "premium"
         ],

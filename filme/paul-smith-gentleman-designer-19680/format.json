@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19680,
+  "additionalMeta": {
+    "canonical": "/filme/paul-smith-gentleman-designer-19680",
+    "url": "/filme/paul-smith-gentleman-designer-19680"
+  },
+  "ads": {
+    "station": "living",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Paul Smith, Gentleman Designer",
+      "url": "/filme/paul-smith-gentleman-designer-19680"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19680,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Paul Smith, Gentleman Designer 📺 und viele weitere ▶ Filme aus dem Genre Lifestyle findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Paul Smith, Gentleman Designer im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Paul Smith, Gentleman Designer 📺 und viele weitere ▶ Filme aus dem Genre Lifestyle findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/paul-smith-gentleman-designer-19680"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4113767/1600x0/paul-smith-gentleman-designer.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4113767,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4113767",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19680"
+    },
+    {
+      "id": 19680,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19680",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/living_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "living_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Lifestyle",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Paul Smith, Gentleman Designer",
+    "text": "Seit 40 Jahren kreiert Paul Smith elegante Herrenmode für die internationale Rock- und Politprominenz. In seinem Atelier besuchen ihn Stars von Mick Jagger bis Tony Blair. Sein Stil: \"classic with a twist\". Sein Erfolg: höhere Verkaufszahlen als Chanel. Die Dokumentation gibt Einblicke in den Schaffensprozess des Designers und zeigt: Paul Smith beherrscht die Spielregeln der Modeindustrie perfekt - und das stets mit einem Lächeln auf den Lippen. ",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/paul-smith-gentleman-designer-19680",
+        "description": "Seit 40 Jahren kreiert Paul Smith elegante Herrenmode für die internationale Rock- und Politprominenz. In seinem Atelier besuchen ihn Stars von Mick Jagger bis Tony Blair. Sein Stil: \"classic with a twist\". Sein Erfolg: höhere Verkaufszahlen als Chanel. Die Dokumentation gibt Einblicke in den Schaffensprozess des Designers und zeigt: Paul Smith beherrscht die Spielregeln der Modeindustrie perfekt - und das stets mit einem Lächeln auf den Lippen. ",
+        "duration": "PT55M6S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4113767/1200x0/paul-smith-gentleman-designer.jpg",
+        "name": "Paul Smith, Gentleman Designer",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/paul-smith-gentleman-designer-19680",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-01-19T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=paul-smith-gentleman-designer-19680",
+              "sameAs": "%s/premium?typ=format&formatname=paul-smith-gentleman-designer-19680",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/paul-smith-gentleman-designer-19680",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Seit 40 Jahren kreiert Paul Smith elegante Herrenmode für die internationale Rock- und Politprominenz. In seinem Atelier besuchen ihn Stars von Mick Jagger bis Tony Blair. Sein Stil: \"classic with a twist\". Sein Erfolg: höhere Verkaufszahlen als Chanel. Die Dokumentation gibt Einblicke in den Schaffensprozess des Designers und zeigt: Paul Smith beherrscht die Spielregeln der Modeindustrie perfekt - und das stets mit einem Lächeln auf den Lippen. ",
+          "duration": "PT55M6S",
+          "embedUrl": "%s/googlebot/player/filme/paul-smith-gentleman-designer-19680",
+          "name": "Paul Smith, Gentleman Designer",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4113767/1200x0/paul-smith-gentleman-designer.jpg",
+          "uploadDate": "2022-01-19T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Paul Smith, Gentleman Designer im Online Stream | RTL+",
+        "headline": "Paul Smith, Gentleman Designer im Online Stream | RTL+",
+        "description": "Paul Smith, Gentleman Designer und viele weitere  ▶️Filme aus dem Genre Lifestyle findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/paul-smith-gentleman-designer-19680",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4113767/1200x0/paul-smith-gentleman-designer.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4113767/1200x0/paul-smith-gentleman-designer.jpg",
+        "datePublished": "2022-01-19T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4113767/1200x0/paul-smith-gentleman-designer.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Paul Smith, Gentleman Designer",
+            "item": "%s/filme/paul-smith-gentleman-designer-19680"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Paul Smith, Gentleman Designer im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

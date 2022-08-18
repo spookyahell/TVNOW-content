@@ -3,7 +3,7 @@
     "ecommerce": {
       "rowCategory": "small_teaser",
       "rowId": "na",
-      "rowName": "Staffel 1"
+      "rowName": "Staffel 2022, Monat 8"
     },
     "id": null,
     "label": null,
@@ -21,125 +21,15 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
-            "url": "/serien/grizzy-die-lemminge-18020/staffel-1/episode-24-ein-suesser-elch-ein-baerenstarkes-spiel-grizzy-der-puppenspieler-3459579"
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-21-durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung-4942235"
           }
         ],
         "ecommerce": {
           "teaserFormatName": "Grizzy & die Lemminge",
-          "teaserId": "serie_episode_3459579",
-          "teaserName": "Grizzy & die Lemminge | Staffel 1 | Folge 24 | Ein süßer Elch! / Ein bärenstarkes Spiel / Grizzy, der Puppenspieler",
-          "teaserPayType": "free",
-          "teaserType": "serie_episode",
-          "teaserGenre": "Kinder",
-          "cluster": [
-            "KIDS 6 bis 10 Jahre",
-            "KIDS Jungs",
-            "KIDS Mädchen",
-            "Kids"
-          ],
-          "classification": [],
-          "teaserSeason": "Staffel 1",
-          "teaserEpisodeNumber": "Folge 24",
-          "teaserEpisodeAirtime": "So. 11.10.2020, 11:00 Uhr",
-          "teaserEpisodeName": "Ein süßer Elch! / Ein bärenstarkes Spiel / Grizzy, der Puppenspieler"
-        },
-        "fsk": {
-          "isVisible": false,
-          "label": "ab 0",
-          "minAge": 0
-        },
-        "headline": "Ein süßer Elch! / Ein bärenstarkes Spiel / Grizzy, der Puppenspieler",
-        "id": 3459579,
-        "images": [
-          {
-            "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3459579/300x0/ein-suesser-elch-ein-baerenstarkes-spiel-grizzy-der-puppenspieler.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3459579/",
-            "filename": "ein-suesser-elch-ein-baerenstarkes-spiel-grizzy-der-puppenspieler"
-          },
-          {
-            "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3459579/600x0/ein-suesser-elch-ein-baerenstarkes-spiel-grizzy-der-puppenspieler.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3459579/",
-            "filename": "ein-suesser-elch-ein-baerenstarkes-spiel-grizzy-der-puppenspieler"
-          },
-          {
-            "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3459579/1200x0/ein-suesser-elch-ein-baerenstarkes-spiel-grizzy-der-puppenspieler.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3459579/",
-            "filename": "ein-suesser-elch-ein-baerenstarkes-spiel-grizzy-der-puppenspieler"
-          }
-        ],
-        "imagesHover": [
-          {
-            "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3459579/300x0/ein-suesser-elch-ein-baerenstarkes-spiel-grizzy-der-puppenspieler.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3459579/",
-            "filename": "ein-suesser-elch-ein-baerenstarkes-spiel-grizzy-der-puppenspieler"
-          },
-          {
-            "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3459579/600x0/ein-suesser-elch-ein-baerenstarkes-spiel-grizzy-der-puppenspieler.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3459579/",
-            "filename": "ein-suesser-elch-ein-baerenstarkes-spiel-grizzy-der-puppenspieler"
-          },
-          {
-            "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3459579/1200x0/ein-suesser-elch-ein-baerenstarkes-spiel-grizzy-der-puppenspieler.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3459579/",
-            "filename": "ein-suesser-elch-ein-baerenstarkes-spiel-grizzy-der-puppenspieler"
-          }
-        ],
-        "isPremium": false,
-        "overlays": [
-          "premium"
-        ],
-        "seoUrl": "grizzy-die-lemminge",
-        "subheadline": "Ein süßer Elch! / Ein bärenstarkes Spiel / Grizzy, der Puppenspieler",
-        "text": "Staffel 1, Folge 24 | So. 11.10.2020, 11:00 Uhr",
-        "type": "serie",
-        "url": "/serien/grizzy-die-lemminge-18020/staffel-1/episode-24-ein-suesser-elch-ein-baerenstarkes-spiel-grizzy-der-puppenspieler-3459579",
-        "videoId": 3459579
-      }
-    ],
-    "format_navigation": {
-      "season": 1
-    },
-    "navigationType": "season"
-  },
-  {
-    "ecommerce": {
-      "rowCategory": "small_teaser",
-      "rowId": "na",
-      "rowName": "Staffel 2"
-    },
-    "id": null,
-    "label": null,
-    "moduleLayout": "format_episode",
-    "moduleUrl": "/module/teaserrow/format/episode/18020",
-    "type": "teaserrow",
-    "items": [
-      {
-        "buttons": [
-          {
-            "display": true,
-            "formatId": 18020,
-            "text": null,
-            "type": "favorites"
-          },
-          {
-            "display": true,
-            "text": "Jetzt ansehen",
-            "type": "play",
-            "url": "/serien/grizzy-die-lemminge-18020/staffel-2/episode-6-brauner-baer-felliges-fechten-das-flugboard-3462676"
-          }
-        ],
-        "ecommerce": {
-          "teaserFormatName": "Grizzy & die Lemminge",
-          "teaserId": "serie_episode_3462676",
-          "teaserName": "Grizzy & die Lemminge | Staffel 2 | Folge 6 | Brauner Bär / Felliges Fechten / Das Flugboard",
+          "teaserId": "serie_episode_4942235",
+          "teaserName": "Grizzy & die Lemminge | Staffel 2 | Folge 21 | Durch die Nordlichter / Tick Tack Bär / Träume auf Bestellung",
           "teaserPayType": "free",
           "teaserType": "serie_episode",
           "teaserGenre": "Kinder",
@@ -151,55 +41,55 @@
           ],
           "classification": [],
           "teaserSeason": "Staffel 2",
-          "teaserEpisodeNumber": "Folge 6",
-          "teaserEpisodeAirtime": "Mi. 14.10.2020, 10:25 Uhr",
-          "teaserEpisodeName": "Brauner Bär / Felliges Fechten / Das Flugboard"
+          "teaserEpisodeNumber": "Folge 21",
+          "teaserEpisodeAirtime": "Di. 16.08.2022, 17:30 Uhr",
+          "teaserEpisodeName": "Durch die Nordlichter / Tick Tack Bär / Träume auf Bestellung"
         },
         "fsk": {
           "isVisible": false,
           "label": "ab 0",
           "minAge": 0
         },
-        "headline": "Brauner Bär / Felliges Fechten / Das Flugboard",
-        "id": 3462676,
+        "headline": "Durch die Nordlichter / Tick Tack Bär / Träume auf Bestellung",
+        "id": 4942235,
         "images": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462676/300x0/brauner-baer-felliges-fechten-das-flugboard.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462676/",
-            "filename": "brauner-baer-felliges-fechten-das-flugboard"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4942235/300x0/durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4942235/",
+            "filename": "durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462676/600x0/brauner-baer-felliges-fechten-das-flugboard.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462676/",
-            "filename": "brauner-baer-felliges-fechten-das-flugboard"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4942235/600x0/durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4942235/",
+            "filename": "durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462676/1200x0/brauner-baer-felliges-fechten-das-flugboard.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462676/",
-            "filename": "brauner-baer-felliges-fechten-das-flugboard"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4942235/1200x0/durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4942235/",
+            "filename": "durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung"
           }
         ],
         "imagesHover": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462676/300x0/brauner-baer-felliges-fechten-das-flugboard.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462676/",
-            "filename": "brauner-baer-felliges-fechten-das-flugboard"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4942235/300x0/durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4942235/",
+            "filename": "durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462676/600x0/brauner-baer-felliges-fechten-das-flugboard.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462676/",
-            "filename": "brauner-baer-felliges-fechten-das-flugboard"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4942235/600x0/durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4942235/",
+            "filename": "durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462676/1200x0/brauner-baer-felliges-fechten-das-flugboard.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462676/",
-            "filename": "brauner-baer-felliges-fechten-das-flugboard"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4942235/1200x0/durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4942235/",
+            "filename": "durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung"
           }
         ],
         "isPremium": false,
@@ -207,11 +97,11 @@
           "premium"
         ],
         "seoUrl": "grizzy-die-lemminge",
-        "subheadline": "Brauner Bär / Felliges Fechten / Das Flugboard",
-        "text": "Staffel 2, Folge 6 | Mi. 14.10.2020, 10:25 Uhr",
+        "subheadline": "Durch die Nordlichter / Tick Tack Bär / Träume auf Bestellung",
+        "text": "Staffel 2, Folge 21 | Di. 16.08.2022, 17:30 Uhr",
         "type": "serie",
-        "url": "/serien/grizzy-die-lemminge-18020/staffel-2/episode-6-brauner-baer-felliges-fechten-das-flugboard-3462676",
-        "videoId": 3462676
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-21-durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung-4942235",
+        "videoId": 4942235
       },
       {
         "buttons": [
@@ -223,15 +113,15 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
-            "url": "/serien/grizzy-die-lemminge-18020/staffel-2/episode-9-lemminge-und-fledermaeuse-apps-in-echt-wie-gedruckt-3462672"
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-20-haus-in-gefahr-monster-pflanze-die-zieluebung-4918330"
           }
         ],
         "ecommerce": {
           "teaserFormatName": "Grizzy & die Lemminge",
-          "teaserId": "serie_episode_3462672",
-          "teaserName": "Grizzy & die Lemminge | Staffel 2 | Folge 9 | Lemminge und Fledermäuse / Apps in Echt / Wie gedruckt",
+          "teaserId": "serie_episode_4918330",
+          "teaserName": "Grizzy & die Lemminge | Staffel 2 | Folge 20 | Haus in Gefahr / Monster-Pflanze / Die Zielübung",
           "teaserPayType": "free",
           "teaserType": "serie_episode",
           "teaserGenre": "Kinder",
@@ -243,55 +133,1527 @@
           ],
           "classification": [],
           "teaserSeason": "Staffel 2",
+          "teaserEpisodeNumber": "Folge 20",
+          "teaserEpisodeAirtime": "Mo. 15.08.2022, 17:30 Uhr",
+          "teaserEpisodeName": "Haus in Gefahr / Monster-Pflanze / Die Zielübung"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Haus in Gefahr / Monster-Pflanze / Die Zielübung",
+        "id": 4918330,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918330/300x0/haus-in-gefahr-monster-pflanze-die-zieluebung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918330/",
+            "filename": "haus-in-gefahr-monster-pflanze-die-zieluebung"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918330/600x0/haus-in-gefahr-monster-pflanze-die-zieluebung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918330/",
+            "filename": "haus-in-gefahr-monster-pflanze-die-zieluebung"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918330/1200x0/haus-in-gefahr-monster-pflanze-die-zieluebung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918330/",
+            "filename": "haus-in-gefahr-monster-pflanze-die-zieluebung"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918330/300x0/haus-in-gefahr-monster-pflanze-die-zieluebung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918330/",
+            "filename": "haus-in-gefahr-monster-pflanze-die-zieluebung"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918330/600x0/haus-in-gefahr-monster-pflanze-die-zieluebung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918330/",
+            "filename": "haus-in-gefahr-monster-pflanze-die-zieluebung"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918330/1200x0/haus-in-gefahr-monster-pflanze-die-zieluebung.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918330/",
+            "filename": "haus-in-gefahr-monster-pflanze-die-zieluebung"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Haus in Gefahr / Monster-Pflanze / Die Zielübung",
+        "text": "Staffel 2, Folge 20 | Mo. 15.08.2022, 17:30 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-20-haus-in-gefahr-monster-pflanze-die-zieluebung-4918330",
+        "videoId": 4918330
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-26-hulk-oder-lemming-baerenstarke-vorfahren-hocus-pocus-lemmingus-4918332"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918332",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 26 | Hulk oder Lemming? / Bärenstarke Vorfahren / Hocus Pocus Lemmingus",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 26",
+          "teaserEpisodeAirtime": "Mo. 15.08.2022, 10:20 Uhr",
+          "teaserEpisodeName": "Hulk oder Lemming? / Bärenstarke Vorfahren / Hocus Pocus Lemmingus"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Hulk oder Lemming? / Bärenstarke Vorfahren / Hocus Pocus Lemmingus",
+        "id": 4918332,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918332/300x0/hulk-oder-lemming-baerenstarke-vorfahren-hocus-pocus-lemmingus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918332/",
+            "filename": "hulk-oder-lemming-baerenstarke-vorfahren-hocus-pocus-lemmingus"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918332/600x0/hulk-oder-lemming-baerenstarke-vorfahren-hocus-pocus-lemmingus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918332/",
+            "filename": "hulk-oder-lemming-baerenstarke-vorfahren-hocus-pocus-lemmingus"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918332/1200x0/hulk-oder-lemming-baerenstarke-vorfahren-hocus-pocus-lemmingus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918332/",
+            "filename": "hulk-oder-lemming-baerenstarke-vorfahren-hocus-pocus-lemmingus"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918332/300x0/hulk-oder-lemming-baerenstarke-vorfahren-hocus-pocus-lemmingus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918332/",
+            "filename": "hulk-oder-lemming-baerenstarke-vorfahren-hocus-pocus-lemmingus"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918332/600x0/hulk-oder-lemming-baerenstarke-vorfahren-hocus-pocus-lemmingus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918332/",
+            "filename": "hulk-oder-lemming-baerenstarke-vorfahren-hocus-pocus-lemmingus"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918332/1200x0/hulk-oder-lemming-baerenstarke-vorfahren-hocus-pocus-lemmingus.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918332/",
+            "filename": "hulk-oder-lemming-baerenstarke-vorfahren-hocus-pocus-lemmingus"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Hulk oder Lemming? / Bärenstarke Vorfahren / Hocus Pocus Lemmingus",
+        "text": "Staffel 3, Folge 26 | Mo. 15.08.2022, 10:20 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-26-hulk-oder-lemming-baerenstarke-vorfahren-hocus-pocus-lemmingus-4918332",
+        "videoId": 4918332
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-1-glueck-und-pech-4896624"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4896624",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 1 | Glück und Pech",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 1",
+          "teaserEpisodeAirtime": "Mo. 15.08.2022, 10:10 Uhr",
+          "teaserEpisodeName": "Glück und Pech"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Glück und Pech",
+        "id": 4896624,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4896624/300x0/glueck-und-pech.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4896624/",
+            "filename": "glueck-und-pech"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4896624/600x0/glueck-und-pech.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4896624/",
+            "filename": "glueck-und-pech"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4896624/1200x0/glueck-und-pech.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4896624/",
+            "filename": "glueck-und-pech"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4896624/300x0/glueck-und-pech.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4896624/",
+            "filename": "glueck-und-pech"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4896624/600x0/glueck-und-pech.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4896624/",
+            "filename": "glueck-und-pech"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4896624/1200x0/glueck-und-pech.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4896624/",
+            "filename": "glueck-und-pech"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Glück und Pech",
+        "text": "Staffel 3, Folge 1 | Mo. 15.08.2022, 10:10 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-1-glueck-und-pech-4896624",
+        "videoId": 4896624
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-52-in-deinen-traeumen-4918309"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918309",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 52 | In deinen Träumen",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 52",
+          "teaserEpisodeAirtime": "Mo. 15.08.2022, 10:05 Uhr",
+          "teaserEpisodeName": "In deinen Träumen"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "In deinen Träumen",
+        "id": 4918309,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918309/300x0/in-deinen-traeumen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918309/",
+            "filename": "in-deinen-traeumen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918309/600x0/in-deinen-traeumen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918309/",
+            "filename": "in-deinen-traeumen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918309/1200x0/in-deinen-traeumen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918309/",
+            "filename": "in-deinen-traeumen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918309/300x0/in-deinen-traeumen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918309/",
+            "filename": "in-deinen-traeumen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918309/600x0/in-deinen-traeumen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918309/",
+            "filename": "in-deinen-traeumen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918309/1200x0/in-deinen-traeumen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918309/",
+            "filename": "in-deinen-traeumen"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "In deinen Träumen",
+        "text": "Staffel 3, Folge 52 | Mo. 15.08.2022, 10:05 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-52-in-deinen-traeumen-4918309",
+        "videoId": 4918309
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-45-super-spuernase-4918280"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918280",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 45 | Super Spürnase",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 45",
+          "teaserEpisodeAirtime": "Mo. 15.08.2022, 10:00 Uhr",
+          "teaserEpisodeName": "Super Spürnase"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Super Spürnase",
+        "id": 4918280,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918280/300x0/super-spuernase.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918280/",
+            "filename": "super-spuernase"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918280/600x0/super-spuernase.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918280/",
+            "filename": "super-spuernase"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918280/1200x0/super-spuernase.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918280/",
+            "filename": "super-spuernase"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918280/300x0/super-spuernase.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918280/",
+            "filename": "super-spuernase"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918280/600x0/super-spuernase.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918280/",
+            "filename": "super-spuernase"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918280/1200x0/super-spuernase.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918280/",
+            "filename": "super-spuernase"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Super Spürnase",
+        "text": "Staffel 3, Folge 45 | Mo. 15.08.2022, 10:00 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-45-super-spuernase-4918280",
+        "videoId": 4918280
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-44-fuer-die-erdnuesse-4918312"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918312",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 44 | Für die Erdnüsse",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 44",
+          "teaserEpisodeAirtime": "Mo. 15.08.2022, 09:50 Uhr",
+          "teaserEpisodeName": "Für die Erdnüsse"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Für die Erdnüsse",
+        "id": 4918312,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918312/300x0/fuer-die-erdnuesse.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918312/",
+            "filename": "fuer-die-erdnuesse"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918312/600x0/fuer-die-erdnuesse.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918312/",
+            "filename": "fuer-die-erdnuesse"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918312/1200x0/fuer-die-erdnuesse.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918312/",
+            "filename": "fuer-die-erdnuesse"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918312/300x0/fuer-die-erdnuesse.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918312/",
+            "filename": "fuer-die-erdnuesse"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918312/600x0/fuer-die-erdnuesse.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918312/",
+            "filename": "fuer-die-erdnuesse"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918312/1200x0/fuer-die-erdnuesse.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918312/",
+            "filename": "fuer-die-erdnuesse"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Für die Erdnüsse",
+        "text": "Staffel 3, Folge 44 | Mo. 15.08.2022, 09:50 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-44-fuer-die-erdnuesse-4918312",
+        "videoId": 4918312
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-43-winzige-probleme-4918315"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918315",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 43 | Winzige Probleme",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 43",
+          "teaserEpisodeAirtime": "Mo. 15.08.2022, 09:45 Uhr",
+          "teaserEpisodeName": "Winzige Probleme"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Winzige Probleme",
+        "id": 4918315,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918315/300x0/winzige-probleme.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918315/",
+            "filename": "winzige-probleme"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918315/600x0/winzige-probleme.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918315/",
+            "filename": "winzige-probleme"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918315/1200x0/winzige-probleme.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918315/",
+            "filename": "winzige-probleme"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918315/300x0/winzige-probleme.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918315/",
+            "filename": "winzige-probleme"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918315/600x0/winzige-probleme.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918315/",
+            "filename": "winzige-probleme"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918315/1200x0/winzige-probleme.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918315/",
+            "filename": "winzige-probleme"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Winzige Probleme",
+        "text": "Staffel 3, Folge 43 | Mo. 15.08.2022, 09:45 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-43-winzige-probleme-4918315",
+        "videoId": 4918315
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-36-mein-freund-der-pinguin-4918295"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918295",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 36 | Mein Freund der Pinguin",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 36",
+          "teaserEpisodeAirtime": "Mo. 15.08.2022, 09:35 Uhr",
+          "teaserEpisodeName": "Mein Freund der Pinguin"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Mein Freund der Pinguin",
+        "id": 4918295,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918295/300x0/mein-freund-der-pinguin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918295/",
+            "filename": "mein-freund-der-pinguin"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918295/600x0/mein-freund-der-pinguin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918295/",
+            "filename": "mein-freund-der-pinguin"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918295/1200x0/mein-freund-der-pinguin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918295/",
+            "filename": "mein-freund-der-pinguin"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918295/300x0/mein-freund-der-pinguin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918295/",
+            "filename": "mein-freund-der-pinguin"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918295/600x0/mein-freund-der-pinguin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918295/",
+            "filename": "mein-freund-der-pinguin"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918295/1200x0/mein-freund-der-pinguin.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918295/",
+            "filename": "mein-freund-der-pinguin"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Mein Freund der Pinguin",
+        "text": "Staffel 3, Folge 36 | Mo. 15.08.2022, 09:35 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-36-mein-freund-der-pinguin-4918295",
+        "videoId": 4918295
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-35-superstar-antarktika-4918310"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918310",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 35 | Superstar Antarktika",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 35",
+          "teaserEpisodeAirtime": "Mo. 15.08.2022, 09:30 Uhr",
+          "teaserEpisodeName": "Superstar Antarktika"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Superstar Antarktika",
+        "id": 4918310,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918310/300x0/superstar-antarktika.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918310/",
+            "filename": "superstar-antarktika"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918310/600x0/superstar-antarktika.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918310/",
+            "filename": "superstar-antarktika"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918310/1200x0/superstar-antarktika.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918310/",
+            "filename": "superstar-antarktika"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918310/300x0/superstar-antarktika.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918310/",
+            "filename": "superstar-antarktika"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918310/600x0/superstar-antarktika.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918310/",
+            "filename": "superstar-antarktika"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918310/1200x0/superstar-antarktika.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918310/",
+            "filename": "superstar-antarktika"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Superstar Antarktika",
+        "text": "Staffel 3, Folge 35 | Mo. 15.08.2022, 09:30 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-35-superstar-antarktika-4918310",
+        "videoId": 4918310
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-34-lemming-karussell-4918291"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918291",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 34 | Lemming-Karussell",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 34",
+          "teaserEpisodeAirtime": "Mo. 15.08.2022, 09:25 Uhr",
+          "teaserEpisodeName": "Lemming-Karussell"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Lemming-Karussell",
+        "id": 4918291,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918291/300x0/lemming-karussell.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918291/",
+            "filename": "lemming-karussell"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918291/600x0/lemming-karussell.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918291/",
+            "filename": "lemming-karussell"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918291/1200x0/lemming-karussell.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918291/",
+            "filename": "lemming-karussell"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918291/300x0/lemming-karussell.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918291/",
+            "filename": "lemming-karussell"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918291/600x0/lemming-karussell.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918291/",
+            "filename": "lemming-karussell"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918291/1200x0/lemming-karussell.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918291/",
+            "filename": "lemming-karussell"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Lemming-Karussell",
+        "text": "Staffel 3, Folge 34 | Mo. 15.08.2022, 09:25 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-34-lemming-karussell-4918291",
+        "videoId": 4918291
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-27-ploetzlich-babysitter-4918298"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918298",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 27 | Plötzlich Babysitter",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 27",
+          "teaserEpisodeAirtime": "Mo. 15.08.2022, 09:10 Uhr",
+          "teaserEpisodeName": "Plötzlich Babysitter"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Plötzlich Babysitter",
+        "id": 4918298,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918298/300x0/ploetzlich-babysitter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918298/",
+            "filename": "ploetzlich-babysitter"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918298/600x0/ploetzlich-babysitter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918298/",
+            "filename": "ploetzlich-babysitter"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918298/1200x0/ploetzlich-babysitter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918298/",
+            "filename": "ploetzlich-babysitter"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918298/300x0/ploetzlich-babysitter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918298/",
+            "filename": "ploetzlich-babysitter"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918298/600x0/ploetzlich-babysitter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918298/",
+            "filename": "ploetzlich-babysitter"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918298/1200x0/ploetzlich-babysitter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918298/",
+            "filename": "ploetzlich-babysitter"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Plötzlich Babysitter",
+        "text": "Staffel 3, Folge 27 | Mo. 15.08.2022, 09:10 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-27-ploetzlich-babysitter-4918298",
+        "videoId": 4918298
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-26-gelb-gegen-rot-4918304"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918304",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 26 | Gelb gegen Rot",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 26",
+          "teaserEpisodeAirtime": "Mo. 15.08.2022, 09:00 Uhr",
+          "teaserEpisodeName": "Gelb gegen Rot"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Gelb gegen Rot",
+        "id": 4918304,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918304/300x0/gelb-gegen-rot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918304/",
+            "filename": "gelb-gegen-rot"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918304/600x0/gelb-gegen-rot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918304/",
+            "filename": "gelb-gegen-rot"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918304/1200x0/gelb-gegen-rot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918304/",
+            "filename": "gelb-gegen-rot"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918304/300x0/gelb-gegen-rot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918304/",
+            "filename": "gelb-gegen-rot"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918304/600x0/gelb-gegen-rot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918304/",
+            "filename": "gelb-gegen-rot"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918304/1200x0/gelb-gegen-rot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918304/",
+            "filename": "gelb-gegen-rot"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Gelb gegen Rot",
+        "text": "Staffel 3, Folge 26 | Mo. 15.08.2022, 09:00 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-26-gelb-gegen-rot-4918304",
+        "videoId": 4918304
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-25-krabben-handlanger-4918314"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918314",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 25 | Krabben-Handlanger",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 25",
+          "teaserEpisodeAirtime": "Mo. 15.08.2022, 08:55 Uhr",
+          "teaserEpisodeName": "Krabben-Handlanger"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Krabben-Handlanger",
+        "id": 4918314,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918314/300x0/krabben-handlanger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918314/",
+            "filename": "krabben-handlanger"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918314/600x0/krabben-handlanger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918314/",
+            "filename": "krabben-handlanger"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918314/1200x0/krabben-handlanger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918314/",
+            "filename": "krabben-handlanger"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918314/300x0/krabben-handlanger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918314/",
+            "filename": "krabben-handlanger"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918314/600x0/krabben-handlanger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918314/",
+            "filename": "krabben-handlanger"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918314/1200x0/krabben-handlanger.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918314/",
+            "filename": "krabben-handlanger"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Krabben-Handlanger",
+        "text": "Staffel 3, Folge 25 | Mo. 15.08.2022, 08:55 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-25-krabben-handlanger-4918314",
+        "videoId": 4918314
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-18-verfolgung-zu-boot-4918307"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918307",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 18 | Verfolgung zu Boot",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 18",
+          "teaserEpisodeAirtime": "Mo. 15.08.2022, 08:40 Uhr",
+          "teaserEpisodeName": "Verfolgung zu Boot"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Verfolgung zu Boot",
+        "id": 4918307,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918307/300x0/verfolgung-zu-boot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918307/",
+            "filename": "verfolgung-zu-boot"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918307/600x0/verfolgung-zu-boot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918307/",
+            "filename": "verfolgung-zu-boot"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918307/1200x0/verfolgung-zu-boot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918307/",
+            "filename": "verfolgung-zu-boot"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918307/300x0/verfolgung-zu-boot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918307/",
+            "filename": "verfolgung-zu-boot"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918307/600x0/verfolgung-zu-boot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918307/",
+            "filename": "verfolgung-zu-boot"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918307/1200x0/verfolgung-zu-boot.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918307/",
+            "filename": "verfolgung-zu-boot"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Verfolgung zu Boot",
+        "text": "Staffel 3, Folge 18 | Mo. 15.08.2022, 08:40 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-18-verfolgung-zu-boot-4918307",
+        "videoId": 4918307
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-17-die-schokocreme-piraten-4918302"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918302",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 17 | Die Schokocreme-Piraten",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 17",
+          "teaserEpisodeAirtime": "Mo. 15.08.2022, 08:35 Uhr",
+          "teaserEpisodeName": "Die Schokocreme-Piraten"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Schokocreme-Piraten",
+        "id": 4918302,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918302/300x0/die-schokocreme-piraten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918302/",
+            "filename": "die-schokocreme-piraten"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918302/600x0/die-schokocreme-piraten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918302/",
+            "filename": "die-schokocreme-piraten"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918302/1200x0/die-schokocreme-piraten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918302/",
+            "filename": "die-schokocreme-piraten"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918302/300x0/die-schokocreme-piraten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918302/",
+            "filename": "die-schokocreme-piraten"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918302/600x0/die-schokocreme-piraten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918302/",
+            "filename": "die-schokocreme-piraten"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918302/1200x0/die-schokocreme-piraten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918302/",
+            "filename": "die-schokocreme-piraten"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Die Schokocreme-Piraten",
+        "text": "Staffel 3, Folge 17 | Mo. 15.08.2022, 08:35 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-17-die-schokocreme-piraten-4918302",
+        "videoId": 4918302
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-16-angeln-im-flug-4918306"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918306",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 16 | Angeln im Flug",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 16",
+          "teaserEpisodeAirtime": "Mo. 15.08.2022, 08:25 Uhr",
+          "teaserEpisodeName": "Angeln im Flug"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Angeln im Flug",
+        "id": 4918306,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918306/300x0/angeln-im-flug.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918306/",
+            "filename": "angeln-im-flug"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918306/600x0/angeln-im-flug.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918306/",
+            "filename": "angeln-im-flug"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918306/1200x0/angeln-im-flug.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918306/",
+            "filename": "angeln-im-flug"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918306/300x0/angeln-im-flug.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918306/",
+            "filename": "angeln-im-flug"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918306/600x0/angeln-im-flug.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918306/",
+            "filename": "angeln-im-flug"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918306/1200x0/angeln-im-flug.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918306/",
+            "filename": "angeln-im-flug"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Angeln im Flug",
+        "text": "Staffel 3, Folge 16 | Mo. 15.08.2022, 08:25 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-16-angeln-im-flug-4918306",
+        "videoId": 4918306
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-9-baer-in-den-wolken-4918303"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918303",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 9 | Bär in den Wolken",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
           "teaserEpisodeNumber": "Folge 9",
-          "teaserEpisodeAirtime": "Mi. 14.10.2020, 10:50 Uhr",
-          "teaserEpisodeName": "Lemminge und Fledermäuse / Apps in Echt / Wie gedruckt"
+          "teaserEpisodeAirtime": "Mo. 15.08.2022, 08:15 Uhr",
+          "teaserEpisodeName": "Bär in den Wolken"
         },
         "fsk": {
           "isVisible": false,
           "label": "ab 0",
           "minAge": 0
         },
-        "headline": "Lemminge und Fledermäuse / Apps in Echt / Wie gedruckt",
-        "id": 3462672,
+        "headline": "Bär in den Wolken",
+        "id": 4918303,
         "images": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462672/300x0/lemminge-und-fledermaeuse-apps-in-echt-wie-gedruckt.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462672/",
-            "filename": "lemminge-und-fledermaeuse-apps-in-echt-wie-gedruckt"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918303/300x0/baer-in-den-wolken.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918303/",
+            "filename": "baer-in-den-wolken"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462672/600x0/lemminge-und-fledermaeuse-apps-in-echt-wie-gedruckt.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462672/",
-            "filename": "lemminge-und-fledermaeuse-apps-in-echt-wie-gedruckt"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918303/600x0/baer-in-den-wolken.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918303/",
+            "filename": "baer-in-den-wolken"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462672/1200x0/lemminge-und-fledermaeuse-apps-in-echt-wie-gedruckt.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462672/",
-            "filename": "lemminge-und-fledermaeuse-apps-in-echt-wie-gedruckt"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918303/1200x0/baer-in-den-wolken.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918303/",
+            "filename": "baer-in-den-wolken"
           }
         ],
         "imagesHover": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462672/300x0/lemminge-und-fledermaeuse-apps-in-echt-wie-gedruckt.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462672/",
-            "filename": "lemminge-und-fledermaeuse-apps-in-echt-wie-gedruckt"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918303/300x0/baer-in-den-wolken.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918303/",
+            "filename": "baer-in-den-wolken"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462672/600x0/lemminge-und-fledermaeuse-apps-in-echt-wie-gedruckt.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462672/",
-            "filename": "lemminge-und-fledermaeuse-apps-in-echt-wie-gedruckt"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918303/600x0/baer-in-den-wolken.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918303/",
+            "filename": "baer-in-den-wolken"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462672/1200x0/lemminge-und-fledermaeuse-apps-in-echt-wie-gedruckt.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462672/",
-            "filename": "lemminge-und-fledermaeuse-apps-in-echt-wie-gedruckt"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918303/1200x0/baer-in-den-wolken.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918303/",
+            "filename": "baer-in-den-wolken"
           }
         ],
         "isPremium": false,
@@ -299,11 +1661,11 @@
           "premium"
         ],
         "seoUrl": "grizzy-die-lemminge",
-        "subheadline": "Lemminge und Fledermäuse / Apps in Echt / Wie gedruckt",
-        "text": "Staffel 2, Folge 9 | Mi. 14.10.2020, 10:50 Uhr",
+        "subheadline": "Bär in den Wolken",
+        "text": "Staffel 3, Folge 9 | Mo. 15.08.2022, 08:15 Uhr",
         "type": "serie",
-        "url": "/serien/grizzy-die-lemminge-18020/staffel-2/episode-9-lemminge-und-fledermaeuse-apps-in-echt-wie-gedruckt-3462672",
-        "videoId": 3462672
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-9-baer-in-den-wolken-4918303",
+        "videoId": 4918303
       },
       {
         "buttons": [
@@ -315,15 +1677,107 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
-            "url": "/serien/grizzy-die-lemminge-18020/staffel-2/episode-12-wilder-spielspass-virtuelle-wirklichkeit-der-flaschengeist-3462689"
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-8-bambusbauten-4918305"
           }
         ],
         "ecommerce": {
           "teaserFormatName": "Grizzy & die Lemminge",
-          "teaserId": "serie_episode_3462689",
-          "teaserName": "Grizzy & die Lemminge | Staffel 2 | Folge 12 | Wilder Spielspaß / Virtuelle Wirklichkeit / Der Flaschengeist",
+          "teaserId": "serie_episode_4918305",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 8 | Bambusbauten",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 8",
+          "teaserEpisodeAirtime": "Mo. 15.08.2022, 08:05 Uhr",
+          "teaserEpisodeName": "Bambusbauten"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Bambusbauten",
+        "id": 4918305,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918305/300x0/bambusbauten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918305/",
+            "filename": "bambusbauten"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918305/600x0/bambusbauten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918305/",
+            "filename": "bambusbauten"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918305/1200x0/bambusbauten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918305/",
+            "filename": "bambusbauten"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918305/300x0/bambusbauten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918305/",
+            "filename": "bambusbauten"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918305/600x0/bambusbauten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918305/",
+            "filename": "bambusbauten"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918305/1200x0/bambusbauten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918305/",
+            "filename": "bambusbauten"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Bambusbauten",
+        "text": "Staffel 3, Folge 8 | Mo. 15.08.2022, 08:05 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-8-bambusbauten-4918305",
+        "videoId": 4918305
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-19-robo-ranger-baeren-abwehr-baer-am-steuer-4918275"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918275",
+          "teaserName": "Grizzy & die Lemminge | Staffel 2 | Folge 19 | Robo-Ranger / Bären-Abwehr / Bär am Steuer",
           "teaserPayType": "free",
           "teaserType": "serie_episode",
           "teaserGenre": "Kinder",
@@ -335,55 +1789,55 @@
           ],
           "classification": [],
           "teaserSeason": "Staffel 2",
-          "teaserEpisodeNumber": "Folge 12",
-          "teaserEpisodeAirtime": "Mi. 14.10.2020, 11:20 Uhr",
-          "teaserEpisodeName": "Wilder Spielspaß / Virtuelle Wirklichkeit / Der Flaschengeist"
+          "teaserEpisodeNumber": "Folge 19",
+          "teaserEpisodeAirtime": "So. 14.08.2022, 17:30 Uhr",
+          "teaserEpisodeName": "Robo-Ranger / Bären-Abwehr / Bär am Steuer"
         },
         "fsk": {
           "isVisible": false,
           "label": "ab 0",
           "minAge": 0
         },
-        "headline": "Wilder Spielspaß / Virtuelle Wirklichkeit / Der Flaschengeist",
-        "id": 3462689,
+        "headline": "Robo-Ranger / Bären-Abwehr / Bär am Steuer",
+        "id": 4918275,
         "images": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462689/300x0/wilder-spielspass-virtuelle-wirklichkeit-der-flaschengeist.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462689/",
-            "filename": "wilder-spielspass-virtuelle-wirklichkeit-der-flaschengeist"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918275/300x0/robo-ranger-baeren-abwehr-baer-am-steuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918275/",
+            "filename": "robo-ranger-baeren-abwehr-baer-am-steuer"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462689/600x0/wilder-spielspass-virtuelle-wirklichkeit-der-flaschengeist.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462689/",
-            "filename": "wilder-spielspass-virtuelle-wirklichkeit-der-flaschengeist"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918275/600x0/robo-ranger-baeren-abwehr-baer-am-steuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918275/",
+            "filename": "robo-ranger-baeren-abwehr-baer-am-steuer"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462689/1200x0/wilder-spielspass-virtuelle-wirklichkeit-der-flaschengeist.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462689/",
-            "filename": "wilder-spielspass-virtuelle-wirklichkeit-der-flaschengeist"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918275/1200x0/robo-ranger-baeren-abwehr-baer-am-steuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918275/",
+            "filename": "robo-ranger-baeren-abwehr-baer-am-steuer"
           }
         ],
         "imagesHover": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462689/300x0/wilder-spielspass-virtuelle-wirklichkeit-der-flaschengeist.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462689/",
-            "filename": "wilder-spielspass-virtuelle-wirklichkeit-der-flaschengeist"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918275/300x0/robo-ranger-baeren-abwehr-baer-am-steuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918275/",
+            "filename": "robo-ranger-baeren-abwehr-baer-am-steuer"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462689/600x0/wilder-spielspass-virtuelle-wirklichkeit-der-flaschengeist.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462689/",
-            "filename": "wilder-spielspass-virtuelle-wirklichkeit-der-flaschengeist"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918275/600x0/robo-ranger-baeren-abwehr-baer-am-steuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918275/",
+            "filename": "robo-ranger-baeren-abwehr-baer-am-steuer"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462689/1200x0/wilder-spielspass-virtuelle-wirklichkeit-der-flaschengeist.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462689/",
-            "filename": "wilder-spielspass-virtuelle-wirklichkeit-der-flaschengeist"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918275/1200x0/robo-ranger-baeren-abwehr-baer-am-steuer.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918275/",
+            "filename": "robo-ranger-baeren-abwehr-baer-am-steuer"
           }
         ],
         "isPremium": false,
@@ -391,11 +1845,11 @@
           "premium"
         ],
         "seoUrl": "grizzy-die-lemminge",
-        "subheadline": "Wilder Spielspaß / Virtuelle Wirklichkeit / Der Flaschengeist",
-        "text": "Staffel 2, Folge 12 | Mi. 14.10.2020, 11:20 Uhr",
+        "subheadline": "Robo-Ranger / Bären-Abwehr / Bär am Steuer",
+        "text": "Staffel 2, Folge 19 | So. 14.08.2022, 17:30 Uhr",
         "type": "serie",
-        "url": "/serien/grizzy-die-lemminge-18020/staffel-2/episode-12-wilder-spielspass-virtuelle-wirklichkeit-der-flaschengeist-3462689",
-        "videoId": 3462689
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-19-robo-ranger-baeren-abwehr-baer-am-steuer-4918275",
+        "videoId": 4918275
       },
       {
         "buttons": [
@@ -407,14 +1861,1578 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
-            "url": "/serien/grizzy-die-lemminge-18020/staffel-2/episode-18-pilzbefall-mit-leichtigkeit-elch-akrobatik-3462686"
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-50-heisses-curling-4918279"
           }
         ],
         "ecommerce": {
           "teaserFormatName": "Grizzy & die Lemminge",
-          "teaserId": "serie_episode_3462686",
+          "teaserId": "serie_episode_4918279",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 50 | Heißes Curling",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 50",
+          "teaserEpisodeAirtime": "So. 14.08.2022, 10:15 Uhr",
+          "teaserEpisodeName": "Heißes Curling"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Heißes Curling",
+        "id": 4918279,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918279/300x0/heisses-curling.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918279/",
+            "filename": "heisses-curling"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918279/600x0/heisses-curling.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918279/",
+            "filename": "heisses-curling"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918279/1200x0/heisses-curling.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918279/",
+            "filename": "heisses-curling"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918279/300x0/heisses-curling.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918279/",
+            "filename": "heisses-curling"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918279/600x0/heisses-curling.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918279/",
+            "filename": "heisses-curling"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918279/1200x0/heisses-curling.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918279/",
+            "filename": "heisses-curling"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Heißes Curling",
+        "text": "Staffel 3, Folge 50 | So. 14.08.2022, 10:15 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-50-heisses-curling-4918279",
+        "videoId": 4918279
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-49-trommel-lemminge-4918267"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918267",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 49 | Trommel-Lemminge",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 49",
+          "teaserEpisodeAirtime": "So. 14.08.2022, 10:10 Uhr",
+          "teaserEpisodeName": "Trommel-Lemminge"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Trommel-Lemminge",
+        "id": 4918267,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918267/300x0/trommel-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918267/",
+            "filename": "trommel-lemminge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918267/600x0/trommel-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918267/",
+            "filename": "trommel-lemminge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918267/1200x0/trommel-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918267/",
+            "filename": "trommel-lemminge"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918267/300x0/trommel-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918267/",
+            "filename": "trommel-lemminge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918267/600x0/trommel-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918267/",
+            "filename": "trommel-lemminge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918267/1200x0/trommel-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918267/",
+            "filename": "trommel-lemminge"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Trommel-Lemminge",
+        "text": "Staffel 3, Folge 49 | So. 14.08.2022, 10:10 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-49-trommel-lemminge-4918267",
+        "videoId": 4918267
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-42-rasende-lemminge-4918270"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918270",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 42 | Rasende Lemminge",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 42",
+          "teaserEpisodeAirtime": "So. 14.08.2022, 10:05 Uhr",
+          "teaserEpisodeName": "Rasende Lemminge"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Rasende Lemminge",
+        "id": 4918270,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918270/300x0/rasende-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918270/",
+            "filename": "rasende-lemminge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918270/600x0/rasende-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918270/",
+            "filename": "rasende-lemminge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918270/1200x0/rasende-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918270/",
+            "filename": "rasende-lemminge"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918270/300x0/rasende-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918270/",
+            "filename": "rasende-lemminge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918270/600x0/rasende-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918270/",
+            "filename": "rasende-lemminge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918270/1200x0/rasende-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918270/",
+            "filename": "rasende-lemminge"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Rasende Lemminge",
+        "text": "Staffel 3, Folge 42 | So. 14.08.2022, 10:05 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-42-rasende-lemminge-4918270",
+        "videoId": 4918270
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-41-magische-masken-4918272"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918272",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 41 | Magische Masken",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 41",
+          "teaserEpisodeAirtime": "So. 14.08.2022, 09:50 Uhr",
+          "teaserEpisodeName": "Magische Masken"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Magische Masken",
+        "id": 4918272,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918272/300x0/magische-masken.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918272/",
+            "filename": "magische-masken"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918272/600x0/magische-masken.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918272/",
+            "filename": "magische-masken"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918272/1200x0/magische-masken.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918272/",
+            "filename": "magische-masken"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918272/300x0/magische-masken.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918272/",
+            "filename": "magische-masken"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918272/600x0/magische-masken.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918272/",
+            "filename": "magische-masken"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918272/1200x0/magische-masken.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918272/",
+            "filename": "magische-masken"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Magische Masken",
+        "text": "Staffel 3, Folge 41 | So. 14.08.2022, 09:50 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-41-magische-masken-4918272",
+        "videoId": 4918272
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-40-die-rueckkehr-des-geliebten-4918281"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918281",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 40 | Die Rückkehr des Geliebten",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 40",
+          "teaserEpisodeAirtime": "So. 14.08.2022, 09:40 Uhr",
+          "teaserEpisodeName": "Die Rückkehr des Geliebten"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Rückkehr des Geliebten",
+        "id": 4918281,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918281/300x0/die-rueckkehr-des-geliebten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918281/",
+            "filename": "die-rueckkehr-des-geliebten"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918281/600x0/die-rueckkehr-des-geliebten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918281/",
+            "filename": "die-rueckkehr-des-geliebten"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918281/1200x0/die-rueckkehr-des-geliebten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918281/",
+            "filename": "die-rueckkehr-des-geliebten"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918281/300x0/die-rueckkehr-des-geliebten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918281/",
+            "filename": "die-rueckkehr-des-geliebten"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918281/600x0/die-rueckkehr-des-geliebten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918281/",
+            "filename": "die-rueckkehr-des-geliebten"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918281/1200x0/die-rueckkehr-des-geliebten.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918281/",
+            "filename": "die-rueckkehr-des-geliebten"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Die Rückkehr des Geliebten",
+        "text": "Staffel 3, Folge 40 | So. 14.08.2022, 09:40 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-40-die-rueckkehr-des-geliebten-4918281",
+        "videoId": 4918281
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-33-sternen-disco-4918290"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918290",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 33 | Sternen-Disco",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 33",
+          "teaserEpisodeAirtime": "So. 14.08.2022, 09:35 Uhr",
+          "teaserEpisodeName": "Sternen-Disco"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Sternen-Disco",
+        "id": 4918290,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918290/300x0/sternen-disco.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918290/",
+            "filename": "sternen-disco"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918290/600x0/sternen-disco.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918290/",
+            "filename": "sternen-disco"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918290/1200x0/sternen-disco.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918290/",
+            "filename": "sternen-disco"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918290/300x0/sternen-disco.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918290/",
+            "filename": "sternen-disco"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918290/600x0/sternen-disco.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918290/",
+            "filename": "sternen-disco"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918290/1200x0/sternen-disco.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918290/",
+            "filename": "sternen-disco"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Sternen-Disco",
+        "text": "Staffel 3, Folge 33 | So. 14.08.2022, 09:35 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-33-sternen-disco-4918290",
+        "videoId": 4918290
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-32-das-ersatz-ei-4918265"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918265",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 32 | Das Ersatz-Ei",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 32",
+          "teaserEpisodeAirtime": "So. 14.08.2022, 09:30 Uhr",
+          "teaserEpisodeName": "Das Ersatz-Ei"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Das Ersatz-Ei",
+        "id": 4918265,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918265/300x0/das-ersatz-ei.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918265/",
+            "filename": "das-ersatz-ei"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918265/600x0/das-ersatz-ei.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918265/",
+            "filename": "das-ersatz-ei"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918265/1200x0/das-ersatz-ei.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918265/",
+            "filename": "das-ersatz-ei"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918265/300x0/das-ersatz-ei.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918265/",
+            "filename": "das-ersatz-ei"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918265/600x0/das-ersatz-ei.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918265/",
+            "filename": "das-ersatz-ei"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918265/1200x0/das-ersatz-ei.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918265/",
+            "filename": "das-ersatz-ei"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Das Ersatz-Ei",
+        "text": "Staffel 3, Folge 32 | So. 14.08.2022, 09:30 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-32-das-ersatz-ei-4918265",
+        "videoId": 4918265
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-31-thermo-lemminge-4918283"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918283",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 31 | Thermo-Lemminge",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 31",
+          "teaserEpisodeAirtime": "So. 14.08.2022, 09:20 Uhr",
+          "teaserEpisodeName": "Thermo-Lemminge"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Thermo-Lemminge",
+        "id": 4918283,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918283/300x0/thermo-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918283/",
+            "filename": "thermo-lemminge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918283/600x0/thermo-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918283/",
+            "filename": "thermo-lemminge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918283/1200x0/thermo-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918283/",
+            "filename": "thermo-lemminge"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918283/300x0/thermo-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918283/",
+            "filename": "thermo-lemminge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918283/600x0/thermo-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918283/",
+            "filename": "thermo-lemminge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918283/1200x0/thermo-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918283/",
+            "filename": "thermo-lemminge"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Thermo-Lemminge",
+        "text": "Staffel 3, Folge 31 | So. 14.08.2022, 09:20 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-31-thermo-lemminge-4918283",
+        "videoId": 4918283
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-24-motorboot-huette-4918268"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918268",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 24 | Motorboot-Hütte",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 24",
+          "teaserEpisodeAirtime": "So. 14.08.2022, 09:10 Uhr",
+          "teaserEpisodeName": "Motorboot-Hütte"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Motorboot-Hütte",
+        "id": 4918268,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918268/300x0/motorboot-huette.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918268/",
+            "filename": "motorboot-huette"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918268/600x0/motorboot-huette.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918268/",
+            "filename": "motorboot-huette"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918268/1200x0/motorboot-huette.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918268/",
+            "filename": "motorboot-huette"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918268/300x0/motorboot-huette.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918268/",
+            "filename": "motorboot-huette"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918268/600x0/motorboot-huette.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918268/",
+            "filename": "motorboot-huette"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918268/1200x0/motorboot-huette.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918268/",
+            "filename": "motorboot-huette"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Motorboot-Hütte",
+        "text": "Staffel 3, Folge 24 | So. 14.08.2022, 09:10 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-24-motorboot-huette-4918268",
+        "videoId": 4918268
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-23-der-geist-des-wettbewerbs-4918252"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918252",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 23 | Der Geist des Wettbewerbs",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 23",
+          "teaserEpisodeAirtime": "So. 14.08.2022, 09:00 Uhr",
+          "teaserEpisodeName": "Der Geist des Wettbewerbs"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Geist des Wettbewerbs",
+        "id": 4918252,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918252/300x0/der-geist-des-wettbewerbs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918252/",
+            "filename": "der-geist-des-wettbewerbs"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918252/600x0/der-geist-des-wettbewerbs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918252/",
+            "filename": "der-geist-des-wettbewerbs"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918252/1200x0/der-geist-des-wettbewerbs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918252/",
+            "filename": "der-geist-des-wettbewerbs"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918252/300x0/der-geist-des-wettbewerbs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918252/",
+            "filename": "der-geist-des-wettbewerbs"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918252/600x0/der-geist-des-wettbewerbs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918252/",
+            "filename": "der-geist-des-wettbewerbs"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918252/1200x0/der-geist-des-wettbewerbs.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918252/",
+            "filename": "der-geist-des-wettbewerbs"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Der Geist des Wettbewerbs",
+        "text": "Staffel 3, Folge 23 | So. 14.08.2022, 09:00 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-23-der-geist-des-wettbewerbs-4918252",
+        "videoId": 4918252
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-22-die-vulkanbeherrscher-4918253"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918253",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 22 | Die Vulkanbeherrscher",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 22",
+          "teaserEpisodeAirtime": "So. 14.08.2022, 08:55 Uhr",
+          "teaserEpisodeName": "Die Vulkanbeherrscher"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Vulkanbeherrscher",
+        "id": 4918253,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918253/300x0/die-vulkanbeherrscher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918253/",
+            "filename": "die-vulkanbeherrscher"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918253/600x0/die-vulkanbeherrscher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918253/",
+            "filename": "die-vulkanbeherrscher"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918253/1200x0/die-vulkanbeherrscher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918253/",
+            "filename": "die-vulkanbeherrscher"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918253/300x0/die-vulkanbeherrscher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918253/",
+            "filename": "die-vulkanbeherrscher"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918253/600x0/die-vulkanbeherrscher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918253/",
+            "filename": "die-vulkanbeherrscher"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918253/1200x0/die-vulkanbeherrscher.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918253/",
+            "filename": "die-vulkanbeherrscher"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Die Vulkanbeherrscher",
+        "text": "Staffel 3, Folge 22 | So. 14.08.2022, 08:55 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-22-die-vulkanbeherrscher-4918253",
+        "videoId": 4918253
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-15-schoko-drink-4918282"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918282",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 15 | Schoko-Drink",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 15",
+          "teaserEpisodeAirtime": "So. 14.08.2022, 08:40 Uhr",
+          "teaserEpisodeName": "Schoko-Drink"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Schoko-Drink",
+        "id": 4918282,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918282/300x0/schoko-drink.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918282/",
+            "filename": "schoko-drink"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918282/600x0/schoko-drink.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918282/",
+            "filename": "schoko-drink"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918282/1200x0/schoko-drink.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918282/",
+            "filename": "schoko-drink"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918282/300x0/schoko-drink.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918282/",
+            "filename": "schoko-drink"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918282/600x0/schoko-drink.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918282/",
+            "filename": "schoko-drink"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918282/1200x0/schoko-drink.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918282/",
+            "filename": "schoko-drink"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Schoko-Drink",
+        "text": "Staffel 3, Folge 15 | So. 14.08.2022, 08:40 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-15-schoko-drink-4918282",
+        "videoId": 4918282
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-14-tauchgang-4918278"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918278",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 14 | Tauchgang",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 14",
+          "teaserEpisodeAirtime": "So. 14.08.2022, 08:35 Uhr",
+          "teaserEpisodeName": "Tauchgang"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Tauchgang",
+        "id": 4918278,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918278/300x0/tauchgang.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918278/",
+            "filename": "tauchgang"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918278/600x0/tauchgang.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918278/",
+            "filename": "tauchgang"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918278/1200x0/tauchgang.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918278/",
+            "filename": "tauchgang"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918278/300x0/tauchgang.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918278/",
+            "filename": "tauchgang"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918278/600x0/tauchgang.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918278/",
+            "filename": "tauchgang"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918278/1200x0/tauchgang.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918278/",
+            "filename": "tauchgang"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Tauchgang",
+        "text": "Staffel 3, Folge 14 | So. 14.08.2022, 08:35 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-14-tauchgang-4918278",
+        "videoId": 4918278
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-13-tai-chi-lemminge-4918284"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918284",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 13 | Tai Chi Lemminge",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 13",
+          "teaserEpisodeAirtime": "So. 14.08.2022, 08:25 Uhr",
+          "teaserEpisodeName": "Tai Chi Lemminge"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Tai Chi Lemminge",
+        "id": 4918284,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918284/300x0/tai-chi-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918284/",
+            "filename": "tai-chi-lemminge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918284/600x0/tai-chi-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918284/",
+            "filename": "tai-chi-lemminge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918284/1200x0/tai-chi-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918284/",
+            "filename": "tai-chi-lemminge"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918284/300x0/tai-chi-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918284/",
+            "filename": "tai-chi-lemminge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918284/600x0/tai-chi-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918284/",
+            "filename": "tai-chi-lemminge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918284/1200x0/tai-chi-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918284/",
+            "filename": "tai-chi-lemminge"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Tai Chi Lemminge",
+        "text": "Staffel 3, Folge 13 | So. 14.08.2022, 08:25 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-13-tai-chi-lemminge-4918284",
+        "videoId": 4918284
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-6-feuerwerk-in-der-huette-4918273"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918273",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 6 | Feuerwerk in der Hütte",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 6",
+          "teaserEpisodeAirtime": "So. 14.08.2022, 08:10 Uhr",
+          "teaserEpisodeName": "Feuerwerk in der Hütte"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Feuerwerk in der Hütte",
+        "id": 4918273,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918273/300x0/feuerwerk-in-der-huette.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918273/",
+            "filename": "feuerwerk-in-der-huette"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918273/600x0/feuerwerk-in-der-huette.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918273/",
+            "filename": "feuerwerk-in-der-huette"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918273/1200x0/feuerwerk-in-der-huette.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918273/",
+            "filename": "feuerwerk-in-der-huette"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918273/300x0/feuerwerk-in-der-huette.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918273/",
+            "filename": "feuerwerk-in-der-huette"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918273/600x0/feuerwerk-in-der-huette.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918273/",
+            "filename": "feuerwerk-in-der-huette"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918273/1200x0/feuerwerk-in-der-huette.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918273/",
+            "filename": "feuerwerk-in-der-huette"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Feuerwerk in der Hütte",
+        "text": "Staffel 3, Folge 6 | So. 14.08.2022, 08:10 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-6-feuerwerk-in-der-huette-4918273",
+        "videoId": 4918273
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-5-die-legende-der-lemminge-4918299"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918299",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 5 | Die Legende der Lemminge",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 5",
+          "teaserEpisodeAirtime": "So. 14.08.2022, 08:05 Uhr",
+          "teaserEpisodeName": "Die Legende der Lemminge"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Legende der Lemminge",
+        "id": 4918299,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918299/300x0/die-legende-der-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918299/",
+            "filename": "die-legende-der-lemminge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918299/600x0/die-legende-der-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918299/",
+            "filename": "die-legende-der-lemminge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918299/1200x0/die-legende-der-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918299/",
+            "filename": "die-legende-der-lemminge"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918299/300x0/die-legende-der-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918299/",
+            "filename": "die-legende-der-lemminge"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918299/600x0/die-legende-der-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918299/",
+            "filename": "die-legende-der-lemminge"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918299/1200x0/die-legende-der-lemminge.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918299/",
+            "filename": "die-legende-der-lemminge"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Die Legende der Lemminge",
+        "text": "Staffel 3, Folge 5 | So. 14.08.2022, 08:05 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-5-die-legende-der-lemminge-4918299",
+        "videoId": 4918299
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-4-der-streitschlichter-4918277"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918277",
+          "teaserName": "Grizzy & die Lemminge | Staffel 3 | Folge 4 | Der Streitschlichter",
+          "teaserPayType": "free",
+          "teaserType": "serie_episode",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Jungs",
+            "KIDS Mädchen",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserSeason": "Staffel 3",
+          "teaserEpisodeNumber": "Folge 4",
+          "teaserEpisodeAirtime": "So. 14.08.2022, 08:00 Uhr",
+          "teaserEpisodeName": "Der Streitschlichter"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Der Streitschlichter",
+        "id": 4918277,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918277/300x0/der-streitschlichter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918277/",
+            "filename": "der-streitschlichter"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918277/600x0/der-streitschlichter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918277/",
+            "filename": "der-streitschlichter"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918277/1200x0/der-streitschlichter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918277/",
+            "filename": "der-streitschlichter"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918277/300x0/der-streitschlichter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918277/",
+            "filename": "der-streitschlichter"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918277/600x0/der-streitschlichter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918277/",
+            "filename": "der-streitschlichter"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918277/1200x0/der-streitschlichter.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918277/",
+            "filename": "der-streitschlichter"
+          }
+        ],
+        "isPremium": false,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "grizzy-die-lemminge",
+        "subheadline": "Der Streitschlichter",
+        "text": "Staffel 3, Folge 4 | So. 14.08.2022, 08:00 Uhr",
+        "type": "serie",
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-4-der-streitschlichter-4918277",
+        "videoId": 4918277
+      },
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 18020,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-18-pilzbefall-mit-leichtigkeit-elch-akrobatik-4918260"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Grizzy & die Lemminge",
+          "teaserId": "serie_episode_4918260",
           "teaserName": "Grizzy & die Lemminge | Staffel 2 | Folge 18 | Pilzbefall / Mit Leichtigkeit / Elch-Akrobatik",
           "teaserPayType": "free",
           "teaserType": "serie_episode",
@@ -428,7 +3446,7 @@
           "classification": [],
           "teaserSeason": "Staffel 2",
           "teaserEpisodeNumber": "Folge 18",
-          "teaserEpisodeAirtime": "Mi. 14.10.2020, 11:45 Uhr",
+          "teaserEpisodeAirtime": "Sa. 13.08.2022, 17:30 Uhr",
           "teaserEpisodeName": "Pilzbefall / Mit Leichtigkeit / Elch-Akrobatik"
         },
         "fsk": {
@@ -437,44 +3455,44 @@
           "minAge": 0
         },
         "headline": "Pilzbefall / Mit Leichtigkeit / Elch-Akrobatik",
-        "id": 3462686,
+        "id": 4918260,
         "images": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462686/300x0/pilzbefall-mit-leichtigkeit-elch-akrobatik.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462686/",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918260/300x0/pilzbefall-mit-leichtigkeit-elch-akrobatik.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918260/",
             "filename": "pilzbefall-mit-leichtigkeit-elch-akrobatik"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462686/600x0/pilzbefall-mit-leichtigkeit-elch-akrobatik.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462686/",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918260/600x0/pilzbefall-mit-leichtigkeit-elch-akrobatik.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918260/",
             "filename": "pilzbefall-mit-leichtigkeit-elch-akrobatik"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462686/1200x0/pilzbefall-mit-leichtigkeit-elch-akrobatik.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462686/",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918260/1200x0/pilzbefall-mit-leichtigkeit-elch-akrobatik.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918260/",
             "filename": "pilzbefall-mit-leichtigkeit-elch-akrobatik"
           }
         ],
         "imagesHover": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462686/300x0/pilzbefall-mit-leichtigkeit-elch-akrobatik.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462686/",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918260/300x0/pilzbefall-mit-leichtigkeit-elch-akrobatik.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918260/",
             "filename": "pilzbefall-mit-leichtigkeit-elch-akrobatik"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462686/600x0/pilzbefall-mit-leichtigkeit-elch-akrobatik.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462686/",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918260/600x0/pilzbefall-mit-leichtigkeit-elch-akrobatik.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918260/",
             "filename": "pilzbefall-mit-leichtigkeit-elch-akrobatik"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462686/1200x0/pilzbefall-mit-leichtigkeit-elch-akrobatik.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462686/",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4918260/1200x0/pilzbefall-mit-leichtigkeit-elch-akrobatik.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4918260/",
             "filename": "pilzbefall-mit-leichtigkeit-elch-akrobatik"
           }
         ],
@@ -484,10 +3502,10 @@
         ],
         "seoUrl": "grizzy-die-lemminge",
         "subheadline": "Pilzbefall / Mit Leichtigkeit / Elch-Akrobatik",
-        "text": "Staffel 2, Folge 18 | Mi. 14.10.2020, 11:45 Uhr",
+        "text": "Staffel 2, Folge 18 | Sa. 13.08.2022, 17:30 Uhr",
         "type": "serie",
-        "url": "/serien/grizzy-die-lemminge-18020/staffel-2/episode-18-pilzbefall-mit-leichtigkeit-elch-akrobatik-3462686",
-        "videoId": 3462686
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-18-pilzbefall-mit-leichtigkeit-elch-akrobatik-4918260",
+        "videoId": 4918260
       },
       {
         "buttons": [
@@ -499,15 +3517,15 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
-            "url": "/serien/grizzy-die-lemminge-18020/staffel-2/episode-47-durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung-3462685"
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-17-zenmeister-baer-auswahl-loeschen-lemming-bowling-4897656"
           }
         ],
         "ecommerce": {
           "teaserFormatName": "Grizzy & die Lemminge",
-          "teaserId": "serie_episode_3462685",
-          "teaserName": "Grizzy & die Lemminge | Staffel 2 | Folge 47 | Durch die Nordlichter / Tick Tack Bär / Träume auf Bestellung",
+          "teaserId": "serie_episode_4897656",
+          "teaserName": "Grizzy & die Lemminge | Staffel 2 | Folge 17 | Zenmeister Bär / Auswahl löschen / Lemming Bowling",
           "teaserPayType": "free",
           "teaserType": "serie_episode",
           "teaserGenre": "Kinder",
@@ -519,55 +3537,55 @@
           ],
           "classification": [],
           "teaserSeason": "Staffel 2",
-          "teaserEpisodeNumber": "Folge 47",
-          "teaserEpisodeAirtime": "Mi. 14.10.2020, 12:05 Uhr",
-          "teaserEpisodeName": "Durch die Nordlichter / Tick Tack Bär / Träume auf Bestellung"
+          "teaserEpisodeNumber": "Folge 17",
+          "teaserEpisodeAirtime": "Fr. 12.08.2022, 17:30 Uhr",
+          "teaserEpisodeName": "Zenmeister Bär / Auswahl löschen / Lemming Bowling"
         },
         "fsk": {
           "isVisible": false,
           "label": "ab 0",
           "minAge": 0
         },
-        "headline": "Durch die Nordlichter / Tick Tack Bär / Träume auf Bestellung",
-        "id": 3462685,
+        "headline": "Zenmeister Bär / Auswahl löschen / Lemming Bowling",
+        "id": 4897656,
         "images": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462685/300x0/durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462685/",
-            "filename": "durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4897656/300x0/zenmeister-baer-auswahl-loeschen-lemming-bowling.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4897656/",
+            "filename": "zenmeister-baer-auswahl-loeschen-lemming-bowling"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462685/600x0/durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462685/",
-            "filename": "durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4897656/600x0/zenmeister-baer-auswahl-loeschen-lemming-bowling.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4897656/",
+            "filename": "zenmeister-baer-auswahl-loeschen-lemming-bowling"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462685/1200x0/durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462685/",
-            "filename": "durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4897656/1200x0/zenmeister-baer-auswahl-loeschen-lemming-bowling.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4897656/",
+            "filename": "zenmeister-baer-auswahl-loeschen-lemming-bowling"
           }
         ],
         "imagesHover": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462685/300x0/durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462685/",
-            "filename": "durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4897656/300x0/zenmeister-baer-auswahl-loeschen-lemming-bowling.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4897656/",
+            "filename": "zenmeister-baer-auswahl-loeschen-lemming-bowling"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462685/600x0/durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462685/",
-            "filename": "durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4897656/600x0/zenmeister-baer-auswahl-loeschen-lemming-bowling.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4897656/",
+            "filename": "zenmeister-baer-auswahl-loeschen-lemming-bowling"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462685/1200x0/durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462685/",
-            "filename": "durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4897656/1200x0/zenmeister-baer-auswahl-loeschen-lemming-bowling.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4897656/",
+            "filename": "zenmeister-baer-auswahl-loeschen-lemming-bowling"
           }
         ],
         "isPremium": false,
@@ -575,11 +3593,11 @@
           "premium"
         ],
         "seoUrl": "grizzy-die-lemminge",
-        "subheadline": "Durch die Nordlichter / Tick Tack Bär / Träume auf Bestellung",
-        "text": "Staffel 2, Folge 47 | Mi. 14.10.2020, 12:05 Uhr",
+        "subheadline": "Zenmeister Bär / Auswahl löschen / Lemming Bowling",
+        "text": "Staffel 2, Folge 17 | Fr. 12.08.2022, 17:30 Uhr",
         "type": "serie",
-        "url": "/serien/grizzy-die-lemminge-18020/staffel-2/episode-47-durch-die-nordlichter-tick-tack-baer-traeume-auf-bestellung-3462685",
-        "videoId": 3462685
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-17-zenmeister-baer-auswahl-loeschen-lemming-bowling-4897656",
+        "videoId": 4897656
       },
       {
         "buttons": [
@@ -591,15 +3609,15 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
-            "url": "/serien/grizzy-die-lemminge-18020/staffel-2/episode-50-grizzy-und-die-sieben-lemminge-volltreffer-unhoeflicher-besuch-3462692"
+            "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-16-grippewelle-eiszeit-sauer-macht-flink-4897293"
           }
         ],
         "ecommerce": {
           "teaserFormatName": "Grizzy & die Lemminge",
-          "teaserId": "serie_episode_3462692",
-          "teaserName": "Grizzy & die Lemminge | Staffel 2 | Folge 50 | Grizzy und die sieben Lemminge / Volltreffer / Unhöflicher Besuch",
+          "teaserId": "serie_episode_4897293",
+          "teaserName": "Grizzy & die Lemminge | Staffel 2 | Folge 16 | Grippewelle / Eiszeit / Sauer macht flink",
           "teaserPayType": "free",
           "teaserType": "serie_episode",
           "teaserGenre": "Kinder",
@@ -611,55 +3629,55 @@
           ],
           "classification": [],
           "teaserSeason": "Staffel 2",
-          "teaserEpisodeNumber": "Folge 50",
-          "teaserEpisodeAirtime": "Mi. 14.10.2020, 12:30 Uhr",
-          "teaserEpisodeName": "Grizzy und die sieben Lemminge / Volltreffer / Unhöflicher Besuch"
+          "teaserEpisodeNumber": "Folge 16",
+          "teaserEpisodeAirtime": "Do. 11.08.2022, 17:30 Uhr",
+          "teaserEpisodeName": "Grippewelle / Eiszeit / Sauer macht flink"
         },
         "fsk": {
           "isVisible": false,
           "label": "ab 0",
           "minAge": 0
         },
-        "headline": "Grizzy und die sieben Lemminge / Volltreffer / Unhöflicher Besuch",
-        "id": 3462692,
+        "headline": "Grippewelle / Eiszeit / Sauer macht flink",
+        "id": 4897293,
         "images": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462692/300x0/grizzy-und-die-sieben-lemminge-volltreffer-unhoeflicher-besuch.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462692/",
-            "filename": "grizzy-und-die-sieben-lemminge-volltreffer-unhoeflicher-besuch"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4897293/300x0/grippewelle-eiszeit-sauer-macht-flink.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4897293/",
+            "filename": "grippewelle-eiszeit-sauer-macht-flink"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462692/600x0/grizzy-und-die-sieben-lemminge-volltreffer-unhoeflicher-besuch.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462692/",
-            "filename": "grizzy-und-die-sieben-lemminge-volltreffer-unhoeflicher-besuch"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4897293/600x0/grippewelle-eiszeit-sauer-macht-flink.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4897293/",
+            "filename": "grippewelle-eiszeit-sauer-macht-flink"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462692/1200x0/grizzy-und-die-sieben-lemminge-volltreffer-unhoeflicher-besuch.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462692/",
-            "filename": "grizzy-und-die-sieben-lemminge-volltreffer-unhoeflicher-besuch"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4897293/1200x0/grippewelle-eiszeit-sauer-macht-flink.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4897293/",
+            "filename": "grippewelle-eiszeit-sauer-macht-flink"
           }
         ],
         "imagesHover": [
           {
             "dimension": "1x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462692/300x0/grizzy-und-die-sieben-lemminge-volltreffer-unhoeflicher-besuch.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462692/",
-            "filename": "grizzy-und-die-sieben-lemminge-volltreffer-unhoeflicher-besuch"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4897293/300x0/grippewelle-eiszeit-sauer-macht-flink.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4897293/",
+            "filename": "grippewelle-eiszeit-sauer-macht-flink"
           },
           {
             "dimension": "2x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462692/600x0/grizzy-und-die-sieben-lemminge-volltreffer-unhoeflicher-besuch.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462692/",
-            "filename": "grizzy-und-die-sieben-lemminge-volltreffer-unhoeflicher-besuch"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4897293/600x0/grippewelle-eiszeit-sauer-macht-flink.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4897293/",
+            "filename": "grippewelle-eiszeit-sauer-macht-flink"
           },
           {
             "dimension": "4x",
-            "src": "https://ais-cf.tvnow.de/tvnow/movie/3462692/1200x0/grizzy-und-die-sieben-lemminge-volltreffer-unhoeflicher-besuch.jpg",
-            "path": "https://ais-cf.tvnow.de/tvnow/movie/3462692/",
-            "filename": "grizzy-und-die-sieben-lemminge-volltreffer-unhoeflicher-besuch"
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4897293/1200x0/grippewelle-eiszeit-sauer-macht-flink.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4897293/",
+            "filename": "grippewelle-eiszeit-sauer-macht-flink"
           }
         ],
         "isPremium": false,
@@ -667,16 +3685,17 @@
           "premium"
         ],
         "seoUrl": "grizzy-die-lemminge",
-        "subheadline": "Grizzy und die sieben Lemminge / Volltreffer / Unhöflicher Besuch",
-        "text": "Staffel 2, Folge 50 | Mi. 14.10.2020, 12:30 Uhr",
+        "subheadline": "Grippewelle / Eiszeit / Sauer macht flink",
+        "text": "Staffel 2, Folge 16 | Do. 11.08.2022, 17:30 Uhr",
         "type": "serie",
-        "url": "/serien/grizzy-die-lemminge-18020/staffel-2/episode-50-grizzy-und-die-sieben-lemminge-volltreffer-unhoeflicher-besuch-3462692",
-        "videoId": 3462692
+        "url": "/serien/grizzy-die-lemminge-18020/2022-08/episode-16-grippewelle-eiszeit-sauer-macht-flink-4897293",
+        "videoId": 4897293
       }
     ],
     "format_navigation": {
-      "season": 2
+      "month": 8,
+      "year": 2022
     },
-    "navigationType": "season"
+    "navigationType": "annual"
   }
 ]

@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19128,
+  "additionalMeta": {
+    "canonical": "/filme/im-dschungel-der-rheinauen-19128",
+    "url": "/filme/im-dschungel-der-rheinauen-19128"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Im Dschungel der Rheinauen",
+      "url": "/filme/im-dschungel-der-rheinauen-19128"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19128,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Im Dschungel der Rheinauen 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Im Dschungel der Rheinauen im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Im Dschungel der Rheinauen 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/im-dschungel-der-rheinauen-19128"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3554826/1600x0/im-dschungel-der-rheinauen.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3554826,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3554826",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19128"
+    },
+    {
+      "id": 19128,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19128",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Im Dschungel der Rheinauen",
+    "text": "Eine Reise wie in eine vergangene Zeit: im Grenzgebiet von Deutschland und Frankreich entpuppen sich die Altrheinarme als Zauberwelt, wie sie vor 300 Jahren noch überall am Ufer des großen Stroms zu finden war. Dank modernster Technik schwebt die Kamera förmlich durch die dschungelartigen Auen - über sowie unter Wasser. Computeranimationen geben einen Blick auf den Urrhein vor seiner Begradigung.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/im-dschungel-der-rheinauen-19128",
+        "description": "Eine Reise wie in eine vergangene Zeit: im Grenzgebiet von Deutschland und Frankreich entpuppen sich die Altrheinarme als Zauberwelt, wie sie vor 300 Jahren noch überall am Ufer des großen Stroms zu finden war. Dank modernster Technik schwebt die Kamera förmlich durch die dschungelartigen Auen - über sowie unter Wasser. Computeranimationen geben einen Blick auf den Urrhein vor seiner Begradigung.",
+        "duration": "PT44M25S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3554826/1200x0/im-dschungel-der-rheinauen.jpg",
+        "name": "Im Dschungel der Rheinauen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/im-dschungel-der-rheinauen-19128",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-05-29T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=im-dschungel-der-rheinauen-19128",
+              "sameAs": "%s/premium?typ=format&formatname=im-dschungel-der-rheinauen-19128",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/im-dschungel-der-rheinauen-19128",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Eine Reise wie in eine vergangene Zeit: im Grenzgebiet von Deutschland und Frankreich entpuppen sich die Altrheinarme als Zauberwelt, wie sie vor 300 Jahren noch überall am Ufer des großen Stroms zu finden war. Dank modernster Technik schwebt die Kamera förmlich durch die dschungelartigen Auen - über sowie unter Wasser. Computeranimationen geben einen Blick auf den Urrhein vor seiner Begradigung.",
+          "duration": "PT44M25S",
+          "embedUrl": "%s/googlebot/player/filme/im-dschungel-der-rheinauen-19128",
+          "name": "Im Dschungel der Rheinauen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3554826/1200x0/im-dschungel-der-rheinauen.jpg",
+          "uploadDate": "2021-05-29T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Im Dschungel der Rheinauen im Online Stream | RTL+",
+        "headline": "Im Dschungel der Rheinauen im Online Stream | RTL+",
+        "description": "Im Dschungel der Rheinauen und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/im-dschungel-der-rheinauen-19128",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3554826/1200x0/im-dschungel-der-rheinauen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3554826/1200x0/im-dschungel-der-rheinauen.jpg",
+        "datePublished": "2021-05-29T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3554826/1200x0/im-dschungel-der-rheinauen.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Im Dschungel der Rheinauen",
+            "item": "%s/filme/im-dschungel-der-rheinauen-19128"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Im Dschungel der Rheinauen im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

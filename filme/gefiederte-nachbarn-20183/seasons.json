@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20183",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20183,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/gefiederte-nachbarn-unsere-gartenvoegel-20183"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Gefiederte Nachbarn - Unsere Gartenvögel",
+          "teaserId": "film_4323685",
+          "teaserName": "Gefiederte Nachbarn - Unsere Gartenvögel | Gefiederte Nachbarn - Unsere Gartenvögel",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [
+            "Tiere"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "GEO WILD",
+          "teaserEpisodeName": "Gefiederte Nachbarn - Unsere Gartenvögel"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Gefiederte Nachbarn - Unsere Gartenvögel",
+        "id": 4323685,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323685/300x0/gefiederte-nachbarn-unsere-gartenvoegel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323685/",
+            "filename": "gefiederte-nachbarn-unsere-gartenvoegel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323685/600x0/gefiederte-nachbarn-unsere-gartenvoegel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323685/",
+            "filename": "gefiederte-nachbarn-unsere-gartenvoegel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323685/1200x0/gefiederte-nachbarn-unsere-gartenvoegel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323685/",
+            "filename": "gefiederte-nachbarn-unsere-gartenvoegel"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323685/300x0/gefiederte-nachbarn-unsere-gartenvoegel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323685/",
+            "filename": "gefiederte-nachbarn-unsere-gartenvoegel"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323685/600x0/gefiederte-nachbarn-unsere-gartenvoegel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323685/",
+            "filename": "gefiederte-nachbarn-unsere-gartenvoegel"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323685/1200x0/gefiederte-nachbarn-unsere-gartenvoegel.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323685/",
+            "filename": "gefiederte-nachbarn-unsere-gartenvoegel"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "gefiederte-nachbarn",
+        "subheadline": "Gefiederte Nachbarn - Unsere Gartenvögel",
+        "text": "Staffel  | GEO WILD",
+        "type": "film",
+        "url": "/filme/gefiederte-nachbarn-unsere-gartenvoegel-20183",
+        "videoId": 4323685
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

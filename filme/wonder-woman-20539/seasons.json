@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20539",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20539,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/wonder-woman-20539"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wonder Woman",
+          "teaserId": "film_4783210",
+          "teaserName": "Wonder Woman | Wonder Woman",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Action",
+          "cluster": [
+            "FILME Actionhits"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Wonder Woman"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wonder Woman",
+        "id": 4783210,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4783210/300x0/wonder-woman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4783210/",
+            "filename": "wonder-woman"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4783210/600x0/wonder-woman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4783210/",
+            "filename": "wonder-woman"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4783210/1200x0/wonder-woman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4783210/",
+            "filename": "wonder-woman"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4783210/300x0/wonder-woman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4783210/",
+            "filename": "wonder-woman"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4783210/600x0/wonder-woman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4783210/",
+            "filename": "wonder-woman"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4783210/1200x0/wonder-woman.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4783210/",
+            "filename": "wonder-woman"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wonder-woman",
+        "subheadline": "Wonder Woman",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/wonder-woman-20539",
+        "videoId": 4783210
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

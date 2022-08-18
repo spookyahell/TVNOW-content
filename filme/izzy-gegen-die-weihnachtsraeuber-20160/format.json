@@ -1,0 +1,241 @@
+﻿{
+  "formatId": 20160,
+  "additionalMeta": {
+    "canonical": "/filme/izzy-gegen-die-weihnachtsraeuber-20160",
+    "url": "/filme/izzy-gegen-die-weihnachtsraeuber-20160"
+  },
+  "ads": {
+    "station": "superrtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Izzy gegen die Weihnachtsräuber",
+      "url": "/filme/izzy-gegen-die-weihnachtsraeuber-20160"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20160,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Izzy gegen die Weihnachtsräuber 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Izzy gegen die Weihnachtsräuber im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Izzy gegen die Weihnachtsräuber 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/izzy-gegen-die-weihnachtsraeuber-20160"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4220331/1600x0/izzy-gegen-die-weihnachtsraeuber.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4220331,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4220331",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20160"
+    },
+    {
+      "id": 20160,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20160",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_srnfilme",
+      "video": "dvrsowf_ten_srnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/super_rtl_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "super_rtl_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 10 bis Teens",
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Action und Abenteuer",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Izzy gegen die Weihnachtsräuber - Alle Informationen zum Film",
+    "text": "Kurz vor den Weihnachtsferien bleibt Izzy alleine in ihrer Schule zurück, gefangen in einem Schneesturm. Als drei Räuber versuchen in die Schule einzubrechen und den Schuldirektor entführen, ist Izzy die einzige, die die Situation retten kann.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/izzy-gegen-die-weihnachtsraeuber-20160",
+        "description": "Kurz vor den Weihnachtsferien bleibt Izzy alleine in ihrer Schule zurück, gefangen in einem Schneesturm. Als drei Räuber versuchen in die Schule einzubrechen und den Schuldirektor entführen, ist Izzy die einzige, die die Situation retten kann.",
+        "duration": "PT1H22M58S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4220331/1200x0/izzy-gegen-die-weihnachtsraeuber.jpg",
+        "name": "Izzy gegen die Weihnachtsräuber",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/izzy-gegen-die-weihnachtsraeuber-20160",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-11-26T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=izzy-gegen-die-weihnachtsraeuber-20160",
+              "sameAs": "%s/premium?typ=format&formatname=izzy-gegen-die-weihnachtsraeuber-20160",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/izzy-gegen-die-weihnachtsraeuber-20160",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Kurz vor den Weihnachtsferien bleibt Izzy alleine in ihrer Schule zurück, gefangen in einem Schneesturm. Als drei Räuber versuchen in die Schule einzubrechen und den Schuldirektor entführen, ist Izzy die einzige, die die Situation retten kann.",
+          "duration": "PT1H22M58S",
+          "embedUrl": "%s/googlebot/player/filme/izzy-gegen-die-weihnachtsraeuber-20160",
+          "name": "Izzy gegen die Weihnachtsräuber",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4220331/1200x0/izzy-gegen-die-weihnachtsraeuber.jpg",
+          "uploadDate": "2021-11-26T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Izzy gegen die Weihnachtsräuber im Online Stream | RTL+",
+        "headline": "Izzy gegen die Weihnachtsräuber im Online Stream | RTL+",
+        "description": "Izzy gegen die Weihnachtsräuber und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+. Ein Film mit ▶️Cameron Seely, Danny Glover, Denise Richards, Sean O'Bryan, Katrina Begin, Douglas Spain, Jake Van Wagoner, Dawson Ehlke, Patricia Holly, Jim Miller.",
+        "url": "%s/filme/izzy-gegen-die-weihnachtsraeuber-20160",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4220331/1200x0/izzy-gegen-die-weihnachtsraeuber.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4220331/1200x0/izzy-gegen-die-weihnachtsraeuber.jpg",
+        "datePublished": "2021-11-26T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4220331/1200x0/izzy-gegen-die-weihnachtsraeuber.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Izzy gegen die Weihnachtsräuber",
+            "item": "%s/filme/izzy-gegen-die-weihnachtsraeuber-20160"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Izzy gegen die Weihnachtsräuber im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

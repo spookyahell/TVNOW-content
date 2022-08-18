@@ -1,0 +1,238 @@
+﻿{
+  "formatId": 20536,
+  "additionalMeta": {
+    "canonical": "/filme/sms-fuer-dich-20536",
+    "url": "/filme/sms-fuer-dich-20536"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "SMS für dich",
+      "url": "/filme/sms-fuer-dich-20536"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20536,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ SMS für dich 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "SMS für dich im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ SMS für dich 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/sms-fuer-dich-20536"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4785826/1600x0/sms-fuer-dich.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4785826,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4785826",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20536"
+    },
+    {
+      "id": 20536,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20536",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [
+      "FILME Female",
+      "FILME Komödien"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: SMS für Dich",
+    "text": "Clara trauert seit zwei Jahren über den Verlust ihrer großen Liebe Ben, der bei einem Autounfall ums Leben gekommen ist. Sie hat ihren Lebensmut verloren. Selbst ihrer forschen Mitbewohnerin und besten Freundin Katja gelingt es nicht, Clara wieder aufzuheitern. Irgendwann beschließt Clara voller Wehmut, eine SMS an Bens alte Handynummer zu schreiben. Sie ahnt nicht, dass die Nummer inzwischen neu vergeben wurde.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/sms-fuer-dich-20536",
+        "description": "Clara trauert seit zwei Jahren über den Verlust ihrer großen Liebe Ben, der bei einem Autounfall ums Leben gekommen ist. Sie hat ihren Lebensmut verloren. Selbst ihrer forschen Mitbewohnerin und besten Freundin Katja gelingt es nicht, Clara wieder aufzuheitern. Irgendwann beschließt Clara voller Wehmut, eine SMS an Bens alte Handynummer zu schreiben. Sie ahnt nicht, dass die Nummer inzwischen neu vergeben wurde.",
+        "duration": "PT1H43M6S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4785826/1200x0/sms-fuer-dich.jpg",
+        "name": "SMS für dich",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/sms-fuer-dich-20536",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=sms-fuer-dich-20536",
+              "sameAs": "%s/premium?typ=format&formatname=sms-fuer-dich-20536",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/sms-fuer-dich-20536",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Clara trauert seit zwei Jahren über den Verlust ihrer großen Liebe Ben, der bei einem Autounfall ums Leben gekommen ist. Sie hat ihren Lebensmut verloren. Selbst ihrer forschen Mitbewohnerin und besten Freundin Katja gelingt es nicht, Clara wieder aufzuheitern. Irgendwann beschließt Clara voller Wehmut, eine SMS an Bens alte Handynummer zu schreiben. Sie ahnt nicht, dass die Nummer inzwischen neu vergeben wurde.",
+          "duration": "PT1H43M6S",
+          "embedUrl": "%s/googlebot/player/filme/sms-fuer-dich-20536",
+          "name": "SMS für dich",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4785826/1200x0/sms-fuer-dich.jpg",
+          "uploadDate": "2022-04-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "SMS für dich im Online Stream | RTL+",
+        "headline": "SMS für dich im Online Stream | RTL+",
+        "description": "SMS für dich und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei RTL+. Ein Film mit ▶️Karoline Herfurth, Friedrich Mücke, Nora Tschirner, Frederick Lau.",
+        "url": "%s/filme/sms-fuer-dich-20536",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4785826/1200x0/sms-fuer-dich.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4785826/1200x0/sms-fuer-dich.jpg",
+        "datePublished": "2022-04-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4785826/1200x0/sms-fuer-dich.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "SMS für dich",
+            "item": "%s/filme/sms-fuer-dich-20536"
+          }
+        ]
+      }
+    }
+  },
+  "title": "SMS für dich im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

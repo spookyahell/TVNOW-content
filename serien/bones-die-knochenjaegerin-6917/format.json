@@ -1,0 +1,202 @@
+﻿{
+  "formatId": 6917,
+  "additionalMeta": {
+    "canonical": "/serien/bones-die-knochenjaegerin-6917",
+    "url": "/serien/bones-die-knochenjaegerin-6917"
+  },
+  "ads": {
+    "station": "crime",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Serien",
+      "url": "/serien"
+    },
+    {
+      "name": "Bones - RTL Crime",
+      "url": "/serien/bones-die-knochenjaegerin-6917"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 6917,
+  "meta": [
+    {
+      "content": "Die Serie Bones - RTL Crime (RTL Crime) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Crime im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "name": "description"
+    },
+    {
+      "content": "Bones - Die Knochenjägerin, video, videos, online sehen, internet tv, fernsehen, video on demand, RTL+",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Bones - RTL Crime im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Serie Bones - RTL Crime (RTL Crime) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Crime im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/serien/bones-die-knochenjaegerin-6917"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/6917_03artwork/1600x0/bones-die-knochenjaegerin.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/6917",
+      "type": "teaserrow"
+    },
+    {
+      "id": 6917,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/6917",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_cnrtlcrime",
+      "video": "dvrsowf_ten_cnrtlcrime",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/crime_now/formate/crime_format/home",
+      "levels": [
+        "tv_now_de",
+        "crime_now",
+        "formate",
+        "crime_format",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Crime",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Information zur Serie: Bones - Die Knochenjägerin",
+    "text": "Bones - Die Knochenjägerin und viele weitere Serien kannst Du gemütlich online auf RTL+ im Stream anschauen. Also nichts wie los – hole das Knabberzeug raus und genieße Deine Serie ganz entspannt von unterwegs oder von zu Hause aus mit Freunden.",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/serien/bones-die-knochenjaegerin-6917",
+        "url": "%s/serien/bones-die-knochenjaegerin-6917",
+        "name": "Bones - RTL Crime",
+        "description": "Die Serie Bones - RTL Crime (RTL Crime) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Crime im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/6917_04metalogo/1200x0/bones-die-knochenjaegerin.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Information zur Serie: Bones - Die Knochenjägerin",
+        "headline": "Information zur Serie: Bones - Die Knochenjägerin",
+        "description": "Die Serie Bones - RTL Crime (RTL Crime) streamen ▶ Viele weitere Serien-Episoden aus dem Genre 📺 Crime im Online Stream bei RTL+ (ehemals TVNOW) anschauen.",
+        "url": "%s/serien/bones-die-knochenjaegerin-6917",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/6917_04metalogo/1200x0/bones-die-knochenjaegerin.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/6917_04metalogo/1200x0/bones-die-knochenjaegerin.png",
+        "keywords": "Bones - Die Knochenjägerin, video, videos, online sehen, internet tv, fernsehen, video on demand, RTL+",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/6917_04metalogo/1200x0/bones-die-knochenjaegerin.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Serien",
+            "item": "%s/serien"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bones - RTL Crime",
+            "item": "%s/serien/bones-die-knochenjaegerin-6917"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Bones - RTL Crime im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

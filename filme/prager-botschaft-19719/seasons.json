@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19719",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19719,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/prager-botschaft-19719"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Prager Botschaft",
+          "teaserId": "film_4113842",
+          "teaserName": "Prager Botschaft | Prager Botschaft",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Drama",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "Sa. 19.06.2021, 20:15 Uhr",
+          "teaserEpisodeName": "Prager Botschaft"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Prager Botschaft",
+        "id": 4113842,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4113842/300x0/prager-botschaft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4113842/",
+            "filename": "prager-botschaft"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4113842/600x0/prager-botschaft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4113842/",
+            "filename": "prager-botschaft"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4113842/1200x0/prager-botschaft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4113842/",
+            "filename": "prager-botschaft"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4113842/300x0/prager-botschaft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4113842/",
+            "filename": "prager-botschaft"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4113842/600x0/prager-botschaft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4113842/",
+            "filename": "prager-botschaft"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4113842/1200x0/prager-botschaft.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4113842/",
+            "filename": "prager-botschaft"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "prager-botschaft",
+        "subheadline": "Prager Botschaft",
+        "text": "Staffel  | Sa. 19.06.2021, 20:15 Uhr",
+        "type": "film",
+        "url": "/filme/prager-botschaft-19719",
+        "videoId": 4113842
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

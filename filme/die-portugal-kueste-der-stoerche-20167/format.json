@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20167,
+  "additionalMeta": {
+    "canonical": "/filme/die-portugal-kueste-der-stoerche-20167",
+    "url": "/filme/die-portugal-kueste-der-stoerche-20167"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Portugal - Küste der Störche",
+      "url": "/filme/die-portugal-kueste-der-stoerche-20167"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20167,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Portugal - Küste der Störche 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Portugal - Küste der Störche im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Portugal - Küste der Störche 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/die-portugal-kueste-der-stoerche-20167"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4323473/1600x0/portugal-die-kueste-der-stoerche.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4323473,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4323473",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20167"
+    },
+    {
+      "id": 20167,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20167",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnportugalkueste",
+      "video": "dvrsowf_ten_tnportugalkueste",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/portugal_kueste/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "portugal_kueste",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Die Portugal - Küste der Störche",
+    "text": "Der \"Klapperstorch\" mal anders: in Portugals rauem Südwesten gleicht die Lebensweise der symbolträchtigen Vögel eher der einer Sturmmöwe. Hoch oben auf den Klippen haben sie ihre Nester. An der Schnittstelle zwischen Atlantik und mediterranem Klima sorgt die Bevölkerung seit vielen Generationen für ihren Schutz. Seit kurzem steht der beschaulichen Tradition allerdings eine neue Welle von Tourismus und Industrie entgegen.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/portugal-die-kueste-der-stoerche-20167",
+        "description": "Der \"Klapperstorch\" mal anders: in Portugals rauem Südwesten gleicht die Lebensweise der symbolträchtigen Vögel eher der einer Sturmmöwe. Hoch oben auf den Klippen haben sie ihre Nester. An der Schnittstelle zwischen Atlantik und mediterranem Klima sorgt die Bevölkerung seit vielen Generationen für ihren Schutz. Seit kurzem steht der beschaulichen Tradition allerdings eine neue Welle von Tourismus und Industrie entgegen.",
+        "duration": "PT52M55S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4323473/1200x0/die-portugal-kueste-der-stoerche.jpg",
+        "name": "Portugal - Küste der Störche",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/portugal-die-kueste-der-stoerche-20167",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-12-14T00:01:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=die-portugal-kueste-der-stoerche-20167",
+              "sameAs": "%s/premium?typ=format&formatname=die-portugal-kueste-der-stoerche-20167",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/portugal-die-kueste-der-stoerche-20167",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Der \"Klapperstorch\" mal anders: in Portugals rauem Südwesten gleicht die Lebensweise der symbolträchtigen Vögel eher der einer Sturmmöwe. Hoch oben auf den Klippen haben sie ihre Nester. An der Schnittstelle zwischen Atlantik und mediterranem Klima sorgt die Bevölkerung seit vielen Generationen für ihren Schutz. Seit kurzem steht der beschaulichen Tradition allerdings eine neue Welle von Tourismus und Industrie entgegen.",
+          "duration": "PT52M55S",
+          "embedUrl": "%s/googlebot/player/filme/portugal-die-kueste-der-stoerche-20167",
+          "name": "Portugal - Küste der Störche",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323473/1200x0/die-portugal-kueste-der-stoerche.jpg",
+          "uploadDate": "2021-12-14T00:01:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Portugal - Küste der Störche im Online Stream | RTL+",
+        "headline": "Portugal - Küste der Störche im Online Stream | RTL+",
+        "description": "Portugal - Küste der Störche und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/portugal-die-kueste-der-stoerche-20167",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4323473/1200x0/die-portugal-kueste-der-stoerche.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323473/1200x0/die-portugal-kueste-der-stoerche.jpg",
+        "datePublished": "2021-12-14T00:01:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4323473/1200x0/die-portugal-kueste-der-stoerche.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Portugal - Küste der Störche",
+            "item": "%s/filme/die-portugal-kueste-der-stoerche-20167"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Portugal - Küste der Störche im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

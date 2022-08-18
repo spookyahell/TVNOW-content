@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20547,
+  "additionalMeta": {
+    "canonical": "/filme/nur-ein-kleiner-gefallen-20547",
+    "url": "/filme/nur-ein-kleiner-gefallen-20547"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Nur ein kleiner Gefallen",
+      "url": "/filme/nur-ein-kleiner-gefallen-20547"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20547,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Nur ein kleiner Gefallen 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Nur ein kleiner Gefallen im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Nur ein kleiner Gefallen 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/nur-ein-kleiner-gefallen-20547"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4775563/1600x0/nur-ein-kleiner-gefallen.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4775563,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4775563",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20547"
+    },
+    {
+      "id": 20547,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20547",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [
+      "FILME Komödien"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Nur ein kleiner Gefallen",
+    "text": "Die verwitwete Stephanie Smothers hat sich mit ihrer wohlhabenden Nachbarin Emily Nelson angefreundet, deren Sohn Nicky die gleiche Grundschule besucht wie Stephanies Sohn Miles. Nachdem Stephanie eines Tages beide Jungs von der Schule abgeholt hat, wartet sie vergeblich darauf, dass Emily Miles abholt. Emilys Mann Sean und Stephanie suchen nach Emily und kommen sich dabei näher. Als Emilys Leiche gefunden wird, entsteht ein böser Verdacht.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/nur-ein-kleiner-gefallen-20547",
+        "description": "Die verwitwete Stephanie Smothers hat sich mit ihrer wohlhabenden Nachbarin Emily Nelson angefreundet, deren Sohn Nicky die gleiche Grundschule besucht wie Stephanies Sohn Miles. Nachdem Stephanie eines Tages beide Jungs von der Schule abgeholt hat, wartet sie vergeblich darauf, dass Emily Miles abholt. Emilys Mann Sean und Stephanie suchen nach Emily und kommen sich dabei näher. Als Emilys Leiche gefunden wird, entsteht ein böser Verdacht.",
+        "duration": "PT1H52M19S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4775563/1200x0/nur-ein-kleiner-gefallen.jpg",
+        "name": "Nur ein kleiner Gefallen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/nur-ein-kleiner-gefallen-20547",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=nur-ein-kleiner-gefallen-20547",
+              "sameAs": "%s/premium?typ=format&formatname=nur-ein-kleiner-gefallen-20547",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/nur-ein-kleiner-gefallen-20547",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die verwitwete Stephanie Smothers hat sich mit ihrer wohlhabenden Nachbarin Emily Nelson angefreundet, deren Sohn Nicky die gleiche Grundschule besucht wie Stephanies Sohn Miles. Nachdem Stephanie eines Tages beide Jungs von der Schule abgeholt hat, wartet sie vergeblich darauf, dass Emily Miles abholt. Emilys Mann Sean und Stephanie suchen nach Emily und kommen sich dabei näher. Als Emilys Leiche gefunden wird, entsteht ein böser Verdacht.",
+          "duration": "PT1H52M19S",
+          "embedUrl": "%s/googlebot/player/filme/nur-ein-kleiner-gefallen-20547",
+          "name": "Nur ein kleiner Gefallen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4775563/1200x0/nur-ein-kleiner-gefallen.jpg",
+          "uploadDate": "2022-04-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Nur ein kleiner Gefallen im Online Stream | RTL+",
+        "headline": "Nur ein kleiner Gefallen im Online Stream | RTL+",
+        "description": "Nur ein kleiner Gefallen und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/nur-ein-kleiner-gefallen-20547",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4775563/1200x0/nur-ein-kleiner-gefallen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4775563/1200x0/nur-ein-kleiner-gefallen.jpg",
+        "datePublished": "2022-04-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4775563/1200x0/nur-ein-kleiner-gefallen.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Nur ein kleiner Gefallen",
+            "item": "%s/filme/nur-ein-kleiner-gefallen-20547"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Nur ein kleiner Gefallen im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

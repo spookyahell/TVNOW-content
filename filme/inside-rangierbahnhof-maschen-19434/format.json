@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 19434,
+  "additionalMeta": {
+    "canonical": "/filme/inside-rangierbahnhof-maschen-19434",
+    "url": "/filme/inside-rangierbahnhof-maschen-19434"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Inside - Rangierbahnhof Maschen",
+      "url": "/filme/inside-rangierbahnhof-maschen-19434"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 19434,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Inside - Rangierbahnhof Maschen 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Inside - Rangierbahnhof Maschen im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Inside - Rangierbahnhof Maschen 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/inside-rangierbahnhof-maschen-19434"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3905900/1600x0/inside-rangierbahnhof-maschen.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3905900,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3905900",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19434"
+    },
+    {
+      "id": 19434,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19434",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Inside - Rangierbahnhof Maschen",
+    "text": "Europas größter Rangierbahnhof in Maschen ist ein entscheidender Knotenpunkte für den Güterverkehr in Deutschland. Containerwagen, Autozüge oder Gefahrguttransporte machen alle einen entscheidenden Zwischenstopp auf ihrer Reise an diesem Rangierbahnhof, einem wahren Logistik-Hot-Spot. Dort trifft schwere körperliche Arbeit auf modernste Hightech-Prozesse. Die Dokumentation zeigt, welche logistischen Fäden dort gezogen werden.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/inside-rangierbahnhof-maschen-19434",
+        "description": "Europas größter Rangierbahnhof in Maschen ist ein entscheidender Knotenpunkte für den Güterverkehr in Deutschland. Containerwagen, Autozüge oder Gefahrguttransporte machen alle einen entscheidenden Zwischenstopp auf ihrer Reise an diesem Rangierbahnhof, einem wahren Logistik-Hot-Spot. Dort trifft schwere körperliche Arbeit auf modernste Hightech-Prozesse. Die Dokumentation zeigt, welche logistischen Fäden dort gezogen werden.",
+        "duration": "PT40M21S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3905900/1200x0/inside-rangierbahnhof-maschen.jpg",
+        "name": "Inside - Rangierbahnhof Maschen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/inside-rangierbahnhof-maschen-19434",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2021-08-08T05:18:48.000Z"
+          }
+        },
+        "url": "%s/filme/inside-rangierbahnhof-maschen-19434",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Europas größter Rangierbahnhof in Maschen ist ein entscheidender Knotenpunkte für den Güterverkehr in Deutschland. Containerwagen, Autozüge oder Gefahrguttransporte machen alle einen entscheidenden Zwischenstopp auf ihrer Reise an diesem Rangierbahnhof, einem wahren Logistik-Hot-Spot. Dort trifft schwere körperliche Arbeit auf modernste Hightech-Prozesse. Die Dokumentation zeigt, welche logistischen Fäden dort gezogen werden.",
+          "duration": "PT40M21S",
+          "embedUrl": "%s/googlebot/player/filme/inside-rangierbahnhof-maschen-19434",
+          "name": "Inside - Rangierbahnhof Maschen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3905900/1200x0/inside-rangierbahnhof-maschen.jpg",
+          "uploadDate": "2021-08-08T05:18:48.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Inside - Rangierbahnhof Maschen im Online Stream | RTL+",
+        "headline": "Inside - Rangierbahnhof Maschen im Online Stream | RTL+",
+        "description": "Inside - Rangierbahnhof Maschen und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/inside-rangierbahnhof-maschen-19434",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3905900/1200x0/inside-rangierbahnhof-maschen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3905900/1200x0/inside-rangierbahnhof-maschen.jpg",
+        "datePublished": "2021-08-08T05:18:48.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3905900/1200x0/inside-rangierbahnhof-maschen.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Inside - Rangierbahnhof Maschen",
+            "item": "%s/filme/inside-rangierbahnhof-maschen-19434"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Inside - Rangierbahnhof Maschen im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

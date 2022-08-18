@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20732",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20732,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/von-loewen-und-hyaenen-20732"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Von Löwen und Hyänen",
+          "teaserId": "film_4840638",
+          "teaserName": "Von Löwen und Hyänen | Von Löwen und Hyänen",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "GEO WILD",
+          "teaserEpisodeName": "Von Löwen und Hyänen"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Von Löwen und Hyänen",
+        "id": 4840638,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4840638/300x0/von-loewen-und-hyaenen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4840638/",
+            "filename": "von-loewen-und-hyaenen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4840638/600x0/von-loewen-und-hyaenen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4840638/",
+            "filename": "von-loewen-und-hyaenen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4840638/1200x0/von-loewen-und-hyaenen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4840638/",
+            "filename": "von-loewen-und-hyaenen"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4840638/300x0/von-loewen-und-hyaenen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4840638/",
+            "filename": "von-loewen-und-hyaenen"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4840638/600x0/von-loewen-und-hyaenen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4840638/",
+            "filename": "von-loewen-und-hyaenen"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4840638/1200x0/von-loewen-und-hyaenen.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4840638/",
+            "filename": "von-loewen-und-hyaenen"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "von-loewen-und-hyaenen",
+        "subheadline": "Von Löwen und Hyänen",
+        "text": "Staffel  | GEO WILD",
+        "type": "film",
+        "url": "/filme/von-loewen-und-hyaenen-20732",
+        "videoId": 4840638
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

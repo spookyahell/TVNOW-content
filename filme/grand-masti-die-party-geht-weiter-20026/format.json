@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20026,
+  "additionalMeta": {
+    "canonical": "/filme/grand-masti-die-party-geht-weiter-20026",
+    "url": "/filme/grand-masti-die-party-geht-weiter-20026"
+  },
+  "ads": {
+    "station": "passion",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Grand Masti - Die Party geht weiter!",
+      "url": "/filme/grand-masti-die-party-geht-weiter-20026"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20026,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Grand Masti - Die Party geht weiter! 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Grand Masti - Die Party geht weiter! im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Grand Masti - Die Party geht weiter! 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/grand-masti-die-party-geht-weiter-20026"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4172589/1600x0/grand-masti-die-party-geht-weiter.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4172589,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4172589",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20026"
+    },
+    {
+      "id": 20026,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20026",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/passion_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "passion_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Grand Masti - Die Party geht weiter!",
+    "text": "Drei verheiratete Männer lassen es im Zuge eines Klassentreffens eine Nacht lang richtig krachen.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/grand-masti-die-party-geht-weiter-20026",
+        "description": "Drei verheiratete Männer lassen es im Zuge eines Klassentreffens eine Nacht lang richtig krachen.",
+        "duration": "PT1H33M13S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4172589/1200x0/grand-masti-die-party-geht-weiter.jpg",
+        "name": "Grand Masti - Die Party geht weiter!",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/grand-masti-die-party-geht-weiter-20026",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-23T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=grand-masti-die-party-geht-weiter-20026",
+              "sameAs": "%s/premium?typ=format&formatname=grand-masti-die-party-geht-weiter-20026",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/grand-masti-die-party-geht-weiter-20026",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Drei verheiratete Männer lassen es im Zuge eines Klassentreffens eine Nacht lang richtig krachen.",
+          "duration": "PT1H33M13S",
+          "embedUrl": "%s/googlebot/player/filme/grand-masti-die-party-geht-weiter-20026",
+          "name": "Grand Masti - Die Party geht weiter!",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4172589/1200x0/grand-masti-die-party-geht-weiter.jpg",
+          "uploadDate": "2022-07-23T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Grand Masti - Die Party geht weiter! im Online Stream | RTL+",
+        "headline": "Grand Masti - Die Party geht weiter! im Online Stream | RTL+",
+        "description": "Grand Masti - Die Party geht weiter! und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+. Ein Film mit ▶️Vivek Oberoi, Riteish Deshmukh, Aftab Shivdasani, Karishma Tanna, Manjari Fadnnis.",
+        "url": "%s/filme/grand-masti-die-party-geht-weiter-20026",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4172589/1200x0/grand-masti-die-party-geht-weiter.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4172589/1200x0/grand-masti-die-party-geht-weiter.jpg",
+        "datePublished": "2022-07-23T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4172589/1200x0/grand-masti-die-party-geht-weiter.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Grand Masti - Die Party geht weiter!",
+            "item": "%s/filme/grand-masti-die-party-geht-weiter-20026"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Grand Masti - Die Party geht weiter! im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

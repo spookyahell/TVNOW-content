@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19699",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19699,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/pitch-perfect-2-19699"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Pitch Perfect 2",
+          "teaserId": "film_4109098",
+          "teaserName": "Pitch Perfect 2 | Pitch Perfect 2",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Pitch Perfect 2"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Pitch Perfect 2",
+        "id": 4109098,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4109098/300x0/pitch-perfect-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4109098/",
+            "filename": "pitch-perfect-2"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4109098/600x0/pitch-perfect-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4109098/",
+            "filename": "pitch-perfect-2"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4109098/1200x0/pitch-perfect-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4109098/",
+            "filename": "pitch-perfect-2"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4109098/300x0/pitch-perfect-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4109098/",
+            "filename": "pitch-perfect-2"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4109098/600x0/pitch-perfect-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4109098/",
+            "filename": "pitch-perfect-2"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4109098/1200x0/pitch-perfect-2.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4109098/",
+            "filename": "pitch-perfect-2"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "pitch-perfect-2",
+        "subheadline": "Pitch Perfect 2",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/pitch-perfect-2-19699",
+        "videoId": 4109098
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20552",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20552,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/la-la-land-20552"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "La La Land",
+          "teaserId": "film_4785711",
+          "teaserName": "La La Land | La La Land",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Romantik",
+          "cluster": [
+            "FILME Female"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "La La Land"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "La La Land",
+        "id": 4785711,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785711/300x0/la-la-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785711/",
+            "filename": "la-la-land"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785711/600x0/la-la-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785711/",
+            "filename": "la-la-land"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785711/1200x0/la-la-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785711/",
+            "filename": "la-la-land"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785711/300x0/la-la-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785711/",
+            "filename": "la-la-land"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785711/600x0/la-la-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785711/",
+            "filename": "la-la-land"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4785711/1200x0/la-la-land.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4785711/",
+            "filename": "la-la-land"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "la-la-land",
+        "subheadline": "La La Land",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/la-la-land-20552",
+        "videoId": 4785711
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

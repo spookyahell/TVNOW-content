@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19895,
+  "additionalMeta": {
+    "canonical": "/filme/padmaavat-ein-koenigreich-fuer-die-liebe-19895",
+    "url": "/filme/padmaavat-ein-koenigreich-fuer-die-liebe-19895"
+  },
+  "ads": {
+    "station": "passion",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Padmaavat - Ein Königreich für die Liebe",
+      "url": "/filme/padmaavat-ein-koenigreich-fuer-die-liebe-19895"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19895,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Padmaavat - Ein Königreich für die Liebe 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Padmaavat - Ein Königreich für die Liebe im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Padmaavat - Ein Königreich für die Liebe 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/padmaavat-ein-koenigreich-fuer-die-liebe-19895"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4159423/1600x0/padmaavat-ein-koenigreich-fuer-die-liebe.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4159423,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4159423",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19895"
+    },
+    {
+      "id": 19895,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19895",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/passion_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "passion_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Padmaavat - Ein Königreich für die Liebe",
+    "text": "Die epische und dramatische Geschichte um Königin Rani Padmavati, die sich selbst tötet, um sich vor dem Sultan Alauddin Khilji zu schützen.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/padmaavat-ein-koenigreich-fuer-die-liebe-19895",
+        "description": "Die epische und dramatische Geschichte um Königin Rani Padmavati, die sich selbst tötet, um sich vor dem Sultan Alauddin Khilji zu schützen.",
+        "duration": "PT2H43M23S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4159423/1200x0/padmaavat-ein-koenigreich-fuer-die-liebe.jpg",
+        "name": "Padmaavat - Ein Königreich für die Liebe",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/padmaavat-ein-koenigreich-fuer-die-liebe-19895",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-06-25T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=padmaavat-ein-koenigreich-fuer-die-liebe-19895",
+              "sameAs": "%s/premium?typ=format&formatname=padmaavat-ein-koenigreich-fuer-die-liebe-19895",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/padmaavat-ein-koenigreich-fuer-die-liebe-19895",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die epische und dramatische Geschichte um Königin Rani Padmavati, die sich selbst tötet, um sich vor dem Sultan Alauddin Khilji zu schützen.",
+          "duration": "PT2H43M23S",
+          "embedUrl": "%s/googlebot/player/filme/padmaavat-ein-koenigreich-fuer-die-liebe-19895",
+          "name": "Padmaavat - Ein Königreich für die Liebe",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4159423/1200x0/padmaavat-ein-koenigreich-fuer-die-liebe.jpg",
+          "uploadDate": "2022-06-25T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Padmaavat - Ein Königreich für die Liebe im Online Stream | RTL+",
+        "headline": "Padmaavat - Ein Königreich für die Liebe im Online Stream | RTL+",
+        "description": "Padmaavat - Ein Königreich für die Liebe und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+. Ein Film mit ▶️Deepika Padukone, Ranveer Singh, Shahid Kapoor, Aditi Rao Hydari, Padmavati Rao, Anupriya Goenka, Aneesha Joshi.",
+        "url": "%s/filme/padmaavat-ein-koenigreich-fuer-die-liebe-19895",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4159423/1200x0/padmaavat-ein-koenigreich-fuer-die-liebe.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4159423/1200x0/padmaavat-ein-koenigreich-fuer-die-liebe.jpg",
+        "datePublished": "2022-06-25T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4159423/1200x0/padmaavat-ein-koenigreich-fuer-die-liebe.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Padmaavat - Ein Königreich für die Liebe",
+            "item": "%s/filme/padmaavat-ein-koenigreich-fuer-die-liebe-19895"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Padmaavat - Ein Königreich für die Liebe im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

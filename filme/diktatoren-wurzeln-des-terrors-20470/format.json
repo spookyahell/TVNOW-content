@@ -1,0 +1,231 @@
+﻿{
+  "formatId": 20470,
+  "additionalMeta": {
+    "canonical": "/filme/diktatoren-wurzeln-des-terrors-20470",
+    "url": "/filme/diktatoren-wurzeln-des-terrors-20470"
+  },
+  "ads": {
+    "station": "ntv",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Diktatoren - Wurzeln des Terrors",
+      "url": "/filme/diktatoren-wurzeln-des-terrors-20470"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 20470,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Diktatoren - Wurzeln des Terrors 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Diktatoren - Wurzeln des Terrors im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Diktatoren - Wurzeln des Terrors 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/diktatoren-wurzeln-des-terrors-20470"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4722092/1600x0/diktatoren-wurzeln-des-terrors.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4722092,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4722092",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20470"
+    },
+    {
+      "id": 20470,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20470",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_nnfilme",
+      "video": "dvrsowf_ten_nnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/ntv_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "ntv_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Wissen"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Diktatoren - Wurzeln des Terrors",
+    "text": "Hitler, Mussolini, Stalin, Mao, Pol Pot, Saddam Hussein, Kim Jong Un: Alle dieser Diktatoren waren einst Kinder und Teenager, bevor sie zu Tyrannen wurden. Die Dokumentation blickt in die Kindheit und die Jugendzeit der schrecklichsten Diktatoren im 20. und 21. Jahrhundert. Die Porträts dieser Jugendlichen begeben sich auf die Spur nach den Wurzeln des Wesens dieser Männer, die später absolute Macht anstrebten.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/diktatoren-wurzeln-des-terrors-20470",
+        "description": "Hitler, Mussolini, Stalin, Mao, Pol Pot, Saddam Hussein, Kim Jong Un: Alle dieser Diktatoren waren einst Kinder und Teenager, bevor sie zu Tyrannen wurden. Die Dokumentation blickt in die Kindheit und die Jugendzeit der schrecklichsten Diktatoren im 20. und 21. Jahrhundert. Die Porträts dieser Jugendlichen begeben sich auf die Spur nach den Wurzeln des Wesens dieser Männer, die später absolute Macht anstrebten.",
+        "duration": "PT42M34S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4722092/1200x0/diktatoren-wurzeln-des-terrors.jpg",
+        "name": "Diktatoren - Wurzeln des Terrors",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/diktatoren-wurzeln-des-terrors-20470",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2022-07-25T21:07:00.000Z"
+          }
+        },
+        "url": "%s/filme/diktatoren-wurzeln-des-terrors-20470",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Hitler, Mussolini, Stalin, Mao, Pol Pot, Saddam Hussein, Kim Jong Un: Alle dieser Diktatoren waren einst Kinder und Teenager, bevor sie zu Tyrannen wurden. Die Dokumentation blickt in die Kindheit und die Jugendzeit der schrecklichsten Diktatoren im 20. und 21. Jahrhundert. Die Porträts dieser Jugendlichen begeben sich auf die Spur nach den Wurzeln des Wesens dieser Männer, die später absolute Macht anstrebten.",
+          "duration": "PT42M34S",
+          "embedUrl": "%s/googlebot/player/filme/diktatoren-wurzeln-des-terrors-20470",
+          "name": "Diktatoren - Wurzeln des Terrors",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4722092/1200x0/diktatoren-wurzeln-des-terrors.jpg",
+          "uploadDate": "2022-07-25T21:07:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Diktatoren - Wurzeln des Terrors im Online Stream | RTL+",
+        "headline": "Diktatoren - Wurzeln des Terrors im Online Stream | RTL+",
+        "description": "Diktatoren - Wurzeln des Terrors und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/diktatoren-wurzeln-des-terrors-20470",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4722092/1200x0/diktatoren-wurzeln-des-terrors.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4722092/1200x0/diktatoren-wurzeln-des-terrors.jpg",
+        "datePublished": "2022-07-25T21:07:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4722092/1200x0/diktatoren-wurzeln-des-terrors.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Diktatoren - Wurzeln des Terrors",
+            "item": "%s/filme/diktatoren-wurzeln-des-terrors-20470"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Diktatoren - Wurzeln des Terrors im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

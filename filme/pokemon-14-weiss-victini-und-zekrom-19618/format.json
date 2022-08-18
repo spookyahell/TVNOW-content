@@ -1,0 +1,241 @@
+﻿{
+  "formatId": 19618,
+  "additionalMeta": {
+    "canonical": "/filme/pokemon-14-weiss-victini-und-zekrom-19618",
+    "url": "/filme/pokemon-14-weiss-victini-und-zekrom-19618"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Pokémon 14: Weiß - Victini und Zekrom",
+      "url": "/filme/pokemon-14-weiss-victini-und-zekrom-19618"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19618,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Pokémon 14: Weiß - Victini und Zekrom 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Pokémon 14: Weiß - Victini und Zekrom im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Pokémon 14: Weiß - Victini und Zekrom 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/pokemon-14-weiss-victini-und-zekrom-19618"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3966075/1600x0/pokemon-14-weiss-victini-und-zekrom.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3966075,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3966075",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19618"
+    },
+    {
+      "id": 19618,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19618",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Action und Abenteuer",
+      "KIDS Jungs",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Pokémon 14: Weiß - Victini und Zekrom - Alle Informationen zum Film",
+    "text": "Ash und seine Freunde Lilia und Benny begeben sich auf eine Reise durch die Einall-Region. Sie machen in einem Ort in Eindoak Town Halt, in dessen Mitte ein Schloss mit Namen Schwert des Tieflandes liegt...",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/pokemon-14-weiss-victini-und-zekrom-19618",
+        "description": "Ash und seine Freunde Lilia und Benny begeben sich auf eine Reise durch die Einall-Region. Sie machen in einem Ort in Eindoak Town Halt, in dessen Mitte ein Schloss mit Namen Schwert des Tieflandes liegt...",
+        "duration": "PT1H31M31S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3966075/1200x0/pokemon-14-weiss-victini-und-zekrom.jpg",
+        "name": "Pokémon 14: Weiß - Victini und Zekrom",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/pokemon-14-weiss-victini-und-zekrom-19618",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-08-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=pokemon-14-weiss-victini-und-zekrom-19618",
+              "sameAs": "%s/premium?typ=format&formatname=pokemon-14-weiss-victini-und-zekrom-19618",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/pokemon-14-weiss-victini-und-zekrom-19618",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Ash und seine Freunde Lilia und Benny begeben sich auf eine Reise durch die Einall-Region. Sie machen in einem Ort in Eindoak Town Halt, in dessen Mitte ein Schloss mit Namen Schwert des Tieflandes liegt...",
+          "duration": "PT1H31M31S",
+          "embedUrl": "%s/googlebot/player/filme/pokemon-14-weiss-victini-und-zekrom-19618",
+          "name": "Pokémon 14: Weiß - Victini und Zekrom",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3966075/1200x0/pokemon-14-weiss-victini-und-zekrom.jpg",
+          "uploadDate": "2022-08-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Pokémon 14: Weiß - Victini und Zekrom im Online Stream | RTL+",
+        "headline": "Pokémon 14: Weiß - Victini und Zekrom im Online Stream | RTL+",
+        "description": "Pokémon 14: Weiß - Victini und Zekrom und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/pokemon-14-weiss-victini-und-zekrom-19618",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3966075/1200x0/pokemon-14-weiss-victini-und-zekrom.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3966075/1200x0/pokemon-14-weiss-victini-und-zekrom.jpg",
+        "datePublished": "2022-08-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3966075/1200x0/pokemon-14-weiss-victini-und-zekrom.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pokémon 14: Weiß - Victini und Zekrom",
+            "item": "%s/filme/pokemon-14-weiss-victini-und-zekrom-19618"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Pokémon 14: Weiß - Victini und Zekrom im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

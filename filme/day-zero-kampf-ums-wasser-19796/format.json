@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19796,
+  "additionalMeta": {
+    "canonical": "/filme/day-zero-kampf-ums-wasser-19796",
+    "url": "/filme/day-zero-kampf-ums-wasser-19796"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Day Zero - Kampf ums Wasser",
+      "url": "/filme/day-zero-kampf-ums-wasser-19796"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19796,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Day Zero - Kampf ums Wasser 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Day Zero - Kampf ums Wasser im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Day Zero - Kampf ums Wasser 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/day-zero-kampf-ums-wasser-19796"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4141435/1600x0/day-zero-kampf-ums-wasser.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4141435,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4141435",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19796"
+    },
+    {
+      "id": 19796,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19796",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Day Zero - Kampf ums Wasser",
+    "text": "Unsere wertvollste Ressource wird immer knapper: Süßwasser. Eine Reise um den Globus führt \"Day Zero\" an die Frontlinien der Kämpfe um Wasser. Gedreht über drei Jahre, verbindet der Dokumentarfilm die Fäden zwischen weltweiten Krisenherden und zeigt, wie diese auf eine bevorstehende globale Katastrophe hinweisen und wie die Kombination von Klimawandel und Bevölkerungswachstums unsere Vorstellungen von und Umgang mit Wasser in Frage stellen.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/day-zero-kampf-ums-wasser-19796",
+        "description": "Unsere wertvollste Ressource wird immer knapper: Süßwasser. Eine Reise um den Globus führt \"Day Zero\" an die Frontlinien der Kämpfe um Wasser. Gedreht über drei Jahre, verbindet der Dokumentarfilm die Fäden zwischen weltweiten Krisenherden und zeigt, wie diese auf eine bevorstehende globale Katastrophe hinweisen und wie die Kombination von Klimawandel und Bevölkerungswachstums unsere Vorstellungen von und Umgang mit Wasser in Frage stellen.",
+        "duration": "PT52M2S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4141435/1200x0/day-zero-kampf-ums-wasser.jpg",
+        "name": "Day Zero - Kampf ums Wasser",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/day-zero-kampf-ums-wasser-19796",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-08-27T06:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=day-zero-kampf-ums-wasser-19796",
+              "sameAs": "%s/premium?typ=format&formatname=day-zero-kampf-ums-wasser-19796",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/day-zero-kampf-ums-wasser-19796",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Unsere wertvollste Ressource wird immer knapper: Süßwasser. Eine Reise um den Globus führt \"Day Zero\" an die Frontlinien der Kämpfe um Wasser. Gedreht über drei Jahre, verbindet der Dokumentarfilm die Fäden zwischen weltweiten Krisenherden und zeigt, wie diese auf eine bevorstehende globale Katastrophe hinweisen und wie die Kombination von Klimawandel und Bevölkerungswachstums unsere Vorstellungen von und Umgang mit Wasser in Frage stellen.",
+          "duration": "PT52M2S",
+          "embedUrl": "%s/googlebot/player/filme/day-zero-kampf-ums-wasser-19796",
+          "name": "Day Zero - Kampf ums Wasser",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4141435/1200x0/day-zero-kampf-ums-wasser.jpg",
+          "uploadDate": "2021-08-27T06:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Day Zero - Kampf ums Wasser im Online Stream | RTL+",
+        "headline": "Day Zero - Kampf ums Wasser im Online Stream | RTL+",
+        "description": "Day Zero - Kampf ums Wasser und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/day-zero-kampf-ums-wasser-19796",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4141435/1200x0/day-zero-kampf-ums-wasser.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4141435/1200x0/day-zero-kampf-ums-wasser.jpg",
+        "datePublished": "2021-08-27T06:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4141435/1200x0/day-zero-kampf-ums-wasser.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Day Zero - Kampf ums Wasser",
+            "item": "%s/filme/day-zero-kampf-ums-wasser-19796"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Day Zero - Kampf ums Wasser im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

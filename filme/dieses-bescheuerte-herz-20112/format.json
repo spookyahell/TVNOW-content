@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20112,
+  "additionalMeta": {
+    "canonical": "/filme/dieses-bescheuerte-herz-20112",
+    "url": "/filme/dieses-bescheuerte-herz-20112"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Dieses bescheuerte Herz",
+      "url": "/filme/dieses-bescheuerte-herz-20112"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20112,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Dieses bescheuerte Herz 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Dieses bescheuerte Herz im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Dieses bescheuerte Herz 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/dieses-bescheuerte-herz-20112"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4719348/1600x0/dieses-bescheuerte-herz.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4719348,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4719348",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20112"
+    },
+    {
+      "id": 20112,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20112",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [
+      "FILME Komödien"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Dieses bescheuerte Herz - Informationen zum Film",
+    "text": "Der Endzwanziger Lenny verbringt sein Leben damit, sorglos das Geld seiner Eltern zu verprassen - bis ihm sein Vater die Kreditkarte sperrt. Seine Bedingung, damit Lenny sein altes Leben zurückbekommt: Er soll sich um den schwer herzkranken 15-jährigen David kümmern, der wahrscheinlich bald sterben wird. Lenny hilft ihm, all die Dinge zu erleben, die er sich wünscht und die ihm bisher verwehrt blieben.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/dieses-bescheuerte-herz-20112",
+        "description": "Der Endzwanziger Lenny verbringt sein Leben damit, sorglos das Geld seiner Eltern zu verprassen - bis ihm sein Vater die Kreditkarte sperrt. Seine Bedingung, damit Lenny sein altes Leben zurückbekommt: Er soll sich um den schwer herzkranken 15-jährigen David kümmern, der wahrscheinlich bald sterben wird. Lenny hilft ihm, all die Dinge zu erleben, die er sich wünscht und die ihm bisher verwehrt blieben.",
+        "duration": "PT1H42M4S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4719348/1200x0/dieses-bescheuerte-herz.jpg",
+        "name": "Dieses bescheuerte Herz",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/dieses-bescheuerte-herz-20112",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-03-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=dieses-bescheuerte-herz-20112",
+              "sameAs": "%s/premium?typ=format&formatname=dieses-bescheuerte-herz-20112",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/dieses-bescheuerte-herz-20112",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Der Endzwanziger Lenny verbringt sein Leben damit, sorglos das Geld seiner Eltern zu verprassen - bis ihm sein Vater die Kreditkarte sperrt. Seine Bedingung, damit Lenny sein altes Leben zurückbekommt: Er soll sich um den schwer herzkranken 15-jährigen David kümmern, der wahrscheinlich bald sterben wird. Lenny hilft ihm, all die Dinge zu erleben, die er sich wünscht und die ihm bisher verwehrt blieben.",
+          "duration": "PT1H42M4S",
+          "embedUrl": "%s/googlebot/player/filme/dieses-bescheuerte-herz-20112",
+          "name": "Dieses bescheuerte Herz",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4719348/1200x0/dieses-bescheuerte-herz.jpg",
+          "uploadDate": "2022-03-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Dieses bescheuerte Herz im Online Stream | RTL+",
+        "headline": "Dieses bescheuerte Herz im Online Stream | RTL+",
+        "description": "Dieses bescheuerte Herz und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+. Ein Film mit ▶️Elyas M'Barek, Philip Noah Schwarz.",
+        "url": "%s/filme/dieses-bescheuerte-herz-20112",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4719348/1200x0/dieses-bescheuerte-herz.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4719348/1200x0/dieses-bescheuerte-herz.jpg",
+        "datePublished": "2022-03-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4719348/1200x0/dieses-bescheuerte-herz.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dieses bescheuerte Herz",
+            "item": "%s/filme/dieses-bescheuerte-herz-20112"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Dieses bescheuerte Herz im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

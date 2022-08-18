@@ -1,0 +1,238 @@
+﻿{
+  "formatId": 20537,
+  "additionalMeta": {
+    "canonical": "/filme/traumfrauen-20537",
+    "url": "/filme/traumfrauen-20537"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Traumfrauen",
+      "url": "/filme/traumfrauen-20537"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20537,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Traumfrauen 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Traumfrauen im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Traumfrauen 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/traumfrauen-20537"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4785798/1600x0/traumfrauen.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4785798,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4785798",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20537"
+    },
+    {
+      "id": 20537,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20537",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [
+      "FILME Female",
+      "FILME Komödien"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Traumfrauen",
+    "text": "Leni, Hannah, Margaux und Vivien wollen die wahre Liebe finden. Die frisch getrennte Leni beschließt, etwas mehr zu wagen. Währenddessen hat Lenis Schwester Hannah eine geheime Affäre mit ihrem Kollegen in der Anwaltskanzlei. Ihre Mutter Margaux muss sich nicht nur mit der neuen Freundin ihres Ex-Mannes auseinandersetzen, sondern auch selbst nach der Liebe suchen. Und dann ist da noch Vivien, die dem Verliebtsein radikal abschwört. ",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/traumfrauen-20537",
+        "description": "Leni, Hannah, Margaux und Vivien wollen die wahre Liebe finden. Die frisch getrennte Leni beschließt, etwas mehr zu wagen. Währenddessen hat Lenis Schwester Hannah eine geheime Affäre mit ihrem Kollegen in der Anwaltskanzlei. Ihre Mutter Margaux muss sich nicht nur mit der neuen Freundin ihres Ex-Mannes auseinandersetzen, sondern auch selbst nach der Liebe suchen. Und dann ist da noch Vivien, die dem Verliebtsein radikal abschwört. ",
+        "duration": "PT1H44M59S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4785798/1200x0/traumfrauen.jpg",
+        "name": "Traumfrauen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/traumfrauen-20537",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=traumfrauen-20537",
+              "sameAs": "%s/premium?typ=format&formatname=traumfrauen-20537",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/traumfrauen-20537",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Leni, Hannah, Margaux und Vivien wollen die wahre Liebe finden. Die frisch getrennte Leni beschließt, etwas mehr zu wagen. Währenddessen hat Lenis Schwester Hannah eine geheime Affäre mit ihrem Kollegen in der Anwaltskanzlei. Ihre Mutter Margaux muss sich nicht nur mit der neuen Freundin ihres Ex-Mannes auseinandersetzen, sondern auch selbst nach der Liebe suchen. Und dann ist da noch Vivien, die dem Verliebtsein radikal abschwört. ",
+          "duration": "PT1H44M59S",
+          "embedUrl": "%s/googlebot/player/filme/traumfrauen-20537",
+          "name": "Traumfrauen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4785798/1200x0/traumfrauen.jpg",
+          "uploadDate": "2022-04-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Traumfrauen im Online Stream | RTL+",
+        "headline": "Traumfrauen im Online Stream | RTL+",
+        "description": "Traumfrauen und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei RTL+. Ein Film mit ▶️Karoline Herfurth, Hannah Herzsprung, Palina Rojinski, Iris Berben, Elyas M'Barek.",
+        "url": "%s/filme/traumfrauen-20537",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4785798/1200x0/traumfrauen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4785798/1200x0/traumfrauen.jpg",
+        "datePublished": "2022-04-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4785798/1200x0/traumfrauen.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Traumfrauen",
+            "item": "%s/filme/traumfrauen-20537"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Traumfrauen im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -21,7 +21,7 @@
           },
           {
             "display": true,
-            "text": "Jetzt ansehen",
+            "text": "Jetzt streamen",
             "type": "play",
             "url": "/filme/das-wunder-von-san-francisco-eine-weihnachtsgeschichte-13325"
           }
@@ -33,8 +33,13 @@
           "teaserPayType": "free",
           "teaserType": "film",
           "teaserGenre": "Drama",
-          "cluster": [],
-          "classification": []
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "WATCHBOX",
+          "teaserEpisodeName": "Das Wunder von San Francisco - Eine Weihnachtsgeschichte"
         },
         "fsk": {
           "isVisible": false,

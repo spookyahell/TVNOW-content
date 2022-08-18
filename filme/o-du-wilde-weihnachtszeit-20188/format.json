@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20188,
+  "additionalMeta": {
+    "canonical": "/filme/o-du-wilde-weihnachtszeit-20188",
+    "url": "/filme/o-du-wilde-weihnachtszeit-20188"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "O du wilde Weihnachtszeit",
+      "url": "/filme/o-du-wilde-weihnachtszeit-20188"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20188,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ O du wilde Weihnachtszeit 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "O du wilde Weihnachtszeit im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ O du wilde Weihnachtszeit 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/o-du-wilde-weihnachtszeit-20188"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4323484/1600x0/o-du-wilde-weihnachtszeit.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4323484,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4323484",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20188"
+    },
+    {
+      "id": 20188,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20188",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnwildeweihnachtszeit",
+      "video": "dvrsowf_ten_tnwildeweihnachtszeit",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/wilde_weihnachtszeit/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "wilde_weihnachtszeit",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "O du wilde Weihnachtszeit",
+    "text": "Hoch im Norden überzuckert Frost das Land, schon fällt der erste Schnee und taucht die Welt in feierliche Stille - doch auf der Südhalbkugel sieht die Welt zur Weihnachtszeit ganz anders aus! Während sich die Sonne im Norden rarmacht und außer Dunkelheit vielerorts auch noch Eiseskälte herrscht, befindet man sich südlich des Äquators im Hochsommer. Weihnachten mal ganz anders!\n",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/o-du-wilde-weihnachtszeit-20188",
+        "description": "Hoch im Norden überzuckert Frost das Land, schon fällt der erste Schnee und taucht die Welt in feierliche Stille - doch auf der Südhalbkugel sieht die Welt zur Weihnachtszeit ganz anders aus! Während sich die Sonne im Norden rarmacht und außer Dunkelheit vielerorts auch noch Eiseskälte herrscht, befindet man sich südlich des Äquators im Hochsommer. Weihnachten mal ganz anders!\n",
+        "duration": "PT49M30S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4323484/1200x0/o-du-wilde-weihnachtszeit.jpg",
+        "name": "O du wilde Weihnachtszeit",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/o-du-wilde-weihnachtszeit-20188",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-12-14T00:01:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=o-du-wilde-weihnachtszeit-20188",
+              "sameAs": "%s/premium?typ=format&formatname=o-du-wilde-weihnachtszeit-20188",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/o-du-wilde-weihnachtszeit-20188",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Hoch im Norden überzuckert Frost das Land, schon fällt der erste Schnee und taucht die Welt in feierliche Stille - doch auf der Südhalbkugel sieht die Welt zur Weihnachtszeit ganz anders aus! Während sich die Sonne im Norden rarmacht und außer Dunkelheit vielerorts auch noch Eiseskälte herrscht, befindet man sich südlich des Äquators im Hochsommer. Weihnachten mal ganz anders!\n",
+          "duration": "PT49M30S",
+          "embedUrl": "%s/googlebot/player/filme/o-du-wilde-weihnachtszeit-20188",
+          "name": "O du wilde Weihnachtszeit",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323484/1200x0/o-du-wilde-weihnachtszeit.jpg",
+          "uploadDate": "2021-12-14T00:01:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "O du wilde Weihnachtszeit im Online Stream | RTL+",
+        "headline": "O du wilde Weihnachtszeit im Online Stream | RTL+",
+        "description": "O du wilde Weihnachtszeit und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/o-du-wilde-weihnachtszeit-20188",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4323484/1200x0/o-du-wilde-weihnachtszeit.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4323484/1200x0/o-du-wilde-weihnachtszeit.jpg",
+        "datePublished": "2021-12-14T00:01:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4323484/1200x0/o-du-wilde-weihnachtszeit.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "O du wilde Weihnachtszeit",
+            "item": "%s/filme/o-du-wilde-weihnachtszeit-20188"
+          }
+        ]
+      }
+    }
+  },
+  "title": "O du wilde Weihnachtszeit im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

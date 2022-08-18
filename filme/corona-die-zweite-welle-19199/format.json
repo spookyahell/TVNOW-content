@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 19199,
+  "additionalMeta": {
+    "canonical": "/filme/corona-die-zweite-welle-19199",
+    "url": "/filme/corona-die-zweite-welle-19199"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Corona - Die zweite Welle",
+      "url": "/filme/corona-die-zweite-welle-19199"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19199,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Corona - Die zweite Welle 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Corona - Die zweite Welle im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Corona - Die zweite Welle 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/corona-die-zweite-welle-19199"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3568109/1600x0/corona-die-2-welle.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3568109,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3568109",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19199"
+    },
+    {
+      "id": 19199,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19199",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tndokuwissen",
+      "video": "dvrsowf_ten_tndokuwissen",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/tvnow_doku_wissen/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "tvnow_doku_wissen",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Wissen"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Corona - Die zweite Welle - Informationen zum Film",
+    "text": "Die Corona-Krise hat Deutschland wieder fest im Griff und die Bundesregierung beschließt deshalb mit den Länderchefs weitere drastische Maßnahmen. Die Doku zeigt in aufwendigen Experimenten und Undercover-Tests die möglichen Ursachen des massiven Anstiegs der Zahl an Corona-Infizierten. Außerdem ergründet sie, ob die Supermärkte vor einem erneuten Hamsterchaos besser gewappnet sind und wann wirklich mit dem langersehnten Impfstoff zu rechnen ist.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/corona-die-2-welle-19199",
+        "description": "Die Corona-Krise hat Deutschland wieder fest im Griff und die Bundesregierung beschließt deshalb mit den Länderchefs weitere drastische Maßnahmen. Die Doku zeigt in aufwendigen Experimenten und Undercover-Tests die möglichen Ursachen des massiven Anstiegs der Zahl an Corona-Infizierten. Außerdem ergründet sie, ob die Supermärkte vor einem erneuten Hamsterchaos besser gewappnet sind und wann wirklich mit dem langersehnten Impfstoff zu rechnen ist.",
+        "duration": "PT39M44S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3568109/1200x0/corona-die-zweite-welle.jpg",
+        "name": "Corona - Die zweite Welle",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/corona-die-2-welle-19199",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-10-29T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=corona-die-zweite-welle-19199",
+              "sameAs": "%s/premium?typ=format&formatname=corona-die-zweite-welle-19199",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/corona-die-2-welle-19199",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die Corona-Krise hat Deutschland wieder fest im Griff und die Bundesregierung beschließt deshalb mit den Länderchefs weitere drastische Maßnahmen. Die Doku zeigt in aufwendigen Experimenten und Undercover-Tests die möglichen Ursachen des massiven Anstiegs der Zahl an Corona-Infizierten. Außerdem ergründet sie, ob die Supermärkte vor einem erneuten Hamsterchaos besser gewappnet sind und wann wirklich mit dem langersehnten Impfstoff zu rechnen ist.",
+          "duration": "PT39M44S",
+          "embedUrl": "%s/googlebot/player/filme/corona-die-2-welle-19199",
+          "name": "Corona - Die zweite Welle",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3568109/1200x0/corona-die-zweite-welle.jpg",
+          "uploadDate": "2020-10-29T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Corona - Die zweite Welle im Online Stream | RTL+",
+        "headline": "Corona - Die zweite Welle im Online Stream | RTL+",
+        "description": "Corona - Die zweite Welle und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/corona-die-2-welle-19199",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3568109/1200x0/corona-die-zweite-welle.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3568109/1200x0/corona-die-zweite-welle.jpg",
+        "datePublished": "2020-10-29T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3568109/1200x0/corona-die-zweite-welle.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Corona - Die zweite Welle",
+            "item": "%s/filme/corona-die-zweite-welle-19199"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Corona - Die zweite Welle im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,229 @@
+﻿{
+  "formatId": 19598,
+  "additionalMeta": {
+    "canonical": "/filme/t-34-das-duell-19598",
+    "url": "/filme/t-34-das-duell-19598"
+  },
+  "ads": {
+    "station": "rtl2",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "T-34 - Das Duell",
+      "url": "/filme/t-34-das-duell-19598"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 19598,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ T-34 - Das Duell 📺 und viele weitere ▶ Filme aus dem Genre Action findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "T-34 - Das Duell im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ T-34 - Das Duell 📺 und viele weitere ▶ Filme aus dem Genre Action findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/t-34-das-duell-19598"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3966093/1600x0/t-34-das-duell.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3966093,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3966093",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19598"
+    },
+    {
+      "id": 19598,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19598",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_r2nfilme",
+      "video": "dvrsowf_ten_r2nfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_2_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_2_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Action",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "T-34 - Das Duell",
+    "text": "Der junge Leutnant Nikolai Iwuschkin wird von der Akademie direkt an die Front geschickt. Dort gelingt es ihm in einem waghalsigen Manöver, eine Offensive der Wehrmacht aufzuhalten – mit einem einzigen Panzer! Drei Jahre später findet ihn sein damaliger Gegenspieler, der deutsche Hauptmann Klaus Jäger, in einem Gefangenenlager wieder. Jäger überredet Iwuschkin, deutsche Panzerführer auszubilden. Doch der Russe verfolgt einen ganz anderen Plan…",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/t-34-das-duell-19598",
+        "description": "Der junge Leutnant Nikolai Iwuschkin wird von der Akademie direkt an die Front geschickt. Dort gelingt es ihm in einem waghalsigen Manöver, eine Offensive der Wehrmacht aufzuhalten – mit einem einzigen Panzer! Drei Jahre später findet ihn sein damaliger Gegenspieler, der deutsche Hauptmann Klaus Jäger, in einem Gefangenenlager wieder. Jäger überredet Iwuschkin, deutsche Panzerführer auszubilden. Doch der Russe verfolgt einen ganz anderen Plan…",
+        "duration": "PT2H13M49S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3966093/1200x0/t-34-das-duell.jpg",
+        "name": "T-34 - Das Duell",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/t-34-das-duell-19598",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "nologinrequired",
+            "availabilityStarts": "2022-08-03T22:35:00.000Z"
+          }
+        },
+        "url": "%s/filme/t-34-das-duell-19598",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Der junge Leutnant Nikolai Iwuschkin wird von der Akademie direkt an die Front geschickt. Dort gelingt es ihm in einem waghalsigen Manöver, eine Offensive der Wehrmacht aufzuhalten – mit einem einzigen Panzer! Drei Jahre später findet ihn sein damaliger Gegenspieler, der deutsche Hauptmann Klaus Jäger, in einem Gefangenenlager wieder. Jäger überredet Iwuschkin, deutsche Panzerführer auszubilden. Doch der Russe verfolgt einen ganz anderen Plan…",
+          "duration": "PT2H13M49S",
+          "embedUrl": "%s/googlebot/player/filme/t-34-das-duell-19598",
+          "name": "T-34 - Das Duell",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3966093/1200x0/t-34-das-duell.jpg",
+          "uploadDate": "2022-08-03T22:35:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "T-34 - Das Duell im Online Stream | RTL+",
+        "headline": "T-34 - Das Duell im Online Stream | RTL+",
+        "description": "T-34 - Das Duell und viele weitere  ▶️Filme aus dem Genre Action findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/t-34-das-duell-19598",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3966093/1200x0/t-34-das-duell.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3966093/1200x0/t-34-das-duell.jpg",
+        "datePublished": "2022-08-03T22:35:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3966093/1200x0/t-34-das-duell.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "T-34 - Das Duell",
+            "item": "%s/filme/t-34-das-duell-19598"
+          }
+        ]
+      }
+    }
+  },
+  "title": "T-34 - Das Duell im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

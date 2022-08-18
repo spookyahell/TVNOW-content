@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20191",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20191,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/wildes-albanien-20191"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wildes Albanien",
+          "teaserId": "film_4323690",
+          "teaserName": "Wildes Albanien | Wildes Albanien",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "GEO WILD",
+          "teaserEpisodeName": "Wildes Albanien"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wildes Albanien",
+        "id": 4323690,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323690/300x0/wildes-albanien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323690/",
+            "filename": "wildes-albanien"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323690/600x0/wildes-albanien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323690/",
+            "filename": "wildes-albanien"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323690/1200x0/wildes-albanien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323690/",
+            "filename": "wildes-albanien"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323690/300x0/wildes-albanien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323690/",
+            "filename": "wildes-albanien"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323690/600x0/wildes-albanien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323690/",
+            "filename": "wildes-albanien"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323690/1200x0/wildes-albanien.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323690/",
+            "filename": "wildes-albanien"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wildes-albanien",
+        "subheadline": "Wildes Albanien",
+        "text": "Staffel  | GEO WILD",
+        "type": "film",
+        "url": "/filme/wildes-albanien-20191",
+        "videoId": 4323690
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20732,
+  "additionalMeta": {
+    "canonical": "/filme/von-loewen-und-hyaenen-20732",
+    "url": "/filme/von-loewen-und-hyaenen-20732"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Von Löwen und Hyänen",
+      "url": "/filme/von-loewen-und-hyaenen-20732"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20732,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Von Löwen und Hyänen 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Von Löwen und Hyänen im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Von Löwen und Hyänen 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/von-loewen-und-hyaenen-20732"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4840638/1600x0/von-loewen-und-hyaenen.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4840638,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4840638",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20732"
+    },
+    {
+      "id": 20732,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20732",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnloewenhyaenen",
+      "video": "dvrsowf_ten_tnloewenhyaenen",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/loewen_hyaenen/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "loewen_hyaenen",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Von Löwen und Hyänen",
+    "text": "Löwen und Hyänen stehen in einem erbitterten Wettbewerb um Fleisch. Sie teilen sich dasselbe Territorium, doch ihre Überlebensstrategien sind gegensätzlich. Der Löwe strotzt nur so vor Kraft und Energie, während Hyänen ihre Opfer durch ständiges Drangsalieren zur Erschöpfung treiben. Die Koexistenz beider Arten ist ein nicht enden wollender Krieg. Sie bestehlen und töten sich gegenseitig in einem Spiel, in dem beide überleben und niemand siegt.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/von-loewen-und-hyaenen-20732",
+        "description": "Löwen und Hyänen stehen in einem erbitterten Wettbewerb um Fleisch. Sie teilen sich dasselbe Territorium, doch ihre Überlebensstrategien sind gegensätzlich. Der Löwe strotzt nur so vor Kraft und Energie, während Hyänen ihre Opfer durch ständiges Drangsalieren zur Erschöpfung treiben. Die Koexistenz beider Arten ist ein nicht enden wollender Krieg. Sie bestehlen und töten sich gegenseitig in einem Spiel, in dem beide überleben und niemand siegt.",
+        "duration": "PT53M24S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4840638/1200x0/von-loewen-und-hyaenen.jpg",
+        "name": "Von Löwen und Hyänen",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/von-loewen-und-hyaenen-20732",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-06-15T06:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=von-loewen-und-hyaenen-20732",
+              "sameAs": "%s/premium?typ=format&formatname=von-loewen-und-hyaenen-20732",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/von-loewen-und-hyaenen-20732",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Löwen und Hyänen stehen in einem erbitterten Wettbewerb um Fleisch. Sie teilen sich dasselbe Territorium, doch ihre Überlebensstrategien sind gegensätzlich. Der Löwe strotzt nur so vor Kraft und Energie, während Hyänen ihre Opfer durch ständiges Drangsalieren zur Erschöpfung treiben. Die Koexistenz beider Arten ist ein nicht enden wollender Krieg. Sie bestehlen und töten sich gegenseitig in einem Spiel, in dem beide überleben und niemand siegt.",
+          "duration": "PT53M24S",
+          "embedUrl": "%s/googlebot/player/filme/von-loewen-und-hyaenen-20732",
+          "name": "Von Löwen und Hyänen",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4840638/1200x0/von-loewen-und-hyaenen.jpg",
+          "uploadDate": "2022-06-15T06:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Von Löwen und Hyänen im Online Stream | RTL+",
+        "headline": "Von Löwen und Hyänen im Online Stream | RTL+",
+        "description": "Von Löwen und Hyänen und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/von-loewen-und-hyaenen-20732",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4840638/1200x0/von-loewen-und-hyaenen.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4840638/1200x0/von-loewen-und-hyaenen.jpg",
+        "datePublished": "2022-06-15T06:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4840638/1200x0/von-loewen-und-hyaenen.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Von Löwen und Hyänen",
+            "item": "%s/filme/von-loewen-und-hyaenen-20732"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Von Löwen und Hyänen im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

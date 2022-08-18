@@ -1,0 +1,238 @@
+﻿{
+  "formatId": 20639,
+  "additionalMeta": {
+    "canonical": "/filme/herzogin-kate-glanz-und-guete-fuer-die-krone-20639",
+    "url": "/filme/herzogin-kate-glanz-und-guete-fuer-die-krone-20639"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Herzogin Kate: Glanz & Güte für die Krone",
+      "url": "/filme/herzogin-kate-glanz-und-guete-fuer-die-krone-20639"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20639,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Herzogin Kate: Glanz & Güte für die Krone 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Herzogin Kate: Glanz & Güte für die Krone im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Herzogin Kate: Glanz & Güte für die Krone 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/herzogin-kate-glanz-und-guete-fuer-die-krone-20639"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4835130/1600x0/herzogin-kate-glanz-guete-fuer-die-krone.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4835130,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4835130",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20639"
+    },
+    {
+      "id": 20639,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20639",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tndokubio",
+      "video": "dvrsowf_ten_tndokubio",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/tvnow_doku_bio/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "tvnow_doku_bio",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Promis",
+      "Biographie"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Herzogin Kate: Glanz & Güte für die Krone",
+    "text": "Die Sendung konzentriert sich vor allem auf die Rolle der Herzogin von Cambridge in der königlichen Familie und ihre Arbeit während der Pandemie - von ihrem Projekt \"Hold Still\" bis hin zu den unzähligen Videoanrufen, die sie und der Herzog von Cambridge mit Mitarbeitern im Gesundheitswesen führten. Ein besonderer Fokus liegt auf der Vorliebe der Herzogin von Cambridge für Kinder und ihre Begeisterung für Fotografie.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/herzogin-kate-glanz-guete-fuer-die-krone-20639",
+        "description": "Die Sendung konzentriert sich vor allem auf die Rolle der Herzogin von Cambridge in der königlichen Familie und ihre Arbeit während der Pandemie - von ihrem Projekt \"Hold Still\" bis hin zu den unzähligen Videoanrufen, die sie und der Herzog von Cambridge mit Mitarbeitern im Gesundheitswesen führten. Ein besonderer Fokus liegt auf der Vorliebe der Herzogin von Cambridge für Kinder und ihre Begeisterung für Fotografie.",
+        "duration": "PT52M26S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4835130/1200x0/herzogin-kate-glanz-und-guete-fuer-die-krone.jpg",
+        "name": "Herzogin Kate: Glanz & Güte für die Krone",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/herzogin-kate-glanz-guete-fuer-die-krone-20639",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-06-02T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=herzogin-kate-glanz-und-guete-fuer-die-krone-20639",
+              "sameAs": "%s/premium?typ=format&formatname=herzogin-kate-glanz-und-guete-fuer-die-krone-20639",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/herzogin-kate-glanz-guete-fuer-die-krone-20639",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die Sendung konzentriert sich vor allem auf die Rolle der Herzogin von Cambridge in der königlichen Familie und ihre Arbeit während der Pandemie - von ihrem Projekt \"Hold Still\" bis hin zu den unzähligen Videoanrufen, die sie und der Herzog von Cambridge mit Mitarbeitern im Gesundheitswesen führten. Ein besonderer Fokus liegt auf der Vorliebe der Herzogin von Cambridge für Kinder und ihre Begeisterung für Fotografie.",
+          "duration": "PT52M26S",
+          "embedUrl": "%s/googlebot/player/filme/herzogin-kate-glanz-guete-fuer-die-krone-20639",
+          "name": "Herzogin Kate: Glanz & Güte für die Krone",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4835130/1200x0/herzogin-kate-glanz-und-guete-fuer-die-krone.jpg",
+          "uploadDate": "2022-06-02T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Herzogin Kate: Glanz & Güte für die Krone im Online Stream | RTL+",
+        "headline": "Herzogin Kate: Glanz & Güte für die Krone im Online Stream | RTL+",
+        "description": "Herzogin Kate: Glanz & Güte für die Krone und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+. Ein Film mit ▶️Achim Buch, Johannes Semm, Volker Hanisch, Katharina von Keller, Kristina von Weltzien, Dagmar Dreke, Julia Casper.",
+        "url": "%s/filme/herzogin-kate-glanz-guete-fuer-die-krone-20639",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4835130/1200x0/herzogin-kate-glanz-und-guete-fuer-die-krone.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4835130/1200x0/herzogin-kate-glanz-und-guete-fuer-die-krone.jpg",
+        "datePublished": "2022-06-02T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4835130/1200x0/herzogin-kate-glanz-und-guete-fuer-die-krone.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Herzogin Kate: Glanz & Güte für die Krone",
+            "item": "%s/filme/herzogin-kate-glanz-und-guete-fuer-die-krone-20639"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Herzogin Kate: Glanz & Güte für die Krone im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

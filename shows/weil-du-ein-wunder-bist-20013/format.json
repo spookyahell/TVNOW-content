@@ -1,0 +1,214 @@
+﻿{
+  "formatId": 20013,
+  "additionalMeta": {
+    "canonical": "/shows/weil-du-ein-wunder-bist-20013",
+    "url": "/shows/weil-du-ein-wunder-bist-20013"
+  },
+  "ads": {
+    "station": "vox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "Weil du ein Wunder bist",
+      "url": "/shows/weil-du-ein-wunder-bist-20013"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": false
+  },
+  "id": 20013,
+  "meta": [
+    {
+      "content": "Die Show ▶ Weil du ein Wunder bist (VOX) streamen & weitere Highlights aus dem Genre 📺 Reportage im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Weil du ein Wunder bist im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ Weil du ein Wunder bist (VOX) streamen & weitere Highlights aus dem Genre 📺 Reportage im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/shows/weil-du-ein-wunder-bist-20013"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/20013_03artwork/1600x0/weil-du-ein-wunder-bist.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/20013",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/20013",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/20013",
+      "type": "teaserrow"
+    },
+    {
+      "id": 20013,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20013",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_vnsendungen",
+      "video": "dvrsowf_ten_vnsendungen",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/formate/home",
+      "levels": [
+        "tv_now_de",
+        "formate",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Reportage",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Weil du ein Wunder bist - Mehr Informationen zum Format",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/shows/weil-du-ein-wunder-bist-20013",
+        "url": "%s/shows/weil-du-ein-wunder-bist-20013",
+        "name": "Weil du ein Wunder bist",
+        "description": "Die Show ▶ Weil du ein Wunder bist (VOX) streamen & weitere Highlights aus dem Genre 📺 Reportage im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/20013_04metalogo/1200x0/weil-du-ein-wunder-bist.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Weil du ein Wunder bist - Mehr Informationen zum Format",
+        "headline": "Weil du ein Wunder bist - Mehr Informationen zum Format",
+        "description": "Die Show ▶ Weil du ein Wunder bist (VOX) streamen & weitere Highlights aus dem Genre 📺 Reportage im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "url": "%s/shows/weil-du-ein-wunder-bist-20013",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/20013_04metalogo/1200x0/weil-du-ein-wunder-bist.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/20013_04metalogo/1200x0/weil-du-ein-wunder-bist.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/20013_04metalogo/1200x0/weil-du-ein-wunder-bist.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "%s/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Weil du ein Wunder bist",
+            "item": "%s/shows/weil-du-ein-wunder-bist-20013"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Weil du ein Wunder bist im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

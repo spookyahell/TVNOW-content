@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20174",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20174,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/wildes-uganda-20174"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Wildes Uganda",
+          "teaserId": "film_4323505",
+          "teaserName": "Wildes Uganda | Wildes Uganda",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "GEO WILD",
+          "teaserEpisodeName": "Wildes Uganda"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Wildes Uganda",
+        "id": 4323505,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323505/300x0/wildes-uganda.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323505/",
+            "filename": "wildes-uganda"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323505/600x0/wildes-uganda.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323505/",
+            "filename": "wildes-uganda"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323505/1200x0/wildes-uganda.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323505/",
+            "filename": "wildes-uganda"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323505/300x0/wildes-uganda.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323505/",
+            "filename": "wildes-uganda"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323505/600x0/wildes-uganda.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323505/",
+            "filename": "wildes-uganda"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4323505/1200x0/wildes-uganda.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4323505/",
+            "filename": "wildes-uganda"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "wildes-uganda",
+        "subheadline": "Wildes Uganda",
+        "text": "Staffel  | GEO WILD",
+        "type": "film",
+        "url": "/filme/wildes-uganda-20174",
+        "videoId": 4323505
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

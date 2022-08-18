@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20534,
+  "additionalMeta": {
+    "canonical": "/filme/sex-and-the-city-der-film-20534",
+    "url": "/filme/sex-and-the-city-der-film-20534"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Sex and the City - Der Film",
+      "url": "/filme/sex-and-the-city-der-film-20534"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20534,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Sex and the City - Der Film 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Sex and the City - Der Film im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Sex and the City - Der Film 📺 und viele weitere ▶ Filme aus dem Genre Romantik findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/sex-and-the-city-der-film-20534"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4784101/1600x0/sex-and-the-city-der-film.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4784101,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4784101",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20534"
+    },
+    {
+      "id": 20534,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20534",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_female/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_female",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Romantik",
+    "cluster": [
+      "FILME Female"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Sex and the City - Der Film",
+    "text": "Die Kolumnistin Carrie Bradshaw ist mit Mister Big zusammen, den sie für den Mann ihres Lebens hält. Gemeinsam suchen sie ein Apartment in New York und beschließen zu heiraten. Doch in letzter Sekunde platzt die große Hochzeit, Carrie bleibt allein und voller Liebeskummer zurück. Zum Glück hat sie in Samantha, Miranda und Charlotte gute Freundinnen, die genau wissen, was in solch einem Fall zu tun ist.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/sex-and-the-city-der-film-20534",
+        "description": "Die Kolumnistin Carrie Bradshaw ist mit Mister Big zusammen, den sie für den Mann ihres Lebens hält. Gemeinsam suchen sie ein Apartment in New York und beschließen zu heiraten. Doch in letzter Sekunde platzt die große Hochzeit, Carrie bleibt allein und voller Liebeskummer zurück. Zum Glück hat sie in Samantha, Miranda und Charlotte gute Freundinnen, die genau wissen, was in solch einem Fall zu tun ist.",
+        "duration": "PT2H19M11S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4784101/1200x0/sex-and-the-city-der-film.jpg",
+        "name": "Sex and the City - Der Film",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/sex-and-the-city-der-film-20534",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=sex-and-the-city-der-film-20534",
+              "sameAs": "%s/premium?typ=format&formatname=sex-and-the-city-der-film-20534",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/sex-and-the-city-der-film-20534",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die Kolumnistin Carrie Bradshaw ist mit Mister Big zusammen, den sie für den Mann ihres Lebens hält. Gemeinsam suchen sie ein Apartment in New York und beschließen zu heiraten. Doch in letzter Sekunde platzt die große Hochzeit, Carrie bleibt allein und voller Liebeskummer zurück. Zum Glück hat sie in Samantha, Miranda und Charlotte gute Freundinnen, die genau wissen, was in solch einem Fall zu tun ist.",
+          "duration": "PT2H19M11S",
+          "embedUrl": "%s/googlebot/player/filme/sex-and-the-city-der-film-20534",
+          "name": "Sex and the City - Der Film",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4784101/1200x0/sex-and-the-city-der-film.jpg",
+          "uploadDate": "2022-04-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Sex and the City - Der Film im Online Stream | RTL+",
+        "headline": "Sex and the City - Der Film im Online Stream | RTL+",
+        "description": "Sex and the City - Der Film und viele weitere  ▶️Filme aus dem Genre Romantik findest du im Online Stream bei RTL+. Ein Film mit ▶️Sarah Jessica Parker, Kim Cattrall, Cynthia Nixon, Kristin Davis, Chris Noth.",
+        "url": "%s/filme/sex-and-the-city-der-film-20534",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4784101/1200x0/sex-and-the-city-der-film.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4784101/1200x0/sex-and-the-city-der-film.jpg",
+        "datePublished": "2022-04-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4784101/1200x0/sex-and-the-city-der-film.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sex and the City - Der Film",
+            "item": "%s/filme/sex-and-the-city-der-film-20534"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Sex and the City - Der Film im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

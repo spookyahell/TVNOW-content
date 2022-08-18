@@ -1,1 +1,105 @@
-NONE
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/17801",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 17801,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/the-crash-reel-niemals-aufgeben-17801"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "The Crash Reel - Niemals aufgeben!",
+          "teaserId": "film_373138",
+          "teaserName": "The Crash Reel - Niemals aufgeben! | The Crash Reel - Niemals aufgeben!",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "Do. 22.07.2021, 01:20 Uhr",
+          "teaserEpisodeName": "The Crash Reel - Niemals aufgeben!"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "The Crash Reel - Niemals aufgeben!",
+        "id": 373138,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/373138/300x0/the-crash-reel-niemals-aufgeben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/373138/",
+            "filename": "the-crash-reel-niemals-aufgeben"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/373138/600x0/the-crash-reel-niemals-aufgeben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/373138/",
+            "filename": "the-crash-reel-niemals-aufgeben"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/373138/1200x0/the-crash-reel-niemals-aufgeben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/373138/",
+            "filename": "the-crash-reel-niemals-aufgeben"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/373138/300x0/the-crash-reel-niemals-aufgeben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/373138/",
+            "filename": "the-crash-reel-niemals-aufgeben"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/373138/600x0/the-crash-reel-niemals-aufgeben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/373138/",
+            "filename": "the-crash-reel-niemals-aufgeben"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/373138/1200x0/the-crash-reel-niemals-aufgeben.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/373138/",
+            "filename": "the-crash-reel-niemals-aufgeben"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "the-crash-reel-niemals-aufgeben",
+        "subheadline": "The Crash Reel - Niemals aufgeben!",
+        "text": "Staffel  | Do. 22.07.2021, 01:20 Uhr",
+        "type": "film",
+        "url": "/filme/the-crash-reel-niemals-aufgeben-17801",
+        "videoId": 373138
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

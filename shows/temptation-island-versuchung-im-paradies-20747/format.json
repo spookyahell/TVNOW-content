@@ -1,0 +1,220 @@
+﻿{
+  "formatId": 20747,
+  "additionalMeta": {
+    "canonical": "/shows/temptation-island-versuchung-im-paradies-20747",
+    "url": "/shows/temptation-island-versuchung-im-paradies-20747"
+  },
+  "ads": {
+    "station": "rtl",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Shows",
+      "url": "/shows"
+    },
+    {
+      "name": "Temptation Island - Versuchung im Paradies",
+      "url": "/shows/temptation-island-versuchung-im-paradies-20747"
+    }
+  ],
+  "configuration": {
+    "disableAds": false,
+    "isPremium": false,
+    "isFormatPremium": false,
+    "isMoviePremium": false
+  },
+  "id": 20747,
+  "meta": [
+    {
+      "content": "Die Show ▶ Temptation Island - Versuchung im Paradies (RTL) streamen & weitere Highlights aus dem Genre 📺 Reality im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Temptation Island - Versuchung im Paradies im Online Stream ansehen | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Die Show ▶ Temptation Island - Versuchung im Paradies (RTL) streamen & weitere Highlights aus dem Genre 📺 Reality im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/shows/temptation-island-versuchung-im-paradies-20747"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/format/20747_03artwork/1600x0/temptation-island-versuchung-im-paradies.png"
+    }
+  ],
+  "modules": [
+    {
+      "id": null,
+      "label": "Highlightmodul",
+      "moduleLayout": "format_highlight",
+      "moduleUrl": "/module/teaserrow/format/highlight/20747",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": "Navigation Module",
+      "moduleLayout": "format_season_navigation",
+      "moduleUrl": "/module/teaserrow/format/navigation/20747",
+      "type": "teaserrow"
+    },
+    {
+      "id": null,
+      "label": null,
+      "moduleLayout": "format_episode",
+      "moduleUrl": "/module/teaserrow/format/episode/20747",
+      "type": "teaserrow"
+    },
+    {
+      "id": 20747,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20747",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_rntemptationisland",
+      "video": "dvrsowf_ten_rntemptationisland",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/rtl_now/formate/temptation_island/home",
+      "levels": [
+        "tv_now_de",
+        "rtl_now",
+        "formate",
+        "temptation_island",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Reality",
+    "cluster": [
+      "Guilty Pleasure"
+    ],
+    "classification": [
+      "Original"
+    ]
+  },
+  "seo": {
+    "headline": "",
+    "text": "",
+    "jsonLd": {
+      "series": {
+        "@context": [
+          "https://schema.org",
+          {
+            "@language": "de"
+          }
+        ],
+        "@type": "TVSeries",
+        "@id": "%s/shows/temptation-island-versuchung-im-paradies-20747",
+        "url": "%s/shows/temptation-island-versuchung-im-paradies-20747",
+        "name": "Temptation Island - Versuchung im Paradies",
+        "description": "Die Show ▶ Temptation Island - Versuchung im Paradies (RTL) streamen & weitere Highlights aus dem Genre 📺 Reality im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "image": {
+          "@type": "ImageObject",
+          "contentUrl": "https://ais-cf.tvnow.de/tvnow/format/20747_04metalogo/1200x0/temptation-island-versuchung-im-paradies.png"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "",
+        "headline": "",
+        "description": "Die Show ▶ Temptation Island - Versuchung im Paradies (RTL) streamen & weitere Highlights aus dem Genre 📺 Reality im Online Stream bei RTL+ (ehemals TVNOW) anschauen. Jetzt mitfiebern!",
+        "url": "%s/shows/temptation-island-versuchung-im-paradies-20747",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/format/20747_04metalogo/1200x0/temptation-island-versuchung-im-paradies.png",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/format/20747_04metalogo/1200x0/temptation-island-versuchung-im-paradies.png",
+        "keywords": "",
+        "inLanguage": "de",
+        "isAccessibleForFree": true,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/format/20747_04metalogo/1200x0/temptation-island-versuchung-im-paradies.png",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shows",
+            "item": "%s/shows"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Temptation Island - Versuchung im Paradies",
+            "item": "%s/shows/temptation-island-versuchung-im-paradies-20747"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Temptation Island - Versuchung im Paradies im Online Stream ansehen | RTL+",
+  "type": "format",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

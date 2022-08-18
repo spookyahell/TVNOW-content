@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19702,
+  "additionalMeta": {
+    "canonical": "/filme/was-passiert-wenns-passiert-ist-19702",
+    "url": "/filme/was-passiert-wenns-passiert-ist-19702"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Was passiert, wenn's passiert ist",
+      "url": "/filme/was-passiert-wenns-passiert-ist-19702"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19702,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Was passiert, wenn's passiert ist 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Was passiert, wenn's passiert ist im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Was passiert, wenn's passiert ist 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/was-passiert-wenns-passiert-ist-19702"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4109100/1600x0/was-passiert-wenn-s-passiert-ist.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4109100,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4109100",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19702"
+    },
+    {
+      "id": 19702,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19702",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Was passiert, wenn's passiert ist - Informationen zum Film",
+    "text": "Jules ist schwanger. Sie und ihr Mann fragen sich, wie sie mit einem Kind umgehen werden. Auch die Kinderbuch-Autorin Wendy und ihr Mann Gary erwarten ein Kind. Garys Vater und seine Freundin Skyler freuen sich auf ihre Zwillinge, und Skylers Cousine ist ungewollt schwanger geworden. Während sich die Frauen auf die Geburt als ihre größte Herausforderung vorbereiten, beschließt Holly, ein Kind zu adoptieren, da sie kein eigenes bekommen kann.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/was-passiert-wenn-s-passiert-ist-19702",
+        "description": "Jules ist schwanger. Sie und ihr Mann fragen sich, wie sie mit einem Kind umgehen werden. Auch die Kinderbuch-Autorin Wendy und ihr Mann Gary erwarten ein Kind. Garys Vater und seine Freundin Skyler freuen sich auf ihre Zwillinge, und Skylers Cousine ist ungewollt schwanger geworden. Während sich die Frauen auf die Geburt als ihre größte Herausforderung vorbereiten, beschließt Holly, ein Kind zu adoptieren, da sie kein eigenes bekommen kann.",
+        "duration": "PT1H45M40S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4109100/1200x0/was-passiert-wenns-passiert-ist.jpg",
+        "name": "Was passiert, wenn's passiert ist",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/was-passiert-wenn-s-passiert-ist-19702",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-05-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=was-passiert-wenns-passiert-ist-19702",
+              "sameAs": "%s/premium?typ=format&formatname=was-passiert-wenns-passiert-ist-19702",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/was-passiert-wenn-s-passiert-ist-19702",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Jules ist schwanger. Sie und ihr Mann fragen sich, wie sie mit einem Kind umgehen werden. Auch die Kinderbuch-Autorin Wendy und ihr Mann Gary erwarten ein Kind. Garys Vater und seine Freundin Skyler freuen sich auf ihre Zwillinge, und Skylers Cousine ist ungewollt schwanger geworden. Während sich die Frauen auf die Geburt als ihre größte Herausforderung vorbereiten, beschließt Holly, ein Kind zu adoptieren, da sie kein eigenes bekommen kann.",
+          "duration": "PT1H45M40S",
+          "embedUrl": "%s/googlebot/player/filme/was-passiert-wenn-s-passiert-ist-19702",
+          "name": "Was passiert, wenn's passiert ist",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4109100/1200x0/was-passiert-wenns-passiert-ist.jpg",
+          "uploadDate": "2022-05-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Was passiert, wenn's passiert ist im Online Stream | RTL+",
+        "headline": "Was passiert, wenn's passiert ist im Online Stream | RTL+",
+        "description": "Was passiert, wenn's passiert ist und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei RTL+. Ein Film mit ▶️Cameron Diaz, Jennifer Lopez, Elizabeth Banks, Chase Crawford, Brooklyn Decker, Ben Falcone, Anna Kendrick, Matthew Morrison, Dennis Quaid, Chris Rock, Rodrigo Santoro.",
+        "url": "%s/filme/was-passiert-wenn-s-passiert-ist-19702",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4109100/1200x0/was-passiert-wenns-passiert-ist.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4109100/1200x0/was-passiert-wenns-passiert-ist.jpg",
+        "datePublished": "2022-05-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4109100/1200x0/was-passiert-wenns-passiert-ist.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Was passiert, wenn's passiert ist",
+            "item": "%s/filme/was-passiert-wenns-passiert-ist-19702"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Was passiert, wenn's passiert ist im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,110 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/19269",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 19269,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/asterix-in-amerika-19269"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Asterix in Amerika",
+          "teaserId": "film_3708521",
+          "teaserName": "Asterix in Amerika | Asterix in Amerika",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Kinder",
+          "cluster": [
+            "KIDS 6 bis 10 Jahre",
+            "KIDS Action und Abenteuer",
+            "KIDS Jungs",
+            "Kids"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+ Kids",
+          "teaserEpisodeName": "Asterix in Amerika"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Asterix in Amerika",
+        "id": 3708521,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3708521/300x0/asterix-in-amerika.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3708521/",
+            "filename": "asterix-in-amerika"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3708521/600x0/asterix-in-amerika.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3708521/",
+            "filename": "asterix-in-amerika"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3708521/1200x0/asterix-in-amerika.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3708521/",
+            "filename": "asterix-in-amerika"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3708521/300x0/asterix-in-amerika.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3708521/",
+            "filename": "asterix-in-amerika"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3708521/600x0/asterix-in-amerika.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3708521/",
+            "filename": "asterix-in-amerika"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/3708521/1200x0/asterix-in-amerika.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/3708521/",
+            "filename": "asterix-in-amerika"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "asterix-in-amerika",
+        "subheadline": "Asterix in Amerika",
+        "text": "Staffel  | RTL+ Kids",
+        "type": "film",
+        "url": "/filme/asterix-in-amerika-19269",
+        "videoId": 3708521
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

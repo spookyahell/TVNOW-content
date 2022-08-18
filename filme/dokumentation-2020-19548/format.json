@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19548,
+  "additionalMeta": {
+    "canonical": "/filme/dokumentation-2020-19548",
+    "url": "/filme/dokumentation-2020-19548"
+  },
+  "ads": {
+    "station": "vox",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Alles außer gewöhnlich - Familie Extrem",
+      "url": "/filme/dokumentation-2020-19548"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19548,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Alles außer gewöhnlich - Familie Extrem 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Alles außer gewöhnlich - Familie Extrem im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Alles außer gewöhnlich - Familie Extrem 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/dokumentation-2020-19548"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3951971/1600x0/alles-ausser-gewoehnlich-familie-extrem.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3951971,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3951971",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19548"
+    },
+    {
+      "id": 19548,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19548",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_vnallesausser",
+      "video": "dvrsowf_ten_vnallesausser",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/vox_now/formate/alles_ausser/home",
+      "levels": [
+        "tv_now_de",
+        "vox_now",
+        "formate",
+        "alles_ausser",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Alles außer gewöhnlich - Familie Extrem: Mehr Informationen zur Dokumentation",
+    "text": "Verliebt, verlobt, verheiratet - und dann kommen die Kinder. Das ist das Bild, das viele immer noch vor Augen haben, wenn sie an Familie denken. Doch die \"Vater-Mutter-Kind-Konstellation\" ist dabei nicht mehr das einzig denkbare Familienmodell: Heute gibt es Patchwork, Regenbogen, Alleinerziehende, Spätgebärende und auch Co-Eltern. In welchem Zustand sind Deutschlands Familien? Fest steht: Sie sind so bunt und flexibel wie nie zuvor.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/alles-ausser-gewoehnlich-familie-extrem-19548",
+        "description": "Verliebt, verlobt, verheiratet - und dann kommen die Kinder. Das ist das Bild, das viele immer noch vor Augen haben, wenn sie an Familie denken. Doch die \"Vater-Mutter-Kind-Konstellation\" ist dabei nicht mehr das einzig denkbare Familienmodell: Heute gibt es Patchwork, Regenbogen, Alleinerziehende, Spätgebärende und auch Co-Eltern. In welchem Zustand sind Deutschlands Familien? Fest steht: Sie sind so bunt und flexibel wie nie zuvor.",
+        "duration": "PT3H31M51S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3951971/1200x0/dokumentation-2020.jpg",
+        "name": "Alles außer gewöhnlich - Familie Extrem",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/alles-ausser-gewoehnlich-familie-extrem-19548",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-03-13T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=dokumentation-2020-19548",
+              "sameAs": "%s/premium?typ=format&formatname=dokumentation-2020-19548",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/alles-ausser-gewoehnlich-familie-extrem-19548",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Verliebt, verlobt, verheiratet - und dann kommen die Kinder. Das ist das Bild, das viele immer noch vor Augen haben, wenn sie an Familie denken. Doch die \"Vater-Mutter-Kind-Konstellation\" ist dabei nicht mehr das einzig denkbare Familienmodell: Heute gibt es Patchwork, Regenbogen, Alleinerziehende, Spätgebärende und auch Co-Eltern. In welchem Zustand sind Deutschlands Familien? Fest steht: Sie sind so bunt und flexibel wie nie zuvor.",
+          "duration": "PT3H31M51S",
+          "embedUrl": "%s/googlebot/player/filme/alles-ausser-gewoehnlich-familie-extrem-19548",
+          "name": "Alles außer gewöhnlich - Familie Extrem",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3951971/1200x0/dokumentation-2020.jpg",
+          "uploadDate": "2021-03-13T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Alles außer gewöhnlich - Familie Extrem im Online Stream | RTL+",
+        "headline": "Alles außer gewöhnlich - Familie Extrem im Online Stream | RTL+",
+        "description": "Alles außer gewöhnlich - Familie Extrem und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/alles-ausser-gewoehnlich-familie-extrem-19548",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3951971/1200x0/dokumentation-2020.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3951971/1200x0/dokumentation-2020.jpg",
+        "datePublished": "2021-03-13T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3951971/1200x0/dokumentation-2020.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Alles außer gewöhnlich - Familie Extrem",
+            "item": "%s/filme/dokumentation-2020-19548"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Alles außer gewöhnlich - Familie Extrem im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

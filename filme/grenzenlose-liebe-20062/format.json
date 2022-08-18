@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20062,
+  "additionalMeta": {
+    "canonical": "/filme/grenzenlose-liebe-20062",
+    "url": "/filme/grenzenlose-liebe-20062"
+  },
+  "ads": {
+    "station": "passion",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Grenzenlose Liebe",
+      "url": "/filme/grenzenlose-liebe-20062"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20062,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Grenzenlose Liebe 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Grenzenlose Liebe im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Grenzenlose Liebe 📺 und viele weitere ▶ Filme aus dem Genre Drama findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/grenzenlose-liebe-20062"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4320209/1600x0/grenzenlose-liebe.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4320209,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4320209",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20062"
+    },
+    {
+      "id": 20062,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20062",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/passion_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "passion_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Drama",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Grenzenlose Liebe",
+    "text": "Den Traum Musikerin zu werden hat Luvleen aufgegeben. \nDie Lehrerin verliert ihr Herz jedoch an einen Millionär. Bald geht es nicht mehr nur ums Geld allein...",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/grenzenlose-liebe-20062",
+        "description": "Den Traum Musikerin zu werden hat Luvleen aufgegeben. \nDie Lehrerin verliert ihr Herz jedoch an einen Millionär. Bald geht es nicht mehr nur ums Geld allein...",
+        "duration": "PT2H2M45S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4320209/1200x0/grenzenlose-liebe.jpg",
+        "name": "Grenzenlose Liebe",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/grenzenlose-liebe-20062",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-30T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=grenzenlose-liebe-20062",
+              "sameAs": "%s/premium?typ=format&formatname=grenzenlose-liebe-20062",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/grenzenlose-liebe-20062",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Den Traum Musikerin zu werden hat Luvleen aufgegeben. \nDie Lehrerin verliert ihr Herz jedoch an einen Millionär. Bald geht es nicht mehr nur ums Geld allein...",
+          "duration": "PT2H2M45S",
+          "embedUrl": "%s/googlebot/player/filme/grenzenlose-liebe-20062",
+          "name": "Grenzenlose Liebe",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4320209/1200x0/grenzenlose-liebe.jpg",
+          "uploadDate": "2022-07-30T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Grenzenlose Liebe im Online Stream | RTL+",
+        "headline": "Grenzenlose Liebe im Online Stream | RTL+",
+        "description": "Grenzenlose Liebe und viele weitere  ▶️Filme aus dem Genre Drama findest du im Online Stream bei RTL+. Ein Film mit ▶️Chakraborty Mahaakshay, Dutta Mohit, Mulay Suhasini, Evelyn Sharma, Kavin Dave, Ravi Khemu.",
+        "url": "%s/filme/grenzenlose-liebe-20062",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4320209/1200x0/grenzenlose-liebe.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4320209/1200x0/grenzenlose-liebe.jpg",
+        "datePublished": "2022-07-30T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4320209/1200x0/grenzenlose-liebe.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Grenzenlose Liebe",
+            "item": "%s/filme/grenzenlose-liebe-20062"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Grenzenlose Liebe im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

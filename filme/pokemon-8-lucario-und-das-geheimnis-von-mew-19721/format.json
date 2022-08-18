@@ -1,0 +1,241 @@
+﻿{
+  "formatId": 19721,
+  "additionalMeta": {
+    "canonical": "/filme/pokemon-8-lucario-und-das-geheimnis-von-mew-19721",
+    "url": "/filme/pokemon-8-lucario-und-das-geheimnis-von-mew-19721"
+  },
+  "ads": {
+    "station": "toggoplus",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Pokémon 8 - Lucario und das Geheimnis von Mew",
+      "url": "/filme/pokemon-8-lucario-und-das-geheimnis-von-mew-19721"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19721,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Pokémon 8 - Lucario und das Geheimnis von Mew 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Pokémon 8 - Lucario und das Geheimnis von Mew im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Pokémon 8 - Lucario und das Geheimnis von Mew 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/pokemon-8-lucario-und-das-geheimnis-von-mew-19721"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4110587/1600x0/pokemon-8-lucario-und-das-geheimnis-von-mew.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4110587,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4110587",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19721"
+    },
+    {
+      "id": 19721,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19721",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/toggo_plus_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "toggo_plus_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Action und Abenteuer",
+      "KIDS Jungs",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Pokémon 8 - Lucario und das Geheimnis von Mew - Informationen zum Film",
+    "text": "Als eine Siegesfeier für Ash und Pikachu beginnt, erscheint plötzlich das geheimnisvolle Pokémon Mew und schnappt sich Pikachu! Als wäre das nicht genug, erwacht auch noch das Aura-Pokémon Lucario, das in enem Stab eingeschlossen war. Wo ist Pikachu und warum hat Mew es entführt? Warum ist Lucario erwacht? Was steckt wirklich hinter der Legende von Sir Aaron?",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/pokemon-8-lucario-und-das-geheimnis-von-mew-19721",
+        "description": "Als eine Siegesfeier für Ash und Pikachu beginnt, erscheint plötzlich das geheimnisvolle Pokémon Mew und schnappt sich Pikachu! Als wäre das nicht genug, erwacht auch noch das Aura-Pokémon Lucario, das in enem Stab eingeschlossen war. Wo ist Pikachu und warum hat Mew es entführt? Warum ist Lucario erwacht? Was steckt wirklich hinter der Legende von Sir Aaron?",
+        "duration": "PT1H35M33S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4110587/1200x0/pokemon-8-lucario-und-das-geheimnis-von-mew.jpg",
+        "name": "Pokémon 8 - Lucario und das Geheimnis von Mew",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/pokemon-8-lucario-und-das-geheimnis-von-mew-19721",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-07-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=pokemon-8-lucario-und-das-geheimnis-von-mew-19721",
+              "sameAs": "%s/premium?typ=format&formatname=pokemon-8-lucario-und-das-geheimnis-von-mew-19721",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/pokemon-8-lucario-und-das-geheimnis-von-mew-19721",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Als eine Siegesfeier für Ash und Pikachu beginnt, erscheint plötzlich das geheimnisvolle Pokémon Mew und schnappt sich Pikachu! Als wäre das nicht genug, erwacht auch noch das Aura-Pokémon Lucario, das in enem Stab eingeschlossen war. Wo ist Pikachu und warum hat Mew es entführt? Warum ist Lucario erwacht? Was steckt wirklich hinter der Legende von Sir Aaron?",
+          "duration": "PT1H35M33S",
+          "embedUrl": "%s/googlebot/player/filme/pokemon-8-lucario-und-das-geheimnis-von-mew-19721",
+          "name": "Pokémon 8 - Lucario und das Geheimnis von Mew",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4110587/1200x0/pokemon-8-lucario-und-das-geheimnis-von-mew.jpg",
+          "uploadDate": "2022-07-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Pokémon 8 - Lucario und das Geheimnis von Mew im Online Stream | RTL+",
+        "headline": "Pokémon 8 - Lucario und das Geheimnis von Mew im Online Stream | RTL+",
+        "description": "Pokémon 8 - Lucario und das Geheimnis von Mew und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/pokemon-8-lucario-und-das-geheimnis-von-mew-19721",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4110587/1200x0/pokemon-8-lucario-und-das-geheimnis-von-mew.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4110587/1200x0/pokemon-8-lucario-und-das-geheimnis-von-mew.jpg",
+        "datePublished": "2022-07-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4110587/1200x0/pokemon-8-lucario-und-das-geheimnis-von-mew.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pokémon 8 - Lucario und das Geheimnis von Mew",
+            "item": "%s/filme/pokemon-8-lucario-und-das-geheimnis-von-mew-19721"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Pokémon 8 - Lucario und das Geheimnis von Mew im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

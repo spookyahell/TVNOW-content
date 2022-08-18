@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19122,
+  "additionalMeta": {
+    "canonical": "/filme/der-alpenmoerder-ein-franzoesischer-serienkiller-19122",
+    "url": "/filme/der-alpenmoerder-ein-franzoesischer-serienkiller-19122"
+  },
+  "ads": {
+    "station": "crime",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Der Alpenmörder - Ein französischer Serienkiller",
+      "url": "/filme/der-alpenmoerder-ein-franzoesischer-serienkiller-19122"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19122,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Der Alpenmörder - Ein französischer Serienkiller 📺 und viele weitere ▶ Filme aus dem Genre True Crime findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Der Alpenmörder - Ein französischer Serienkiller im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Der Alpenmörder - Ein französischer Serienkiller 📺 und viele weitere ▶ Filme aus dem Genre True Crime findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/der-alpenmoerder-ein-franzoesischer-serienkiller-19122"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3472434/1600x0/der-alpenmoerder-ein-franzoesischer-serienkiller.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3472434,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3472434",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19122"
+    },
+    {
+      "id": 19122,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19122",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/crime_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "crime_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "True Crime",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Der Alpenmörder - Ein französischer Serienkiller",
+    "text": "Als die 8-jährige Maelys während einer Hochzeit im Jahr 2017 verschwindet und später Tod aufgefunden wird, gerät ein ehemalige Soldat unter Verdacht. Er gesteht und plötzlich werden weitere Todesfälle und sexuelle Übergriffe in seinem Umfeld entdeckt. So auch der Mord an einem jungen Soldaten nur wenige Monate vorher. Treibt etwa ein Serienkiller jahrelang unbehelligt sein Unwesen? Dieses Justizversagen erschütterte ganz Frankreich.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/der-alpenmoerder-ein-franzoesischer-serienkiller-19122",
+        "description": "Als die 8-jährige Maelys während einer Hochzeit im Jahr 2017 verschwindet und später Tod aufgefunden wird, gerät ein ehemalige Soldat unter Verdacht. Er gesteht und plötzlich werden weitere Todesfälle und sexuelle Übergriffe in seinem Umfeld entdeckt. So auch der Mord an einem jungen Soldaten nur wenige Monate vorher. Treibt etwa ein Serienkiller jahrelang unbehelligt sein Unwesen? Dieses Justizversagen erschütterte ganz Frankreich.",
+        "duration": "PT1H27M56S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3472434/1200x0/der-alpenmoerder-ein-franzoesischer-serienkiller.jpg",
+        "name": "Der Alpenmörder - Ein französischer Serienkiller",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/der-alpenmoerder-ein-franzoesischer-serienkiller-19122",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-10-30T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=der-alpenmoerder-ein-franzoesischer-serienkiller-19122",
+              "sameAs": "%s/premium?typ=format&formatname=der-alpenmoerder-ein-franzoesischer-serienkiller-19122",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/der-alpenmoerder-ein-franzoesischer-serienkiller-19122",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Als die 8-jährige Maelys während einer Hochzeit im Jahr 2017 verschwindet und später Tod aufgefunden wird, gerät ein ehemalige Soldat unter Verdacht. Er gesteht und plötzlich werden weitere Todesfälle und sexuelle Übergriffe in seinem Umfeld entdeckt. So auch der Mord an einem jungen Soldaten nur wenige Monate vorher. Treibt etwa ein Serienkiller jahrelang unbehelligt sein Unwesen? Dieses Justizversagen erschütterte ganz Frankreich.",
+          "duration": "PT1H27M56S",
+          "embedUrl": "%s/googlebot/player/filme/der-alpenmoerder-ein-franzoesischer-serienkiller-19122",
+          "name": "Der Alpenmörder - Ein französischer Serienkiller",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3472434/1200x0/der-alpenmoerder-ein-franzoesischer-serienkiller.jpg",
+          "uploadDate": "2020-10-30T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Der Alpenmörder - Ein französischer Serienkiller im Online Stream | RTL+",
+        "headline": "Der Alpenmörder - Ein französischer Serienkiller im Online Stream | RTL+",
+        "description": "Der Alpenmörder - Ein französischer Serienkiller und viele weitere  ▶️Filme aus dem Genre True Crime findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/der-alpenmoerder-ein-franzoesischer-serienkiller-19122",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3472434/1200x0/der-alpenmoerder-ein-franzoesischer-serienkiller.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3472434/1200x0/der-alpenmoerder-ein-franzoesischer-serienkiller.jpg",
+        "datePublished": "2020-10-30T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3472434/1200x0/der-alpenmoerder-ein-franzoesischer-serienkiller.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Der Alpenmörder - Ein französischer Serienkiller",
+            "item": "%s/filme/der-alpenmoerder-ein-franzoesischer-serienkiller-19122"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Der Alpenmörder - Ein französischer Serienkiller im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

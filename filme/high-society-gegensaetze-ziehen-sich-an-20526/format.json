@@ -1,0 +1,237 @@
+﻿{
+  "formatId": 20526,
+  "additionalMeta": {
+    "canonical": "/filme/high-society-gegensaetze-ziehen-sich-an-20526",
+    "url": "/filme/high-society-gegensaetze-ziehen-sich-an-20526"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "High Society - Gegensätze ziehen sich an",
+      "url": "/filme/high-society-gegensaetze-ziehen-sich-an-20526"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20526,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ High Society - Gegensätze ziehen sich an 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "High Society - Gegensätze ziehen sich an im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ High Society - Gegensätze ziehen sich an 📺 und viele weitere ▶ Filme aus dem Genre Comedy findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/high-society-gegensaetze-ziehen-sich-an-20526"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4785468/1600x0/high-society-gegensaetze-ziehen-sich-an.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4785468,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4785468",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20526"
+    },
+    {
+      "id": 20526,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20526",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnfilme",
+      "video": "dvrsowf_ten_tnfilme",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/filme_komoedie/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "filme_komoedie",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Comedy",
+    "cluster": [
+      "FILME Komödien"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: High Society - Gegensätze ziehen sich an",
+    "text": "Die junge Anabel von Schlacht genießt ihr Luxusleben, das vornehmlich aus Shopping und Feiern besteht. Als herauskommt, dass Anabel nach der Geburt im Krankenhaus vertauscht wurde, muss sie das alles hinter sich lassen und zu ihrer leiblichen Mutter, der Kassiererin Carmen Schlonz, und zwei weiteren Geschwistern in eine Plattenbauwohnung ziehen. Aura, die bei Carmen aufgewachsen ist, übernimmt unterdessen Anabels Leben im Luxus.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/high-society-gegensaetze-ziehen-sich-an-20526",
+        "description": "Die junge Anabel von Schlacht genießt ihr Luxusleben, das vornehmlich aus Shopping und Feiern besteht. Als herauskommt, dass Anabel nach der Geburt im Krankenhaus vertauscht wurde, muss sie das alles hinter sich lassen und zu ihrer leiblichen Mutter, der Kassiererin Carmen Schlonz, und zwei weiteren Geschwistern in eine Plattenbauwohnung ziehen. Aura, die bei Carmen aufgewachsen ist, übernimmt unterdessen Anabels Leben im Luxus.",
+        "duration": "PT1H36M25S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4785468/1200x0/high-society-gegensaetze-ziehen-sich-an.jpg",
+        "name": "High Society - Gegensätze ziehen sich an",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/high-society-gegensaetze-ziehen-sich-an-20526",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=high-society-gegensaetze-ziehen-sich-an-20526",
+              "sameAs": "%s/premium?typ=format&formatname=high-society-gegensaetze-ziehen-sich-an-20526",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/high-society-gegensaetze-ziehen-sich-an-20526",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Die junge Anabel von Schlacht genießt ihr Luxusleben, das vornehmlich aus Shopping und Feiern besteht. Als herauskommt, dass Anabel nach der Geburt im Krankenhaus vertauscht wurde, muss sie das alles hinter sich lassen und zu ihrer leiblichen Mutter, der Kassiererin Carmen Schlonz, und zwei weiteren Geschwistern in eine Plattenbauwohnung ziehen. Aura, die bei Carmen aufgewachsen ist, übernimmt unterdessen Anabels Leben im Luxus.",
+          "duration": "PT1H36M25S",
+          "embedUrl": "%s/googlebot/player/filme/high-society-gegensaetze-ziehen-sich-an-20526",
+          "name": "High Society - Gegensätze ziehen sich an",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4785468/1200x0/high-society-gegensaetze-ziehen-sich-an.jpg",
+          "uploadDate": "2022-04-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "High Society - Gegensätze ziehen sich an im Online Stream | RTL+",
+        "headline": "High Society - Gegensätze ziehen sich an im Online Stream | RTL+",
+        "description": "High Society - Gegensätze ziehen sich an und viele weitere  ▶️Filme aus dem Genre Comedy findest du im Online Stream bei RTL+. Ein Film mit ▶️Jannis Niewöhner, Emilia Schüle, Jannik Schümann.",
+        "url": "%s/filme/high-society-gegensaetze-ziehen-sich-an-20526",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4785468/1200x0/high-society-gegensaetze-ziehen-sich-an.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4785468/1200x0/high-society-gegensaetze-ziehen-sich-an.jpg",
+        "datePublished": "2022-04-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4785468/1200x0/high-society-gegensaetze-ziehen-sich-an.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "High Society - Gegensätze ziehen sich an",
+            "item": "%s/filme/high-society-gegensaetze-ziehen-sich-an-20526"
+          }
+        ]
+      }
+    }
+  },
+  "title": "High Society - Gegensätze ziehen sich an im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

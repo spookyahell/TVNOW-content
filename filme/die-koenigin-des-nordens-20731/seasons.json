@@ -1,0 +1,105 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20731",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20731,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/die-koenigin-des-nordens-20731"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Die Königin des Nordens",
+          "teaserId": "film_4838909",
+          "teaserName": "Die Königin des Nordens | Die Königin des Nordens",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Dokumentation",
+          "cluster": [],
+          "classification": [],
+          "teaserEpisodeAirtime": "GEO WILD",
+          "teaserEpisodeName": "Die Königin des Nordens"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Die Königin des Nordens",
+        "id": 4838909,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4838909/300x0/die-koenigin-des-nordens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4838909/",
+            "filename": "die-koenigin-des-nordens"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4838909/600x0/die-koenigin-des-nordens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4838909/",
+            "filename": "die-koenigin-des-nordens"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4838909/1200x0/die-koenigin-des-nordens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4838909/",
+            "filename": "die-koenigin-des-nordens"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4838909/300x0/die-koenigin-des-nordens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4838909/",
+            "filename": "die-koenigin-des-nordens"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4838909/600x0/die-koenigin-des-nordens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4838909/",
+            "filename": "die-koenigin-des-nordens"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4838909/1200x0/die-koenigin-des-nordens.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4838909/",
+            "filename": "die-koenigin-des-nordens"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "die-koenigin-des-nordens",
+        "subheadline": "Die Königin des Nordens",
+        "text": "Staffel  | GEO WILD",
+        "type": "film",
+        "url": "/filme/die-koenigin-des-nordens-20731",
+        "videoId": 4838909
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

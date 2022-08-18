@@ -1,0 +1,107 @@
+﻿[
+  {
+    "ecommerce": {
+      "rowCategory": "small_teaser",
+      "rowId": "na",
+      "rowName": "Staffel 0"
+    },
+    "id": null,
+    "label": null,
+    "moduleLayout": "format_episode",
+    "moduleUrl": "/module/teaserrow/format/episode/20773",
+    "type": "teaserrow",
+    "items": [
+      {
+        "buttons": [
+          {
+            "display": true,
+            "formatId": 20773,
+            "text": null,
+            "type": "favorites"
+          },
+          {
+            "display": true,
+            "text": "Jetzt streamen",
+            "type": "play",
+            "url": "/filme/piratensender-powerplay-20773"
+          }
+        ],
+        "ecommerce": {
+          "teaserFormatName": "Piratensender Powerplay",
+          "teaserId": "film_4852254",
+          "teaserName": "Piratensender Powerplay | Piratensender Powerplay",
+          "teaserPayType": "paid",
+          "teaserType": "film",
+          "teaserGenre": "Comedy",
+          "cluster": [
+            "FILME Komödien"
+          ],
+          "classification": [],
+          "teaserEpisodeAirtime": "RTL+",
+          "teaserEpisodeName": "Piratensender Powerplay"
+        },
+        "fsk": {
+          "isVisible": false,
+          "label": "ab 0",
+          "minAge": 0
+        },
+        "headline": "Piratensender Powerplay",
+        "id": 4852254,
+        "images": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852254/300x0/piratensender-powerplay.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852254/",
+            "filename": "piratensender-powerplay"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852254/600x0/piratensender-powerplay.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852254/",
+            "filename": "piratensender-powerplay"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852254/1200x0/piratensender-powerplay.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852254/",
+            "filename": "piratensender-powerplay"
+          }
+        ],
+        "imagesHover": [
+          {
+            "dimension": "1x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852254/300x0/piratensender-powerplay.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852254/",
+            "filename": "piratensender-powerplay"
+          },
+          {
+            "dimension": "2x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852254/600x0/piratensender-powerplay.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852254/",
+            "filename": "piratensender-powerplay"
+          },
+          {
+            "dimension": "4x",
+            "src": "https://ais-cf.tvnow.de/tvnow/movie/4852254/1200x0/piratensender-powerplay.jpg",
+            "path": "https://ais-cf.tvnow.de/tvnow/movie/4852254/",
+            "filename": "piratensender-powerplay"
+          }
+        ],
+        "isPremium": true,
+        "overlays": [
+          "premium"
+        ],
+        "seoUrl": "piratensender-powerplay",
+        "subheadline": "Piratensender Powerplay",
+        "text": "Staffel  | RTL+",
+        "type": "film",
+        "url": "/filme/piratensender-powerplay-20773",
+        "videoId": 4852254
+      }
+    ],
+    "format_navigation": {
+      "season": 0
+    },
+    "navigationType": "season"
+  }
+]

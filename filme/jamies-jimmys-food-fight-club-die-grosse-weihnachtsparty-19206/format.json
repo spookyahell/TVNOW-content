@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19206,
+  "additionalMeta": {
+    "canonical": "/filme/jamies-jimmys-food-fight-club-die-grosse-weihnachtsparty-19206",
+    "url": "/filme/jamies-jimmys-food-fight-club-die-grosse-weihnachtsparty-19206"
+  },
+  "ads": {
+    "station": "living",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Jamies & Jimmys Food Fight Club - Die große Weihnachtsparty",
+      "url": "/filme/jamies-jimmys-food-fight-club-die-grosse-weihnachtsparty-19206"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19206,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Jamies & Jimmys Food Fight Club - Die große Weihnachtsparty 📺 und viele weitere ▶ Filme aus dem Genre Kochen findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Jamies & Jimmys Food Fight Club - Die große Weihnachtsparty im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Jamies & Jimmys Food Fight Club - Die große Weihnachtsparty 📺 und viele weitere ▶ Filme aus dem Genre Kochen findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/jamies-jimmys-food-fight-club-die-grosse-weihnachtsparty-19206"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3811631/1600x0/jamies-jimmys-food-fight-club-die-grosse-weihnachtsparty.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3811631,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3811631",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19206"
+    },
+    {
+      "id": 19206,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19206",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/living_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "living_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kochen",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Jamies & Jimmys Food Fight Club - Die große Weihnachtsparty",
+    "text": "Der britische Starkoch und Bestsellerautor Jamie Oliver und sein Jugendfreund, der Landwirt Jimmy Doherty, öffnen die Schranken ihres Restaurants in Southend-on-Sea, um in diesem besonderen Weihnachtsspezial nicht nur ihre eigenen Mütter, sondern auch den britischen Hollywood-Schauspieler Taron Egerton (\"Rocketman\") mit vielen festlichen Weihnachtsrezepten zu verblüffen.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/jamies-jimmys-food-fight-club-die-grosse-weihnachtsparty-19206",
+        "description": "Der britische Starkoch und Bestsellerautor Jamie Oliver und sein Jugendfreund, der Landwirt Jimmy Doherty, öffnen die Schranken ihres Restaurants in Southend-on-Sea, um in diesem besonderen Weihnachtsspezial nicht nur ihre eigenen Mütter, sondern auch den britischen Hollywood-Schauspieler Taron Egerton (\"Rocketman\") mit vielen festlichen Weihnachtsrezepten zu verblüffen.",
+        "duration": "PT45M36S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3811631/1200x0/jamies-jimmys-food-fight-club-die-grosse-weihnachtsparty.jpg",
+        "name": "Jamies & Jimmys Food Fight Club - Die große Weihnachtsparty",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/jamies-jimmys-food-fight-club-die-grosse-weihnachtsparty-19206",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2020-12-10T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=jamies-jimmys-food-fight-club-die-grosse-weihnachtsparty-19206",
+              "sameAs": "%s/premium?typ=format&formatname=jamies-jimmys-food-fight-club-die-grosse-weihnachtsparty-19206",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/jamies-jimmys-food-fight-club-die-grosse-weihnachtsparty-19206",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Der britische Starkoch und Bestsellerautor Jamie Oliver und sein Jugendfreund, der Landwirt Jimmy Doherty, öffnen die Schranken ihres Restaurants in Southend-on-Sea, um in diesem besonderen Weihnachtsspezial nicht nur ihre eigenen Mütter, sondern auch den britischen Hollywood-Schauspieler Taron Egerton (\"Rocketman\") mit vielen festlichen Weihnachtsrezepten zu verblüffen.",
+          "duration": "PT45M36S",
+          "embedUrl": "%s/googlebot/player/filme/jamies-jimmys-food-fight-club-die-grosse-weihnachtsparty-19206",
+          "name": "Jamies & Jimmys Food Fight Club - Die große Weihnachtsparty",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3811631/1200x0/jamies-jimmys-food-fight-club-die-grosse-weihnachtsparty.jpg",
+          "uploadDate": "2020-12-10T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Jamies & Jimmys Food Fight Club - Die große Weihnachtsparty im Online Stream | RTL+",
+        "headline": "Jamies & Jimmys Food Fight Club - Die große Weihnachtsparty im Online Stream | RTL+",
+        "description": "Jamies & Jimmys Food Fight Club - Die große Weihnachtsparty und viele weitere  ▶️Filme aus dem Genre Kochen findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/jamies-jimmys-food-fight-club-die-grosse-weihnachtsparty-19206",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3811631/1200x0/jamies-jimmys-food-fight-club-die-grosse-weihnachtsparty.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3811631/1200x0/jamies-jimmys-food-fight-club-die-grosse-weihnachtsparty.jpg",
+        "datePublished": "2020-12-10T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3811631/1200x0/jamies-jimmys-food-fight-club-die-grosse-weihnachtsparty.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Jamies & Jimmys Food Fight Club - Die große Weihnachtsparty",
+            "item": "%s/filme/jamies-jimmys-food-fight-club-die-grosse-weihnachtsparty-19206"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Jamies & Jimmys Food Fight Club - Die große Weihnachtsparty im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 20510,
+  "additionalMeta": {
+    "canonical": "/filme/wildes-shetland-20510",
+    "url": "/filme/wildes-shetland-20510"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Wildes Shetland",
+      "url": "/filme/wildes-shetland-20510"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20510,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Wildes Shetland 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Wildes Shetland im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Wildes Shetland 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/wildes-shetland-20510"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4775614/1600x0/wildes-shetland.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4775614,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4775614",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20510"
+    },
+    {
+      "id": 20510,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20510",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tnwildesshetland",
+      "video": "dvrsowf_ten_tnwildesshetland",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/wildes_shetland/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "wildes_shetland",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Wildes Shetland",
+    "text": "Von Fischottern bis zu Papageientauchern, spektakulären Unterwassertölpeln und seltenen Sturmschwalben - der Höhepunkt dieses Films ist eine dramatische Jagd, bei der eine Gruppe von Killerwalen zusammenarbeitet, um junge Robben in der atemberaubenden Landschaft dieser Inseln zu erlegen. Die Dokumentation folgt den Jahreszeiten und zeigt die Schönheit und Dramatik Schottlands nördlichster Inseln - Shetland.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/wildes-shetland-20510",
+        "description": "Von Fischottern bis zu Papageientauchern, spektakulären Unterwassertölpeln und seltenen Sturmschwalben - der Höhepunkt dieses Films ist eine dramatische Jagd, bei der eine Gruppe von Killerwalen zusammenarbeitet, um junge Robben in der atemberaubenden Landschaft dieser Inseln zu erlegen. Die Dokumentation folgt den Jahreszeiten und zeigt die Schönheit und Dramatik Schottlands nördlichster Inseln - Shetland.",
+        "duration": "PT58M55S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4775614/1200x0/wildes-shetland.jpg",
+        "name": "Wildes Shetland",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/wildes-shetland-20510",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-04-01T06:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=wildes-shetland-20510",
+              "sameAs": "%s/premium?typ=format&formatname=wildes-shetland-20510",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/wildes-shetland-20510",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Von Fischottern bis zu Papageientauchern, spektakulären Unterwassertölpeln und seltenen Sturmschwalben - der Höhepunkt dieses Films ist eine dramatische Jagd, bei der eine Gruppe von Killerwalen zusammenarbeitet, um junge Robben in der atemberaubenden Landschaft dieser Inseln zu erlegen. Die Dokumentation folgt den Jahreszeiten und zeigt die Schönheit und Dramatik Schottlands nördlichster Inseln - Shetland.",
+          "duration": "PT58M55S",
+          "embedUrl": "%s/googlebot/player/filme/wildes-shetland-20510",
+          "name": "Wildes Shetland",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4775614/1200x0/wildes-shetland.jpg",
+          "uploadDate": "2022-04-01T06:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Wildes Shetland im Online Stream | RTL+",
+        "headline": "Wildes Shetland im Online Stream | RTL+",
+        "description": "Wildes Shetland und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/wildes-shetland-20510",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4775614/1200x0/wildes-shetland.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4775614/1200x0/wildes-shetland.jpg",
+        "datePublished": "2022-04-01T06:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4775614/1200x0/wildes-shetland.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wildes Shetland",
+            "item": "%s/filme/wildes-shetland-20510"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Wildes Shetland im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

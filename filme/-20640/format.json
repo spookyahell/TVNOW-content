@@ -1,0 +1,240 @@
+﻿{
+  "formatId": 20640,
+  "additionalMeta": {
+    "canonical": "/filme/-20640",
+    "url": "/filme/-20640"
+  },
+  "ads": {
+    "station": "tvnow",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Prinz Harry - Dianas Sohn zwischen Liebe, Pflicht und Freiheit",
+      "url": "/filme/-20640"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20640,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Prinz Harry - Dianas Sohn zwischen Liebe, Pflicht und Freiheit 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Prinz Harry - Dianas Sohn zwischen Liebe, Pflicht und Freiheit im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Prinz Harry - Dianas Sohn zwischen Liebe, Pflicht und Freiheit 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/-20640"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4835587/1600x0/prinz-harry-dianas-sohn-zwischen-liebe-pflicht-und-freiheit.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4835587,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4835587",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20640"
+    },
+    {
+      "id": 20640,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20640",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_tndokubio",
+      "video": "dvrsowf_ten_tndokubio",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/tv_now/formate/tvnow_doku_bio/home",
+      "levels": [
+        "tv_now_de",
+        "tv_now",
+        "formate",
+        "tvnow_doku_bio",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [
+      "Promis",
+      "Biographie"
+    ],
+    "classification": [
+      "Exclusive"
+    ]
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Prinz Harry - Dianas Sohn zwischen Liebe, Pflicht und Freiheit",
+    "text": "Prinz Harry hat ein sehr öffentliches Leben hinter sich. Einen Großteil dieses Lebens hat er Anliegen verschrieben, die ihm am Herzen liegen. Seine Ehrlichkeit und Offenheit haben ihn bei Millionen von Menschen beliebt gemacht. In den letzten Jahren führte seine Sehnsucht nach Privatsphäre zu seiner Entscheidung, das königliche Leben hinter sich zu lassen und eine unabhängige Zukunft für seine eigene Familie anzustreben. ",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/prinz-harry-dianas-sohn-zwischen-liebe-pflicht-und-freiheit-20640",
+        "description": "Prinz Harry hat ein sehr öffentliches Leben hinter sich. Einen Großteil dieses Lebens hat er Anliegen verschrieben, die ihm am Herzen liegen. Seine Ehrlichkeit und Offenheit haben ihn bei Millionen von Menschen beliebt gemacht. In den letzten Jahren führte seine Sehnsucht nach Privatsphäre zu seiner Entscheidung, das königliche Leben hinter sich zu lassen und eine unabhängige Zukunft für seine eigene Familie anzustreben. ",
+        "duration": "PT48M30S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4835587/1200x0/prinz-harry-dianas-sohn-zwischen-liebe-pflicht-und-freiheit.jpg",
+        "name": "Prinz Harry - Dianas Sohn zwischen Liebe, Pflicht und Freiheit",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/prinz-harry-dianas-sohn-zwischen-liebe-pflicht-und-freiheit-20640",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-06-02T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=-20640",
+              "sameAs": "%s/premium?typ=format&formatname=-20640",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/prinz-harry-dianas-sohn-zwischen-liebe-pflicht-und-freiheit-20640",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Prinz Harry hat ein sehr öffentliches Leben hinter sich. Einen Großteil dieses Lebens hat er Anliegen verschrieben, die ihm am Herzen liegen. Seine Ehrlichkeit und Offenheit haben ihn bei Millionen von Menschen beliebt gemacht. In den letzten Jahren führte seine Sehnsucht nach Privatsphäre zu seiner Entscheidung, das königliche Leben hinter sich zu lassen und eine unabhängige Zukunft für seine eigene Familie anzustreben. ",
+          "duration": "PT48M30S",
+          "embedUrl": "%s/googlebot/player/filme/prinz-harry-dianas-sohn-zwischen-liebe-pflicht-und-freiheit-20640",
+          "name": "Prinz Harry - Dianas Sohn zwischen Liebe, Pflicht und Freiheit",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4835587/1200x0/prinz-harry-dianas-sohn-zwischen-liebe-pflicht-und-freiheit.jpg",
+          "uploadDate": "2022-06-02T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Prinz Harry - Dianas Sohn zwischen Liebe, Pflicht und Freiheit im Online Stream | RTL+",
+        "headline": "Prinz Harry - Dianas Sohn zwischen Liebe, Pflicht und Freiheit im Online Stream | RTL+",
+        "description": "Prinz Harry - Dianas Sohn zwischen Liebe, Pflicht und Freiheit und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/prinz-harry-dianas-sohn-zwischen-liebe-pflicht-und-freiheit-20640",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4835587/1200x0/prinz-harry-dianas-sohn-zwischen-liebe-pflicht-und-freiheit.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4835587/1200x0/prinz-harry-dianas-sohn-zwischen-liebe-pflicht-und-freiheit.jpg",
+        "datePublished": "2022-06-02T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4835587/1200x0/prinz-harry-dianas-sohn-zwischen-liebe-pflicht-und-freiheit.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Prinz Harry - Dianas Sohn zwischen Liebe, Pflicht und Freiheit",
+            "item": "%s/filme/-20640"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Prinz Harry - Dianas Sohn zwischen Liebe, Pflicht und Freiheit im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}

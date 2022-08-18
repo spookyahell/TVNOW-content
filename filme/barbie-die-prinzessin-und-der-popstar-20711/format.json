@@ -1,0 +1,240 @@
+﻿{
+  "formatId": 20711,
+  "additionalMeta": {
+    "canonical": "/filme/barbie-die-prinzessin-und-der-popstar-20711",
+    "url": "/filme/barbie-die-prinzessin-und-der-popstar-20711"
+  },
+  "ads": {
+    "station": "tvnowkids",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Barbie - Die Prinzessin und der Popstar",
+      "url": "/filme/barbie-die-prinzessin-und-der-popstar-20711"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 20711,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Barbie - Die Prinzessin und der Popstar 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Barbie - Die Prinzessin und der Popstar im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Barbie - Die Prinzessin und der Popstar 📺 und viele weitere ▶ Filme aus dem Genre Kinder findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/barbie-die-prinzessin-und-der-popstar-20711"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/4834021/1600x0/barbie-die-prinzessin-und-der-popstar.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 4834021,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/4834021",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/20711"
+    },
+    {
+      "id": 20711,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/20711",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/kids_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "kids_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Kinder",
+    "cluster": [
+      "KIDS 6 bis 10 Jahre",
+      "KIDS Mädchen",
+      "Kids"
+    ],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Barbie - Die Prinzessin und der Popstar",
+    "text": "Tori, die warmherzige Prinzessin von Meribella, möchte viel lieber singen und tanzen statt ihre königlichen Aufgaben zu erfüllen. Als ihr Lieblings-Popstar Keira sie im Schloss besucht, werden die beiden sofort Freundinnen und entdecken ein magisches Geheimnis, das sie wie Zwillinge aussehen lässt. Sie tauschen die Plätze und erleben spannende Abenteuer. Doch dann droht Gefahr: der Schutzzauber, der das Königreich umgibt, soll gestohlen werden.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/barbie-die-prinzessin-und-der-popstar-20711",
+        "description": "Tori, die warmherzige Prinzessin von Meribella, möchte viel lieber singen und tanzen statt ihre königlichen Aufgaben zu erfüllen. Als ihr Lieblings-Popstar Keira sie im Schloss besucht, werden die beiden sofort Freundinnen und entdecken ein magisches Geheimnis, das sie wie Zwillinge aussehen lässt. Sie tauschen die Plätze und erleben spannende Abenteuer. Doch dann droht Gefahr: der Schutzzauber, der das Königreich umgibt, soll gestohlen werden.",
+        "duration": "PT1H8M44S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/4834021/1200x0/barbie-die-prinzessin-und-der-popstar.jpg",
+        "name": "Barbie - Die Prinzessin und der Popstar",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/barbie-die-prinzessin-und-der-popstar-20711",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2022-06-01T00:00:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=barbie-die-prinzessin-und-der-popstar-20711",
+              "sameAs": "%s/premium?typ=format&formatname=barbie-die-prinzessin-und-der-popstar-20711",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/barbie-die-prinzessin-und-der-popstar-20711",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Tori, die warmherzige Prinzessin von Meribella, möchte viel lieber singen und tanzen statt ihre königlichen Aufgaben zu erfüllen. Als ihr Lieblings-Popstar Keira sie im Schloss besucht, werden die beiden sofort Freundinnen und entdecken ein magisches Geheimnis, das sie wie Zwillinge aussehen lässt. Sie tauschen die Plätze und erleben spannende Abenteuer. Doch dann droht Gefahr: der Schutzzauber, der das Königreich umgibt, soll gestohlen werden.",
+          "duration": "PT1H8M44S",
+          "embedUrl": "%s/googlebot/player/filme/barbie-die-prinzessin-und-der-popstar-20711",
+          "name": "Barbie - Die Prinzessin und der Popstar",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4834021/1200x0/barbie-die-prinzessin-und-der-popstar.jpg",
+          "uploadDate": "2022-06-01T00:00:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Barbie - Die Prinzessin und der Popstar im Online Stream | RTL+",
+        "headline": "Barbie - Die Prinzessin und der Popstar im Online Stream | RTL+",
+        "description": "Barbie - Die Prinzessin und der Popstar und viele weitere  ▶️Filme aus dem Genre Kinder findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/barbie-die-prinzessin-und-der-popstar-20711",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/4834021/1200x0/barbie-die-prinzessin-und-der-popstar.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/4834021/1200x0/barbie-die-prinzessin-und-der-popstar.jpg",
+        "datePublished": "2022-06-01T00:00:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/4834021/1200x0/barbie-die-prinzessin-und-der-popstar.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Barbie - Die Prinzessin und der Popstar",
+            "item": "%s/filme/barbie-die-prinzessin-und-der-popstar-20711"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Barbie - Die Prinzessin und der Popstar im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults",
+    "kids"
+  ]
+}

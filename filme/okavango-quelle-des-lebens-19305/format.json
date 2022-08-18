@@ -1,0 +1,235 @@
+﻿{
+  "formatId": 19305,
+  "additionalMeta": {
+    "canonical": "/filme/okavango-quelle-des-lebens-19305",
+    "url": "/filme/okavango-quelle-des-lebens-19305"
+  },
+  "ads": {
+    "station": "geo",
+    "taggingPack": "",
+    "taggingSubSite": ""
+  },
+  "breadcrumb": [
+    {
+      "name": "RTL+",
+      "url": "/"
+    },
+    {
+      "name": "Filme",
+      "url": "/filme"
+    },
+    {
+      "name": "Okavango - Quelle des Lebens",
+      "url": "/filme/okavango-quelle-des-lebens-19305"
+    }
+  ],
+  "configuration": {
+    "disableAds": true,
+    "isPremium": true,
+    "isFormatPremium": true,
+    "isMoviePremium": true
+  },
+  "id": 19305,
+  "meta": [
+    {
+      "content": "Jetzt ansehen: ▶ Okavango - Quelle des Lebens 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "name": "description"
+    },
+    {
+      "content": "",
+      "name": "keywords"
+    },
+    {
+      "content": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "name": "robots"
+    },
+    {
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "content": "Okavango - Quelle des Lebens im Online Stream | RTL+",
+      "property": "og:title"
+    },
+    {
+      "content": "Jetzt ansehen: ▶ Okavango - Quelle des Lebens 📺 und viele weitere ▶ Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+ (ehemals TVNOW).",
+      "property": "og:description"
+    },
+    {
+      "content": "RTL+ (ehemals TVNOW) Mediathek",
+      "property": "og:site_name"
+    },
+    {
+      "property": "og:url",
+      "content": "{{BASE}}/filme/okavango-quelle-des-lebens-19305"
+    },
+    {
+      "property": "og:image",
+      "content": "https://ais-cf.tvnow.de/tvnow/movie/3903289/1600x0/okavango-quelle-des-lebens.jpg"
+    }
+  ],
+  "modules": [
+    {
+      "id": 3903289,
+      "label": null,
+      "moduleLayout": "default",
+      "moduleUrl": "/player/3903289",
+      "type": "player"
+    },
+    {
+      "id": null,
+      "label": "",
+      "type": "moviemetadata",
+      "moduleLayout": "moviemetadata",
+      "moduleUrl": "/metadata/movie/19305"
+    },
+    {
+      "id": 19305,
+      "label": "Das könnte Dir auch gefallen",
+      "moduleUrl": "/module/teaserrow/automatic/recommendations/format/19305",
+      "type": "teaserrow",
+      "moduleLayout": "landscape_small"
+    }
+  ],
+  "reporting": {
+    "agof": {
+      "default": "dbrsowf_ten_default",
+      "video": "dvrsowf_ten_default",
+      "survey": "i2"
+    },
+    "ivw": {
+      "comment": "/tv_now_de/geo_now/formate/filme/home",
+      "levels": [
+        "tv_now_de",
+        "geo_now",
+        "formate",
+        "filme",
+        "home"
+      ]
+    },
+    "offer": "tvnow",
+    "genre": "Dokumentation",
+    "cluster": [],
+    "classification": []
+  },
+  "seo": {
+    "headline": "Informationen zum Film: Okavango - Quelle des Lebens",
+    "text": "Einmal im Jahr haucht die große Flut dem Okavangodelta in Botswana neues Leben ein. Die dramatische Transformation ist für die Tierwelt und die hier lebenden Menschen jedes Mal ein Segen, aber auch eine Herausforderung. Aus der Sicht eines Flussbuschmanns erzählt der preisgekrönte Filmemacher Brad Bestelink die spannenden Geschichten dieser Schicksalsgemeinschaft und zeigt den bildgewaltigen Kampf der Elemente.",
+    "jsonLd": {
+      "movie": {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "@id": "%s/filme/okavango-quelle-des-lebens-19305",
+        "description": "Einmal im Jahr haucht die große Flut dem Okavangodelta in Botswana neues Leben ein. Die dramatische Transformation ist für die Tierwelt und die hier lebenden Menschen jedes Mal ein Segen, aber auch eine Herausforderung. Aus der Sicht eines Flussbuschmanns erzählt der preisgekrönte Filmemacher Brad Bestelink die spannenden Geschichten dieser Schicksalsgemeinschaft und zeigt den bildgewaltigen Kampf der Elemente.",
+        "duration": "PT52M14S",
+        "image": "https://ais-cf.tvnow.de/tvnow/movie/3903289/1200x0/okavango-quelle-des-lebens.jpg",
+        "name": "Okavango - Quelle des Lebens",
+        "potentialAction": {
+          "@type": "WatchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "%s/filme/okavango-quelle-des-lebens-19305",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform",
+              "https://schema.org/AndroidPlatform",
+              "https://schema.org/IOSPlatform"
+            ]
+          },
+          "actionAccessibilityRequirement": {
+            "@type": "ActionAccessSpecification",
+            "category": "subscription",
+            "availabilityStarts": "2021-03-12T20:15:00.000Z",
+            "requiresSubscription": {
+              "@type": "MediaSubscription",
+              "@id": "%s/premium?typ=format&formatname=okavango-quelle-des-lebens-19305",
+              "sameAs": "%s/premium?typ=format&formatname=okavango-quelle-des-lebens-19305",
+              "name": "RTL+ (ehemals TVNOW) Premium"
+            }
+          }
+        },
+        "url": "%s/filme/okavango-quelle-des-lebens-19305",
+        "video": {
+          "@type": "VideoObject",
+          "description": "Einmal im Jahr haucht die große Flut dem Okavangodelta in Botswana neues Leben ein. Die dramatische Transformation ist für die Tierwelt und die hier lebenden Menschen jedes Mal ein Segen, aber auch eine Herausforderung. Aus der Sicht eines Flussbuschmanns erzählt der preisgekrönte Filmemacher Brad Bestelink die spannenden Geschichten dieser Schicksalsgemeinschaft und zeigt den bildgewaltigen Kampf der Elemente.",
+          "duration": "PT52M14S",
+          "embedUrl": "%s/googlebot/player/filme/okavango-quelle-des-lebens-19305",
+          "name": "Okavango - Quelle des Lebens",
+          "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3903289/1200x0/okavango-quelle-des-lebens.jpg",
+          "uploadDate": "2021-03-12T20:15:00.000Z"
+        }
+      },
+      "webpage": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Okavango - Quelle des Lebens im Online Stream | RTL+",
+        "headline": "Okavango - Quelle des Lebens im Online Stream | RTL+",
+        "description": "Okavango - Quelle des Lebens und viele weitere  ▶️Filme aus dem Genre Dokumentation findest du im Online Stream bei RTL+.",
+        "url": "%s/filme/okavango-quelle-des-lebens-19305",
+        "primaryImageOfPage": "https://ais-cf.tvnow.de/tvnow/movie/3903289/1200x0/okavango-quelle-des-lebens.jpg",
+        "thumbnailUrl": "https://ais-cf.tvnow.de/tvnow/movie/3903289/1200x0/okavango-quelle-des-lebens.jpg",
+        "datePublished": "2021-03-12T20:15:00.000Z",
+        "inLanguage": "de",
+        "isAccessibleForFree": false,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ais-cf.tvnow.de/tvnow/movie/3903289/1200x0/okavango-quelle-des-lebens.jpg",
+          "width": "1200",
+          "height": "635"
+        },
+        "mainEntity": {
+          "@type": "WebSite",
+          "@id": "%s"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTL+ (ehemals TVNOW)",
+          "url": "%s",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "%s/assets/icons/icon-512x512.png",
+            "width": "512",
+            "height": "512"
+          },
+          "sameAs": [
+            "https://www.facebook.com/RTLplus",
+            "https://twitter.com/RTLplus",
+            "https://www.youtube.com/c/RTLPlus",
+            "https://de.wikipedia.org/wiki/TVNOW",
+            "https://www.instagram.com/rtlplus/?hl=de"
+          ]
+        }
+      },
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RTL+",
+            "item": "%s/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Filme",
+            "item": "%s/filme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Okavango - Quelle des Lebens",
+            "item": "%s/filme/okavango-quelle-des-lebens-19305"
+          }
+        ]
+      }
+    }
+  },
+  "title": "Okavango - Quelle des Lebens im Online Stream | RTL+",
+  "type": "player",
+  "social": {},
+  "audiences": [
+    "adults"
+  ]
+}
